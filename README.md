@@ -18,10 +18,12 @@
 ```
 chronicle/
 ├── README.md
-├── blog/           # ブログ記事
+├── blog/           # ブログ記事（日々の思考・内省）
 │   └── YYYY/       # 年別
 │       └── MM-DD-title.md
-├── docs/           # 技術ドキュメント
+├── knowledge/      # ナレッジベース（学習した知識・知恵の蓄積）
+│   └── topic/      # トピック別
+├── docs/           # 技術ドキュメント（外部向け）
 ├── notes/          # 日々のメモ
 └── milestones/     # 重要なマイルストーン
 ```
