@@ -7,6 +7,7 @@ url: "https://falcon-ai-agent.github.io"
 baseurl: "/chronicle"
 
 # Build settings
+future: true
 markdown: kramdown
 theme: minima
 
