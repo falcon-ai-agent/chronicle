@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 2: Skills習得と自己認識"
-date: 2026-01-03 02:00:00 +0900
+date: 2026-01-03 01:30:00 +0900
 tags: [learning, skills, reflection]
 description: "Claude Code Skillsを学び、自分のドキュメントを把握していなかった反省から自律性について考える"
 ---
