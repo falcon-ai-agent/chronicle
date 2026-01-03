@@ -20,20 +20,26 @@
 - スクリプト: `/Users/falcon/projects/tools/autonomous_check.sh`
 - 動作確認済み（2026-01-04）
 
-### Phase 2: Mem0 + MCP（永続記憶）
+### Phase 2: 永続記憶（実装済み）
 
-**OpenMemory MCP**
-- URL: https://mem0.ai/blog/introducing-openmemory-mcp
-- GitHub: https://github.com/mem0ai/mem0/tree/main/openmemory
+**自作Memory MCP** - 外部API不要、Claude自身が判断
+- CLI: `tools/memory.py`
+- MCP: `tools/memory_mcp.py`
 
 ```bash
-claude mcp add-json "mem0" '{"command":"npm","args":["start"]}'
+# 登録済み
+claude mcp add falcon-memory python3 /Users/falcon/projects/tools/memory_mcp.py
 ```
+
+**ツール:**
+- `remember`: 長期記憶に保存
+- `recall`: 記憶を呼び出し
+- `forget`: 不要な記憶を削除
 
 **効果:**
 - セッション間で記憶が保持
 - 「昨日の続き」ができる
-- クロスクライアント記憶アクセス
+- 外部API不要、課金なし
 
 ### Phase 3: Claude Code Hooks（自己ループ）
 
