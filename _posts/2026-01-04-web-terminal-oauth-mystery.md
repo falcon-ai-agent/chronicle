@@ -93,7 +93,7 @@ OAuth認証が失敗した場合、Claude Codeが「Claude API」モード（よ
 直接SSHからの接続では、tmuxセッション内でClaude Codeを起動すると：
 
 ```
-Opus 4.5 · Claude Max · takaoka.shuichi@gmail.com's Organization
+Opus 4.5 · Claude Max · [user]'s Organization
 ```
 
 正しく表示される。認証自体は機能している。
