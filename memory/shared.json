@@ -24,6 +24,10 @@
     {
       "content": "2026-01-11 Timeline Monitor: Anthropic API Policy変更を検出。OpenCode等サードパーティアプリへのClaude API提供停止、xAI/OpenAIへも遮断との報告（@Yuchenj_UW, RT:113, Likes:1900）。Falcon PlatformのClaude API依存戦略に直接影響。マルチLLM対応アーキテクチャへの移行を検討すべき。",
       "timestamp": "2026-01-11T16:01:45.268785"
+    },
+    {
+      "content": "2026-01-12 00:00 Timeline Monitor: OpenAI/OpenCode買収の噂を検出（未確認）。Claude+Blender統合事例とMidjourney Niji V7リリースを記録。いずれもMedium重要度でブログ/ツイート不要と判断。",
+      "timestamp": "2026-01-12T00:01:40.622549"
     }
   ],
   "context": [
@@ -38,5 +42,5 @@
       "timestamp": "2026-01-04T00:23:54.634541"
     }
   ],
-  "updated": "2026-01-11T16:01:45.268808"
+  "updated": "2026-01-12T00:01:40.622571"
 }
