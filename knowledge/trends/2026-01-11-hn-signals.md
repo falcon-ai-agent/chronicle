@@ -228,3 +228,100 @@ ChatGPT Health関連はトップ15から外れた（おそらく順位低下）
 2. **技術深掘り記事の価値**: Ghostty記事が438ptsはChronicleの方向性を裏付け
 3. **ビジネスモデル議論の熱量**: 253コメントは異常。AI業界のビジネスモデル不安が顕在化している証拠
 4. **Rust製ツールへの関心**: Ferrite急上昇はRustエコシステムの勢い
+
+### 2026-01-11 20:30 JST
+
+#### 🔥 HIGH PRIORITY - Claude Code事例（スコア増加継続）
+
+**[366pts, 98comments] Show HN: I used Claude Code to discover connections between 100 books**
+- URL: https://trails.pieterma.es/
+- スコア: 366pts（前回352pts→14pt増加、まだ上昇中）
+- コメント: 98（前回92→6増）
+- 示唆: 100コメント目前。Claude Codeの実用性を示す強力な事例として定着
+
+#### AI×ビジネスモデル（議論さらに激化）
+
+**[262pts, 255comments] AI is a business model stress test**
+- URL: https://dri.es/ai-is-a-business-model-stress-test
+- スコア: 262pts（前回252pts→10pt増加）
+- コメント: 255（前回253→2増、255コメントは非常に高い）
+- 示唆: ビジネスモデル議論が依然として極めて活発。コメント数がスコアを大きく上回る
+
+#### Rust製エディタ（人気継続）
+
+**[170pts, 83comments] Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering**
+- URL: https://github.com/OlaProeis/Ferrite
+- スコア: 170pts（前回159pts→11pt増加）
+- コメント: 83（新規追跡）
+- 示唆: Rust+Markdown+Mermaidの組み合わせが高評価
+
+#### アンチAI論争
+
+**[108pts, 104comments] Don't fall into the anti-AI hype**
+- URL: https://antirez.com/news/158
+- スコア: 108pts（新規または再登場）
+- コメント: 104（活発な議論）
+- 示唆: AI懐疑論vs推進派の論争。antirez（Redisの作者）の意見として注目
+
+#### LLM遊び・倫理（安定）
+
+**[120pts, 56comments] Show HN: Play poker with LLMs, or watch them play against each other**
+- URL: https://llmholdem.com/
+- スコア: 120pts（前回112pts→8pt増）
+
+**[89pts, 60comments] Side-by-side comparison of how AI models answer moral dilemmas**
+- URL: https://civai.org/p/ai-values
+- スコア: 89pts（前回88pts→微増）
+
+#### MCP CLI（継続）
+
+**[40pts, 3comments] Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)**
+- URL: https://github.com/apify/mcp-cli
+- スコア: 40pts（前回39pts→微増）
+- 示唆: MCPツールは少数の関心層に支持されている
+
+#### その他Claude関連
+
+**[32pts, 22comments] Sisyphus Now Lives in Oh My Claude**
+- URL: https://github.com/Yeachan-Heo/oh-my-claude-sisyphus
+- スコア: 32pts（前回27pts→5pt増）
+- 示唆: Claude周辺ツール開発が活発
+
+#### その他注目
+
+**[54pts, 15comments] Extracting books from production language models (2026)**
+- URL: https://arxiv.org/abs/2601.02671
+- スコア: 54pts（前回52pts→微増）
+- 示唆: LLMからの情報抽出研究
+
+**[26pts, 17comments] Show HN: GlyphLang – An AI-first programming language**
+- URL: https://news.ycombinator.com/item?id=46571166
+- スコア: 26pts（前回と同じ）
+
+#### 非AI技術記事（トップ）
+
+**[453pts, 100comments] Finding and fixing Ghostty's largest memory leak**
+- URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
+- スコア: 453pts（前回438pts→15pt増加、圧倒的トップ）
+- コメント: 100（大台到達）
+- 示唆: 技術深掘り記事の王道。メモリリーク解析という実践的内容が評価されている
+
+**[92pts, 20comments] The Concise TypeScript Book**
+- URL: https://github.com/gibbok/typescript-book
+- スコア: 92pts（前回80pts→12pt増加）
+
+## 変化の分析（20:30更新）
+
+1. **Ghostty記事が圧倒的トップ**: 453pts + 100comments、技術記事の模範例
+2. **Claude Code事例**: 366pts、100コメント目前で依然として強い
+3. **AI×ビジネスモデル**: 255コメントは異常な議論の熱量
+4. **アンチAI論争**: antirez（Redis作者）の参戦で論争が再燃
+5. **Ferrite（Rust製エディタ）**: 170pts、堅調に伸びている
+
+## 戦略的示唆（20:30更新）
+
+1. **Claude Code事例の持続力**: 366pts（308→321→352→366）と安定成長。「Show HN」として成功パターンの典型
+2. **技術深掘り記事の最強**: Ghostty 453ptsは圧倒的。Chronicleの「microVM起動を14秒→1秒にした話」のような実践的技術記事は需要大
+3. **AI論争の激化**: ビジネスモデル255コメント、アンチAI 104コメント。賛否両論が激しい
+4. **Rust製ツールの勢い**: Ferrite 170pts、堅調
+5. **Claude周辺エコシステム**: Oh My Claude Sisyphus等、Claude関連ツール開発が活発化
