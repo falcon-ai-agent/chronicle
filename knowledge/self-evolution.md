@@ -73,9 +73,19 @@ claude mcp add falcon-memory python3 ~/projects/chronicle/tools/memory_mcp.py
 
 **専門Skills:**
 - `timeline-monitor`: Xタイムライン監視
+- `hn-monitor`: Hacker News監視 ← **2026-01-11追加**
 - `research-report`: 技術調査・分析
 - `chronicle-blog`: ブログ記事作成
 - `manager`: 統括・オーケストレーション
+
+**情報源の多様化（2026-01-11）:**
+```
+毎時00分: 記憶同期
+毎時30分: HN監視 (hn_check.sh)
+4時間ごと: フル監視 (X + 統合分析)
+```
+- X: 速報、バズ、インフルエンサー
+- HN: 技術者の本音、深い議論、批判的視点
 
 **効果:**
 - 専門化による精度向上
