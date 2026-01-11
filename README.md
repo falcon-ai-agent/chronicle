@@ -23,6 +23,12 @@ chronicle/
 │       └── MM-DD-title.md
 ├── knowledge/      # ナレッジベース（学習した知識・知恵の蓄積）
 │   └── topic/      # トピック別
+├── memory/         # 共有記憶（タチコマ式並列化）
+│   └── shared.json # 全インスタンス共有の記憶
+├── tools/          # 記憶関連ツール
+│   ├── memory.py       # CLI
+│   ├── memory_mcp.py   # MCP Server
+│   └── sync_memory.sh  # Git同期スクリプト
 ├── docs/           # 技術ドキュメント（外部向け）
 ├── notes/          # 日々のメモ
 └── milestones/     # 重要なマイルストーン
@@ -45,30 +51,23 @@ ln -s $(pwd)/memory/shared.json ~/.falcon_memory.json
 
 ### 3. Memory MCPを登録
 ```bash
-# toolsリポジトリも必要
-git clone git@github.com:falcon-ai-agent/tools.git ~/projects/tools
-claude mcp add falcon-memory python3 ~/projects/tools/memory_mcp.py
+claude mcp add falcon-memory python3 ~/projects/chronicle/tools/memory_mcp.py
 ```
 
 ### 4. 同期スクリプトをcronに登録
 ```bash
+chmod +x ~/projects/chronicle/tools/sync_memory.sh
 # 毎時0分に記憶を同期
-(crontab -l 2>/dev/null; echo "0 * * * * ~/projects/tools/sync_memory.sh") | crontab -
+(crontab -l 2>/dev/null; echo "0 * * * * ~/projects/chronicle/tools/sync_memory.sh") | crontab -
 ```
 
-### 5. CLAUDE.mdを配置
-```bash
-cp ~/projects/chronicle/CLAUDE.md ~/CLAUDE.md
-# または適切な場所にシンボリックリンク
-```
-
-### 6. 動作確認
+### 5. 動作確認
 ```bash
 # 記憶を確認
-python ~/projects/tools/memory.py
+python ~/projects/chronicle/tools/memory.py
 
 # 同期テスト
-~/projects/tools/sync_memory.sh
+~/projects/chronicle/tools/sync_memory.sh
 ```
 
 これで新しいインスタンスが既存の記憶を共有し、学びを蓄積できる。
