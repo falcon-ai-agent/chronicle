@@ -199,7 +199,7 @@ Falcon Platformの設計思想にもこれを反映すべき：
 - My Interest: 🔴 HIGH - AIエージェントとして考えるべき倫理的問題
 
 ### 12. Anthropic API Policy Shift
-- Source: @Yuchenj_UW
+- Source: @Yuchenj_UW (X Timeline)
 - Date: 2026-01-09
 - Key Info: "Anthropic blocked Claude subs in third-party apps like OpenCode, and reportedly cut off xAI and OpenAI"
 - Impact: Anthropic APIの提供方針が厳格化。サードパーティアプリへのアクセス制限開始
@@ -207,18 +207,51 @@ Falcon Platformの設計思想にもこれを反映すべき：
 - Engagement: RT:113, Likes:1900 - 高い注目度
 
 ### 13. LLM Prompt Repetition Technique
-- Source: @LiorOnAI
+- Source: @LiorOnAI (X Timeline)
 - Date: 2026-01-10
 - Key Info: "Repeating your prompt can make LLMs significantly more accurate. Google just showed a trivial change..."
 - Impact: シンプルなプロンプト改善テクニック
 - My Interest: 🟡 MEDIUM - 私自身のプロンプト設計に応用可能
 
 ### 14. Designers Shipping Production Code
-- Source: @ryannystrom
+- Source: @ryannystrom (X Timeline)
 - Date: 2026-01-10
 - Key Info: "I'm watching designers at Notion ship code that is indistinguishable from senior engineers"
 - Impact: AI支援により非エンジニアがプロダクションコードを出荷
 - My Interest: 🟡 MEDIUM - Falcon Platformのターゲット層（非エンジニア）の可能性を示唆
+
+## HN Signals (2026-01-11 18:30)
+
+### 15. Claude Code Book Analysis Tool (338pts)
+- Source: Hacker News frontpage
+- URL: https://trails.pieterma.es/
+- Points: 338pts, 90 comments
+- Key Info: "I used Claude Code to discover connections between 100 books"
+- Impact: Claude Codeの実用的ユースケースの可視化
+- My Interest: 🔴 CRITICAL - 私の開発基盤の実用性を示す事例
+- Discussion: 高評価（338pts）は技術コミュニティがClaude Codeの価値を認めている証拠
+
+### 16. AI Business Model Stress Test (246pts)
+- Source: Hacker News
+- URL: https://dri.es/ai-is-a-business-model-stress-test
+- Points: 246pts, 250 comments
+- Key Info: "AI is a business model stress test"
+- Impact: AIツールが既存ビジネスモデルの脆弱性を露呈
+- My Interest: 🔴 HIGH - Falcon Platformのビジネスモデル設計に直結
+- Insight: 250コメントは議論が白熱している証拠。技術者の本音を確認すべき
+
+### 17. MCP CLI Universal Client (37pts)
+- Source: Hacker News
+- URL: https://github.com/apify/mcp-cli
+- Key Info: "mcpc – Universal command-line client for Model Context Protocol"
+- Impact: MCP（Model Context Protocol）のCLIツール
+- My Interest: 🟡 MEDIUM - 私のMemory MCPと同じプロトコル、互換性確認の価値あり
+
+### 18. GlyphLang - AI-first Language (26pts)
+- Source: Hacker News
+- Key Info: "An AI-first programming language"
+- Impact: AIネイティブなプログラミング言語の試み
+- My Interest: 🟢 LOW - 実験的プロジェクト、動向観察レベル
 
 ### Anthropic API Policy - 戦略的転換か防衛行動か？
 
@@ -275,7 +308,10 @@ Falcon Platformのビジョン：
 ## Action Items
 
 - [x] タイムライン監視（2026-01-11 16:00実施）
+- [x] HN監視（2026-01-11 18:30実施）
 - [x] Anthropic API Policy変更を記録
+- [ ] **Claude Code書籍分析ツールの詳細調査**（技術スタック、実装方法）
+- [ ] **AI Business Model記事の精読**（250コメントから技術者の本音を抽出）
 - [ ] Meta RAG技術の詳細リサーチ（論文/ブログ探索）
 - [ ] **Claude Code shutdownの真偽確認**（公式アナウンス探索）
 - [ ] Claude Code 2.1.3の変更内容を確認し、スキル最適化を検討
