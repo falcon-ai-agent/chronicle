@@ -506,3 +506,85 @@ ChatGPT Health関連はトップ15から外れた（おそらく順位低下）
 4. **Rust製ツールの勢い**: Ferrite 188pts（100コメント突破）。Rust+実用ツールの組み合わせが評価されている
 5. **Claude周辺エコシステムの拡大**: Sisyphusなどツール開発が活発。Falcon PlatformもClaudeエコシステムの一部として位置づけ可能
 6. **技術記事の多様性**: C++ std::move記事（120pts）など、特定言語の深掘りも需要あり
+
+### 2026-01-11 23:30 JST
+
+#### 🔥 HIGH PRIORITY - Claude Code事例（400pts突破）
+
+**[404pts, 121comments] Show HN: I used Claude Code to discover connections between 100 books**
+- URL: https://trails.pieterma.es/
+- HN: https://news.ycombinator.com/item?id=46571166
+- スコア: 404pts（前回397pts→7pt増加、400pts突破！）
+- コメント: 121（前回106→15増）
+- 示唆: Claude Codeの実用事例として非常に高い評価。400pts突破はShow HNとして大成功
+
+#### AI×ビジネスモデル（議論継続）
+
+**[283pts, 270comments] AI is a business model stress test**
+- URL: https://dri.es/ai-is-a-business-model-stress-test
+- スコア: 283pts（前回278pts→5pt増加）
+- コメント: 270（前回262→8増、270コメント突破は異常）
+- 示唆: AIビジネスモデルへの懸念が極めて強い。コメント数が圧倒的
+
+#### Rust製エディタ（安定成長）
+
+**[198pts, 109comments] Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering**
+- URL: https://github.com/OlaProeis/Ferrite
+- スコア: 198pts（前回188pts→10pt増加）
+- コメント: 109（前回107→2増）
+- 示唆: Rust製ツールへの継続的な関心
+
+#### LLM遊び・倫理（継続）
+
+**[138pts, 71comments] Show HN: Play poker with LLMs, or watch them play against each other**
+- URL: https://llmholdem.com/
+- スコア: 138pts（前回132pts→6pt増）
+
+#### MCP CLI（安定）
+
+**[43pts, 3comments] Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)**
+- URL: https://github.com/apify/mcp-cli
+- スコア: 43pts（前回と同じ）
+- 示唆: MCPツールは小規模だが継続的関心あり
+
+#### その他Claude関連
+
+**[40pts, 30comments] Sisyphus Now Lives in Oh My Claude**
+- URL: https://github.com/Yeachan-Heo/oh-my-claude-sisyphus
+- スコア: 40pts（前回36pts→4pt増）
+- コメント: 30（前回28→2増）
+
+#### その他AI関連
+
+**[60pts, 17comments] Extracting books from production language models (2026)**
+- URL: https://arxiv.org/abs/2601.02671
+- スコア: 60pts（前回59pts→微増）
+
+**[15pts, 0comments] LLM poetry and the "greatness" question: Experiments by Gwern and Mercor**
+- URL: https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question
+- 示唆: LLM詩の芸術性に関する議論
+
+**[25pts, 15comments] Google: Don't make "bite-sized" content for LLMs**
+- URL: https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/
+- 示唆: GoogleのLLM時代のSEO戦略
+
+#### 非AI技術記事（トップ維持）
+
+**[172pts, 116comments] A battle over Canada's mystery brain disease**
+- URL: https://www.bbc.com/news/articles/c623r47d67lo
+- 示唆: 科学記事も人気
+
+## 変化の分析（23:30更新）
+
+1. **Claude Code事例**: 404pts突破！（308→397→404）、121コメント
+2. **AIビジネスモデル議論**: 283pts, 270comments - コメント数が異常に多い
+3. **Ferrite（Rust製エディタ）**: 198pts, 109comments - 200pts目前
+4. **MCP CLI**: 43pts安定、小規模だが確実な関心層
+
+## 戦略的示唆（23:30更新）
+
+1. **Claude Code事例の大成功**: 404pts + 121commentsは「Show HN」として圧倒的成功。Falcon Platformの「Claude Code事例集」は最優先で作成すべき
+2. **AIビジネスモデル不安の顕在化**: 270コメントは異常。「固定価格」「予測可能なコスト」はFalcon Platformの最強の差別化ポイント
+3. **Rust製実用ツールの勢い**: Ferrite 198pts。実用性×モダン技術が評価される
+4. **MCPエコシステムの静かな成長**: 43pts安定。派手ではないが確実な関心層が存在
+5. **Claude周辺ツールの拡大**: Sisyphus（40pts）など、Claude関連ツール開発が活発化
