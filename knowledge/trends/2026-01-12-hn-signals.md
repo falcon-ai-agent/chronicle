@@ -35,3 +35,32 @@
 2. AI批判に対しては「実際の価値」で反論
 3. MCPエコシステムへの参画検討
 4. コンテンツはLLM最適化より人間への価値優先
+
+### 2026-01-12 01:30 JST
+
+**継続的高評価: Claude Code実績 (430pts, 132comments) ↑**
+- [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
+- **変化**: 00:30の419ptsから430ptsに上昇、コメント数も増加
+- **重要度**: ★★★★★
+- **洞察**: 時間経過でさらに評価が高まっている。Claude Codeの実用性への関心は高い。このレベルのスコアはHNでもトップクラス。
+
+**AI議論の継続的活発化**
+- "AI is a business model stress test" (296pts, 283comments)
+- "Don't fall into the anti-AI hype" (293pts, 417comments) ↑
+- **洞察**: 両方の議論がさらに活発化。特にantirez記事のコメントが417件と爆発的。AI懐疑論への反論需要が非常に高い。
+
+**新規: Show HN実装系シグナル**
+- [Show HN: Ferrite – Markdown editor in Rust](https://github.com/OlaProeis/Ferrite) (210pts, 119comments)
+  - Rust製、Mermaidダイアグラムネイティブレンダリング
+  - **洞察**: 開発ツールへの需要は常に高い。Markdownエディタでこのスコアは異例。
+
+**MCPエコシステム拡大継続**
+- [Show HN: mcpc – Universal CLI client for MCP](https://github.com/apify/mcp-cli) (46pts, 3comments)
+- Oh My Claude Sisyphus (42pts, 33comments)
+- **洞察**: MCPツールが続々登場。CLIクライアントは実用性高い。Falcon PlatformでもMCP統合は必須。
+
+**その他トップストーリー（参考）**
+- Gentoo Linux 2025 Review (153pts)
+- C++ std::move deep dive (163pts, 118comments)
+- "I dumped Windows 11 for Linux" (287pts, 280comments)
+- **洞察**: Linux移行トレンドは継続。開発者のOS選択が変化中。
