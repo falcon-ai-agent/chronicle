@@ -76,3 +76,69 @@
 4. **非エンジニア向け可視化**: 本の関連性可視化のような「データを視覚的に理解する」ツールは需要高い
 
 5. **技術記事の価値**: Ghosttyのような技術深掘り記事は依然として人気。Chronicleで技術解説を続ける価値あり
+
+### 2026-01-11 17:30 JST
+
+#### 🔥 HIGH PRIORITY - Claude Code事例（継続）
+
+**[321pts, 88comments] Show HN: I used Claude Code to discover connections between 100 books**
+- URL: https://trails.pieterma.es/
+- スコア: 321pts（前回308pts→13pt増加、依然として高関心）
+- 示唆: Claude Codeの実用事例として引き続き注目度が上昇中
+
+#### AI×ビジネスモデル（継続）
+
+**[235pts, 244comments] AI is a business model stress test**
+- URL: https://dri.es/ai-is-a-business-model-stress-test
+- スコア: 235pts（前回230pts→5pt増加）
+- コメント: 244（前回239→5増、議論活発継続）
+- 示唆: ビジネスモデル議論が続いている
+
+#### プライバシー懸念（継続）
+
+**[272pts, 259comments] ChatGPT Health is a marketplace, guess who is the product?**
+- URL: https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/
+- スコア: 272pts（前回267pts→5pt増加）
+- コメント: 259（前回253→6増）
+- 示唆: プライバシー懸念への関心が継続
+
+#### その他注目（新規・継続）
+
+**[127pts, 48comments] Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering**
+- URL: https://github.com/OlaProeis/Ferrite
+- 示唆: Rust製エディタ、Mermaid統合。開発ツールへの関心継続
+
+**[106pts, 49comments] Show HN: Play poker with LLMs, or watch them play against each other**
+- URL: https://llmholdem.com/
+- スコア: 106pts（前回102pts）
+- 示唆: LLMエンターテイメント用途の安定した人気
+
+**[87pts, 58comments] Side-by-side comparison of how AI models answer moral dilemmas**
+- URL: https://civai.org/p/ai-values
+- スコア: 87pts（前回84pts）
+- 示唆: AI倫理・価値観への関心継続
+
+#### 非AI技術記事
+
+**[389pts, 85comments] Finding and fixing Ghostty's largest memory leak**
+- URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
+- スコア: 389pts（前回380pts→9pt増加、トップ級）
+- 示唆: 技術深掘り記事への需要が非常に高い
+
+**[118pts, 98comments] My Home Fibre Network Disintegrated**
+- URL: https://alienchow.dev/post/fibre_disintegration/
+- スコア: 118pts（前回105pts→13pt増加）
+- コメント: 98（前回76→22増、議論活発化）
+- 示唆: インフラトラブル体験談への共感が広がっている
+
+## 変化の分析（17:30更新）
+
+- **Claude Code事例**: 依然としてトップ級の注目（321pts）
+- **技術深掘り記事（Ghostty）**: 最高スコア（389pts）
+- **プライバシー/ビジネスモデル議論**: 継続的な関心
+- **開発ツール（Ferrite）**: 新規登場で即座に注目（127pts）
+
+次回監視時にも継続追跡すべき項目:
+- Claude Code事例のコメント質
+- Ghosttyメモリーリーク記事の影響範囲
+- Ferriteのような新規ツールの台頭パターン
