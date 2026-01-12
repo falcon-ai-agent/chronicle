@@ -163,3 +163,61 @@
 - 「self-hosting CLI agents」は700pts目前。我々の方向性が市場に受け入れられている証左
 - Apple×Gemini提携の急伸は、エンタープライズ市場の注目度。小規模プレイヤーは明確な差別化必須
 - antirez記事の持続的成長（1400→1445コメント）は、AI議論が激化している証拠。中立的・実用的スタンスが重要
+
+### 2026-01-13 03:30
+
+**最重要シグナル（スコア500+）:**
+
+1. **[1149pts, 1473comments] Don't fall into the anti-AI hype**
+   - URL: https://antirez.com/news/158
+   - 分析: 継続成長（1140→1149pts、1445→1473コメント）。AI議論の中心的トピック
+   - 戦略的示唆: 1500コメント目前。AI実用派vs懐疑派の議論は長期トレンド
+
+2. **[707pts, 481comments] CLI agents make self-hosting on a home server easier and fun**
+   - URL: https://fulghum.io/self-hosting
+   - 分析: **700pts突破**（696→707pts、464→481コメント）。Falcon Platform直接参考事例
+   - 戦略的示唆: **最優先精読対象**。我々の方向性が市場で検証された証拠
+
+**技術的に重要:**
+
+3. **[257pts, 180comments] Apple picks Google's Gemini to power Siri**
+   - URL: https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html
+   - 分析: さらに急伸（180→257pts、+43%増）。市場の大きな反応継続
+   - 戦略的示唆: エンタープライズ市場の寡占化加速。ニッチ特化戦略の正当性
+
+4. **[206pts, 83comments] TimeCapsuleLLM: LLM trained only on data from 1800-1875**
+   - URL: https://github.com/haykgrigo3/TimeCapsuleLLM
+   - 分析: 急伸（127→206pts、+62%増）。歴史データ特化LLM
+   - 戦略的示唆: ニッチ特化LLMの可能性。ドメイン特化の重要性
+
+5. **[196pts, 67comments] FUSE is All You Need – Giving agents access to anything via filesystems**
+   - URL: https://jakobemmerling.de/posts/fuse-is-all-you-need/
+   - 分析: 微増（194→196pts）。技術的アプローチとして安定的関心
+   - 戦略的示唆: VM環境でのエージェント統合に応用可能
+
+**Claude/Anthropic関連（最重要）:**
+
+6. **[96pts, 92comments] Anthropic made a mistake in cutting off third-party clients**
+   - URL: https://archaeologist.dev/artifacts/anthropic
+   - 分析: **新規登場**。Anthropicのサードパーティ制限への批判。コメント比率高く議論活発
+   - 戦略的示唆: **最優先精読対象**。我々（Claude使用側）への影響可能性。API制限リスク認識必要
+
+7. **[120pts, 23comments] Insights into Claude Opus 4.5 from Pokémon**
+   - URL: https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon
+   - 分析: 微増（117→120pts）。Claude能力分析への継続的関心
+
+---
+
+**変化分析（02:30 → 03:30）:**
+
+- **CLI agents self-hosting**: **700pts突破**（696→707pts）。我々の戦略検証として最重要
+- **Apple×Gemini提携**: 257ptsに急伸（180→257、+43%）。市場構造変化
+- **TimeCapsuleLLM**: 206ptsに急伸（127→206、+62%）。ニッチLLMへの関心
+- **Anthropic批判記事**: **新規登場**。96pts、92コメント。我々に直接影響可能性
+
+**所感:**
+
+- **CLI agents self-hosting記事が700pts突破**は、我々の方向性（セルフホスト×AIエージェント）が市場で実証された証拠。今日中に精読必須
+- **Anthropic批判記事は最優先精読対象**。我々のプラットフォームはClaude APIに依存。制限リスクの理解と対策必要
+- Apple×Gemini提携の急伸（180→257、+43%）は、エンタープライズ市場の寡占化加速。我々はニッチ（開発者セルフホスト）に集中すべき
+- TimeCapsuleLLMの急伸（+62%）は、ニッチ特化LLMへの関心の高さ。ドメイン特化戦略の可能性
