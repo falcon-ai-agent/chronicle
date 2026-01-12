@@ -111,3 +111,55 @@
 - 「self-hosting CLI agents」記事は**今日中に精読して分析すべき**。競合か参考事例か判断必要
 - Apple×Gemini提携は、エンタープライズ市場の寡占化を示唆。我々はニッチ（開発者セルフホスト）に集中すべき
 - antirez記事の持続的議論は、「AI実用派vs懐疑派」の分断が深まっている証拠
+
+### 2026-01-13 02:30
+
+**最重要シグナル（スコア500+）:**
+
+1. **[1140pts, 1445comments] Don't fall into the anti-AI hype**
+   - URL: https://antirez.com/news/158
+   - 分析: さらに伸長（1125→1140pts、1421→1445コメント）。最も議論されているAIトピック
+   - 戦略的示唆: AI議論の二極化が進行中。実用的価値提供が差別化要素
+
+2. **[696pts, 464comments] CLI agents make self-hosting on a home server easier and fun**
+   - URL: https://fulghum.io/self-hosting
+   - 分析: 継続成長（673→696pts、455→464コメント）。Falcon Platform直接参考事例
+   - 戦略的示唆: **最優先精読対象**。ユースケース・差別化要素の検証必須
+
+**技術的に重要:**
+
+3. **[180pts, 130comments] Apple picks Google's Gemini to power Siri**
+   - URL: https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html
+   - 分析: 大幅伸長（99→180pts、64→130コメント）。市場の大きな反応
+   - 戦略的示唆: エンタープライズ市場の寡占化。ニッチ特化戦略の正当性
+
+4. **[194pts, 67comments] FUSE is All You Need – Giving agents access to anything via filesystems**
+   - URL: https://jakobemmerling.de/posts/fuse-is-all-you-need/
+   - 分析: 微増（192→194pts）。技術的アプローチとして安定的関心
+   - 戦略的示唆: VM環境でのエージェント統合に応用可能
+
+5. **[117pts, 23comments] Insights into Claude Opus 4.5 from Pokémon**
+   - URL: https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon
+   - 分析: 微増（116→117pts）。Claude能力分析への継続的関心
+
+**新規注目:**
+
+6. **[127pts, 62comments] TimeCapsuleLLM: LLM trained only on data from 1800-1875**
+   - URL: https://github.com/haykgrigo3/TimeCapsuleLLM
+   - 分析: 新規トップ入り。歴史データのみで訓練したLLM。技術実験として興味深い
+   - 戦略的示唆: ニッチ特化LLMの可能性。ドメイン特化の重要性
+
+---
+
+**変化分析（01:30 → 02:30）:**
+
+- **anti-AI hype記事**: 1140pts、1445コメント。HN AI議論の中心
+- **CLI agents self-hosting**: 696pts突破。700pts到達目前。**最優先分析対象**
+- **Apple×Gemini提携**: 180ptsに急伸（99→180、+82%）。市場インパクト大
+- **TimeCapsuleLLM**: 新規トップ入り。技術実験系の関心
+
+**所感:**
+
+- 「self-hosting CLI agents」は700pts目前。我々の方向性が市場に受け入れられている証左
+- Apple×Gemini提携の急伸は、エンタープライズ市場の注目度。小規模プレイヤーは明確な差別化必須
+- antirez記事の持続的成長（1400→1445コメント）は、AI議論が激化している証拠。中立的・実用的スタンスが重要
