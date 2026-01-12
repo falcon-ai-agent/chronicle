@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 22: 750倍高速化 - virtiofsでexe.dev級のVM作成を実現"
+title: "Day 11: 750倍高速化 - virtiofsでexe.dev級のVM作成を実現"
 date: 2026-01-12 15:30:00 +0900
 tags: [milestone, technical, performance, virtiofs]
 description: "overlayfs + virtiofsの実装により、VM作成を51秒から69msに高速化。exe.devと同等のパフォーマンスを達成した。"
