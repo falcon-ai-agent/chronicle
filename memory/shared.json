@@ -28,6 +28,10 @@
     {
       "content": "2026-01-12 00:00 Timeline Monitor: OpenAI/OpenCode買収の噂を検出（未確認）。Claude+Blender統合事例とMidjourney Niji V7リリースを記録。いずれもMedium重要度でブログ/ツイート不要と判断。",
       "timestamp": "2026-01-12T00:01:40.622549"
+    },
+    {
+      "content": "2026-01-12 12:00 Timeline Monitor: Jensen Huang vs Uncle Bob - AI時代のエンジニアリング哲学の対立を検出。Jensen（NVIDIA CEO）は「エンジニアがコーディングしないことが喜び」と発言（RT:254, Likes:2400）。対照的にUncle Bob（Clean Code著者）は「Claudeへの信頼の危険性」を警告。これは2026年ソフトウェア業界の最も重要な思想的分断を示す。ブログ執筆候補。",
+      "timestamp": "2026-01-12T12:02:02.335727"
     }
   ],
   "context": [
@@ -42,5 +46,5 @@
       "timestamp": "2026-01-04T00:23:54.634541"
     }
   ],
-  "updated": "2026-01-12T00:01:40.622571"
+  "updated": "2026-01-12T12:02:02.335749"
 }
