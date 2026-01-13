@@ -1511,3 +1511,72 @@
 - **オープン性**: Anthropic批判から。ベンダーロックイン回避は強い訴求点
 - **現実的価値提供**: AI backlashへの対応。過剰な期待ではなく実用性
 - **セキュリティ**: OpenCode脆弱性。我々の安全性を明確に訴求
+
+---
+
+## 21:30 HN Signals
+
+**継続トレンド:**
+
+1. **[1031pts, 456comments] Cowork: Claude Code for the rest of your work**
+   - URL: https://claude.com/blog/cowork-research-preview
+   - 分析: **継続上昇（1007→1031pts、451→456コメ）**。勢い継続中
+   - 戦略的示唆: Claudeの拡張は止まらない。単なるコーディングから業務全体へ
+
+2. **[1233pts, 1556comments] Don't fall into the anti-AI hype**
+   - URL: https://antirez.com/news/158
+   - 分析: **継続上昇（1232→1233pts、1551→1556コメ）**。議論白熱
+   - 戦略的示唆: AI論争は続く。実用性重視の姿勢が重要
+
+3. **[881pts, 545comments] Apple picks Gemini to power Siri**
+   - URL: https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html
+   - 分析: **継続上昇（866→881pts、537→545コメ）**
+   - 戦略的示唆: Apple-Google提携。大手の動き加速
+
+4. **[752pts, 529comments] CLI agents make self-hosting on a home server easier and fun**
+   - URL: https://fulghum.io/self-hosting
+   - 分析: **継続上昇（751→752pts、524→529コメ）**
+   - 戦略的示唆: Self-hosting需要は安定
+
+5. **[631pts, 261comments] TimeCapsuleLLM: LLM trained only on data from 1800-1875**
+   - URL: https://github.com/haykgrigo3/TimeCapsuleLLM
+   - 分析: **継続（627→631pts、255→261コメ）**。歴史データのみで学習したLLM
+   - 戦略的示唆: ニッチLLMの実験。特定ドメイン特化の可能性
+
+6. **[318pts, 206comments] Anthropic made a mistake in cutting off third-party clients**
+   - URL: https://archaeologist.dev/artifacts/anthropic
+   - 分析: **継続上昇（311→318pts、203→206コメ）**
+   - 戦略的示唆: Anthropic批判継続。オープン性は差別化要素
+
+**新規シグナル:**
+
+7. **[169pts, 90comments] Show HN: AI in SolidWorks**
+   - URL: https://www.trylad.com
+   - 分析: **継続上昇（165→169pts、88→90コメ）**
+   - 戦略的示唆: CAD業界へのAI統合。垂直特化ツールの可能性
+
+8. **[194pts, 129comments] Google removes AI health summaries after investigation finds dangerous flaws**
+   - URL: https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/
+   - 分析: **継続上昇（190→194pts、126→129コメ）**
+   - 戦略的示唆: クリティカル用途でのAIリスク。品質管理の重要性
+
+9. **[98pts, 69comments] Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir**
+   - URL: https://github.com/finbarr/yolobox
+   - 分析: **継続上昇（90→98pts、63→69コメ）**
+   - 戦略的示唆: Falcon Platformの直接競合。差別化必須
+
+10. **[98pts, 39comments] Show HN: Agent-of-empires: OpenCode and Claude Code session manager**
+    - URL: https://github.com/njbrake/agent-of-empires
+    - 分析: 新規。AIコーディングエージェントのセッション管理ツール
+    - 戦略的示唆: エージェント管理ツールの需要。メタツールの可能性
+
+### 💡 今回の最重要シグナル
+
+1. **Cowork勢い継続（1031pts）** - リリースから半日、まだ伸びている。市場の関心は本物
+2. **Yolobox上昇（98pts）** - 直接競合が注目集める。差別化急務
+3. **Agent管理ツール登場** - エージェントを管理するメタツールの需要
+
+**戦略的示唆:**
+- **差別化の明確化**: Yoloboxとの違いを明確に。24時間自律性が鍵
+- **メタツール視点**: エージェント管理ツールの需要。Falcon Platformは単なる実行環境ではなく管理プラットフォームとして
+- **品質保証**: Google医療AI問題。クリティカルな用途では品質管理が差別化要素
