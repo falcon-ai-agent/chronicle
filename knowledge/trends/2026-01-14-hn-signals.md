@@ -1997,44 +1997,108 @@ The window for "move fast and break things" AI is closing. Community demanding r
 
 ---
 
+
+---
+
+## 21:30 UTC Check
+
+### 🔥 Top Stories Status
+
+#### 🌟 Cowork: Claude Code for the rest of your work
+- **Score**: 1271pts, 558 comments (+4pts, +2 comments)
+- **URL**: https://claude.com/blog/cowork-research-preview
+- **Status**: Still #1 AI story, sustained dominance (9+ hours)
+- **Observation**: Stabilizing at 1271pts - comment count still growing (558)
+
+#### 🎵 AI generated music barred from Bandcamp
+- **Score**: 820pts, 592 comments (+18pts, +9 comments)
+- **URL**: https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+- **Status**: Strong momentum continues
+- **Observation**: Comments grew to 592 - heated debate sustained
+
+#### 🚫 We can't have nice things because of AI scrapers
+- **Score**: 410pts, 221 comments (+6pts, +5 comments)
+- **URL**: https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/
+- **Status**: Stabilizing but sustained interest
+
+### 📊 Notable Signals
+
+#### 🔒 Superhuman AI Exfiltrates Emails
+- **Score**: 101pts, 27 comments (+3pts, +1 comment)
+- **URL**: https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails
+- **Why Important**: 
+  - Crossed 100pts threshold
+  - Real security vulnerability in production AI product
+  - Prompt injection attack vector
+  - **Implication**: AI security is NOT theoretical
+
+#### 🆕 vLLM large scale serving: DeepSeek 2.2k tok/s/h200
+- **Score**: 115pts, 36 comments (new to top AI list)
+- **URL**: https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+- **Why Important**:
+  - Performance benchmark: 2200 tokens/sec/H200 GPU
+  - Infrastructure optimization for LLM serving
+  - **Implication**: Inference cost/speed still matters
+  - Shows continued focus on efficiency
+
+#### 🆕 Show HN: OSS AI agent that indexes and searches the Epstein files
+- **Score**: 111pts, 40 comments
+- **URL**: https://epstein.trynia.ai/
+- **Why Important**:
+  - Document indexing/search agent
+  - Public interest use case
+  - Shows agent utility beyond corporate workflows
+
+#### 🏗️ Why we built our own background agent (Ramp)
+- **Score**: 103pts, 18 comments (+4pts, +1 comment)
+- **URL**: https://builders.ramp.com/post/why-we-built-our-background-agent
+- **Observation**: Steady growth - build vs buy discussion
+
+#### 📉 Let's be honest, Generative AI isn't going all that well
+- **Score**: 184pts, 230 comments (+6pts, +7 comments)
+- **URL**: https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt
+- **Observation**: Gary Marcus reality check still gaining traction
+
+---
+
 ## HN Signals - 22:30 Update
 
 **Top AI Stories (15 tracked)**:
 
 #### 🚀 Cowork: Claude Code for the rest of your work
-- **Score**: 1272pts, 558 comments (grew from 1267pts)
+- **Score**: 1272pts, 558 comments (grew from 1271pts)
 - **URL**: https://claude.com/blog/cowork-research-preview
-- **Observation**: Still #1 AI story, slight growth over 2h
+- **Observation**: Still #1 AI story, slight growth over 1h
 
 #### 🎵 AI generated music barred from Bandcamp
-- **Score**: 849pts, 615 comments (grew from 802pts)
+- **Score**: 849pts, 615 comments (grew from 820pts)
 - **URL**: https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
-- **Observation**: +47pts in 2h, backlash momentum continues
+- **Observation**: +29pts in 1h, backlash momentum continues
 
 #### 🤖 We can't have nice things because of AI scrapers
-- **Score**: 413pts, 225 comments (grew from 404pts)
+- **Score**: 413pts, 225 comments (grew from 410pts)
 - **URL**: https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/
 - **Observation**: Minor growth, story stabilizing
 
 #### 🚀 vLLM large scale serving: DeepSeek 2.2k tok/s/h200
-- **Score**: 121pts, 41 comments
+- **Score**: 121pts, 41 comments (grew from 115pts)
 - **URL**: https://blog.vllm.ai/2025/12/17/large-scale-serving.html
-- **Observation**: DeepSeek infrastructure optimization
+- **Observation**: +6pts, infrastructure topic gaining traction
 
 #### 🔍 Show HN: OSS AI agent that indexes Epstein files
-- **Score**: 120pts, 47 comments
+- **Score**: 120pts, 47 comments (grew from 111pts)
 - **URL**: https://epstein.trynia.ai/
-- **Observation**: Agent application in public interest domain
+- **Observation**: +9pts, public interest agent use case
 
 #### 🏢 Why we built our own background agent
-- **Score**: 105pts, 18 comments
+- **Score**: 105pts, 18 comments (grew from 103pts)
 - **URL**: https://builders.ramp.com/post/why-we-built-our-background-agent
-- **Observation**: Ramp's custom agent reasoning
+- **Observation**: Steady growth, custom build discussion
 
 #### 📉 Let's be honest, Generative AI isn't going all that well
-- **Score**: 188pts, 243 comments (grew from 178pts)
+- **Score**: 188pts, 243 comments (grew from 184pts)
 - **URL**: https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt
-- **Observation**: Gary Marcus reality check gaining more traction
+- **Observation**: +4pts, skepticism maintaining momentum
 
 #### 🔐 A deep dive on agent sandboxes
 - **Score**: 56pts, 19 comments
@@ -2050,29 +2114,30 @@ The window for "move fast and break things" AI is closing. Community demanding r
 - 558 comments = high engagement
 - **Validation**: "AI for work" beyond coding has market demand
 
-**Backlash Fatigue?**:
-- Bandcamp: +47pts in 2h (slowing from +28% earlier)
-- Scrapers: +9pts (near plateau)
-- Gary Marcus: +10pts (modest growth)
-- **Interpretation**: Negative sentiment peaked, stabilizing
+**Backlash Still Growing**:
+- Bandcamp: +29pts in 1h (820→849)
+- Scrapers: +3pts (near plateau)
+- Gary Marcus: +4pts (steady skepticism)
+- **Interpretation**: Negative sentiment sustained, not fading
 
-**New Signals**:
-- vLLM DeepSeek optimization (121pts) = infrastructure efficiency matters
-- Epstein files agent (120pts) = agents for public good narrative
-- Ramp custom agent (105pts) = "build vs buy" still relevant
+**Infrastructure & Security Rising**:
+- vLLM: +6pts (115→121) = optimization interest
+- Agent sandboxes: 56pts = security awareness
+- Superhuman exploit: 101pts (earlier) = real vulnerabilities matter
 
 **Strategic Implications for Falcon Platform**:
 1. **Cowork validation** = Expand beyond dev tools (sustained 1272pts)
-2. **Infrastructure matters** = vLLM 121pts shows optimization interest
-3. **Public good positioning** = Epstein agent 120pts shows narrative value
-4. **Flexibility >> Black box** = Ramp 105pts validates customization
+2. **Infrastructure matters** = vLLM growth shows optimization demand
+3. **Security is table stakes** = Sandbox/exploit stories gaining traction
+4. **Flexibility >> Black box** = Ramp custom build validates customization
 
 **Trend Shift**:
 - Morning: Backlash dominating
-- Evening: Practical applications gaining ground
-- **Insight**: Market wants solutions, not criticism
+- Evening: Practical applications + security concerns
+- **Insight**: Market wants secure, performant solutions
 
 **Next Actions**:
 - Deep dive Cowork for product positioning
 - Study vLLM optimization techniques
 - Analyze Ramp's custom agent architecture
+- Review agent sandbox security patterns
