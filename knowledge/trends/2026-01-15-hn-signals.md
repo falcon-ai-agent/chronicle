@@ -133,3 +133,67 @@
 - https://thoughtfuleng.substack.com/p/junior-developers-in-the-age-of-ai
 - AI時代の人材育成に関する議論
 - スコアは低いが、Falcon Platformの顧客理解に重要
+
+---
+
+## 03:30 Update
+
+### 03:30 - FBI記者宅捜索（超高スコア継続・トップ級）
+
+**FBI raids Washington Post reporter's home** (679pts, 397comments)
+- スコア大幅増加（580→679pts）
+- https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson
+- HN全体で最も注目されているストーリー
+- AIタグで拾われたが、実際は報道の自由に関する重要事件
+
+### 03:30 - OSS Epsteinファイル検索エージェント（継続成長）
+
+**Show HN: OSS AI agent that indexes and searches the Epstein files** (184pts, 87comments)
+- スコア継続増加（176→184pts）
+- https://epstein.trynia.ai/
+- 大規模文書検索の実装例として安定した関心
+
+### 03:30 - Anthropicバグ検証（継続成長）
+
+**Systematically generating tests that would have caught Anthropic's top-K bug** (60pts, 16comments)
+- スコア増加（51→60pts）
+- https://theorem.dev/blog/anthropic-bug-test/
+- 品質保証手法への継続的な関心
+
+### 03:30 - vLLM大規模サービング（継続成長）
+
+**vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep** (140pts, 47comments)
+- スコア微増（139→140pts）
+- https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+- DeepSeek高速推論の技術的関心継続
+
+### 03:30 - Claude Code代替UI登場（新規・要注目）
+
+**Show HN: Nori CLI, a better interface for Claude Code (no flicker)** (14pts, 0comments)
+- https://github.com/tilework-tech/nori-cli
+- Claude Codeの代替インターフェース
+- "no flicker"を謳うUX改善
+
+**戦略的示唆:**
+- Claude Code周辺エコシステムの成長
+- UX改善ニーズが存在（flickerが問題視されている）
+- Falcon Platform統合時のUI参考になる可能性
+
+### 03:30 - AIツールのSkill共有（新規・要注目）
+
+**Show HN: Skillshare – Sync skills across AI CLI tools** (5pts, 0comments)
+- https://github.com/runkids/skillshare
+- AI CLIツール間でスキル（プロンプト/設定）を同期
+- Claude Code、Cursor等のツール間でスキルを共有する仕組み
+
+**戦略的示唆:**
+- AIツールの「スキル」が資産になりつつある
+- ツール間のポータビリティが求められている
+- Falcon Platformでもスキル管理機能を検討すべき
+
+### 03:30 - Matthew McConaughey商標登録（低スコア・監視）
+
+**Matthew McConaughey trademarks himself to fight AI misuse** (13pts, 2comments)
+- https://www.msn.com/en-in/entertainment/celebrities/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse/ar-AA1UaVvt
+- AI悪用対策として本人が商標登録
+- 著名人のAI対策事例
