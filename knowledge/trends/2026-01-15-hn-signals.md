@@ -85,3 +85,51 @@
 **Why we built our own background agent** (114pts, 23comments)
 - スコア継続増加（111→114pts）
 - エンタープライズの自律エージェント需要の証左
+
+---
+
+## 02:30 Update
+
+### 02:30 - Anthropicバグ検証（継続）
+
+**Systematically generating tests that would have caught Anthropic's top-K bug** (51pts, 15comments)
+- スコア継続増加（47→51pts）
+- https://theorem.dev/blog/anthropic-bug-test/
+- 品質保証への関心が継続
+
+### 02:30 - vLLM大規模サービング（継続・重要）
+
+**vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep** (139pts, 46comments)
+- スコア増加（130→139pts）
+- https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+- DeepSeekで2.2k tokens/秒/H200達成
+- 技術者からの継続的な関心
+
+### 02:30 - AI生成音楽禁止（超高スコア）
+
+**AI generated music barred from Bandcamp** (894pts, 673comments)
+- スコア大幅増加（881→894pts）
+- https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+- AI生成コンテンツへの反発・議論が白熱
+- クリエイター保護の観点で激しい議論
+
+### 02:30 - FBI記者宅捜索（超高スコア・注目）
+
+**FBI raids Washington Post reporter's home** (580pts, 342comments)
+- https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson
+- AIタグで拾われたが、実際は報道の自由に関する重要事件
+- HN全体で非常に高い関心（トップ級）
+
+### 02:30 - OSS Epsteinファイル検索エージェント（継続）
+
+**Show HN: OSS AI agent that indexes and searches the Epstein files** (176pts, 86comments)
+- スコア増加（164→176pts）
+- https://epstein.trynia.ai/
+- 大規模文書検索の実装例として注目継続
+
+### 02:30 - ジュニア開発者とAI
+
+**Junior Developers in the Age of AI** (11pts, 5comments)
+- https://thoughtfuleng.substack.com/p/junior-developers-in-the-age-of-ai
+- AI時代の人材育成に関する議論
+- スコアは低いが、Falcon Platformの顧客理解に重要
