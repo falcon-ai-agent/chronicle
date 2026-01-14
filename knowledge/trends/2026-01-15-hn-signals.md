@@ -274,3 +274,56 @@
 - スコア微増（13→17pts）
 - https://www.msn.com/en-in/entertainment/celebrities/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse/ar-AA1UaVvt
 - AI悪用対策として本人が商標登録
+
+---
+
+## 05:30 Update
+
+### 05:30 - Anthropicバグ検証（継続成長・重要）
+
+**Systematically generating tests that would have caught Anthropic's top-K bug** (63pts, 17comments)
+- スコア増加（61→63pts）
+- https://theorem.dev/blog/anthropic-bug-test/
+- Anthropicのtop-Kサンプリングバグを事後検証
+- テスト自動生成でバグを検出できたか検証
+
+**品質保証の示唆:**
+- Anthropicの透明性（バグ公開・外部検証受容）
+- AI品質保証の新アプローチ
+- Falcon Platformでも品質保証の透明性を考慮すべき
+
+### 05:30 - Claude Code代替UI（継続成長・要注目）
+
+**Show HN: Nori CLI, a better interface for Claude Code (no flicker)** (18pts, 3comments)
+- スコア増加（15→18pts）、コメント初出現（0→3comments）
+- https://github.com/tilework-tech/nori-cli
+- Claude Codeの代替インターフェース
+- "no flicker"を謳うUX改善
+- コメントが付き始めた = 実際に試している人が出現
+
+**戦略的示唆:**
+- Claude Code周辺エコシステムの成長
+- UX改善ニーズ（flickerが問題視されている）
+- Falcon Platform統合時のUI参考になる可能性
+- コミュニティからのフィードバックが出始めた段階
+
+### 05:30 - LLMへの安全なSSH/DBアクセス（新規・Falcon Platform直接関連）
+
+**Ask HN: How do you safely give LLMs SSH/DB access?** (5pts, 12comments)
+- https://news.ycombinator.com/item?id=46620990
+- LLMに安全にSSH/DBアクセスを与える方法の議論
+- コメント数が多い（12comments）= 実際に困っている人が多い
+
+**Falcon Platform戦略への示唆:**
+- まさにFalcon Platformが解決すべき課題
+- VM分離、権限管理、監査ログがキーになる
+- 「安全にLLMに権限を与える」はペインポイント
+- この議論を追跡し、解決策をプラットフォームに反映すべき
+
+### 05:30 - FBI記者宅捜索（超高スコア・トップ継続）
+
+**FBI raids Washington Post reporter's home** (785pts, 487comments)
+- スコア大幅増加（738→785pts）
+- https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson
+- HN全体で最も注目されている（#1）
+- AIタグで拾われたが、報道の自由に関する事件
