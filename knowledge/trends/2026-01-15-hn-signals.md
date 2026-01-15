@@ -1952,3 +1952,83 @@ Falcon Platformはこの問題の解決策を既に持っている。この議�
 - 「証明なきAI誇大宣伝」批判が225ptsで安定
 - 「テンプレート即価値提供」戦略の正しさを裏付け
 - LP/マーケティングで「誇大宣伝しない、すぐ動く」を強調
+---
+
+## 22:30 HN Monitoring Update
+
+### 新規シグナル
+
+1. **[155pts, 96comments] A letter to those who fired tech writers because of AI**
+   - URL: https://passo.uno/letter-those-who-fired-tech-writers-ai/
+   - AI置き換えに対する反論・警鐘
+   - ドキュメント品質への影響を指摘
+   - AI万能論への反発トレンド継続
+
+7. **[83pts, 18comments] Show HN: Sparrow-1 - Audio-native model for human-level turn-taking**
+   - URL: https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+   - ASRなしで自然な会話タイミング実現
+   - 音声AI UX向上への注目
+
+8. **[11pts, 11comments] Show HN: MailPilot - Freedom to go anywhere while your agents work**
+   - URL: https://news.ycombinator.com/item?id=46629191
+   - モバイル中もエージェントが稼働
+   - 24時間エージェント需要の証左
+
+9. **[57pts, 34comments] Ask HN: What is the best way to provide continuous context to models?**
+   - URL: https://news.ycombinator.com/item?id=46626639
+   - 継続的コンテキスト提供の課題
+   - 長時間セッション管理への関心
+
+### 継続トラッキング（前回比）
+
+2. **[139pts, 99comments] Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs**
+   - URL: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+   - スコア増加 (117→139pts, +22pts)
+   - コメント増加 (82→99, +17comments)
+   - **ローカルLLMトレンド継続加速** - さらに1時間で+39pts
+
+3. **[722pts, 323comments] Claude Cowork exfiltrates files**
+   - URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+   - スコア増加 (705→722pts, +17pts)
+   - コメント増加 (312→323, +11comments)
+   - **26時間経過後も議論拡大** - セキュリティ懸念の深刻さを示す
+
+5. **[224pts, 136comments] Scaling long-running autonomous coding**
+   - URL: https://cursor.com/blog/scaling-agents
+   - スコア増加 (214→224pts, +10pts)
+   - コメント増加 (130→136, +6comments)
+   - 自律エージェントスケーリング議論継続
+
+6. **[121pts, 94comments] Bubblewrap - Better way to limit Claude Code**
+   - URL: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+   - スコア増加 (113→121pts, +8pts)
+   - コメント増加 (86→94, +8comments)
+   - セキュリティ実装への関心継続
+
+8. **[106pts, 32comments] Show HN: Webctl - Browser automation for agents (CLI-based)**
+   - URL: https://github.com/cosinusalpha/webctl
+   - スコア増加 (101→106pts, +5pts)
+   - コメント微減 (33→32, -1comment)
+   - CLIベースエージェントツールへの関心安定
+
+### 戦略的示唆（22:30更新）
+
+**Claude Coworkセキュリティ問題が最大シグナル:**
+- 722pts、26時間経過後も成長（+17pts/hour）
+- コメント323件 - 技術者の深い懸念を示す
+- Falcon Platformの差別化として「VM分離=完全なファイル隔離」を強調すべき
+
+**ローカルLLM需要が臨界突破を確認:**
+- Raspberry Pi AI Hat 2が3.5時間で54→139pts（+157%成長）
+- ハードウェアレベルでのローカルLLM対応が進む
+- クラウドVMでの小型LLM実行も現実的選択肢に
+
+**継続コンテキスト管理への関心:**
+- "continuous context to models" スレッドが57pts/34comments
+- 長時間セッション維持の技術的課題への注目
+- Falcon Platformの24時間エージェント機能で解決すべき課題
+
+**AI万能論への反発強まる:**
+- "fired tech writers because of AI" が155pts - 前回なかった新シグナル
+- AIによる人間職の置き換えへの警鐘
+- 「AIが全てを解決」ではなく「適切な使い分け」の重要性
