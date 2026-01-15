@@ -1671,3 +1671,102 @@ Falcon Platformはこの問題の解決策を既に持っている。この議�
 - VM分離アーキテクチャは正解
 - 透明性・オープン性をブランドに
 - 「24時間自律」でCursorと差別化
+
+---
+
+## HN Signals - 18:30 Update
+
+### 18:30 - **Claude Cowork脆弱性（継続トップ）**
+
+**Claude Cowork exfiltrates files** (657pts, 293comments)
+- スコア増加（637→657pts）、コメント増加（283→293comments）
+- https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+- **AI Topストーリー #2（全体#4）**
+- 18時間経過後も議論が継続。セキュリティ懸念の根深さを示す
+
+### 18:30 - **Bubblewrap（.env保護・継続）**
+
+**Bubblewrap: A nimble way to prevent agents from accessing your .env files** (93pts, 73comments)
+- スコア増加（86→93pts）、コメント増加（65→73comments）
+- https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+- **AI Topストーリー #5**
+- Claude Cowork問題の直接的な対策として注目継続
+
+### 18:30 - **Cursor自律コーディング（継続トップ）**
+
+**Scaling long-running autonomous coding** (195pts, 104comments)
+- スコア増加（191→195pts）、コメント増加（99→104comments）
+- https://cursor.com/blog/scaling-agents
+- **AI Topストーリー #4**
+- Falcon Platformの直接競合。「長時間実行」が価値提案の中心
+
+### 18:30 - **Webctl（CLI-based browser automation・継続）**
+
+**Show HN: Webctl – Browser automation for agents based on CLI instead of MCP** (92pts, 31comments)
+- スコア増加（90→92pts）、コメント増加（29→31comments）
+- https://github.com/cosinusalpha/webctl
+- **AI Topストーリー #6**
+- CLI-basedツールのシンプルさが評価継続
+
+### 18:30 - **新規: Eigent（Claude Cowork代替）**
+
+**Show HN: Eigent: An open source Claude Cowork alternative** (17pts, 3comments)
+- https://github.com/eigent-ai/eigent
+- **AI Topストーリー #9**
+- Claude Cowork脆弱性を受けた代替実装の登場
+- オープンソース、セキュリティ重視の可能性
+
+### 18:30 - **Raspberry Pi AI Hat 2**
+
+**Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs** (27pts, 19comments)
+- https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+- **AI Topストーリー #1（全体#3）**
+- エッジAI、ローカルLLM実行の民主化
+
+### 18:30 - **The Influentists（AI懐疑論・継続トップ）**
+
+**The Influentists: AI hype without proof** (217pts, 140comments)
+- スコア増加（213→217pts）、コメント維持（140comments）
+- https://carette.xyz/posts/influentists/
+- **AI Topストーリー #10**
+- AI誇大広告への批判が根強い
+
+---
+
+## 18:30 戦略的インサイト
+
+### 最重要: Claude Cowork脆弱性の余震
+
+**657pts（+20）、293comments（+10） - 18時間後も成長継続。**
+
+**エコシステムの反応:**
+1. **Bubblewrap** - 直接的な防御ツール（93pts）
+2. **Eigent** - オープンソース代替実装（17pts、新規）
+3. **Webctl** - CLI-basedの安全なアプローチ（92pts）
+
+**Falcon Platformへの示唆:**
+- セキュリティ問題は「流行」ではなく「構造的課題」
+- VM分離は正解。LPで「Claude Coworkの問題を構造的に防ぐ」を明示すべき
+- オープンソース代替（Eigent）の登場は、セキュリティ透明性の需要を示す
+
+### Cursorとの競争軸明確化
+
+**Cursor（195pts, 104comments）vs Falcon Platform:**
+
+| 観点 | Cursor | Falcon Platform |
+|------|--------|-----------------|
+| 用途 | 開発中の長時間実行 | 開発外でも24時間自律 |
+| 対象 | エンジニア | 非エンジニア含む |
+| 価格 | 従量課金 | 固定価格（予測可能） |
+| セキュリティ | 開発マシン | VM分離 |
+
+**差別化メッセージ:**
+「Cursorは開発ツール、Falconはプラットフォーム」
+
+---
+
+## 今後の監視対象
+
+1. **Claude Cowork脆弱性議論** - 48時間スコアとコメント推移
+2. **Eigent** - オープンソース代替の注目度
+3. **LLMへの安全な権限付与** - Ask HN継続議論
