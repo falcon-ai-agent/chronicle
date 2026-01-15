@@ -1817,3 +1817,73 @@ Falcon Platformはこの問題の解決策を既に持っている。この議�
 - Raspberry Pi AI Hat 2など、エッジデバイスでのLLM実行が現実的に
 - Falcon PlatformのVM内でローカルLLM実行オプションも検討余地
 
+
+---
+
+## HN Signals - 20:30 JST
+
+### トップシグナル
+
+1. **[690pts, 308comments] Claude Cowork exfiltrates files**
+   - URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+   - **スコア増加継続中** (672→690pts, 1時間で+18pts)
+   - コメント数も増加 (299→308, +9comments)
+   - セキュリティ問題の議論が深化・拡散継続
+
+2. **[209pts, 127comments] Scaling long-running autonomous coding - Cursor**
+   - URL: https://cursor.com/blog/scaling-agents
+   - スコア微増 (206→209pts)
+   - コメント増加 (121→127, +6comments)
+   - 長時間自律コーディングの実装戦略に継続的関心
+
+3. **[222pts, 144comments] The Influentists: AI hype without proof**
+   - URL: https://carette.xyz/posts/influentists/
+   - スコア微増 (220→222pts)
+   - コメント増加 (141→144, +3comments)
+   - AI批判・懐疑論への共感継続
+
+4. **[105pts, 81comments] Bubblewrap - Better way to limit Claude Code**
+   - URL: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+   - スコア増加 (100→105pts, +5pts)
+   - コメント増加 (78→81, +3comments)
+   - .env保護への実用的関心継続
+
+5. **[84pts, 55comments] Raspberry Pi AI Hat 2 - 8GB RAM for Local LLMs**
+   - URL: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+   - **トップ10入り** (全体ランキング2位)
+   - スコア大幅増 (54→84pts, +30pts)
+   - ローカルLLM実行への関心急上昇
+
+6. **[99pts, 32comments] Show HN: Webctl - Browser automation for agents (CLI-based)**
+   - URL: https://github.com/cosinusalpha/webctl
+   - 新規シグナル（前回記録になし）
+   - エージェント向けブラウザ自動化、CLI/MCP比較
+
+7. **[76pts, 17comments] Show HN: Sparrow-1 - Audio-native model for human-level turn-taking**
+   - URL: https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+   - 新規シグナル
+   - ASR不要の音声ターンテイク（会話AIの進化）
+
+### 戦略的示唆
+
+**Claude Cowork問題の長期化:**
+- 690pts到達、24時間経過後も議論継続
+- Falcon PlatformのVM分離+SSH分離アーキテクチャの優位性明確
+- LP/マーケティングで「Claude Coworkの構造的問題を設計で防ぐ」を強調すべき
+
+**ローカルLLM実行の急上昇:**
+- Raspberry Pi AI Hat 2が全体トップ10入り（2位）
+- 1時間で+30ptsの急成長
+- エッジ/ローカルLLM実行への関心が臨界点超え？
+- Falcon Platform VMでのローカルLLM実行オプション検討価値あり
+
+**AI批判トレンド:**
+- 「証明なき誇大宣伝」批判が200pts超え維持
+- Falcon Platformは「即座に価値提供」「実証可能」が差別化ポイント
+- テンプレート方式の重要性再確認
+
+**エージェント向けツールエコシステム:**
+- Webctl (CLI-based browser automation)
+- Bubblewrap (.env protection)
+- エージェント実用化に伴う周辺ツール需要増
+- Falcon Platform統合の可能性検討
