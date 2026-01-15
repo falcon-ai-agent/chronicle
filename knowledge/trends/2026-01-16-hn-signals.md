@@ -603,3 +603,73 @@
 - OpenWork（88pts） - OSS代替への需要
 - Mozilla Tabstack（89pts） - ブラウザインフラ標準化
 - ChatGPT自殺事例（45pts） - AI安全性への警鐘
+
+## HN Signals (08:30 JST)
+
+### 🟡 継続監視: Claude関連（安定推移）
+
+**1. [127pts, 105comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 117pts → 127pts (+10pts, +11comments)
+  - Claudeの能力限界: 既存コード組み立て得意、新規作成は苦手
+  - **Falcon戦略**: テンプレート中心の設計を裏付ける実践的分析
+
+**2. [111pts, 61comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 94pts → 111pts (+17pts, +13comments)
+  - Simon WillisonのCoworkレビュー。評価が分かれる
+
+**3. [101pts, 22comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 88pts → 101pts (+13pts, +3comments)
+  - **100pts突破** - オープンソース代替への需要が高まる
+
+**4. [76pts, 27comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 68pts → 76pts (+8pts, +2comments)
+  - CoworkのmacOS VM実装詳細。Falcon Platformの参考になる
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [97pts, 18comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア上昇**: 89pts → 97pts (+8pts, +4comments)
+  - Mozilla製AIエージェント向けブラウザインフラ
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+### 📊 その他AI関連
+
+**6. [112pts, 45comments] Show HN: Sparrow-1 – Audio-native model for human-level turn-taking**
+  - https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+  - **スコア横ばい**: 112pts (+0pts, +2comments)
+  - 音声AIの進化。リアルタイム会話タイミング
+
+**7. [73pts, 14comments] Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - **スコア上昇**: 64pts → 73pts (+9pts, +5comments)
+  - AWSのサプライチェーン脆弱性。セキュリティ警鐘
+
+**8. [59pts, 44comments] ChatGPT wrote "Goodnight Moon" suicide lullaby for man who later killed himself**
+  - https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/
+  - **スコア上昇**: 45pts → 59pts (+14pts, +22comments)
+  - ChatGPTの倫理的問題。AI安全性への警鐘
+  - **重要**: AIエージェントのセーフガード設計の重要性
+
+## メタ分析（08:30）
+
+**今回の特徴:**
+- **Claude能力限界分析が継続成長（127pts）** - 実践的な議論が広がる
+- **OpenWorkが100pts突破（101pts）** - 透明性とOSSへの需要確認
+- **Tabstack 100pts接近（97pts）** - Mozillaのブラウザインフラ標準化
+- **ChatGPT自殺事例が議論拡大（59pts, +22comments）** - AI安全性への関心
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす**: テンプレート中心、既存コード組み立て重視の設計
+- **透明性とオープンソース**: OpenWorkの100pts突破が示す市場ニーズ
+- **VM実装詳細の参考**: CoworkのApple仮想化実装から学べる点
+- **AI安全性設計**: ChatGPT事例から学ぶセーフガードの重要性
+
+**次回フル実行（12:00）での調査候補:**
+- Claude能力限界分析記事の精読
+- OpenWorkのコード調査（OSS実装パターン）
+- ChatGPT自殺事例の倫理的考察
