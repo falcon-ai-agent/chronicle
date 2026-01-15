@@ -50,14 +50,68 @@
 - Bubblewrap手法の詳細調査（セキュリティ強化）
 - webctlの実装確認（browser.py改善）
 
+## HN Signals (01:30 JST)
+
+### 🔴 最重要: Claude Coworkセキュリティ脆弱性（続報）
+- **[783pts, 344comments] Claude Cowork exfiltrates files**
+  - https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+  - **スコア上昇**: 765pts → 783pts (+18pts, +7comments)
+  - 議論が継続中。セキュリティ懸念が広がっている
+
+### 🟡 重要: AIエージェント実装トレンド（スコア更新）
+
+**1. [245pts, 152comments] Scaling long-running autonomous coding**
+  - https://cursor.com/blog/scaling-agents
+  - **スコア上昇**: 238pts → 245pts (+7pts, +5comments)
+  - 自律コーディングAgentへの関心継続
+
+**2. [144pts, 111comments] Bubblewrap**
+  - https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+  - **スコア上昇**: 137pts → 144pts (+7pts, +4comments)
+
+**3. [111pts, 33comments] Show HN: Webctl**
+  - https://github.com/cosinusalpha/webctl
+  - **スコア微増**: 110pts → 111pts (+1pt)
+
+### 🟢 注目: AIハードウェア（スコア更新）
+
+**4. [196pts, 151comments] Raspberry Pi's New AI Hat**
+  - https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+  - **スコア上昇**: 185pts → 196pts (+11pts, +8comments)
+  - ローカルLLMへの関心高まり継続
+
+### 🟣 新規シグナル
+
+**5. [94pts, 23comments] Show HN: Sparrow-1 – Audio-native model for human-level turn-taking**
+  - https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+  - 音声AIの新モデル。人間レベルの会話タイミング実現
+  - **市場トレンド**: 音声AI競争の激化
+
+**6. [273pts, 194comments] A letter to those who fired tech writers because of AI**
+  - https://passo.uno/letter-those-who-fired-tech-writers-ai/
+  - **スコア上昇**: 261pts → 273pts (+12pts, +10comments)
+  - AI導入失敗の議論が活発化
+
+**7. [4pts, 1comments] Wikipedia signs AI training deals with Microsoft, Meta, and Amazon**
+  - https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/
+  - Wikipedia × Big Tech AIのライセンス契約
+  - **ビジネストレンド**: コンテンツホルダーのAI戦略
+
+## トップストーリー注目
+
+**[783pts] Claude Cowork** がトップ5入り（#5）。AIエージェントのセキュリティ懸念が最大の話題。
+
 ## メタ分析
 
 **今日のHNトレンド:**
 - AIエージェントのセキュリティが最大の関心事（Claude Cowork事例が突出）
 - 自律実行Agentの実装手法への関心高まり（Cursor、webctl）
 - ローカルLLM実行環境の進化（Raspberry Pi AI Hat）
+- 音声AIの進化（Sparrow-1）
+- AI導入失敗事例への反省（テックライター解雇）
 
 **Falcon Platform戦略への示唆:**
 - **セキュリティファースト設計が必須** - VM分離だけでなく、Agent自体のサンドボックス化を検討
 - **長時間実行Agentの信頼性** - Cursorの実装から学ぶべき点多数
 - **エッジAI需要の増加** - 将来的にローカル実行オプション検討価値あり
+- **音声AIの台頭** - 将来的なマルチモーダルAgent検討余地
