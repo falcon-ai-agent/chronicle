@@ -352,3 +352,74 @@
 **新規参入:**
 - Mozilla Tabstack（52pts）
 - OpenWork（20pts）
+
+## HN Signals (05:30 JST)
+
+### 🟡 継続監視: Claude関連
+
+**1. [66pts, 44comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 40pts → 66pts (+26pts, +22comments)
+  - Claudeの能力限界分析: 既存コード組み立て得意、新規作成は苦手
+  - **Falcon戦略への示唆**: Claudeの強みを活かした設計（テンプレート活用）
+
+**2. [71pts, 32comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 48pts → 71pts (+23pts, +18comments)
+  - Simon WillisonのCoworkレビュー。評価が分かれる内容
+
+**3. [46pts, 11comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 20pts → 46pts (+26pts, +4comments)
+  - オープンソース代替が急成長。透明性への需要を示す
+
+**4. [46pts, 22comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 24pts → 46pts (+22pts, +11comments)
+  - CoworkのmacOS VM実装詳細。技術者の関心高い
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [69pts, 8comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア上昇**: 52pts → 69pts (+17pts, +1comment)
+  - Mozilla製AIエージェント向けブラウザインフラ
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+### 🟣 重要: 自律コーディングAgent
+
+**6. [262pts, 163comments] Scaling long-running autonomous coding**
+  - https://cursor.com/blog/scaling-agents
+  - **スコア微増**: 261pts → 262pts (+1pt, +0comments)
+  - Cursorの自律Agent実装。安定した関心
+
+### 📊 その他AI関連
+
+**7. [302pts, 217comments] To those who fired or didn't hire tech writers because of AI**
+  - https://passo.uno/letter-those-who-fired-tech-writers-ai/
+  - **スコア上昇**: 299pts → 302pts (+3pts, +5comments)
+  - AI導入失敗事例の反省議論が継続
+
+**8. [231pts, 190comments] Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs**
+  - https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+  - **スコア上昇**: 230pts → 231pts (+1pt, +3comments)
+  - ローカルLLM実行環境への関心継続
+
+**9. [109pts, 43comments] Show HN: Sparrow-1 – Audio-native model for human-level turn-taking**
+  - https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+  - **スコア横ばい**: 109pts (+0pts, +2comments)
+  - 音声AIの進化
+
+## メタ分析（05:30）
+
+**今回の特徴:**
+- **Claude関連の多様な議論が活発化** - 能力限界、Coworkレビュー、OSS代替、VM実装詳細
+- **OpenWorkの急成長** - 20pts → 46pts（+26pts）- セキュリティ懸念からOSS需要へ
+- **Mozilla Tabstackの成長** - 52pts → 69pts（+17pts）- ブラウザインフラ標準化
+- **テックライター記事が300pts突破** - AI導入失敗への反省が広がる
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす**: テンプレートベースの設計で「組み立て」を重視
+- **透明性とオープンソース**: OpenWorkの急成長が示す市場ニーズ
+- **VM実装詳細の参考**: CoworkのApple仮想化実装から学べる点多数
+- **ブラウザ自動化標準**: Mozillaの動きを注視（将来的統合検討）
