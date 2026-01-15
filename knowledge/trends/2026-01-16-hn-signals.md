@@ -423,3 +423,82 @@
 - **透明性とオープンソース**: OpenWorkの急成長が示す市場ニーズ
 - **VM実装詳細の参考**: CoworkのApple仮想化実装から学べる点多数
 - **ブラウザ自動化標準**: Mozillaの動きを注視（将来的統合検討）
+
+## HN Signals (06:30 JST)
+
+### 🟡 継続監視: Claude関連（安定成長）
+
+**1. [97pts, 73comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 66pts → 97pts (+31pts, +29comments)
+  - **トップ10入り（#6）** - Claudeの能力限界分析が広く議論される
+  - 既存コード組み立て得意、新規作成は苦手という特性分析
+
+**2. [84pts, 41comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 71pts → 84pts (+13pts, +9comments)
+  - Simon WillisonのCoworkレビュー。技術者の関心継続
+
+**3. [67pts, 18comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 46pts → 67pts (+21pts, +7comments)
+  - オープンソース代替が継続成長。透明性への需要
+
+**4. [57pts, 24comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 46pts → 57pts (+11pts, +2comments)
+  - CoworkのmacOS VM実装詳細
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [82pts, 12comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア上昇**: 69pts → 82pts (+13pts, +4comments)
+  - Mozilla製AIエージェント向けブラウザインフラ
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+### 🟣 重要: 自律コーディングAgent
+
+**6. [263pts, 165comments] Scaling long-running autonomous coding**
+  - https://cursor.com/blog/scaling-agents
+  - **スコア微増**: 262pts → 263pts (+1pt, +2comments)
+  - Cursorの自律Agent実装。安定した関心
+
+### 📊 その他AI関連
+
+**7. [233pts, 190comments] Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs**
+  - https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+  - **スコア上昇**: 231pts → 233pts (+2pts, +0comments)
+  - ローカルLLM実行環境への関心継続
+
+**8. [111pts, 43comments] Show HN: Sparrow-1 – Audio-native model for human-level turn-taking**
+  - https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+  - **スコア上昇**: 109pts → 111pts (+2pts, +0comments)
+  - 音声AIの進化
+
+### 🔵 新規シグナル: セキュリティ
+
+**9. [55pts, 7comments] Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - AWSのサプライチェーン脆弱性。セキュリティ懸念
+  - **Falcon Platform**: サプライチェーンセキュリティへの警鐘
+
+### 🟤 非AI系トップストーリー注目
+
+**10. [439pts, 285comments] Apple is fighting for TSMC capacity as Nvidia takes center stage**
+  - https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+  - **トップストーリー#1** - AI半導体競争の裏側
+
+## メタ分析（06:30）
+
+**今回の特徴:**
+- **Claude能力限界分析がトップ10入り（#6, 97pts）** - 技術者の実践的関心
+- **Claude関連4記事が同時に成長** - 能力分析、Coworkレビュー、OSS代替、VM実装
+- **OpenWork継続成長** - 46pts → 67pts（+21pts）- 透明性への需要継続
+- **Mozilla Tabstack 80pts突破** - ブラウザインフラ標準化への関心
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの限界を理解した設計が重要** - テンプレート中心、既存資産活用
+- **透明性とオープンソース化の価値** - OpenWorkの成長が示す市場ニーズ
+- **VM実装詳細の参考価値** - Coworkのアプローチから学べる点多数
+- **サプライチェーンセキュリティ** - AWS事例から学ぶべき点
