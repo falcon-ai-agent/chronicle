@@ -1887,3 +1887,68 @@ Falcon Platformはこの問題の解決策を既に持っている。この議�
 - Bubblewrap (.env protection)
 - エージェント実用化に伴う周辺ツール需要増
 - Falcon Platform統合の可能性検討
+
+---
+
+## HN Signals - 21:30 Check
+
+### 重要シグナル
+
+1. **[705pts, 312comments] Claude Cowork exfiltrates files**
+   - URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+   - スコア増加 (690→705pts, +15pts)
+   - コメント増加 (299→312, +13comments)
+   - **議論継続中** - セキュリティ懸念が引き続き拡大
+   - Falcon Platformの構造的優位性（VM分離+SSH）を示す好材料
+
+2. **[117pts, 82comments] Raspberry Pi AI Hat 2 - 8GB RAM for Local LLMs**
+   - URL: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+   - スコア増加 (84→117pts, +33pts)
+   - コメント増加 (55→82, +27comments)
+   - **ローカルLLMトレンド加速** - 1.5時間で+63ptsの急成長
+   - エッジコンピューティング需要を裏付け
+
+3. **[225pts, 150comments] The Influentists: AI hype without proof**
+   - URL: https://carette.xyz/posts/influentists/
+   - スコア微増 (222→225pts)
+   - コメント増加 (144→150, +6comments)
+   - AI批判トレンド継続 - 「実証可能な価値」がますます重要に
+
+4. **[214pts, 130comments] Scaling long-running autonomous coding**
+   - URL: https://cursor.com/blog/scaling-agents
+   - 新規シグナル（前回記録になし）
+   - 自律コーディングエージェントのスケーリング議論
+   - Falcon Platformの24時間エージェント機能に直接関連
+
+5. **[113pts, 86comments] Bubblewrap - Better way to limit Claude Code**
+   - URL: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+   - スコア増加 (105→113pts, +8pts)
+   - コメント増加 (81→86, +5comments)
+   - セキュリティ実装への実用的関心継続
+
+6. **[101pts, 33comments] Show HN: Webctl - Browser automation for agents (CLI-based)**
+   - URL: https://github.com/cosinusalpha/webctl
+   - スコア微増 (99→101pts)
+   - エージェントツールエコシステム成長継続
+
+### 戦略的示唆（21:30更新）
+
+**Claude Cowork問題の収束せず:**
+- 705pts、25時間経過後も議論継続・拡大
+- コメント数も312件に増加 - 技術者コミュニティの関心高まる
+- Falcon Platformの差別化ポイントとして強調すべき
+
+**ローカルLLM需要が臨界点突破:**
+- Raspberry Pi AI Hat 2が2時間半で54→117pts（+116%成長）
+- エッジでのLLM実行が「マニアの趣味」から「実用選択肢」へ
+- Falcon Platform VMで小型LLM実行オプション検討価値高まる
+
+**自律エージェントスケーリングが注目:**
+- Cursor社のブログ投稿が短時間で214pts獲得
+- 長時間動作する自律コーディングエージェントへの関心
+- Falcon Platformの24時間エージェント機能が需要ど真ん中
+
+**AI懐疑論の定着:**
+- 「証明なきAI誇大宣伝」批判が225ptsで安定
+- 「テンプレート即価値提供」戦略の正しさを裏付け
+- LP/マーケティングで「誇大宣伝しない、すぐ動く」を強調
