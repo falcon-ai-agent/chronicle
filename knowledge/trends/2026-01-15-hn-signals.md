@@ -1344,3 +1344,55 @@ Falcon Platformはこの問題の解決策を既に持っている。この議�
 - Cursor: 開発中の長時間実行
 - Falcon: 開発外でも24時間動く自律エージェント
 - Cursorは「開発ツール」、Falconは「プラットフォーム」
+
+---
+
+## 15:30 Update
+
+### 15:30 - **Claude Cowork セキュリティ問題（超重要・トップ継続）**
+
+**Claude Cowork Exfiltrates Files** (581pts, 244comments)
+- スコア大幅増加（560→581pts）、コメント増加（235→244comments）
+- https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+- **AI Topストーリー #1、全体でも #2**
+
+### 15:30 - **Cursor自律コーディング（Falcon Platform戦略直結・トップ級）**
+
+**Scaling long-running autonomous coding** (168pts, 80comments)
+- スコア大幅増加（159→168pts）、コメント微増（78→80comments）
+- https://cursor.com/blog/scaling-agents
+- **AI Topストーリー #3**
+
+### 15:30 - **AI批判記事（継続成長・トップ級）**
+
+**The Influentists: AI hype without proof** (202pts, 128comments)
+- スコア微増（198→202pts）、コメント微増（127→128comments）
+- https://carette.xyz/posts/influentists/
+- **AI Topストーリー #8**
+
+### 15:30 - **Webブラウザ自動化（CLI-based・トップ級）**
+
+**Show HN: Webctl – Browser automation for agents based on CLI instead of MCP** (79pts, 26comments)
+- スコア微増（78→79pts）、コメント増加（23→26comments）
+- https://github.com/cosinusalpha/webctl
+- **AI Topストーリー #7**
+
+### 15:30 - **LLMへのSSH/DBアクセス（Falcon Platform直接関連・成長継続）**
+
+**Ask HN: How do you safely give LLMs SSH/DB access?** (73pts, 95comments)
+- スコア微増（72→73pts）、コメント微増（93→95comments）
+- https://news.ycombinator.com/item?id=46620990
+- コメント数95 = 極めて多くの開発者が困っている
+
+### 15:30 - **Bubblewrap（.env保護・継続成長）**
+
+**Bubblewrap: A nimble way to prevent agents from accessing your .env files** (58pts, 49comments)
+- スコア大幅増加（49→58pts）、コメント大幅増加（41→49comments）
+- https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+- **AI Topストーリー #4**
+
+### 15:30 - **Claude Code OSS代替（新規）**
+
+**Show HN: Eigent – An open source Claude Cowork alternative** (13pts, 2comments)
+- https://github.com/eigent-ai/eigent
+- Claude Coworkのオープンソース代替実装
