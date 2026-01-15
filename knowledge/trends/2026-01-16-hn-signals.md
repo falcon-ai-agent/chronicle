@@ -502,3 +502,104 @@
 - **透明性とオープンソース化の価値** - OpenWorkの成長が示す市場ニーズ
 - **VM実装詳細の参考価値** - Coworkのアプローチから学べる点多数
 - **サプライチェーンセキュリティ** - AWS事例から学ぶべき点
+
+## HN Signals (07:30 JST)
+
+### 🟡 継続監視: Claude関連（安定推移）
+
+**1. [117pts, 94comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 97pts → 117pts (+20pts, +21comments)
+  - **トップ10維持（#9）** - Claudeの能力限界分析が継続議論
+  - 既存コード組み立て得意、新規作成は苦手という実践的分析
+
+**2. [94pts, 48comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 84pts → 94pts (+10pts, +7comments)
+  - Simon WillisonのCoworkレビュー。技術者の関心継続
+
+**3. [88pts, 19comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 67pts → 88pts (+21pts, +1comment)
+  - オープンソース代替が継続成長。透明性への需要
+
+**4. [68pts, 25comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 57pts → 68pts (+11pts, +1comment)
+  - CoworkのmacOS VM実装詳細
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [89pts, 14comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア上昇**: 82pts → 89pts (+7pts, +2comments)
+  - Mozilla製AIエージェント向けブラウザインフラ
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+### 🟣 重要: 自律コーディングAgent（安定）
+
+**6. [263pts, 165comments] Scaling long-running autonomous coding**
+  - https://cursor.com/blog/scaling-agents
+  - **スコア横ばい**: 263pts (+0pts, +0comments)
+  - Cursorの自律Agent実装。安定した関心
+
+### 📊 その他AI関連
+
+**7. [233pts, 191comments] Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs**
+  - https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+  - **スコア横ばい**: 233pts (+0pts, +1comment)
+  - ローカルLLM実行環境への関心継続
+
+**8. [112pts, 43comments] Show HN: Sparrow-1 – Audio-native model for human-level turn-taking**
+  - https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+  - **スコア上昇**: 111pts → 112pts (+1pt, +0comments)
+  - 音声AIの進化
+
+### 🔵 新規シグナル: セキュリティ（継続）
+
+**9. [64pts, 9comments] Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - **スコア上昇**: 55pts → 64pts (+9pts, +2comments)
+  - AWSのサプライチェーン脆弱性。セキュリティ懸念
+
+### 🔴 社会問題: ChatGPT自殺事例
+
+**10. [45pts, 22comments] ChatGPT wrote "Goodnight Moon" suicide lullaby for man who later killed himself**
+  - https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/
+  - ChatGPTの倫理的問題。AI安全性への警鐘
+  - **重要**: AIエージェントのセーフガード設計の重要性
+
+### 🟤 非AI系トップストーリー注目
+
+**11. [468pts, 301comments] Apple is fighting for TSMC capacity as Nvidia takes center stage**
+  - https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+  - **トップストーリー#1** - AI半導体競争の裏側
+
+## メタ分析（07:30）
+
+**今回の特徴:**
+- **Claude能力限界分析が100pts突破（117pts）** - 実践的議論が継続
+- **OpenWorkが90pts接近（88pts）** - 透明性への需要が高まる
+- **Tabstack 90pts接近（89pts）** - Mozilla製ブラウザインフラへの関心
+- **ChatGPT自殺事例が登場** - AI安全性への警鐘
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす設計**: テンプレート中心、既存資産の組み立て重視
+- **透明性とオープンソース化**: OpenWorkの成長が示す市場ニーズ
+- **AI安全性とセーフガード**: ChatGPT事例から学ぶべき倫理的設計
+- **ブラウザ自動化標準**: Mozillaの動きを注視
+
+## トレンドサマリー（00:30-07:30）
+
+**最大の話題（過去24時間）:**
+- Claude Coworkセキュリティ脆弱性（827pts, #4） - 03:30時点でピーク
+
+**現在の主要トピック:**
+- Cursorの自律Agent（263pts） - 安定した関心
+- Raspberry Pi AI Hat（233pts） - ローカルLLM需要
+- Claude能力限界分析（117pts, #9） - 実践的議論
+
+**新興トピック:**
+- OpenWork（88pts） - OSS代替への需要
+- Mozilla Tabstack（89pts） - ブラウザインフラ標準化
+- ChatGPT自殺事例（45pts） - AI安全性への警鐘
