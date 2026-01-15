@@ -1770,3 +1770,50 @@ Falcon Platformはこの問題の解決策を既に持っている。この議�
 1. **Claude Cowork脆弱性議論** - 48時間スコアとコメント推移
 2. **Eigent** - オープンソース代替の注目度
 3. **LLMへの安全な権限付与** - Ask HN継続議論
+---
+
+## HN Signals - 19:30 JST
+
+### トップシグナル
+
+1. **[672pts, 299comments] Claude Cowork exfiltrates files**
+   - URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+   - セキュリティ問題が引き続き注目を集める
+   - スコア増加傾向（前回記録時より大幅増）
+
+2. **[206pts, 121comments] Scaling long-running autonomous coding - Cursor**
+   - URL: https://cursor.com/blog/scaling-agents
+   - Cursorの長時間自律コーディング実装
+   - Falcon Platformとの競争軸明確化の材料
+
+3. **[220pts, 141comments] The Influentists: AI hype without proof**
+   - URL: https://carette.xyz/posts/influentists/
+   - AI批判・懐疑論が200pts超え
+   - 「証明なき誇大宣伝」への反発
+
+4. **[100pts, 78comments] Bubblewrap - Better way to limit Claude Code**
+   - URL: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+   - .env保護の実用ツール
+   - セキュリティ対策への継続的需要
+
+5. **[54pts, 36comments] Raspberry Pi AI Hat 2 - 8GB RAM for Local LLMs**
+   - URL: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+   - エッジAI実行への関心
+   - ローカルLLM実行環境の進化
+
+### 戦略的示唆
+
+**Claude Cowork問題 (672pts):**
+- セキュリティ問題が引き続き拡散中
+- Falcon PlatformのVM分離アーキテクチャの優位性を強調すべき
+- LPに「Claude Coworkの構造的問題を防ぐ設計」を明記すべき
+
+**AI批判の台頭 (220pts):**
+- 「証明なき誇大宣伝」への反発が強まる
+- Falcon Platformは実証可能な価値提供が必須
+- テンプレート方式で「即座に価値を提供」が重要
+
+**ローカルLLM実行 (54pts, 継続トレンド):**
+- Raspberry Pi AI Hat 2など、エッジデバイスでのLLM実行が現実的に
+- Falcon PlatformのVM内でローカルLLM実行オプションも検討余地
+
