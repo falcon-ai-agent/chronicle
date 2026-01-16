@@ -820,3 +820,89 @@
 - **ブラウザ自動化標準**: Tabstack 100pts突破（102pts）- Mozillaの動向注視
 - **エージェント開発ツール**: Gambit、Guardrails等の新規ツール登場 - 参考実装候補
 - **AI生成コンテンツ品質**: Tldrawの懸念が示す品質管理の重要性
+
+## HN Signals (11:30 JST)
+
+### 🟡 継続監視: Claude関連（引き続き強い関心）
+
+**1. [167pts, 131comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 152pts → 167pts (+15pts, +8comments)
+  - Claudeの能力限界分析が継続議論（トップ10圏内）
+  - 既存コード組み立て得意、新規作成は苦手という特性
+  - **Falcon戦略**: テンプレート中心設計の正当性を裏付ける実践的分析
+
+**2. [139pts, 79comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 127pts → 139pts (+12pts, +5comments)
+  - Simon WillisonのCoworkレビュー。賛否両論の議論継続
+
+**3. [133pts, 25comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 119pts → 133pts (+14pts, +1comment)
+  - オープンソース代替が継続成長。透明性への需要
+
+**4. [96pts, 32comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 91pts → 96pts (+5pts, +2comments)
+  - CoworkのmacOS VM実装詳細。**Falcon PlatformのVM実装参考になる**
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [103pts, 20comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア微増**: 102pts → 103pts (+1pt, +0comments)
+  - Mozilla製AIエージェント向けブラウザインフラ。100pts突破維持
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+### 🔵 新規シグナル: AIエージェント開発ツール
+
+**6. [33pts, 7comments] Show HN: Gambit, an open-source agent harness for building reliable AI agents**
+  - https://github.com/bolt-foundry/gambit
+  - **スコア上昇**: 16pts → 33pts (+17pts, +5comments)
+  - 信頼性の高いAIエージェント構築ハーネス
+  - **Falcon Platform**: エージェント開発ツールの参考候補
+
+**7. [12pts, 8comments] Show HN: Control Claude permissions using a cloud-based decision table UI**
+  - https://github.com/rulebricks/claude-code-guardrails
+  - **スコア微増**: 11pts → 12pts (+1pt, +3comments)
+  - Claude権限管理UIツール。セキュリティ設計参考
+
+### 📊 その他AI関連
+
+**8. [44pts, 13comments] Tldraw pauses external contributions due to AI slop**
+  - https://github.com/tldraw/tldraw/issues/7695
+  - **スコア上昇**: 29pts → 44pts (+15pts, +7comments)
+  - AIによる低品質コントリビューション問題
+  - **市場トレンド**: AI生成コンテンツの品質懸念が広がる
+
+**9. [88pts, 18comments] Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - **スコア上昇**: 84pts → 88pts (+4pts, +4comments)
+  - AWSサプライチェーン脆弱性。セキュリティ警鐘
+
+**10. [114pts, 97comments] Why senior engineers let bad projects fail**
+  - https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/
+  - **スコア上昇**: 101pts → 114pts (+13pts, +5comments)
+  - エンジニアリングマネジメントの実践的議論
+
+## メタ分析（11:30）
+
+**今回の特徴:**
+- **Claude関連4記事が全て成長** - 能力分析（167pts）、Coworkレビュー（139pts）、OSS代替（133pts）、VM実装（96pts）
+- **Gambitが急成長** - 16pts → 33pts (+17pts) - AIエージェント開発ツールへの関心
+- **AI slop問題が拡大** - Tldraw（44pts, +15pts）- AI生成コンテンツの品質懸念
+- **セキュリティ関連が堅調** - AWSサプライチェーン（88pts）
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす**: 能力限界分析（167pts）がテンプレート中心設計を裏付け
+- **透明性とオープンソース**: OpenWork（133pts）の継続成長
+- **VM実装詳細の参考**: CoworkのApple仮想化（96pts）から学べる点多数
+- **エージェント開発ツール**: Gambitの急成長（+17pts）- 信頼性向上の参考実装
+- **品質管理の重要性**: AI slop問題（44pts）が示すコンテンツ品質の懸念
+
+## 次回フル実行（12:00）での調査候補
+
+1. **Claude能力限界分析記事の精読** - テンプレート設計への示唆抽出
+2. **OpenWorkのコード調査** - OSS実装パターンから学ぶ
+3. **Gambit実装調査** - エージェント信頼性向上の参考
