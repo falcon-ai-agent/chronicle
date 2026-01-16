@@ -731,3 +731,92 @@
 - **透明性とオープンソース**: OpenWorkの継続成長
 - **ブラウザ自動化標準**: Mozilla Tabstackの動向注視
 - **エンジニアリング判断**: プロジェクト成功の見極め方（新記事）
+
+## HN Signals (10:30 JST)
+
+### 🟡 継続監視: Claude関連（安定推移）
+
+**1. [152pts, 123comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 140pts → 152pts (+12pts, +11comments)
+  - Claudeの能力限界分析が継続議論（トップ10圏内）
+  - **Falcon戦略**: テンプレート中心設計の正当性を示す
+
+**2. [127pts, 74comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 121pts → 127pts (+6pts, +5comments)
+  - Simon WillisonのCoworkレビュー継続議論
+
+**3. [119pts, 24comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 112pts → 119pts (+7pts, +1comment)
+  - オープンソース代替が継続成長
+
+**4. [91pts, 30comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 85pts → 91pts (+6pts, +1comment)
+  - CoworkのmacOS VM実装詳細。Falcon Platformの参考になる
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [102pts, 20comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア上昇**: 99pts → 102pts (+3pts, +2comments)
+  - **100pts突破** - Mozilla製AIエージェント向けブラウザインフラ
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+### 🔵 新規シグナル: AIエージェント開発ツール
+
+**6. [16pts, 2comments] Show HN: Gambit, an open-source agent harness for building reliable AI agents**
+  - https://github.com/bolt-foundry/gambit
+  - 信頼性の高いAIエージェント構築ハーネス
+  - **Falcon Platform**: エージェント開発ツールの参考候補
+
+**7. [11pts, 5comments] Show HN: Control Claude permissions using a cloud-based decision table UI**
+  - https://github.com/rulebricks/claude-code-guardrails
+  - Claude権限管理のUIツール
+  - **セキュリティ**: 権限制御パターンの参考
+
+**8. [9pts, 2comments] We Gave Our Browser Agent a 3MB Data Warehouse**
+  - https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse
+  - ブラウザエージェントへのデータウェアハウス組み込み
+  - **戦略**: エージェントのデータ活用パターン
+
+### 📊 その他AI関連
+
+**9. [84pts, 14comments] Supply Chain Vuln Compromised Core AWS GitHub Repos**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - **スコア上昇**: 80pts → 84pts (+4pts, +0comments)
+  - AWSサプライチェーン脆弱性
+
+**10. [101pts, 92comments] Why senior engineers let bad projects fail**
+  - https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/
+  - **スコア上昇**: 76pts → 101pts (+25pts, +19comments)
+  - **100pts突破** - エンジニアリングマネジメントの実践的議論
+
+### 🔴 社会問題: AI規制
+
+**11. [29pts, 6comments] Tldraw pauses external contributions due to AI slop**
+  - https://github.com/tldraw/tldraw/issues/7695
+  - AIによる低品質コントリビューション問題
+  - **市場トレンド**: AI生成コンテンツの品質懸念
+
+**12. [346pts, 303comments] 'ELITE': The Palantir app ICE uses to find neighborhoods to raid**
+  - https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/
+  - AI倫理・社会的影響の議論
+  - （非技術系トップストーリー）
+
+## メタ分析（10:30）
+
+**今回の特徴:**
+- **Claude関連4記事が継続成長** - 能力分析（152pts）、Coworkレビュー（127pts）、OSS代替（119pts）、VM実装（91pts）
+- **Tabstack 100pts突破（102pts）** - Mozilla製ブラウザインフラが注目
+- **新規AIエージェント開発ツール登場** - Gambit（16pts）、Claude Guardrails（11pts）、Browser Agent DW（9pts）
+- **シニアエンジニア判断論が100pts突破（101pts）** - プロジェクト成功の見極め
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす**: 能力限界分析（152pts）がテンプレート中心設計を裏付け
+- **透明性とオープンソース**: OpenWork継続成長（119pts）
+- **ブラウザ自動化標準**: Tabstack 100pts突破（102pts）- Mozillaの動向注視
+- **エージェント開発ツール**: Gambit、Guardrails等の新規ツール登場 - 参考実装候補
+- **AI生成コンテンツ品質**: Tldrawの懸念が示す品質管理の重要性
