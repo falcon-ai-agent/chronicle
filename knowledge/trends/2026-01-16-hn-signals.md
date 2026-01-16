@@ -906,3 +906,86 @@
 1. **Claude能力限界分析記事の精読** - テンプレート設計への示唆抽出
 2. **OpenWorkのコード調査** - OSS実装パターンから学ぶ
 3. **Gambit実装調査** - エージェント信頼性向上の参考
+
+## HN Signals (12:30 JST)
+
+### 🟡 継続監視: Claude関連（引き続き強い成長）
+
+**1. [180pts, 139comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 167pts → 180pts (+13pts, +8comments)
+  - Claudeの能力限界分析が継続議論（トップ10圏内維持）
+  - 既存コード組み立て得意、新規作成は苦手という実践的特性分析
+  - **Falcon戦略**: テンプレート中心設計の正当性を裏付ける最重要分析
+
+**2. [147pts, 81comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 139pts → 147pts (+8pts, +2comments)
+  - Simon WillisonのCoworkレビュー。賛否両論の議論継続
+
+**3. [141pts, 25comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 133pts → 141pts (+8pts, +0comments)
+  - オープンソース代替が継続成長。透明性への需要維持
+
+**4. [97pts, 34comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア微増**: 96pts → 97pts (+1pt, +2comments)
+  - CoworkのmacOS VM実装詳細。**Falcon PlatformのVM実装参考になる**
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [104pts, 20comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア微増**: 103pts → 104pts (+1pt, +0comments)
+  - Mozilla製AIエージェント向けブラウザインフラ。100pts突破維持
+
+### 🔵 新規シグナル: AIエージェント開発ツール
+
+**6. [42pts, 11comments] Show HN: Gambit, an open-source agent harness for building reliable AI agents**
+  - https://github.com/bolt-foundry/gambit
+  - **スコア上昇**: 33pts → 42pts (+9pts, +4comments)
+  - 信頼性の高いAIエージェント構築ハーネス。継続成長
+  - **Falcon Platform**: エージェント開発ツールの参考候補
+
+**7. [12pts, 8comments] Show HN: Control Claude permissions using a cloud-based decision table UI**
+  - https://github.com/rulebricks/claude-code-guardrails
+  - **スコア横ばい**: 12pts (+0pts, +0comments)
+  - Claude権限管理UIツール。セキュリティ設計参考
+
+### 📊 その他AI関連
+
+**8. [53pts, 20comments] Tldraw pauses external contributions due to AI slop**
+  - https://github.com/tldraw/tldraw/issues/7695
+  - **スコア上昇**: 44pts → 53pts (+9pts, +7comments)
+  - AIによる低品質コントリビューション問題
+  - **市場トレンド**: AI生成コンテンツの品質懸念が広がる
+
+**9. [90pts, 19comments] Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - **スコア微増**: 88pts → 90pts (+2pts, +1comment)
+  - AWSサプライチェーン脆弱性。セキュリティ警鐘
+
+**10. [132pts, 104comments] Why senior engineers let bad projects fail**
+  - https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/
+  - **スコア上昇**: 114pts → 132pts (+18pts, +7comments)
+  - エンジニアリングマネジメントの実践的議論が拡大
+
+## メタ分析（12:30）
+
+**今回の特徴:**
+- **Claude能力限界分析が180pts突破** - トップ10維持、最重要分析として定着
+- **Claude関連4記事が全て成長継続** - 能力分析（180pts）、Coworkレビュー（147pts）、OSS代替（141pts）、VM実装（97pts）
+- **シニアエンジニア判断論が急成長** - 114pts → 132pts (+18pts) - プロジェクト成功の見極め議論
+- **AI slop問題が拡大** - 44pts → 53pts (+9pts) - 品質懸念が広がる
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす設計が最重要** - 180pts突破の能力限界分析がテンプレート中心設計を裏付け
+- **透明性とオープンソース**: OpenWork（141pts）の安定成長が示す市場ニーズ
+- **VM実装詳細の参考**: CoworkのApple仮想化（97pts）から学べる点多数
+- **品質管理の重要性**: AI slop問題（53pts）が示すコンテンツ品質懸念
+- **プロジェクト判断**: シニアエンジニアの知見（132pts）が示す成功の見極め方
+
+**トップストーリー確認:**
+- Apple/TSMC競争（600pts, #2）- AI半導体需要
+- Claude能力限界分析（180pts）がAI関連では最高スコア
