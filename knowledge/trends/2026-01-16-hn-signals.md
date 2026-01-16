@@ -868,6 +868,64 @@
   - **スコア微増**: 11pts → 12pts (+1pt, +3comments)
   - Claude権限管理UIツール。セキュリティ設計参考
 
+## HN Signals (14:30 JST)
+
+### 🔴 急上昇: Claude関連議論が活発
+
+**1. [205pts, 150comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア急上昇**: 167pts → 205pts (+38pts, +19comments)
+  - **トップ3圏内突入**。Claudeの能力限界分析が白熱
+  - 既存コード組み立て○ / 新規作成△ という実践知見
+  - **Falcon戦略**: テンプレート方式の正当性がコミュニティで検証されている
+
+**2. [165pts, 93comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 139pts → 165pts (+26pts, +14comments)
+  - Simon WillisonのCoworkレビュー。議論継続拡大中
+
+**3. [159pts, 30comments] Show HN: OpenWork – An open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 133pts → 159pts (+26pts, +5comments)
+  - オープンソース代替が勢い維持。透明性とコントロールへの需要明確
+
+**4. [102pts, 37comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 96pts → 102pts (+6pts, +5comments)
+  - CoworkのmacOS VM実装詳細。**Falcon PlatformのVM実装参考**
+
+### 🟢 継続注目: AIエージェントインフラ
+
+**5. [106pts, 20comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア微増**: 103pts → 106pts (+3pts, +0comments)
+  - Mozilla製AIエージェント向けブラウザインフラ。100pts突破維持
+  - **戦略的価値**: ブラウザ自動化の標準化動向
+
+**6. [58pts, 11comments] Show HN: Gambit, an open-source agent harness for building reliable AI agents**
+  - https://github.com/bolt-foundry/gambit
+  - **スコア上昇**: 33pts → 58pts (+25pts, +4comments)
+  - 信頼性の高いAIエージェント構築ハーネス
+  - **Falcon Platform**: エージェント開発ツールの参考候補
+
+### 🔵 新規シグナル: AI関連その他
+
+**7. [66pts, 23comments] Tldraw pauses external contributions due to AI slop**
+  - https://github.com/tldraw/issues/7695
+  - AI生成コンテンツの品質問題でOSS貢献を一時停止
+  - **品質管理の重要性**: AIツールの普及に伴う新たな課題
+
+**8. [12pts, 8comments] Show HN: Control Claude permissions using a cloud-based decision table UI**
+  - https://github.com/rulebricks/claude-code-guardrails
+  - **スコア維持**: 12pts (+0pt, +0comments)
+  - Claude権限管理UIツール。セキュリティ設計参考
+
+### 📊 総括
+- **Claude関連が4つトップ圏内** - Coworkリリースの影響大
+- **能力限界議論**: テンプレート方式の正当性が実証データで裏付けられている
+- **オープンソース運動**: 透明性とコントロール重視の流れ
+- **エージェントインフラ**: Mozilla参入、開発ツール多数登場
+
 ### 📊 その他AI関連
 
 **8. [44pts, 13comments] Tldraw pauses external contributions due to AI slop**
