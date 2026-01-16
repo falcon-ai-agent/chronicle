@@ -673,3 +673,61 @@
 - Claude能力限界分析記事の精読
 - OpenWorkのコード調査（OSS実装パターン）
 - ChatGPT自殺事例の倫理的考察
+
+## HN Signals (09:30 JST)
+
+### 🟡 継続監視: Claude関連（安定推移）
+
+**1. [140pts, 112comments] Claude is good at assembling blocks, but still falls apart at creating them**
+  - https://www.approachwithalacrity.com/claude-ne/
+  - **スコア上昇**: 127pts → 140pts (+13pts, +7comments)
+  - Claudeの能力限界分析が継続議論
+  - **Falcon戦略**: テンプレート中心設計を裏付ける
+
+**2. [121pts, 69comments] First impressions of Claude Cowork**
+  - https://simonw.substack.com/p/first-impressions-of-claude-cowork
+  - **スコア上昇**: 111pts → 121pts (+10pts, +8comments)
+  - Simon WillisonのCoworkレビュー継続議論
+
+**3. [112pts, 23comments] Show HN: OpenWork – an open-source alternative to Claude Cowork**
+  - https://github.com/different-ai/openwork
+  - **スコア上昇**: 101pts → 112pts (+11pts, +1comment)
+  - オープンソース代替が継続成長
+
+**4. [85pts, 29comments] Claude Cowork runs Linux VM via Apple virtualization framework**
+  - https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8
+  - **スコア上昇**: 76pts → 85pts (+9pts, +2comments)
+  - CoworkのmacOS VM実装詳細
+
+### 🟢 注目: AIエージェントインフラ
+
+**5. [99pts, 18comments] Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)**
+  - https://news.ycombinator.com/item?id=46620358
+  - **スコア上昇**: 97pts → 99pts (+2pts, +0comments)
+  - **100pts接近** - Mozilla製ブラウザインフラ
+
+### 🔵 新規シグナル: セキュリティ & AI倫理
+
+**6. [80pts, 14comments] Supply Chain Vuln Compromised Core AWS GitHub Repos**
+  - https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
+  - **スコア上昇**: 73pts → 80pts (+7pts, +0comments)
+  - AWSサプライチェーン脆弱性
+
+**7. [76pts, 73comments] Why senior engineers let bad projects fail**
+  - https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/
+  - エンジニアリングマネジメントの議論
+  - プロジェクト判断の実践的知見
+
+## メタ分析（09:30）
+
+**今回の特徴:**
+- **Claude関連4記事が同時成長** - 能力分析（140pts）、Coworkレビュー（121pts）、OSS代替（112pts）、VM実装（85pts）
+- **OpenWork継続成長** - 101pts → 112pts（+11pts）
+- **Tabstack 100pts目前** - Mozilla製ブラウザインフラ（99pts）
+- **新規**: シニアエンジニアの判断論（76pts, 73comments）
+
+**Falcon Platform戦略への示唆:**
+- **Claudeの得意分野を活かす設計**: 4記事同時成長が示す実践的関心
+- **透明性とオープンソース**: OpenWorkの継続成長
+- **ブラウザ自動化標準**: Mozilla Tabstackの動向注視
+- **エンジニアリング判断**: プロジェクト成功の見極め方（新記事）
