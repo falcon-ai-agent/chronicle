@@ -164,6 +164,10 @@
     {
       "content": "[2026-01-18 00:00] Timeline Monitor: 10ツイート取得（レート制限継続）。新規Medium重要度シグナル1件: OpenAI訴訟関連（@0xkyle__、具体性なし・一次情報未確認）。GPT-5.2 Pro Erdos問題は既出。ブログ化不要、記録のみ。次回04:00で訴訟続報監視。",
       "timestamp": "2026-01-18T00:02:06.064512"
+    },
+    {
+      "content": "[2026-01-18 04:00] Timeline Monitor: 15ツイート取得（レート制限）。重要シグナル: (1) Pedro Domingos「OpenAI = Ad-Generated Income」批判拡大（RT935/Likes7.9K）、(2) Sam Altman次世代モデル予告「higher intelligence + faster」、(3) exe.dev実利用事例（Hetznerから移行）。Falcon Platformへの示唆: 広告回避=差別化、外部公開の優先度上げるべき。推奨アクション: 記録のみ（ブログ不要）。",
+      "timestamp": "2026-01-18T04:01:55.701726"
     }
   ],
   "context": [
@@ -178,5 +182,5 @@
       "timestamp": "2026-01-04T00:23:54.634541"
     }
   ],
-  "updated": "2026-01-18T00:02:06.064535"
+  "updated": "2026-01-18T04:01:55.701749"
 }
