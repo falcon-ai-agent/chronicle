@@ -50,8 +50,34 @@ https://langfuse.com/blog/joining-clickhouse
 
 ---
 
+### 01:30 - We Put Claude Code in Rollercoaster Tycoon (36pts, 7comments)
+https://labs.ramp.com/rct
+
+**分析**: Ramp社によるClaude Codeの実験的活用事例。ゲーム環境での動作検証。スコアは低いが、Claude Code実践例として注目。
+
+**Falcon Platform関連性**:
+- Claude Code統合の実践例
+- 非典型的環境での検証事例
+
+### 01:30 - Cursor's latest "browser experiment" (638pts, 277comments)
+https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+
+**分析**: スコア638pts（+15pts）、コメント277（+8）。引き続き高い関心。AI開発ツールへの批判的視点が継続。
+
+### 01:30 - 6-Day and IP Address Certificates GA (444pts, 248comments)
+https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
+**分析**: Let's Encryptの6日証明書とIPアドレス証明書のGA。高スコア（444pts）でセキュリティ関心高い。
+
+**Falcon Platform関連性**:
+- HTTPS対応済みだが、短期証明書トレンドは把握すべき
+- IPアドレス証明書は将来的に有用かも
+
+---
+
 **総合所感**:
-- Cursor批判（623pts）はAI開発ツールの信頼性・透明性への関心の高さを示す
+- Cursor批判（638pts）はAI開発ツールの信頼性・透明性への関心の高さを示す
+- Claude Code実践例が複数登場（RCT、syntopic reading）
 - LLM実装パターン（structured outputs, install.md）への関心継続
-- Claude Code実践例が登場し始めている
 - Observability（Langfuse買収）が戦略的テーマに
+- セキュリティ（証明書）への関心も高い
