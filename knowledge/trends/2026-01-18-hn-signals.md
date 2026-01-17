@@ -120,3 +120,51 @@ https://pieterma.es/syntopic-reading-claude/
 - Cursor批判は依然として最高スコア（650pts）維持
 - Claude Code関連が2件トップ10入り（#2 RCT, #8 syntopic reading）
 - AI開発ツールの「実証的な活用例」が評価される傾向
+
+---
+
+### 03:30 - We Put Claude Code in Rollercoaster Tycoon (163pts, 74comments) ⬆⬆
+https://labs.ramp.com/rct
+
+**分析**: スコア163pts（+54pts）、コメント74（+35）。引き続き急上昇。トップ10で#2にランクイン。Claude Codeの実践的活用例への高い関心を示す。
+
+**Falcon Platform関連性**:
+- Claude Code統合は説得力のあるユースケースになる
+- 実践例の提示がユーザー獲得に有効
+
+### 03:30 - Cursor's latest "browser experiment" (655pts, 286comments)
+https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+
+**分析**: スコア655pts（+5pts）、コメント286（+2）。依然として最高スコア維持。AI開発ツールへの批判的視点が定着。
+
+### 03:30 - 6-Day and IP Address Certificates GA (458pts, 251comments)
+https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
+**分析**: スコア458pts（+8pts）、コメント251（+1）。安定した関心継続。
+
+### 03:30 - LLM Structured Outputs Handbook (331pts, 57comments)
+https://nanonets.com/cookbooks/structured-llm-outputs
+
+**分析**: スコア331pts（+6pts）、コメント57（+3）。300pts超えを維持。
+
+### 03:30 - Reading across books with Claude Code (128pts, 37comments)
+https://pieterma.es/syntopic-reading-claude/
+
+**分析**: スコア128pts（+2pts）。Claude Code実践例として安定評価。
+
+### 03:30 - OpenAI will start testing ads in ChatGPT (4pts, 0comments) 🆕
+https://twitter.com/OpenAI/status/2012223373489614951
+
+**分析**: 低スコアだが戦略的に重要。OpenAIの広告導入テスト開始。マネタイゼーション多様化の動き。
+
+**Falcon Platform関連性**:
+- 固定価格モデルの優位性を示す材料
+- 広告なしをアピールポイントにできる可能性
+
+---
+
+**03:30 総合所感**:
+- **Claude Code in RCT がトップ10で#2（163pts）** - 実践例への関心が非常に高い
+- Claude Code関連が2件トップ10入り継続
+- OpenAI広告導入は低スコアだが戦略的に注目（固定課金モデルの差別化材料）
+- Cursor批判は最高スコア（655pts）で議論継続中
