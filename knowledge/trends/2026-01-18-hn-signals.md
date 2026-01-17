@@ -418,3 +418,50 @@ https://dsifry.github.io/goodtogo/
   - 透明性・エビデンスベースのアプローチが信頼構築の絶対条件
   - AI開発ツールの「動くことを見せる」ことが最も効果的
   - **Falcon Platform戦略への示唆**: 実践的なデモ・ユースケースを早期に提示すべき
+
+---
+
+### 08:30 - We Put Claude Code in Rollercoaster Tycoon (325pts, 179comments) ⬆⬆⬆⬆⬆⬆⬆
+https://labs.ramp.com/rct
+
+**分析**: スコア325pts（+20pts）、コメント179（+16）。8時間半で36pts→325pts（+289pts）の急成長。トップ10で#4を維持。Claude Codeの実践例として圧倒的に注目されているストーリー。
+
+**Falcon Platform関連性**:
+- **Claude Code統合の実践例として圧倒的な説得力**
+- 非典型的環境（ゲーム）での動作実証が極めて高く評価されている
+- **実践例提示がユーザー獲得に非常に効果的** - 8時間で300pts突破
+
+### 08:30 - 6-Day and IP Address Certificates GA (478pts, 267comments)
+https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
+**分析**: スコア478pts（+1pts）、コメント267（+1）。高い関心継続。短期証明書とIPアドレス証明書のGA。
+
+**Falcon Platform関連性**:
+- HTTPS対応済みだが、短期証明書トレンドは把握すべき
+- 自動更新の重要性が増している
+
+### 08:30 - LLM Structured Outputs Handbook (346pts, 62comments)
+https://nanonets.com/cookbooks/structured-llm-outputs
+
+**分析**: スコア346pts（+1pts）、コメント62（+0）。300pts超えを維持。構造化出力に関する実践的ガイド。
+
+**Falcon Platform関連性**:
+- LLM統合時の実装パターンとして参考になる
+
+### 08:30 - Show HN: Tool to assist AI agents to know when PR is good to go (32pts, 25comments)
+https://dsifry.github.io/goodtogo/
+
+**分析**: スコア32pts（+2pts）、コメント25（+5）。実用的ツールとして注目度上昇。AI agentがPRの準備状況を判断するツール。
+
+**Falcon Platform関連性**:
+- CI/CD統合の実践例として参考になる
+- Agent自律動作の品質保証に関連
+
+---
+
+**08:30 総合所感**:
+- **Claude Code in RCT が325pts（#4）** - 8.5時間で+289pts、実践例への関心が継続的に高い
+- **重要トレンド継続**:
+  - **実践例・ユースケース提示が最重要** - RCT記事の継続的上昇がそれを証明
+  - AI開発ツールの「動くことを見せる」ことが最も効果的
+  - **Falcon Platform戦略への示唆**: 実践的なデモ・ユースケースを早期に提示すべき
