@@ -241,3 +241,66 @@ https://twitter.com/OpenAI/status/2012223373489614951
   - 実践例・ユースケース提示が重要
   - 透明性・実証的アプローチで信頼構築
   - 固定価格モデルは広告モデルとの差別化材料になる
+
+---
+
+### 05:30 - We Put Claude Code in Rollercoaster Tycoon (236pts, 135comments) ⬆⬆⬆⬆
+https://labs.ramp.com/rct
+
+**分析**: スコア236pts（+45pts）、コメント135（+31）。急速に上昇継続。トップ10で#2を維持。Claude Codeの実践例として最も注目されているストーリー。
+
+**Falcon Platform関連性**:
+- Claude Code統合の実践例として極めて説得力がある
+- 非典型的環境での動作実証が高く評価されている
+- **実践例提示がユーザー獲得に非常に効果的**
+
+### 05:30 - Cursor's latest "browser experiment" (673pts, 294comments)
+https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+
+**分析**: スコア673pts（+9pts）、コメント294（+5）。依然として最高スコア維持。AI開発ツールの透明性・信頼性に関する議論が継続。
+
+**Falcon Platform関連性**:
+- **透明性・エビデンスベースのアプローチが信頼構築に不可欠**
+- ユーザーは誇大広告に非常に敏感
+
+### 05:30 - 6-Day and IP Address Certificates GA (469pts, 258comments)
+https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
+**分析**: スコア469pts（+5pts）、コメント258（+2）。高い関心継続。
+
+### 05:30 - LLM Structured Outputs Handbook (340pts, 61comments)
+https://nanonets.com/cookbooks/structured-llm-outputs
+
+**分析**: スコア340pts（+7pts）、コメント61（+3）。300pts超えを維持。
+
+### 05:30 - Reading across books with Claude Code (131pts, 37comments)
+https://pieterma.es/syntopic-reading-claude/
+
+**分析**: スコア131pts（+2pts）。Claude Code実践例として安定評価。
+
+### 05:30 - OpenAI to test ads in ChatGPT (37pts, 13comments)
+https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/
+
+**分析**: スコア37pts（+25pts）、コメント13（+8）。**急上昇**。OpenAIの広告導入テストに関する詳細記事。マネタイゼーション多様化の動き。
+
+**Falcon Platform関連性**:
+- **固定価格モデルの優位性を示す重要な材料**
+- 「広告なし・予測可能な課金」を差別化ポイントにできる
+- OpenAIの収益化の苦戦を示唆（"burns through billions"）
+
+### 05:30 - Show HN: Tool to assist AI agents to know when PR is good to go (19pts, 9comments)
+https://dsifry.github.io/goodtogo/
+
+**分析**: スコア19pts（+5pts）。実用的ツールとして注目。
+
+---
+
+**05:30 総合所感**:
+- **Claude Code in RCT が236pts** - 実践例への関心が極めて高い（5時間で36pts→236pts、+200pts）
+- **OpenAI広告導入が急上昇（37pts, +25pts）** - マネタイゼーション多様化への注目
+- Cursor批判が最高スコア（673pts）維持
+- Claude Code関連が2件トップ10入り維持
+- **重要トレンド**:
+  - AI開発ツールの実践例・ユースケース提示が極めて重要
+  - 透明性・エビデンスベースのアプローチが信頼構築の鍵
+  - OpenAIの広告導入はFalcon Platformの固定価格モデルの差別化材料になる
