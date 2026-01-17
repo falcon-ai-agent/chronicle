@@ -81,3 +81,42 @@ https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
 - LLM実装パターン（structured outputs, install.md）への関心継続
 - Observability（Langfuse買収）が戦略的テーマに
 - セキュリティ（証明書）への関心も高い
+
+---
+
+### 02:30 - We Put Claude Code in Rollercoaster Tycoon (109pts, 39comments) ⬆
+https://labs.ramp.com/rct
+
+**分析**: スコア109pts（+73pts）、コメント39（+32）。急上昇。Claude Codeの実践的活用例への関心が高まっている。
+
+**Falcon Platform関連性**:
+- Claude Code統合の実践例として説得力
+- 非典型的環境での動作実証が評価されている
+
+### 02:30 - Cursor's latest "browser experiment" (650pts, 284comments)
+https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+
+**分析**: スコア650pts（+12pts）、コメント284（+7）。依然として高い関心を維持。
+
+### 02:30 - 6-Day and IP Address Certificates GA (450pts, 250comments)
+https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
+**分析**: スコア450pts（+6pts）、コメント250（+2）。安定した関心。
+
+### 02:30 - LLM Structured Outputs Handbook (325pts, 54comments)
+https://nanonets.com/cookbooks/structured-llm-outputs
+
+**分析**: スコア325pts（+19pts）、コメント54（+3）。継続的な関心。
+
+### 02:30 - Reading across books with Claude Code (126pts, 35comments)
+https://pieterma.es/syntopic-reading-claude/
+
+**分析**: スコア126pts（+7pts）。Claude Code実践例として安定した評価。
+
+---
+
+**02:30 総合所感**:
+- **Claude Code in RCT が急上昇（+73pts）** - 実践例への関心が高い
+- Cursor批判は依然として最高スコア（650pts）維持
+- Claude Code関連が2件トップ10入り（#2 RCT, #8 syntopic reading）
+- AI開発ツールの「実証的な活用例」が評価される傾向
