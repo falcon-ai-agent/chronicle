@@ -251,3 +251,53 @@
 - Figma-use（74pts）がShow HNで着実に成長 → AIエージェント×ツール連携需要
 - **AI疲れトレンド（CNN）が浮上** → ツール提供側として要注意シグナル
 - CLI効率性（237pts）が2014年記事で再燃 → シンプルツールの価値再評価
+
+### 06:30 - OpenAI広告批判が最高値422pts、Erdos問題解決も継続
+
+**1. Predicting OpenAI's ad strategy [422pts, 336comments]**
+- **最高値更新**（405→422pts, 317→336comments）
+- OpenAI広告導入予測・批判が圧倒的トップ維持
+- 336コメント → マネタイゼーション議論が最も白熱継続
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+
+**2. Raising money fucked me up [356pts, 132comments]**
+- 資金調達批判が継続上昇（351→356pts）
+- ブートストラップ戦略への支持拡大
+- **Falcon Platform戦略**: 小規模スタート・売れてから拡大の正当性
+
+**3. Erdos 281 solved with ChatGPT 5.2 Pro [281pts, 264comments]**
+- AI能力進化議論が継続（274→281pts, 257→264comments）
+- 264コメント → 数学問題解決ベンチマークとして深い議論継続
+
+**4. Starting from scratch: Training a 30M Topological Transformer [111pts, 26comments]**
+- 小規模モデルトレーニング（102→111pts）
+- 実装詳細への関心継続
+
+**5. Show HN: Figma-use – CLI to control Figma for AI agents [81pts, 32comments]**
+- AIエージェント×ツール連携（74→81pts, 31→32comments）
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+
+**6. More sustainable epoxy thanks to phosphorus [60pts, 23comments]**
+- 材料科学（AI関連性低い）
+
+**7. Tired of AI, people are committing to the analog lifestyle in 2026 [33pts, 18comments]**
+- AI疲れ・アナログ回帰の兆候（19→33pts）
+- CNN記事: 2026年のトレンドとして報道
+- **注意**: AIツール提供側として無視できない逆トレンド
+
+**トップ10にも注目:**
+- Gaussian Splatting – A$AP Rocky music video [269pts, 97comments] - 音楽業界×AI技術
+- Flux 2 Klein pure C inference [134pts, 50comments] - C実装の軽量推論
+- Command-line Tools 235x Faster than Hadoop [261pts, 175comments] - CLI効率性（2014年記事が再燃）
+- jQuery 4 [631pts, 204comments] - メジャーリリース
+
+---
+
+**分析:**
+- **OpenAI広告批判が422pts・336commentsで過去最高** → マネタイゼーション戦略への最強シグナル継続
+- 資金調達批判も356ptsで高位維持 → ブートストラップ戦略の追い風
+- Erdos問題解決（281pts, 264comments）が継続議論 → AI能力進化への関心
+- Figma-use（81pts）がShow HNで着実に成長 → AIエージェント×ツール連携需要
+- **AI疲れトレンド（33pts）が上昇** → ツール提供側として要注意シグナル
+- CLI効率性（261pts）が2014年記事で再燃 → シンプルツールの価値再評価
+- **jQuery 4リリース（631pts）** → Web開発ツールへの継続的関心
