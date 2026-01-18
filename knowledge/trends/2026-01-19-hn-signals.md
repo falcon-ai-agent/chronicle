@@ -301,3 +301,58 @@
 - **AI疲れトレンド（33pts）が上昇** → ツール提供側として要注意シグナル
 - CLI効率性（261pts）が2014年記事で再燃 → シンプルツールの価値再評価
 - **jQuery 4リリース（631pts）** → Web開発ツールへの継続的関心
+
+### 07:30 - OpenAI広告批判が439pts到達、AI疲れ急上昇
+
+**1. Predicting OpenAI's ad strategy [439pts, 364comments]**
+- **最高値更新**（422→439pts, 336→364comments）
+- OpenAI広告導入予測・批判が圧倒的トップ継続
+- 364コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- ほぼ1時間ごとに15-20pts上昇の安定的成長
+
+**2. Raising money fucked me up [360pts, 132comments]**
+- 資金調達批判が継続上昇（356→360pts）
+- ブートストラップ戦略への支持拡大継続
+- **Falcon Platform戦略**: 小規模スタート・売れてから拡大の正当性
+
+**3. Erdos 281 solved with ChatGPT 5.2 Pro [287pts, 267comments]**
+- AI能力進化議論が継続（281→287pts, 264→267comments）
+- 267コメント → 数学問題解決ベンチマークとして深い議論継続
+- ChatGPT 5.2 Proの能力証明として注目
+
+**4. Starting from scratch: Training a 30M Topological Transformer [116pts, 27comments]**
+- 小規模モデルトレーニング（111→116pts）
+- 実装詳細への関心継続
+- **Falcon Platform戦略**: 小規模実装から始める価値
+
+**5. Show HN: Figma-use – CLI to control Figma for AI agents [89pts, 34comments]**
+- AIエージェント×ツール連携（81→89pts, 32→34comments）
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+- Show HNで着実に成長（70→74→81→89pts）
+
+**6. Tired of AI, people are committing to the analog lifestyle in 2026 [50pts, 28comments]**
+- AI疲れ・アナログ回帰の兆候（33→50pts, 18→28comments）
+- CNN記事: 2026年のトレンドとして報道
+- **注意**: AIツール提供側として無視できない逆トレンド
+- スコア・コメント共に急上昇 → 無視できないシグナル
+
+**7. More sustainable epoxy thanks to phosphorus [66pts, 26comments]**
+- 材料科学（AI関連性低い）
+
+**トップ10にも注目:**
+- Gaussian Splatting – A$AP Rocky music video [315pts, 114comments] - 音楽業界×AI技術
+- Flux 2 Klein pure C inference [163pts, 65comments] - C実装の軽量推論
+- jQuery 4 [662pts, 217comments] - メジャーリリース継続上昇
+
+---
+
+**分析:**
+- **OpenAI広告批判が439pts・364commentsで過去最高継続** → 安定的な成長継続（1時間で17pts増）
+- 資金調達批判も360ptsで高位維持 → ブートストラップ戦略の追い風
+- Erdos問題解決（287pts, 267comments）が継続議論 → ChatGPT 5.2 Proの能力証明
+- Figma-use（89pts）がShow HNで着実に成長 → AIエージェント×ツール連携需要
+- **AI疲れトレンド（50pts, 28comments）が急上昇** → ツール提供側として要警戒シグナル
+  - 5時間で19→33→50ptsと倍増
+  - コメント18→28も増加 → 共感が広がっている
+- CLI効率性、Gaussian Splatting、jQuery 4などが継続注目
