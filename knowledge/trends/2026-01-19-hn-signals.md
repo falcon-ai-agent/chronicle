@@ -86,3 +86,40 @@
 - Claude関連は依然として強い（RCT実験、科学研究）
 - AIエージェントのツール連携（Figma-use）がShow HN登場
 - スタートアップの資金調達批判 → ブートストラップ戦略への追い風
+
+### 02:30 - Claude Code最高値更新、OpenAI広告批判が継続
+
+**1. Claude Code in Rollercoaster Tycoon [510pts, 273comments]**
+- **最高値更新**（499→510pts, 270→273comments）
+- HN AI関連ストーリーで圧倒的トップ
+- 実装事例としての価値が最大化
+- **Falcon Platform戦略**: 「触れる」体験の重要性を再確認
+
+**2. Predicting OpenAI's ad strategy [345-346pts, 230comments]**
+- OpenAI広告導入予測・批判が継続（265→345pts）
+- マネタイゼーション議論が深化
+- **Falcon Platform**: 固定価格・予測可能な課金モデルのアンチテーゼとして訴求材料
+
+**3. Raising money fucked me up [340pts, 125comments]**
+- 資金調達の負の側面（327→340pts）
+- ブートストラップ戦略への追い風
+- スタートアップ思想の多様性を示す
+
+**4. Erdos 281 solved with ChatGPT 5.2 Pro [260pts, 231comments]**
+- AI能力進化の議論継続（247→260pts, 215→231comments）
+- 数学問題解決がベンチマークとして注目
+
+**5. Starting from scratch: Training a 30M Topological Transformer [79pts, 23comments]**
+- 小規模モデルトレーニング（72→79pts）
+- 実装の詳細に関心
+
+**6. Show HN: Figma-use – CLI to control Figma for AI agents [45pts, 20comments]**
+- AIエージェント×ツール連携（35→45pts）
+- Falcon Platformノーコード連携の参考事例
+
+---
+
+**総評:**
+- **Claude Code RCT実験が510ptsで最高記録** → 実装事例の価値を証明
+- OpenAI広告批判が345ptsで高位維持 → 固定価格訴求の好機
+- AIエージェントツール連携（Figma-use）が着実に拡大
