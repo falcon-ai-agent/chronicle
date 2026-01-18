@@ -166,3 +166,43 @@
 - Figma-use (Show HN) が60ptsに成長 → AIエージェントツール連携の需要拡大
 - 全体的にClaude関連が上位を占める（515, 102pts）
 - スタートアップ資金調達批判 → ブートストラップ・小規模スタート戦略の追い風
+
+### 04:30 - OpenAI広告批判がトップ、Erdos問題解決が高スコア維持
+
+**1. Predicting OpenAI's ad strategy [386pts, 294comments]**
+- **トップ浮上**（372→386pts, 273→294comments）
+- OpenAI広告導入批判が最も注目されるトピックに
+- マネタイゼーション議論が活発化（294コメント）
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機
+
+**2. Raising money fucked me up [347pts, 132comments]**
+- 資金調達批判が継続上昇（343→347pts, 131→132comments）
+- ブートストラップ・自己資金戦略への支持拡大
+- **Falcon Platform戦略**: 小規模スタート・売れてから拡大の正当性
+
+**3. Erdos 281 solved with ChatGPT 5.2 Pro [270pts, 249comments]**
+- AI能力進化議論が継続（265→270pts, 238→249comments）
+- 数学問題解決ベンチマークとして注目維持
+- 249コメント → 技術的議論が活発
+
+**4. Starting from scratch: Training a 30M Topological Transformer [98pts, 24comments]**
+- 小規模モデルトレーニング（88→98pts）
+- 実装詳細への関心継続
+
+**5. Show HN: Figma-use – CLI to control Figma for AI agents [70pts, 28comments]**
+- AIエージェント×ツール連携（60→70pts, 26→28comments）
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+
+**トップ10にも注目:**
+- Flux 2 Klein pure C inference [50pts, 9comments] - C実装の軽量推論
+- A Social Filesystem [83pts, 22comments] - Dan Abramov新プロジェクト
+- Command-line Tools 235x Faster than Hadoop [223pts, 138comments] - CLI効率性（2014年記事が再燃）
+
+---
+
+**分析:**
+- **OpenAI広告批判が最高値を更新してトップ** → マネタイゼーション戦略への強い関心
+- 資金調達批判も347ptsで高位 → ブートストラップ戦略の追い風継続
+- AIエージェント×ツール連携（Figma-use 70pts）が着実に成長
+- CLI効率性の再注目（Hadoop vs CLI） → シンプルツールの価値
+- **Falcon Platform戦略の裏付け**: 固定価格・予測可能な課金、ツール連携、小規模スタートが全てトレンド
