@@ -608,3 +608,90 @@
   - Ultrathink廃止・新機能（5pts）→ 最新情報
 - Gaussian Splatting（466pts）がトップクラス → AI技術の多様化・実用化
 - Flux 2 Klein（231pts）が継続注目 → C実装の軽量推論需要
+
+### 12:30 - OpenAI広告批判が498pts到達、Claude Code関連が複数浮上
+
+**1. Predicting OpenAI's ad strategy [498pts, 428comments]**
+- **最高値更新**（486→498pts, 415→428comments）
+- OpenAI広告導入予測・批判が圧倒的トップ継続
+- 428コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- 1時間で12pts増、安定的な成長継続（12時間で152pts増）
+- **500pts目前 → HN史上でも高スコアの部類**
+
+**2. Erdos 281 solved with ChatGPT 5.2 Pro [295pts, 275comments]**
+- AI能力進化議論が継続（292→295pts）
+- 275コメント → 数学問題解決ベンチマークとして深い議論継続
+- ChatGPT 5.2 Proの能力証明として注目
+
+**3. Starting from scratch: Training a 30M Topological Transformer [125pts, 35comments]**
+- 小規模モデルトレーニング（124→125pts）
+- 実装詳細への関心継続
+- **Falcon Platform戦略**: 小規模実装から始める価値
+
+**4. Show HN: Figma-use – CLI to control Figma for AI agents [100pts, 36comments]**
+- AIエージェント×ツール連携（99→100pts）
+- **100pts突破 → Show HNとして成功事例**
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+- 8時間で70→100ptsと43%成長
+
+**5. Tired of AI, people are committing to the analog lifestyle in 2026 [82pts, 36comments]**
+- AI疲れ・アナログ回帰の兆候（79→82pts, 35→36comments）
+- CNN記事: 2026年のトレンドとして報道
+- **注意**: AIツール提供側として無視できない逆トレンド
+- スコア継続上昇（10時間で19→82ptsと4.3倍増）
+
+**6. More sustainable epoxy thanks to phosphorus [82pts, 36comments]**
+- 材料科学（AI関連性低い）
+
+**7. Using proxies to hide secrets from Claude Code [38pts, 10comments]**
+- **Claude Code関連が継続上昇**（29→38pts, 5→10comments）
+- セキュリティ対策（秘密情報を隠す手法）
+- Claude Code利用の実践的課題を示す
+- **記事URL**: https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+
+**8. The Code-Only Agent [8pts, 0comments]**
+- **Claude Code関連が新規浮上**
+- コード中心のエージェント設計
+- 低スコアだが、エージェント設計思想として価値
+- **記事URL**: https://rijnard.com/blog/the-code-only-agent
+
+**9. Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code [7pts, 0comments]**
+- **Claude Code関連**
+- Ultrathink機能の廃止と新機能解説
+- 低スコアだが、Claude Code最新情報として価値
+- **記事URL**: https://decodeclaude.com/ultrathink-deprecated/
+
+**10. Show HN: Run LLMs in Docker for any language without prebuilding containers [15pts, 5comments]**
+- LLM実行環境の簡素化
+- 開発者ツール需要を示す
+- **記事URL**: https://github.com/mheap/agent-en-place
+
+**トップ10にも注目:**
+- Gaussian Splatting – A$AP Rocky music video [496pts, 162comments] - 音楽業界×AI技術
+- Flux 2 Klein pure C inference [248pts, 101comments] - C実装の軽量推論
+- A Social Filesystem [306pts, 143comments] - Dan Abramov新プロジェクト
+
+---
+
+**分析:**
+- **OpenAI広告批判が498pts・428commentsで過去最高継続** → マネタイゼーション戦略への最強シグナル
+  - 12時間で152pts増、安定的な成長継続
+  - **500pts目前 → HN史上でも高スコアの部類**
+- Erdos問題解決（295pts, 275comments）が継続議論 → ChatGPT 5.2 Proの能力証明
+- **Figma-use（100pts）がShow HNで100pts突破** → AIエージェント×ツール連携需要の証明
+- **AI疲れトレンド（82pts）が継続上昇** → ツール提供側として要警戒シグナル
+  - 10時間で19→82ptsと4.3倍増
+- **Claude Code関連が3件浮上**:
+  1. 秘密情報隠蔽手法（38pts, 10comments）→ セキュリティ課題
+  2. Code-Only Agent（8pts）→ エージェント設計思想
+  3. Ultrathink廃止・新機能（7pts）→ 最新情報
+- Gaussian Splatting（496pts）がトップクラス → AI技術の多様化・実用化
+- Flux 2 Klein（248pts）が継続注目 → C実装の軽量推論需要
+- A Social Filesystem（306pts）が上位 → Dan Abramov新プロジェクト注目
+
+**Falcon Platform戦略への示唆:**
+- OpenAI広告批判498pts → 固定価格・予測可能モデルの訴求絶好機継続
+- Figma-use 100pts突破 → AIエージェント×ツール連携の需要証明
+- AI疲れ82pts → シンプルで使いやすいツールへの需要
+- Claude Code関連3件 → セキュリティ、設計思想、最新機能への関心
