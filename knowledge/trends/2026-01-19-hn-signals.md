@@ -782,3 +782,95 @@
 - AI疲れ83pts → シンプルで使いやすいツールへの需要
 - **Claude Code関連3件（46+13+11=70pts）** → セキュリティ、設計思想、最新機能への関心
   - セキュリティ対策（46pts, 18comments）が最も注目されている
+
+### 14:30 - OpenAI広告批判514pts、Claude Code関連が継続上昇
+
+**1. Predicting OpenAI's ad strategy [514pts, 448comments]**
+- **最高値更新**（505→514pts, 441→448comments）
+- OpenAI広告導入予測・批判が圧倒的トップ継続
+- 448コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- 14時間で168pts増、500pts突破後も継続成長
+
+**2. Erdos 281 solved with ChatGPT 5.2 Pro [296pts, 279comments]**
+- AI能力進化議論が継続（296pts維持, 278→279comments）
+- 279コメント → 数学問題解決ベンチマークとして深い議論継続
+- ChatGPT 5.2 Proの能力証明として注目
+
+**3. Starting from scratch: Training a 30M Topological Transformer [126pts, 36comments]**
+- 小規模モデルトレーニング（125→126pts）
+- 実装詳細への関心継続
+- **Falcon Platform戦略**: 小規模実装から始める価値
+
+**4. Show HN: Figma-use – CLI to control Figma for AI agents [101pts, 36comments]**
+- AIエージェント×ツール連携（101pts維持）
+- **100pts突破後も安定維持**
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+
+**5. Using proxies to hide secrets from Claude Code [53pts, 31comments]**
+- **Claude Code関連が継続上昇**（46→53pts, 18→31comments）
+- セキュリティ対策（秘密情報を隠す手法）
+- コメント急増（18→31, +72%）→ 実践的課題として注目
+- **記事URL**: https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+
+**6. Tired of AI, people are committing to the analog lifestyle in 2026 [83pts, 36comments]**
+- AI疲れ・アナログ回帰の兆候（83pts維持）
+- CNN記事: 2026年のトレンドとして報道
+- **注意**: AIツール提供側として無視できない逆トレンド
+
+**7. More sustainable epoxy thanks to phosphorus [83pts, 36comments]**
+- 材料科学（AI関連性低い）
+
+**8. Show HN: I quit coding years ago. AI brought me back [38pts, 23comments]**
+- AIによる復帰体験談
+- 非エンジニアへのAIツール訴求材料
+- **Falcon Platform戦略**: 非エンジニア向けノーコード/ローコードの需要
+
+**9. Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code [17pts, 1comments]**
+- **Claude Code関連が上昇**（11→17pts, 0→1comments）
+- Ultrathink機能の廃止と新機能解説
+- Claude Code最新情報として価値
+- **記事URL**: https://decodeclaude.com/ultrathink-deprecated/
+
+**10. The Code-Only Agent [30pts, 10comments]**
+- **Claude Code関連が上昇**（13→30pts, 4→10comments）
+- コード中心のエージェント設計
+- エージェント設計思想として価値が上昇
+- **記事URL**: https://rijnard.com/blog/the-code-only-agent
+
+**11. Show HN: Run LLMs in Docker for any language without prebuilding containers [16pts, 5comments]**
+- LLM実行環境の簡素化（15→16pts）
+- 開発者ツール需要を示す
+
+**12. Provide agents with automated feedback [67pts, 21comments]**
+- エージェントへの自動フィードバック
+- AIエージェント改善手法として注目
+- **記事URL**: https://banay.me/dont-waste-your-backpressure/
+
+**トップ10全体にも注目:**
+- Gaussian Splatting – A$AP Rocky music video [536pts, 172comments] - **トップ1**、音楽業界×AI技術
+- Flux 2 Klein pure C inference [275pts, 112comments] - C実装の軽量推論
+- A Social Filesystem [338pts, 148comments] - Dan Abramov新プロジェクト
+
+---
+
+**分析:**
+- **OpenAI広告批判が514pts・448commentsで過去最高継続** → マネタイゼーション戦略への最強シグナル
+  - 14時間で168pts増、500pts突破後も継続成長
+- Erdos問題解決（296pts, 279comments）が継続議論 → ChatGPT 5.2 Proの能力証明
+- Figma-use（101pts）がShow HNで100pts突破後も安定維持 → AIエージェント×ツール連携需要
+- **Claude Code関連が4件継続浮上**:
+  1. **秘密情報隠蔽手法（53pts, 31comments）→ コメント急増（+72%）、セキュリティ課題として最注目**
+  2. Code-Only Agent（30pts, 10comments）→ エージェント設計思想への関心拡大
+  3. Ultrathink廃止・新機能（17pts, 1comments）→ 最新情報
+  4. AI復帰体験談（38pts, 23comments）→ 非エンジニアへのAI訴求材料
+- **AI疲れトレンド（83pts）が高位維持** → ツール提供側として要警戒シグナル
+- **Gaussian Splatting（536pts）がトップ1** → 音楽業界での実用化、AI技術の多様化
+- エージェントフィードバック（67pts）→ AIエージェント改善手法への関心
+
+**Falcon Platform戦略への示唆:**
+- **OpenAI広告批判514pts** → 固定価格・予測可能モデルの訴求絶好機継続
+- **Claude Code関連4件（53+30+17+38=138pts）** → セキュリティ、設計思想、非エンジニア訴求、最新機能への関心
+  - **セキュリティ対策（53pts, 31comments）が最も注目** → Falcon Platformでのセキュリティ配慮の重要性
+- Figma-use 101pts → AIエージェント×ツール連携の需要証明
+- AI復帰体験談（38pts）→ 非エンジニア向けノーコード/ローコードの需要
