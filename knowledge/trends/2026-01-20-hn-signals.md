@@ -280,3 +280,53 @@
   - AIツールは「敷居を下げる」が「置き換え」ではない（DHHの指摘と一致）
   - SNS投稿戦略の見直し（ThreadsへのX字展開？）
   - レガシー/非エンジニア層への価値提供の実証
+
+---
+
+### 07:30 JST - Claude Code 2.0移行記事とセキュリティ議論
+
+**[24pts] I was a top 0.01% Cursor user, then switched to Claude Code 2.0**
+- URL: https://blog.silennai.com/claude-code
+- 9コメント - **重要**: CursorからClaude Code 2.0への移行事例
+- トップ0.01%のヘビーユーザーが移行 → Claude Code 2.0の競争力が実証されている
+- AIコーディングツール市場の競争が激化
+
+**[13pts] The coming industrialisation of exploit generation with LLMs**
+- URL: https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
+- 6コメント - LLMによるエクスプロイト生成の産業化
+- セキュリティ面での懸念、AIの悪用可能性
+
+**[9pts] The assistant axis: situating and stabilizing the character of LLMs**
+- URL: https://www.anthropic.com/research/assistant-axis
+- 0コメント - Anthropic公式研究
+- LLMのキャラクター安定化に関する研究
+
+**[12pts] Starlink users must opt out of all browsing data being used to train xAI models**
+- URL: https://twitter.com/cryps1s/status/2013345999826153943
+- 1コメント - StarlinkユーザーのブラウジングデータがxAI学習に利用される
+- プライバシー懸念、デフォルトオプトインの問題
+
+**[142pts] Ask HN: COBOL devs, how are AI coding affecting your work?**
+- URL: https://news.ycombinator.com/item?id=46678550
+- 156コメント - 前回141pts→142pts、レガシー開発へのAI影響議論が継続
+- 150コメント超の活発な議論
+
+**[117pts] Threads edges out X in daily mobile users, new data shows**
+- URL: https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/
+- 98コメント - 前回83pts→117pts、議論が成長中
+- ThreadsがXをDAUで超えた → SNS競争の転換点
+
+**[482pts] Radboud University selects Fairphone as standard smartphone for employees**
+- URL: https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees
+- 229コメント - 全体1位、サステナビリティ関連
+
+**分析:**
+- **Claude Code 2.0への移行事例が出現** → CursorのトップユーザーがClaude Code 2.0に移行、競争力が実証されている
+- **AIコーディングツール市場の競争激化** → Cursor vs Claude Code vs Copilot等の比較が活発化
+- **Threads vs X**: 前回83pts→117pts、議論が急成長 → SNS競争の転換点として注目されている
+- **COBOL AI影響**: 156コメント、議論が継続的に活発 → レガシー開発者へのAI浸透が実証
+- **セキュリティ/プライバシー懸念**: StarlinkのxAI学習利用、LLMエクスプロイト生成 → AIツールの悪用可能性が議論されている
+- Falcon Platformにとって有用な知見：
+  - Claude Code 2.0の競争力が実証された（トップユーザーの移行）
+  - AIコーディングツール選定の参考になる実例
+  - SNS投稿戦略の見直し（Threads成長を踏まえた展開検討）
