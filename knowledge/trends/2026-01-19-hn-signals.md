@@ -1422,3 +1422,69 @@
 - **非決定的出力制御** → 実用化の鍵、テンプレート方式の強みを訴求できる
   - Falcon Platformの「敷居を下げる」ミッションと完全一致
 - **Gaussian Splatting商用実用化** → 3D/映像系のVM需要も視野に入る可能性
+---
+
+## HN Signals 2026-01-19 23:30
+
+### 300+スコア
+
+1. **OpenAI広告戦略予測 [556pts, 496comments]**
+   - 継続トレンド（22時30分から+49pts, +21comments）
+   - 持続的な議論の拡大
+   - https://ossa-ma.github.io/blog/openads
+
+2. **Radboud大学、Fairphone標準採用 [308pts, 142comments]**
+   - サステナブル技術の組織導入事例
+   - 初登場で高スコア（エコ×組織戦略に関心）
+   - https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees
+
+### 注目AI/エージェント関連
+
+3. **Show HN: AI復帰体験談 [210pts, 276comments]**
+   - 継続的な共感の拡大（22時から+13pts, +23comments）
+   - 非エンジニア復帰というテーマが持続的に共鳴
+   - https://calquio.com/finance/compound-interest
+
+4. **Wikipedia: WikiProject AI Cleanup [143pts, 55comments]**
+   - AI生成コンテンツの質問題への組織的取り組み
+   - コミュニティベースの対策事例
+   - https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
+
+5. **The Code-Only Agent [104pts, 47comments]**
+   - エージェント設計パターンの議論
+   - https://rijnard.com/blog/the-code-only-agent
+
+6. **Claude Code: プロキシでシークレット隠蔽 [107pts, 35comments]**
+   - Claudeエコシステムへの実務的関心
+   - セキュリティ設計パターン
+   - https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+
+### その他の技術トレンド
+
+7. **Gaussian Splatting音楽ビデオ [692pts, 221comments]**
+   - 3D技術の商用実用化（継続トレンド）
+   - https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting
+
+8. **Dead Internet Theory [433pts, 507comments]**
+   - AI生成コンテンツ氾濫への懸念
+   - https://kudmitry.com/articles/dead-internet-theory/
+
+9. **BitChat: P2P Bluetoothメッセージング [312pts, 183comments]**
+   - 分散通信技術への関心
+   - https://bitchat.free/
+
+---
+
+**分析:**
+- **OpenAI広告批判、24時間超の持続** → 30分で+49pts、議論は収束していない
+- **Fairphone組織採用が308pts** → サステナブル技術の組織導入事例に高い関心
+- **AI復帰体験談、23時間でコメント276件** → 共感の持続的拡大（非エンジニア復帰の実感）
+- **Claude Code実務記事登場** → Claudeエコシステムへの実装者の関心が可視化
+- **Dead Internet Theory高スコア** → AI生成コンテンツ氾濫への危機感が顕在化
+
+**Falcon Platform戦略への示唆:**
+- **OpenAI批判の持続的拡大** → ユーザー不満は根深い、差別化機会は継続
+- **非エンジニア復帰体験談の共感拡大** → 「敷居を下げる」ニーズの実証が続く
+- **Claude Codeセキュリティ記事** → Claudeエコシステム実装者の存在を確認、プラットフォーム統合の機会
+- **Dead Internet Theory** → 「人間のためのツール」という差別化が重要に
+- **Wikipedia AI Cleanup** → AI生成コンテンツの質問題は組織的対策が必要なレベル
