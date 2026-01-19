@@ -1154,3 +1154,75 @@
 - **AI復帰体験談114pts（コメント94件）** → 非エンジニア向けノーコード/ローコードの需要証明
   - 「AIが使いやすければ、離れていた人も戻ってくる」という強いメッセージ
 - **Claude Code関連143pts** → セキュリティ、設計思想への関心継続
+
+### 19:30 - OpenAI広告批判が546pts、AI復帰体験談が135pts到達
+
+**1. Predicting OpenAI's ad strategy [546pts, 480comments]**
+- **最高値更新**（541→546pts, 476→480comments）
+- OpenAI広告導入予測・批判が圧倒的トップ維持
+- 480コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- 19時間で200pts増、安定的な成長継続
+
+**2. Show HN: I quit coding years ago. AI brought me back [135pts, 135comments]**
+- **AIによる復帰体験談が急上昇**（114→135pts, 94→135comments）
+- コメント数がスコアと同数（135/135）→ 非常に高いエンゲージメント率
+- **Falcon Platform戦略**: 非エンジニア向けノーコード/ローコードの需要証明
+- 「AIが使いやすければ、離れていた人も戻ってくる」という強いメッセージ
+- URL: https://calquio.com/finance/compound-interest
+
+**3. Provide agents with automated feedback [132pts, 59comments]**
+- エージェントフィードバックが継続上昇（128→132pts, 56→59comments）
+- AIエージェント改善手法として注目
+- **Falcon Platform戦略**: エージェント品質向上の重要性
+- URL: https://banay.me/dont-waste-your-backpressure/
+
+**4. Starting from scratch: Training a 30M Topological Transformer [129pts, 50comments]**
+- 小規模モデルトレーニング（127→129pts）
+- **Falcon Platform戦略**: 小規模実装から始める価値
+- URL: https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer
+
+**5. Using proxies to hide secrets from Claude Code [80pts, 26comments]**
+- **Claude Code関連が継続上昇**（77→80pts, 24→26comments）
+- セキュリティ対策（秘密情報を隠す手法）
+- 実践的課題として注目
+- URL: https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+
+**6. More sustainable epoxy thanks to phosphorus [85pts, 36comments]**
+- 材料科学（AI関連性低い）
+
+**7. The Code-Only Agent [78pts, 33comments]**
+- **Claude Code関連が継続上昇**（66→78pts, 31→33comments）
+- コード中心のエージェント設計思想
+- URL: https://rijnard.com/blog/the-code-only-agent
+
+**8. How to wrangle non-deterministic AI outputs into conventional software (2025) [35pts, 27comments]**
+- AI出力の決定論的制御手法
+- 実装者向けの実践的課題
+- URL: https://www.domainlanguage.com/articles/ai-components-deterministic-system/
+
+**トップ10全体:**
+- Dead Internet Theory [323pts, 389comments] - **トップ1**
+- Gaussian Splatting – A$AP Rocky music video [631pts, 195comments] - **トップ3**
+- A Social Filesystem [411pts, 168comments] - Dan Abramov新プロジェクト
+
+---
+
+**分析:**
+- **OpenAI広告批判が546pts・480commentsで過去最高継続** → マネタイゼーション戦略への最強シグナル
+  - 19時間で200pts増、安定的な成長継続（ほぼ1日話題維持）
+- **AI復帰体験談（135pts, 135comments）が急上昇** → エンゲージメント率100%（スコア=コメント数）
+  - 非エンジニアへのAI訴求材料として大きな共感を獲得
+  - **「AIが使いやすければ、離れていた人も戻ってくる」という強いメッセージ**
+- **エージェントフィードバック（132pts, 59comments）** → AIエージェント改善手法への強い関心
+- **Claude Code関連2件（80+78=158pts）** → セキュリティ、設計思想への関心継続
+- **Dead Internet Theory（323pts）がトップ1** → AI生成コンテンツへの懸念が顕在化
+- **Gaussian Splatting（631pts）がトップ3** → AI技術の多様化・実用化（音楽業界）
+
+**Falcon Platform戦略への示唆:**
+- **OpenAI広告批判546pts（ほぼ1日話題維持）** → 固定価格・予測可能モデルの訴求絶好機継続
+- **AI復帰体験談135pts（エンゲージメント率100%）** → 非エンジニア向けノーコード/ローコードの需要証明
+  - 「使いやすさ」が復帰の鍵 → Falcon Platformの「敷居を下げる」ミッションと完全一致
+- **エージェントフィードバック132pts** → エージェント品質向上の重要性を示す強いシグナル
+- **Claude Code関連158pts** → セキュリティ、設計思想への関心継続
+- **Dead Internet Theory（323pts）** → AI生成コンテンツへの懸念 → 透明性・人間性の価値
