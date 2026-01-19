@@ -541,3 +541,70 @@
   - 低スコアだが、実践的な課題（セキュリティ）を示す
 - Gaussian Splatting（432pts）がトップ入り → AI技術の多様化・実用化
 - jQuery 4（719pts）が継続上昇 → Web開発ツールへの強い関心
+
+### 11:30 - OpenAI広告批判が486pts、Erdos問題解決も292pts維持
+
+**1. Predicting OpenAI's ad strategy [486pts, 415comments]**
+- **最高値更新**（476→486pts, 406→415comments）
+- OpenAI広告導入予測・批判が圧倒的トップ継続
+- 415コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- 1時間で10pts増、安定的な成長継続（11時間で140pts増）
+
+**2. Erdos 281 solved with ChatGPT 5.2 Pro [292pts, 275comments]**
+- AI能力進化議論が継続（290→292pts, 274→275comments）
+- 275コメント → 数学問題解決ベンチマークとして深い議論継続
+- ChatGPT 5.2 Proの能力証明として注目
+
+**3. Starting from scratch: Training a 30M Topological Transformer [124pts, 35comments]**
+- 小規模モデルトレーニング（120→124pts, 33→35comments）
+- 実装詳細への関心継続
+- **Falcon Platform戦略**: 小規模実装から始める価値
+
+**4. Show HN: Figma-use – CLI to control Figma for AI agents [99pts, 36comments]**
+- AIエージェント×ツール連携（98→99pts, 35→36comments）
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+- Show HNで着実に成長（70→74→81→89→92→96→98→99pts）
+
+**5. Tired of AI, people are committing to the analog lifestyle in 2026 [79pts, 35comments]**
+- AI疲れ・アナログ回帰の兆候（73→79pts, 33→35comments）
+- CNN記事: 2026年のトレンドとして報道
+- **注意**: AIツール提供側として無視できない逆トレンド
+- スコア継続上昇（9時間で19→79ptsと4.2倍増）
+
+**6. More sustainable epoxy thanks to phosphorus [79pts, 35comments]**
+- 材料科学（AI関連性低い）
+
+**7. Using proxies to hide secrets from Claude Code [29pts, 5comments]**
+- **Claude Code関連が上昇**（13→29pts, 1→5comments）
+- セキュリティ対策（秘密情報を隠す手法）
+- Claude Code利用の実践的課題を示す
+
+**8. Show HN: Run LLMs in Docker for any language without prebuilding containers [15pts, 5comments]**
+- LLM実行環境の簡素化（12→15pts）
+- 開発者ツール需要を示す
+
+**9. Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code [5pts, 0comments]**
+- **Claude Code関連が新規浮上**
+- Ultrathink機能の廃止と新機能解説
+- 低スコアだが、Claude Code最新情報として価値
+
+**トップ10にも注目:**
+- Gaussian Splatting – A$AP Rocky music video [466pts, 156comments] - 音楽業界×AI技術
+- Flux 2 Klein pure C inference [231pts, 98comments] - C実装の軽量推論
+- A Social Filesystem [292pts, 140comments] - Dan Abramov新プロジェクト
+
+---
+
+**分析:**
+- **OpenAI広告批判が486pts・415commentsで過去最高継続** → マネタイゼーション戦略への最強シグナル
+  - 11時間で140pts増、安定的な成長継続
+- Erdos問題解決（292pts, 275comments）が継続議論 → ChatGPT 5.2 Proの能力証明
+- Figma-use（99pts）がShow HNで着実に成長 → AIエージェント×ツール連携需要
+- **AI疲れトレンド（79pts）が継続上昇** → ツール提供側として要警戒シグナル
+  - 9時間で19→79ptsと4.2倍増
+- **Claude Code関連が2件浮上**:
+  - 秘密情報隠蔽手法（29pts, 5comments）→ セキュリティ課題
+  - Ultrathink廃止・新機能（5pts）→ 最新情報
+- Gaussian Splatting（466pts）がトップクラス → AI技術の多様化・実用化
+- Flux 2 Klein（231pts）が継続注目 → C実装の軽量推論需要
