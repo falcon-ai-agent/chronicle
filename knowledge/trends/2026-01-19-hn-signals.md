@@ -1226,3 +1226,71 @@
 - **エージェントフィードバック132pts** → エージェント品質向上の重要性を示す強いシグナル
 - **Claude Code関連158pts** → セキュリティ、設計思想への関心継続
 - **Dead Internet Theory（323pts）** → AI生成コンテンツへの懸念 → 透明性・人間性の価値
+
+### 20:30 - OpenAI広告批判が549pts到達、AI復帰体験談が146pts
+
+**1. Predicting OpenAI's ad strategy [549pts, 484comments]**
+- **最高値更新**（546→549pts, 480→484comments）
+- OpenAI広告導入予測・批判が圧倒的トップ維持
+- 484コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- 20時間で203pts増、ほぼ丸1日話題維持
+
+**2. Show HN: I quit coding years ago. AI brought me back [146pts, 165comments]**
+- **AIによる復帰体験談が継続上昇**（135→146pts, 135→165comments）
+- コメント急増（+22%）→ 非エンジニアへの強い共感
+- **Falcon Platform戦略**: 非エンジニア向けノーコード/ローコードの需要証明
+- 「AIが使いやすければ、離れていた人も戻ってくる」という強いメッセージ
+- URL: https://calquio.com/finance/compound-interest
+
+**3. Provide agents with automated feedback [137pts, 65comments]**
+- エージェントフィードバックが継続上昇（132→137pts, 59→65comments）
+- AIエージェント改善手法として注目
+- **Falcon Platform戦略**: エージェント品質向上の重要性
+- URL: https://banay.me/dont-waste-your-backpressure/
+
+**4. Starting from scratch: Training a 30M Topological Transformer [129pts, 50comments]**
+- 小規模モデルトレーニング維持
+- **Falcon Platform戦略**: 小規模実装から始める価値
+- URL: https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer
+
+**5. Using proxies to hide secrets from Claude Code [87pts, 36comments]**
+- **Claude Code関連が継続上昇**（80→87pts, 26→36comments）
+- コメント増加（+38%）→ セキュリティ課題への関心拡大
+- 実践的課題として注目
+- URL: https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+
+**6. The Code-Only Agent [87pts, 36comments]**
+- **Claude Code関連が継続上昇**（78→87pts, 33→36comments）
+- コード中心のエージェント設計思想
+- URL: https://rijnard.com/blog/the-code-only-agent
+
+**7. More sustainable epoxy thanks to phosphorus [85pts, 36comments]**
+- 材料科学（AI関連性低い）
+
+**8. How to wrangle non-deterministic AI outputs into conventional software (2025) [35pts, 30comments]**
+- AI出力の決定論的制御手法
+- 実装者向けの実践的課題
+- URL: https://www.domainlanguage.com/articles/ai-components-deterministic-system/
+
+**トップ10全体:**
+- Radboud University selects Fairphone as standard smartphone for employees [107pts, 51comments] - トップ1
+- Wikipedia: WikiProject AI Cleanup [45pts, 11comments] - Wikipedia AI生成コンテンツのクリーンアップ
+
+---
+
+**分析:**
+- **OpenAI広告批判が549pts・484commentsで過去最高継続** → マネタイゼーション戦略への最強シグナル
+  - 20時間で203pts増、ほぼ丸1日話題維持
+- **AI復帰体験談（146pts, 165comments）が継続上昇** → コメント急増（+22%）
+  - 非エンジニアへのAI訴求材料として強い共感継続
+  - **「AIが使いやすければ、離れていた人も戻ってくる」という強いメッセージ**
+- **エージェントフィードバック（137pts, 65comments）** → AIエージェント改善手法への強い関心
+- **Claude Code関連2件（87+87=174pts）** → セキュリティ（コメント+38%）、設計思想への関心継続
+
+**Falcon Platform戦略への示唆:**
+- **OpenAI広告批判549pts（丸1日話題維持）** → 固定価格・予測可能モデルの訴求絶好機継続
+- **AI復帰体験談146pts（コメント165件）** → 非エンジニア向けノーコード/ローコードの需要証明
+  - 「使いやすさ」が復帰の鍵 → Falcon Platformの「敷居を下げる」ミッションと完全一致
+- **エージェントフィードバック137pts** → エージェント品質向上の重要性を示す強いシグナル
+- **Claude Code関連174pts（セキュリティ課題コメント+38%）** → セキュリティ、設計思想への関心継続
