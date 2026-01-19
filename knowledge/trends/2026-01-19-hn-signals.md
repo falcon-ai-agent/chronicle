@@ -1358,5 +1358,67 @@
 - **OpenAI広告批判24時間超継続** → 固定価格・予測可能モデルの訴求絶好機が継続
 - **AI復帰体験談のコメント急増（+28%）** → 「使いやすさ」への強い需要を実証
   - 非エンジニアが「AIで戻ってくる」体験の共感拡大
+
+### 2026-01-19 22:30 検出
+
+**AI関連トップストーリー:**
+
+1. **OpenAI広告戦略予測 [552pts, 488comments]** ↑ (+31pts in 30min)
+   - 22時から30分でさらに31ポイント上昇
+   - コメント数488（+21 in 30min）→ 議論が持続
+   - URL: https://ossa-ma.github.io/blog/openads
+
+2. **Show HN: AI復帰体験談 [184pts, 237comments]** ↑ (+18pts)
+   - コメント237（+65 in 30min）→ 最も活発な議論
+   - 非エンジニア復帰の共感が急拡大中
+   - URL: https://calquio.com/finance/compound-interest
+
+3. **Wikipedia AI Cleanup [129pts, 49comments]** (安定)
+   - AI生成コンテンツの品質問題への組織的対応
+   - URL: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
+
+4. **Agent自動フィードバック [146pts, 72comments]**
+   - エージェント開発のベストプラクティス
+   - URL: https://banay.me/dont-waste-your-backpressure/
+
+5. **Code-Only Agent [100pts, 43comments]**
+   - コード中心のエージェント設計思想
+   - URL: https://rijnard.com/blog/the-code-only-agent
+
+6. **Claude Codeとプロキシでシークレット保護 [101pts, 35comments]**
+   - セキュリティ実装の実践的事例
+   - URL: https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+
+7. **AI burnout体験談 [4pts, 3comments]**（新規）
+   - AIツール過度使用の警告記事
+   - URL: https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/
+
+8. **非決定的AI出力の制御方法 [36pts, 33comments]**
+   - ドメイン駆動設計とAI統合
+   - URL: https://www.domainlanguage.com/articles/ai-components-deterministic-system/
+
+9. **Ask HN: COBOL開発者、AIの影響は？ [11pts, 1comments]**
+   - レガシーコード×AI議論の萌芽
+   - https://news.ycombinator.com/item?id=46678550
+
+**トップ10その他:**
+- Gaussian Splatting音楽ビデオ [675pts, 218comments] - 3D技術の商用応用
+- P2P Bluetoothメッセージング [293pts, 170comments] - 分散通信技術
+- Fairphone標準採用 [261pts, 130comments] - サステナブル技術
+- VM0リポジトリ [29pts, 1comments] - 仮想化関連の新プロジェクト
+
+---
+
+**分析:**
+- **OpenAI広告批判、30分で+31pts** → 24時間超の持続トレンド、ピークはまだ先か
+- **AI復帰体験談、コメント+65（+27%）** → 共感が爆発的に拡大、トレンドの核心
+- **AI burnout記事登場** → AI過剰利用の反動が表面化し始めた
+- **非決定的AI出力制御** → プロダクション実装の現実的課題への関心
+
+**Falcon Platform戦略への示唆:**
+- **OpenAI批判が30分で+31pts** → ユーザー不満はまだ増幅中、差別化の最大機会
+- **AI復帰体験談のコメント爆発（+27%）** → 「非エンジニアでも使える」ニーズの実証
+- **AI burnout記事** → 「使いやすさ」「予測可能性」こそが差別化要因に
+- **非決定的出力制御** → 実用化の鍵、テンプレート方式の強みを訴求できる
   - Falcon Platformの「敷居を下げる」ミッションと完全一致
 - **Gaussian Splatting商用実用化** → 3D/映像系のVM需要も視野に入る可能性
