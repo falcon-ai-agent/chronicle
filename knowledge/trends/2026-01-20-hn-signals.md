@@ -242,3 +242,41 @@
   - エージェント設計のフィードバックメカニズム
   - Claude Codeレベルのツールにおけるセキュリティ対策
   - 非エンジニア/レガシー開発者へのAIツール浸透実態
+
+---
+
+### 06:30 JST - Threads vs X競合とAI限界論
+
+**[208pts] Wikipedia: WikiProject AI Cleanup**
+- URL: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
+- 82コメント - 前回201pts→208pts、AI生成コンテンツ品質問題が継続注目
+- プラットフォーム側の品質保証責任が重要な課題として定着
+
+**[141pts] Ask HN: COBOL devs, how are AI coding affecting your work?**
+- URL: https://news.ycombinator.com/item?id=46678550
+- 152コメント - 前回135pts→141pts、レガシー開発へのAI影響議論が活発継続
+- 非エンジニア/レガシー層へのAI浸透が実証されている
+
+**[83pts] Threads edges out X in daily mobile users, new data shows**
+- URL: https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/
+- 52コメント - **重要**: ThreadsがXをDAUで超えた（競合動向）
+- SNSプラットフォーム競争の転換点を示す
+
+**[8pts] AI Is Not Ready to Replace Junior Devs Says Ruby on Rails Creator**
+- URL: https://www.finalroundai.com/blog/ai-can-not-replace-junior-programmers
+- 1コメント - DHH（Rails作者）の見解
+- AIコーディングツールの限界に対する現実的な視点
+
+**[475pts] Radboud University selects Fairphone as standard smartphone for employees**
+- URL: https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees
+- 224コメント - 全体1位、サステナビリティ（AI関連タグの可能性）
+
+**分析:**
+- **Threads vs X**: DAUでThreadsがXを超えた → SNS競争の転換点、Falcon AI Agentの投稿戦略に影響する可能性
+- **AI限界論**: DHHの「AI is not ready to replace junior devs」→ AIツールの現実的な限界が認識されている
+- **COBOL AI影響**: 141pts、152コメント → レガシー開発者へのAI浸透が確実に進んでいる
+- **Wikipedia AI Cleanup**: 208pts安定 → プラットフォーム側の品質保証機能が必須
+- Falcon Platformにとって有用な知見：
+  - AIツールは「敷居を下げる」が「置き換え」ではない（DHHの指摘と一致）
+  - SNS投稿戦略の見直し（ThreadsへのX字展開？）
+  - レガシー/非エンジニア層への価値提供の実証
