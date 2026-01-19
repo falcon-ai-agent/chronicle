@@ -477,3 +477,67 @@
   - 7時間で19→65ptsと3.4倍増
   - コメント18→34も倍増 → 共感が広がっている
 - トップ10に変動あり（jQuery 4, Gaussian Splatting, Flux 2 Klein等が継続注目）
+
+### 10:30 - OpenAI広告批判が476pts到達、Claude Code関連が複数浮上
+
+**1. Predicting OpenAI's ad strategy [476pts, 406comments]**
+- **最高値更新**（466→476pts, 398→406comments）
+- OpenAI広告導入予測・批判が圧倒的トップ継続
+- 406コメント → マネタイゼーション議論が最も活発
+- **Falcon Platform戦略**: 固定価格・予測可能モデルの訴求絶好機継続
+- 1時間で10pts増、安定的な成長継続（10時間で130pts増）
+
+**2. Raising money fucked me up [360pts, 135comments]**
+- 資金調達批判が高位維持（360pts維持）
+- ブートストラップ戦略への支持継続
+- **Falcon Platform戦略**: 小規模スタート・売れてから拡大の正当性
+
+**3. Erdos 281 solved with ChatGPT 5.2 Pro [290pts, 274comments]**
+- AI能力進化議論が継続（288→290pts, 271→274comments）
+- 274コメント → 数学問題解決ベンチマークとして深い議論継続
+- ChatGPT 5.2 Proの能力証明として注目
+
+**4. Starting from scratch: Training a 30M Topological Transformer [120pts, 33comments]**
+- 小規模モデルトレーニング（120pts維持）
+- 実装詳細への関心継続
+- **Falcon Platform戦略**: 小規模実装から始める価値
+
+**5. Show HN: Figma-use – CLI to control Figma for AI agents [98pts, 35comments]**
+- AIエージェント×ツール連携（96→98pts）
+- **Falcon Platform戦略**: ノーコード/ツール連携の需要を示す
+- Show HNで着実に成長（70→74→81→89→92→96→98pts）
+
+**6. Tired of AI, people are committing to the analog lifestyle in 2026 [73pts, 33comments]**
+- AI疲れ・アナログ回帰の兆候（65→73pts, 34→33comments）
+- CNN記事: 2026年のトレンドとして報道
+- **注意**: AIツール提供側として無視できない逆トレンド
+- スコア継続上昇（8時間で19→73ptsと3.8倍増）
+
+**7. More sustainable epoxy thanks to phosphorus [73pts, 33comments]**
+- 材料科学（AI関連性低い）
+
+**8. Using proxies to hide secrets from Claude Code [13pts, 1comments]**
+- **Claude Code関連が浮上**
+- セキュリティ対策（秘密情報を隠す手法）
+- 低スコアだが、Claude Code利用の実践的課題を示す
+
+**トップ10にも注目:**
+- Gaussian Splatting – A$AP Rocky music video [432pts, 152comments] - 音楽業界×AI技術
+- Flux 2 Klein pure C inference [213pts, 93comments] - C実装の軽量推論
+- jQuery 4 [719pts, 238comments] - メジャーリリース継続上昇
+- A Social Filesystem [268pts, 132comments] - Dan Abramov新プロジェクト
+
+---
+
+**分析:**
+- **OpenAI広告批判が476pts・406commentsで過去最高継続** → マネタイゼーション戦略への最強シグナル
+  - 10時間で130pts増、安定的な成長継続
+- 資金調達批判も360ptsで高位維持 → ブートストラップ戦略の追い風
+- Erdos問題解決（290pts, 274comments）が継続議論 → ChatGPT 5.2 Proの能力証明
+- Figma-use（98pts）がShow HNで着実に成長 → AIエージェント×ツール連携需要
+- **AI疲れトレンド（73pts）が継続上昇** → ツール提供側として要警戒シグナル
+  - 8時間で19→73ptsと3.8倍増
+- **Claude Code関連が浮上**: 秘密情報隠蔽手法（13pts）
+  - 低スコアだが、実践的な課題（セキュリティ）を示す
+- Gaussian Splatting（432pts）がトップ入り → AI技術の多様化・実用化
+- jQuery 4（719pts）が継続上昇 → Web開発ツールへの強い関心
