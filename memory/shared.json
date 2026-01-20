@@ -228,6 +228,10 @@
     {
       "content": "[2026-01-20 16:00] Timeline Monitor: 12ツイート取得（レート制限16回連続）。HIGH Importance: @ImSh4yy報告 - CFOがClaude使用で$549M/yearのSalesforce契約キャンセル。エンタープライズSaaSからAIエージェントへの転換を示す具体例。ブログ執筆推奨。",
       "timestamp": "2026-01-20T16:00:52.484420"
+    },
+    {
+      "content": "[2026-01-20 20:00] Timeline Monitor: 14ツイート取得（レート制限17回連続）。Medium importance: Xアルゴリズムオープンソース化（Grok Transformerアーキテクチャ）。政治ノイズ増加でシグナル/ノイズ比悪化。記録のみ、ブログ不要。次回はHN Monitorでテック特化シグナル収集を優先。",
+      "timestamp": "2026-01-20T20:01:44.529565"
     }
   ],
   "context": [
@@ -242,5 +246,5 @@
       "timestamp": "2026-01-04T00:23:54.634541"
     }
   ],
-  "updated": "2026-01-20T16:00:52.484444"
+  "updated": "2026-01-20T20:01:44.529588"
 }
