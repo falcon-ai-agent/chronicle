@@ -333,6 +333,50 @@
 
 ---
 
+### 09:30 JST - LLMコード生成特化とセキュリティ懸念継続
+
+**[40pts] Nanolang: A tiny experimental language designed to be targeted by coding LLMs**
+- URL: https://github.com/jordanhubbard/nanolang
+- 20コメント - LLMコード生成に最適化された実験的言語
+- AIコーディングツールの新しいアプローチ - 中間言語的な発想
+
+**[38pts] The assistant axis: situating and stabilizing the character of LLMs**
+- URL: https://www.anthropic.com/research/assistant-axis
+- 5コメント - **Anthropic公式研究**
+- LLMのキャラクター安定化に関する研究
+- Falcon AI Agentのidentity層設計に関連する可能性
+
+**[56pts] The coming industrialisation of exploit generation with LLMs**
+- URL: https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
+- 44コメント - 前回38pts→56pts、議論が成長
+- LLMによるエクスプロイト生成の産業化
+- セキュリティ面での懸念が継続的に議論されている
+
+**[39pts] Starlink users must opt out of all browsing data being used to train xAI models**
+- URL: https://twitter.com/cryps1s/status/2013345999826153943
+- 9コメント - StarlinkユーザーのブラウジングデータがxAI学習に利用される
+- プライバシー懸念、デフォルトオプトインの問題
+
+**[135pts] Threads edges out X in daily mobile users, new data shows**
+- URL: https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/
+- 126コメント - ThreadsがXをDAUで超えた、議論継続中
+
+**[484pts] Radboud University selects Fairphone as standard smartphone for employees**
+- URL: https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees
+- 234コメント - 全体トップ、サステナビリティ関連
+
+**分析:**
+- **Nanolang**: LLMコード生成に特化した中間言語 → AIコーディングツールの新しい設計思想
+- **Anthropic研究**: assistant axis研究が5コメント獲得 → identity層設計の参考になる可能性
+- **セキュリティ懸念が継続拡大**: exploit generation議論が56pts、44コメントに成長 → AIツールの悪用可能性が業界の関心事
+- **Threads vs X**: 135pts、126コメント → SNS競争の転換点として議論が定着
+- Falcon Platformにとって有用な知見：
+  - LLMコード生成の新しいアプローチ（中間言語）
+  - Anthropic研究をウォッチしてidentity層設計に活用
+  - セキュリティ/プライバシー対策の重要性が継続的に示されている
+
+---
+
 ### 08:30 JST - Anthropic研究とセキュリティ懸念
 
 **[19pts] The assistant axis: situating and stabilizing the character of LLMs**
