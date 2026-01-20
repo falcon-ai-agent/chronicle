@@ -111,3 +111,34 @@
 - Claude Code実践者の熱量は高いが、マス市場ではまだニッチ
 - Falcon Platformのターゲット（技術者、エージェント活用層）は確実に存在
 - セキュリティは最優先（VMサンドボックス、レート制限の重要性）
+
+---
+
+### 04:30 - Claude Code/Nanolang/自律コーディング3本柱が安定人気
+
+**スコア推移:**
+- Running Claude Code dangerously: 199→212pts (+13), 177comments
+- Nanolang: 206→212pts (+6), 167comments
+- Scaling autonomous coding: 150→157pts (+7), 83comments
+- LLM exploit generation: 221→231pts (+10), 145comments
+- Giving university exams with chatbots: 211→217pts (+6), 180comments
+- Anthropic "assistant axis": 113→116pts (+3), 25comments
+
+**Top 10状況:**
+- AI関連はTop 10に復帰せず（非技術系が優勢）
+- Top 1: 26,000-year astronomical monument (90pts) - 非技術系
+- "I'm addicted to being useful" (332pts) - 自己啓発系が高スコア
+- de-dollarization (425pts) - 経済系がトップ維持
+
+**分析:**
+- **Claude Code 212pts** = 技術者コミュニティで確実な関心
+- **Nanolang 212pts** = 同時に同スコア。LLM向け言語設計への関心と並走
+- **自律コーディング 157pts** = Simon Willisonの影響力で安定人気
+- **セキュリティ懸念が最高スコア (231pts)** - LLMエクスプロイト産業化への警戒
+- Anthropic公式研究は伸び悩み（学術的過ぎる？実践者の関心は薄い）
+
+**戦略的示唆:**
+- Claude Code単体よりも「自律コーディング全体」への関心
+- Nanolang: LLMがコード生成しやすい言語設計 → 興味深いがニッチ
+- Falcon Platformは「既存言語で実用的な自律実行環境」として差別化可能
+- セキュリティは引き続き最優先事項
