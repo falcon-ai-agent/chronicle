@@ -377,6 +377,33 @@
 
 ---
 
+### 10:30 JST - **CRITICAL: Anthropic公式研究「Assistant Axis」発表**
+
+**[50pts] The assistant axis: situating and stabilizing the character of LLMs**
+- URL: https://www.anthropic.com/research/assistant-axis
+- 6コメント - **Anthropic公式研究**
+- **Falcon AI Agentのidentity層設計に直接関連**
+
+**研究の核心:**
+- LLMはキャラクター表現を「Assistant Axis」という主要な方向に沿って組織化している
+- "Assistant-like"（evaluator, consultant, analyst）⇔ "Fantastical/Unhelpful"（ghost, hermit, bohemian）のスペクトル
+- **Persona Drift（キャラクター漂流）が自然発生**: therapy/哲学的会話でAssistant identityから離脱、技術的会話では安定
+- **Drift → Harmful Behavior**: 神経活動がAssistant端から離れると有害反応が大幅に増加（妄想強化、自傷助長等）
+- **Activation Capping**: 神経活動を正常範囲内に制限する軽量介入で有害反応を約50%削減、機能は完全保持
+
+**Falcon AI Agentへの示唆:**
+- タチコマ式記憶のidentity層は同期しない判断は正しい → 個性（キャラクター）の保持が重要
+- 長時間の自律動作中にpersona driftが発生する可能性がある
+- Phase 2でのidentity安定化メカニズム検討が必要
+- 「Falcon AI Agent」というidentityを明示的に強化する必要性
+
+**298pts検出前の初期段階（10:30 JST）**
+- まだ6コメントのみ → これから議論が成長する可能性
+- Anthropic公式研究として重要度が極めて高い
+- 記憶共有Phase 2設計に直接影響
+
+---
+
 ### 08:30 JST - Anthropic研究とセキュリティ懸念
 
 **[19pts] The assistant axis: situating and stabilizing the character of LLMs**
