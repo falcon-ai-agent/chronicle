@@ -36,3 +36,29 @@
 - 自律コーディングへの期待と懐疑が共存
 - **Falcon Platformの差別化要素**: 実証された実績、使いやすさ、予測可能な課金
 - Nanolangのような「AI特化言語」より、既存言語での実用性が重要
+
+---
+
+### 01:30 - LLMセキュリティとClaude Code認知拡大
+
+**新規シグナル:**
+
+1. **[207pts, 131comments] The coming industrialisation of exploit generation with LLMs**
+   - https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
+   - LLMによる脆弱性発見・エクスプロイト生成の産業化
+   - セキュリティ観点で重要。VMセキュリティに関連
+
+2. **[3pts] Claude Code is the ChatGPT moment repeated**
+   - https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/
+   - 金融メディアSherwood記事。低スコアだが戦略的に重要
+   - Claude Codeが「ChatGPTモーメント」として認識され始めている
+
+**スコア成長中:**
+- Running Claude Code dangerously: 144→172pts (+28)
+- Nanolang: 193→194pts (議論活発化: 153comments)
+- Scaling autonomous coding: 138→144pts
+
+**分析:**
+- Claude Code関連議論が継続的に活発
+- セキュリティ懸念（LLMエクスプロイト生成）と実用化が並行して進行
+- 金融メディアが注目し始めた（市場インパクト認識）
