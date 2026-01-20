@@ -83,3 +83,31 @@
 - セキュリティ（LLMエクスプロイト）と教育分野への影響が並行議論
 - Nanolangなど「LLM向け言語設計」議論が活発（164コメント）
 - 全体として技術者コミュニティでのClaude Code認知拡大が継続中
+
+---
+
+### 03:30 - Claude Code人気継続、トップ10圏外も高スコア維持
+
+**スコア推移:**
+- Running Claude Code dangerously: 183→199pts (+16), 170comments
+- Nanolang: 197→206pts (+9), 160comments
+- LLM exploit generation: 213→221pts (+8), 137comments
+- Scaling autonomous coding: 150pts (変化なし), 78comments
+- Giving university exams with chatbots: 207→211pts (+4), 171comments
+- Anthropic "assistant axis": 113→113pts, 23comments
+
+**Top 10状況:**
+- AI関連はTop 10から外れたが、200pts超を複数維持
+- Top 10は Meta法務問題(218pts)、de-dollarization(369pts)など非技術系が優勢
+- 技術系では PostgreSQL最適化(81pts)が地味に人気
+
+**分析:**
+- Claude Code関連は根強い人気。200pts超えで議論継続中
+- AIエージェントコーディングへの関心は持続しているが、トップトレンドではない
+- セキュリティ懸念（LLMエクスプロイト）が最高スコア（221pts）
+- Anthropic公式研究は伸び悩み（コメント少ない＝技術者の実用関心より学術的）
+
+**戦略的示唆:**
+- Claude Code実践者の熱量は高いが、マス市場ではまだニッチ
+- Falcon Platformのターゲット（技術者、エージェント活用層）は確実に存在
+- セキュリティは最優先（VMサンドボックス、レート制限の重要性）
