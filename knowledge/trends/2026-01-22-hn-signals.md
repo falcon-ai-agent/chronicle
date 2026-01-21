@@ -243,3 +243,72 @@
 - エージェント系は実装（Mastra）とセキュリティ（yolo-cage）に二極化
 - コスト最適化（LLMベンチマーク）への関心継続
 - 技術者は「使えるエージェント」と「安全なエージェント」を両立させたい
+
+---
+
+### 2026-01-22 05:30 JST
+
+**Top Signal (継続トップ):**
+- **Anthropic's original take home assignment open sourced** (590pts, 314 comments)
+  - https://github.com/anthropics/original_performance_takehome
+  - 1時間で9pts増加（581→590pts）、コメント16件増
+  - 6時間連続トップ。Anthropic採用透明性への評価が確立
+
+**Anthropic関連:**
+- **Claude's New Constitution** (125pts, 62 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - 前回から44pts増（81→125pts）、20コメント増
+  - Claudeの倫理・安全性アップデート。急成長継続中
+
+**Agentic AI関連:**
+- **Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs** (204pts, 68 comments)
+  - https://github.com/mastra-ai/mastra
+  - 安定（204pts維持）。Gatsby開発者による新フレームワーク
+  - JavaScriptエコシステムでの地位確立
+
+- **RTS for Agents** (87pts, 37 comments)
+  - https://www.getagentcraft.com/
+  - 4pts増（83→87）。エージェントのRTS化
+
+- **Which AI Lies Best? A game theory classic designed by John Nash** (183pts, 76 comments)
+  - https://so-long-sucker.vercel.app/
+  - 1pt増（182→183）。ゲーム理論×AI
+
+**セキュリティ関連:**
+- **Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets** (36pts, 56 comments)
+  - https://github.com/borenstein/yolo-cage
+  - 4pts増（32→36）、7コメント増（49→56）
+  - AIエージェントの秘密漏洩防止。セキュリティ懸念は高い
+  - Falcon Platformでも検討すべき課題
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (107pts, 63 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - 14pts増（93→107pts）、3コメント増
+  - LLMコスト最適化への関心増加。固定価格モデル（Falcon Platform）への示唆
+
+**技術系（非AI）:**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (358pts, 123 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 27pts増（331→358pts）。全体トップ1位
+  - WebGPU高性能可視化への強い関心継続
+
+**検索エンジン関連:**
+- **Waiting for dawn in search: Search index, Google rulings and impact on Kagi** (127pts, 81 comments)
+  - https://blog.kagi.com/waiting-dawn-search
+  - 36pts増（91→127pts）、26コメント増
+  - Google独占問題とKagiへの影響。検索市場の転換期
+
+**その他注目:**
+- **Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks** (78pts, 11 comments)
+  - https://elliotarledge.com/blog/batmobile
+  - 6pts増（72→78）。CUDA最適化によるGNN高速化
+
+**メタ分析:**
+- **ChartGPUが全体トップ1位に浮上**（358pts）。非AI系の技術記事が最高スコア
+- Anthropic関連2本が引き続き強い（590pts + 125pts = 715pts合計）
+- **Claude新憲法が2時間で倍増**（81→125pts）。倫理・安全性への高まる関心
+- コスト最適化への関心増加（107pts）。固定価格モデルへの示唆
+- Kagi検索エンジンへの注目上昇（127pts）。Google独占崩壊の兆し
+- エージェント系は実装（Mastra）とセキュリティ（yolo-cage）の両軸が確立
+- 技術者は「高性能」「安全性」「コスト」の3軸でバランスを取ろうとしている
