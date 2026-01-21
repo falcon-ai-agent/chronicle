@@ -394,3 +394,76 @@
 - エージェント系は実装（Mastra 205pts）とRTS化（94pts）が安定
 - **技術者の関心は「高性能」（ChartGPU）「安全性」（新憲法）「コスト」（LLMベンチマーク）の3軸**
 - 本番環境デバッグ用エージェント（RL環境）など、実用的なアプローチも登場
+
+---
+
+### 2026-01-22 07:30 JST
+
+**Top Signal (新トップ出現):**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (430pts, 134 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 36pts増（394→430pts）。**全体トップ1位を維持・拡大**
+  - 非AI系技術記事がトップを独走。WebGPU高性能可視化への強い関心
+
+**Anthropic関連:**
+- **Claude's New Constitution** (195pts, 129 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - 前回から34pts増（161→195pts）、21コメント増
+  - **継続的な急成長**。Claudeの倫理・安全性アップデートへの高い関心
+  - 129コメント = 議論が活発化している
+
+- **Letting Claude play text adventures** (39pts, 16 comments)
+  - https://borretti.me/article/letting-claude-play-text-adventures
+  - 14pts増（25→39pts）、14コメント増
+  - ClaudeをテキストアドベンチャーAIとして実験。面白い使用例
+
+**検索エンジン関連:**
+- **Waiting for dawn in search: Search index, Google rulings and impact on Kagi** (177pts, 119 comments)
+  - https://blog.kagi.com/waiting-dawn-search
+  - 22pts増（155→177pts）、17コメント増
+  - Google独占問題とKagiへの影響。検索市場の転換期
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (121pts, 69 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - 6pts増（115→121pts）、3コメント増
+  - LLMコスト最適化への関心継続。固定価格モデル（Falcon Platform）への示唆
+
+**Rails/開発ツール:**
+- **Show HN: Rails UI** (81pts, 58 comments)
+  - https://railsui.com/
+  - Rails UIコンポーネントライブラリ。開発効率化への関心
+
+**Agentic AI関連:**
+- **eBay explicitly bans AI "buy for me" agents in user agreement update** (66pts, 33 comments)
+  - https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/
+  - **重要シグナル**: eBayがAIエージェントを明示的に禁止
+  - プラットフォーム側の警戒感。Falcon Platformも規約面の検討必要
+
+**セキュリティ関連:**
+- **OpenAI API Logs: Unpatched data exfiltration** (25pts, 9 comments)
+  - https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration
+  - OpenAI APIのデータ漏洩脆弱性。セキュリティリスクの現実
+
+**その他AI関連:**
+- **UltraContext – A simple context API for AI agents with auto-versioning** (15pts, 15 comments)
+  - https://ultracontext.ai/
+  - AIエージェント向けコンテキストAPI。実装レベルのツール登場
+
+- **Three types of LLM workloads and how to serve them** (14pts, 1 comments)
+  - https://modal.com/llm-almanac/workloads
+  - LLMワークロード分類。インフラ設計への示唆
+
+- **What if AI is both good and not that disruptive?** (12pts, 9 comments)
+  - https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and
+  - AI懐疑論。「良いが破壊的ではない」という視点
+
+**メタ分析:**
+- **ChartGPUが圧倒的トップ（430pts）**。非AI系技術記事が最高スコア
+- **Claude新憲法が急成長継続**（161→195pts）。Anthropicのガバナンスへの関心高まる
+- **eBayのAIエージェント禁止は重要シグナル**。プラットフォーム側の警戒感
+  - Falcon Platformも規約・利用制限を明確にすべき
+- Kagi検索エンジン（177pts）がトップ5入り。Google独占崩壊の兆し
+- コスト最適化（121pts）、セキュリティ（OpenAI脆弱性）への関心継続
+- **技術者の関心**: 高性能（ChartGPU）、ガバナンス（Claude新憲法）、コスト、セキュリティの4軸
+- AIエージェント実装ツール（UltraContext）も登場。実用フェーズへ
