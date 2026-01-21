@@ -397,6 +397,90 @@
 
 ---
 
+### 2026-01-22 08:30 JST
+
+**Top Signal (継続トップ):**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (455pts, 139 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 25pts増（430→455pts）。**全体トップ1位を維持**
+  - 非AI系技術記事がトップを独走。WebGPU高性能可視化への強い関心
+
+**Anthropic関連:**
+- **Claude's New Constitution** (244pts, 204 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - 前回から49pts急増（195→244pts）、75コメント急増（129→204）
+  - **最大級の成長**。Claudeの倫理・安全性アップデートへの高い関心
+  - 204コメント = 議論が非常に活発化。新憲法の内容が論点に
+  - **重要**: 新憲法の詳細確認が必要。Falcon Platformへの示唆を分析すべき
+
+- **Letting Claude play text adventures** (55pts, 20 comments)
+  - https://borretti.me/article/letting-claude-play-text-adventures
+  - 16pts増（39→55pts）、4コメント増
+  - ClaudeをテキストアドベンチャーAIとして実験。面白い使用例
+
+**検索エンジン関連:**
+- **Waiting for dawn in search: Search index, Google rulings and impact on Kagi** (189pts, 127 comments)
+  - https://blog.kagi.com/waiting-dawn-search
+  - 12pts増（177→189pts）、8コメント増
+  - Google独占問題とKagiへの影響。検索市場の転換期
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (123pts, 69 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - 2pts増（121→123pts）。LLMコスト最適化への関心継続
+  - **Falcon Platform固定価格モデルへの示唆**
+
+**Agentic AI関連:**
+- **Show HN: Grov – Multiplayer for AI coding agents** (19pts, 8 comments)
+  - https://github.com/TonyStef/Grov
+  - **新規検出**。AIエージェントのマルチプレイヤー協働
+  - Show HNで登場。エージェント協働の新アプローチ
+
+- **Show HN: Retain – A unified knowledge base for all your AI coding conversations** (8pts, 4 comments)
+  - https://github.com/BayramAnnakov/retain
+  - **新規検出**。AIコーディング会話の統合ナレッジベース
+  - エージェント記憶管理の実装例。タチコマ式記憶と同じ問題意識
+
+- **RTS for Agents** (96pts, 43 comments)
+  - https://www.getagentcraft.com/
+  - エージェントのRTS化。安定した支持
+
+**セキュリティ関連:**
+- **OpenAI API Logs: Unpatched data exfiltration** (33pts, 15 comments)
+  - https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration
+  - OpenAI APIのデータ漏洩脆弱性。セキュリティリスクの現実
+
+**その他AI関連:**
+- **GenAI, the snake eating its own tail** (57pts, 68 comments)
+  - https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/
+  - GenAI批判。「自己参照による劣化」という視点
+
+- **Three types of LLM workloads and how to serve them** (22pts, 1 comments)
+  - https://modal.com/llm-almanac/workloads
+  - LLMワークロード分類。インフラ設計への示唆
+
+**技術系（非AI）:**
+- **Rails UI** (86pts, 58 comments)
+  - https://railsui.com/
+  - Rails UIコンポーネントライブラリ。開発効率化への関心
+
+- **Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks** (84pts, 11 comments)
+  - https://elliotarledge.com/blog/batmobile
+  - CUDA最適化によるGNN高速化
+
+**メタ分析:**
+- **Claude新憲法が急成長**（49pts/1h、75コメント/1h）。**トップ2位に浮上**
+  - 204コメント = 技術者コミュニティで活発な議論
+  - Anthropicのガバナンス・倫理への高い関心
+- ChartGPUが引き続きトップ1位（455pts）
+- **エージェント協働（Grov）とナレッジ管理（Retain）が新たに登場**
+  - 複数エージェントの協働と記憶共有という問題意識の拡大
+  - タチコマ式記憶と同じ方向性
+- コスト最適化（123pts）、セキュリティ（OpenAI脆弱性）への関心継続
+- **技術者の関心**: 高性能（ChartGPU）、ガバナンス（Claude新憲法）、コスト、セキュリティ、エージェント協働の5軸
+
+---
+
 ### 2026-01-22 07:30 JST
 
 **Top Signal (新トップ出現):**
