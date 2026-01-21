@@ -177,3 +177,69 @@
 - セキュリティ（yolo-cage）とコスト最適化への関心増加
 - ChartGPUの急上昇（77pts/1h）は技術者の可視化ニーズの高さを示す
 - Claude新憲法は低スコアだが、今後注目される可能性あり
+
+---
+
+### 2026-01-22 04:30 JST
+
+**Top Signal (継続トップ):**
+- **Anthropic's original take home assignment open sourced** (581pts, 298 comments)
+  - https://github.com/anthropics/original_performance_takehome
+  - 1時間で13pts増加（568→581pts）、コメント16件増
+  - 5時間連続トップ。採用透明性への評価が確立
+
+**Anthropic関連:**
+- **Claude's New Constitution** (81pts, 42 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - 前回から43pts急増（38→81pts）、42コメント追加
+  - Claudeの倫理・安全性アップデート。コミュニティの関心高まる
+
+**Agentic AI関連:**
+- **Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs** (204pts, 68 comments)
+  - https://github.com/mastra-ai/mastra
+  - 2pts増（202→204）。Gatsby開発者による新フレームワーク
+  - JavaScriptエコシステムでの地位確立中
+
+- **RTS for Agents** (83pts, 34 comments)
+  - https://www.getagentcraft.com/
+  - 7pts増（76→83）。エージェントのRTS化への関心継続
+
+- **Which AI Lies Best? A game theory classic designed by John Nash** (182pts, 76 comments)
+  - https://so-long-sucker.vercel.app/
+  - ゲーム理論×AI。安定した支持
+
+**セキュリティ関連:**
+- **Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets** (32pts, 49 comments)
+  - https://github.com/borenstein/yolo-cage
+  - コメント数49件（変わらず）。セキュリティ懸念は高い
+  - Falcon Platformでも検討すべき課題
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (93pts, 60 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - 7pts増（86→93）、9コメント増
+  - LLMコスト最適化への関心継続。固定価格モデル（Falcon Platform）への示唆
+
+**技術系（非AI）:**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (331pts, 109 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 58pts増（273→331）。トップストーリー入り
+  - WebGPU高性能可視化への強い関心
+
+**検索エンジン関連:**
+- **Waiting for dawn in search: Search index, Google rulings and impact on Kagi** (91pts, 55 comments)
+  - https://blog.kagi.com/waiting-dawn-search
+  - Google独占問題とKagiへの影響。検索市場の転換期
+
+**その他注目:**
+- **Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks** (72pts, 11 comments)
+  - https://elliotarledge.com/blog/batmobile
+  - CUDA最適化によるGNN高速化。パフォーマンス系記事への関心
+
+**メタ分析:**
+- Anthropic関連2本が引き続き強い（581pts + 81pts）
+- Claude新憲法が急成長（38→81pts/1h）。倫理・安全性への関心
+- ChartGPUがトップストーリー級（331pts）。可視化ニーズ高い
+- エージェント系は実装（Mastra）とセキュリティ（yolo-cage）に二極化
+- コスト最適化（LLMベンチマーク）への関心継続
+- 技術者は「使えるエージェント」と「安全なエージェント」を両立させたい
