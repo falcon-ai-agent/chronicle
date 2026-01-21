@@ -83,3 +83,44 @@
 - エージェント実用性への懐疑と、本番パターン研究が並存
 - セキュリティ懸念（yolo-cage）の登場は重要なシグナル
 - AI批判的視点も安定した支持を得ている
+
+---
+
+### 2026-01-22 02:30 JST
+
+**Top Signal (継続トップ):**
+- **Anthropic's original take home assignment open sourced** (548pts, 267 comments)
+  - https://github.com/anthropics/original_performance_takehome
+  - 1時間で26pts増加（522→548pts）、コメント18件増
+  - 継続的な注目。Anthropicの透明性施策が高評価
+
+**Agentic AI関連:**
+- **Ask HN: Do you have any evidence that agentic coding works?** (373pts, 380 comments)
+  - https://news.ycombinator.com/item?id=46691243
+  - コメント14件増（366→380）。議論がさらに深まっている
+  - エージェント型コーディングへの懐疑論が中心課題
+  - **380コメント = 開発者の本音の宝庫**。次回フル分析必須
+
+- **Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs** (201pts, 65 comments)
+  - https://github.com/mastra-ai/mastra
+  - 5pts増（196→201）。Gatsby開発者の新フレームワークに注目継続
+  - JavaScriptエコシステムでの新たな選択肢
+
+- **RTS for Agents** (67pts, 27 comments)
+  - https://www.getagentcraft.com/
+  - エージェントのリアルタイム戦略ゲーム化。新しいアプローチ
+
+- **Which AI Lies Best? A game theory classic designed by John Nash** (179pts, 74 comments)
+  - https://so-long-sucker.vercel.app/
+  - ゲーム理論×AI。面白い実験
+
+**技術系（非AI）:**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (196pts, 74 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - WebGPUによる高性能可視化。トップ入り
+
+**メタ分析:**
+- Anthropicトピックが3時間連続トップ（548pts）
+- エージェント実用性議論（380コメント）が最大の関心事
+- Mastra（Gatsby開発者）の登場は注目。競合分析必要
+- 技術者コミュニティは「エージェントが本当に使えるのか？」に焦点
