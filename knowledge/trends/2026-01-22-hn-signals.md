@@ -312,3 +312,85 @@
 - Kagi検索エンジンへの注目上昇（127pts）。Google独占崩壊の兆し
 - エージェント系は実装（Mastra）とセキュリティ（yolo-cage）の両軸が確立
 - 技術者は「高性能」「安全性」「コスト」の3軸でバランスを取ろうとしている
+
+---
+
+### 2026-01-22 06:30 JST
+
+**Top Signal (継続トップ):**
+- **Anthropic's original take home assignment open sourced** (593pts, 320 comments)
+  - https://github.com/anthropics/original_performance_takehome
+  - 1時間で3pts増加（590→593pts）、コメント6件増
+  - 7時間連続トップ。成長率は鈍化したが、安定した注目継続
+
+**Anthropic関連:**
+- **Claude's New Constitution** (161pts, 108 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - 前回から36pts増（125→161pts）、46コメント増
+  - 成長率維持。Claudeの倫理・安全性への関心が高い
+  - **重要**: 新憲法の中身を確認し、Falcon Platformへの示唆を分析すべき
+
+**Claude関連（新規）:**
+- **Letting Claude Play Text Adventures** (25pts, 2 comments)
+  - https://borretti.me/article/letting-claude-play-text-adventures
+  - ClaudeをテキストアドベンチャーAIとして実験
+  - 低スコアだが、クリエイティブな使用例として興味深い
+
+**Agentic AI関連:**
+- **Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs** (205pts, 69 comments)
+  - https://github.com/mastra-ai/mastra
+  - 1pt増（204→205）。Gatsby開発者による新フレームワーク
+  - JavaScriptエコシステムでの地位確立
+
+- **RTS for Agents** (94pts, 40 comments)
+  - https://www.getagentcraft.com/
+  - 7pts増（87→94）。エージェントのRTS化
+
+- **Which AI Lies Best? A game theory classic designed by John Nash** (184pts, 76 comments)
+  - https://so-long-sucker.vercel.app/
+  - 1pt増（183→184）。ゲーム理論×AI
+
+**セキュリティ関連:**
+- **Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets** (41pts, 61 comments)
+  - https://github.com/borenstein/yolo-cage
+  - 5pts増（36→41）、5コメント増（56→61）
+  - AIエージェントの秘密漏洩防止。セキュリティ懸念は高い
+  - **Falcon Platformでも検討すべき課題**
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (115pts, 66 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - 8pts増（107→115pts）、3コメント増
+  - LLMコスト最適化への関心継続。固定価格モデル（Falcon Platform）への示唆
+
+**技術系（非AI）:**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (394pts, 130 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 36pts増（358→394pts）。**全体トップ1位維持**
+  - WebGPU高性能可視化への強い関心継続
+
+**検索エンジン関連:**
+- **Waiting for dawn in search: Search index, Google rulings and impact on Kagi** (155pts, 102 comments)
+  - https://blog.kagi.com/waiting-dawn-search
+  - 28pts増（127→155pts）、21コメント増
+  - Google独占問題とKagiへの影響。検索市場の転換期
+
+**その他注目:**
+- **Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks** (83pts, 11 comments)
+  - https://elliotarledge.com/blog/batmobile
+  - 5pts増（78→83）。CUDA最適化によるGNN高速化
+
+- **Building an RL environment to train agents for production debugging** (4pts, 0 comments)
+  - https://www.dbow.me/rl.html
+  - 低スコアだが、本番環境デバッグ用エージェント訓練という興味深いアプローチ
+
+**メタ分析:**
+- **ChartGPUが全体トップ1位を維持**（394pts）。非AI系技術記事が最高スコア
+- **Anthropic関連3本**（take home 593pts、新憲法161pts、テキストゲーム25pts = 779pts合計）
+  - Claude新憲法が急成長継続中（2時間で80pts増: 81→161pts）
+  - Anthropicの透明性施策（採用課題オープン化）とガバナンス（新憲法）への高評価
+- コスト最適化（115pts）、セキュリティ（yolo-cage 41pts）への関心継続
+- Kagi検索エンジンへの注目上昇（155pts）。Google独占崩壊の兆し
+- エージェント系は実装（Mastra 205pts）とRTS化（94pts）が安定
+- **技術者の関心は「高性能」（ChartGPU）「安全性」（新憲法）「コスト」（LLMベンチマーク）の3軸**
+- 本番環境デバッグ用エージェント（RL環境）など、実用的なアプローチも登場
