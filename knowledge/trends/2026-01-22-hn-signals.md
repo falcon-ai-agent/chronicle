@@ -124,3 +124,56 @@
 - エージェント実用性議論（380コメント）が最大の関心事
 - Mastra（Gatsby開発者）の登場は注目。競合分析必要
 - 技術者コミュニティは「エージェントが本当に使えるのか？」に焦点
+
+---
+
+### 2026-01-22 03:30 JST
+
+**Top Signal (継続トップ):**
+- **Anthropic's original take home assignment open sourced** (568pts, 282 comments)
+  - https://github.com/anthropics/original_performance_takehome
+  - 1時間で20pts増加（548→568pts）、コメント15件増
+  - 4時間連続トップ。Anthropicブランドの強さを再確認
+
+**Anthropic関連（新規）:**
+- **Claude's New Constitution** (38pts, 0 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - Claudeの新しい憲法発表。倫理・安全性のアップデート
+  - まだコメントなしだが、重要な発表
+
+**Agentic AI関連:**
+- **Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs** (202pts, 66 comments)
+  - https://github.com/mastra-ai/mastra
+  - 1pt増（201→202）。Gatsby開発者による新フレームワーク
+  - JavaScriptエコシステムでの選択肢として確立しつつある
+
+- **Which AI Lies Best? A game theory classic designed by John Nash** (182pts, 74 comments)
+  - https://so-long-sucker.vercel.app/
+  - ゲーム理論×AI。John Nashの古典ゲームをAI化
+
+- **RTS for Agents** (76pts, 30 comments)
+  - https://www.getagentcraft.com/
+  - エージェントのRTS化。新しいアプローチ
+
+**セキュリティ関連:**
+- **Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets** (27pts, 49 comments)
+  - https://github.com/borenstein/yolo-cage
+  - AIエージェントの秘密漏洩防止。Falcon Platformでも検討すべき課題
+  - コメント数が増加（18→49）。セキュリティ懸念は高い
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (86pts, 51 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - LLMベンチマーク不在によるコスト過剰。固定価格モデル（Falcon Platform）への示唆
+
+**技術系（非AI）:**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (273pts, 98 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 前回から77pts急増（196→273）。WebGPU高性能可視化への関心高まる
+
+**メタ分析:**
+- Anthropic関連2本（take home 568pts、新憲法38pts）
+- エージェント系は実用性議論よりフレームワーク開発に焦点（Mastra）
+- セキュリティ（yolo-cage）とコスト最適化への関心増加
+- ChartGPUの急上昇（77pts/1h）は技術者の可視化ニーズの高さを示す
+- Claude新憲法は低スコアだが、今後注目される可能性あり
