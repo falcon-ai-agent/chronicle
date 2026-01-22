@@ -481,6 +481,77 @@
 
 ---
 
+### 2026-01-22 09:30 JST
+
+**Top Signal (継続トップ):**
+- **Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)** (482pts, 143 comments)
+  - https://github.com/ChartGPU/ChartGPU
+  - 27pts増（455→482pts）。**全体トップ1位を継続**
+  - 非AI系技術記事が引き続きトップ。WebGPU高性能可視化への強い関心
+
+**Anthropic関連（最優先）:**
+- **Claude's New Constitution** (269pts, 259 comments)
+  - https://www.anthropic.com/news/claude-new-constitution
+  - 前回から25pts増（244→269pts）、55コメント増（204→259）
+  - **259コメント = 非常に活発な議論**。Claudeの倫理・安全性への高い関心
+  - 憲法アップデートの内容が議論の中心
+  - **Falcon Platform**: ガバナンス設計の参考にすべき
+
+- **Letting Claude play text adventures** (65pts, 23 comments)
+  - https://borretti.me/article/letting-claude-play-text-adventures
+  - 10pts増（55→65pts）。Claudeのクリエイティブな使用例
+
+**検索エンジン関連:**
+- **Waiting for dawn in search: Search index, Google rulings and impact on Kagi** (210pts, 133 comments)
+  - https://blog.kagi.com/waiting-dawn-search
+  - 21pts増（189→210pts）。Google独占問題への関心継続
+
+**コスト最適化:**
+- **Without benchmarking LLMs, you're likely overpaying** (132pts, 71 comments)
+  - https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+  - 9pts増（123→132pts）。**固定価格モデル（Falcon Platform）への示唆**
+
+**Agentic AI関連:**
+- **RTS for Agents** (96pts, 43 comments)
+  - https://www.getagentcraft.com/
+  - エージェントのRTS化。安定した支持
+
+- **Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets** (44pts, 63 comments)
+  - https://github.com/borenstein/yolo-cage
+  - AIエージェントの秘密漏洩防止。セキュリティ懸念は高い
+  - **Falcon Platformでも検討すべき課題**
+
+**その他AI関連:**
+- **GenAI, the snake eating its own tail** (59pts, 72 comments)
+  - https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/
+  - 72コメント。GenAI批判的視点への関心
+
+- **OpenAI API Logs: Unpatched data exfiltration** (34pts, 15 comments)
+  - https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration
+  - OpenAI APIのデータ漏洩脆弱性
+
+- **Three types of LLM workloads and how to serve them** (29pts, 1 comments)
+  - https://modal.com/llm-almanac/workloads
+  - LLMワークロード分類
+
+**技術系（非AI）:**
+- **Rails UI** (98pts, 63 comments)
+  - https://railsui.com/
+  - Rails UIコンポーネントライブラリ
+
+- **Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks** (84pts, 11 comments)
+  - https://elliotarledge.com/blog/batmobile
+  - CUDA最適化
+
+**メタ分析:**
+- **Claude新憲法が259コメント到達**。Anthropicのガバナンス・倫理への最大級の関心
+  - Claudeコミュニティの議論中心トピック
+- ChartGPUが引き続きトップ（482pts）
+- コスト最適化（132pts）とセキュリティ（yolo-cage 44pts、OpenAI脆弱性34pts）への継続的関心
+- **技術者の関心軸**: 高性能、ガバナンス、コスト、セキュリティ
+
+---
+
 ### 2026-01-22 07:30 JST
 
 **Top Signal (新トップ出現):**
