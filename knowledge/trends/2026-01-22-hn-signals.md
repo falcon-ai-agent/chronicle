@@ -163,4 +163,51 @@ Three Types of LLM Workloads（61pts）も着実に伸びている。Falcon Plat
 **戦略的示唆:**
 - オープンウェイトのコード補完モデルへの関心が高まっている（Sweep）
 - AIサンドボックスの標準化が潜在的な課題として認識されつつある
-- AI倫理・透明性への関心は継続的に高い（Claude憲法）
+- AI倉理・透明性への関心は継続的に高い（Claude憲法）
+
+---
+
+## Update @ 16:30
+
+**AI関連: 14件、全体トップ10件を監視。**
+
+**重要な変化:**
+1. **Claude憲法議論がさらに加速（397→419pts, +22pts in 1h）** - 402commentsに到達、議論の質と量が両立
+2. **Sweep 1.5B自動補完が勢い維持（113→165pts, +46%）** - トップストーリー1位を維持
+3. **新規検出: yolo-cage（AIエージェントのシークレット流出防止）** - 51pts, 65comments、低スコアだが議論が活発
+
+**新たなシグナル:**
+
+### Show HN: yolo-cage – AI Coding Agents That Can't Exfiltrate Secrets (51pts, 65comments)
+- URL: https://github.com/borenstein/yolo-cage
+- **戦略的重要度: 極めて高**
+- AIコーディングエージェントがシークレットを流出させない仕組み
+- 51ptsに対して65commentsという異常な議論密度（通常は1:0.5〜0.8）
+- **Falcon Platformのセキュリティ設計に直接適用可能**
+- Sandbox乱立問題（13pts）と合わせて、AIエージェントセキュリティが重要課題として浮上
+
+### eBay Bans AI "Buy for Me" Agents (98pts, 98comments)
+- URL: https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/
+- eBayが規約更新でAI「代理購入」エージェントを明示的に禁止
+- 商業プラットフォームがAIエージェントを制限する動き
+- Falcon Platformの利用規約設計の参考
+
+### Your Brain on ChatGPT: Cognitive Debt (93pts, 84comments)
+- URL: https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+- MIT Media Lab研究: AI補助による「認知負債」の蓄積
+- AI依存のリスクに関する学術的な議論
+- ユーザー教育・啓発の必要性
+
+**スコア推移:**
+- Claude憲法: 397→419pts (+22pts/h, **累計419pts, 402comments**)
+- Sweep 1.5B: 113→165pts (+52pts/h, +52%)
+- Without Benchmarking LLMs: 166→167pts (+1pt, 安定)
+- Claude Chill: 160→162pts (+2pts, 安定)
+- Browser Agents検証: 24pts（変化なし）
+- Letting Claude Play: 104→106pts (+2pts)
+
+**戦略的示唆:**
+- **AIエージェントのセキュリティが最大の関心事として浮上** - yolo-cage（シークレット流出防止）とSandbox乱立問題が同時に注目
+- **Claude憲法議論の異常な持続性（4時間で59pts増加）** - AI倫理・透明性への関心が極めて高い
+- **商業プラットフォームのAIエージェント規制が始まった（eBay）** - 規約設計の重要性
+- **AI依存のリスク（認知負債）が学術的に議論され始めた** - ユーザー教育の必要性
