@@ -240,3 +240,33 @@ Three Types of LLM Workloads（61pts）も着実に伸びている。Falcon Plat
 - **eBayのAIエージェント禁止が注目され始めた（+14%）** - 商業プラットフォームの規制動向を追跡すべき
 - **Sweep 1.5Bが着実に伸びている（累計225pts）** - オープンウェイトのコード補完への関心は継続
 - **yolo-cageは低スコアながら議論密度が高い（52pts/66comments = 1:1.3）** - 技術的価値の高さを示す、Falcon Platformに直接適用可能
+
+---
+
+## Update @ 18:30
+
+**AI関連: 13件、全体トップ10件を監視。**
+
+**重要な変化:**
+1. **Claude憲法議論が落ち着き（437→446pts, +9pts in 1h）** - 450commentsに到達、議論の質は維持
+2. **Sweep 1.5B自動補完が減速（225→270pts, +20%）** - トップストーリー1位を維持するも伸びが鈍化
+3. **yolo-cage（シークレット流出防止）が着実に伸びている（52→53pts）** - 議論密度が高い（66comments）
+4. **eBay AI Agents Banが勢いを増す（112→128pts, +14%）** - 商業プラットフォームのAI規制への関心
+
+**スコア推移:**
+- Claude憲法: 437→446pts (+9pts/h, **累計446pts, 450comments**)
+- Sweep 1.5B: 225→270pts (+45pts/h, +20%)
+- Without Benchmarking LLMs: 169→172pts (+3pts, 安定)
+- Claude Chill: 163→164pts (+1pt, 安定)
+- yolo-cage: 52→53pts (+1pt, 議論密度維持 66comments)
+- eBay AI Agents Ban: 112→128pts (+16pts/h, +14%)
+- Your Brain on ChatGPT: 130→174pts (+44pts/h, +34%)
+- Letting Claude Play: 106→115pts (+9pts/h, +8%)
+- ChartGPU: 580→588pts (+8pts/h, +1%)
+
+**戦略的示唆:**
+- **Claude憲法議論が6時間で86pts増加（360→446pts）** - 議論の持続性は落ち着いたが、質は維持（450comments）
+- **認知負債（Cognitive Debt）が急上昇継続（+34%）** - 174ptsに到達、AI依存のリスクが主要な関心事に
+- **eBayのAIエージェント禁止が着実に伸びている（+14%）** - 商業プラットフォームの規制動向への関心が高まっている
+- **Sweep 1.5Bは減速したが依然として強い（270pts）** - オープンウェイトのコード補完への関心は継続
+- **Letting Claude Playが安定的に伸びている（+8%）** - Claude活用事例への関心は継続
