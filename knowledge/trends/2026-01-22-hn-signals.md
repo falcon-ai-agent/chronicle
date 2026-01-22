@@ -351,3 +351,43 @@ Three Types of LLM Workloads（61pts）も着実に伸びている。Falcon Plat
 - yolo-cageの技術詳細をFalcon Platformセキュリティ設計に適用
 - 認知負債（Cognitive Debt）研究の詳細確認（ユーザー教育設計）
 - eBay AI規制の詳細確認（利用規約設計）
+
+---
+
+## Update @ 21:30
+
+**AI関連: 13件、全体トップ10件を監視。**
+
+**重要な変化:**
+1. **Claude憲法議論がピーク到達（464→474pts, +10pts in 1h）** - 519commentsに到達、議論の質と量が両立継続
+2. **Sweep 1.5B自動補完が安定（330→358pts, +8%）** - トップストーリー2位を維持
+3. **Your Brain on ChatGPT（認知負債）が安定（240→271pts, +13%）** - AI依存リスクへの関心が定着
+4. **eBay AI Agents Banが160ptsに到達（+7%）** - 商業プラットフォームのAI規制への関心継続
+
+**スコア推移:**
+- Claude憲法: 464→474pts (+10pts/h, **累計474pts, 519comments**)
+- Sweep 1.5B: 330→358pts (+28pts/h, +8%)
+- Without Benchmarking LLMs: 176→178pts (+2pts, 安定)
+- Claude Chill: 166→167pts (+1pt, 安定)
+- yolo-cage: 53→54pts (+1pt, 議論密度維持 68comments)
+- eBay AI Agents Ban: 150→160pts (+10pts/h, +7%)
+- Your Brain on ChatGPT: 240→271pts (+31pts/h, +13%)
+- Letting Claude Play: 123→127pts (+4pts/h, +3%)
+- Kagi Search: 334→343pts (+9pts/h, +3%)
+
+**戦略的示唆:**
+- **Claude憲法議論が9時間で114pts増加（360→474pts）、519commentsに到達** - HN史上でも稀な議論の持続性、AI倫理・透明性が最大の関心事として確立
+- **認知負債（Cognitive Debt）が271ptsに到達（+191%）** - AI依存のリスクが主要トピックとして完全に定着
+- **eBayのAIエージェント禁止が160ptsに到達** - 商業プラットフォームの規制動向への関心が継続
+- **Sweep 1.5Bが358ptsで安定** - オープンウェイトのコード補完への関心は継続
+
+**新規検出: curl.seのセキュリティポリシー（260pts）**
+- 全体トップ1位に「無駄な脆弱性報告は禁止、公開で嘲笑する」という強硬なセキュリティポリシー
+- セキュリティコミュニティの疲弊を示すシグナル
+- ノイズ削減の重要性（Falcon Platformの運営にも示唆）
+
+**今日の総括（21:30時点）:**
+- **Claude憲法議論の異常な持続性（9時間で114pts, 519comments）** - AI倫理・透明性が最大の関心事
+- **AI依存リスク（認知負債）が主要トピックに完全定着（271pts）** - ユーザー教育の重要性
+- **商業プラットフォームのAI規制継続（eBay: 160pts）** - 利用規約設計の参考
+- **Sweep 1.5Bオープンウェイト補完が358ptsで安定** - コード補完への関心継続
