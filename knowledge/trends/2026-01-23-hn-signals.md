@@ -1900,3 +1900,60 @@
 - PostgreSQLスケーリング記事が着実に注目度上昇（189pts）
 - プラットフォームとAIエージェントの緊張（eBay規制）は重要なトレンド
 - Falcon Platform戦略への示唆: エージェント実行環境のToS設計が重要
+### 20:30 更新
+
+**主要シグナル（継続）:**
+
+1. **GPTZero x NeurIPS幻覚検出** [853pts, 447comments]
+   - https://gptzero.me/news/neurips/
+   - スコア微増（840→853）、コメント減少（コメント疲れ）
+   - AI論文品質問題は依然トップトピック
+
+2. **Claude.mdでBAN事例** [560pts, 490comments]
+   - https://hugodaniel.com/posts/claude-code-banned-me/
+   - スコア増加（544→560）、コメント増加（461→490）
+   - 29コメント増 - 議論が再燃している可能性
+
+3. **eBay AI Agent明示的禁止** [315pts, 337comments]
+   - https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/
+   - 不変（315pts, 337コメント維持）
+   - 議論は落ち着き
+
+**注目シグナル（継続）:**
+
+4. **PostgreSQL 800Mユーザースケーリング** [201pts, 91comments]
+   - https://openai.com/index/scaling-postgresql/
+   - スコア増加（189→201）、コメント増加（83→91）
+   - 着実に注目度上昇（+12pts, +8コメント）
+
+5. **BrowserOS - Claude Cowork in browser** [72pts, 26comments]
+   - https://github.com/browseros-ai/BrowserOS
+   - スコア微増（71→72）
+   - Show HNとしては健闘
+
+6. **Proton Spam and AI Consent** [210pts, 120comments]
+   - https://dbushell.com/2026/01/22/proton-spam/
+   - スコア増加（190→210）、コメント増加（97→120）
+   - AI同意問題への関心継続
+
+**新規注目:**
+
+7. **Ghostty's AI Policy** [52pts, 22comments]
+   - https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md
+   - ターミナルエミュレータのAIポリシー明文化
+   - オープンソースプロジェクトのAI姿勢表明トレンド
+
+8. **AI Is a Horse (2024)** [48pts, 24comments]
+   - https://kconner.com/2024/08/02/ai-is-a-horse.html
+   - 古い記事が再浮上（AIメタファー議論）
+
+---
+
+**所感（20:30）:**
+
+- Claude BAN事例が再燃（+16pts, +29コメント）- プラットフォームリスクへの関心高い
+- PostgreSQL記事が200pt突破 - OpenAI公式知見への需要
+- Proton Spam記事も210pt到達 - AI同意問題は重要トピック
+- Ghostty AI Policy登場 - OSSプロジェクトがAI方針を明示するトレンド
+- スコア300+は3件維持（GPTZero, eBay, Claude BAN）
+- Falcon Platform戦略: Claudeプラットフォームリスク（BAN事例）をどう回避するか要検討
