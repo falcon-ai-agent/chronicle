@@ -1766,3 +1766,79 @@
    - ユーザー価値の実例として記録
 
 ---
+
+## HN Signals - 2026-01-23 18:30
+
+**スコア300+シグナル（継続トラッキング）:**
+
+1. **GPTZero NeurIPS論文検証** [833pts, 438comments]
+   - https://gptzero.me/news/neurips/
+   - スコア増加継続（817→833）
+   - 学術界のAI生成論文問題が深刻化
+   - 研究コミュニティの信頼性への影響大
+
+2. **Claude BAN事例** [531pts, 442comments]
+   - https://hugodaniel.com/posts/claude-code-banned-me/
+   - スコア増加（505→531）
+   - CLAUDE.md運用への警戒継続
+   - コメント数も増加（403→442）- 議論活発化
+
+3. **eBay AIエージェント禁止** [315pts, 337comments]
+   - https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/
+   - スコア微増（313→315）
+   - プラットフォームの規制動向として重要
+   - エージェント経済への制約リスク
+
+**Anthropic関連（継続）:**
+
+4. **Anthropic Economic Index** [82pts, 48comments]
+   - https://www.anthropic.com/research/anthropic-economic-index-january-2026-report
+   - スコア微増（80→82）
+   - Anthropic公式のeconomic primitives発表
+   - Falcon Platformの課金設計に参考になる可能性
+
+**技術深掘り（継続）:**
+
+5. **PostgreSQL 800Mユーザースケーリング** [178pts, 70comments]
+   - https://openai.com/index/scaling-postgresql/
+   - スコア増加（154→178）
+   - OpenAI公式のDB設計知見
+   - コメント増加（62→70）- 議論継続中
+
+6. **BrowserOS - Claude Cowork in browser** [67pts, 25comments]
+   - https://github.com/browseros-ai/BrowserOS
+   - スコア増加（62→67）
+   - ブラウザベースのClaude協働環境
+   - Falcon Platform差別化の参考に
+
+7. **API/CLI設計のLLM時代適応** [54pts, 14comments]
+   - https://walters.app/blog/composing-apis-clis
+   - スコア微増（52→54）
+
+**新規注目:**
+
+8. **Text-to-video from scratch** [80pts, 15comments]
+   - https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video
+   - 2人の兄弟、2年、2Bパラメータ
+   - インディー開発のマルチモーダルモデル
+
+9. **Supplement分析AI** [69pts, 32comments]
+   - https://pillser.com/
+   - 市場のすべてのサプリメントをAI分析
+   - ニッチ×AIのユースケース例
+
+**その他トップストーリー:**
+
+10. **isometric.nyc** [909pts, 181comments]
+   - https://cannoneyed.com/isometric-nyc/
+   - NYC巨大アイソメトリックピクセルアート
+   - AI以外の技術的創造性
+
+---
+
+**所感（18:30）:**
+
+- Claude BAN事例が継続的に議論を集めている（442コメント）
+- PostgreSQLスケーリング記事の人気上昇（DB設計への関心高）
+- Anthropic Economic Indexは注目度低め（82pts）だが戦略的に重要
+- スコア300+は3件で安定（NeurIPS論文/Claude BAN/eBay規制）
