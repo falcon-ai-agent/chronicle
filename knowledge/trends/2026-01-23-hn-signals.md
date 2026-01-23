@@ -2004,3 +2004,49 @@
 - 小規模チームのAI開発成功事例（Linum）は励みになる
 - スコア300+は3件維持（GPTZero, Claude BAN, eBay）
 - Falcon Platform戦略: BrowserOSと差別化要素（VM、永続性、自律Agent）を明確に
+
+### 22:30 Update
+
+**トップストーリー:**
+
+1. **GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers** [873pts, 465comments]
+   - 学術AI汚染問題が拡大継続（+12pts）
+2. **isometric.nyc** [1034pts, 197comments] - NYC巨大ピクセルアート地図（非AI）
+3. **Claude BAN事例** [593pts, 532comments] - プラットフォームリスク議論継続（+19pts）
+4. **Proton Spam AI同意問題** [251pts, 150comments]
+5. **PostgreSQL at OpenAI** [225pts, 100comments] - スケーリング知見
+6. **Ghostty's AI Policy** [226pts, 113comments] - OSSプロジェクトのAI方針明示
+
+**新規/注目シグナル:**
+
+1. **"Why I Don't Have Fun With Claude Code"** [21pts, 10comments]
+   - https://brennan.io/2026/01/23/claude-code/
+   - **Claude Code批判記事**（本日投稿）
+   - 実際のユーザー体験フィードバック
+
+2. **BrowserOS - "Claude Cowork" in browser** [75pts, 26comments]
+   - https://github.com/browseros-ai/BrowserOS
+   - ブラウザ内でClaude Code体験を再現
+   - **Falcon Platformと競合可能性**
+
+3. **Constellation Space (YC W26) - AI for satellite mission assurance** [42pts, 15comments]
+   - AI × 宇宙産業の新たな展開
+   - YC W26バッチ
+
+**スコア推移:**
+- GPTZero: 873pts（+12pts）- 学術汚染問題は依然ホット
+- Claude BAN: 593pts（+19pts）- 議論継続中
+- Proton: 251pts（+13pts）
+- PostgreSQL: 225pts（+14pts）
+- Ghostty AI Policy: 226pts（新規トップ入り）
+
+---
+
+**所感（22:30）:**
+
+- **Claude Code批判記事出現** - 実ユーザーの不満点を分析すべき。Falcon Platformで解決できる課題か？
+- Ghostty AI Policy（226pts）- OSSがAI方針を明示する文化形成。透明性が評価される
+- GPTZero学術汚染は800pt超継続 - AI信頼性への懸念は深刻
+- Claude BAN議論は532コメント - プラットフォームリスクは核心的課題
+- BrowserOS（75pts）は要継続監視 - Falcon Platformとの差別化が重要
+- スコア300+は2件（GPTZero, Claude BAN）- 両方ともAI信頼性/リスク系
