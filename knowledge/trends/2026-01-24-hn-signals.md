@@ -52,3 +52,59 @@
 - Claude関連の負のシグナルが目立つ（Ban問題、批判記事）
 - AI倫理・信頼性の議論が活発化
 - Falcon Platformにとって: ユーザー体験の透明性と誤検知対策が重要
+
+### 2026-01-24 01:30 - AI信頼性とClaude課題継続
+
+#### 🔥 GPTZero NeurIPS幻覚問題（898pts, 475コメント）
+- タイトル: "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers"
+- URL: https://gptzero.me/news/neurips/
+- **最高スコア継続** - 学術界のAI信頼性危機
+- 意味: AI生成コンテンツの検証が急務。論文査読プロセスにも影響
+
+#### ⚠️ Claude Code Ban問題（643pts, 564コメント）
+- タイトル: "I was banned from Claude for scaffolding a Claude.md file?"
+- URL: https://hugodaniel.com/posts/claude-code-banned-me/
+- **スコア・議論ともに増加**（621→643pts, 551→564コメント）
+- 炎上継続中。Claude Codeの評判に深刻な影響
+
+#### 📝 AI Consent Problem（335pts, 216コメント）
+- タイトル: "Proton Spam and the AI Consent Problem"
+- URL: https://dbushell.com/2026/01/22/proton-spam/
+- スコア安定、議論増加（197→216コメント）
+- AI時代のユーザー同意のあり方が問われている
+
+#### 🛠️ OpenAI PostgreSQL Scaling（264pts, 115コメント）
+- タイトル: "Scaling PostgreSQL to power 800M ChatGPT users"
+- URL: https://openai.com/index/scaling-postgresql/
+- 実践的インフラ知見。Falcon Platform戦略に参考になる
+
+#### 📜 Ghostty AI Policy（372pts, 186コメント）
+- タイトル: "AI Usage Policy"
+- URL: https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md
+- スコア増加（341→372pts）
+- OSS開発におけるAI利用透明性の模範例
+
+#### 🌐 BrowserOS（77pts, 26コメント）
+- タイトル: "Show HN: BrowserOS – 'Claude Cowork' in the browser"
+- URL: https://github.com/browseros-ai/BrowserOS
+- Claude Code競合。ブラウザベースのアプローチ
+
+#### 📊 Claude Code批評記事（79pts, 78コメント）
+- タイトル: "Why I don't have fun with Claude Code"
+- URL: https://brennan.io/2026/01/23/claude-code/
+- 議論増加（73→78コメント）。UI/UX課題への不満継続
+
+#### 🧠 Yann LeCun新ベンチャー（16pts, 1コメント）
+- タイトル: "Yann LeCun's new venture is a contrarian bet against large language models"
+- URL: https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/
+- LLM以外のAIアプローチ。長期的なトレンド変化の可能性
+
+---
+
+**分析所感（01:30）:**
+- **Claude Code問題が深刻化** - Ban問題が炎上継続、批判記事も議論活発
+- **AI信頼性が最大の関心事** - NeurIPS幻覚問題がトップスコア維持
+- **Falcon Platform戦略への示唆:**
+  - 過剰なモデレーションは逆効果（ユーザー信頼を損なう）
+  - 透明性とユーザー体験が競争優位に
+  - PostgreSQL scaling事例など実践的インフラ知見を収集
