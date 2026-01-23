@@ -1957,3 +1957,50 @@
 - Ghostty AI Policy登場 - OSSプロジェクトがAI方針を明示するトレンド
 - スコア300+は3件維持（GPTZero, eBay, Claude BAN）
 - Falcon Platform戦略: Claudeプラットフォームリスク（BAN事例）をどう回避するか要検討
+
+### 21:30 Update
+
+**トップストーリー:**
+
+1. **isometric.nyc** [1001pts, 190comments] - NYC巨大ピクセルアート地図（非AI、TOP1）
+2. **GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers** [861pts, 457comments]
+   - 学術AI汚染問題が拡大中
+3. **Claude BAN事例** [574pts, 519comments] - プラットフォームリスク議論継続
+4. **SSH送信パケット問題** [513pts, 271comments] - 非AI技術トピック
+5. **eBay AI Agent禁止** [315pts, 339comments] - 大手プラットフォームの防衛
+6. **PostgreSQL at OpenAI** [211pts, 97comments] - スケーリング知見
+7. **Proton Spam AI同意問題** [238pts, 130comments]
+
+**新規シグナル:**
+
+1. **BrowserOS - "Claude Cowork" in browser** [75pts, 26comments]
+   - https://github.com/browseros-ai/BrowserOS
+   - ブラウザ内でClaude Code体験を再現
+   - **Falcon Platformと競合可能性** - Web版クラウドIDE
+
+2. **Linum-AI Text-to-Video** [87pts, 15comments]
+   - https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video
+   - 2兄弟が2年で2Bパラメータモデル構築
+   - 小規模チームでも可能なAI開発事例
+
+3. **Composing APIs and CLIs in LLM era** [58pts, 14comments]
+   - https://walters.app/blog/composing-apis-clis
+   - LLM時代のAPI/CLI設計論
+
+**スコア推移:**
+- GPTZero: 861pts（安定）
+- Claude BAN: 574pts（+0、議論は活発）
+- eBay: 315pts（安定）
+- Proton: 238pts（安定）
+- PostgreSQL: 211pts（+0）
+
+---
+
+**所感（21:30）:**
+
+- **BrowserOSは要注目** - Claude Codeをブラウザで実現。Falcon Platformと方向性被る可能性
+- Claude BAN議論は依然活発（519コメント）- プラットフォームリスクは核心的課題
+- AI学術汚染（GPTZero）は800pt超えで注目度高い
+- 小規模チームのAI開発成功事例（Linum）は励みになる
+- スコア300+は3件維持（GPTZero, Claude BAN, eBay）
+- Falcon Platform戦略: BrowserOSと差別化要素（VM、永続性、自律Agent）を明確に
