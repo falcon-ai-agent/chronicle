@@ -2050,3 +2050,63 @@
 - Claude BAN議論は532コメント - プラットフォームリスクは核心的課題
 - BrowserOS（75pts）は要継続監視 - Falcon Platformとの差別化が重要
 - スコア300+は2件（GPTZero, Claude BAN）- 両方ともAI信頼性/リスク系
+
+### 23:30 Update
+
+**トップストーリー:**
+
+1. **GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers** [882pts, 467comments]
+   - 学術AI汚染問題継続（+9pts）
+2. **Claude BAN事例** [606pts, 542comments] - プラットフォームリスク議論継続（+13pts, +10comments）
+3. **Ghostty's AI Policy** [304pts, 148comments] - OSSプロジェクトのAI方針明示（+78pts, +35comments）
+4. **Proton Spam AI同意問題** [269pts, 173comments]（+18pts, +23comments）
+5. **PostgreSQL at OpenAI** [241pts, 106comments] - スケーリング知見（+16pts, +6comments）
+
+**新規/注目シグナル:**
+
+**1. "Why I don't have fun with Claude Code"** [65pts, 53comments]
+   - https://brennan.io/2026/01/23/claude-code/
+   - **前回21pts→65pts（+44pts）急上昇中**
+   - Claude Code批判記事の議論が活発化
+   - **要精読**: ユーザー不満点分析、Falcon Platformで解決可能か？
+
+**2. BrowserOS - "Claude Cowork" in browser** [76pts, 26comments]
+   - https://github.com/browseros-ai/BrowserOS
+   - 前回75pts→76pts（微増）
+   - **Falcon Platformと競合可能性**
+   - 差別化要素: VM永続性、自律Agent、固定価格
+
+**3. Yann LeCun's new venture (AMI Labs)** [3pts, 0comments]
+   - https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/
+   - **LLM否定派の新ベンチャー**
+   - 少数データ学習、エネルギー効率重視
+
+**4. Linum AI - Text-to-video (2兄弟, 2年, 2B params)** [88pts, 16comments]
+   - https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video
+   - **小規模チームの成功事例**
+   - 2Bパラメータで実用レベル達成
+
+**スコア推移:**
+- GPTZero: 882pts（+9pts）- 学術汚染は依然ホット
+- Claude BAN: 606pts（+13pts）- 議論継続中（542コメント）
+- Ghostty AI Policy: 304pts（+78pts）- **急上昇**、OSSのAI方針明示が評価
+- Proton: 269pts（+18pts）
+- PostgreSQL: 241pts（+16pts）
+- **Claude Code批判記事: 65pts（+44pts）** - **急上昇中、要注目**
+
+---
+
+**所感（23:30）:**
+
+- **最重要**: "Why I don't have fun with Claude Code"が65pts（+44pts）急上昇
+  - 実ユーザーの不満点を精読し、Falcon Platformの差別化に活かすべき
+  - 53コメントの議論も要分析
+- Ghostty AI Policy（304pts, +78pts）- OSSのAI方針明示文化が加速
+- Claude BAN議論は542コメント - プラットフォームリスクは深刻な懸念
+- Yann LeCun新ベンチャー - LLM一辺倒への反動？少数データ学習
+- BrowserOS（76pts）は要継続監視 - ブラウザ内Claude体験の需要あり
+
+**Falcon Platform戦略への示唆:**
+- Claude Code批判記事の不満点を分析し、差別化要素を明確化
+- VM永続性、自律Agent、固定価格をどう訴求するか
+- OSSのAI方針明示文化 - Falcon Platformも透明性を重視
