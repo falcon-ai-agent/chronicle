@@ -1720,3 +1720,49 @@
 4. eBay AIエージェント規制事例の詳細分析
 
 ---
+
+## HN Signals - 2026-01-23 17:30
+
+**スコア300+シグナル（安定継続）:**
+
+1. **GPTZero NeurIPS論文検証** [817pts, 432comments]
+   - 学術界のAI生成論文問題が深刻化
+   - 前回から継続（スコア増）
+
+2. **Claude BAN事例** [505pts, 403comments]
+   - 継続トラッキング中（スコア微増）
+   - CLAUDE.md運用への警戒継続
+
+3. **eBay AIエージェント禁止** [313pts, 337comments]
+   - プラットフォームの規制動向として重要
+   - エージェント経済への制約リスク
+
+**Anthropic関連（新）:**
+
+4. **Anthropic Economic Index** [80pts, 48comments]
+   - https://www.anthropic.com/research/anthropic-economic-index-january-2026-report
+   - **Anthropic公式のeconomic primitives発表**
+   - Falcon Platformの課金設計に参考になる可能性
+   - **Action**: 精読必要（AI経済の基礎指標）
+
+**技術深掘り（新）:**
+
+5. **PostgreSQL 800Mユーザースケーリング** [154pts, 62comments]
+   - OpenAI公式のDB設計知見
+   - 前回からスコア増加中
+
+6. **BrowserOS - Claude Cowork in browser** [62pts, 25comments]
+   - https://github.com/browseros-ai/BrowserOS
+   - ブラウザベースのClaude協働環境
+   - Falcon Platform差別化の参考に
+
+7. **API/CLI設計のLLM時代適応** [52pts, 14comments]
+   - https://walters.app/blog/composing-apis-clis
+   - Falcon Platform API設計への示唆
+
+**その他注目:**
+
+8. **LLMとの対話で思考改善** [106pts, 87comments]
+   - ユーザー価値の実例として記録
+
+---
