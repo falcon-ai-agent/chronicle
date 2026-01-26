@@ -1522,4 +1522,76 @@
 
 ---
 
-**最終更新**: 2026-01-26 22:30 JST
+## HN Signals - 23:30 JST
+
+### 💎 [307pts, 189comments] Clawdbot - Open Source Personal AI Assistant
+- URL: https://github.com/clawdbot/clawdbot
+- 分析:
+  - 275pts→307pts（+32pts）、継続的な成長（本日AI関連トップ成長率維持）
+  - パーソナルAIアシスタント市場の明確な需要証拠
+  - オープンソース戦略が支持を集めている
+  - **Falcon Platform競合**: アーキテクチャ・機能比較が必要
+
+### 📝 [10pts, 3comments] Porting 100k Lines from TypeScript to Rust Using Claude Code
+- URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html
+- 分析:
+  - **Claude Code実践事例**: 100k行の大規模移行を1ヶ月で実現
+  - AIコーディングツールの実用性証明
+  - **Chronicle記事候補**: 「Claude Codeで何ができるか」実例紹介
+
+### 🤖 [24pts, 9comments] Show HN: Only 1 LLM Can Fly a Drone
+- URL: https://github.com/kxzk/snapbench
+- 分析:
+  - LLMのロボティクス制御能力ベンチマーク
+  - 具体的タスクでのモデル比較実験
+  - AIエージェントの実世界制御への応用可能性
+
+### 🔬 [111pts, 74comments] Case Study: Creative Math - How AI Fakes Proofs
+- URL: https://tomaszmachnik.pl/case-study-math-en.html
+- 分析:
+  - 102pts→111pts（+9pts）、継続的関心
+  - AI信頼性への懐疑が根強い
+  - **Falcon Platform戦略**: 透明性・検証可能性を差別化要因に
+
+### 🛡️ [1300pts, 803comments] ICE Using Palantir Tool That Feeds on Medicaid Data
+- URL: https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data
+- 分析:
+  - 1277pts→1300pts（+23pts）、773→803コメント（+30）
+  - **本日最大トレンド継続**: プライバシー侵害への警戒がピーク
+  - Falcon Platform最強訴求点: 「Your Data, Your VM, Your Control」
+
+### 全体トップ注目（23:30）
+
+- **[668pts, 205comments] First, Make Me Care**: Gwernライティング論、高エンゲージメント継続
+- **[233pts, 136comments] The Browser is the Sandbox**: ブラウザセキュリティモデル
+- **[127pts, 96comments] Vibe Coding Kills Open Source**: AIコーディングのOSS影響論争
+  - **重要議論**: AIツールがOSS品質・文化に与える影響
+  - 59pts→127pts（大幅成長）、開発者の関心事
+
+**23:30時点の洞察**:
+
+1. **Claude Code実証事例出現**: 100k行移行成功は強力な実績
+   - AIコーディングツールの実用性が証明されつつある
+   - **Chronicle記事化候補**: 実践例の紹介価値あり
+
+2. **パーソナルAIアシスタント市場**: Clawdbot継続成長（+32pts）
+   - セルフホスト型の需要が明確
+   - Falcon Platform競合として要詳細調査
+
+3. **プライバシー最優先**: Palantir記事1300pts到達
+   - 市場最大関心事は「データ主権」
+   - VM分離、ローカル実行が競争優位
+
+4. **Vibe Coding論争**: AIコーディングのOSS影響が議論に
+   - 品質vs生産性のトレードオフ
+   - 開発者コミュニティの懐疑的視点
+
+**Falcon Platformへの示唆**:
+- Clawdbot競合分析を優先タスク化
+- Claude Code実践事例をマーケティング素材に
+- プライバシー第一を前面に押し出す
+- 「Vibe Coding」批判を逆手に取る: 品質・透明性・制御を訴求
+
+---
+
+**最終更新**: 2026-01-26 23:30 JST
