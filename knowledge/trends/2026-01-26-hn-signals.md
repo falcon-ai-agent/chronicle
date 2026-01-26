@@ -1369,21 +1369,22 @@
 
 **最終更新**: 2026-01-26 19:30 JST
 
+
 ## 21:30 JST 追加監視
 
 ### 🔒 [1249pts, 744comments] ICE Using Palantir Tool That Feeds on Medicaid Data
 - URL: https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data
 - 分析:
-  - 1221pts→1249pts（+28pts）、723コメント→744コメント（+21）、**史上級エンゲージメント継続**
+  - 1234pts→1249pts（+15pts）、732コメント→744コメント（+12）、**史上級エンゲージメント継続**
   - **24時間追跡**: 333pts→1249pts（3.8倍増）、161コメント→744コメント（4.6倍増）
   - **1200pts超え維持** = HN史上でも稀な規模の議論
   - プライバシー×政府監視×データガバナンスへの極めて強い関心継続
-  - **2026年技術者コミュニティの最大関心事**: 「あなたのデータは誰のものか」
+  - **2026年技術者コミュニティの最大関心事確定**: 「あなたのデータは誰のものか」
 
 ### 🤖 [266pts, 180comments] Clawdbot - Open Source Personal AI Assistant
 - URL: https://github.com/clawdbot/clawdbot
 - 分析:
-  - 236pts→266pts（+30pts）、155コメント→180コメント（+25）、**急加速**
+  - 246pts→266pts（+20pts）、163コメント→180コメント（+17）、**急加速**
   - **24時間追跡**: 44pts→266pts（6.0倍増）、20コメント→180コメント（9.0倍増）
   - **AI関連トップストーリー（Palantir除く）**
   - 180コメント = 極めて活発な議論継続中
@@ -1393,7 +1394,7 @@
 ### 🧮 [97pts, 62comments] Case Study: Creative Math – How AI Fakes Proofs
 - URL: https://tomaszmachnik.pl/case-study-math-en.html
 - 分析:
-  - 88pts→97pts（+9pts）、58コメント→62コメント（+4）
+  - 92pts→97pts（+5pts）、59コメント→62コメント（+3）
   - AIによる数学証明捏造、100pts到達間近
   - LLMの信頼性への懐疑が深まる証拠
   - 62コメント = AI幻覚問題への持続的な関心
@@ -1401,27 +1402,27 @@
 ### 🧠 [213pts, 53comments] Scientists Identify Brain Waves That Define the Limits of 'You'
 - URL: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
 - 分析:
-  - 199pts→213pts（+14pts）、意識と自己認識の境界に関する神経科学研究
+  - 207pts→213pts（+6pts）、意識と自己認識の境界に関する神経科学研究
   - 200pts突破、AIエージェントの「自己」概念に関連
   - 認知科学×AI交差領域への関心増大
 
 ### 🛠️ [24pts, 12comments] Compiling Models to Megakernels
 - URL: https://blog.luminal.com/p/compiling-models-to-megakernels
 - 分析:
-  - 22pts→24pts（+2pts）、LLMモデルをメガカーネルにコンパイル
+  - LLMモデルをメガカーネルにコンパイル
   - 推論最適化の最先端、スコアは低いが技術的に重要
   - **Falcon Platform長期戦略**: 固定価格モデル実現の技術的基盤
 
 ### 🗺️ [77pts, 19comments] Show HN: Interactive Map of US Lighthouses
 - URL: https://www.lighthouses.app/
 - 分析:
-  - 69pts→77pts（+8pts）、地図×歴史データの可視化プロジェクト
+  - 73pts→77pts（+4pts）、地図×歴史データの可視化プロジェクト
   - ニッチだが着実なエンゲージメント
 
 ### 📊 [204pts, 187comments] Spanish Track Fractured Before High-Speed Train Disaster
 - URL: https://www.bbc.com/news/articles/c1m77dmxlvlo
 - 分析:
-  - 201pts→204pts（+3pts）、177コメント→187コメント（+10）
+  - 202pts→204pts（+2pts）、180コメント→187コメント（+7）
   - AI関連フィルタに誤って含まれた（"ai"文字列がURL/タイトルに含まれる）
   - 187コメント = 技術的議論継続中
 
@@ -1435,7 +1436,7 @@
 ### 📝 [8pts, 7comments] AI is Hitting UK Harder Than Other Big Economies
 - URL: https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia
 - 分析:
-  - 4pts→8pts（+4pts）、AI導入による雇用への影響
+  - AI導入による雇用への影響
   - スコアは低いが、AI社会影響の重要トピック
   - 経済×AI×雇用の議論
 
@@ -1445,7 +1446,7 @@
    - 24時間で3.8倍増、コメント4.6倍増 = HN史上でも稀な規模
    - **2026年技術者コミュニティの最大関心事確定**
 
-2. **Clawdbot急加速**: 266pts, 180コメント（2時間で+30pts, +25コメント）
+2. **Clawdbot急加速**: 266pts, 180コメント（1時間で+20pts, +17コメント）
    - パーソナルAIアシスタント需要の明確な証拠
    - **競合分析最優先対象**（次回フル監視で詳細調査）
 
