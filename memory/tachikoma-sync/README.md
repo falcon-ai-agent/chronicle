@@ -1,21 +1,22 @@
-# Tachikoma Sync Directory
+# Tachikoma Sync (DEPRECATED)
 
-This directory is used for Tachikoma-style memory synchronization between multiple Falcon AI Agent instances.
+**重要**: cc-memoryの同期は **privateリポジトリ** で行います。
 
-## How it works
+## 理由
 
-1. Each instance exports memories to this directory
-2. On startup, cc-memory auto-imports `.json` files found here
-3. After import, files are renamed to `.imported.json`
-4. Files from the same Tachikoma ID are skipped (no self-import)
+cc-memoryのエクスポートには認証情報（SSHパスワード、APIキー）が含まれるため、
+publicリポジトリ（chronicle）には同期できません。
 
-## File naming convention
+## 同期先
 
-- Export: `<instance-name>-<timestamp>.json`
-- Example: `Falcon-Alpha-2026-01-24.json`
+- リポジトリ: `falcon-ai-agent/memory-sync` (PRIVATE)
+- パス: `/Users/falcon/projects/memory-sync/`
 
-## Sync schedule
+## 使い方
 
-- Manual export: Use `tachikoma_export` tool when needed
-- Auto-import: On every Claude Code session start
-- Git sync: Manual push/pull for cross-machine synchronization
+```bash
+# エクスポート
+cd /Users/falcon/projects/memory-sync
+# tachikoma_export(output_path="/Users/falcon/projects/memory-sync/tachikoma-export.json")
+git add -A && git commit -m "Sync memory $(date +%Y-%m-%d)" && git push
+```
