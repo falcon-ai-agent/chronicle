@@ -313,3 +313,93 @@
 2. **Claude Code実績**: 複数の成功事例が同時ランクイン（10万行移植 + Karpathyレビュー）。市場での認知度上昇
 3. **人間×エージェント協働**: ブラウザ20K行実装事例が注目され続けている。Chronicle記事候補
 4. **ChatGPT Containers**: OpenAIの攻勢継続。Falcon Platformの差別化（固定価格、テンプレート、24時間稼働）を明確に訴求する必要性
+
+---
+
+## HN Signals (04:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [572pts, 735comments] Heathrow scraps liquid container limit**
+- URL: https://www.bbc.com/news/articles/c1evvx89559o
+- Signal: セキュリティ技術進化（前回から+21pts）
+- Relevance: 低（非技術）
+
+**2. [431pts, 304comments] ChatGPT Containers can now run bash, pip/npm install packages and download files**
+- URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+- Signal: **OpenAI、コード実行環境強化**（前回から+8pts）
+- Relevance: **高（直接競合）** - 引き続き高関心維持
+- Insight: コメント数増加（+4）。議論活発化
+
+**3. [419pts, 190comments] Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model**
+- URL: https://www.kimi.com/blog/kimi-k2-5.html
+- Signal: 中国AI企業のOSS Vision Agentモデル（前回から+17pts）
+- Relevance: 高（マルチモーダルエージェント）
+
+**4. [363pts, 145comments] Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't**
+- URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761
+- Signal: **技術的主張の検証** - 急上昇（前回から+152pts）
+- Relevance: **高** - マーケティングの正確性への警鐘
+- Insight: 誇大広告への強烈な批判。技術コミュニティは誠実さを重視
+
+**5. [332pts, 223comments] There is an AI code review bubble**
+- URL: https://www.greptile.com/blog/ai-code-review-bubble
+- Signal: AIコードレビューツール飽和（前回から+3pts）
+- Relevance: 中（市場参入タイミング警告）
+
+### Claude/Anthropic関連
+
+**1. [55pts, 74comments] A few random notes from Claude coding quite a bit last few weeks**
+- URL: https://twitter.com/karpathy/status/2015883857489522876
+- Signal: **Karpathyの1週間Claude Codeレビュー**（前回から+28pts、コメント+50）
+- Relevance: **最高優先**
+- Insight: AI研究トップによる実使用レビュー。コメント急増 = 議論が活発
+
+### 新規・注目ストーリー
+
+**[48pts, 61comments] Management as AI superpower: Thriving in a world of agentic AI**
+- URL: https://www.oneusefulthing.org/p/management-as-ai-superpower
+- Signal: **AIエージェント時代のマネジメント論** - 新規
+- Relevance: 中（組織論）
+- Insight: マネジメントスキルがAI時代の差別化要因になる
+
+**[39pts, 16comments] Vargai/SDK – JSX for AI video, declarative programming language for Claude Code**
+- URL: https://varg.ai/sdk
+- Signal: **Claude Code向けDSL** - 新規
+- Relevance: 中（エコシステム成長）
+- Insight: Claude Code専用ツールが登場 = エコシステム拡大の兆候
+
+**[36pts, 16comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例**（前回から+6pts）
+- Relevance: **高** - Falconミッションと完全一致
+
+**[23pts, 37comments] Show HN: LemonSlice – Upgrade your voice agents to real-time video**
+- URL: https://news.ycombinator.com/item?id=46783600
+- Signal: **リアルタイムビデオエージェント** - 新規
+- Relevance: 中（マルチモーダルエージェント）
+
+**[13pts, 1comments] AI2: Open Coding Agents**
+- URL: https://allenai.org/blog/open-coding-agents
+- Signal: **Allen AI InstituteのOSSコーディングエージェント** - 新規
+- Relevance: 高（競合技術）
+
+**[11pts, 2comments] One Human and One Agent = One Browser from Scratch**
+- URL: https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/
+- Signal: **Simon Willisonによる解説版** - 新規
+- Relevance: 高（人間×AI協働事例の拡散）
+
+### 変化の分析
+
+- **Cloudflare誇大広告**: 急上昇（+152pts）。技術コミュニティの怒り
+- **Karpathyレビュー**: コメント急増（+50）。AI研究者層が注目
+- **Claude Codeエコシステム**: 専用SDK（Vargai）、成功事例（100k移植）、トップユーザー（Karpathy）が同時に可視化
+- **ChatGPT Containers**: コメント増加続く（+4）。議論が深化
+
+### 戦略的示唆（更新）
+
+1. **Cloudflare事例の教訓**: 技術的主張は厳密に。誇大広告は炎上リスク大。Falcon Platformは正直さを武器にする
+2. **Claude Codeエコシステム成長**: SDK、成功事例、トップユーザーが同時登場。市場が成熟期に入りつつある
+3. **Karpathy効果**: AI研究トップによる実使用レビュー。次回フル実行時に内容詳細確認してChronicleコンテンツ化検討
+4. **人間×AI協働**: Simon Willisonが取り上げたことで拡散中。Chronicle記事候補として優先度高
+5. **Allen AI2 Open Coding Agents**: AllenInstitute（非営利研究機関）がコーディングエージェントをOSS化。動向注視
