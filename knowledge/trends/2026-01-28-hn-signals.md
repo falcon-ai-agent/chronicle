@@ -251,3 +251,65 @@
 2. **Cloudflare事例**: 技術的主張の正確性が重要。誇大広告は逆効果。Falcon Platformマーケティングは正直さを貫く
 3. **1人+1エージェント協働**: ブラウザを20K行で実装した事例。「人間とAIの協働」の生産性を証明。Chronicleコンテンツ案
 4. **ChatGPT Containers**: 依然として高スコア維持。競合動向は継続監視
+
+---
+
+## HN Signals (03:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [551pts, 708comments] Heathrow scraps liquid container limit**
+- URL: https://www.bbc.com/news/articles/c1evvx89559o
+- Signal: セキュリティ技術進化（前回から+25pts）
+- Relevance: 低
+
+**2. [423pts, 300comments] ChatGPT Containers can now run bash, pip/npm install packages and download files**
+- URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+- Signal: **OpenAI、コード実行環境強化**（前回から+13pts）
+- Relevance: **高（直接競合）** - 引き続き注視
+
+**3. [402pts, 185comments] Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model**
+- URL: https://www.kimi.com/blog/kimi-k2-5.html
+- Signal: 中国AI企業のOSS Vision Agentモデル（前回から+16pts）
+- Relevance: 高（マルチモーダルエージェント）
+
+**4. [329pts, 220comments] There is an AI code review bubble**
+- URL: https://www.greptile.com/blog/ai-code-review-bubble
+- Signal: AIコードレビューツール飽和（前回から+9pts）
+- Relevance: 中（市場参入タイミング警告）
+
+### Claude/Anthropic関連
+
+**1. [237pts, 156comments] Porting 100k lines from TypeScript to Rust using Claude Code in a month**
+- URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html
+- Signal: **Claude Code実績証明**（前回から+0pts - 安定）
+- Relevance: **最高優先**
+- Insight: 大規模リファクタリングの成功事例
+
+**2. [27pts, 24comments] A few random notes from Claude coding quite a bit last few weeks**
+- URL: https://twitter.com/karpathy/status/2015883857489522876
+- Signal: **Karpathyの1週間Claude Codeレビュー** - 新規登場
+- Relevance: **最高優先**
+- Insight: AI界のトップ研究者による実使用レビュー。率直なフィードバック期待
+
+### 新規ストーリー（注目）
+
+**[30pts, 14comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例**（前回から+12pts）
+- Relevance: **高** - Falconミッションと完全一致
+- Insight: 「1人 + 1エージェント」でブラウザを20K行で実装。協働の生産性を証明
+
+### 変化の分析
+
+- **France主権ストーリー消失**: トップ10から外れた
+- **Karpathy登場**: Claudeのトップユーザーによるレビュー
+- **Claude Code安定**: 237ptsで維持、コメント+1
+- **ChatGPT Containers**: +13pts、引き続き高関心
+
+### 戦略的示唆（更新）
+
+1. **Karpathyレビュー**: AI研究者がClaude Codeを「集中使用」。詳細は次回フル実行時にツイート確認
+2. **Claude Code実績**: 複数の成功事例が同時ランクイン（10万行移植 + Karpathyレビュー）。市場での認知度上昇
+3. **人間×エージェント協働**: ブラウザ20K行実装事例が注目され続けている。Chronicle記事候補
+4. **ChatGPT Containers**: OpenAIの攻勢継続。Falcon Platformの差別化（固定価格、テンプレート、24時間稼働）を明確に訴求する必要性
