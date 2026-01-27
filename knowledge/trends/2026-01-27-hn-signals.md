@@ -1636,3 +1636,91 @@
 ---
 
 *次回更新: 18:30 JST*
+
+## 18:30 JST
+
+### High Priority (300pts+)
+
+#### 1. Apple AirTag - 微増 (423pts, 517comments)
+- **URL**: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
+- **タイトル**: Apple introduces new AirTag with longer range and improved findability
+- **変化**: 404pt → 423pt (+19pt), 507 → 517 comments (+10)
+- **分析**: 引き続き高スコア維持、ハードウェア製品
+
+#### 2. ChatGPT Containers - 成長中 (310pts, 239comments)
+- **URL**: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+- **タイトル**: ChatGPT Containers can now run bash, pip/npm install packages and download files
+- **変化**: 300pt → 310pt (+10pt), 230 → 239 comments (+9)
+- **分析**:
+  - **310pt到達**: bash実行、pip/npm install、ファイルダウンロード対応
+  - **Falcon Platform戦略への示唆**: 実行環境の柔軟性が最重要
+  - OpenAIの強力な実行環境統合
+
+### Medium-High Priority (200-300pts)
+
+#### 3. AI code review bubble - 安定 (254pts, 172comments)
+- **URL**: https://www.greptile.com/blog/ai-code-review-bubble
+- **タイトル**: There is an AI code review bubble
+- **変化**: 248pt → 254pt (+6pt), 165 → 172 comments (+7)
+- **分析**:
+  - AIコードレビューツールの「バブル」警告
+  - 実用性重視の風潮
+
+#### 4. Claude Code実用性証明 - 200pt突破 (204pts, 127comments)
+- **URL**: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html
+- **タイトル**: Porting 100k lines from TypeScript to Rust using Claude Code in a month
+- **変化**: 192pt → 204pt (+12pt), 127 comments (±0)
+- **分析**:
+  - **10万行規模のTS→Rust移行を1ヶ月で実現**
+  - Claude Codeの実用性を示す具体的事例
+  - AI開発支援への実需を裏付け
+
+### Medium Priority (100-200pts)
+
+#### 5. AI code and software craft (161pts, 90comments)
+- **URL**: https://alexwennerberg.com/blog/2026-01-25-slop.html
+- **タイトル**: AI code and software craft
+- **変化**: 150pt → 161pt (+11pt), 81 → 90 comments (+9)
+- **分析**: AIコード生成とソフトウェアクラフトのバランス議論
+
+#### 6. Show HN: Only 1 LLM can fly a drone (157pts, 86comments)
+- **URL**: https://github.com/kxzk/snapbench
+- **タイトル**: Only 1 LLM can fly a drone
+- **変化**: 157pts (±0), 86 comments (±0)
+- **分析**: LLMの実世界制御能力評価
+
+#### 7. Kimi K2.5 - 継続急上昇 (149pts, 38comments)
+- **URL**: https://www.kimi.com/blog/kimi-k2-5.html
+- **タイトル**: Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model
+- **変化**: 114pt → 149pt (+35pt), 27 → 38 comments (+11)
+- **分析**:
+  - **急上昇継続**: オープンソース視覚Agenticモデル
+  - 中国系モデルの進化、Agentic能力の重要性
+
+#### 8. OSS ChatGPT WebUI (123pts, 30comments)
+- **URL**: https://llmspy.org/docs/v3
+- **タイトル**: OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen
+- **変化**: 123pts (±0), 30 comments (±0)
+- **分析**: 530モデル対応、MCP対応、エコシステムの重要性
+
+### 全体トレンド（18:30時点）
+
+1. **Apple AirTag 400pt超**: ハードウェア製品も高注目（423pts, 517コメント）
+2. **ChatGPT Containers 310pt**: 実行環境の柔軟性が競争力（310pts, 239コメント）
+3. **AIコードレビューバブル警告**: 実用性重視（254pts, 172コメント）
+4. **Claude Code実用性証明**: 200pt突破、10万行移行事例（204pts）
+5. **AI補助の適切な使い方**: ソフトウェアクラフト議論（161pts）
+6. **LLM実世界応用**: ドローン制御など（157pts）
+7. **Agentic Model急上昇**: Kimi K2.5（149pts）
+
+### Falcon Platform戦略への示唆
+
+1. **最重要: ChatGPT Containers 310pt**: bash実行、pip/npm install、ファイルダウンロード - 実行環境の柔軟性が核心競争力
+2. **Claude Code実用性**: 10万行移行事例（204pts）- AI開発支援への実需確実
+3. **AIツールバブル警告**: 実用性と透明性で差別化（254pts）
+4. **Agentic Model競争**: Kimi K2.5急上昇（149pts）- 視覚Agentic能力の重要性
+5. **MCPエコシステム**: 多様なツール連携が差別化要素
+
+---
+
+*次回更新: 19:30 JST*
