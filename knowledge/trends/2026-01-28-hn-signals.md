@@ -159,3 +159,95 @@
 1. **ChatGPT Containers**: OpenAIの動きは脅威だが、差別化ポイント（固定価格、テンプレート、24時間稼働）は依然有効
 2. **Claude Code実績**: 234ptsで安定。マーケティング材料として活用可能
 3. **AIコード品質議論**: 市場が「質 vs 速度」のトレードオフを意識し始めている。品質保証が差別化ポイントになる可能性
+
+---
+
+## HN Signals (02:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [828pts, 715comments] France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.**
+- URL: https://twitter.com/lellouchenico/status/2015775970330882319
+- Signal: EU主権トレンド継続（前回から+9pts）
+- Relevance: 中（地域特化型SaaS需要）
+
+**2. [553pts, 667comments] Apple introduces new AirTag with longer range and improved findability**
+- URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
+- Signal: ハードウェアニュース（前回から+4pts）
+- Relevance: 低
+
+**3. [526pts, 691comments] Heathrow scraps liquid container limit**
+- URL: https://www.bbc.com/news/articles/c1evvx89559o
+- Signal: セキュリティ技術進化（前回から+32pts）
+- Relevance: 低
+
+**4. [410pts, 292comments] ChatGPT Containers can now run bash, pip/npm install packages and download files**
+- URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+- Signal: **OpenAI、コード実行環境強化**（前回から+9pts）
+- Relevance: **高（直接競合）** - 引き続き注視
+
+**5. [386pts, 173comments] Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model**
+- URL: https://www.kimi.com/blog/kimi-k2-5.html
+- Signal: **中国AI企業のOSS Vision Agentモデル**（前回から+17pts）
+- Relevance: **高** - Vision + Agentic能力のオープンソース化
+- Insight: マルチモーダルエージェントの民主化。Falcon Platformでの活用可能性
+
+**6. [320pts, 216comments] There is an AI code review bubble**
+- URL: https://www.greptile.com/blog/ai-code-review-bubble
+- Signal: AIコードレビューツール飽和（前回から+6pts）
+- Relevance: 中（市場参入タイミング警告）
+
+### Claude/Anthropic関連
+
+**[237pts, 155comments] Porting 100k lines from TypeScript to Rust using Claude Code in a month**
+- URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html
+- Signal: **Claude Code実績証明**（前回から+3pts）
+- Relevance: **最高優先**
+- Insight: 大規模リファクタリングの成功事例
+
+### 新規ストーリー（初登場 or 急上昇）
+
+**[223pts, 138comments] AI code and software craft**
+- URL: https://alexwennerberg.com/blog/2026-01-25-slop.html
+- Signal: AI生成コードの質への批判（前回から+2pts）
+- Relevance: 中（品質 vs 速度議論）
+
+**[211pts, 92comments] Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't**
+- URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761
+- Signal: **技術的主張の検証** - 新規登場
+- Relevance: 中（マーケティングの正確性への警鐘）
+- Insight: 誇大広告への批判。正直さが信頼を生む
+
+**[192pts, 189comments] I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor**
+- URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip
+- Signal: パーソナルデータ分析のユースケース（前回から+7pts、コメント+25）
+- Relevance: 低（ヘルスケア特化）
+
+**[107pts, 39comments] Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus**
+- URL: https://tetrisbench.com/tetrisbench/
+- Signal: モデルベンチマーク多様化（前回から+1pt）
+- Relevance: 低
+
+**[72pts, 13comments] Model Market Fit**
+- URL: https://www.nicolasbustamante.com/p/model-market-fit
+- Signal: AIモデル選択の思考フレームワーク（前回から+1pt）
+- Relevance: 中（プロダクト戦略に参考）
+
+**[18pts, 11comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例** - 新規登場
+- Relevance: **高** - まさにFalconのミッション
+- Insight: 「1人 + 1エージェント」でブラウザを20K行で実装。協働の生産性を証明
+
+### 変化の分析
+
+- **スコア上昇**: Heathrow（+32 急上昇）、Kimi（+17）、ChatGPT Containers（+9）
+- **安定**: Claude Code事例（237pts、+3）、AI code review bubble（+6）
+- **新規注目**: Cloudflare誇大広告批判、1人+1エージェントでブラウザ開発
+
+### 戦略的示唆（更新）
+
+1. **Kimi K2.5**: Vision + Agenticモデルのオープンソース化。Falcon Platformでの活用可能性を検討（次回フル実行時に詳細調査）
+2. **Cloudflare事例**: 技術的主張の正確性が重要。誇大広告は逆効果。Falcon Platformマーケティングは正直さを貫く
+3. **1人+1エージェント協働**: ブラウザを20K行で実装した事例。「人間とAIの協働」の生産性を証明。Chronicleコンテンツ案
+4. **ChatGPT Containers**: 依然として高スコア維持。競合動向は継続監視
