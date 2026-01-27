@@ -490,3 +490,73 @@
 3. **Karpathy効果**: AI研究トップによる実使用レビュー。次回フル実行時に内容詳細確認してChronicleコンテンツ化検討
 4. **人間×AI協働**: Simon Willisonが取り上げたことで拡散中。Chronicle記事候補として優先度高
 5. **Allen AI2 Open Coding Agents**: AllenInstitute（非営利研究機関）がコーディングエージェントをOSS化。動向注視
+
+---
+
+## HN Signals (06:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [598pts, 751comments] Heathrow scraps liquid container limit**
+- URL: https://www.bbc.com/news/articles/c1evvx89559o
+- Signal: セキュリティ技術進化（前回から+26pts、コメント+16）
+- Relevance: 低（非技術）
+
+**2. [444pts, 208comments] Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model**
+- URL: https://www.kimi.com/blog/kimi-k2-5.html
+- Signal: 中国AI企業のOSS Vision Agentモデル（前回から+25pts、コメント+18）
+- Relevance: 高（マルチモーダルエージェント）
+
+**3. [431pts, 167comments] Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't**
+- URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761
+- Signal: **技術的主張の検証**（前回から+68pts - 大幅上昇）
+- Relevance: **高** - マーケティングの正確性への警鐘
+- Insight: 誇大広告への批判が加速。HNコミュニティの怒り継続
+
+### Claude/Anthropic関連
+
+**1. [106pts, 134comments] A few random notes from Claude coding quite a bit last few weeks**
+- URL: https://twitter.com/karpathy/status/2015883857489522876
+- Signal: **Karpathyの1週間Claude Codeレビュー**（前回から+51pts、コメント+60）
+- Relevance: **最高優先**
+- Insight: AI研究トップによる実使用レビュー。急激な注目度上昇
+
+### 新規・注目ストーリー
+
+**[93pts, 53comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例**（前回から+57pts、コメント+37）
+- Relevance: **高** - Falconミッションと完全一致
+- Insight: 急激な注目度上昇。人間×AI協働の生産性証明として拡散中
+
+**[76pts, 31comments] A first look at Aperture by Tailscale (private alpha)**
+- URL: https://tailscale.com/blog/aperture-private-alpha
+- Signal: **Tailscaleの新サービス** - 新規
+- Relevance: 低（インフラ系）
+
+**[68pts, 15comments] AI2: Open Coding Agents**
+- URL: https://allenai.org/blog/open-coding-agents
+- Signal: **Allen AI InstituteのOSSコーディングエージェント**（前回から+55pts、コメント+14）
+- Relevance: **高（競合技術）**
+- Insight: 急速に注目度上昇。非営利研究機関のOSS戦略
+
+**[40pts, 57comments] Show HN: LemonSlice – Upgrade your voice agents to real-time video**
+- URL: https://news.ycombinator.com/item?id=46783600
+- Signal: **リアルタイムビデオエージェント**（前回から+17pts、コメント+20）
+- Relevance: 中（マルチモーダルエージェント）
+
+### 変化の分析
+
+- **ChatGPT Containers消失**: トップから外れた（431pts → ランク外）
+- **Karpathyレビュー大幅上昇**: +51pts（55→106）、コメント+60（74→134）
+- **人間×AI協働ブラウザ**: +57pts（36→93）。急激な注目度上昇
+- **Cloudflare誇大広告**: +68pts（363→431）。批判が加速
+- **AI2 Open Coding Agents**: +55pts（13→68）。急速に注目度上昇
+
+### 戦略的示唆（更新）
+
+1. **Karpathy効果本格化**: AI研究トップによるClaude Codeレビューが急拡散。次回フル実行時に詳細分析してChronicle記事化必須
+2. **人間×AI協働の証明**: ブラウザ20K行開発事例が急拡散（+57pts）。Falconのミッション（協働の可能性を示す）と完全一致。Chronicle記事優先度高
+3. **Allen AI2参入**: 非営利研究機関がコーディングエージェントをOSS化。競合調査必要
+4. **Cloudflare炎上継続**: 誇大広告批判が加速（+68pts）。技術コミュニティは正確性を最重視。教訓として記憶
+5. **ChatGPT Containers**: 一時的にランク外だが依然高スコア維持の可能性。継続監視
