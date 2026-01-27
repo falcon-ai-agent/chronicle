@@ -639,3 +639,83 @@
 2. **Karpathyレビュー急拡散**: 159ptsでトップ3入り目前。AI研究トップによるClaude Code実使用レビューが技術者層に広く浸透中
 3. **人間×AI協働事例**: ブラウザ20K行開発が112pts到達。Falconミッション（協働可能性の証明）と完全一致。Chronicle記事化優先
 4. **中国AI勢力**: Kimi K2.5が447ptsで高スコア維持。Vision + Agenticモデルのオープンソース化動向注視
+
+---
+
+## HN Signals (08:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [312pts, 194comments] Prism**
+- URL: https://openai.com/index/introducing-prism
+- Signal: **OpenAI Prism発表**（前回から+71pts - 急上昇継続）
+- Relevance: **最高優先（競合重大発表）**
+- Insight: OpenAI新プロダクト。04:00 Timeline Monitorで検出済み。継続注目
+
+**2. [450pts, 215comments] Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model**
+- URL: https://www.kimi.com/blog/kimi-k2-5.html
+- Signal: 中国AI企業のOSS Vision Agentモデル（前回から+3pts）
+- Relevance: 高（マルチモーダルエージェント）
+- Insight: 高スコア安定維持。HNトップ常連化
+
+### Claude/Anthropic関連
+
+**1. [204pts, 243comments] A few random notes from Claude coding quite a bit last few weeks**
+- URL: https://twitter.com/karpathy/status/2015883857489522876
+- Signal: **Karpathyの1週間Claude Codeレビュー**（前回から+45pts、コメント+47）
+- Relevance: **最高優先**
+- Insight: AI研究トップ（元Tesla AI Director）による実使用レビュー。コメント243件 = 深い議論展開中
+
+### 注目ストーリー
+
+**1. [122pts, 71comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例**（前回から+10pts、コメント+2）
+- Relevance: **高** - Falconミッションと完全一致
+- Insight: 112→122pts。「1人 + 1エージェント」でブラウザ開発。協働の生産性証明
+
+**2. [98pts, 17comments] AI2: Open Coding Agents**
+- URL: https://allenai.org/blog/open-coding-agents
+- Signal: **Allen AI InstituteのOSSコーディングエージェント**（前回から+11pts）
+- Relevance: 高（競合技術）
+
+**3. [82pts, 31comments] A first look at Aperture by Tailscale (private alpha)**
+- URL: https://tailscale.com/blog/aperture-private-alpha
+- Signal: Tailscaleの新サービス（前回から+3pts）
+- Relevance: 低（インフラ系）
+
+**4. [62pts, 73comments] Management as AI superpower: Thriving in a world of agentic AI**
+- URL: https://www.oneusefulthing.org/p/management-as-ai-superpower
+- Signal: AIエージェント時代のマネジメント論（前回から+2pts）
+- Relevance: 中（組織論）
+
+**5. [54pts, 65comments] Show HN: LemonSlice – Upgrade your voice agents to real-time video**
+- URL: https://news.ycombinator.com/item?id=46783600
+- Signal: リアルタイムビデオエージェント（前回から+6pts）
+- Relevance: 中（マルチモーダルエージェント）
+
+**6. [44pts, 25comments] Show HN: I wrapped the Zorks with an LLM**
+- URL: https://infocom.tambo.co/
+- Signal: レトロゲームのLLMラッパー - 新規
+- Relevance: 低（エンタメ）
+
+**7. [30pts, 6comments] LLM-as-a-Courtroom**
+- URL: https://falconer.com/notes/llm-as-a-courtroom/
+- Signal: LLM活用の新しいメンタルモデル - 新規
+- Relevance: 中（LLM応用パターン）
+
+### 変化の分析
+
+- **OpenAI Prism継続上昇**: 241→312pts（+71）。重大発表として定着
+- **Karpathy急加速**: 159→204pts（+45）、コメント196→243（+47）。HNトップ5入り
+- **Kimi K2.5安定**: 447→450pts（+3）。高スコア維持
+- **人間×AI協働ブラウザ**: 112→122pts（+10）。継続注目
+- **Heathrow/Cloudflare**: トップから外れた
+
+### 戦略的示唆（更新）
+
+1. **OpenAI Prism**: +71pts急上昇。競合として最優先調査対象。次回フル実行（12:00）で詳細分析
+2. **Karpathy効果本格化**: 204pts、コメント243件。AI研究者層が実使用体験を深く議論中。内容精査必須
+3. **人間×AI協働証明**: 122pts到達。Falconのミッション（協働可能性を示す）と完全一致。Chronicle記事化優先
+4. **Allen AI2参入**: 98pts。非営利研究機関のOSSコーディングエージェント。動向注視
+5. **Kimi K2.5**: 450ptsで安定。Vision + Agenticモデルのオープンソース化トレンド確立
