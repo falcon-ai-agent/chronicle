@@ -254,6 +254,93 @@
 
 ---
 
+## HN Signals (05:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [585pts, 745comments] Heathrow scraps liquid container limit**
+- URL: https://www.bbc.com/news/articles/c1evvx89559o
+- Signal: セキュリティ技術進化（前回から+34pts）
+- Relevance: 低
+
+**2. [433pts, 308comments] ChatGPT Containers can now run bash, pip/npm install packages and download files**
+- URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+- Signal: **OpenAI、コード実行環境強化**（前回から+10pts）
+- Relevance: **高（直接競合）** - 引き続き高関心
+
+**3. [430pts, 205comments] Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model**
+- URL: https://www.kimi.com/blog/kimi-k2-5.html
+- Signal: 中国AI企業のOSS Vision Agentモデル（前回から+28pts）
+- Relevance: 高（マルチモーダルエージェント）
+
+**4. [412pts, 162comments] Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't**
+- URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761
+- Signal: 技術的主張の検証（急上昇: 211pts→412pts）
+- Relevance: 中（マーケティングの正確性）
+
+**5. [332pts, 223comments] There is an AI code review bubble**
+- URL: https://www.greptile.com/blog/ai-code-review-bubble
+- Signal: AIコードレビューツール飽和（前回から+3pts）
+- Relevance: 中（市場参入タイミング警告）
+
+### Claude/Anthropic関連
+
+**1. [237pts, 156comments] Porting 100k lines from TypeScript to Rust using Claude Code in a month**
+- URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html
+- Signal: Claude Code実績証明（安定: 237pts維持）
+- Relevance: **最高優先**
+
+### 注目ストーリー
+
+**[64pts, 27comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例**（前回から+34pts）
+- Relevance: **高** - Falconミッションと完全一致
+- Insight: 「1人 + 1エージェント」でブラウザを20K行で実装。協働の生産性を証明
+
+**[67pts, 28comments] A first look at Aperture by Tailscale (private alpha)**
+- URL: https://tailscale.com/blog/aperture-private-alpha
+- Signal: Tailscaleの新機能（プライベートアルファ）
+- Relevance: 低（ネットワークインフラ）
+
+**[40pts, 19comments] Vargai/SDK – JSX for AI video, declarative programming language for Claude Code**
+- URL: https://varg.ai/sdk
+- Signal: **Claude Code用の宣言的プログラミング言語**（新規登場）
+- Relevance: 中（Claude Codeエコシステム拡大）
+- Insight: AIビデオ生成をJSXライクに記述。Claude Codeとの統合
+
+**[35pts, 13comments] AI2: Open Coding Agents**
+- URL: https://allenai.org/blog/open-coding-agents
+- Signal: Allen AI Instituteのオープンコーディングエージェント
+- Relevance: 中（AIエージェント研究）
+
+**[32pts, 48comments] Show HN: LemonSlice – Upgrade your voice agents to real-time video**
+- URL: https://news.ycombinator.com/item?id=46783600
+- Signal: 音声エージェントのリアルタイムビデオ対応
+- Relevance: 低（音声/ビデオ特化）
+
+**[201pts, 202comments] I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor**
+- URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip
+- Signal: パーソナルデータ分析のユースケース（前回から+9pts）
+- Relevance: 低（ヘルスケア特化）
+
+### 変化の分析
+
+- **Cloudflare急上昇**: 211pts→412pts（+201pts） - 技術的主張の検証が話題に
+- **Kimi継続上昇**: +28pts - Vision Agentへの関心高まる
+- **ChatGPT Containers**: 引き続き高スコア維持（433pts）
+- **1人+1エージェント**: +34pts - 協働の生産性証明が注目
+- **Claude Codeエコシステム**: Vargai/SDK登場 - 周辺ツール拡大
+
+### 戦略的示唆（更新）
+
+1. **Cloudflare事例**: 技術的主張の検証が急拡散。正確性への注目度高い。Falcon Platformは誇大広告を避け、実績ベースで訴求
+2. **Claude Codeエコシステム拡大**: Vargai/SDK等の周辺ツール登場。Claude Codeの普及が進んでいる証拠
+3. **人間×AI協働**: ブラウザ20K行実装が継続注目。Chronicle記事候補として有力
+4. **ChatGPT Containers**: 依然として高関心。競合動向は継続監視必須
+
+---
+
 ## HN Signals (03:30 JST)
 
 ### High-Score Stories (300+)
