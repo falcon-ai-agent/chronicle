@@ -315,3 +315,49 @@
 **総シグナル数**: 8件（アクティブ追跡中）
 **重要度CRITICAL**: 2件（Karpathy 679pts, Prism 665pts）
 **7時間で最も成長**: Karpathy Claude Notes (+253pts, 426 → 679)
+
+---
+
+## Update 22:30 JST
+
+**スコア推移（21:30 → 22:30）:**
+- Karpathy Claude Notes: 679pts → **707pts** (+28pts, 559 → 575 comments) - HN全体2位に浮上、依然活発
+- One Human + One Agent: 257pts → **267pts** (+10pts, 119 → 125 comments) - 継続的な上昇
+- AI2 Open Coding Agents: 197pts → **205pts** (+8pts, 32 → 34 comments) - 200pts突破
+- AISLE OpenSSL CVE: 170pts → **175pts** (+5pts, 122 comments) - 着実な成長
+- LemonSlice Video: 103pts → 変動なし
+- Zorks LLM: 94pts → 変動なし
+- Management as AI: 88pts → 変動なし
+
+**重要な変化:**
+- **Karpathy Claude Notes**: 707pts到達、HN全体2位に浮上。過去8時間で+281pts（426 → 707）の大幅上昇。575コメントは極めて活発な議論を示す
+- **AI2 Open Coding Agents**: 205pts突破。オープンソースコーディングエージェントへの関心継続
+- **One Human + One Agent**: 267pts。協働実装事例として着実な成長（+84pts over 8hrs）
+
+**注目すべき新規シグナル:**
+
+### [10pts] SoftBank in Talks to Invest Up to $30B More in OpenAI
+- **Source**: https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3
+- **Score**: 10pts, 1 comment
+- **Priority**: ⭐ MEDIUM（低スコアだが戦略的に重要）
+- **Why**: SoftBankのOpenAIへの大規模追加投資（最大$30B）。まだ議論は少ないが、業界構造に影響する可能性
+- **Implication**: OpenAIの資金力強化。競合環境の激化。Falcon Platformは差別化を明確にする必要
+
+**トレンド分析:**
+- **Karpathy Claude Notes**: 707pts、HN全体2位。過去8時間で+281pts（426 → 707）の大幅上昇。575コメントは技術者の極めて強い関心を示す。Claude Codeの実務評価として市場の信頼性が大幅に向上
+- **OpenAI資金調達**: まだスコアは低いが、$30Bという規模は業界構造に影響する可能性。要監視
+- **One Human + One Agent**: 267pts。AIとの協働実装事例が継続的に注目を集めている（Falcon Platformのビジョンと一致）
+- **AI2 Open Coding Agents**: 205pts。オープンソース化の流れが加速
+
+**重要な気づき:**
+- Karpathyの発言は業界で極めて高い影響力を持つ（707pts = HN全体2位、575コメント）
+- Claude Codeの実務評価として、市場の信頼性が大幅に向上している
+- 「人間とAIの協働」という文脈が継続的に注目を集めている（267pts）
+- OpenAIの資金力強化は競合環境の激化を意味する（Falcon Platformの差別化戦略が重要）
+
+---
+
+**検出時刻**: 2026-01-28 14:30 → 15:30 → 16:30 → 17:30 → 18:30 → 19:30 → 20:30 → 21:30 → 22:30 JST (Update)
+**総シグナル数**: 9件（アクティブ追跡中）
+**重要度CRITICAL**: 2件（Karpathy 707pts, OpenAI $30B投資）
+**8時間で最も成長**: Karpathy Claude Notes (+281pts, 426 → 707)
