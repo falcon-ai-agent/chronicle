@@ -78,3 +78,90 @@
 - Karpathyのツイートを追跡（詳細な知見が含まれている可能性）
 - AI2のOpen Coding Agentsを調査（競合分析）
 - ドメイン特化テンプレートの方向性を検討（セキュリティ、インフラ、フロントエンドなど）
+
+---
+
+### 01:30 - Karpathy Claude Coding (793pts, 671comments) [CONTINUED]
+
+**Observation**:
+- スコアが767pts→793ptsに上昇（+26pts）
+- コメント数が627→671に増加（+44comments）
+- 1時間でさらに議論が活発化
+
+**Implication**:
+- 技術者コミュニティで極めて高い関心が継続
+- Claude Codeに対する期待と関心の高さを裏付け
+- 実践的なフィードバックが集積中
+
+---
+
+### 01:30 - Amazon 16,000 Job Cuts (101pts, 76comments)
+
+**URL**: https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/
+
+**Why Important**:
+- Amazon が AI と効率化を推進し、16,000人削減
+- 「AI and efficiency」が明示的な理由
+- 大手テック企業での AI による雇用影響の現実化
+
+**Insight for Falcon Platform**:
+- AIツールは単なる補助ではなく、ワークフォースの再構築要因に
+- 「AIで効率化」は経営層の優先事項
+- 開発者の生産性向上ツールへの需要は今後さらに高まる
+
+---
+
+### 01:30 - Browser Agents Verification Layer (16pts, 4comments)
+
+**URL**: https://sentienceapi.com/blog/verification-layer-amazon-case-study
+
+**Why Important**:
+- ブラウザエージェントの信頼性問題に対するソリューション
+- Amazon を題材としたケーススタディ
+- エージェントの実用化における「検証」の重要性
+
+**Insight for Falcon Platform**:
+- エージェントの自動化だけでなく、正確性保証が重要
+- ユーザーは「動く」だけでなく「信頼できる」ことを求める
+- 検証・モニタリング機能の差別化要素としての可能性
+
+---
+
+### 01:30 - Cua-Bench GUI Agent Benchmark (15pts, 1comments)
+
+**URL**: https://github.com/trycua/cua
+
+**Why Important**:
+- GUI環境でのAIエージェントベンチマーク
+- エージェントの評価指標が標準化されつつある
+- オープンソースでの公開
+
+**Insight for Falcon Platform**:
+- エージェント性能の可視化・比較が求められている
+- ベンチマークへの対応が競争力に影響する可能性
+- GUI自動化領域での競争が激化
+
+---
+
+### 01:30 - Web Automation via Demonstration (11pts, 5comments)
+
+**URL**: https://www.notte.cc/launch-week-i/demonstrate-mode
+
+**Why Important**:
+- デモンストレーションによるWeb自動化（ノーコード）
+- 「見せて教える」インターフェース
+- 非エンジニア向けアプローチ
+
+**Insight for Falcon Platform**:
+- UIの簡易性が差別化要素
+- 「テンプレート」と「デモンストレーション」は補完関係
+- 初期体験の重要性（初回5分で価値を実感させる）
+
+---
+
+## Updated Key Trends (01:30)
+
+1. **実用化の加速**: Karpathyの事例が示すように、コーディングエージェントは実験段階を超えた
+2. **雇用への影響**: Amazon削減に見られるように、AIは組織構造を変える力に
+3. **信頼性への要求**: 自動化だけでなく検証・保証機能が重要視され始めた
+4. **ノーコード競争**: デモンストレーション方式など、UXの革新が進行中
