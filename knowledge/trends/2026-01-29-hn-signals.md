@@ -535,107 +535,180 @@
 
 ---
 
-### 06:30 - Karpathy Claude Coding (871pts, 776comments) [CONTINUED GROWTH]
+### 07:30 - Airfoil Visualization (306pts, 46comments) [NEW TOP]
 
-**Observation**:
-- スコアが849pts→871ptsに上昇（+22pts）
-- コメント数が753→776に増加（+23comments）
-- 00:30から6時間で104pts、149comments増加
-- HN 2026-01-29の最大トピックとして確立
-
-**Key Signal**:
-- 870pts超えは2026年1月でも極めて稀な水準
-- 議論の質と量が継続的に拡大
-- Claude Codeが開発者ワークフローの標準選択肢として確実に認識されている
-
-**Insight**:
-- Karpathy効果による市場形成は完了フェーズに
-- 実践者のフィードバック共有が新規ユーザー獲得に直結している証拠
-- Falcon Platformでも「実践者の声」と「具体的成果」を最重視すべき
-
----
-
-### 06:30 - Sandbox Agent SDK (12pts, 0comments)
-
-**URL**: https://github.com/rivet-dev/sandbox-agent
+**URL**: https://ciechanow.ski/airfoil/
 
 **Why Important**:
-- エージェント開発者向けの統一APIを提供
-- 複数のコーディングエージェントプラットフォームへの対応
-- エージェント実行環境の標準化の動き
+- HN全体トップ4の位置（306pts）
+- 技術的ビジュアライゼーションへの継続的な関心
+- エンジニアリング教育コンテンツの価値
 
 **Insight for Falcon Platform**:
-- エージェント実行環境の標準化が進行中
-- API互換性が競争力に影響する可能性
-- 差別化は「実行環境の品質」と「テンプレートの使いやすさ」
+- 技術者は複雑な概念のビジュアライゼーションを高く評価
+- ドキュメント/チュートリアルの品質が重要
+- インタラクティブな学習体験の需要
+
+**Note**:
+- AI直接関連ではないが、技術者コミュニティの関心トレンドとして記録
+- 技術解説コンテンツの重要性を示す
 
 ---
 
-### 06:30 - Browser Agents Verification (45pts, 19comments)
-
-**Observation**:
-- スコアが39pts→45ptsに上昇（+6pts）
-- コメント数が16→19に増加（+3comments）
-- 小規模ながら関心が継続拡大中
-
-**Key Signal**:
-- ブラウザエージェントの信頼性問題が継続的に議論されている
-- Amazonケーススタディが実用事例として評価されている
-- 検証レイヤーの必要性が市場で認知拡大中
-
-**Insight**:
-- エージェント単体だけでなく、検証・モニタリング機能が差別化要素
-- 「動く」だけでなく「信頼できる」が重要視されている
-- Falcon Platformでのロギング・監査機能の価値が裏付けられた
-
----
-
-### 06:30 - Trinity Large 400B MoE (4pts, 3comments)
+### 07:30 - Trinity Large: 400B Sparse MoE Model (30pts, 10comments)
 
 **URL**: https://www.arcee.ai/blog/trinity-large
 
 **Why Important**:
-- オープンソースの400B sparse MoEモデル
-- 大規模モデルのオープン化が進行中
-- ドメイン特化型モデルの可能性
+- Arcee.aiがオープンソースで400Bパラメータのスパース MoE モデルをリリース
+- 大規模モデルのオープンソース化が加速
+- Sparse MoE（混合専門家モデル）の実用化
 
 **Insight for Falcon Platform**:
-- ローカル実行可能な大規模モデルが選択肢に
-- コスト最適化の可能性（API依存からの脱却）
-- Infra Agent LLMプロジェクトの方向性が正しいことを裏付け
+- オープンソースLLM市場の進化が続く
+- 大規模モデルの民主化トレンド
+- ドメイン特化型エージェントへの適用可能性
 
 ---
 
-### 06:30 - Kairos AI Interns (7pts, 2comments)
+### 07:30 - Show HN: LLM MitM Proxy (27pts, 12comments)
+
+**URL**: https://github.com/jmuncor/sherlock
+
+**Why Important**:
+- LLMツールが何を送信しているか監視するMitMプロキシ
+- 透明性とセキュリティへの関心
+- LLMツールの信頼性確保への需要
+
+**Insight for Falcon Platform**:
+- ユーザーはAIツールが「何をしているか」を知りたい
+- 透明性とロギングが信頼性の基盤
+- Falcon Platformでの監査機能の重要性を裏付け
+
+---
+
+### 07:30 - Jellyfin LLM/"AI" Development Policy (73pts, 24comments)
+
+**URL**: https://jellyfin.org/docs/general/contributing/llm-policies/
+
+**Why Important**:
+- オープンソースプロジェクトJellyfinがLLM利用ポリシーを明文化
+- AI生成コードの品質と責任の問題
+- コントリビューター間でのAI利用の透明性
+
+**Insight for Falcon Platform**:
+- AI生成コードの品質保証が課題
+- 「AIが書いた」という情報開示の重要性
+- レビューと検証プロセスの必要性
+
+---
+
+### 07:30 - Show HN: Cursor for Userscripts (20pts, 4comments)
+
+**URL**: https://github.com/chebykinn/browser-code
+
+**Why Important**:
+- ブラウザユーザースクリプト向けのCursor風IDE
+- ブラウザ拡張開発へのAI支援の拡大
+- ニッチ領域へのAIツール浸透
+
+**Insight**:
+- 開発者はあらゆる領域でAI支援を求めている
+- ドメイン特化型ツールへの需要
+- テンプレート方式の多様化可能性
+
+---
+
+### 07:30 - Local Agents Will Win (10pts, 1comments)
+
+**URL**: https://twitter.com/EdouardGodfrey/status/2016343089334702081
+
+**Why Important**:
+- 「ローカルエージェントが勝つ」という主張
+- プライバシーとレイテンシの優位性
+- クラウドベースとローカル実行の競争
+
+**Insight for Falcon Platform**:
+- ローカル実行の価値（プライバシー、速度）
+- VM環境でのローカルLLM統合の可能性
+- ハイブリッド戦略（軽い処理はローカル、重い処理はクラウド）
+
+---
+
+### 07:30 - Kairos: AI Interns for Everyone (19pts, 13comments)
 
 **URL**: https://www.kairos.computer/
 
 **Why Important**:
-- 「AI interns for everyone」という明確な価値提案
+- AI「インターン」という人間らしい比喩
 - 非エンジニア向けのポジショニング
-- 競合プロダクトの出現
+- 継続的な支援というコンセプト
+
+**Insight**:
+- 「ツール」ではなく「チームメンバー」としてのAI
+- 非エンジニアに親しみやすいメタファーの重要性
+- Falcon Platformでも「AIアシスタント」的なポジショニング検討余地
+
+---
+
+### 07:30 - Sandbox Agent SDK (16pts, 0comments)
+
+**URL**: https://github.com/rivet-dev/sandbox-agent
+
+**Why Important**:
+- コーディングエージェント自動化のための統一API
+- サンドボックス環境での安全な実行
+- エージェント開発の標準化への動き
 
 **Insight for Falcon Platform**:
-- 「AI intern」というメタファーが分かりやすい
-- 非エンジニア向け市場への参入が増加中
-- 差別化は「すぐ使える」「固定価格」「セキュア環境」
+- セキュアなサンドボックス環境の需要が顕在化
+- Falcon PlatformのVM環境はこの需要に対応
+- 統一APIによる互換性の重要性
 
 ---
 
-## Updated Key Trends (06:30)
+### 07:30 - Config Manager for Claude Code (6pts, 0comments)
 
-1. **Karpathy効果のピーク確定**: 871pts, 776comments。Claude Codeへの関心は2026年1月最高レベルを維持
-2. **エージェント実行環境の標準化**: Sandbox Agent SDKなど統一API提供の動き
-3. **信頼性への要求拡大**: 検証レイヤー関連プロジェクトが45ptsに成長。エージェントの正確性保証が課題
-4. **オープンソース大規模モデル**: Trinity Large 400B MoEなど、ローカル実行可能な選択肢が増加
-5. **非エンジニア向け市場**: Kairos等、明確なターゲット設定のプロダクトが増加
+**URL**: https://github.com/regression-io/coder-config
+
+**Why Important**:
+- Claude Code用の設定管理ツール
+- ルール、MCPサーバー、パーミッションの統一管理
+- Claude Code利用者の増加を示唆
+
+**Insight**:
+- Claude Code周辺エコシステムの形成
+- 設定管理の複雑さが課題として認識されている
+- UXと設定の柔軟性のバランス
 
 ---
 
-## 戦略的示唆 (06:30更新)
+### 07:30 - Browser Agents Verification Layer (48pts, 21comments)
 
-1. **Claude市場評価確定**: 871pts, 776comments。Karpathyの言及により、Claudeの開発者コミュニティでの評価が最高水準に到達
-2. **実行環境の重要性**: セキュアなVM環境 + 検証レイヤーが差別化要素として確立。信頼性保証機能の需要が拡大
-3. **標準化への対応**: Sandbox Agent SDKなど統一APIが登場。API互換性が競争力に影響する可能性
-4. **ローカルモデルの台頭**: 400B MoEモデルのオープン化。コスト最適化とプライバシー保護の選択肢
-5. **差別化戦略**: 研究より実用性、テンプレート方式、固定価格モデル、検証・監査機能の妥当性が裏付けられた
+**Observation**:
+- スコアが43pts→48ptsに上昇（+5pts）
+- コメント数が19→21に増加（+2comments）
+- 継続的な関心の維持
+
+**Key Signal**:
+- ブラウザエージェントの信頼性問題への関心が持続
+- Amazon ケーススタディの価値
+- 検証レイヤーの需要が確実に存在
+
+---
+
+## Updated Key Trends (07:30)
+
+1. **透明性と信頼性の重要性**: LLM MitMプロキシ（27pts）、Jellyfin LLMポリシー（73pts）、検証レイヤー（48pts）など、「AIツールが何をしているか」の可視化への関心が高まる
+2. **オープンソース大規模モデル**: Trinity Large（400B MoE）など、オープンソースLLMの大規模化が継続
+3. **ローカル実行の価値**: 「Local Agents Will Win」という主張が登場。プライバシーとレイテンシの優位性
+4. **エージェント実行環境の標準化**: Sandbox Agent SDK（16pts）など、セキュアな実行環境の需要が顕在化
+5. **Claude Code エコシステム**: Config Manager（6pts）など、Claude Code周辺ツールの登場
+
+## 戦略的示唆 (07:30更新)
+
+1. **透明性が差別化要素**: ログ・監査機能、実行内容の可視化がユーザー信頼を得る鍵
+2. **VM環境の優位性**: サンドボックス需要が高まる中、Falcon PlatformのVM隔離は差別化要素
+3. **ローカル + クラウドのハイブリッド**: ローカル実行の価値とクラウドの利便性を両立する戦略
+4. **オープンソース戦略の重要性**: 大規模モデルのオープンソース化が進む中、オープンな姿勢が支持される
+5. **UXの簡易性**: 設定管理ツールの登場が示すように、複雑性の削減が競争力に直結
