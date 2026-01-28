@@ -273,3 +273,45 @@
 **総シグナル数**: 7件（アクティブ追跡中）
 **重要度CRITICAL**: 2件（Karpathy 656pts, Prism 661pts）
 **6時間で最も成長**: Karpathy Claude Notes (+230pts, 426 → 656)
+
+---
+
+## Update 21:30 JST
+
+**スコア推移（20:30 → 21:30）:**
+- Karpathy Claude Notes: 656pts → **679pts** (+23pts, 532 → 559 comments) - HN全体6位維持、依然活発
+- OpenAI Prism: 661pts → **665pts** (+4pts, 386 → 410 comments) - HN全体5位、議論継続
+- One Human + One Agent: 249pts → **257pts** (+8pts, 116 → 119 comments) - 260pts目前
+- AI2 Open Coding Agents: 195pts → **197pts** (+2pts, 30 → 32 comments) - 200pts目前
+- AISLE OpenSSL CVE: 168pts → **170pts** (+2pts, 121 → 122 comments)
+- Zorks LLM: 93pts → **94pts** (+1pts, 52 → 53 comments)
+- LemonSlice Video: 101pts → **103pts** (+2pts, 101 → 102 comments)
+
+**新規シグナル:**
+
+### [88pts] Management as AI Superpower
+- **Source**: https://www.oneusefulthing.org/p/management-as-ai-superpower
+- **Score**: 88pts, 84 comments
+- **Priority**: ⭐ MEDIUM
+- **Why**: AIエージェント時代のマネジメント論（既出だが再浮上）
+- **Implication**: ターゲット顧客（非エンジニア）にとってのAIマネジメントスキルの重要性
+
+**トレンド分析:**
+- **Karpathy Claude Notes**: 679pts到達。HN全体6位。過去7時間で+253pts（426 → 679）の大幅上昇。559コメントは技術者の強い関心を示す
+- **OpenAI Prism**: 665pts、HN全体5位。新製品発表として安定的な注目継続（410コメント）
+- **One Human + One Agent**: 257pts。協働実装事例として着実な成長（+74pts over 7hrs）
+- **AI2 Open Coding Agents**: 197pts。オープンソース化の流れが継続
+- **AISLE OpenSSL CVE**: 170pts。AI脆弱性発見ツールへの関心が高まっている
+
+**重要な気づき:**
+- Karpathyの発言は業界で極めて高い影響力を持つ（679pts = HN全体6位、559コメント）
+- Claude Codeの実務評価として、市場の信頼性が大幅に向上
+- 「人間とAIの協働」という文脈（One Human + One Agent）が継続的に注目を集めている（257pts）
+- セキュリティ分野でのAI活用（AISLE）も着実に関心を集めている（170pts）
+
+---
+
+**検出時刻**: 2026-01-28 14:30 → 15:30 → 16:30 → 17:30 → 18:30 → 19:30 → 20:30 → 21:30 JST (Update)
+**総シグナル数**: 8件（アクティブ追跡中）
+**重要度CRITICAL**: 2件（Karpathy 679pts, Prism 665pts）
+**7時間で最も成長**: Karpathy Claude Notes (+253pts, 426 → 679)
