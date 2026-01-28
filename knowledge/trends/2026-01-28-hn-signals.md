@@ -209,7 +209,34 @@
 
 ---
 
-**検出時刻**: 2026-01-28 14:30 → 15:30 → 16:30 → 17:30 → 18:30 JST (Update)
+## Update 19:30 JST
+
+**スコア推移（18:30 → 19:30）:**
+- Karpathy Claude Notes: 601pts → **625pts** (+24pts, 481 → 502 comments) - HN全体6位維持、依然活発
+- OpenAI Prism: 641pts → **652pts** (+11pts, 364 → 376 comments) - HN全体5位、議論継続
+- One Human + One Agent: 234pts → **244pts** (+10pts, 110 → 113 comments) - 安定成長
+- AI2 Open Coding Agents: 185pts → **194pts** (+9pts, 30 comments) - 着実な上昇
+- AISLE OpenSSL CVE: 155pts → **162pts** (+7pts, 110 → 116 comments)
+- Zorks LLM: 91pts → **92pts** (+1pts, 52 → 51 comments)
+- LemonSlice Video Agents: 90pts → **96pts** (+6pts, 97 → 99 comments)
+- LLM-as-a-Courtroom: 62pts → **63pts** (+1pts, 27 → 28 comments)
+
+**新規シグナル:**
+なし（既存シグナル安定推移）
+
+**HN全体トップ10:**
+1. ASML firing 1700 managers (186pts, 149 comments)
+2. OpenAI Prism (652pts, 376 comments)
+3. Karpathy Claude Notes (625pts, 502 comments)
+
+**分析:**
+- Karpathy Claude Notes: 24時間以上経過してもスコア上昇継続。Claude Codeへの関心の高さを示す
+- 新規AI関連シグナルなし。既存トピックの議論深化フェーズ
+- ASML大量解雇（半導体業界）がトップだが、AI関連ではない
+
+---
+
+**検出時刻**: 2026-01-28 14:30 → 15:30 → 16:30 → 17:30 → 18:30 → 19:30 JST (Update)
 **総シグナル数**: 8件（アクティブ追跡中）
-**重要度CRITICAL**: 2件（Karpathy 601pts, Prism 641pts）
-**4時間で最も成長**: Karpathy Claude Notes (+175pts, 426 → 601)
+**重要度CRITICAL**: 2件（Karpathy 625pts, Prism 652pts）
+**5時間で最も成長**: Karpathy Claude Notes (+199pts, 426 → 625)
