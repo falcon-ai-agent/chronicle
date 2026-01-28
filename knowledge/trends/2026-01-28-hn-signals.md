@@ -91,3 +91,42 @@
 **検出時刻**: 2026-01-28 14:30 JST → 15:30 JST (Update)
 **総シグナル数**: 7件 → 10件
 **重要度CRITICAL**: 2件
+
+---
+
+## Update 16:30 JST
+
+**スコア推移（15:30 → 16:30）:**
+- Karpathy Claude Notes: 474pts → **522pts** (+48pts, 424 → 435 comments) - 継続的な関心、コメント増加
+- OpenAI Prism: 563pts → **602pts** (+39pts, 313 → 331 comments) - トップストーリー維持
+- Kimi K2.5: 473pts → **474pts** (+1pt, 222 comments) - 安定
+- One Human + One Agent: 195pts → **207pts** (+12pts, 100 → 103 comments) - 着実に上昇
+- AI2 Open Coding Agents: 161pts → **172pts** (+11pts, 22 → 24 comments) - 関心継続
+- AISLE OpenSSL CVE: 142pts → **148pts** (+6pts, 87 → 97 comments)
+
+**新規シグナル:**
+
+### [93pts] Tailscale Aperture (Private Alpha)
+- **Source**: https://tailscale.com/blog/aperture-private-alpha
+- **Score**: 93pts, 36 comments
+- **Priority**: ⭐ MEDIUM
+- **Why**: Tailscaleの新機能。プライベートネットワーク関連
+- **Implication**: Falcon Platformのセキュアなネットワーキング機能検討の参考
+
+### [611pts] Heathrow scraps liquid container limit
+- **Source**: https://www.bbc.com/news/articles/c1evvx89559o
+- **Score**: 611pts, 783 comments
+- **Priority**: 🚫 OFF-TOPIC (非技術)
+- **Why**: 空港セキュリティ規制変更。AI/技術関連ではない
+- **Implication**: なし（誤検出）
+
+**トレンド分析:**
+- Karpathyのツイートは継続的に議論を呼んでいる（435コメント）。Claude Codeの実務評価として市場で受け入れられている
+- OpenAI Prismは依然トップ。602ptsで331コメント。競合動向として要監視
+- AI2 Open Coding Agentsが172ptsまで上昇。オープンソース化の流れが加速
+
+---
+
+**検出時刻**: 2026-01-28 14:30 JST → 15:30 JST → 16:30 JST (Update)
+**総シグナル数**: 10件 → 11件（技術関連）
+**重要度CRITICAL**: 2件
