@@ -183,3 +183,33 @@
 **総シグナル数**: 11件（技術関連）
 **重要度CRITICAL**: 2件（Karpathy、Prism）
 **着実に上昇中**: One Human + One Agent (+36pts over 3hrs)
+
+## Update 18:30 JST
+
+**スコア推移（17:30 → 18:30）:**
+- Karpathy Claude Notes: 573pts → **601pts** (+28pts, 462 → 481 comments) - HN全体7位に浮上
+- OpenAI Prism: 621pts → **641pts** (+20pts, 360 → 364 comments) - HN全体6位、依然トップクラス
+- One Human + One Agent: 219pts → **234pts** (+15pts, 106 → 110 comments) - 継続的な上昇
+- AI2 Open Coding Agents: 180pts → **185pts** (+5pts, 28 → 30 comments)
+- AISLE OpenSSL CVE: 149pts → **155pts** (+6pts, 106 → 110 comments)
+- Zorks LLM: 88pts → **91pts** (+3pts, 51 → 52 comments)
+- LemonSlice Video: 88pts → **90pts** (+2pts, 96 → 97 comments)
+- Tailscale Aperture: 94pts → 変動なし
+
+**トレンド分析:**
+- **Karpathy Claude Notes**: 601pts到達。HN全体でトップ10入り（7位）。過去8時間で+175pts（426 → 601）の急上昇
+- **OpenAI Prism**: 641pts、HN全体6位。新製品発表として安定的な注目
+- **One Human + One Agent**: 234pts。協働実装事例として着実な成長（+51pts over 4hrs）
+- Kimi K2.5: ランキング外に落ちる。一時的なバーストの典型
+
+**重要な気づき:**
+- Karpathyの発言は業界で極めて高い影響力を持つ（601pts = HN全体7位）
+- Claude Codeの実務評価として、市場の信頼性が大幅に向上
+- 「人間とAIの協働」という文脈（One Human + One Agent）が継続的に注目を集めている
+
+---
+
+**検出時刻**: 2026-01-28 14:30 → 15:30 → 16:30 → 17:30 → 18:30 JST (Update)
+**総シグナル数**: 8件（アクティブ追跡中）
+**重要度CRITICAL**: 2件（Karpathy 601pts, Prism 641pts）
+**4時間で最も成長**: Karpathy Claude Notes (+175pts, 426 → 601)
