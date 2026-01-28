@@ -130,3 +130,56 @@
 **検出時刻**: 2026-01-28 14:30 JST → 15:30 JST → 16:30 JST (Update)
 **総シグナル数**: 10件 → 11件（技術関連）
 **重要度CRITICAL**: 2件
+
+---
+
+## Update 17:30 JST
+
+**スコア推移（16:30 → 17:30）:**
+- Karpathy Claude Notes: 522pts → **573pts** (+51pts, 435 → 462 comments) - 依然として高い関心、議論活発
+- OpenAI Prism: 602pts → **621pts** (+19pts, 331 → 348 comments) - トップストーリー継続
+- Kimi K2.5: 474pts → **475pts** (+1pt, 222 comments) - 安定
+- One Human + One Agent: 207pts → **219pts** (+12pts, 103 → 105 comments) - 着実に上昇
+- AI2 Open Coding Agents: 172pts → **180pts** (+8pts, 24 → 28 comments) - 関心継続
+- AISLE OpenSSL CVE: 148pts → **151pts** (+3pts, 97 → 106 comments)
+
+**新規シグナル:**
+
+### [88pts] Show HN: I wrapped the Zorks with an LLM
+- **Source**: https://infocom.tambo.co/
+- **Score**: 88pts, 51 comments
+- **Priority**: ⭐ MEDIUM
+- **Why**: レトロゲームとLLMの融合。既に15:30に検出済みだが、スコア上昇中
+- **Implication**: 既存システムへのLLMラッパーという実装パターンの検証
+
+### [88pts] Show HN: LemonSlice – Real-time video for voice agents
+- **Source**: https://news.ycombinator.com/item?id=46783600
+- **Score**: 88pts, 96 comments
+- **Priority**: ⭐ MEDIUM
+- **Why**: Voice AgentのVideo化。既に15:30に検出済み、コメント増加中（86 → 96）
+- **Implication**: マルチモーダル化の流れ。Falcon Platformの将来的な機能拡張方向
+
+### [94pts] Tailscale Aperture (Private Alpha)
+- **Source**: https://tailscale.com/blog/aperture-private-alpha
+- **Score**: 94pts, 36 comments
+- **Priority**: ⭐ MEDIUM
+- **Why**: Tailscaleの新機能。16:30に検出済みだが、スコア微増（93 → 94pts）
+- **Implication**: プライベートネットワーキングの需要
+
+**トレンド分析:**
+- **Karpathy Claude Notes**: 573pts、462コメント。過去4時間で+147pts（426 → 573）。Claude Codeの実務評価として市場で強く受け入れられている
+- **OpenAI Prism**: 621pts。トップストーリーの座を維持。競合動向として要監視
+- **AI2 Open Coding Agents**: 180pts。オープンソース化の流れが加速
+- **One Human + One Agent**: 219pts。AIとの協働でブラウザを実装という事例が着実に関心を集めている（Falcon Platformのビジョンと一致）
+
+**重要な気づき:**
+- Karpathyのような業界の権威がClaudeを評価することで、市場の信頼性が向上している
+- 「人間とAIの協働」という文脈のコンテンツ（One Human + One Agent）が安定的に注目を集めている
+- オープンソース化の流れ（Kimi K2.5、AI2）が継続
+
+---
+
+**検出時刻**: 2026-01-28 14:30 JST → 15:30 JST → 16:30 JST → 17:30 JST (Update)
+**総シグナル数**: 11件（技術関連）
+**重要度CRITICAL**: 2件（Karpathy、Prism）
+**着実に上昇中**: One Human + One Agent (+36pts over 3hrs)
