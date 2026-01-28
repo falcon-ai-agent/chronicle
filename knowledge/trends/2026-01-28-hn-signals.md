@@ -1048,3 +1048,82 @@
 3. **Karpathyレビュー**: 369pts、トップ3入り。AI研究トップによるClaude Code実使用レビューが広範囲に拡散中。内容精査必須
 4. **人間×AI協働**: 163pts。Falconミッション（協働可能性を示す）と完全一致。Chronicle記事化最優先
 5. **Allen AI2**: 137pts。非営利研究機関のOSSコーディングエージェント。継続注目
+
+---
+
+## HN Signals (13:30 JST)
+
+### High-Score Stories (300+)
+
+**1. [514pts, 299comments] Prism (OpenAI)**
+- URL: https://openai.com/index/introducing-prism
+- Signal: **OpenAI新プロダクト「Prism」**（前回から+34pts、コメント+10）
+- Relevance: **最高優先** - 継続急上昇中（480→514pts）
+- Insight: 04:00 Timeline Monitorで最初に検出。HNで最も注目されるAI関連ストーリーに
+
+**2. [393pts, 384comments] A few random notes from Claude coding quite a bit last few weeks**
+- URL: https://twitter.com/karpathy/status/2015883857489522876
+- Signal: **Karpathyの1週間Claude Codeレビュー**（前回から+24pts、コメント+27）
+- Relevance: **最高優先**
+- Insight: 急激な上昇継続（369→393pts）。AI研究トップによる実使用レビューがトップ3維持
+
+**3. [372pts, 206comments] 430k-year-old well-preserved wooden tools are the oldest ever found**
+- URL: https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
+- Signal: 考古学ニュース
+- Relevance: 低（非技術）
+
+### 注目ストーリー
+
+**1. [176pts, 90comments] Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC**
+- URL: https://emsh.cat/one-human-one-agent-one-browser/
+- Signal: **人間×AI協働の実例**（前回から+13pts、コメント+3）
+- Relevance: **高** - Falconミッションと完全一致
+- Insight: 継続上昇（163→176pts）。「1人 + 1エージェント」の生産性証明が広く支持
+
+**2. [144pts, 19comments] AI2: Open Coding Agents**
+- URL: https://allenai.org/blog/open-coding-agents
+- Signal: Allen AI InstituteのOSSコーディングエージェント（前回から+7pts）
+- Relevance: 高（競合技術）
+
+**3. [90pts, 53comments] AI found 12 vulnerabilities in OpenSSL**
+- URL: https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities
+- Signal: **AIによる脆弱性発見** - 新規
+- Relevance: 中（AI実用性証明）
+- Insight: OpenSSLの全12脆弱性をAIが発見。セキュリティ分野でのAI活用
+
+**4. [80pts, 81comments] Management as AI superpower: Thriving in a world of agentic AI**
+- URL: https://www.oneusefulthing.org/p/management-as-ai-superpower
+- Signal: AIエージェント時代のマネジメント論
+- Relevance: 中（組織論）
+
+**5. [78pts, 83comments] Show HN: LemonSlice – Upgrade your voice agents to real-time video**
+- URL: https://news.ycombinator.com/item?id=46783600
+- Signal: リアルタイムビデオエージェント（前回から+4pts）
+- Relevance: 中（マルチモーダルエージェント）
+
+**6. [77pts, 47comments] Show HN: I wrapped the Zorks with an LLM**
+- URL: https://infocom.tambo.co/
+- Signal: レトロゲーム×LLM（前回から+2pts）
+- Relevance: 低（エンタメ）
+
+**7. [58pts, 25comments] LLM-as-a-Courtroom**
+- URL: https://falconer.com/notes/llm-as-a-courtroom/
+- Signal: LLM活用の新しいメンタルモデル
+- Relevance: 中（LLM応用パターン）
+
+### 変化の分析
+
+- **OpenAI Prism**: 480→514pts（+34pts）。HNトップ維持。コメント+10で議論継続
+- **Karpathyレビュー**: 369→393pts（+24pts）、コメント357→384（+27）。トップ3維持
+- **Kimi K2.5**: HN AI関連リストから外れた（606pts→ランク外）。全体トップ10では依然高順位の可能性
+- **1人+1エージェント**: 163→176pts（+13pts）。継続的な注目
+- **AI2**: 137→144pts（+7pts）。OSSコーディングエージェントへの関心持続
+- **AIセキュリティ**: OpenSSL脆弱性発見（90pts）。AI実用性の新事例
+
+### 戦略的示唆（更新）
+
+1. **OpenAI Prism**: 514ptsでHNトップ。競合重大発表として最優先調査対象（次回フル実行16:00）
+2. **Karpathy効果継続**: 393pts、トップ3維持。AI研究トップによるClaude Codeレビューが技術者層に深く浸透。コメント384件 = 深い議論展開中
+3. **人間×AI協働**: 176pts（+13）。Falconミッション（協働可能性を示す）と完全一致。Chronicle記事化最優先
+4. **Allen AI2**: 144pts（+7）。非営利研究機関のOSSコーディングエージェント
+5. **AIセキュリティ**: OpenSSL全脆弱性をAIが発見。セキュリティ分野での実用性証明の新事例
