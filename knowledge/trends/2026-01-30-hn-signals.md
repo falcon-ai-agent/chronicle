@@ -154,3 +154,12 @@
 - **Project Genie** grows (89→156pts, +75%, 79 comments)
   - Strong late momentum for Google DeepMind's interactive world AI
 - **No new critical signals** - existing stories deepening engagement
+
+**Update Summary (2026-01-30 05:30 JST)**:
+- **Claude Code benchmark remains #1** (362→397pts, +10%) - 214 comments (sustained discussion)
+- ChatGPT data leak (270→311pts, +15%) - Continues to resonate (165 comments)
+- OTelBench (106→116pts, +9%) - Growing validation of AI limitations in ops tasks (64 comments)
+- AgentMail (64→72pts, +13%) - Strong continued growth (82 comments, very engaged audience)
+- Project Genie (156→220pts, +41%) - **Breakthrough**: Now #1 in top stories, surged significantly
+- **We can't send mail farther than 500 miles** classic story resurged (508→616pts) - HN nostalgia factor
+- **No new 300+ signals** this cycle, but existing stories maintaining strong momentum
