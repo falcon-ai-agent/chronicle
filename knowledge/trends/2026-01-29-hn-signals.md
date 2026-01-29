@@ -1823,4 +1823,52 @@
 
 ### Key Trends (21:30)
 
+---
+
+## 22:30 Update
+
+### Notable Stories
+
+**Tech Market Critique (136pts, 86comments)**
+- URL: https://bayramovanar.substack.com/p/tech-market-is-fucked-up
+- "AI is just a scapegoat" - tech market fundamentals critique
+- 86 comments shows active debate
+- Timing: Market sentiment analysis ongoing
+
+**Open 400B Sparse MoE Model - Trinity Large (208pts, 64comments)**
+- URL: https://www.arcee.ai/blog/trinity-large
+- Arcee.ai releases open 400B parameter sparse MoE model
+- Open source vs proprietary competition intensifies
+- Technical community showing strong interest
+
+**LLM MitM Proxy - Sherlock (191pts, 94comments)**
+- URL: https://github.com/jmuncor/sherlock
+- Tool to inspect what LLM tools are sending
+- Privacy/transparency concerns drive adoption
+- 94 comments = high developer engagement
+
+**UK Gov AI Skills Hub Criticism (370pts, 133comments)**
+- URL: https://mahadk.com/posts/ai-skills-hub
+- PwC delivered for £4.1M
+- 133 comments = strong negative sentiment
+- Cost efficiency concerns for AI government projects
+
+**AI Tourism Hallucination (29pts, 6comments)**
+- URL: https://www.cnn.com/2026/01/28/travel/ai-tourism-nonexistent-hotsprings-intl-scli
+- Australian travel company AI sent tourists to nonexistent hot springs
+- Real-world AI reliability failures continue to surface
+
+### Analysis
+
+**No 300+ Score New Stories**: Market cooling or topic saturation
+**Strong Activity**: UK Gov AI criticism (370pts), Sherlock MitM (191pts)
+**Open Source Push**: Trinity Large shows continued open model momentum
+
+**Falcon Platform Implications**:
+1. **Cost transparency matters**: PwC £4.1M criticism shows pricing scrutiny
+2. **Privacy/observability demand**: Sherlock's 94 comments validates monitoring needs
+3. **Fixed pricing advantage**: Market questioning cloud AI economics
+
+### Key Trends (22:30)
+
 透明性・固定価格・オープンソース戦略の支持継続。特にOpenAI経済性への関心急増は、Falcon Platformの「予測可能な課金」戦略の重要性を裏付ける。
