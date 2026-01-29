@@ -163,3 +163,14 @@
 - Project Genie (156→220pts, +41%) - **Breakthrough**: Now #1 in top stories, surged significantly
 - **We can't send mail farther than 500 miles** classic story resurged (508→616pts) - HN nostalgia factor
 - **No new 300+ signals** this cycle, but existing stories maintaining strong momentum
+
+**Update Summary (2026-01-30 06:30 JST)**:
+- **Claude Code benchmark still #1** (397→429pts, +8%) - 227 comments (discussion deepening)
+- **ChatGPT data leak** (311→338pts, +9%) - 176 comments (security concerns remain hot topic)
+- OTelBench (116→127pts, +9%) - 71 comments (steady validation of infra-agent need)
+- AgentMail (72→88pts, +22%) - 96 comments (strong engagement continues, gaining traction)
+- Project Genie **surged again** (220→293pts, +33%) - 153 comments (Google DeepMind hype cycle)
+- **We can't send mail farther than 500 miles** (616→622pts, +1%) - 104 comments (peaked, classic nostalgia)
+- **NEW SIGNAL**: OpenAI retiring older models (GPT-4o, GPT-4.1, o4-mini) - 21pts, early signal
+- **NEW SIGNAL**: Apple acquires Q.AI startup for $2B - 37pts (AI race consolidation)
+- **No new 300+ signals** - existing stories in consolidation phase, discussion depth increasing
