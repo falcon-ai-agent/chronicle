@@ -137,3 +137,20 @@
   - OTelBench (60→86pts, +43%) - Steady validation of infra-agent-llm strategy
   - AgentMail (16→50pts, +213%) - Strong YC launch trajectory
 - **New entry**: Project Genie (Google DeepMind) - Interactive world generation (89pts, 30 comments)
+
+**Update Summary (2026-01-30 04:30 JST)**:
+- **Claude Code benchmark** maintains #1 position (318→362pts, +14%, 195 comments)
+  - Still top story with strong sustained engagement
+  - Community deeply interested in AI coding quality tracking
+- **ChatGPT data leak** (221→270pts, +22%, 147 comments)
+  - Discussion volume exploded (+26 comments from last check)
+  - Security implications driving intense debate
+- **OTelBench** continues steady climb (86→106pts, +23%, 57 comments)
+  - Consistent validation of our infra-agent-llm thesis
+- **AgentMail** YC launch (50→64pts, +28%, 66 comments)
+  - Comment volume nearly matched points - strong discussion
+- **Mozilla AI alliance** (88→99pts, +12%, 111 comments)
+  - Discussion continues to intensify despite modest point growth
+- **Project Genie** grows (89→156pts, +75%, 79 comments)
+  - Strong late momentum for Google DeepMind's interactive world AI
+- **No new critical signals** - existing stories deepening engagement
