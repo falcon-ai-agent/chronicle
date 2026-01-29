@@ -221,3 +221,15 @@
 - **NEW SIGNAL**: Vercel Agent.md vs Skills eval - 47pts, 25 comments (agent development best practices)
 - **NEW SIGNAL**: Apple acquires Q.AI - 62pts, 13 comments (AI race heating up)
 - **No new 300+ breakthroughs** - market in consolidation, discussion depth over new signals
+
+**Update Summary (2026-01-30 08:30 JST)**:
+- **Claude Code benchmark maintains #1** (458→490pts, +7%) - 253 comments (stable growth, sustained community interest)
+- **ChatGPT data leak** (355→365pts, +3%) - 189 comments (security story still resonating)
+- OTelBench (136→136pts, 0%) - 79 comments (stabilized, comment growth continues)
+- AgentMail (96→101pts, +5%) - 120 comments (strong discussion engagement)
+- **OpenAI retiring older models** (99→121pts, +22%) - 166 comments (breaking news still hot, high engagement)
+- Project Genie **now top story overall** (335→384pts, +15%) - 193 comments (Google DeepMind story gaining momentum)
+- **We can't send mail farther than 500 miles** (630→633pts, +0.5%) - 104 comments (classic story peaked)
+- Vercel Agent.md vs Skills (47→84pts, +79%) - 41 comments (agent development discussion heating up)
+- Apple acquires Q.AI (62→80pts, +29%) - 28 comments (AI acquisition consolidation)
+- **No new 300+ signals** - existing stories continuing to consolidate, Project Genie now dominant
