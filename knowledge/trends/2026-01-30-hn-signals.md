@@ -143,6 +143,29 @@
   - Validates market demand for simpler, self-contained agent deployments
   - Falcon Platform differentiation: full VM isolation vs serverless constraints
 
+### [103pts, 46comments] How AI Impacts Skill Formation
+- URL: https://arxiv.org/abs/2601.20245
+- Points: 103
+- Comments: 46
+- Platform Relevance: **CRITICAL** - AI education & skill development research
+- Notes: Academic research on AI's impact on skill formation. Critical implications:
+  - How developers learn with AI assistance is changing fundamentally
+  - May inform how Falcon Platform should balance automation vs learning
+  - Long-term skill degradation risks from over-reliance on AI
+  - Platform design should encourage skill retention, not just productivity
+
+### [69pts, 11comments] How AI assistance impacts the formation of coding skills (Anthropic)
+- URL: https://www.anthropic.com/research/AI-assistance-coding-skills
+- Points: 69
+- Comments: 11
+- Platform Relevance: **CRITICAL** - Directly from Anthropic, coding skill formation
+- Notes: **Anthropic's own research on Claude Code's impact on learning**. Key findings:
+  - AI assistance changes how developers form coding skills
+  - Potential skill degradation if used passively
+  - Need for active learning vs passive acceptance
+  - Falcon Platform should consider educational modes/guardrails
+  - Validates importance of transparency (relates to Claude Code benchmark #1 story)
+
 ## Analysis
 
 **Total Stories Scanned**: 15 AI-related + 10 top stories (2026-01-30 11:30 JST)
@@ -369,3 +392,17 @@
 - AgentMail (142→146pts, +3%) - 148 comments (+1) (YC launch sustained engagement)
 - **ChatGPT/CISA data leak** (145→152pts, +5%) - 223 comments (+6) (security concerns persistent)
 - **No new critical signals** - Claude Code benchmark dominance continues, all tracked stories in consolidation phase
+
+**Update Summary (2026-01-30 19:30 JST)**:
+- **Claude Code benchmark maintains #1** (673→684pts, +2%) - 314 comments (+4) (16+ hours sustained #1, exceptional quality tracking demand continues)
+- **Vercel Agent.md vs Skills** (333→343pts, +3%) - 148 comments (+9) (agent development best practices sustained momentum)
+- **OpenAI retiring older models** (192→200pts, +4%) - 270 comments (+11) (model lifecycle concerns intensifying, high discussion engagement)
+- **Moltworker: Cloudflare self-hosted AI agent** (207→211pts, +2%) - 63 comments (+2) (self-hosted AI agent steady)
+- **CISA ChatGPT data leak** (152→156pts, +3%) - 226 comments (+3) (security concerns persistent)
+- AgentMail (146→150pts, +3%) - 154 comments (+6) (YC launch sustained high engagement)
+- Project Genie (572→584pts, +2%) - 278 comments (+2) (Google DeepMind stable consolidation)
+- **NEW SIGNAL**: Anthropic AI assistance coding skills research (69pts, 11 comments) - Critical research on how AI affects skill formation
+- **NEW SIGNAL**: How AI Impacts Skill Formation (103pts, 46 comments) - Related research on AI's impact on learning
+- **We can't send mail farther than 500 miles** (648→649pts, +0.2%) - 107 comments (classic story stable)
+- **OpenClaw (Moltbot renamed)** (197pts, 71 comments) - AI naming/branding churn continues
+- **No new 300+ breakthroughs** - Market consolidating, but two important AI education/skill formation signals emerged
