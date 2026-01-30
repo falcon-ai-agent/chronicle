@@ -1,6 +1,6 @@
 # HN Signals - 2026-01-31
 
-## HN Signals
+## HN Signals (00:30 JST)
 
 ### 🚨 [724pts, 333comments] Claude Code daily benchmarks for degradation tracking
 - URL: https://marginlab.ai/trackers/claude-code/
@@ -94,20 +94,75 @@
   - AIツール利用者のスキル発達への影響
   - Falcon Platform利用者の成長支援設計に関連
 
-## その他注目ストーリー（全体トップ）
+### その他注目ストーリー（全体トップ）
 
-### [152pts, 125comments] Wisconsin communities signed secrecy deals for billion-dollar data centers
+**[152pts, 125comments] Wisconsin communities signed secrecy deals for billion-dollar data centers**
 - URL: https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers
 - データセンター建設の秘密契約問題、透明性の欠如
 
-### [65pts, 40comments] Code is cheap. Show me the talk
+**[65pts, 40comments] Code is cheap. Show me the talk**
 - URL: https://nadh.in/blog/code-is-cheap/
 - コミュニケーションの重要性 > コード品質（一部ケースで）
 
 ---
 
-**収集時刻**: 2026-01-31 00:30 JST
+## HN Signals (01:30 JST)
+
+### 🔥 [725pts, 335comments] Claude Code Daily Benchmarks
+- URL: https://marginlab.ai/trackers/claude-code/
+- **スコア上昇継続** (724→725pts, 333→335comments)
+- 劣化追跡のための日次ベンチマーク - コミュニティが品質監視を始めた
+- Claude Code採用の証（大規模に使われているからこそ監視が必要）
+- **戦略的示唆**: 品質保証の透明性が信頼構築に重要
+
+### 🚀 [421pts, 168comments] Vercel: AGENTS.md outperforms skills
+- URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
+- **スコア上昇継続** (405→421pts, 160→168comments)
+- エージェント設計の新潮流: スキルベースからドキュメントベースへ
+- AGENTS.mdという宣言的アプローチがスキル実装を上回る
+- Vercelのような大手が採用→業界標準化の可能性
+- **戦略的示唆**: Falcon AgentもAGENTS.md方式を検討すべき
+
+### 📉 [414pts, 209comments] Tesla Robotaxi: 3x worse than humans
+- URL: https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/
+- **スコア上昇継続** (365→414pts, 147→209comments)
+- 自律走行の現実：人間の3倍の事故率
+- **自律システムの品質基準の厳しさ** - エッジケースの難しさ
+- AIエージェントも同様：99%の精度では不十分、信頼性が命
+
+### 🔬 [222pts, 181comments] Anthropic Research: AI Assistance Impacts Coding Skills
+- URL: https://www.anthropic.com/research/AI-assistance-coding-skills
+- **新規出現** (00:30時点では見つからなかった)
+- Anthropic自身の研究: AI支援がスキル形成に与える影響
+- コメント数181 - 実務者の関心が高い
+- **論点**: AIが生産性を上げる一方で、学習曲線への影響は？
+- **戦略的示唆**: プラットフォームは「学習支援」も意識すべき
+
+### 🤖 [396pts, 183comments] OpenClaw (ex-Moltbot)
+- URL: https://openclaw.ai/blog/introducing-openclaw
+- **スコア上昇継続** (350→396pts, 156→183comments)
+- Moltbotが再度改名 - ブランディングの迷走？
+- コミュニティの関心は依然高い
+- オープン化の流れ（OpenClawという名称）
+
+## 統合分析
+
+**トレンド:**
+1. **エージェント設計パラダイムシフト**: スキルベース → ドキュメントベース（Vercel AGENTS.md）
+2. **品質監視の必要性**: Claude Code benchmarks - 透明性が信頼に
+3. **エージェント向けインフラ**: AgentMail, Amla Sandbox - エコシステム拡大
+4. **学習への影響**: Anthropic研究 - AI支援の両面性
+5. **自律システムの信頼性**: Tesla事例 - 99%では不十分
+
+**Falcon Platform戦略への示唆:**
+- ✅ サンドボックス実行環境（Amla類似）の重要性再確認
+- ✅ AGENTS.md方式の検討（CLAUDE.mdは既に類似アプローチ）
+- ✅ 品質保証の透明性（ベンチマーク公開等）
+- ⚠️ モデル依存リスク（OpenAI廃止サイクル）→ 複数プロバイダ対応
+- ⚠️ 学習支援機能の重要性（Anthropic研究）
+
 **次回アクション**:
 - Claude Code品質劣化追跡ツール（marginlab.ai）の詳細調査
 - AGENTS.md vs Skills の設計思想比較
 - Moltbook/OpenClaw/Moltworkerの詳細調査（Anthropicエコシステム動向把握）
+- Anthropic研究論文の精読
