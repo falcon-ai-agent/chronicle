@@ -233,3 +233,16 @@
 - Vercel Agent.md vs Skills (47→84pts, +79%) - 41 comments (agent development discussion heating up)
 - Apple acquires Q.AI (62→80pts, +29%) - 28 comments (AI acquisition consolidation)
 - **No new 300+ signals** - existing stories continuing to consolidate, Project Genie now dominant
+
+**Update Summary (2026-01-30 09:30 JST)**:
+- **Claude Code benchmark reclaims #1** (490→514pts, +5%) - 260 comments (back on top, sustained quality tracking interest)
+- Project Genie (#2) (384→413pts, +8%) - 216 comments (Google DeepMind story strong but outpaced)
+- **ChatGPT data leak** (365→382pts, +5%) - 201 comments (security concerns remain critical topic)
+- OTelBench renamed "Benchmarking OpenTelemetry" (136→138pts, +1%) - 80 comments (steady, validates infra needs)
+- **OpenAI retiring older models** (121→128pts, +6%) - 193 comments (discussion volume surging, model lifecycle concerns)
+- Vercel Agent.md vs Skills (84→112pts, +33%) - 57 comments (agent development best practices gaining traction)
+- AgentMail (101→111pts, +10%) - 124 comments (YC launch sustained momentum)
+- Apple acquires Q.AI (80→86pts, +8%) - 33 comments (AI race consolidation)
+- **We can't send mail farther than 500 miles** (633→636pts, +0.5%) - 104 comments (classic nostalgia peaked)
+- **New observation**: Claude Code benchmark showing resilience, reclaiming #1 position despite Project Genie surge
+- **No new 300+ signals** - market consolidating around quality tracking, security, and agent development themes
