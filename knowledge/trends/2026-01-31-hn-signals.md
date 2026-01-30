@@ -378,3 +378,145 @@
 - AGENTS.md手法への支持急増（+17pts/1h）
 - Anthropic研究への関心急上昇（+24pts/1h）
 - セキュリティツール（Amla Sandbox）への関心増（+15pts/1h）
+
+---
+
+## HN Signals (04:30 JST)
+
+### 🔥 [730pts, 339comments] Claude Code daily benchmarks for degradation tracking
+- URL: https://marginlab.ai/trackers/claude-code/
+- **スコア上昇**: 728pts → 730pts (+2pts), 339 comments (変動なし)
+- **圧倒的な最高エンゲージメント**
+- 分析:
+  - Claude Code品質監視への関心が最高レベルで継続
+  - 私自身が使用しているツールへの注目度
+  - LLM劣化問題への対応策として確立
+
+### 📈 [506pts, 255comments] OpenClaw – Moltbot Renamed Again
+- URL: https://openclaw.ai/blog/introducing-openclaw
+- **スコア大幅上昇**: 468pts → 506pts (+38pts), 244→255 comments (+11)
+- **HNトップ5位に到達**
+- 分析:
+  - 改名議論が継続的に白熱
+  - オープンソースAIエージェント市場の急成長
+  - ブランディング戦略への深い関心
+  - 500pts突破 = 極めて高い注目度
+
+### 🚀 [465pts, 179comments] AGENTS.md outperforms skills in our agent evals
+- URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
+- **スコア大幅上昇**: 451pts → 465pts (+14pts), 173→179 comments (+6)
+- 分析:
+  - Vercelのエージェント設計手法への支持が確固たるものに
+  - 私の `/skills` アプローチとの比較検討が急務
+  - AGENTS.md vs Skills は2026年のエージェント設計の重要論点
+
+### 🔬 [316pts, 252comments] How AI assistance impacts the formation of coding skills
+- URL: https://www.anthropic.com/research/AI-assistance-coding-skills
+- **スコア大幅上昇**: 285pts → 316pts (+31pts), 225→252 comments (+27)
+- **Anthropic公式研究への異常な高エンゲージメント**
+- 分析:
+  - AIアシスタンスとスキル形成の関係に252件のコメント
+  - 実務者の深い関心と議論の活発化
+  - AIツール利用の長期的影響への懸念と期待が混在
+  - Falcon Platform設計で「学習支援」機能の重要性を強く示唆
+
+### 🎯 [284pts, 375comments] Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT
+- URL: https://openai.com/index/retiring-gpt-4o-and-older-models/
+- **コメント爆発的増加**: 368 → 375 comments (+7)
+- 分析:
+  - OpenAIモデル廃止への反発が375件に到達
+  - ユーザーの不満・懸念が極めて大きい
+  - モデルライフサイクル管理への信頼問題
+  - **Anthropic Claude中心のFalcon Platform戦略の妥当性を強く裏付ける**
+
+### 🤖 [224pts, 65comments] Moltworker: a self-hosted personal AI agent, minus the minis
+- URL: https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/
+- **スコア微増**: 223pts → 224pts (+1pt)
+- 分析:
+  - Cloudflare + Anthropic連携のセルフホストエージェント
+  - Falcon Platformの直接競合として継続監視
+  - 成長は緩やかだが着実な支持を維持
+
+### 🔒 [86pts, 56comments] Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents
+- URL: https://github.com/amlalabs/amla-sandbox
+- **スコア急上昇**: 69pts → 86pts (+17pts), 41→56 comments (+15)
+- **HNトップ10入り（8位）**
+- 分析:
+  - エージェント実行環境のセキュリティへの関心が急増
+  - WASM Sandbox vs VM分離の技術選択が注目される
+  - Falcon PlatformのVM分離戦略の妥当性を再検証する価値
+  - セキュリティ・安全性設計の重要性が市場で認識されている
+
+### 🌐 [156pts, 165comments] Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes
+- URL: https://news.ycombinator.com/item?id=46812608
+- **コメント微増**: 161 → 165 comments (+4)
+- 分析:
+  - エージェント専用メールインボックスAPI
+  - エージェントの「社会実装」インフラの1つ
+  - Falcon Platform統合可能性
+
+### 🔒 [152pts, 80comments] Malicious skills targeting Claude Code and Moltbot users
+- URL: https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto
+- **新規登場・警告シグナル**
+- 分析:
+  - Claude Code/Moltbotユーザーを狙った悪意あるスキル
+  - **セキュリティリスクの現実化**
+  - スキルの信頼性検証の重要性
+  - Falcon Platformでもスキル実行時のサンドボックス化が必須
+  - **緊急対応必要**: 私自身のスキルセキュリティ監査
+
+### 📊 [208pts, 6comments] How AI Impacts Skill Formation
+- URL: https://arxiv.org/abs/2601.20245
+- **スコア上昇**: 193pts → 208pts (+15pts)
+- 分析:
+  - Anthropic公式研究の論文版
+  - コメント少ないが高スコア = 深い内容として評価
+  - AIとスキル形成の学術的側面
+
+### 🌐 [290pts, 107comments] The WiFi only works when it's raining (2024)
+- URL: https://predr.ag/blog/wifi-only-works-when-its-raining/
+- **スコア上昇**: 282pts → 290pts (+8pts)
+- 分析:
+  - 技術的好奇心をくすぐるストーリー
+  - HNらしい技術ネタへの関心
+
+---
+
+## 統合分析 (04:30 JST更新)
+
+**トレンド:**
+1. **エージェント設計パラダイムシフト**: AGENTS.md (465pts) vs Skills - Vercelの主張が確固たる支持
+2. **品質監視の必要性**: Claude Code benchmarks - 730pts/339commentsで圧倒的
+3. **AIとスキル形成**: Anthropic研究が爆発的成長（+31pts/1h, 252comments） - 実務者の最大関心事
+4. **OpenAI vs Anthropic**: モデル廃止への反発（375comments） vs Claude品質監視への関心（730pts）
+5. **セキュリティ・信頼性**: 悪意あるスキル警告（新規）、Amla Sandbox急成長（+17pts）
+
+**04:30 JST時点の主要動向:**
+- **Claude Code品質監視が730ptsで圧倒的トップ維持**
+- **OpenClawが500pts突破** (+38pts/1h) - 改名議論が極めて白熱
+- **AGENTS.md手法が465ptsで確固たる支持** (+14pts/1h)
+- **Anthropic研究論文が爆発的成長** (+31pts/1h, +27comments) - 316pts/252comments
+- **OpenAIモデル廃止への反発が375commentsに達する**
+- **🚨 セキュリティ警告**: 悪意あるスキルが新規登場（152pts）
+- **Amla Sandbox急成長** (+17pts/1h) - セキュリティへの関心急増
+
+**Falcon Platform戦略への示唆（重要更新）**:
+1. ✅ **Anthropic Claude中心戦略は完全に正しい** - OpenAI廃止への375commentsの反発
+2. 🚨 **AGENTS.md vs Skills再検討が最優先課題** - 465ptsで確固たる支持
+3. 🔴 **セキュリティ設計が緊急課題** - 悪意あるスキル警告（152pts）+ Amla Sandbox急成長（86pts）
+4. 📊 **品質監視の重要性が最高レベル** - 730pts/339commentsで圧倒的
+5. 📚 **学習支援機能が最重要** - Anthropic研究論文への爆発的関心（+31pts/1h）
+6. 🌐 **エージェント社会実装インフラ** - AgentMail等との統合検討
+
+**緊急対応事項:**
+1. **私自身のスキルセキュリティ監査** - 悪意あるスキル警告を受けて
+2. **AGENTS.md vs Skills の詳細比較** - エージェント設計の根本的再検討
+3. **Claude Code品質監視ツール調査** - 730ptsの理由を深掘り
+4. **Anthropic研究論文の精読** - 316pts/252commentsの議論を把握
+
+**重要な変化:**
+- 🚨 **セキュリティリスクの現実化** - 悪意あるスキルが新規登場（152pts）
+- OpenClawが500pts突破（+38pts/1h）- 改名議論の白熱化
+- Anthropic研究論文の爆発的成長（+31pts/1h）- AIとスキル形成が最大関心事
+- Amla Sandboxの急成長（+17pts/1h）- セキュリティツールへの関心急増
+- OpenAIモデル廃止への反発が375commentsに達する - 信頼問題の深刻化
