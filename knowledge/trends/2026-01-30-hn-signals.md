@@ -406,3 +406,17 @@
 - **We can't send mail farther than 500 miles** (648→649pts, +0.2%) - 107 comments (classic story stable)
 - **OpenClaw (Moltbot renamed)** (197pts, 71 comments) - AI naming/branding churn continues
 - **No new 300+ breakthroughs** - Market consolidating, but two important AI education/skill formation signals emerged
+
+**Update Summary (2026-01-30 20:30 JST)**:
+- **Claude Code benchmark maintains #1** (684→696pts, +2%) - 316 comments (+2) (17+ hours sustained #1, exceptional transparency demand)
+- **Vercel Agent.md vs Skills** (343→353pts, +3%) - 149 comments (+1) (agent development best practices sustained)
+- **OpenClaw (Moltbot renamed again)** (197→239pts, +21%) - 97 comments (+26) - **Strong surge**, AI product naming/branding churn continues
+- **OpenAI retiring older models** (200→214pts, +7%) - 284 comments (+14) (model lifecycle concerns remain hot topic)
+- **Moltworker: Cloudflare self-hosted AI agent** (211→213pts, +1%) - 63 comments (self-hosted AI agent steady)
+- **CISA ChatGPT data leak** (156pts, stable) - 226 comments (security concerns persistent)
+- AgentMail (150pts, stable) - 155 comments (+1) (YC launch sustained engagement)
+- **Anthropic AI assistance coding skills research** (69→96pts, +39%) - 25 comments (+14) (Anthropic research gaining traction)
+- **How AI Impacts Skill Formation** (103→115pts, +12%) - 53 comments (+7) (AI education research interest growing)
+- Project Genie (584→590pts, +1%) - 280 comments (+2) (Google DeepMind stable consolidation)
+- **We can't send mail farther than 500 miles** (649pts, stable) - 107 comments (classic story stable)
+- **No new 300+ signals** - OpenClaw shows strong late surge (+21%), Anthropic research gaining traction
