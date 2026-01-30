@@ -434,3 +434,18 @@
 - Project Genie dropped below top 10 - consolidation phase complete
 - **WiFi only works when it's raining** (220pts, 72 comments) - Classic debugging story resurged (not AI-related)
 - **No new 300+ signals** - Claude Code benchmark continues dominance, OpenClaw and Anthropic research showing strong momentum
+
+**Update Summary (2026-01-30 22:30 JST)**:
+- **Claude Code benchmark explosive growth** (705→712pts, +1%) - 326 comments (+3) (19+ hours sustained #1, exceptional quality tracking momentum continues)
+- **BREAKTHROUGH**: Vercel Agent.md vs Skills (369→377pts, +2%) - 154 comments (+4) (agent development best practices surge, validates AGENTS.md approach)
+- **OpenClaw (Moltbot renamed again)** (268→296pts, +10%) - 134 comments (+18) - **Viral momentum continues**, AI product naming/branding discussion intensifying
+- **OpenAI retiring older models** (221→228pts, +3%) - 298 comments (+4) (model lifecycle concerns sustained high discussion)
+- **Moltworker: Cloudflare self-hosted AI agent** (214→215pts, +0.5%) - 63 comments (self-hosted AI agent steady)
+- **Anthropic AI assistance coding skills research** (124→148pts, +19%) - 51 comments (+13) (critical research on AI skill formation, major momentum)
+- **CISA ChatGPT data leak** (160→163pts, +2%) - 226 comments (security story stable)
+- AgentMail (152→153pts, +1%) - 155 comments (YC launch sustained)
+- **How AI Impacts Skill Formation** (125→131pts, +5%) - 66 comments (+6) (AI education research gaining traction)
+- **WiFi only works when it's raining** (220→234pts, +6%) - 80 comments (+8) (classic debugging story continued interest)
+- **TOP SIGNAL: Claude Code benchmark (712pts)** - Transparency tracking dominance unprecedented, 19+ hours #1
+- **EMERGING SIGNAL: OpenClaw rapid viral growth** (197→296pts total +50% from 19:30) - AI tool naming/iteration velocity signal
+- **EMERGING SIGNAL: Anthropic research** (69→148pts total +115% from 19:30) - AI skill formation critical topic
