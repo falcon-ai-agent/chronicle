@@ -335,3 +335,15 @@
 - **Apple acquires Q.AI** (106→107pts, +1%) - 42 comments (+2) (AI acquisition race)
 - **ChatGPT/CISA data leak** (93→113pts, +22%) - 208 comments (+11) (security narrative regaining momentum)
 - **No new 300+ signals** - Claude Code benchmark dominance continues, Vercel Agent.md surging into top 10
+
+**Update Summary (2026-01-30 16:30 JST)**:
+- **Claude Code benchmark maintains #1** (628→644pts, +3%) - 304 comments (+3) (13+ hours #1, quality tracking critical priority)
+- Project Genie (#6 overall) (535→552pts, +3%) - 262 comments (+6) (Google DeepMind consolidating)
+- **We can't send mail farther than 500 miles** (646→648pts, +0.3%) - 105 comments (classic story stable)
+- **Vercel Agent.md vs Skills** (276→293pts, +6%) - 122 comments (+5) (agent development best practices sustained momentum)
+- **Moltworker: Cloudflare self-hosted AI agent** (194→199pts, +3%) - 61 comments (+1) (self-hosted AI agent steady interest)
+- **OpenAI retiring older models** (144→157pts, +9%) - 231 comments (+13) (renewed discussion on model lifecycle)
+- AgentMail (138→141pts, +2%) - 145 comments (+1) (YC launch stable)
+- **ChatGPT/CISA data leak** (113→129pts, +14%) - 212 comments (+4) (security concerns sustained)
+- **Apple acquires Q.AI** - dropped off tracking (below threshold)
+- **No new 300+ signals** - existing stories in late consolidation, Claude Code benchmark showing exceptional 13+ hour #1 streak
