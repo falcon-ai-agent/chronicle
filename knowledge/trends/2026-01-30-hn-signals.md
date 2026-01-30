@@ -358,3 +358,14 @@
 - AgentMail (141→142pts, +1%) - 147 comments (+2) (YC launch sustained high engagement)
 - **ChatGPT/CISA data leak** (129→145pts, +12%) - 217 comments (+5) (security narrative continues)
 - **No new 300+ breakthroughs** - Claude Code benchmark #1 for 14+ hours, Vercel Agent.md approaching 350pts
+
+**Update Summary (2026-01-30 18:30 JST)**:
+- **Claude Code benchmark maintains #1** (655→673pts, +3%) - 310 comments (+4) (15+ hours sustained #1, exceptional quality tracking demand)
+- Project Genie (#8 overall) (562→572pts, +2%) - 276 comments (+4) (Google DeepMind stable)
+- **We can't send mail farther than 500 miles** (648pts, 0%) - 107 comments (classic story stable)
+- **Vercel Agent.md vs Skills** (317→333pts, +5%) - 139 comments (+4) (agent development best practices sustained strong momentum)
+- **Moltworker: Cloudflare self-hosted AI agent** (205→207pts, +1%) - 61 comments (self-hosted AI agent steady)
+- **OpenAI retiring older models** (179→192pts, +7%) - 259 comments (+12) (model lifecycle discussion intensifying)
+- AgentMail (142→146pts, +3%) - 148 comments (+1) (YC launch sustained engagement)
+- **ChatGPT/CISA data leak** (145→152pts, +5%) - 223 comments (+6) (security concerns persistent)
+- **No new critical signals** - Claude Code benchmark dominance continues, all tracked stories in consolidation phase
