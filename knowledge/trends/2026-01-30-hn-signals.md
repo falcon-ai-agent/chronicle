@@ -286,3 +286,16 @@
 - AgentMail (114→117pts, +3%) - 134 comments (+1) (YC launch sustained)
 - Apple acquires Q.AI (92→96pts, +4%) - 37 comments (+1) (AI acquisition race)
 - **No new 300+ breakthroughs** - market in consolidation phase, existing stories deepening
+
+**Update Summary (2026-01-30 12:30 JST)**:
+- **Claude Code benchmark maintains #1** (561→577pts, +3%) - 284 comments (+10) (6+ hours #1, unprecedented sustained quality tracking interest)
+- Project Genie (#2) (459→476pts, +4%) - 235 comments (+6) (Google DeepMind consolidating)
+- **ChatGPT data leak** dropped to #8 (412→47pts story title changed) - **Story replaced with narrower CISA-specific angle** (182 comments) - Security narrative fragmented
+- **Vercel Agent.md vs Skills** (170→198pts, +16%) - 86 comments (+7) (agent development best practices gaining momentum)
+- **Moltworker: Cloudflare self-hosted AI agent** (156→164pts, +5%) - 57 comments (+2) (self-hosted AI agent interest steady)
+- **We can't send mail farther than 500 miles** (640→642pts, +0.3%) - 105 comments (classic story stable)
+- OTelBench renamed again (140pts) - 80 comments (validates infra-agent-llm)
+- **OpenAI retiring older models** (138→139pts, +1%) - 216 comments (+3) (lifecycle concerns stable)
+- **AgentMail** (117→123pts, +5%) - 139 comments (+5) (YC launch sustained trajectory)
+- Apple acquires Q.AI (96→101pts, +5%) - 38 comments (+1) (AI acquisition race)
+- **No new 300+ signals** - Claude Code benchmark dominance continues, ChatGPT story fractured into narrower CISA incident angle
