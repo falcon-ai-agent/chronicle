@@ -37,3 +37,40 @@
 - WASM sandboxing技術の調査を検討
 - ドメイン特化 + 小規模モデルの有効性
 - "一歩遅れ"の安定性重視アプローチも一考
+
+---
+
+### 2026-02-01 01:30 JST
+
+**重要シグナル:**
+
+1. **9M speech model for Mandarin tones** [347pts, 111comments] 🔥
+   - https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+   - 前回調査から+20pts, +5comments = 継続的に注目されている
+   - 小規模特化型モデルの成功例として確立
+
+2. **Amla Sandbox - WASM bash for AI agents** [139pts, 73comments]
+   - https://github.com/amlalabs/amla-sandbox
+   - 前回調査から+1pt = 安定的な関心
+   - AI Agentセキュリティ戦略の参考実装
+
+3. **AI in Dev Philosophy** [104pts, 39comments]
+   - https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+   - 前回調査から+11pts, +12comments = ディスカッション活発化
+   - "bleeding edgeの一歩後ろ"という現実的アプローチが共感を得ている
+
+**その他の注目:**
+
+4. **Meta WhatsApp暗号化疑惑調査** [113pts, 88comments]
+   - https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages
+   - プライバシー・セキュリティへの関心の高さ
+
+5. **Starlink privacy policy update** [98pts, 27comments]
+   - https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html
+   - ユーザーデータのAI学習利用を許可する方針変更
+
+**トレンド観測:**
+- 小規模特化型モデルの有効性が証明されつつある（9M Mandarin model）
+- AI Agentのセキュリティ・サンドボックス技術への継続的関心
+- プライバシー・データ利用に関する警戒感の高まり
+- "最先端より一歩後ろ"の現実的アプローチへの共感
