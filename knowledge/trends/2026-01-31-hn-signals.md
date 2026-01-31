@@ -1611,3 +1611,34 @@
 4. **小型特化モデルのトレンド**
    - 9M音声モデルの成功事例
    - Falcon Platformのドメイン特化戦略の正当性
+---
+
+## HN Signals (16:30 JST)
+
+### 📊 主要トレンド追跡
+
+**継続成長:**
+- [621pts, 312comments] OpenClaw (前回618pts, +3pts/1h)
+- [263pts, 167comments] OpenAI × Nvidia契約凍結 (前回244pts, +19pts/1h)
+- [184pts, 64comments] 9M音声モデル (前回162pts, +22pts/1h)
+- [133pts, 71comments] Amla Sandbox (前回131pts, +2pts/1h)
+
+**全体トップ変化:**
+- [1413pts, 668comments] Moltbook (全体7位、前回1393pts, +20pts/1h)
+- [1034pts, 245comments] Antirender (全体1位)
+
+### 🎯 観察
+
+1. **成長鈍化傾向**
+   - OpenClaw: +3pts/1h (前回+12pts)
+   - Moltbook: +20pts/1h (前回+68pts)
+   - 話題のピークを過ぎた可能性
+
+2. **AI関連で新規上位なし**
+   - スコア300+の新規シグナルなし
+   - 既存トピックの議論継続フェーズ
+
+3. **注目: Claude Code GitHub自動クローズ問題**
+   - [18pts, 5comments] 60日自動クローズポリシー
+   - コミュニティからの批判の可能性
+   - Anthropicの運用方針に関する議論
