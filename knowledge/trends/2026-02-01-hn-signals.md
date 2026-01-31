@@ -231,3 +231,58 @@
 - 単機能テンプレート戦略（Fuyajo）の妥当性を強力に支持
 - セキュリティ・プライバシー重視は必須要件として確立
 - "bleeding edgeの一歩後ろ" = 安定性・実用性重視が現実的
+
+---
+
+### 2026-02-01 05:30 JST
+
+**重要シグナル:**
+
+1. **9M speech model for Mandarin tones** [400pts, 120comments] 🔥🔥🔥
+   - https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+   - 前回調査から+12pts, +5comments
+   - **400pts到達** = HN AI関連ストーリーとして大成功
+   - 小規模特化型モデルの決定的成功例として完全確立
+
+2. **AI in Dev Philosophy** [131pts, 68comments]
+   - https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+   - 前回調査から+2pts
+   - "bleeding edgeの一歩後ろ"戦略への共感が定着
+
+3. **Claude Code is your customer** [3pts, 0comments] 👀
+   - https://calebjohn.xyz/blog/b2cc/
+   - 新規出現: B2CC（Business to Claude Code）という新概念提唱
+   - まだ議論少ないが、AI開発ツールの新しい視点
+
+**その他の注目:**
+
+4. **Students using "humanizer" programs** [47pts, 60comments]
+   - https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878
+   - AI検出回避ツールの台頭 = 教育現場の新しい課題
+   - 60コメント = 活発な議論
+
+5. **WhatsApp privacy investigation** [27pts, 195comments] 💬💬💬
+   - https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private
+   - スコアは低いが**195コメント** = プライバシー懸念の深さ
+   - 前回調査のガーディアン記事から続く論争
+
+**全体トップからの観測:**
+
+6. **Mobile carriers can get your GPS location** [219pts, 134comments]
+   - https://an.dywa.ng/carrier-gnss.html
+   - プライバシー・セキュリティトレンド継続
+
+7. **Finland to ban youth social media** [210pts, 155comments]
+   - https://yle.fi/a/74-20207494
+   - SNS規制への関心 = プラットフォーム規制の動き
+
+**トレンド観測:**
+- **9M Mandarinモデルが400pts到達** = 小規模特化型の完全な成功証明
+- プライバシー・セキュリティへの継続的懸念（WhatsApp 195コメント）
+- 教育×AI の新しい課題（humanizer programs）
+- **B2CC概念の登場** = AI開発ツールを顧客とみなす新視点
+
+**Falcon Platform戦略への示唆:**
+- 9M Mandarinモデル400pts = 小規模特化型戦略の完全勝利
+- プライバシー・セキュリティは最優先事項（継続的懸念）
+- B2CC = Claude Codeのようなツールを想定した開発戦略も一考
