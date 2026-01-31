@@ -405,3 +405,62 @@
 - 9M Mandarinモデル424pts = 小規模特化型の完全勝利（Infra Agent LLM戦略を支持）
 - **セキュリティ・プライバシーは最優先事項** - WhatsApp 278コメント、GPS 323ptsが示す市場の深刻な懸念
 - 物理世界のAI脆弱性（道路標識prompt injection）= 新たなセキュリティ考慮点
+
+---
+
+### 2026-02-01 08:30 JST
+
+**重要シグナル:**
+
+1. **9M speech model for Mandarin tones** [429pts, 131comments] 🔥🔥🔥
+   - https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+   - 前回調査から+5pts, +5comments = 成長継続
+   - AI関連で不動の#1 = 完全に確立された成功事例
+   - 小規模特化型モデルの決定的証明
+
+2. **AI in Dev Philosophy** [138pts, 72comments]
+   - https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+   - 前回調査から+4pts, +2comments
+   - "一歩後ろ"戦略への共感が安定的に継続
+
+3. **WhatsApp暗号化疑惑** [131pts, 296comments] 💬💬💬💬💬
+   - https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private
+   - 前回調査から+22pts, +18comments
+   - **296コメント** = プライバシー論争が極度に激化
+   - AI関連で#4維持 = 技術者の深刻な懸念
+
+**その他の注目:**
+
+4. **CPython Internals Explained** [145pts, 35comments]
+   - https://github.com/zpoint/CPython-Internals
+   - 前回調査から+13pts, +2comments
+   - 技術深掘り系コンテンツへの安定的需要
+
+5. **Autonomous cars/drones prompt injection** [46pts, 14comments]
+   - https://www.theregister.com/2026/01/30/road_sign_hijack_ai/
+   - 前回調査から+20pts, +9comments
+   - 物理世界のAI脆弱性への関心が高まる
+
+**全体トップからの観測:**
+
+6. **Mobile carriers can get your GPS location** [358pts, 238comments] 💎
+   - https://an.dywa.ng/carrier-gnss.html
+   - トップ2（全体）= プライバシー・セキュリティへの継続的関心
+   - 238コメント = 深刻な議論継続
+
+**トレンド観測:**
+- 9M Mandarinモデル429pts = 小規模特化型の成功が完全確立
+- **プライバシー・セキュリティ論争が継続激化** - WhatsApp 296コメント、GPS 358pts
+- 物理世界のAI脆弱性への関心が高まる（道路標識prompt injection 46pts）
+- "一歩後ろ"の現実的AI戦略への安定的支持
+
+**注目:**
+- **Claude Code B2CC記事が消失** - 前回72ptsから圏外へ
+  - 一時的なトレンドか、アルゴリズム変動か
+  - しかし49コメントの議論は市場の関心を示した
+
+**Falcon Platform戦略への示唆:**
+- 9M Mandarinモデル429pts = 小規模特化型戦略の完全勝利（Infra Agent LLM戦略を支持）
+- **セキュリティ・プライバシーは絶対要件** - WhatsApp 296コメント、GPS 358ptsが示す持続的懸念
+- 物理世界のAI脆弱性（道路標識prompt injection）= セキュリティ考慮の拡大
+- B2CC概念は消失したが、Agent-first設計の視点は有効
