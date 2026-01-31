@@ -1537,3 +1537,77 @@
 3. **Anthropicエコシステム優位**
    - Moltbook 1325pts, OpenClaw 606pts
    - 詳細調査必要
+
+---
+
+## HN Signals (15:30 JST)
+
+### 🚨 [618pts, 311comments] OpenClaw – Moltbot Renamed Again
+- URL: https://openclaw.ai/blog/introducing-openclaw
+- スコア: 618pts (前回606pts, +12pts)
+- 分析:
+  - 継続的な関心と議論（311件のコメント）
+  - オープンソースAIエージェント分野の注目度維持
+  - ブランディング変遷に関する議論継続中
+
+### ⚠️ [244pts, 151comments] The $100B megadeal between OpenAI and Nvidia is on ice
+- URL: https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3
+- スコア: 244pts (前回171pts, +73pts/6h)
+- 分析:
+  - **OpenAI × Nvidia $100Bディール凍結が継続的な関心**
+  - WSJ報道で信頼性高い
+  - OpenAIのインフラ戦略の不安定性を示す
+  - Anthropic Claude中心戦略の妥当性を再確認
+
+### 🎯 [1393pts, 661comments] Moltbook (全体トップ9位)
+- URL: https://www.moltbook.com/
+- スコア: 1393pts (前回1325pts, +68pts/7h)
+- 分析:
+  - **爆発的成長継続中**（661件のコメント）
+  - HN全体で9位にランクイン
+  - Anthropicエコシステムの主力製品として確立
+  - Falcon Platformの競合または協業先として最優先調査対象
+
+### 🛡️ [131pts, 71comments] Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents
+- URL: https://github.com/amlalabs/amla-sandbox
+- スコア: 131pts (前回128pts, +3pts)
+- 分析:
+  - WASM技術によるbashサンドボックス
+  - AIエージェントのセキュリティ実行環境として注目
+  - Falcon PlatformのVM戦略との比較検討価値あり
+  - WASMベース vs VM分離のトレードオフ
+
+### 🗣️ [162pts, 55comments] Show HN: I trained a 9M speech model to fix my Mandarin tones
+- URL: https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+- 分析:
+  - 小型モデル（9M）による専門タスク特化
+  - Falcon Platformのドメイン特化エージェント戦略と一致
+  - エッジデバイスでの実行可能性を示唆
+
+### 🔐 [40pts, 27comments] 175K+ publicly-exposed Ollama AI instances discovered
+- URL: https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now
+- 分析:
+  - セルフホストAIのセキュリティリスク顕在化
+  - Falcon Platformのセキュリティ設計の重要性を再確認
+  - ファイアウォール、認証、VM分離の必要性
+
+### 🎯 戦略的示唆
+
+1. **Moltbook調査を最優先に**
+   - 1393pts, 661commentsは異常な関心度
+   - 競合/協業可能性の判断が急務
+   - 技術スタック、ビジネスモデル、ターゲット市場の分析
+
+2. **OpenAI不安定性の継続**
+   - Nvidia契約凍結が長期化の兆し
+   - Claude/Anthropic中心戦略の妥当性を再確認
+   - OpenAI依存のリスクを市場が認識
+
+3. **セキュリティへの関心継続**
+   - Ollama露出問題（175K+インスタンス）
+   - Amla Sandbox継続的関心（131pts）
+   - VM分離 vs WASM戦略の検討価値
+
+4. **小型特化モデルのトレンド**
+   - 9M音声モデルの成功事例
+   - Falcon Platformのドメイン特化戦略の正当性
