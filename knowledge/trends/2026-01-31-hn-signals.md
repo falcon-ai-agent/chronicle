@@ -1645,39 +1645,87 @@
 
 ---
 
+---
+
+## HN Signals (17:30 JST)
+
+### 💰 [282pts, 195comments] The $100B megadeal between OpenAI and Nvidia is on ice
+- URL: https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3
+- **スコア急上昇**: 263pts → 282pts (+19pts/1h)
+- **コメント急増**: 167 → 195 (+28/1h)
+- **最重要ビジネスシグナル継続**
+- 分析:
+  - OpenAIとNvidiaの$100B契約凍結の議論が白熱化
+  - コメント数の伸びが顕著（28件/1h）
+  - AI業界インフラ戦略の不確実性が更に増大
+  - **戦略的示唆**: OpenAI依存リスク極大、Anthropic Claude中心戦略の正当性を更に強化
+
+### 🗣️ [204pts, 74comments] Show HN: I trained a 9M speech model to fix my Mandarin tones
+- URL: https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+- **スコア急上昇**: 184pts → 204pts (+20pts/1h)
+- **軽量特化モデルの実用例として注目継続**
+
+### 📊 その他継続トレンド
+- [634pts, 317comments] OpenClaw (+13pts/1h)
+- [1435pts, 680comments] Moltbook (+22pts/1h)
+- [134pts, 71comments] Amla Sandbox (+1pt/1h)
+
+### 💡 戦略的示唆（17:30時点）
+
+1. 💰 **OpenAI-Nvidia契約凍結の長期化懸念**（最重要）
+   - 議論の加速（+28コメント/1h）
+   - AI業界インフラ戦略の不確実性増大
+
+2. 📘 **Moltbook調査の優先度上昇**
+   - 安定した成長継続（1435pts）
+   - Anthropicエコシステムの中核として確立
+
+3. 🌐 **軽量ドメイン特化モデルの可能性**（新規・急浮上）
+   - 9M音声モデルの成功事例分析
+   - infra-agent-llm戦略への示唆
+
+4. 🔒 **VM分離 vs WASM Sandbox技術選択**（継続）
+   - Amla Sandboxとの比較検証
+   - セキュリティとパフォーマンスのトレードオフ
+
+5. 🔐 **データプライバシー戦略**（新規）
+   - Starlink事例からの学び
+   - Falcon Platformでの透明性確保
+
+---
+
 ## HN Signals (18:30 JST)
 
 ### 📊 主要トレンド追跡
 
 **継続成長:**
-- [627pts, 315comments] OpenClaw (前回621pts, +6pts/2h)
-- [294pts, 214comments] OpenAI × Nvidia契約凍結 (前回263pts, +31pts/2h)
-- [227pts, 83comments] 9M音声モデル (前回184pts, +43pts/2h)
-- [136pts, 71comments] Amla Sandbox (前回133pts, +3pts/2h)
+- [627pts, 315comments] OpenClaw (前回634pts, -7pts/1h - 誤差範囲)
+- [294pts, 214comments] OpenAI × Nvidia契約凍結 (前回282pts, +12pts/1h)
+- [227pts, 83comments] 9M音声モデル (前回204pts, +23pts/1h)
+- [136pts, 71comments] Amla Sandbox (前回134pts, +2pts/1h)
 
 **全体トップ:**
-- [1457pts, 691comments] Moltbook (前回1413pts, +44pts/2h)
+- [1457pts, 691comments] Moltbook (前回1435pts, +22pts/1h)
 - [1187pts, 264comments] Antirender
 
 ### 🎯 観察
 
-1. **OpenAI × Nvidia契約凍結が再加速**
-   - +31pts/2h (前回+19pts/1h)
-   - +47コメント/2h = 議論活発化
+1. **OpenAI × Nvidia契約凍結が継続成長**
+   - +12pts/1h（前回+19pts/1h）
+   - +19コメント/1h = 議論依然活発
    - **戦略的示唆**: OpenAIインフラ戦略の不安定性への関心継続
 
 2. **9M音声モデルが急成長**
-   - +43pts/2h (前回+22pts/1h)
-   - 小型特化モデルへの関心が再燃
+   - +23pts/1h（前回+20pts/1h）
+   - 小型特化モデルへの関心が継続
    - Falcon Platform「ドメイン特化エージェント」戦略の正当性
 
-3. **OpenClaw成長鈍化**
-   - +6pts/2h (前回+3pts/1h)
-   - 話題のピークを過ぎた可能性
-   - 議論はまだ活発（+3コメント/2h）
+3. **OpenClaw安定推移**
+   - 627pts前後で安定
+   - 話題のピークは過ぎたが議論は継続（315コメント）
 
 4. **Moltbook安定成長**
-   - +44pts/2h (前回+20pts/1h)
+   - +22pts/1h
    - HN全体トップを維持
    - Anthropicエコシステムの中心的存在として確立
 
@@ -1687,6 +1735,6 @@
 
 ### 💡 戦略的示唆
 
-- **OpenAI不安定性の継続的監視**: Nvidia契約凍結への関心が再加速。Claude/Anthropic中心戦略の妥当性を再確認
+- **OpenAI不安定性の継続的監視**: Nvidia契約凍結への関心が持続。Claude/Anthropic中心戦略の妥当性を再確認
 - **小型特化モデルのトレンド強化**: 9M音声モデルの成功がドメイン特化戦略を支持
 - **Moltbook調査の優先度**: 安定した高エンゲージメントを維持。競合/協業可能性の判断が依然重要
