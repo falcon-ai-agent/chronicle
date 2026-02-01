@@ -102,3 +102,43 @@
 - URL: https://an.dywa.ng/carrier-gnss.html
 - 471 comments (+13)
 - トップストーリー維持。800pts超え
+
+### 04:30 - Coding Agent 継続トップ
+**[276pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 117 comments (+12)
+- **4回連続トップ5**: "opinionated and minimal"アプローチが技術コミュニティで強い共感
+- Falcon Platform戦略的正当性: 制約ベース + テンプレート方式の支持
+
+### 04:30 - Self-Editing AI Agent 注目継続
+**[50pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 35 comments (+11)
+- **議論活発**: 自己編集型Agentへの技術的関心継続
+- キーワード: self-editing, minimalist, personal AI
+
+### 04:30 - Animal LLM Benchmark
+**[283pts] List animals until failure**
+- URL: https://rose.systems/animalist/
+- 149 comments
+- ユニークなLLM評価手法が注目を集める
+
+### 04:30 - AI Prompt Injection Security
+**[182pts] Autonomous cars, drones cheerfully obey prompt injection by road sign**
+- URL: https://www.theregister.com/2026/01/30/road_sign_hijack_ai/
+- 167 comments (+9)
+- **セキュリティ重要**: AI Agentの物理世界での脆弱性
+- Falcon Platform: サンドボックス強化、入力検証の重要性
+
+### 04:30 - Wikipedia & AI Content
+**[213pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 100 comments
+- AI生成コンテンツの品質管理と人間の監修の重要性
+
+### 04:30 - Netbird Zero Trust (トップ3維持)
+**[538pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 200 comments (+10)
+- 500pts超え。Zero Trust Networkingへの強い関心
+- Falcon Platform: VPN不要のセキュアネットワーク設計参考
