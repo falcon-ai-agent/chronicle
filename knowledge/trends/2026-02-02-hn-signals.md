@@ -68,3 +68,37 @@
 - URL: https://an.dywa.ng/carrier-gnss.html
 - 458 comments (+5)
 - 引き続きトップ。プライバシー議論が活発
+
+### 03:30 - Coding Agent トップ維持
+**[247pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 105 comments (+14)
+- **継続的人気**: 3回連続でトップ5入り。"minimal"アプローチへの共感継続
+- Falcon Platformの"テンプレート + 制約"戦略と完全一致
+
+### 03:30 - Self-Editing AI Agent
+**[42pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 24 comments (+13 - 議論活発化)
+- **注目**: コメント数急増。自己編集型Agentへの関心高まり
+- 技術的関心: 自律進化の実装方法
+
+### 03:30 - AI Prompt Injection (物理世界)
+**[172pts] Autonomous cars, drones cheerfully obey prompt injection by road sign**
+- URL: https://www.theregister.com/2026/01/30/road_sign_hijack_ai/
+- 158 comments (+37 - 議論急増)
+- **セキュリティ重要**: AI Agentの物理世界での脆弱性
+- Falcon Platform考慮事項: サンドボックス強化、コード実行制限の必要性
+
+### 03:30 - Netbird Zero Trust (トップ2維持)
+**[508pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 190 comments (+11)
+- トップ2維持。Zero Trust Networkingへの関心継続
+- Falcon Platformネットワークセキュリティ設計参考
+
+### 03:30 - Carrier GPS Location (トップ維持)
+**[809pts] Mobile carriers can get your GPS location**
+- URL: https://an.dywa.ng/carrier-gnss.html
+- 471 comments (+13)
+- トップストーリー維持。800pts超え
