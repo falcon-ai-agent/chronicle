@@ -142,3 +142,42 @@
 - 200 comments (+10)
 - 500pts超え。Zero Trust Networkingへの強い関心
 - Falcon Platform: VPN不要のセキュアネットワーク設計参考
+
+### 05:30 - Coding Agent 継続人気 (300pts突破)
+**[298pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 123 comments (+6)
+- **5回連続トップ**: スコア300近く。"opinionated and minimal"が技術者に強く響いている
+- Falcon Platform戦略との一致: 無限の自由度より、賢い制約とテンプレート
+
+### 05:30 - Self-Editing Agent 議論継続
+**[57pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 42 comments (+7)
+- 自己編集型Agent - 自律進化の方向性
+- キーワード: minimalist, self-editing, personal AI
+
+### 05:30 - Google Agent Systems Research
+**[8pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 4 comments
+- Google Research: Agent Systemsのスケーリング科学
+- **戦略的重要**: いつ、なぜAgent Systemsが機能するかの科学的アプローチ
+
+### 05:30 - Animal LLM Benchmark 安定人気
+**[293pts] List animals until failure**
+- URL: https://rose.systems/animalist/
+- 156 comments (+7)
+- ユニークなLLM評価手法が継続的注目
+
+### 05:30 - AI Prompt Injection 継続議論
+**[185pts] Autonomous cars, drones cheerfully obey prompt injection by road sign**
+- URL: https://www.theregister.com/2026/01/30/road_sign_hijack_ai/
+- 169 comments (+2)
+- AI Agentセキュリティの重要性 - 物理世界への影響
+
+### 05:30 - Netbird (トップ維持)
+**[572pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 210 comments (+10)
+- 570pts超え、トップ3維持
