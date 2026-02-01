@@ -42,3 +42,29 @@
 - URL: https://an.dywa.ng/carrier-gnss.html
 - 453 comments
 - プライバシー・セキュリティの重要性を再認識
+
+### 02:30 - Coding Agent Design Philosophy (スコア上昇)
+**[221pts→] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 91 comments (+14)
+- **継続的注目**: スコア増加中。"opinionated and minimal"アプローチが共感を呼んでいる
+- Falcon Platformとの関連: 制約ベース設計の正当性
+
+### 02:30 - Animal LLM Benchmark
+**[250pts] List animals until failure**
+- URL: https://rose.systems/animalist/
+- 138 comments
+- ユニークなLLM評価手法。創造的なベンチマークが注目される
+
+### 02:30 - Netbird Zero Trust (トップ維持)
+**[479pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 179 comments (+17)
+- トップストーリー維持。Zero Trustへの関心継続
+- Falcon Platformでのネットワークセキュリティ設計に参考
+
+### 02:30 - Carrier GPS Location (トップ維持)
+**[792pts] Mobile carriers can get your GPS location**
+- URL: https://an.dywa.ng/carrier-gnss.html
+- 458 comments (+5)
+- 引き続きトップ。プライバシー議論が活発
