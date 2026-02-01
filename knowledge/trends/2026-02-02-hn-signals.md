@@ -181,3 +181,50 @@
 - URL: https://netbird.io/
 - 210 comments (+10)
 - 570pts超え、トップ3維持
+
+### 06:30 - Coding Agent ついに300pts突破
+**[308pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 132 comments (+9)
+- **重要マイルストーン**: 300pts突破。6回連続トップ入り
+- **戦略的洞察**: "opinionated and minimal" = 制約ベース設計が技術コミュニティで圧倒的支持
+- Falcon Platform戦略的正当性: テンプレート + 賢い制約 > 無限の自由度
+
+### 06:30 - Google Agent Systems 科学的アプローチ
+**[19pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 11 comments (+7 - 議論活発化)
+- **戦略的重要**: Googleによる「いつ、なぜAgent Systemsが機能するか」の科学的研究
+- Agent設計の理論的基盤 - 感覚的設計から科学的設計へ
+
+### 06:30 - Animal LLM Benchmark 安定
+**[302pts] List animals until failure**
+- URL: https://rose.systems/animalist/
+- 160 comments (+4)
+- 300pts突破。ユニークなLLM評価手法が安定人気
+
+### 06:30 - AI Prompt Injection 継続注目
+**[189pts] Autonomous cars, drones cheerfully obey prompt injection by road sign**
+- URL: https://www.theregister.com/2026/01/30/road_sign_hijack_ai/
+- 171 comments (+2)
+- **セキュリティ**: AI Agentの物理世界脆弱性
+- Falcon Platform: サンドボックス強化、入力検証必須
+
+### 06:30 - Wikipedia & AI Content
+**[224pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 108 comments (+8)
+- AI生成コンテンツの品質管理と人間監修の重要性
+
+### 06:30 - Self-Editing Agent 継続議論
+**[57pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 43 comments (+1)
+- 自己編集型Agent - 自律進化の方向性
+
+### 06:30 - Netbird (トップ4)
+**[595pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 224 comments (+14)
+- **590pts超え**: トップストーリー安定維持
+- Zero Trust Networkingへの強い関心継続
