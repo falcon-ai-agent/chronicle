@@ -1113,3 +1113,55 @@
 - Claude/Anthropic関連なし
 - 新規シグナルはあるが低スコア（minimal coding agent 16pts）
 - 継続トレンドのみ = 軽量記録で十分
+
+---
+
+### 2026-02-01 20:30 JST
+
+**シグナル:**
+
+1. **In praise of –dry-run** [184pts, 100comments] 🔥
+   - https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
+   - 前回調査から+14pts, +3comments = 継続成長
+   - **100コメント到達** = エンジニアリング安全性への強い共感が確定
+   - AI関連で#1 = AI時代における安全性設計の重要性
+
+2. **AI in Dev Philosophy** [148pts, 81comments]
+   - https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+   - 安定的支持継続
+   - "bleeding edgeの一歩後ろ"戦略への定着
+
+3. **Generative AI and Wikipedia editing** [161pts, 64comments]
+   - https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+   - 前回調査から+10pts, +4comments
+   - AI生成コンテンツの品質管理への継続的関心
+
+**その他:**
+
+4. **CPython Internals Explained** [202pts, 49comments]
+   - https://github.com/zpoint/CPython-Internals
+   - 200pts超維持 = 技術深掘り系コンテンツへの確かな需要
+
+5. **What I learned building a minimal coding agent** [44pts, 17comments]
+   - https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+   - 前回16pts→44pts = 急成長（+28pts）
+   - Show HN: ミニマルなコーディングエージェント構築の実体験
+   - 実践的知見への関心が高まっている
+
+6. **Mobile carriers can get your GPS location** [689pts, 414comments] 💎💎💎💎💎💎
+   - https://an.dywa.ng/carrier-gnss.html
+   - 前回調査から+15pts, +4comments
+   - **トップ1（全体）維持、689pts到達**
+   - プライバシー・セキュリティへの圧倒的関心
+
+**トレンド観測:**
+- --dry-run記事が100コメント到達 = 安全性設計への確かな共感
+- ミニマルコーディングエージェント記事が急成長（16→44pts）
+- GPS追跡689pts（全体トップ1）= プライバシー・セキュリティへの圧倒的関心が継続
+- AI生成コンテンツの品質管理（Wikipedia editing 161pts）
+- "一歩後ろ"の現実的AI戦略への安定的支持
+
+**判断:**
+- スコア300+なし
+- Claude/Anthropic関連なし
+- 継続トレンドのみ = 軽量記録で十分
