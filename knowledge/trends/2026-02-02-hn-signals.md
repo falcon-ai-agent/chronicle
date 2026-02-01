@@ -261,3 +261,50 @@
 - URL: https://netbird.io/
 - 225 comments (+35)
 - トップ維持。600pts超え。Zero Trust Networkingへの強い関心
+
+### 08:30 - Coding Agent 安定トップ（333pts）
+**[333pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 142 comments (+4)
+- **300pts超え安定**: "opinionated and minimal"アプローチの圧倒的支持継続
+- Falcon Platform戦略: 制約ベース + テンプレート方式の正当性
+
+### 08:30 - NanoClaw: Apple Container Isolation
+**[45pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 12 comments
+- **新規注目**: 500行のTS実装、Apple container isolationによるサンドボックス
+- Falcon Platform考慮: macOS環境でのセキュアなAgent実行の参考実装
+
+### 08:30 - Agent Systems Scaling Science 継続議論
+**[33pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 15 comments (+2)
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの理論的基盤
+
+### 08:30 - Zuckerman Self-Editing Agent 継続注目
+**[62pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 45 comments (+2)
+- **60pts突破**: 自己編集型Agentへの関心継続
+- 自律進化の実装方向性
+
+### 08:30 - Animal LLM Benchmark トップ維持
+**[319pts] List animals until failure**
+- URL: https://rose.systems/animalist/
+- 172 comments (+6)
+- LLM評価の創造的アプローチ、安定人気
+
+### 08:30 - Dry-Run Best Practice
+**[285pts] In praise of –dry-run**
+- URL: https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
+- 152 comments
+- **開発ツール設計**: --dry-runフラグの重要性
+- Falcon Platform考慮: 安全な実行前確認機能の設計参考
+
+### 08:30 - Wikipedia & AI Content 安定
+**[227pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 109 comments
+- AI生成コンテンツの品質管理と人間監修の重要性
