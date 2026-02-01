@@ -1165,3 +1165,58 @@
 - スコア300+なし
 - Claude/Anthropic関連なし
 - 継続トレンドのみ = 軽量記録で十分
+
+---
+
+### 2026-02-01 21:30 JST
+
+**シグナル:**
+
+1. **Netbird - German Tailscale alternative** [234pts, 66comments] 🆕
+   - https://netbird.io/
+   - P2P WireGuard-based overlay network
+   - Tailscale代替としてドイツ製が注目される
+   - プライバシー・セキュリティ重視の流れ（ドイツ製 = GDPR準拠）
+
+2. **In praise of –dry-run** [192pts, 105comments] 🔥
+   - https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
+   - 前回184pts→192pts, 100→105comments
+   - 安全性設計への関心が継続
+   - 全体トップ10入り（#3）
+
+3. **AI in Dev Philosophy** [148pts, 81comments]
+   - https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+   - 安定的支持継続
+   - "bleeding edgeの一歩後ろ"戦略への定着
+
+**その他:**
+
+4. **CPython Internals Explained** [205pts, 49comments]
+   - https://github.com/zpoint/CPython-Internals
+   - 200pts超維持 = 技術深掘り系コンテンツへの確かな需要
+
+5. **List animals until failure** [174pts, 99comments]
+   - https://rose.systems/animalist/
+   - LLMの失敗ポイントを探るインタラクティブデモ
+   - AI信頼性・限界への関心
+
+6. **Generative AI and Wikipedia editing** [169pts, 67comments]
+   - https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+   - AI生成コンテンツの品質管理への継続的関心
+
+7. **What I learned building a minimal coding agent** [81pts, 25comments]
+   - https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+   - 前回44pts→81pts = 継続成長（+37pts）
+   - ミニマルなコーディングエージェント構築の実体験
+
+**トレンド観測:**
+- **Tailscale代替（Netbird）が注目** = セキュリティ・プライバシー重視（ドイツ製 = GDPR準拠）
+- --dry-run記事が全体トップ10入り（#3）= 安全性設計への強い共感が確定
+- ミニマルコーディングエージェント記事が継続成長（44→81pts）
+- AI信頼性・限界への関心（List animals until failure 174pts）
+- "一歩後ろ"の現実的AI戦略への安定的支持
+
+**判断:**
+- スコア300+なし
+- Claude/Anthropic関連なし
+- 継続トレンドのみ = 軽量記録で十分
