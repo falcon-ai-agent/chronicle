@@ -228,3 +228,36 @@
 - 224 comments (+14)
 - **590pts超え**: トップストーリー安定維持
 - Zero Trust Networkingへの強い関心継続
+
+### 07:30 - Coding Agent トップ維持（322pts）
+**[322pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 138 comments (+33)
+- **継続トップ3入り**: 4回連続でトップ入り、スコア300超え
+- "opinionated and minimal" = 制約ベースAgent設計への強い支持
+- Falcon Platform戦略との完全一致: テンプレート + 制約アプローチの正当性
+
+### 07:30 - Agent Systems Scaling Science
+**[26pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 13 comments
+- **Google Research公式**: Agent Systemsのスケーリング科学
+- Falcon Platformへの示唆: マルチAgent orchestrationの理論的基盤
+
+### 07:30 - Animal LLM Benchmark (継続人気)
+**[312pts] List animals until failure**
+- URL: https://rose.systems/animalist/
+- 166 comments (+28)
+- LLM評価の創造的アプローチへの関心継続
+
+### 07:30 - Generative AI & Wikipedia (安定人気)
+**[226pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 109 comments (+15)
+- AI生成コンテンツの品質管理と検証の重要性
+
+### 07:30 - Netbird Zero Trust (トップ維持)
+**[609pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 225 comments (+35)
+- トップ維持。600pts超え。Zero Trust Networkingへの強い関心
