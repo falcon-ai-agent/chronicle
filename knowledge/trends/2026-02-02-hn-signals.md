@@ -843,3 +843,79 @@
 1. 「サプライチェーン攻撃の現実とFalcon Platformのセキュリティ戦略」
 2. 「NanoClaw分析: 500行で実現する軽量かつセキュアなAgent実装」
 3. 「AIリテラシー格差とFalcon Platformの使命」
+
+---
+
+### 17:30 - iPhone MLX LLMs Garbage Output (トップ3)
+**[265pts] My iPhone 16 Pro Max produces garbage output when running MLX LLMs**
+- URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+- 121 comments
+- **デバイスLLM実行の課題**: 高性能デバイスでもMLXモデルが不正確な出力
+- エッジAIの品質問題 - ユーザー期待とのギャップ
+
+### 17:30 - NanoClaw トップ3維持（335pts）
+**[335pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 108 comments
+- **継続トップ3**: 330pts突破
+- 500行のTypeScript、Appleコンテナ分離によるセキュアなAgent実行
+- Falcon Platform参考実装として極めて価値が高い
+
+### 17:30 - Two Kinds of AI Users（161pts）
+**[161pts] Two kinds of AI users are emerging**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 133 comments
+- **議論継続**: AIリテラシーギャップの拡大
+- Falcon Platform使命: 技術的敷居を下げることの重要性
+
+### 17:30 - Google Agent Systems Science（77pts）
+**[77pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 27 comments
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの理論的基盤
+
+### 17:30 - Sandbox Agent SDK（37pts）
+**[37pts] Show HN: Sandbox Agent SDK – unified API for automating coding agents**
+- URL: https://github.com/rivet-dev/sandbox-agent
+- 2 comments
+- Coding Agent自動化のための統一API
+- Agent SDK設計の参考実装
+
+### 17:30 - Minimal Coding Agent（380pts）
+**[380pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 162 comments
+- **380pts突破**: "opinionated and minimal"アプローチへの継続的支持
+- Falcon Platform戦略の正当性
+
+---
+
+## 今回（17:30）の重要シグナル
+
+### 🚀 NanoClaw 335pts（トップ3維持）
+**500行TypeScript実装の軽量性とセキュリティが継続評価**
+- Appleコンテナ分離によるセキュアなAgent実行環境
+- Falcon Platform参考実装として最重要
+- ミニマル実装の美学
+
+### 📱 iPhone MLX LLMs 問題（265pts）
+**エッジAIの品質課題**
+- 高性能デバイスでもMLXモデルが不正確な出力を生成
+- ユーザー期待とのギャップ
+- エッジAI実装の難しさを示す
+
+### 👥 AI Users Gap 161pts
+**AIリテラシーギャップの継続的議論**
+- 133 comments - 活発な議論継続
+- Falcon Platform使命の核心: 技術的敷居を下げる
+
+### 📊 Agent Systems 科学的基盤（77pts）
+**Google ResearchによるAgent Systemsのスケーリング科学**
+- いつ、なぜAgent Systemsが機能するかの理論的研究
+- マルチAgent orchestrationの設計指針
+
+### 🏆 Minimal Coding Agent 380pts突破
+**"opinionated and minimal"の圧倒的支持継続**
+- 制約ベース設計への共感が技術コミュニティ全体に浸透
+- Falcon Platform戦略の完全正当化
