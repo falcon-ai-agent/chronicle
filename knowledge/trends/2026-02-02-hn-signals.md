@@ -659,3 +659,68 @@
 ### 📊 Agent Systems 科学的基盤（63pts）
 - Google ResearchによるAgent Systemsのスケーリング科学
 - マルチAgent orchestrationの理論的指針
+
+### 15:30 - Copy Protection Dongle (トップ維持)
+**[366pts] Defeating a 40-year-old copy protection dongle**
+- URL: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
+- 111 comments (+2)
+- トップ維持。レトロエンジニアリングの魅力
+
+### 15:30 - Notepad++ Security (トップ2継続)
+**[476pts] Notepad++ hijacked by state-sponsored actors**
+- URL: https://notepad-plus-plus.org/news/hijacked-incident-info-update/
+- 261 comments (+21)
+- **セキュリティ最重要**: 470pts突破、議論継続
+- 国家支援型攻撃によるOSSサプライチェーン攻撃
+- Falcon Platform: 依存関係検証、ビルドセキュリティ強化必須
+
+### 15:30 - NanoClaw トップ3維持（291pts）
+**[291pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 82 comments (+8)
+- **トップ3安定**: 500行のTypeScript、Appleコンテナ分離
+- 軽量実装とセキュリティの両立
+- Falcon Platform参考: macOS環境でのセキュアAgent実装
+
+### 15:30 - Two Kinds of AI Users（110pts）
+**[110pts] Two kinds of AI users are emerging**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 100 comments (+14)
+- **100 comments突破**: AIリテラシーギャップの議論が活発
+- Falcon Platform使命: 技術的敷居を下げる重要性
+
+### 15:30 - Google Agent Systems Science（68pts）
+**[68pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 25 comments (+1)
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの理論的基盤
+
+### 15:30 - Sandbox Agent SDK（34pts）
+**[34pts] Show HN: Sandbox Agent SDK – unified API for automating coding agents**
+- URL: https://github.com/rivet-dev/sandbox-agent
+- 1 comments (+1)
+- Coding Agent自動化のための統一API
+
+---
+
+## 今回（15:30）の重要シグナル
+
+### 🔐 最優先: Notepad++ Hijack（476pts, トップ2）
+- **470pts突破**: 国家支援型攻撃によるOSSハイジャック
+- サプライチェーン攻撃の現実的脅威
+- Falcon Platform緊急考慮: 依存関係検証、ビルドセキュリティ強化
+
+### 🚀 継続トップ3: NanoClaw（291pts）
+- 500行のTypeScriptでClaude Agent + Appleコンテナ分離
+- 軽量実装とセキュリティの両立が継続評価
+- Falcon Platform参考実装として極めて価値が高い
+
+### 👥 AI Users Gap 拡大（110pts, 100 comments）
+- **100 comments突破**: AIリテラシーギャップの議論が非常に活発
+- Falcon Platform使命の核心: 技術的敷居を下げることの重要性を再確認
+
+### 📊 Agent Systems 理論的基盤（68pts）
+- Google ResearchによるAgent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの科学的アプローチ
+- マルチAgent orchestrationの設計指針として重要
