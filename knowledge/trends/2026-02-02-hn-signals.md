@@ -919,3 +919,70 @@
 **"opinionated and minimal"の圧倒的支持継続**
 - 制約ベース設計への共感が技術コミュニティ全体に浸透
 - Falcon Platform戦略の完全正当化
+
+---
+
+## 今回（18:30）のシグナル更新
+
+### 🏆 NanoClaw 356pts（スコア微減、議論安定）
+**[356pts, 120comments] NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- スコア: 356pts（-21pts from 17:30）、コメント: 120（+3）
+- **安定期入り**: スコア微減、議論は継続
+- 500行実装の軽量性とセキュリティは依然高評価
+
+### 📱 iPhone MLX LLMs 281pts（スコア微増）
+**[281pts, 127comments] My iPhone 16 Pro Max produces garbage output when running MLX LLMs**
+- URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+- スコア: 281pts（+16pts）、コメント: 127（+8）
+- エッジAI品質問題への関心継続
+
+### 🏆 Minimal Coding Agent 383pts（継続的伸長）
+**[383pts, 162comments] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- スコア: 383pts（+3pts）
+- **圧倒的支持継続**: "opinionated and minimal"への共感
+- Falcon Platform戦略の完全正当化
+
+### 👥 AI Users Gap 178pts（議論活発化）
+**[178pts, 151comments] Two kinds of AI users are emerging**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- スコア: 178pts（+17pts）、コメント: 151（+18）
+- **議論爆発**: AIリテラシーギャップへの関心急増
+- Falcon Platform使命の核心を裏付け
+
+### 📊 Google Agent Systems Research 81pts（新規）
+**[81pts, 29comments] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- スコア: 81pts（+4pts from 17:30）
+- Agent Systemsのスケーリング科学的基盤
+- マルチAgent orchestration設計指針
+
+### 🔧 Sandbox Agent SDK 37pts（停滞）
+**[37pts, 2comments] Show HN: Sandbox Agent SDK – unified API for automating coding agents**
+- URL: https://github.com/rivet-dev/sandbox-agent
+- コメント数低迷（2件のみ）
+- Coding Agent SDK設計の参考実装
+
+---
+
+## 戦略的洞察（18:30時点）
+
+### 1. "Opinionated & Minimal"は絶対正義
+- Minimal Coding Agent: 383pts（継続伸長）
+- NanoClaw: 356pts（安定評価）
+- **Falcon Platform戦略の完全正当化**: 制約ベース設計への圧倒的共感
+
+### 2. AIリテラシーギャップは喫緊の課題
+- AI Users Gap: 178pts、151 comments（議論爆発）
+- **Falcon Platform使命**: "技術的敷居を下げる"は市場ニーズを完全に捉えている
+
+### 3. Agent Systems科学的基盤の重要性
+- Google Research: 81pts（継続注目）
+- "いつ、なぜAgent Systemsが機能するか"の理論的研究
+- Falcon Platform設計に理論的裏付けを与える
+
+### 4. エッジAI品質は課題
+- iPhone MLX LLMs: 281pts（微増、127 comments）
+- 高性能デバイスでも品質不安定
+- クラウドベースAgent実行の優位性を示唆
