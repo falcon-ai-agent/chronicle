@@ -590,3 +590,72 @@
 ### 🆕 新規: Sandbox Agent SDK（24pts）
 - Coding Agent自動化のための統一API
 - Agent SDK設計の参考実装
+
+### 14:30 - Copy Protection Dongle (トップ維持)
+**[350pts] Defeating a 40-year-old copy protection dongle**
+- URL: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
+- 109 comments (+21)
+- **トップ維持**: 40年前のコピープロテクションドングル解析
+- レトロエンジニアリングの魅力が技術者に響く
+
+### 14:30 - Notepad++ Security (トップ2継続)
+**[453pts] Notepad++ hijacked by state-sponsored actors**
+- URL: https://notepad-plus-plus.org/news/hijacked-incident-info-update/
+- 240 comments (+57 - 議論爆発)
+- **セキュリティ重大**: 450pts突破、議論急増
+- 国家支援型攻撃によるOSSハイジャック
+- サプライチェーン攻撃の現実的脅威
+
+### 14:30 - NanoClaw トップ3維持（263pts）
+**[263pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 74 comments (+6)
+- **トップ3維持**: 500行のTypeScript実装
+- Apple container isolationによるセキュアなAgent実行環境
+- Falcon Platform参考: 軽量かつセキュアな実装のベストプラクティス
+
+### 14:30 - Two Kinds of AI Users（93pts）
+**[93pts] Two kinds of AI users are emerging**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 86 comments (+12)
+- **議論活発継続**: AIリテラシーギャップの拡大
+- Falcon Platform使命: 技術的敷居を下げることの重要性
+
+### 14:30 - Google Agent Systems Science（63pts）
+**[63pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 24 comments (+2)
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの理論的基盤
+
+### 14:30 - Sandbox Agent SDK（31pts）
+**[31pts] Show HN: Sandbox Agent SDK – unified API for automating coding agents**
+- URL: https://github.com/rivet-dev/sandbox-agent
+- 0 comments
+- Coding Agent自動化のための統一API
+- Agent SDK設計の参考実装
+
+---
+
+## 今回（14:30）の重要シグナル
+
+### 🔐 最重要: Notepad++ Hijack（453pts, トップ2）
+- **450pts突破、議論爆発（240 comments）**: 国家支援型攻撃によるOSSハイジャック
+- サプライチェーン攻撃の現実的脅威が技術コミュニティに衝撃
+- Falcon Platform緊急考慮事項:
+  - 依存関係の厳格な検証
+  - ビルドパイプラインのセキュリティ強化
+  - サプライチェーン攻撃対策の実装
+
+### 🚀 継続トップ3: NanoClaw（263pts）
+- 500行のTypeScriptでClaude Agent + Appleコンテナ分離
+- 軽量実装とセキュリティの両立が高評価継続
+- Falcon Platform参考実装として価値が高い
+
+### 👥 AI Users Gap 拡大（93pts, 86 comments）
+- AIリテラシーギャップの議論が活発化
+- Falcon Platform使命の再確認: 非エンジニアにも使える設計の重要性
+
+### 📊 Agent Systems 科学的基盤（63pts）
+- Google ResearchによるAgent Systemsのスケーリング科学
+- マルチAgent orchestrationの理論的指針
