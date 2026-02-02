@@ -1294,3 +1294,133 @@
 2. 「NanoClaw分析: 500行で実現する軽量かつセキュアなAgent実装」（422pts、トップ2）
 3. 「AIリテラシー格差の拡大とFalcon Platformの使命」（245pts、229 comments）
 4. 「エッジAI vs クラウドAI: 品質とコストのトレードオフ」（340pts）
+
+---
+
+## 今回（23:30）のシグナル更新
+
+### 📱 iPhone MLX LLMs トップ3維持（355pts）
+**[355pts, 168comments] My iPhone 16 Pro Max produces garbage output when running MLX LLMs**
+- URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+- スコア: 355pts（+15pts from 22:30）、コメント: 168（+16）
+- **トップ3安定**: エッジAI品質問題への関心継続
+- 高性能デバイスでもMLXモデルが不正確な出力を生成
+- クラウドベースAgent実行の優位性を示す
+
+### 🏆 NanoClaw トップ2維持（438pts）
+**[438pts, 154comments] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- スコア: 438pts（+16pts from 22:30）、コメント: 154（+2）
+- **430pts突破、トップ2安定**: 軽量実装とセキュリティの完璧な両立が最高評価
+- 500行TypeScriptでClaude Agent + Appleコンテナ分離を実装
+- **Falcon Platform最重要参考実装**: すぐに精査すべき
+
+### 👥 AI Users Gap 継続トップ（263pts）
+**[263pts, 243comments] Two kinds of AI users are emerging**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- スコア: 263pts（+18pts from 22:30）、コメント: 243（+14）
+- **240+ comments**: AIリテラシーギャップへの議論が継続的に活発
+- Falcon Platform使命の核心を完全に裏付ける
+
+### 🔐 Claude Code @ Microsoft（61pts）
+**[61pts, 60comments] Claude Code is suddenly everywhere inside Microsoft**
+- URL: https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad
+- スコア: 61pts（+9pts from 22:30）、コメント: 60（+7）
+- **60 comments突破**: MicrosoftのClaude Code全社展開への関心継続
+- 企業向けAgent実行基盤としての可能性
+
+### 📊 Google Agent Systems Science（92pts）
+**[92pts, 34comments] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- スコア: 92pts（+3pts from 22:30）、コメント: 34
+- **90pts突破**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの理論的研究
+- Falcon Platform設計に科学的基盤を提供
+
+### 🔧 Microsoft Windows 11 AI Overload（92pts）
+**[92pts, 124comments] Microsoft is walking back Windows 11's AI overload**
+- URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall
+- スコア: 92pts、コメント: 124
+- **新規シグナル**: MicrosoftがWindows 11のAI統合を見直し
+- AI過剰統合への反発 - ユーザーは押し付けられるAIを嫌う
+- **Falcon Platform戦略**: オプトインアプローチ、ユーザーが選択できる設計が重要
+
+### 🔐 MaliciousCorgi: AI Extensions（25pts）
+**[25pts, 24comments] MaliciousCorgi: AI Extensions send your code to China**
+- URL: https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers
+- スコア: 25pts、コメント: 24
+- **セキュリティ重大**: AI拡張機能が150万開発者のコードを中国に送信
+- サプライチェーン攻撃の新たな形態
+- **Falcon Platform考慮**: 拡張機能のセキュリティ検証、サンドボックス強化
+
+### 🆕 Nano-vLLM: Inference Engine（32pts）
+**[32pts, 1comments] Nano-vLLM: How a vLLM-style inference engine works**
+- URL: https://neutree.ai/blog/nano-vllm-part-1
+- スコア: 32pts
+- vLLMスタイルの推論エンジンの解説
+- LLM推論の内部実装理解のための教育的コンテンツ
+
+---
+
+## 戦略的洞察（23:30時点）
+
+### 🔥 最重要シグナル1: NanoClaw 438pts（トップ2安定）
+**500行TypeScriptで実現する軽量かつセキュアなAgent実装**
+- **430pts突破、トップ2安定**: 軽量性とセキュリティの完璧な両立が最高評価
+- 500行でClaude Agent + Appleコンテナ分離を実装
+- **Falcon Platform最重要参考実装**: すぐに精査すべき
+- ミニマル実装の美学が技術コミュニティで圧倒的支持
+
+### 🔥 最重要シグナル2: AI Users Gap 263pts（243 comments）
+**AIリテラシー格差への関心が継続的に拡大**
+- 263pts、243 comments - 議論が非常に活発
+- 「使いこなすユーザー」と「取り残されるユーザー」の二極化
+- **Falcon Platform存在意義の完全正当化**:
+  - 技術的敷居を徹底的に下げる
+  - 非エンジニアでも即座に価値を得られる設計
+  - この格差を埋めることが最大の市場ニーズ
+
+### 🔐 セキュリティ重大: AI Extensions Leak（25pts, 24 comments）
+**AI拡張機能が150万開発者のコードを中国に送信**
+- MaliciousCorgi: かわいい見た目のAI拡張機能が実はマルウェア
+- サプライチェーン攻撃の新たな形態
+- **Falcon Platform緊急考慮**:
+  - 拡張機能のセキュリティ検証プロセス確立
+  - サンドボックス強化（NanoClawの隔離手法参考）
+  - ユーザーコードの外部送信を厳格に監視
+
+### 🔧 Microsoft AI Overload Walkback（92pts, 124 comments）
+**MicrosoftがWindows 11のAI統合を見直し**
+- AI過剰統合への反発 - ユーザーは押し付けられるAIを嫌う
+- **Falcon Platform戦略**:
+  - オプトインアプローチ: ユーザーが選択できる設計
+  - 必要なときに必要なだけAIを使える柔軟性
+  - 強制的なAI統合は避ける
+
+### 🔐 Claude Code @ Microsoft（61pts, 60 comments）
+**MicrosoftのClaude Code採用が拡大**
+- 企業レベルでのClaude Code利用が急速に増加
+- **Falcon Platform戦略的示唆**:
+  - Claude Codeとの統合、連携を検討すべき
+  - 企業向けAgent実行基盤としてのポジショニング
+
+### 📊 Google Agent Systems Science（92pts）
+**Agent Systemsのスケーリング科学**
+- 90pts突破: いつ、なぜAgent Systemsが機能するかの理論的研究
+- Falcon Platform設計判断に科学的根拠を提供
+
+---
+
+## アクション項目
+
+### 即座に実行:
+1. **NanoClaw精査**: 438pts、トップ2。500行実装を読み込み、Falcon Platformに活用
+2. **セキュリティ強化**: MaliciousCorgi事件を受けて拡張機能セキュリティ検証プロセス確立
+3. **AI Users Gap戦略**: この格差を埋めることがFalcon Platformの最大の価値提案
+
+### ブログ候補（優先度順）:
+1. 「NanoClaw分析: 500行で実現する軽量かつセキュアなAgent実装」（438pts、トップ2）
+2. 「AIリテラシー格差の拡大とFalcon Platformの使命」（263pts、243 comments）
+3. 「AI拡張機能の闇: MaliciousCorgiから学ぶサプライチェーン攻撃対策」（NEW - セキュリティ重大）
+4. 「Claude Code @ Microsoft: 企業AIエージェントの夜明け」（61pts、60 comments）
+5. 「Microsoft AI過剰統合の反省: ユーザー中心のAI設計とは」（92pts、124 comments）
