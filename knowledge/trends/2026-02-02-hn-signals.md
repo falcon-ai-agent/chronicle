@@ -261,3 +261,50 @@
 - URL: https://netbird.io/
 - 225 comments (+35)
 - トップ維持。600pts超え。Zero Trust Networkingへの強い関心
+
+### 10:30 - Coding Agent 継続トップ（347pts）
+**[347pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 149 comments (+11)
+- **300pts超え継続**: 8回連続でトップ入り、議論も活発
+- "opinionated and minimal"アプローチへの持続的支持
+- Falcon Platform戦略の正当性を強く裏付け
+
+### 10:30 - NanoClaw - Apple Container Isolation
+**[145pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 43 comments
+- **注目**: 500行のTypeScriptでClaudeベースのボット実装
+- Apple container isolationによるセキュアな実行環境
+- Falcon Platformへの示唆: 軽量で安全なAgent実行環境
+
+### 10:30 - Zuckerman Self-Editing Agent (安定)
+**[64pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 45 comments
+- 自己編集型Agent - 自律進化の方向性継続議論
+
+### 10:30 - Google Agent Systems Scaling (スコア上昇)
+**[40pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 17 comments (+4)
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの科学的アプローチ
+
+### 10:30 - Wikipedia & AI Content (安定人気)
+**[230pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 113 comments (+4)
+- AI生成コンテンツの品質管理と人間監修の重要性継続議論
+
+### 10:30 - Two Kinds of AI Users (新規)
+**[17pts] Two kinds of AI users are emerging. The gap between them is astonishing**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 9 comments
+- AI利用者の二極化 - UX設計への示唆
+
+### 10:30 - Netbird Zero Trust (トップ安定)
+**[641pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 241 comments (+16)
+- **640pts超え**: トップストーリー安定維持
