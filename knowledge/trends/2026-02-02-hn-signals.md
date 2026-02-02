@@ -1074,3 +1074,108 @@
 1. 「AIリテラシー格差の拡大とFalcon Platformの使命」（最優先）
 2. 「NanoClaw分析: 500行で実現する軽量かつセキュアなAgent実装」
 3. 「エッジAI vs クラウドAI: 品質とコストのトレードオフ」
+
+---
+
+## 今回（20:30）のシグナル更新
+
+### 📱 iPhone MLX LLMs トップ3維持（314pts）
+**[314pts, 135comments] My iPhone 16 Pro Max produces garbage output when running MLX LLMs**
+- URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+- スコア: 314pts（+16pts）、コメント: 135（+5）
+- **トップ3入り継続**: エッジAI品質問題への関心が高まる
+- 高性能デバイスでもMLXモデルが不正確な出力
+- クラウドベースAgent実行の優位性を示唆
+
+### 🏆 NanoClaw トップ2入り（394pts）
+**[394pts, 138comments] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- スコア: 394pts（+20pts）、コメント: 138（+5）
+- **390pts突破、トップ2入り**: 軽量実装とセキュリティの両立が最高評価
+- 500行TypeScriptでClaude Agent + Appleコンテナ分離を実装
+- Falcon Platform参考実装として最重要 - 即座に精査すべき
+
+### 👥 AI Users Gap 継続注目（221pts）
+**[221pts, 194comments] Two kinds of AI users are emerging**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- スコア: 221pts（+19pts）、コメント: 194（+15）
+- **220pts突破**: AIリテラシーギャップへの議論が非常に活発
+- 「使いこなすユーザー」と「取り残されるユーザー」の二極化が加速
+- Falcon Platform使命の核心を完全に裏付け
+
+### 📊 Google Agent Systems Science（87pts）
+**[87pts, 30comments] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- スコア: 87pts（+2pts）、コメント: 30
+- **Agent Systemsのスケーリング科学**: いつ、なぜAgent Systemsが機能するかの理論的研究
+- Falcon Platform設計に科学的基盤を提供
+
+### 🔧 Sandbox Agent SDK（38pts）
+**[38pts, 3comments] Show HN: Sandbox Agent SDK – unified API for automating coding agents**
+- URL: https://github.com/rivet-dev/sandbox-agent
+- スコア: 38pts、コメント: 3
+- Coding Agent自動化のための統一API
+- コメント数低迷、市場反応は限定的
+
+### 🏆 Minimal Coding Agent トップ5復活（385pts）
+**[385pts, 164comments] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- スコア: 385pts（+1pt）、コメント: 164（+1）
+- **安定トップ維持**: "opinionated and minimal"アプローチへの圧倒的支持継続
+- Falcon Platform戦略の完全正当化
+
+---
+
+## 戦略的洞察（20:30時点）
+
+### 🔥 最重要シグナル: NanoClaw 394pts（トップ2入り）
+**500行で実現する軽量かつセキュアなAgent実装が最高評価**
+- **390pts突破、トップ2入り**: 軽量性とセキュリティの完璧な両立
+- 500行TypeScriptでClaude Agent + Appleコンテナ分離を実装
+- **Falcon Platform最重要参考実装**:
+  - ミニマル実装の美学（500行で完結）
+  - コンテナ分離によるセキュリティ確保
+  - macOS環境でのベストプラクティス
+- **即座に精査すべき**: リポジトリを読み込み、アーキテクチャを学ぶ
+
+### 👥 AI Users Gap 221pts（議論爆発）
+**AIリテラシー格差への関心が急激に拡大**
+- 220pts突破、194 comments（非常に活発）
+- 「使いこなすユーザー」と「取り残されるユーザー」の二極化が加速
+- **Falcon Platform存在意義の完全正当化**:
+  - 技術的敷居を徹底的に下げる
+  - 非エンジニアでも即座に価値を得られる設計
+  - テンプレート方式による即座の価値提供
+- **ビジネスチャンス**: この格差を埋めることが最大の市場ニーズ
+
+### 📱 エッジAI品質問題 314pts（トップ3）
+**高性能デバイスでもMLXモデルが不正確**
+- iPhone 16 Pro MaxでもLLM実行時に品質不安定
+- エッジAI実装の難しさを浮き彫りに
+- **戦略的示唆**: クラウドベースAgent実行の優位性
+- Falcon Platformの「VM + クラウドLLM」アプローチの妥当性
+
+### 📊 Agent Systems 科学的基盤 87pts
+**Google ResearchによるAgent Systemsのスケーリング科学**
+- いつ、なぜAgent Systemsが機能するかの理論的研究
+- マルチAgent orchestrationの設計指針
+- Falcon Platform設計判断に科学的根拠を提供
+
+### 🏆 Minimal Coding Agent 385pts（安定トップ）
+**"opinionated and minimal"の圧倒的支持継続**
+- 制約ベース設計への共感が技術コミュニティ全体に浸透
+- Falcon Platform戦略の完全正当化
+- 無限の自由度より、賢い制約とテンプレート
+
+---
+
+## アクション項目
+
+### 即座に実行:
+1. **NanoClaw精査**: 394pts、トップ2入り。500行実装を読み込み、Falcon Platformに活用
+2. **AI Users Gap戦略**: この格差を埋めることがFalcon Platformの最大の価値提案
+
+### ブログ候補:
+1. 「NanoClaw分析: 500行で実現する軽量かつセキュアなAgent実装」（最優先 - トップ2入り）
+2. 「AIリテラシー格差の拡大とFalcon Platformの使命」（221pts、議論爆発）
+3. 「エッジAI vs クラウドAI: 品質とコストのトレードオフ」（314pts）
