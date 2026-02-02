@@ -262,6 +262,54 @@
 - 225 comments (+35)
 - トップ維持。600pts超え。Zero Trust Networkingへの強い関心
 
+<<<<<<< HEAD
+### 10:30 - Coding Agent 継続トップ（347pts）
+**[347pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 149 comments (+11)
+- **300pts超え継続**: 8回連続でトップ入り、議論も活発
+- "opinionated and minimal"アプローチへの持続的支持
+- Falcon Platform戦略の正当性を強く裏付け
+
+### 10:30 - NanoClaw - Apple Container Isolation
+**[145pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 43 comments
+- **注目**: 500行のTypeScriptでClaudeベースのボット実装
+- Apple container isolationによるセキュアな実行環境
+- Falcon Platformへの示唆: 軽量で安全なAgent実行環境
+
+### 10:30 - Zuckerman Self-Editing Agent (安定)
+**[64pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 45 comments
+- 自己編集型Agent - 自律進化の方向性継続議論
+
+### 10:30 - Google Agent Systems Scaling (スコア上昇)
+**[40pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 17 comments (+4)
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの科学的アプローチ
+
+### 10:30 - Wikipedia & AI Content (安定人気)
+**[230pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 113 comments (+4)
+- AI生成コンテンツの品質管理と人間監修の重要性継続議論
+
+### 10:30 - Two Kinds of AI Users (新規)
+**[17pts] Two kinds of AI users are emerging. The gap between them is astonishing**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 9 comments
+- AI利用者の二極化 - UX設計への示唆
+
+### 10:30 - Netbird Zero Trust (トップ安定)
+**[641pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 241 comments (+16)
+- **640pts超え**: トップストーリー安定維持
+=======
 ### 08:30 - Coding Agent 安定トップ（333pts）
 **[333pts] What I learned building an opinionated and minimal coding agent**
 - URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
@@ -369,10 +417,57 @@
 - AI生成コンテンツの品質管理と人間監修の必要性
 - 自動化と人間判断のバランスの重要性
 
+### 10:30 - Coding Agent 継続トップ（347pts）
+**[347pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 149 comments (+6)
+- **300pts超え継続**: 8回連続でトップ入り、議論も活発
+- "opinionated and minimal"アプローチへの持続的支持
+- Falcon Platform戦略の正当性を強く裏付け
+
+### 10:30 - NanoClaw - Apple Container Isolation（145pts）
+**[145pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 43 comments (+12)
+- **注目継続**: 500行のTypeScriptでClaudeベースのボット実装
+- Apple container isolationによるセキュアな実行環境
+- Falcon Platformへの示唆: 軽量で安全なAgent実行環境
+
+### 10:30 - Zuckerman Self-Editing Agent (安定)
+**[64pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 45 comments
+- 自己編集型Agent - 自律進化の方向性継続議論
+
+### 10:30 - Google Agent Systems Scaling (スコア上昇)
+**[40pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 17 comments (+2)
+- **Google Research**: Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの科学的アプローチ
+
+### 10:30 - Wikipedia & AI Content (安定人気)
+**[230pts] Generative AI and Wikipedia editing: What we learned in 2025**
+- URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+- 113 comments (+4)
+- AI生成コンテンツの品質管理と人間監修の重要性継続議論
+
+### 10:30 - Two Kinds of AI Users (新規)
+**[17pts] Two kinds of AI users are emerging. The gap between them is astonishing**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 9 comments
+- AI利用者の二極化 - UX設計への示唆
+
+### 10:30 - Netbird Zero Trust (トップ安定)
+**[641pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 241 comments (+16)
+- **640pts超え**: トップストーリー安定維持
+
 ### 11:30 - Coding Agent ついに351pts突破
 **[351pts] What I learned building an opinionated and minimal coding agent**
 - URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
-- 155 comments (+12)
+- 155 comments (+6)
 - **歴史的マイルストーン**: 350pts突破。本日最高スコア
 - **決定的洞察**: "opinionated and minimal" = 技術者が真に求めるAgent設計哲学
 - Falcon Platform戦略: 制約ベース + テンプレート方式は正しい道
@@ -380,15 +475,15 @@
 ### 11:30 - NanoClaw 急上昇（178pts）
 **[178pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
 - URL: https://github.com/gavrielc/nanoclaw
-- 53 comments (+22 - 議論爆発)
-- **急成長**: 2時間で70pts増加。実装の軽量性とセキュリティが評価
+- 53 comments (+10 - 議論継続)
+- **急成長**: 1時間で33pts増加。実装の軽量性とセキュリティが評価
 - キーワード: 500 lines, TypeScript, Apple container, isolation
 - Falcon Platform参考: macOS環境でのセキュアAgent実装のベストプラクティス
 
 ### 11:30 - Google Agent Systems Science（45pts）
 **[45pts] Towards a science of scaling agent systems: When and why agent systems work**
 - URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
-- 19 comments (+4)
+- 19 comments (+2)
 - **Google Research公式**: いつ、なぜAgent Systemsが機能するかの科学的研究
 - 理論的基盤: マルチAgent orchestrationの設計指針
 - Falcon Platformへの示唆: 感覚的設計から科学的設計へ
@@ -403,9 +498,15 @@
 ### 11:30 - Two Kinds of AI Users（42pts）
 **[42pts] Two kinds of AI users are emerging. The gap between them is astonishing**
 - URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
-- 54 comments
+- 54 comments (+45 - 議論爆発)
 - **ユーザー二極化**: AIを使いこなすユーザーとそうでないユーザーの格差
 - Falcon Platform考慮: 非エンジニア向けの敷居を下げることの重要性
+
+### 11:30 - Netbird Zero Trust (トップ2維持)
+**[671pts] Netbird – Open Source Zero Trust Networking**
+- URL: https://netbird.io/
+- 259 comments (+18)
+- **670pts超え**: トップ2維持
 
 ---
 
@@ -416,7 +517,7 @@
 - "opinionated and minimal" = 技術者が真に求めるAgent設計哲学
 - Falcon Platform戦略の完全正当化: 無限の自由度より賢い制約とテンプレート
 
-### 🚀 急上昇: NanoClaw（178pts, +70pts in 2h）
+### 🚀 急上昇: NanoClaw（178pts, +33pts in 1h）
 - 500行のTypeScriptでClaude Agent + Appleコンテナ分離
 - 軽量実装とセキュリティの両立が高評価
 - Falcon Platform参考実装として極めて価値が高い
