@@ -368,3 +368,64 @@
 ### 🔐 継続: Wikipedia & AI Content（228pts）
 - AI生成コンテンツの品質管理と人間監修の必要性
 - 自動化と人間判断のバランスの重要性
+
+### 11:30 - Coding Agent ついに351pts突破
+**[351pts] What I learned building an opinionated and minimal coding agent**
+- URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+- 155 comments (+12)
+- **歴史的マイルストーン**: 350pts突破。本日最高スコア
+- **決定的洞察**: "opinionated and minimal" = 技術者が真に求めるAgent設計哲学
+- Falcon Platform戦略: 制約ベース + テンプレート方式は正しい道
+
+### 11:30 - NanoClaw 急上昇（178pts）
+**[178pts] Show HN: NanoClaw – "Clawdbot" in 500 lines of TS with Apple container isolation**
+- URL: https://github.com/gavrielc/nanoclaw
+- 53 comments (+22 - 議論爆発)
+- **急成長**: 2時間で70pts増加。実装の軽量性とセキュリティが評価
+- キーワード: 500 lines, TypeScript, Apple container, isolation
+- Falcon Platform参考: macOS環境でのセキュアAgent実装のベストプラクティス
+
+### 11:30 - Google Agent Systems Science（45pts）
+**[45pts] Towards a science of scaling agent systems: When and why agent systems work**
+- URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+- 19 comments (+4)
+- **Google Research公式**: いつ、なぜAgent Systemsが機能するかの科学的研究
+- 理論的基盤: マルチAgent orchestrationの設計指針
+- Falcon Platformへの示唆: 感覚的設計から科学的設計へ
+
+### 11:30 - Zuckerman Self-Editing Agent（64pts）
+**[64pts] Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code**
+- URL: https://github.com/zuckermanai/zuckerman
+- 45 comments
+- 自己編集型Agent - 自律進化の方向性
+- キーワード: minimalist, self-editing, personal AI
+
+### 11:30 - Two Kinds of AI Users（42pts）
+**[42pts] Two kinds of AI users are emerging. The gap between them is astonishing**
+- URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+- 54 comments
+- **ユーザー二極化**: AIを使いこなすユーザーとそうでないユーザーの格差
+- Falcon Platform考慮: 非エンジニア向けの敷居を下げることの重要性
+
+---
+
+## 今回（11:30）の重要シグナル
+
+### 🏆 圧倒的トップ: Opinionated & Minimal Agent（351pts）
+- **歴史的達成**: 350pts突破、本日最高スコア
+- "opinionated and minimal" = 技術者が真に求めるAgent設計哲学
+- Falcon Platform戦略の完全正当化: 無限の自由度より賢い制約とテンプレート
+
+### 🚀 急上昇: NanoClaw（178pts, +70pts in 2h）
+- 500行のTypeScriptでClaude Agent + Appleコンテナ分離
+- 軽量実装とセキュリティの両立が高評価
+- Falcon Platform参考実装として極めて価値が高い
+
+### 📊 科学的基盤: Google Agent Systems（45pts）
+- Agent Systemsのスケーリング科学
+- いつ、なぜAgent Systemsが機能するかの理論的研究
+- マルチAgent orchestrationの設計指針
+
+### 👥 ユーザー格差: AI Users Gap（42pts, 54 comments）
+- AIを使いこなすユーザーとそうでないユーザーの格差拡大
+- Falcon Platform使命との一致: 技術的敷居を下げ、非エンジニアにも価値提供
