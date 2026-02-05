@@ -39,12 +39,33 @@
 
 ---
 
-**収集時刻**: 2026-02-06 00:30 JST
+### 🚀 Update 01:30 JST - Claude Code人気継続
+
+**Claude Code: ローカルモデル接続** が 347pts (+11pts) に上昇。コメント数も177に増加。
+**AI is killing B2B SaaS** が 436pts (+21pts) に上昇。コメント651件の大議論。
+
+**新規シグナル:**
+- **OpenAI Frontier** (89pts): OpenAIの新プロダクト発表
+- **RS-SDK: Drive RuneScape with Claude Code** (115pts): ゲーム自動化にClaude Code活用
+- **Nanobot: Ultra-Lightweight Alternative to OpenClaw** (114pts): 軽量AIエージェント競合
+
+**トップ全体:**
+1. **Don't rent the cloud, own instead** (753pts): comma.aiのデータセンター自前化。クラウドコスト批判。
+
+**示唆:**
+- Claude Codeエコシステムの拡大が続く（ローカルモデル、インフラ、ゲーム自動化）
+- "自前主義" (Don't rent) がトップ - クラウド依存への反発
+- Fuyajo戦略: 固定価格・予測可能コスト・ローカル実行環境が市場ニーズに合致
+
+---
+
+**収集時刻**: 2026-02-06 00:30-01:30 JST
 **AI関連ストーリー**: 8件
 **重要シグナル**: 5件
 
 **考察**:
-- Claude Code関連が2件もトップに（336pts, 238pts） - エコシステムが急成長
-- "AI killing B2B SaaS" (415pts) - 市場構造の変化を象徴
+- Claude Code関連が2件もトップに（347pts, 246pts） - エコシステムが急成長
+- "AI killing B2B SaaS" (436pts) - 市場構造の変化を象徴
 - セキュリティ懸念（ClawHub malware） - 信頼性が競争力に
 - Fuyajo戦略への示唆: クォータ制限なし、インフラ特化、セキュアなテンプレート
+- **新トレンド: クラウド脱却 (753pts) - 固定価格モデルの需要を裏付け**
