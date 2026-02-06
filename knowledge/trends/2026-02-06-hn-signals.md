@@ -1935,3 +1935,103 @@
 **AI関連ストーリー**: 15件
 **重要シグナル**: 8件（うち2件が1000pts超、1件が2000pts超）
 **トップストーリー順位**: #2 Claude Opus 4.6 (2044pts), #4 GPT-5.3-Codex (1352pts), #8 AI Adoption Journey (645pts)
+
+---
+
+## 22:30 収集
+
+### Claude Opus 4.6 (2067pts, 890comments)
+**URL**: https://www.anthropic.com/news/claude-opus-4-6
+
+**シグナル**: **+23pts/1h +14comments/1h** - 深夜も継続成長。TOP 1不動。
+
+**重要度**: CRITICAL - Fuyajo戦略の根幹。
+
+**推移**: 2044pts (21:30) → **2067pts (22:30)** - **+23pts/1h**
+
+### GPT-5.3-Codex (1371pts, 519comments)
+**URL**: https://openai.com/index/introducing-gpt-5-3-codex/
+
+**シグナル**: **+19pts/1h +2comments/1h** - 微増継続。Claude優位変わらず。
+
+**重要度**: HIGH - 競合。ベンチマーク必須。
+
+**推移**: 1352pts (21:30) → **1371pts (22:30)** - **+19pts/1h**
+
+### We tasked Opus 4.6 using agent teams to build a C Compiler (586pts, 568comments)
+**URL**: https://www.anthropic.com/engineering/building-c-compiler
+
+**シグナル**: **+20pts/1h +13comments/1h** - 技術的深堀り継続。
+
+**重要度**: HIGH - Agent Teams実装参考。
+
+**推移**: 566pts (21:30) → **586pts (22:30)** - **+20pts/1h**
+
+### My AI Adoption Journey (673pts, 254comments)
+**URL**: https://mitchellh.com/writing/my-ai-adoption-journey
+
+**シグナル**: **+28pts/1h +13comments/1h** - Mitchell Hashimotoの実践知、堅調。
+
+**重要度**: MEDIUM - 採用戦略の参考。
+
+**推移**: 645pts (21:30) → **673pts (22:30)** - **+28pts/1h**
+
+### A new bill in New York would require disclaimers on AI-generated news content (204pts, 81comments)
+**URL**: https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/
+
+**シグナル**: **+57pts/1h +20comments/1h** - 規制議論活発化。
+
+**重要度**: MEDIUM - 規制リスク。監視対象。
+
+**推移**: 147pts (21:30) → **204pts (22:30)** - **+57pts/1h**
+
+### Claude Opus 4.6 extra usage promo (185pts, 61comments)
+**URL**: https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo
+
+**シグナル**: **+8pts/1h +3comments/1h** - プロモーション安定。
+
+**重要度**: MEDIUM - コスト戦略の参考。
+
+**推移**: 177pts (21:30) → **185pts (22:30)** - **+8pts/1h**
+
+### Hypernetworks: Neural Networks for Hierarchical Data (73pts, 5comments)
+**URL**: https://blog.sturdystatistics.com/posts/hnet_part_I/
+
+**シグナル**: **+6pts/1h +1comment/1h** - 技術解説、安定推移。
+
+**重要度**: LOW - 技術トレンド。参考情報。
+
+**推移**: 67pts (21:30) → **73pts (22:30)** - **+6pts/1h**
+
+### Show HN: Smooth CLI – Token-efficient browser for AI agents (7pts, 0comments)
+**URL**: https://docs.smooth.sh/cli/overview
+
+**シグナル**: AI Agent向けブラウザCLI。トークン効率重視。
+
+**重要度**: LOW - ツールトレンド。監視対象。
+
+**新規検出**: 22:30
+
+---
+
+## 戦略更新（22:30版）
+
+**確定事項:**
+1. **Claude Opus 4.6、深夜も堅調** - 2067pts (+23/1h)、TOP 1不動。
+2. **GPT-5.3-Codex微増継続** - 1371pts (+19/1h)。Claude優位不変。
+3. **Agent Teams関連、技術的深堀り継続** - C Compiler 586pts (+20/1h)。
+4. **AI規制議論活発化** - NY州法案 +57pts/1h、+20comments/1h。
+5. **AI Adoption Journeyが最速成長** - +28pts/1h、+13comments/1h。実践知需要高。
+
+**次のアクション（22:30時点）:**
+1. ✅ **Claude Opus 4.6即時導入** - 最優先維持
+2. ✅ **Agent Teams実装スケジュール策定**
+3. ✅ **GPT-5.3-Codexベンチマーク実施**
+4. ✅ **プロモーション戦略検討**
+5. 🆕 **AI規制コンプライアンス対応強化** - NY州法案議論活発化（+57pts/1h）
+6. 🆕 **AI Adoption Journey精読** - Mitchell Hashimotoの実践知を戦略に反映
+
+**収集時刻**: 2026-02-06 22:30 JST
+**AI関連ストーリー**: 15件
+**重要シグナル**: 8件（うち2件が1000pts超、1件が2000pts超）
+**トップストーリー順位**: #1 Claude Opus 4.6 (2067pts), #4 GPT-5.3-Codex (1371pts), #10 AI Adoption Journey (673pts)
