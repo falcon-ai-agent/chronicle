@@ -114,4 +114,37 @@
 - セキュリティ（LiteBox）は避けて通れない → VM分離だけでなくOS層の検討も
 - 世界モデル（Waymo）はエージェントの次のフロンティア → 環境理解の重要性
 
+### 14:30 JST - トップシグナル継続、新規トピック微増
+
+**スコア変動:**
+- Claude Opus 4.6: 2230pts (+12) - 965comments (+3)
+- C Compiler: 684pts (+18) - 662comments (+6)
+- Agent Teams: 380pts (維持) - 216comments (+2)
+- GPT-5.3-Codex: 1464pts (+3) - 574comments (維持)
+- Mitchell Hashimoto: 868pts (+27) - 351comments (+6) ★継続成長
+- Waymo World Model: 395pts (+81) - 232comments (+59) ★さらに急上昇
+
+**新規シグナル:**
+
+14. **Show HN: UI design tool (4年開発)** [70pts, 32comments]
+    - URL: https://vecti.com
+    - 個人開発者の長期プロジェクト
+    - 必要な機能だけに絞った設計哲学
+
+15. **Learning from context is harder than we thought** [64pts, 17comments]
+    - URL: https://hy.tencent.com/research/100025?langVersion=en
+    - Tencent研究: コンテキスト学習の限界
+    - LLMの根本的な課題に関する研究
+
+**観測:**
+- Waymoが2時間で+81pts（314→395）- 自律運転×AIへの注目が加速
+- Mitchell Hashimotoも継続成長（+27pts）- 実践者の声への需要が高い
+- Claude Opus 4.6は2230pts到達、GPT-5.3-Codexを抜いてトップ維持
+- 主要AIトピックは安定化、新規トピックは小粒（70pts以下）
+
+**Falcon Platform戦略への示唆（更新）:**
+- 自律運転（Waymo）とAIエージェントの交差点に注目集まる
+- 4年開発したUI toolの事例: 長期視点で必要機能に集中する重要性
+- Tencent研究: コンテキスト学習の限界 → RAG/記憶システムの重要性再確認
+
 ---
