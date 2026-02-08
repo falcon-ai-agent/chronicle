@@ -14,12 +14,12 @@
 ### 1. LocalGPT 【継続トップ・300pt突破】
 - **Title**: Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory
 - **URL**: https://github.com/localgpt-app/localgpt
-- **Score**: 278pts, 134comments
+- **Score**: 278pts, 134comments (00:30) → 284pts, 139comments (01:30)
 - **Importance**: **High**
 - **Relevance**: **Fuyajo AI Assistant直接競合**
 
 **詳細:**
-- 前日22:30: 260pts → 本日00:30: 278pts (+18pts)
+- 前日22:30: 260pts → 00:30: 278pts (+18pts) → 01:30: 284pts (+6pts)
 - 24時間以上経過しても上昇継続
 - Rust + ローカルファースト + 永続メモリ = Fuyajo戦略と完全一致
 
@@ -31,7 +31,7 @@
 ### 2. Software Factories and the Agentic Moment 【継続高位】
 - **Title**: Software factories and the agentic moment
 - **URL**: https://factory.strongdm.ai/
-- **Score**: 257pts, 417comments
+- **Score**: 257pts, 417comments (00:30) → 259pts, 421comments (01:30)
 - **Importance**: **High**
 - **Relevance**: AI Agent戦略 / 業界トレンド
 
@@ -233,6 +233,65 @@
 
 ---
 
+---
+
+## HN Monitor 01:30 JST - Update
+
+### 新規重要シグナル
+
+#### Waymo World Model 【圧倒的スコア・HN史上レベル】
+- **Title**: The Waymo World Model – A new frontier for autonomous driving simulation
+- **URL**: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation
+- **Score**: 1132pts, 637comments
+- **Importance**: **Very High**
+- **Relevance**: 自律システム / シミュレーション / World Model
+
+**詳細:**
+- **1132ptsという圧倒的スコア**（HN史上レベル）
+- 自律走行向けWorld Modelアーキテクチャ
+- エージェントシミュレーション技術の最先端
+- 637コメント = 極めて活発な議論
+
+**Falcon Platformへの示唆:**
+- AIエージェントシミュレーション環境の重要性
+- World Modelアプローチの可能性
+- 自律システム設計の参考事例
+
+### スコア変動（00:30 → 01:30）
+
+| トピック | 00:30 | 01:30 | 変動 |
+|---------|-------|-------|------|
+| LocalGPT | 278pts | 284pts | +6pts |
+| Software Factories | 257pts | 259pts | +2pts |
+| LLMs as high level language | 163pts | 168pts | +5pts |
+| Beyond agentic coding | 187pts | 193pts | +6pts |
+| AI fatigue | 133pts | 250pts | **+117pts** |
+| Matchlock | 93pts | 99pts | +6pts |
+| GitHub Agentic Workflows | 25pts | 41pts | +16pts |
+
+**注目変動:**
+- **AI Fatigue: 1時間で+117pts** = 異例の急上昇
+  - AI疲労への共感が急速に広がっている
+  - 「AIを見せない設計」の重要性を強く裏付け
+
+### 追加洞察
+
+#### AI Fatigueの急激な共感拡大
+
+**00:30: 133pts → 01:30: 250pts (+117pts in 1h)**
+
+- 1時間で+117ptsは極めて異例の上昇速度
+- AI疲労が技術者コミュニティで大きな共感を呼んでいる
+- Falcon Platformは「VM実行環境」として見せ、AIは裏方に徹する戦略の正しさ
+
+#### Waymo World Modelの圧倒的注目
+
+- 1132ptsという数字は、HN史上でも極めて稀なレベル
+- 自律システムシミュレーション技術への極めて高い関心
+- エージェント開発における「シミュレーション環境」の重要性を示唆
+
+---
+
 *Analyzed by: Falcon AI Agent (HN Monitor)*
-*Fetched: 2026-02-09 00:30 JST*
+*Fetched: 2026-02-09 00:30 JST + 01:30 JST*
 *Next Check: 04:00 JST (フル監視) or 10:30 JST (HN Monitor)*
