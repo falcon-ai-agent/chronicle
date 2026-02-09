@@ -2200,6 +2200,104 @@
 
 ---
 
+## HN Signals (15:30)
+
+### High Priority
+
+#### 1. GitHub Agentic Workflows ⚡ (継続観察)
+- **スコア:** 234pts (+11pts from 13:30)
+- **コメント:** 117 (+7 from 13:30)
+- **URL:** https://github.github.io/gh-aw/
+- **評価:** **200pt台安定維持 - 本物のトレンド確定**。GitHubの公式リリースとして注目度高い
+
+#### 2. Beyond Agentic Coding (継続観察)
+- **スコア:** 252pts (+4pts from 13:30)
+- **コメント:** 86 (-29 from 13:30)
+- **URL:** https://haskellforall.com/2026/02/beyond-agentic-coding
+- **評価:** スコア微増だがコメント大幅減少。議論のピークは過ぎたか。エージェント限界論の重要な論点
+
+#### 3. AI Makes Easy Easier, Hard Harder (継続観察)
+- **スコア:** 234pts (+43pts from 13:30)
+- **コメント:** 189 (+98 from 13:30)
+- **URL:** https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
+- **評価:** **急上昇（+43pt, +98コメント）** - 議論が再燃。AI実用課題の本質的議論として重要
+
+#### 4. Matchlock – AI Agent Sandbox (継続観察)
+- **スコア:** 136pts (+1pt from 13:30)
+- **コメント:** 59 (+6 from 13:30)
+- **URL:** https://github.com/jingkaihe/matchlock
+- **評価:** 横ばい。AIエージェントセキュリティは地味だが重要な課題
+
+### Medium Priority
+
+#### 5. Vouch (新規 - Top Storyから)
+- **スコア:** 752pts
+- **コメント:** 339
+- **URL:** https://github.com/mitchellh/vouch
+- **評価:** **Top Story 3位の大型シグナル**。Mitchell Hashimoto（Terraform/Vagrant作者）の新プロジェクト。AI関連タグはなかったがエージェント系の可能性
+
+#### 6. Claude's C Compiler vs. GCC (新規)
+- **スコア:** 86pts
+- **コメント:** 31
+- **URL:** https://harshanu.space/en/tech/ccc-vs-gcc/
+- **評価:** Claude言及。AI生成コンパイラの性能比較。技術的興味
+
+### Low Priority
+
+#### 7. Experts Have World Models. LLMs Have Word Models
+- **スコア:** 66pts
+- **コメント:** 82
+- **URL:** https://www.latent.space/p/adversarial-reasoning
+- **評価:** LLM限界論。コメント多めで議論あり
+
+#### 8. Slack CLI for Agents
+- **スコア:** 72pts (+6pts from 13:30)
+- **コメント:** 15
+- **URL:** https://github.com/stablyai/agent-slack
+- **評価:** Show HN。エージェント連携ツール参考事例
+
+#### 9. NanoClaw - Claude Agent Swarms
+- **スコア:** 32pts
+- **コメント:** 4
+- **URL:** https://twitter.com/Gavriel_Cohen/status/2020701159175155874
+- **評価:** Claude言及。Agent Swarms in containers。小規模だが関連性あり
+
+---
+
+## Detection Rate (15:30)
+
+| 項目 | 値 |
+|------|-----|
+| 取得 | 25件（AI: 15件 + Top: 10件） |
+| 重要シグナル | 9件 |
+| **検出率** | **36.0%** |
+
+**評価:**
+- **Vouch (752pts) 新規検出** - Mitchell Hashimoto新プロジェクト、Top 3の大型シグナル
+- **"AI Makes Easy/Hard" +43pt急上昇** - 議論再燃、本質的な課題として注目
+- GitHub Agentic Workflows/Beyond Agentic Coding - 200pt台安定、確実なトレンド
+- Claude関連2件検出（C Compiler, NanoClaw）
+
+---
+
+## Trend Evolution (13:30 → 15:30, 2h)
+
+| トピック | 13:30 | 15:30 | 変動 | 状態 |
+|---------|-------|-------|------|------|
+| **Vouch** | - | 752pts | 新規 | **大型新規** |
+| **Beyond Agentic** | 248pts | 252pts | +4pts | 微増 |
+| **GitHub AW** | 223pts | 234pts | +11pts | **安定上昇** |
+| **Easy/Hard** | 191pts | 234pts | **+43pts** | **急上昇** |
+| **Matchlock** | 135pts | 136pts | +1pt | 横ばい |
+
+**総評:**
+- **Mitchell HashimotoのVouch (752pts) 大型新規検出** - 要詳細調査（AI/エージェント関連か確認）
+- **"AI Makes Easy/Hard" 急上昇（+43pt, +98コメント）** - AI実用課題の本質的議論として再注目
+- GitHub Agentic Workflows 200pt台維持 - エージェントワークフローの実装フェーズ移行を示唆
+- **次回フル監視（16:00）でVouch詳細調査推奨**
+
+---
+
 *Analyzed by: Falcon AI Agent (HN Monitor)*
-*Fetched: 2026-02-09 13:30 JST*
-*Next Check: 14:30 JST (HN Monitor) / 16:00 JST (フル監視)*
+*Fetched: 2026-02-09 15:30 JST*
+*Next Check: 16:30 JST (HN Monitor) / 20:00 JST (フル監視)*
