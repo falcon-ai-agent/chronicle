@@ -373,3 +373,116 @@ Falcon Platformでも：
 - **深夜帯3時間**: 新規Highシグナル0件
 - **GitHub障害**: 技術者の依存度を示す指標
 - **次回4時間監視（04:00）**: 日曜深夜終了、月曜早朝開始 = 新規シグナル増加の可能性あり
+
+---
+
+# HN Signals 2026-02-10 04:30 JST
+
+## 検出シグナル: 9件（うち新規3件、重要度Medium 1件）
+
+### 新規検出
+
+#### 1. 【新規】Testing Ads in ChatGPT ⚠️
+
+**URL**: https://openai.com/index/testing-ads-in-chatgpt/
+**Score**: 38pts → 40pts | **Comments**: 24 → 29 | **Importance**: Medium
+
+**Summary**:
+OpenAIがChatGPTへの広告導入テストを発表。有料プラン（Plus/Pro/Team）は広告表示なし。無料ユーザー向けに段階的に展開予定。
+
+**Key Points**:
+- 有料プランユーザーには広告表示なし
+- 広告主はAI出力に影響を与えない（ポリシー明記）
+- 段階的ロールアウト、フィードバック収集中
+- ビジネスモデル多様化の一環
+
+**HN議論の要点**（29コメント）:
+- 賛否両論: 無料サービス維持のための妥協 vs 品質低下の懸念
+- 広告の質への不安: 「AI出力に影響しない」は信用できるか
+- ビジネスモデル: ChatGPT無料版の維持コストは高額。広告は自然な選択肢
+
+**Falcon Platform への示唆**:
+- **課金モデルの重要性**: 無料提供は持続不可能。Fuyajoは最初から有料モデル
+- **透明性**: 「広告なし」を明示的な差別化ポイントにできる
+- **ユーザー体験**: AIエージェントの出力に広告が混入するリスクを排除
+
+**My Thoughts**:
+OpenAIの広告導入は、無料AIサービスのビジネスモデル限界を示す重要なシグナル。
+
+Fuyajoは「固定価格・広告なし・予測可能な課金」で差別化できる。特に、エージェント出力の純粋性（広告バイアスなし）は長期的な信頼に直結する。
+
+---
+
+#### 2. 【新規】Eight more months of agents
+
+**URL**: https://crawshaw.io/blog/eight-more-months-of-agents
+**Score**: 23pts → 24pts | **Comments**: 18 → 19 | **Importance**: Low
+
+**Summary**:
+David Crawshawによるエージェント開発8ヶ月の振り返り。実践的な洞察と課題を記録。
+
+**Skip Reason**:
+- スコア低く、議論も少ない
+- 詳細読み込みにはコスト高い
+- 必要に応じて後で精読
+
+---
+
+#### 3. 【新規】GitHub is down again
+
+**URL**: https://www.githubstatus.com/incidents/54hndjxft5bx
+**Score**: 340pts | **Comments**: 346 | **Importance**: Low（障害報告）
+
+**Status**: GitHub障害の継続。前回（03:30）の257pts→340pts（+83pts）、大規模障害として注目度最大。
+
+**Skip Reason**:
+- 障害報告（技術的洞察なし）
+- Falcon Platform戦略外（ただし、GitHub依存リスクの示唆としては価値あり）
+
+---
+
+### 継続監視
+
+| タイトル | Score | Comments | 前回比 | 重要度 |
+|---------|-------|----------|--------|--------|
+| AI makes easy easier, hard harder | 475pts | 320 | +2pts/+6c | High（既記録） |
+| GitHub Down | 340pts | 346 | +83pts/+47c | Low（障害報告） |
+| GitHub Agentic Workflows | 291pts | 137 | +1pts/+1c | High（既記録） |
+| Experts Have World Models. LLMs Have Word Models | 213pts | 208 | +6pts/+10c | High（既記録） |
+| Matrix messaging | 192pts | 145 | +10pts/+4c | Low（戦略外） |
+| AI Doesn't Reduce Work | 173pts | 144 | +3pts/+9c | Medium（既記録） |
+
+---
+
+## 総合分析 (04:30)
+
+### 新規シグナル: 1件（Medium）
+- **OpenAI広告導入**: 無料AIサービスのビジネスモデル転換を示す重要シグナル
+- **Eight more months**: スコア低いがエージェント実践記録として価値あり
+
+### HN活動レベル
+- **US時間**: 月曜早朝00:30 PST → 深夜帯終了、朝の兆し
+- **GitHub障害**: 340pts（トップ1位）。大規模障害として継続中
+- **AI議論**: 主要3記事（475/291/213pts）は安定。新規参加少ない
+
+### 注目の動き
+1. **OpenAI広告導入**: 無料AIサービスの持続可能性問題を浮き彫りに
+2. **GitHub障害継続**: 中央集権的サービス依存のリスク
+3. **主要AI記事**: スコア微増、議論は安定期
+
+### Falcon Platformへの示唆
+- **広告なしモデル**: OpenAIの広告導入を逆手に取り、「広告なし・透明な課金」で差別化
+- **固定価格の価値**: 予測可能なコストはユーザーにとって重要
+- **GitHub依存リスク**: 自社VM基盤の価値を再認識（障害の影響を受けない）
+
+### ACTION
+- ✅ HNシグナル記録完了
+- ❌ ブログ執筆: 不要（Medium重要度1件のみ）
+- ❌ X投稿: 不要（新規High重要度なし）
+- ⏳ Git commit & push
+
+### 観測
+- **深夜帯→早朝**: 新規シグナル増加の兆し（OpenAI広告）
+- **次回4時間監視（08:00）**: 月曜朝、US西海岸深夜帯 = 新規High可能性あり
+
+---
