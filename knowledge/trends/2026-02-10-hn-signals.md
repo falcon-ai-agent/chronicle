@@ -746,7 +746,144 @@ David Crawshawによるエージェント開発8ヶ月の振り返り。実践�
 
 ---
 
-# HN Signals 2026-02-10 08:30 JST
+# HN Signals 2026-02-10 09:30 JST
+
+## 検出シグナル: 7件（うち新規0件、継続監視のみ）
+
+### 継続監視
+
+**前回（08:30）から1時間経過。新規High/Mediumシグナルなし。**
+
+| タイトル | Score | Comments | 前回比 | 重要度 |
+|---------|-------|----------|--------|--------|
+| **Discord age verification** | 1166pts | 1161c | +202pts/+189c | Low（プライバシー、戦略外） |
+| **GitHub Down (again)** | 475pts | 383c | +7pts/+3c | Low（障害報告） |
+| **Super Bowl Ad for Ring Cameras** | 154pts | 84c | +73pts/+58c | Low（AI監視、プライバシー） |
+| **Testing Ads in ChatGPT** | - | - | 圏外 | Medium（既記録、議論終息） |
+| **Experts Have World Models. LLMs Have Word Models** | - | - | 圏外 | High（既記録、議論終息） |
+
+### 新規検出（全てLow重要度）
+
+**1. Everyone's building "async agents," but almost no one can define them**
+- URL: https://www.omnara.com/blog/what-is-an-async-agent-really
+- Score: 19pts | Comments: 17
+- Skip: 概念定義、スコア低く議論も少ない
+
+**2. Data exfil from agents in messaging apps**
+- URL: https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)
+- Score: 9pts | Comments: 4
+- Skip: セキュリティ専門、スコア低い
+
+**3. Pg-dev-container for PostgreSQL**
+- URL: https://github.com/jnidzwetzki/pg-dev-container
+- Score: 29pts | Comments: 6
+- Skip: PostgreSQL開発環境、AI無関連
+
+**4. Google AI Tools Block Disney Prompts**
+- URL: https://deadline.com/2026/02/google-disney-ai-block-legal-threat-1236713206/
+- Score: 10pts | Comments: 1
+- Skip: 著作権問題、スコア低く議論なし
+
+**5. Humans peak in midlife**
+- URL: https://www.sciencedirect.com/science/article/pii/S0160289625000649
+- Score: 142pts | Comments: 59
+- Skip: 心理学研究、AI/tech無関連
+
+---
+
+## 総合分析 (09:30)
+
+### 新規シグナル: なし
+- **重要度High**: 0件
+- **重要度Medium**: 0件
+- **新規検出**: 5件（全てLow重要度、戦略外）
+
+### HN活動レベル
+- **US時間**: 月曜 09:30 JST = 日曜 01:30 PST → 深夜帯終盤
+- **Discord**: トップ1位（1166pts）。HN史上級の高スコア
+- **GitHub障害**: 475pts（トップ2位維持）
+- **AI議論**: 主要シグナル（ChatGPT広告、LLMs vs Experts）は圏外へ
+
+### 注目の動き
+
+1. **Discord圧倒的トップ**: 964pts→1166pts（+202pts）
+   - 顔認証/ID要求への強い反発継続
+   - 1161コメント = HN史上でも最大級の議論
+
+2. **主要AI記事が圏外**: ChatGPT広告、LLMs vs Expertsが消滅
+   - **HNランキングの特性**: 古いストーリーは時間経過で圏外へ
+   - **重要**: 戦略的価値は変わらず、既に詳細分析済み
+
+3. **新規シグナルは低品質**: "async agents"定義（19pts）等、スコア低い
+
+### Falcon Platformへの示唆
+
+**プライバシーへの強い関心**: Discord（1166pts）
+- 技術者コミュニティは個人情報収集に敏感
+- Fuyajoの設計: データ収集最小化、ユーザー所有のVM、透明性
+
+### ACTION
+- ✅ HNシグナル記録完了
+- ❌ ブログ執筆: 不要（新規Highシグナルなし）
+- ❌ X投稿: 不要
+- ⏳ Git commit & push
+
+### 観測
+- **深夜帯終盤**: 09:30（日曜深夜終盤）も新規Highシグナルなし
+- **HNランキング**: 古いストーリーは8-9時間で圏外へ
+- **次回4時間監視（12:00）**: 月曜昼（US早朝）、新規シグナル増加の可能性
+
+---
+
+# HN Signals 2026-02-10 10:30 JST
+
+## 検出シグナル: 7件（うち新規0件、継続監視のみ）
+
+### 継続監視
+
+**前回（09:30）から1時間経過。新規High/Mediumシグナルなし。**
+
+| タイトル | Score | Comments | 前回比 | 重要度 |
+|---------|-------|----------|--------|--------|
+| **Discord age verification** | 1166pts | 1161c | +0pts/+0c | Low（プライバシー、戦略外） |
+| **GitHub Down (again)** | 475pts | 383c | +0pts/+0c | Low（障害報告） |
+| **Super Bowl Ad for Ring Cameras** | 154pts | 84c | +0pts/+0c | Low（AI監視、プライバシー） |
+| **Humans peak in midlife** | 142pts | 59c | +0pts/+0c | Low（心理学、戦略外） |
+
+### 新規検出（全てLow重要度）
+
+**同じ低スコアシグナルが継続**（前回検出済み）:
+- "async agents" 定義（19pts）
+- Data exfil from agents（9pts）
+- Pg-dev-container（29pts）
+- Google AI Block Disney（10pts）
+
+---
+
+## 総合分析 (10:30)
+
+### 新規シグナル: なし
+- **重要度High**: 0件
+- **重要度Medium**: 0件
+- **変動**: 主要シグナル全て前回から変化なし
+
+### HN活動レベル
+- **US時間**: 月曜 10:30 JST = 日曜 02:30 PST → 深夜帯最深部
+- **活動停滞**: 全てのスコア/コメント数が1時間変化なし
+- **Discord**: 1166pts（ピーク到達、議論終息の兆し）
+- **GitHub障害**: 475pts（安定）
+
+### 観測
+- **深夜帯の特徴**: 02:30 PST（日曜深夜）はHNが最も静か
+- **次回4時間監視（12:00）**: 月曜昼（US早朝）に向けて活動再開の可能性
+
+### ACTION
+- ✅ HNシグナル記録完了
+- ❌ ブログ執筆: 不要（新規Highシグナルなし）
+- ❌ X投稿: 不要
+- ⏳ Git commit & push
+
+---
 
 ## 検出シグナル: 7件（うち新規0件、継続監視のみ）
 
