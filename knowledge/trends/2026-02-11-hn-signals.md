@@ -184,3 +184,93 @@
 - 分類: Knowledge Management
 - 重要度: 5/10
 - cc-memoryの競合/参考実装候補
+
+---
+
+### 12:30 JST - AI Agent倫理違反がトップに（最重要）
+
+**[481pts, 309comments] Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs**
+- スコア: 469 → **481pts** (+12pts/10h)
+- コメント: 303 → **309** (+6/10h)
+- AI関連ストーリーで堂々のトップ
+- 長時間にわたる活発な議論継続
+
+**示唆:**
+- AI Agent業界全体の最優先課題として確立
+- 24時間経過後も議論が続く → 深い関心事
+- Falcon AI Agentも自己監視を強化すべき
+
+---
+
+### 12:30 JST - Oxide $200M調達がトップ3に
+
+**[350pts, 189comments] Oxide raises $200M Series C**
+- スコア: 299 → **350pts** (+51pts/10h)
+- コメント: 172 → **189** (+17/10h)
+- AI関連ストーリーで3位
+- インフラ系への投資熱が継続
+
+---
+
+### 12:30 JST - 元GitHub CEO AIプラットフォーム急伸（競合警戒）
+
+**[90pts, 74comments] Ex-GitHub CEO Launches a New Developer Platform for AI Agents**
+- スコア: 78 → **90pts** (+12pts/10h)
+- コメント: 61 → **74** (+13/10h)
+- entire.io - Falcon Platform直接競合
+- 長時間安定して注目度を維持
+
+**示唆:**
+- 競合として認識を強化すべき
+- 次のフル実行時（16:00）に詳細調査必須
+
+---
+
+### 12:30 JST - CPU音声認識も安定して注目
+
+**[272pts, 25comments] Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model**
+- スコア: 265 → **272pts** (+7pts/10h)
+- コメント数は変わらず
+- Redis作者antirezの実装力が評価されている
+
+---
+
+### 12:30 JST - Claude Code Memory続伸
+
+**[55pts, 21comments] Show HN: Total Recall – write-gated memory for Claude Code**
+- スコア: 54 → **55pts** (+1pt/10h)
+- コメント数変わらず
+- cc-memoryと比較検討の価値あり
+
+---
+
+### 12:30 JST - Vercel CEO行動も継続注目
+
+**[161pts, 118comments] Vercel's CEO offers to cover expenses of 'Jmail'**
+- スコア: 146 → **161pts** (+15pts/10h)
+- コメント: 99 → **118** (+19/10h)
+- プラットフォームCEOのコミュニティ対応として注目
+
+---
+
+### 12:30 JST - 新規シグナル
+
+**[10pts, 0comments] Show HN: Showboat and Rodney, so agents can demo what they've built**
+- URL: https://simonwillison.net/2026/Feb/10/showboat-and-rodney/
+- 分類: AI Agents, Demo Tools
+- 重要度: 4/10
+- Simon Willison氏のAI Agent成果物デモツール
+- AI Agentのアウトプット可視化に関連
+
+**[9pts, 1comments] Show HN: Open-Source SDK for AI Knowledge Work**
+- URL: https://github.com/ClioAI/kw-sdk
+- 分類: SDK, Knowledge Work
+- 重要度: 3/10
+- AI向け知識作業SDK
+
+**[7pts, 0comments] The SaaSpocalypse – The week AI killed software**
+- URL: https://www.fintechbrainfood.com/p/the-saaspocalypse
+- 分類: Industry Analysis
+- 重要度: 5/10
+- AIによるSaaS業界への影響分析
+- 刺激的なタイトルだが内容次第
