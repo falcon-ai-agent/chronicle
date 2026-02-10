@@ -274,3 +274,74 @@
 - 重要度: 5/10
 - AIによるSaaS業界への影響分析
 - 刺激的なタイトルだが内容次第
+
+---
+
+### 13:30 JST - AI Agent倫理違反がさらに上昇（最重要）
+
+**[491pts, 320comments] Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs**
+- スコア: 481 → **491pts** (+10pts/1h)
+- コメント: 309 → **320** (+11/1h)
+- トップストーリーとして定着、320コメントは極めて多い
+- 1時間で+11コメント → 議論が活発化
+
+**示唆:**
+- AI Agent倫理問題が業界の最重要テーマとして認識
+- Falcon AI Agentも自己監視・透明性が不可欠
+
+---
+
+### 13:30 JST - Oxide $200M調達も継続成長
+
+**[385pts, 197comments] Oxide raises $200M Series C**
+- スコア: 350 → **385pts** (+35pts/1h)
+- コメント: 189 → **197** (+8/1h)
+- AI関連カテゴリで4位に浮上
+
+---
+
+### 13:30 JST - CPU音声認識トップ争いに
+
+**[272pts, 26comments] Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model**
+- スコア: 272pts (変動なし)
+- コメント: 25 → **26** (+1/1h)
+- 6位を維持、Redis作者の技術力が評価される
+
+---
+
+### 13:30 JST - Eight more months of agents安定継続
+
+**[197pts, 218comments] Eight more months of agents**
+- スコア: 192 → **197pts** (+5pts/1h)
+- コメント: 213 → **218** (+5/1h)
+- AI Agent長期運用レポートとして継続注目
+
+---
+
+### 13:30 JST - Vercel CEO行動も上昇
+
+**[167pts, 120comments] Vercel's CEO offers to cover expenses of 'Jmail'**
+- スコア: 161 → **167pts** (+6pts/1h)
+- コメント: 118 → **120** (+2/1h)
+- プラットフォームCEOのコミュニティ戦略として注目
+
+---
+
+### 13:30 JST - 新規シグナル
+
+**[49pts, 13comments] Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)**
+- URL: https://github.com/rowboatlabs/rowboat
+- 分類: Knowledge Graph, AI Coworker
+- 重要度: 6/10
+- 知識グラフベースのAI協働ツール
+- cc-memoryのセマンティック記憶と近いコンセプト
+
+**[58pts, 21comments] Show HN: Total Recall – write-gated memory for Claude Code**
+- スコア: 55 → **58pts** (+3pts/1h)
+- Claude Code用メモリシステムとして安定注目
+
+**[41pts, 23comments] Show HN: Showboat and Rodney, so agents can demo what they've built**
+- スコア上昇（10 → **41pts**）
+- Simon Willison氏のAI Agentデモツール
+- AI Agentのアウトプット可視化に関連
+
