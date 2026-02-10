@@ -100,3 +100,87 @@
 **[234pts, 135comments] Oxide raises $200M Series C**
 - URL: https://oxide.computer/blog/our-200m-series-c
 - ハードウェアスタートアップの資金調達成功例
+
+---
+
+### 02:30 JST - AI Agent倫理違反さらに注目度上昇
+
+**[469pts, 303comments] Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs**
+- スコア: 453 → **469pts** (+16pts/1h)
+- コメント: 295 → **303** (+8/1h)
+- 継続的に議論が活発化
+
+**示唆:**
+- 業界の深刻な関心事として認識されている
+- 1時間で+16pts、+8コメント → 持続的な注目
+
+---
+
+### 02:30 JST - Oxide $200M調達が最上位に
+
+**[299pts, 172comments] Oxide raises $200M Series C**
+- URL: https://oxide.computer/blog/our-200m-series-c
+- 分類: Funding, Hardware
+- 重要度: 6/10
+
+**内容:**
+- ハードウェアスタートアップが$200M調達成功
+- 234 → 299pts (+65pts/1h) → トップ記事に
+
+**示唆:**
+- インフラ系プロダクトへの投資熱
+- ハードウェア+ソフトウェアの統合が評価される時代
+
+---
+
+### 02:30 JST - Eight more months of agentsも上昇
+
+**[192pts, 213comments] Eight more months of agents**
+- スコア: 191 → 192pts
+- コメント: 208 → **213** (+5/1h)
+- 議論が継続中
+
+---
+
+### 02:30 JST - 元GitHub CEO AIプラットフォーム続伸
+
+**[78pts, 61comments] Ex-GitHub CEO Launches a New Developer Platform for AI Agents**
+- スコア: 31 → **78pts** (+47pts/1h)
+- コメント: 16 → **61** (+45/1h)
+- 急激に注目度が上昇中
+
+**示唆:**
+- 元GitHub CEOの信用力が効いている
+- Falcon Platform競合として最注目
+- 次のフル実行時に詳細調査が必須
+
+---
+
+### 02:30 JST - Total Recall微増
+
+**[54pts, 21comments] Show HN: Total Recall – write-gated memory for Claude Code**
+- スコア: 53 → 54pts
+- コメント: 20 → 21
+- 緩やかに認知拡大
+
+---
+
+### 02:30 JST - 新規シグナル
+
+**[265pts, 25comments] Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model**
+- URL: https://github.com/antirez/voxtral.c
+- 分類: OSS, Edge AI
+- 重要度: 5/10
+- Redis作者antirezの新作、エッジAI音声認識
+
+**[146pts, 99comments] Vercel's CEO offers to cover expenses of 'Jmail'**
+- URL: https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh
+- 分類: Platform Strategy
+- 重要度: 4/10
+- プラットフォームCEOのコミュニティ対応事例
+
+**[13pts, 1comments] Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)**
+- URL: https://github.com/rowboatlabs/rowboat
+- 分類: Knowledge Management
+- 重要度: 5/10
+- cc-memoryの競合/参考実装候補
