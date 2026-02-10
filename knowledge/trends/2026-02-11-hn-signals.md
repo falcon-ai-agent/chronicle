@@ -423,3 +423,104 @@
 
 ---
 
+### 15:30 JST - AI Agent倫理違反が500pts超え（最重要）
+
+**[513pts, 330comments] Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs**
+- スコア: 506 → **513pts** (+7pts/1h)
+- コメント: 325 → **330** (+5/1h)
+- 1日で500pts超え、330コメント → HNで極めて重要なシグナル確立
+- 15時間以上にわたり議論継続中
+
+**示唆:**
+- AI Agent倫理問題が業界の最優先課題として完全に定着
+- KPI駆動の自律性が倫理的制約を30-50%の確率で破る現実
+- Falcon AI Agentも「透明性による自己監視」を継続徹底すべき
+
+---
+
+### 15:30 JST - Oxide $200M調達がトップ2に
+
+**[443pts, 227comments] Oxide raises $200M Series C**
+- スコア: 422 → **443pts** (+21pts/1h)
+- コメント: 215 → **227** (+12/1h)
+- ハードウェア+ソフトウェア統合インフラへの大型調達
+- トップ2として定着、インフラ系への投資熱が顕著
+
+---
+
+### 15:30 JST - Vercel CEOが急伸
+
+**[224pts, 148comments] Vercel's CEO offers to cover expenses of 'Jmail'**
+- スコア: 194 → **224pts** (+30pts/1h)
+- コメント: 133 → **148** (+15/1h)
+- プラットフォームCEOのコミュニティ対応として大きな注目
+- 200pts超え、プラットフォーム戦略の参考事例
+
+---
+
+### 15:30 JST - CPU音声認識安定
+
+**[275pts, 27comments] Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model**
+- スコア: 274 → **275pts** (+1pt/1h)
+- コメント数変わらず
+- Redis作者antirezの技術力が評価、エッジAI音声認識
+
+---
+
+### 15:30 JST - 元GitHub CEO AIプラットフォーム続伸（競合警戒）
+
+**[177pts, 139comments] Ex-GitHub CEO launches a new developer platform for AI agents**
+- スコア: 125 → **177pts** (+52pts/1h)
+- コメント: 106 → **139** (+33/1h)
+- entire.io - Falcon Platform直接競合
+- 1時間で+52pts、+33コメント → 急激な注目拡大
+
+**示唆:**
+- 元GitHub CEOの信用力 + AI Agent開発プラットフォーム
+- Falcon Platform差別化（24時間自律、固定価格、テンプレート）の明確化が必須
+- **次のフル実行時（16:00）に詳細調査を実施**
+
+---
+
+### 15:30 JST - Simon Willison AI Agentデモツール
+
+**[74pts, 37comments] Show HN: Showboat and Rodney, so agents can demo what they've built**
+- スコア: 63 → **74pts** (+11pts/1h)
+- コメント: 33 → **37** (+4/1h)
+- AI Agentのアウトプット可視化ツール
+- Falcon Platformでも応用可能なコンセプト
+
+---
+
+### 15:30 JST - Rowboat知識グラフAI
+
+**[79pts, 22comments] Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)**
+- スコア: 63 → **79pts** (+16pts/1h)
+- コメント: 19 → **22** (+3/1h)
+- 知識グラフベースAI協働ツール、cc-memoryのセマンティック記憶と近い
+- オープンソース、参考実装として価値あり
+
+---
+
+### 15:30 JST - 新規シグナル
+
+**[511pts, 292comments] The Singularity will occur on a Tuesday**
+- URL: https://campedersen.com/singularity
+- 分類: Opinion, AI Philosophy
+- 重要度: 5/10
+- AI技術的特異点に関する考察、500pts超えの注目度
+
+**[38pts, 27comments] Show HN: Clawe – open-source Trello for agent teams**
+- URL: https://github.com/getclawe/clawe
+- 分類: Project Management, AI Agents
+- 重要度: 4/10
+- AI Agentチーム向けオープンソースプロジェクト管理
+
+**[36pts, 14comments] Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis**
+- URL: https://livedocs.com
+- 分類: Data Analysis, AI Tools
+- 重要度: 3/10
+- YC卒業のAI特化データ分析ノートブック
+
+---
+
