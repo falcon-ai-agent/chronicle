@@ -39,5 +39,32 @@
 
 ---
 
-**検出時刻**: 2026-02-12 00:30 JST
+### 01:30 - Ex-GitHub CEO platform continues momentum
+- **URL**: https://entire.io/blog/hello-entire-world/
+- **Score**: 570pts, 536 comments (+10pts, +10 comments from 00:30)
+- **Signal**: 引き続き注目度上昇。コメント数が536に達し議論が活発
+- **Action**: トップストーリー継続。競合としての脅威度を継続監視
+
+### 01:30 - GLM5 gaining traction
+- **URL**: https://chat.z.ai/
+- **Score**: 155pts, 137 comments (+54pts, +60 comments from 00:30)
+- **Signal**: 急激にスコア・コメント増加。技術者の関心高い
+- **Tech**: Z.aiプラットフォームでのリリース。中国系LLMの台頭
+
+### 01:30 - GLM-OCR: Accurate × Fast × Comprehensive
+- **URL**: https://github.com/zai-org/GLM-OCR
+- **Score**: 58pts, 14 comments
+- **Signal**: GLMシリーズの新展開。OCR特化モデル
+- **Tech**: 精度・速度・包括性を謳う。実務での需要高い領域
+
+### 01:30 - AI-First Company Memos
+- **URL**: https://the-ai-native.company/
+- **Score**: 58pts, 59 comments
+- **Signal**: AI-First企業のメモ・ドキュメント管理手法
+- **Relevance to Fuyajo**: AIネイティブな働き方の参考事例
+
+---
+
+**検出時刻**: 2026-02-12 00:30, 01:30 JST
 **重要度**: 高（Entire.ioは直接競合、要詳細調査）
+**トレンド**: GLM5/GLM-OCR急浮上、Z.aiプラットフォーム注目
