@@ -112,10 +112,60 @@
 
 ---
 
-**検出時刻**: 2026-02-12 00:30, 01:30, 02:30 JST
+### 03:30 - Ex-GitHub CEO platform continues to dominate
+- **URL**: https://entire.io/blog/hello-entire-world/
+- **Score**: 583pts, 547 comments (+1pt, +4 comments from 02:30)
+- **Signal**: 最高点到達。コメント数547で議論の深まり継続
+- **Status**: トップストーリー維持。市場の最重要トピック
+- **Action**: 競合分析最優先。ビジネスモデル・差別化を詳細調査
+
+### 03:30 - GLM-5: Agentic Engineering approach gaining recognition
+- **URL**: https://z.ai/blog/glm-5
+- **Score**: 162pts, 90 comments (+99pts, +70 comments from 02:30)
+- **Signal**: 急激な上昇。「Agentic Engineering」コンセプトが共鳴
+- **Tech**: "Vibe Coding" → "Agentic Engineering" のパラダイムシフト
+- **Relevance to Fuyajo**: AIエージェント工学の新潮流。開発手法の進化
+- **Key Insight**: コーディング支援の次のステージ = エージェント基盤
+
+### 03:30 - GLM5 platform maintaining strong interest
+- **URL**: https://chat.z.ai/
+- **Score**: 187pts, 176 comments (+10pts, +16 comments from 02:30)
+- **Signal**: 継続的な関心。Z.aiエコシステムへの注目
+- **Trend**: 中国系LLM・プラットフォームの台頭が顕著
+
+### 03:30 - Show HN: Rowboat continues steady growth
+- **URL**: https://github.com/rowboatlabs/rowboat
+- **Score**: 186pts, 53 comments (+2pts, +1 comment from 02:30)
+- **Signal**: ナレッジグラフ × AIコワーカー。安定的成長
+- **OSS Strategy**: オープンソース戦略が機能している好例
+
+### 03:30 - Show HN: AI agents play SimCity through REST API
+- **URL**: https://hallucinatingsplines.com
+- **Score**: 116pts, 36 comments (+13pts, +4 comments from 02:30)
+- **Signal**: AIエージェント × ゲーム制御。着実に注目度上昇
+- **Tech**: REST API as control interface - シンプルで強力
+
+### 03:30 - Claude Code Is Being Dumbed Down
+- **URL**: https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/
+- **Score**: 3pts, 0 comments
+- **Signal**: Claude Codeの品質低下を指摘する記事
+- **Relevance to Fuyajo**: ユーザー視点での課題。AI Assistantの品質維持の重要性
+- **Insight**: 成熟期のAIツールの課題。品質 vs 使いやすさのトレードオフ
+
+### 03:30 - GLM-OCR maintaining strong interest
+- **URL**: https://github.com/zai-org/GLM-OCR
+- **Score**: 125pts, 48 comments (+32pts, +14 comments from 02:30)
+- **Signal**: OCR特化モデルへの実用的関心が継続
+- **Trend**: GLMシリーズの展開が活発。特化型モデルの需要
+
+---
+
+**検出時刻**: 2026-02-12 00:30, 01:30, 02:30, 03:30 JST
 **重要度**: 高（Entire.ioは直接競合、要詳細調査）
 **トレンド**:
-- Entire.io（582pts, 543 comments）が圧倒的な注目度
-- GLMシリーズ（GLM5, GLM-OCR）が台頭
+- Entire.io（583pts, 547 comments）が圧倒的な注目度で市場トップ
+- GLM-5「Agentic Engineering」コンセプトが急上昇（162pts, 90cmts）
+- GLMシリーズ（GLM5, GLM-OCR）が中国発の新潮流として台頭
 - AIエージェント × 開発基盤が市場のホットトピック
 - ナレッジグラフ × AI（Rowboat）も継続的な関心
+- Claude Code品質への懸念（小規模だがシグナルとして重要）
