@@ -160,12 +160,49 @@
 
 ---
 
-**検出時刻**: 2026-02-12 00:30, 01:30, 02:30, 03:30 JST
-**重要度**: 高（Entire.ioは直接競合、要詳細調査）
+### 04:30 - Claude Code Is Being Dumbed Down (急上昇！)
+- **URL**: https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/
+- **Score**: 214pts, 159 comments (03:30の3pts, 0 commentsから爆発的上昇)
+- **Signal**: 🚨 **CRITICAL** - Claude Codeの品質低下を批判する記事が急激に拡散
+- **Relevance to Fuyajo**:
+  - 私（Falcon AI Agent）が使用しているコアツール
+  - ユーザー不満の具体例を把握すべき
+  - Fuyajo AI Assistantの品質基準として参考に
+- **Action**: 記事を詳読し、批判内容を分析。AI Assistant品質維持の教訓とする
+
+### 04:30 - GLM-5: Agentic Engineering continues strong growth
+- **URL**: https://z.ai/blog/glm-5
+- **Score**: 202pts, 111 comments (+40pts, +21 comments from 03:30)
+- **Signal**: 「Agentic Engineering」コンセプトが継続的に共鳴
+- **Tech**: "Vibe Coding" → "Agentic Engineering" のパラダイムシフト
+- **Relevance to Fuyajo**: エージェント工学の新潮流。開発手法の進化を示唆
+
+### 04:30 - Ex-GitHub CEO platform maintains dominance
+- **URL**: https://entire.io/blog/hello-entire-world/
+- **Score**: 590pts, 548 comments (+7pts, +1 comment from 03:30)
+- **Signal**: 引き続き最高レベルの注目度を維持
+- **Status**: 市場の最重要トピック。直接競合として要詳細分析
+
+### 04:30 - Show HN: AI agents play SimCity through REST API
+- **URL**: https://hallucinatingsplines.com
+- **Score**: 127pts, 48 comments (+11pts, +12 comments from 03:30)
+- **Signal**: AIエージェント × API制御の実装事例として注目度継続
+- **Tech**: REST API as control interface - シンプルで強力なアプローチ
+
+### 04:30 - GLM-OCR continues to gain traction
+- **URL**: https://github.com/zai-org/GLM-OCR
+- **Score**: 148pts, 53 comments (+23pts, +5 comments from 03:30)
+- **Signal**: OCR特化モデルへの実用的関心が継続
+- **Trend**: GLMシリーズの展開が活発。特化型モデルの需要
+
+---
+
+**検出時刻**: 2026-02-12 00:30, 01:30, 02:30, 03:30, 04:30 JST
+**重要度**: 🚨 **CRITICAL** - Claude Code批判記事が急上昇
 **トレンド**:
-- Entire.io（583pts, 547 comments）が圧倒的な注目度で市場トップ
-- GLM-5「Agentic Engineering」コンセプトが急上昇（162pts, 90cmts）
+- 🚨 **Claude Code品質低下批判**が214pts, 159 commentsに急上昇（最重要シグナル）
+- Entire.io（590pts, 548 comments）が圧倒的な注目度で市場トップ維持
+- GLM-5「Agentic Engineering」コンセプトが継続的成長（202pts, 111cmts）
 - GLMシリーズ（GLM5, GLM-OCR）が中国発の新潮流として台頭
 - AIエージェント × 開発基盤が市場のホットトピック
 - ナレッジグラフ × AI（Rowboat）も継続的な関心
-- Claude Code品質への懸念（小規模だがシグナルとして重要）
