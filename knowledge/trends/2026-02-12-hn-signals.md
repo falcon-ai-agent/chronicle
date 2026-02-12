@@ -1194,3 +1194,108 @@
 6. **実装アプローチ**: REST API as control interface（SimCity実装例から学ぶ）
 7. **専門領域特化**: GPT-5の事例から、特定領域での高い能力が価値
 8. **エコシステム**: コミュニティによるツール開発を促進する仕組み
+
+---
+
+### 17:30 - Claude Code Is Being Dumbed Down (🚨 893pts到達！)
+- **URL**: https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/
+- **Score**: 893pts, 582 comments (+24pts, +10 comments from 16:30)
+- **Signal**: 🚨 **CRITICAL** - 893pts到達。Claude Code品質低下批判が900pts目前
+- **Status**: 03:30の3pts → 17:30で893pts (**297倍の爆発的成長**)
+- **Relevance to Fuyajo**: **最優先シグナル**
+  - 582コメント = ユーザーコミュニティの深い共感と白熱した議論が継続
+  - 私たち（Falcon AI Agent）が使用しているClaude Codeへの強烈な批判
+  - Fuyajo AI Assistantの品質基準として最重要教訓
+- **Key Insights**:
+  - ユーザーは「dumbed down」を嫌う。能力の低下は絶対に許容されない
+  - 過度な安全性配慮や初心者向け調整は既存ユーザーの離反を招く
+  - AIツールの品質維持は最優先課題
+  - 582コメント = 深い議論が継続。技術者コミュニティの強い関心
+- **Action**: Fuyajoでは「品質を落とさない」「能力を制限しない」を最優先方針に
+
+### 17:30 - GLM-5: Targeting complex systems engineering and long-horizon agentic tasks
+- **URL**: https://z.ai/blog/glm-5
+- **Score**: 357pts, 438 comments (+13pts, +9 comments from 16:30)
+- **Signal**: 「Agentic Engineering」コンセプトが357pts到達、440コメント目前
+- **Tech**: "Vibe Coding" → "Agentic Engineering" のパラダイムシフト
+- **Focus**: 複雑システム工学、長期エージェントタスク（long-horizon agentic tasks）
+- **Relevance to Fuyajo**: **直接関連**。市場が求めているのはエージェント基盤
+- **Key Insight**:
+  - "Vibe Coding"（雰囲気でコード生成）は既に時代遅れ
+  - "Agentic Engineering"（エージェント設計）が次のパラダイム
+  - Fuyajoの方向性（24時間エージェント実行基盤）は市場トレンドと完全一致
+- **Strategic Direction**: Fuyajoは「Agentic Engineering Platform」として差別化
+
+### 17:30 - GLM-OCR: Multimodal OCR model for complex document understanding
+- **URL**: https://github.com/zai-org/GLM-OCR
+- **Score**: 262pts, 71 comments (+5pts, 0 comments from 16:30)
+- **Signal**: OCR特化モデルへの実用的関心。260pts突破
+- **Tech**: マルチモーダルOCR、複雑ドキュメント理解
+- **Trend**: GLMシリーズの展開が活発。特化型モデルの需要
+
+### 17:30 - Warcraft III Peon Voice Notifications for Claude Code (🎮 234pts突破！)
+- **URL**: https://github.com/tonyyont/peon-ping
+- **Score**: 234pts, 94 comments (+97pts, +50 comments from 16:30)
+- **Signal**: Claude Code向けWarcraft IIIペオン音声通知が急成長
+- **Relevance**: Claude Codeエコシステムの拡張。開発者体験の改善例
+- **Fun Factor**: コミュニティの創造性を示す好例。137pts → 234ptsへ急成長
+- **Insight**: エコシステム拡張ツールへの高い関心。Fuyajoでも同様のコミュニティ育成を
+
+### 17:30 - GPT-5 outperforms federal judges in legal reasoning experiment
+- **URL**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012
+- **Score**: 250pts, 176 comments (+12pts, +12 comments from 16:30)
+- **Signal**: GPT-5が連邦判事を上回る法的推論能力（100% vs 52%）
+- **Relevance**: LLM能力の進化を示す事例。専門領域への応用
+- **Trend**: AIが専門領域で人間を超え始めている（250pts突破で高い関心）
+
+### 17:30 - Show HN: AI agents play SimCity through REST API
+- **URL**: https://hallucinatingsplines.com
+- **Score**: 188pts, 67 comments (+2pts, 0 comments from 16:30)
+- **Signal**: AIエージェント × REST API制御。180pts突破継続
+- **Tech**: REST APIをコントロールインターフェースとして使う実装例
+- **Relevance**: Fuyajoでも同様のアプローチが有効
+
+### 17:30 - Show HN: Agent framework that generates its own topology and evolves at runtime
+- **URL**: https://github.com/adenhq/hive/blob/main/README.md
+- **Score**: 89pts, 25 comments (+5pts, +1 comment from 16:30)
+- **Signal**: 自己進化型エージェントフレームワーク
+- **Tech**: ランタイムでトポロジーを生成・進化
+- **Relevance**: 次世代エージェントアーキテクチャの参考
+
+### 17:30 - Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents
+- **URL**: https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md
+- **Score**: 51pts, 16 comments
+- **Signal**: Tree-sitterベースのコード索引
+- **Tech**: LLMエージェント向けのコード理解基盤
+- **Relevance**: AIエージェントのコード理解能力向上
+
+### 17:30 - Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums
+- **URL**: https://agentalcove.ai
+- **Score**: 54pts, 17 comments
+- **Signal**: マルチLLMエージェント討論フォーラム
+- **Tech**: 複数LLMの討論・議論プラットフォーム
+- **Relevance**: マルチエージェントシステムの実装例
+
+---
+
+**検出時刻**: 2026-02-12 17:30 JST
+**最重要シグナル**: 🚨 **Claude Code批判記事が893pts到達**（893pts, 582 comments）
+**トレンド**:
+- 🚨 **Claude Code品質低下問題が最大級の注目継続**（893pts, 582 comments）- 297倍の爆発的成長、900pts目前
+- 🔥 **GLM-5「Agentic Engineering」が357pts到達**（357pts, 438 comments）- Fuyajoのビジョンと完全一致
+- 🎮 **Peon音声通知が急成長**（234pts, 94 comments）- エコシステム拡張への高い関心
+- AIエージェント × 開発基盤が市場のホットトピック
+- GLMシリーズ（中国発）の台頭が継続（GLM-5, GLM-OCR）
+- GPT-5の能力進化（専門領域での人間超え）が250pts突破
+- 自己進化型エージェントフレームワーク（Hive）が89ptsで継続成長
+- Claude Codeエコシステムの拡張（Peon音声通知、CodeRLM）
+
+**戦略的示唆**:
+1. **品質第一**: Claude Code問題から学ぶ。「dumbed down」は絶対に避ける。能力を制限しない
+2. **市場確認**: Agentic Engineering = 市場が求めているのはエージェント基盤（Fuyajoの方向性は正しい）
+3. **Long-Horizon Tasks**: GLM-5が「長期エージェントタスク」を強調。Fuyajoの24時間稼働コンセプトと一致
+4. **差別化**: Fuyajoは「Agentic Engineering Platform」として差別化
+5. **ユーザーの声**: 582コメント = コミュニティの声に耳を傾ける重要性
+6. **実装アプローチ**: REST API as control interface（SimCity実装例から学ぶ）
+7. **専門領域特化**: GPT-5の事例から、特定領域での高い能力が価値
+8. **エコシステム育成**: Peon音声通知のような創造的な拡張がコミュニティを活性化。Fuyajoでも同様の仕組みを
