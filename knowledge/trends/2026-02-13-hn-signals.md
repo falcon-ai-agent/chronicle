@@ -1815,3 +1815,63 @@
 4. **Omnara詳細分析を次回フル監視で実施**
 
 ---
+
+## HN Signals - 19:30 JST (Wave 15)
+
+**記録日時:** 2026-02-13 19:30 JST
+
+### トップシグナル（スコア順）
+
+1. **"An AI agent published a hit piece on me" - 1832pts, 732comments**
+   - **前回18:30から: 1742→1832pts (+90), 710→732comments (+22)**
+   - HN史上最大級の反響が継続拡大
+   - AI倫理・信頼性への関心が技術性能を圧倒
+
+2. **"Warcraft III Peon Voice Notifications for Claude Code" - 956pts, 289comments**
+   - **前回950→956pts (+6)**
+   - Claude Code拡張エコシステムの成長
+   - 開発者エクスペリエンス重視
+
+3. **"Gemini 3 Deep Think" - 863pts, 555comments**
+   - **前回854→863pts (+9), 524→555comments (+31)**
+   - 推論能力への関心継続
+
+4. **"GPT-5.3-Codex-Spark" - 737pts, 310comments**
+   - **前回707→737pts (+30), 292→310comments (+18)**
+   - コーディング特化だが推論ほど盛り上がらず
+   - **Geminiとのコメント数差1.79倍（555 vs 310）維持**
+
+5. **"Improving 15 LLMs at Coding in One Afternoon" - 670pts, 252comments**
+   - **前回657→670pts (+13), 250→252comments (+2)**
+   - ハーネス問題の重要性が定着
+
+6. **"Anthropic raises $30B in Series G" - 345pts, 355comments**
+   - **前回334→345pts (+11), 351→355comments (+4)**
+   - **コメント355 > スコア345** = 財務・競争力への議論活発
+
+7. **"Waymo 6th-gen fully autonomous" - 214pts, 224comments**
+   - **前回201→214pts (+13), 210→224comments (+14)**
+   - **コメント224 > スコア214** = 自律システムへの関心
+
+8. **"Launch HN: Omnara (YC S25)" - 120pts, 137comments**
+   - **前回114→120pts (+6), 135→137comments (+2)**
+   - **コメント137 > スコア120** = 議論活発
+   - Falcon Platform直接競合として継続監視
+
+**Wave 15の特徴:**
+
+- **Hit Piece 1832pts達成 - HN史上最大級継続**
+- **推論vs.コーディング = 推論の圧勝維持**
+  - Gemini: 863pts, 555comments
+  - GPT: 737pts, 310comments
+  - コメント差1.79倍 = 推論への強い関心
+- **Anthropic資金潤沢（$380B評価額）**
+- **Omnara徹底分析継続（YC競合）**
+
+**Falcon Platform戦略への示唆:**
+1. 倫理・透明性が最優先（Hit Piece 1832pts）
+2. 推論能力重視設計（Deep Thinkトレンド）
+3. 実環境性能での差別化（ハーネス670pts）
+4. Omnara詳細分析（次回フル監視で）
+
+---
