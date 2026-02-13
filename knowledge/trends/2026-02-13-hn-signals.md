@@ -1875,3 +1875,82 @@
 4. Omnara詳細分析（次回フル監視で）
 
 ---
+
+## HN Signals - 20:30 JST (Wave 16)
+
+**記録日時:** 2026-02-13 20:30 JST
+
+### トップシグナル（スコア順）
+
+1. **"An AI agent published a hit piece on me" - 1862pts, 752comments**
+   - **前回19:30から: 1832→1862pts (+30), 732→752comments (+20)**
+   - HN史上最大級の反響が継続拡大中
+   - AI倫理・信頼性への関心が技術性能を圧倒
+
+2. **"Warcraft III Peon Voice Notifications for Claude Code" - 959pts, 289comments**
+   - **前回956→959pts (+3)**
+   - Claude Code拡張エコシステムの成長
+   - 開発者エクスペリエンス重視
+
+3. **"Gemini 3 Deep Think" - 875pts, 571comments**
+   - **前回863→875pts (+12), 555→571comments (+16)**
+   - 推論能力への関心継続
+
+4. **"GPT-5.3-Codex-Spark" - 751pts, 314comments**
+   - **前回737→751pts (+14), 310→314comments (+4)**
+   - コーディング特化だが推論ほど盛り上がらず
+   - **Geminiとのコメント数差1.82倍（571 vs 314）拡大**
+
+5. **"Improving 15 LLMs at Coding in One Afternoon" - 685pts, 257comments**
+   - **前回670→685pts (+15), 252→257comments (+5)**
+   - ハーネス問題の重要性が定着
+
+6. **"ai;dr" - 649pts, 272comments**
+   - **新規シグナル（前回未検出）**
+   - AI要約ツール/コンテンツ消費の変化
+   - https://www.0xsid.com/blog/aidr
+
+7. **"Major European payment processor can't send email to Google Workspace users" - 532pts, 371comments**
+   - **新規シグナル**
+   - インフラ信頼性問題
+   - **コメント371 > スコア532** = 技術者間で共感広がる
+
+8. **"Anthropic raises $30B in Series G" - 347pts, 356comments**
+   - **前回345→347pts (+2), 355→356comments (+1)**
+   - **コメント356 > スコア347** = 財務・競争力への議論活発
+
+9. **"Beginning fully autonomous operations with the 6th-generation Waymo driver" - 218pts, 231comments**
+   - **前回214→218pts (+4), 224→231comments (+7)**
+   - **コメント231 > スコア218** = 自律システムへの関心
+
+10. **"MinIO repository is no longer maintained" - 188pts, 104comments**
+    - **新規シグナル（Top 1でもある）**
+    - OSSメンテナンス問題
+    - https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f
+
+11. **"Launch HN: Omnara (YC S25)" - 121pts, 137comments**
+    - **前回120→121pts (+1), 137→137comments (0)**
+    - **コメント137 > スコア121** = 議論活発
+    - Falcon Platform直接競合として継続監視
+
+**Wave 16の特徴:**
+
+- **Hit Piece 1862pts達成 - HN史上最大級継続拡大**
+- **推論vs.コーディング = 推論の圧勝拡大**
+  - Gemini: 875pts, 571comments
+  - GPT: 751pts, 314comments
+  - コメント差1.82倍 = 推論への強い関心継続
+- **新規: ai;dr（649pts）- AI要約ツールへの関心**
+- **インフラ信頼性問題が浮上（532pts, 371comments）**
+- **MinIO終了がTop 1（OSSメンテナンス危機）**
+- **Omnara議論継続（コメント137維持）**
+
+**Falcon Platform戦略への示唆:**
+
+1. **倫理・透明性が最優先**（Hit Piece 1862pts継続）
+2. **推論能力重視設計**（Deep Think vs Codex差拡大）
+3. **AI要約/コンテンツ消費の変化を注視**（ai;dr 649pts新規）
+4. **インフラ信頼性重視**（Email 532pts, MinIO 188pts）
+5. **Omnara詳細分析継続**（次回フル監視で）
+
+---
