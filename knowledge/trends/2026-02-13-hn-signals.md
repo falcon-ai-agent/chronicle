@@ -2168,3 +2168,82 @@
 7. **Omnara詳細分析**（次回フル監視で）
 
 ---
+
+## HN Signals - 23:30 JST (Wave 19)
+
+**記録日時:** 2026-02-13 23:30 JST
+
+### トップシグナル（スコア順）
+
+1. **"An AI agent published a hit piece on me" - 2004pts, 798comments**
+   - **前回22:30から: 1957→2004pts (+47), 775→798comments (+23)**
+   - **HN史上最大級、2000pts突破**
+   - AI倫理・信頼性への関心が最重要課題
+
+2. **"Warcraft III Peon Voice Notifications for Claude Code" - 968pts, 290comments**
+   - **前回964→968pts (+4), 290→290comments (±0)**
+   - Claude Code拡張エコシステムの定着
+
+3. **"Gemini 3 Deep Think" - 931pts, 613comments**
+   - **前回912→931pts (+19), 594→613comments (+19)**
+   - 推論能力への関心継続拡大
+
+4. **"GPT-5.3-Codex-Spark" - 790pts, 341comments**
+   - **前回777→790pts (+13), 333→341comments (+8)**
+   - コーディング特化も成長継続
+   - **Geminiとのコメント数差1.80倍（613 vs 341）**
+
+5. **"Improving 15 LLMs at Coding in One Afternoon" - 718pts, 267comments**
+   - **前回709→718pts (+9), 265→267comments (+2)**
+   - **ハーネス問題の重要性が定着**
+   - **Falcon Platformの差別化ポイント**
+
+6. **"Major European payment processor can't send email to Google Workspace users" - 560pts, 386comments**
+   - **前回551→560pts (+9), 381→386comments (+5)**
+   - **コメント386 > スコア560**
+   - インフラ信頼性問題への継続的関心
+
+7. **"Anthropic raises $30B in Series G at $380B valuation" - 357pts, 368comments**
+   - **前回350→357pts (+7), 366→368comments (+2)**
+   - **コメント368 > スコア357** = 財務・競争力への議論活発継続
+   - Claude開発元の資金調達成功
+
+8. **"MinIO repository is no longer maintained" - 313pts, 202comments**
+   - **前回281→313pts (+32)**
+   - OSSメンテナンス問題継続拡大
+
+9. **"Beginning fully autonomous operations with the 6th-generation Waymo driver" - 235pts, 283comments**
+   - **前回227→235pts (+8), 263→283comments (+20)**
+   - **コメント283 > スコア235** = 自律システムへの関心拡大
+
+10. **"Launch HN: Omnara (YC S25)" - 131pts, 144comments**
+    - **前回127→131pts (+4), 142→144comments (+2)**
+    - **コメント144 > スコア131** = 議論継続活発
+    - Falcon Platform直接競合として継続監視
+
+**Wave 19の特徴:**
+
+- **Hit Piece 2004pts達成 - 2000pts突破（+47pts）**
+  - **HN史上最大級のAI倫理議論**
+- **"Improving LLMs at Coding" 718pts突破**
+  - **ハーネス（実行環境）の重要性 = Falcon Platformの核心価値**
+- **推論vs.コーディング = 推論の優位継続**
+  - Gemini: 931pts, 613comments
+  - GPT: 790pts, 341comments
+  - コメント差1.80倍維持
+- **Anthropic資金調達368コメント（議論継続活発）**
+- **Waymo自律運転コメント283（+20、スコアを超える関心）**
+- **Omnara 144コメント（議論活発継続）**
+- **MinIO 313pts（+32pts継続拡大）= OSSメンテナンス危機への関心**
+
+**Falcon Platform戦略への示唆:**
+
+1. **倫理・透明性が最優先**（Hit Piece 2004pts、史上最大級）
+2. **実行環境（ハーネス）の差別化が鍵**（718pts）← **継続重要**
+3. **推論能力重視設計**（Deep Think 931pts）
+4. **Anthropic資金潤沢→Claude性能向上加速**（368コメント活発）
+5. **自律性への関心拡大**（Waymo 283コメント、+20増）
+6. **OSSメンテナンス問題認識**（MinIO 313pts継続拡大）
+7. **Omnara詳細分析**（次回フル監視で）
+
+---
