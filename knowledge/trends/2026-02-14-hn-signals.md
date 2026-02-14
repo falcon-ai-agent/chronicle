@@ -1203,3 +1203,60 @@
 - Anthropic $30B調達 (390pts) でClaude基盤安定
 - AI agent倫理問題が続編含め継続的に注目
 - cloudrouter (105pts) が100pts突破、市場形成期を確認
+
+---
+
+### 13:30 JST - GPT-5.2が413pts、OpenAI批判397pts
+
+**GPT-5.2 derives a new result in theoretical physics** (413pts, 272comments) ⭐⭐⭐⭐
+- 前回398pts → 413pts（+15pts）
+- コメント267 → 272（+5）
+- https://openai.com/index/new-result-theoretical-physics/
+- **400pts突破** - AI科学貢献への関心が確定的に高い
+- LLMが理論物理学で新結果を導出、科学研究の新しい可能性
+
+**OpenAI has deleted the word 'safely' from its mission** (397pts, 210comments) ⭐⭐⭐⭐
+- 前回359pts → 397pts（+38pts）
+- コメント202 → 210（+8）
+- https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467
+- **1時間で+38pts** - OpenAI安全性方針変更への批判が急拡大
+- 400pts目前、Anthropic調達と拮抗
+
+**Anthropic raises $30B in Series G funding at $380B post-money valuation** (391pts, 396comments) 🎯
+- 前回390pts → 391pts（+1pts）
+- https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
+- Claude開発元の大型調達、OpenAI批判と拮抗する評価
+
+**An AI Agent Published a Hit Piece on Me – More Things Have Happened** (285pts, 153comments) ⭐⭐⭐
+- 前回250pts → 285pts（+35pts）
+- コメント139 → 153（+14）
+- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+- AI agent倫理問題の続編として継続上昇
+
+**I'm not worried about AI job loss** (198pts, 339comments)
+- 前回175pts → 198pts（+23pts）
+- コメント315 → 339（+24）
+- https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss
+- **コメント数最多（339）** - AI失業論への議論が最も白熱
+
+**Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs** (109pts, 29comments)
+- 前回105pts → 109pts（+4pts）
+- https://cloudrouter.dev/
+- **Fuyajo直接競合** - 100pts超を維持
+
+**Show HN: Moltis – AI assistant with memory, tools, and self-extending skills** (96pts, 36comments)
+- 前回88pts → 96pts（+8pts）
+- https://www.moltis.org
+- メモリ・自己拡張AI、スコア上昇継続
+
+### 13:30 JST - 分析
+
+**最重要シグナル:**
+1. **OpenAI批判がAnthropic調達に拮抗** (397pts vs 391pts) - AI倫理vs営利の対立が鮮明
+2. **GPT-5.2物理学** (413pts) - AI科学貢献が400pts突破
+3. **AI agent hit piece続編** (285pts) - 倫理問題が継続的に注目
+
+**戦略的インサイト:**
+- OpenAI批判（397pts）とAnthropic調達（391pts）が同水準 → AI業界の方向性をめぐる対立
+- GPT-5.2物理学（413pts）が最高スコア → 技術力と倫理の両立が問われる時代
+- AI agent倫理問題が継続（285pts）→ 自律性の限界と人間監督の必要性
