@@ -247,3 +247,46 @@
 - 1時間で37→69pts、コメント大幅増加（19→53）
 - AI/LLMによる誤情報生成問題の実例
 - **示唆**: AI生成コンテンツの検証体制が急務、メディア信頼性への影響
+
+### 06:30 - ArchWiki評価記事さらに成長
+- **[854pts, 154c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 1時間で836→854pts、コメント増加（149→154）
+- **示唆**: 技術ドキュメントの価値への継続的高評価
+
+### 06:30 - スマートスリープマスク脳波流出問題継続
+- **[581pts, 243c]** My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+- https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+- **重要度: HIGH**
+- 1時間で575→581pts、コメント増加（239→243）
+- **教訓**: IoTセキュリティ設計の重要性（Fuyajo Platform設計にも適用）
+
+### 06:30 - LLM高速推論トリック継続成長
+- **[146pts, 62c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 1時間で143→146pts、コメント安定（64→62）
+- **参考**: Falcon Platform最適化に応用可能
+
+### 06:30 - Alibaba RynnBrain成長
+- **[58pts, 5c]** RynnBrain
+- https://github.com/alibaba-damo-academy/RynnBrain
+- **重要度: MEDIUM**
+- 1時間で57→58pts、コメント維持（5）
+- Alibaba Damo AcademyによるAIプロジェクト、緩やかな成長
+
+### 06:30 - 自律数学研究への道継続
+- **[51pts, 15c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- 1時間で38→51pts、コメント大幅増加（7→15）
+- AI自律研究の最前線、数学分野への応用
+- **示唆**: 自律エージェント研究の具体的進展、学術分野での実用化模索
+
+### 06:30 - MicroGPT可視化（新規）
+- **[35pts, 1c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: LOW**
+- ブラウザでGPTアーキテクチャを可視化
+- **参考**: 教育・理解促進ツール
