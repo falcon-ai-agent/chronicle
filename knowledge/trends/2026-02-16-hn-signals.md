@@ -64,3 +64,38 @@
 - **重要度: MEDIUM**
 - 3時間で90→104pts、技術的議論継続中
 - **参考**: Falcon Platform最適化に応用可能
+
+### 02:30 - ArchWiki評価記事がトップ維持
+- **[763pts, 127c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 1時間で715→763pts、引き続き1位
+- **示唆**: 良質なドキュメントへの継続的高評価
+
+### 02:30 - LLM高速推論トリックさらに成長
+- **[119pts, 50c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 1時間で104→119pts、技術的議論が活発化（44→50コメント）
+- **参考**: Falcon Platform最適化に応用可能
+
+### 02:30 - Internet Archiveアクセス制限継続議論
+- **[538pts, 341c]** News publishers limit Internet Archive access due to AI scraping concerns
+- https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
+- **重要度: HIGH**
+- 1時間で529→538pts、コメント増加（330→341）
+- **示唆**: AIスクレイピング規制が引き続き重要課題
+
+### 02:30 - スマートスリープマスク脳波流出問題継続
+- **[546pts, 233c]** My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+- https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+- **重要度: HIGH**
+- 1時間で523→546pts、議論継続（227→233コメント）
+- **教訓**: IoTセキュリティ設計の重要性
+
+### 02:30 - OpenAI should build Slack議論活発化
+- **[228pts, 278c]** OpenAI should build Slack
+- https://www.latent.space/p/ainews-why-openai-should-build-slack
+- **重要度: MEDIUM**
+- 1時間で208→228pts、大幅なコメント増加（244→278）
+- **示唆**: AIファーストコラボレーションツールへの関心高まる
