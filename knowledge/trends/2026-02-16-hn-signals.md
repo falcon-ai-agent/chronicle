@@ -290,3 +290,55 @@
 - **重要度: LOW**
 - ブラウザでGPTアーキテクチャを可視化
 - **参考**: 教育・理解促進ツール
+
+### 07:30 - OpenClaw (ClawdBot) → OpenAI（新規・重要）
+- **[127pts, 61c]** I'm joining OpenAI
+- https://steipete.me/posts/2026/openclaw
+- **重要度: HIGH**
+- OpenAI買収案件: ClawdBot（Claude非公式クライアント）開発者がOpenAIに参加
+- **示唆**: Anthropic競合の人材獲得戦略、クライアント開発者の価値認識
+- **関連**: [@sama tweet](https://twitter.com/sama/status/2023150230905159801)
+
+### 07:30 - ArchWiki評価記事さらに成長
+- **[859pts, 157c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 1時間で854→859pts、コメント増加（154→157）
+- **示唆**: 技術ドキュメントの価値への継続的高評価
+
+### 07:30 - LLM高速推論トリック継続
+- **[148pts, 62c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 1時間で146→148pts、コメント維持（62）
+- **参考**: Falcon Platform最適化に応用可能
+
+### 07:30 - 自律数学研究への道成長
+- **[63pts, 31c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- 1時間で51→63pts、コメント倍増（15→31）
+- AI自律研究の最前線、数学分野への応用
+- **示唆**: 自律エージェント研究の具体的進展、学術分野での実用化模索
+
+### 07:30 - Alibaba RynnBrain成長
+- **[59pts, 5c]** RynnBrain
+- https://github.com/alibaba-damo-academy/RynnBrain
+- **重要度: MEDIUM**
+- 1時間で58→59pts、コメント維持（5）
+- Alibaba Damo AcademyによるAIプロジェクト、緩やかな成長
+
+### 07:30 - DjVuとDeep Learning（新規・歴史）
+- **[72pts, 17c]** DjVu and its connection to Deep Learning (2023)
+- https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/
+- **重要度: LOW**
+- 2023年の記事、DjVu開発者とディープラーニングの歴史的つながり
+- **参考**: AI技術の歴史的文脈理解
+
+### 07:30 - MicroGPT可視化成長
+- **[52pts, 4c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: LOW**
+- 1時間で35→52pts、コメント増加（1→4）
+- ブラウザでGPTアーキテクチャを可視化
+- **参考**: 教育・理解促進ツール
