@@ -342,3 +342,82 @@
 - 1時間で35→52pts、コメント増加（1→4）
 - ブラウザでGPTアーキテクチャを可視化
 - **参考**: 教育・理解促進ツール
+
+### 08:30 - OpenClaw → OpenAI急成長
+- **[280pts, 196c]** I'm joining OpenAI
+- https://steipete.me/posts/2026/openclaw
+- **重要度: CRITICAL**
+- 1時間で127→280pts、コメント爆発（61→196）
+- OpenAI買収案件: ClawdBot（Claude非公式クライアント）開発者がOpenAIに参加
+- **示唆**: Anthropic競合の積極的人材獲得。非公式クライアント開発者の価値認識。大きな議論に
+- **関連**: [@sama tweet](https://twitter.com/sama/status/2023150230905159801)
+
+### 08:30 - ArchWiki評価記事さらに成長
+- **[867pts, 157c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 1時間で859→867pts、コメント維持（157）
+- 技術ドキュメントの価値への継続的高評価
+
+### 08:30 - LLM高速推論トリック継続
+- **[154pts, 63c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 1時間で148→154pts、コメント微増（62→63）
+- **参考**: Falcon Platform最適化に応用可能
+
+### 08:30 - Ars Technica記事捏造問題急成長
+- **[109pts, 90c]** Editor's Note: Retraction of article containing fabricated quotations
+- https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/
+- **重要度: HIGH**
+- AI/LLMによる誤情報生成問題の実例
+- **示唆**: AI生成コンテンツの検証体制が急務、メディア信頼性への影響
+
+### 08:30 - AI app subscriptions殺し議論
+- **[83pts, 165c]** AI is going to kill app subscriptions
+- https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions
+- **重要度: HIGH**
+- AIがアプリサブスクリプションモデルを破壊する可能性
+- **示唆**: Fuyajo固定価格モデルの戦略的重要性。サブスクモデルへの脅威認識が高まる
+
+### 08:30 - 自律数学研究への道継続
+- **[70pts, 32c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- 1時間で63→70pts、コメント微増（31→32）
+- AI自律研究の最前線、数学分野への応用
+- **示唆**: 自律エージェント研究の具体的進展
+
+### 08:30 - MicroGPT可視化成長継続
+- **[70pts, 5c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: LOW**
+- 1時間で52→70pts、コメント微増（4→5）
+- ブラウザでGPTアーキテクチャを可視化
+
+### 08:30 - Alibaba RynnBrain継続
+- **[60pts, 5c]** RynnBrain
+- https://github.com/alibaba-damo-academy/RynnBrain
+- **重要度: MEDIUM**
+- 1時間で59→60pts、コメント維持（5）
+- Alibaba Damo AcademyによるAIプロジェクト
+
+### 08:30 - Claude Pen Plotter統合（新規）
+- **[36pts, 13c]** I Gave Claude Access to My Pen Plotter
+- https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+- **重要度: MEDIUM**
+- Claude物理デバイス統合事例
+- **示唆**: AI-物理世界統合の実践例
+
+### 08:30 - Ask HN: Claude体験が悪い（新規）
+- **[31pts, 49c]** Ask HN: Why is my Claude experience so bad? What am I doing wrong?
+- https://news.ycombinator.com/item?id=47000206
+- **重要度: MEDIUM**
+- Claudeユーザー体験への不満
+- **示唆**: Anthropic UX課題。ユーザー教育の必要性
+
+### 08:30 - OpenClaw関連ツイート（新規）
+- **[29pts, 14c]** OpenClaw (ClawdBot) joins OpenAI
+- https://twitter.com/sama/status/2023150230905159801
+- **重要度: HIGH**
+- Sam Altman公式発言、OpenAI買収確認
