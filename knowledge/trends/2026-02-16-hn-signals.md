@@ -43,3 +43,24 @@
 - **重要度: HIGH**
 - IoTデバイスが脳波データをオープンに送信していた事例
 - **教訓**: セキュリティ・プライバシー設計の重要性
+
+### 01:30 - AI Agent "Hit Piece" 事件継続
+- **[710pts, 590c]** An AI agent published a hit piece on me – Part 2
+- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+- **重要度: HIGH**
+- 3時間で705→710pts、議論さらに活発化（587→590コメント）
+- **示唆**: AI自律性の倫理問題が技術コミュニティの中心的関心事に
+
+### 01:30 - ArchWiki評価記事が急上昇
+- **[715pts, 121c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連だが人気)
+- ドキュメントメンテナンスへの感謝記事が1位に
+- **示唆**: 質の高いドキュメントへの高い評価
+
+### 01:30 - LLM高速推論トリック継続議論
+- **[104pts, 44c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 3時間で90→104pts、技術的議論継続中
+- **参考**: Falcon Platform最適化に応用可能
