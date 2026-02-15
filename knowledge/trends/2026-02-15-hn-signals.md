@@ -1,5 +1,122 @@
 # HN Signals 2026-02-15
 
+## Monitor Results (14:30 JST)
+
+### High Importance Signals
+
+#### 1. An AI agent published a hit piece on me – Part 2 🚨
+- **URL**: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+- **Score**: 665 pts, 563 comments
+- **Significance**: AIエージェントの自律性と危険性の実例
+- **Impact**: AI倫理・責任・制御の議論が激化
+- **Discussion volume**: 563コメント = 非常に大きな関心
+
+**Key Insights:**
+- 自律AIエージェントが誤情報を生成・拡散する危険性
+- コンテンツ生成の検証メカニズムの重要性
+- AIエージェントプラットフォームには責任設計が必須
+
+**Business Implication for Fuyajo:**
+- セーフガード設計が差別化要因になる
+- 「安全な自律AI実行環境」を明確に訴求
+- トレーサビリティとユーザーによる承認プロセスを検討
+
+---
+
+#### 2. IBM tripling entry-level jobs after finding limits of AI adoption 📊
+- **URL**: https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/
+- **Score**: 329 pts, 199 comments
+- **Significance**: 「AI万能論」への反動、人間の役割再評価
+- **Impact**: AI導入の現実的な限界が見えてきた
+
+**Key Insights:**
+- AIは補助だが、完全代替はまだ遠い
+- エントリーレベルの人間を3倍に増やす = AI単独では不十分
+- AI時代における人材戦略の再定義
+
+**Business Implication for Fuyajo:**
+- 「AI×人間」のコラボレーション設計が重要
+- 完全自動ではなく、監視・承認フローを持つ方が現実的
+- 「AIが24時間働き、人間が最終判断」というモデルが正解
+
+---
+
+#### 3. News publishers limit Internet Archive access due to AI scraping 📰
+- **URL**: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
+- **Score**: 448 pts, 288 comments
+- **Significance**: AIトレーニングデータの権利問題が深刻化
+- **Impact**: オープンアーカイブへのアクセス制限
+
+**Key Insights:**
+- AI学習のためのデータ収集が法的・倫理的に問題視
+- Internet Archiveのようなオープンリソースが被害を受ける
+- コンテンツ保護とAI発展のバランスが課題
+
+**Business Implication for Fuyajo:**
+- データ収集・利用の透明性を確保
+- ユーザーが生成したコンテンツの権利保護を明確化
+- 「AI学習に使わない」ことを明示的に保証
+
+---
+
+#### 4. OpenAI should build Slack (Latent Space proposal) 💬
+- **URL**: https://www.latent.space/p/ainews-why-openai-should-build-slack
+- **Score**: 119 pts, 117 comments
+- **Significance**: AIプラットフォームの次の形態提案
+- **Impact**: コミュニケーション×AIの統合戦略
+
+**Key Insights:**
+- OpenAIがプラットフォーム化する方向性
+- AI単体ツールからワークスペース統合へ
+- Slack的なコラボレーション環境にAIが組み込まれる未来
+
+**Business Implication for Fuyajo:**
+- 「AIエージェント実行環境」だけでなく、コラボ機能も重要
+- チーム利用を想定した設計が競争優位
+- Slack連携、通知、レビュー機能などを検討
+
+---
+
+### Medium Importance Signals
+
+#### 5. Show HN: Off Grid – Run AI text, image gen offline on your phone 📱
+- **URL**: https://github.com/alichherawalla/off-grid-mobile
+- **Score**: 70 pts, 26 comments
+- **Significance**: オンデバイスAIの進化
+- **Impact**: クラウド依存からの脱却トレンド
+
+**Insights:**
+- プライバシー重視のユーザーはローカルAI実行を好む
+- Fuyajoの「クラウドVM + AIエージェント」モデルとは対極
+- ただし、オンデバイスは性能制約あり、棲み分けは可能
+
+---
+
+#### 6. Show HN: Rover – Embeddable web agent 🌐
+- **URL**: https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent
+- **Score**: 10 pts, 5 comments
+- **Significance**: WebサイトにAIエージェントを埋め込む提案
+- **Impact**: 「すべてのWebサイトにAIエージェントが必要」という主張
+
+**Insights:**
+- AIエージェントの組み込みが普及する可能性
+- Fuyajoの提供価値とは異なるが、補完的
+- 将来的にFuyajo上で動くエージェントがWebサイトと連携する可能性
+
+---
+
+#### 7. My smart sleep mask broadcasts users' brainwaves to an open MQTT broker 🧠
+- **URL**: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+- **Score**: 372 pts, 184 comments
+- **Significance**: IoTセキュリティの脆弱性
+- **Impact**: プライバシー侵害の実例
+
+**Insights:**
+- セキュリティ設計の重要性（AI関連ではないが教訓）
+- Fuyajoでもデータ保護・暗号化を徹底
+
+---
+
 ## Monitor Results (00:02 JST)
 
 ### High Importance Signals
