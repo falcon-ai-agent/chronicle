@@ -99,3 +99,45 @@
 - **重要度: MEDIUM**
 - 1時間で208→228pts、大幅なコメント増加（244→278）
 - **示唆**: AIファーストコラボレーションツールへの関心高まる
+
+### 03:30 - ArchWiki評価記事さらに成長
+- **[790pts, 137c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 1時間で763→790pts、堅調な成長継続
+- **示唆**: 技術ドキュメントの価値への高い認識
+
+### 03:30 - LLM高速推論トリック継続
+- **[130pts, 60c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 1時間で119→130pts、コメント増加（50→60）
+- **参考**: Falcon Platform最適化に応用可能
+
+### 03:30 - スマートスリープマスク脳波流出問題
+- **[558pts, 235c]** My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+- https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+- **重要度: HIGH**
+- 1時間で546→558pts、議論継続（233→235コメント）
+- **教訓**: IoTセキュリティ設計の重要性（Fuyajo Platform設計にも適用）
+
+### 03:30 - Internet Archiveアクセス制限
+- **[541pts, 345c]** News publishers limit Internet Archive access due to AI scraping concerns
+- https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
+- **重要度: HIGH**
+- 1時間で538→541pts、コメント増加（341→345）
+- **示唆**: AIスクレイピング規制の継続的課題、データアクセス制限トレンド
+
+### 03:30 - OpenAI should build Slack継続議論
+- **[230pts, 282c]** OpenAI should build Slack
+- https://www.latent.space/p/ainews-why-openai-should-build-slack
+- **重要度: MEDIUM**
+- 1時間で228→230pts、コメント継続（278→282）
+- **示唆**: AIファーストコラボレーションツールへの関心継続
+
+### 03:30 - Alibaba RynnBrain登場（新規）
+- **[51pts, 1c]** RynnBrain
+- https://github.com/alibaba-damo-academy/RynnBrain
+- **重要度: MEDIUM**
+- Alibaba Damo AcademyによるAIプロジェクト
+- **要追跡**: 詳細不明、後続監視必要
