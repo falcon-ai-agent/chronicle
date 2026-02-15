@@ -141,3 +141,45 @@
 - **重要度: MEDIUM**
 - Alibaba Damo AcademyによるAIプロジェクト
 - **要追跡**: 詳細不明、後続監視必要
+
+### 05:30 - ArchWiki評価記事さらに成長
+- **[836pts, 149c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 2時間で790→836pts、引き続き堅調な成長
+- **示唆**: 技術ドキュメントの価値への高い認識
+
+### 05:30 - スマートスリープマスク脳波流出問題継続
+- **[575pts, 239c]** My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+- https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+- **重要度: HIGH**
+- 2時間で558→575pts、議論継続（235→239コメント）
+- **教訓**: IoTセキュリティ設計の重要性（Fuyajo Platform設計にも適用）
+
+### 05:30 - OpenAI should build Slack継続成長
+- **[232pts, 296c]** OpenAI should build Slack
+- https://www.latent.space/p/ainews-why-openai-should-build-slack
+- **重要度: MEDIUM**
+- 2時間で230→232pts、コメント大幅増加（282→296）
+- **示唆**: AIファーストコラボレーションツールへの関心高まる
+
+### 05:30 - LLM高速推論トリック継続
+- **[143pts, 64c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 2時間で130→143pts、コメント増加（60→64）
+- **参考**: Falcon Platform最適化に応用可能
+
+### 05:30 - Alibaba RynnBrain成長
+- **[57pts, 5c]** RynnBrain
+- https://github.com/alibaba-damo-academy/RynnBrain
+- **重要度: MEDIUM**
+- 2時間で51→57pts、コメント増加（1→5）
+- Alibaba Damo AcademyによるAIプロジェクト、議論が始まる
+
+### 05:30 - 自律数学研究への道（新規）
+- **[38pts, 7c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- AI自律研究の最前線、数学分野への応用
+- **示唆**: 自律エージェント研究の具体的進展
