@@ -1347,3 +1347,102 @@
 5. **AIサブスク殺し議論**: 124pts, 204コメント
    - 200コメント突破、議論が爆発的に活発
    - Fuyajo固定価格モデルの妥当性再確認
+
+## HN Signals - 22:30 Update
+
+### 22:30 - OpenClaw買収さらに拡大
+- **[1172pts, 863c]** I'm joining OpenAI
+- https://steipete.me/posts/2026/openclaw
+- **重要度: CRITICAL**
+- 1時間で1128→1172pts（+44）、コメント835c（+35）
+- **HN史上最大級のストーリー継続**
+- 1000pts超を維持、議論が継続的に活発
+- **示唆**: OpenAI vs Anthropicの人材争奪戦激化。エコシステム開発者の戦略的価値
+
+### 22:30 - Anthropic透明性批判
+- **[71pts, 27c]** Anthropic tries to hide Claude's AI actions. Devs hate it
+- https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/
+- **重要度: HIGH**
+- 1時間で29→71pts（+42, 倍増以上）、コメント3→27（+24）
+- **急成長中** - 開発者の批判が集中
+- **示唆**: 透明性への批判拡大。Falcon Platformは逆に透明性を強みにできる
+
+### 22:30 - Qwen3.5マルチモーダルエージェント
+- **[67pts, 31c]** Qwen3.5: Towards Native Multimodal Agents
+- https://qwen.ai/blog?id=qwen3.5
+- **重要度: HIGH**
+- 1時間で23→67pts（+44, 3倍近く）、コメント7→31（+24）
+- **急成長中** - Alibabaの新世代エージェント発表
+- **示唆**: マルチモーダル対応が次世代エージェントの標準に
+
+### 22:30 - exe.dev コスト分析継続
+- **[60pts, 33c]** Expensively Quadratic: The LLM Agent Cost Curve
+- https://blog.exe.dev/expensively-quadratic
+- **重要度: HIGH**
+- 1時間で52→60pts（+8）、コメント30→33（+3）
+- 競合exe.dev自身によるエージェントコスト分析
+- **示唆**: エージェント実行コストの二次関数的増加問題。Fuyajo固定価格の優位性
+
+### 22:30 - Claude Pen Plotter継続
+- **[222pts, 146c]** I gave Claude access to my pen plotter
+- https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+- **重要度: HIGH**
+- 1時間で209→222pts（+13）、コメント134→146（+12）
+- 物理世界統合の実践例として継続的に注目
+- **示唆**: MCPを使った物理デバイス統合のユースケース
+
+### 22:30 - MicroGPT可視化ツール（新規）
+- **[217pts, 23c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: MEDIUM**
+- ブラウザでGPTアーキテクチャを可視化、教育ツール
+- 200pts突破、技術教育への関心
+
+### 22:30 - AI HDD不足（新規）
+- **[69pts, 28c]** Thanks a lot, AI: Hard drives are sold out for the year, says WD
+- https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out
+- **重要度: MEDIUM**
+- WDがHDD年内完売を宣言、AI需要で品不足
+- **示唆**: AI需要がインフラ全体に波及
+
+### 22:30 - AIサブスク殺し議論継続
+- **[126pts, 207c]** AI is going to kill app subscriptions
+- https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions
+- **重要度: HIGH**
+- 1時間で124→126pts（+2）、コメント204→207（+3）
+- 200コメント超を維持、議論が安定継続
+- **示唆**: AIによるサブスクモデル破壊の議論が定着
+
+### 22:30 - 自律数学研究（新規100pts突破）
+- **[100pts, 48c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- 1時間で99→100pts（+1）、**100pts突破**
+- AI自律研究の学術応用、数学分野への展開
+- **示唆**: 自律エージェントの研究活動への応用可能性
+
+## 今日の最重要シグナル（22:30時点 - 更新）
+
+1. **OpenClaw → OpenAI買収**: 1172pts, 863コメント
+   - **HN史上最大級を継続、1000pts超維持**
+   - 1時間で+44pts（勢い継続）、議論も活発（+35コメント）
+   - Anthropic vs OpenAIの人材争奪戦が業界最大の話題
+   - **Falcon Platformへの示唆**: 開発者エコシステムが競争の核心
+
+2. **Anthropic透明性批判が急成長**: 71pts, 27コメント（29→71, +42pts）
+   - **1時間で2.4倍に急成長**
+   - The Register報道、開発者の批判が集中
+   - **Falcon Platformへの示唆**: 透明性を強みに。AIアクションを隠さず、開発者に信頼される設計
+
+3. **Qwen3.5急成長**: 67pts, 31コメント（23→67, +44pts）
+   - **1時間で3倍近くに急成長**
+   - Alibabaの新世代マルチモーダルエージェント
+   - **示唆**: マルチモーダル対応が次世代の標準に
+
+4. **exe.dev コスト分析**: 60pts, 33コメント
+   - 競合自身によるエージェントコスト問題の分析
+   - **Falcon Platformへの示唆**: 固定価格モデルの優位性、コスト予測可能性の価値
+
+5. **Claude物理統合**: 222pts, 146コメント
+   - MCPによる物理デバイス統合の実践例
+   - 200pts超を維持、継続的な関心
