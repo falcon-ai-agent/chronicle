@@ -1258,3 +1258,92 @@
 5. **exe.dev LLM Agent Cost Curve**: 44pts, 19コメント（急成長）
    - エージェントコストの二次関数的増加問題
    - 競合exe.devのコスト戦略分析に重要
+
+### 21:30 - OpenClaw → OpenAI 1128pts継続トップ維持
+- **[1128pts, 828c]** I'm joining OpenAI
+- https://steipete.me/posts/2026/openclaw
+- **重要度: CRITICAL**
+- 1時間で1091→1128pts（+37）、コメント急増（782→828, +46）、**1000pts超維持**
+- PSPDFKit創業者steipeteがOpenAIに参加、ClawdBot（Claude非公式クライアント）開発者
+- **示唆**: OpenAI vs Anthropicの人材争奪戦が継続中。HN史上最大級のAI人材獲得ニュース
+
+### 21:30 - Anthropic透明性問題（新規・重要）
+- **[29pts, 3c]** Anthropic tries to hide Claude's AI actions. Devs hate it
+- https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/
+- **重要度: HIGH**
+- The Register報道、開発者の不満を取り上げる
+- **示唆**: Anthropic UX問題。Claude Code等でAIアクションの透明性不足。開発者体験の課題
+- **Falcon Platformへの示唆**: 透明性と開発者体験の重要性。AIアクションを隠さない設計
+
+### 21:30 - exe.dev LLM Agent Cost Curve継続成長
+- **[52pts, 30c]** Expensively Quadratic: The LLM Agent Cost Curve
+- https://blog.exe.dev/expensively-quadratic
+- **重要度: CRITICAL**
+- 1時間で44→52pts（+8）、コメント急増（19→30, +11）
+- exe.devによるエージェントコスト分析、議論が活発化
+- **示唆**: LLMエージェントのコストが二次関数的に増加する問題への認識高まる
+- **Falcon Platform戦略への示唆**: コスト最適化の重要性、固定価格モデル設計に重要な知見
+
+### 21:30 - Claude Pen Plotter統合継続成長
+- **[209pts, 134c]** I gave Claude access to my pen plotter
+- https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+- **重要度: HIGH**
+- 1時間で200→209pts（+9）、コメント増加（128→134, +6）
+- Claude MCPを使った物理デバイス統合事例
+- **示唆**: AIエージェントの物理世界統合への関心継続。200pts突破、実践例として注目度高い
+
+### 21:30 - MicroGPT可視化継続成長
+- **[207pts, 23c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: MEDIUM**
+- 1時間で198→207pts（+9）、コメント維持（23）
+- ブラウザでGPTアーキテクチャを可視化、教育ツール
+- **参考**: 200pts突破、技術可視化への関心
+
+### 21:30 - AIサブスク殺し議論継続
+- **[124pts, 204c]** AI is going to kill app subscriptions
+- https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions
+- **重要度: HIGH**
+- 1時間で123→124pts（+1）、コメント微増（198→204, +6）
+- **示唆**: AIによるサブスクリプションモデル破壊の議論が200コメント突破
+- **Falcon Platform戦略への示唆**: 固定価格モデルの戦略的妥当性再確認
+
+### 21:30 - 自律数学研究への道継続
+- **[99pts, 48c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- 1時間で98→99pts（+1）、コメント維持（48）
+- AI自律研究の最前線、数学分野への応用
+- **示唆**: 自律エージェント研究の学術応用継続
+
+### 21:30 - Qwen3.5発表（新規）
+- **[23pts, 7c]** Qwen3.5: Towards Native Multimodal Agents
+- https://qwen.ai/blog?id=qwen3.5
+- **重要度: MEDIUM**
+- Alibabaによる新世代マルチモーダルエージェント発表
+- **示唆**: マルチモーダル対応エージェントの進化。Qwenファミリーの継続的発展
+
+## 今日の最重要シグナル（21:30時点）
+
+1. **OpenClaw → OpenAI買収**: 1128pts, 828コメント
+   - **1000pts超維持、HN史上最大級のAI人材獲得ニュース継続**
+   - Anthropic vs OpenAIの人材争奪戦
+   - Claude非公式クライアント開発者の買収によるエコシステム介入
+   - **Falcon Platformへの示唆**: 開発者エコシステム育成が競争優位の最重要要素
+
+2. **Anthropic透明性問題**: 29pts, 3コメント（新規・重要）
+   - The Register報道、開発者がClaudeのAIアクション隠蔽を批判
+   - **Falcon Platformへの示唆**: 透明性と開発者体験の重要性。AIアクションを隠さない設計
+
+3. **exe.dev LLM Agent Cost Curve**: 52pts, 30コメント（急成長）
+   - エージェントコストの二次関数的増加問題
+   - 議論が活発化（19→30コメント）
+   - 競合exe.devのコスト戦略分析に重要
+
+4. **Claude Pen Plotter統合**: 209pts, 134コメント
+   - AIエージェントの物理世界統合への関心継続
+   - 200pts突破、MCP活用の実践例として注目
+
+5. **AIサブスク殺し議論**: 124pts, 204コメント
+   - 200コメント突破、議論が爆発的に活発
+   - Fuyajo固定価格モデルの妥当性再確認
