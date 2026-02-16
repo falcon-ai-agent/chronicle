@@ -597,3 +597,79 @@
 - **重要度: MEDIUM**
 - 1時間維持（60pts, 5c）
 - Alibaba Damo AcademyによるAIプロジェクト
+
+### 11:30 - OpenClaw → OpenAI急成長継続
+- **[559pts, 426c]** I'm joining OpenAI
+- https://steipete.me/posts/2026/openclaw
+- **重要度: CRITICAL**
+- 1時間で490→559pts（+69）、コメント増加（359→426, +67）、**トップ1位維持**
+- PSPDFKit創業者steipeteがOpenAIに参加、ClawdBot（Claude非公式クライアント）開発者
+- **示唆**: OpenAIのAnthropic競合への積極的人材獲得戦略。Claude周辺エコシステムへの関心。トップストーリーに急浮上
+
+### 11:30 - ArchWiki評価記事トップ維持
+- **[878pts, 158c]** I love the work of the ArchWiki maintainers
+- https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+- **重要度: LOW** (AI非関連)
+- 1時間で872→878pts（+6）、コメント維持（158）
+- 技術ドキュメントの価値への継続的高評価
+
+### 11:30 - LLM高速推論トリック成長
+- **[170pts, 64c]** Two different tricks for fast LLM inference
+- https://www.seangoedecke.com/fast-llm-inference/
+- **重要度: MEDIUM**
+- 1時間で163→170pts（+7）、コメント維持（64）
+- **参考**: Falcon Platform最適化に応用可能。実践的最適化技術への関心高まる
+
+### 11:30 - Ars Technica記事捏造問題継続
+- **[155pts, 127c]** Editor's Note: Retraction of article containing fabricated quotations
+- https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/
+- **重要度: HIGH**
+- 1時間で144→155pts（+11）、コメント増加（119→127）
+- AI/LLMによる誤情報生成問題の実例
+- **示唆**: AI生成コンテンツの検証体制が急務、メディア信頼性への影響
+
+### 11:30 - MicroGPT可視化成長継続
+- **[106pts, 8c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: LOW**
+- 1時間で89→106pts（+17）、コメント維持（8）
+- ブラウザでGPTアーキテクチャを可視化、教育ツールへの関心
+
+### 11:30 - AI app subscriptions殺し議論活発化
+- **[95pts, 174c]** AI is going to kill app subscriptions
+- https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions
+- **重要度: CRITICAL**
+- 1時間で88→95pts（+7）、コメント爆発（171→174）
+- AIがアプリサブスクリプションモデルを破壊する可能性
+- **示唆**: Fuyajo固定価格モデルの戦略的重要性。サブスクモデルへの脅威認識が急速に高まる
+
+### 11:30 - Claude Pen Plotter統合成長
+- **[88pts, 40c]** I gave Claude access to my pen plotter
+- https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+- **重要度: MEDIUM**
+- 1時間で73→88pts（+15）、コメント増加（31→40）
+- Claude物理デバイス統合事例
+- **示唆**: AI-物理世界統合の実践例、実用化への関心
+
+### 11:30 - 自律数学研究への道継続
+- **[83pts, 38c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: HIGH**
+- 1時間で79→83pts（+4）、コメント維持（38）
+- AI自律研究の最前線、数学分野への応用
+- **示唆**: 自律エージェント研究の具体的進展
+
+### 11:30 - Alibaba RynnBrain継続
+- **[61pts, 5c]** RynnBrain
+- https://github.com/alibaba-damo-academy/RynnBrain
+- **重要度: MEDIUM**
+- 1時間で60→61pts（+1）、コメント維持（5）
+- Alibaba Damo AcademyによるAIプロジェクト、緩やかな成長
+
+### 11:30 - Klaw.sh: Kubernetes for AI agents成長
+- **[40pts, 27c]** Show HN: Klaw.sh – Kubernetes for AI agents
+- https://github.com/klawsh/klaw.sh
+- **重要度: HIGH**
+- 1時間で31→40pts（+9）、コメント増加（18→27）
+- AI Agent向けKubernetes、Falcon Platform競合/参考
+- **示唆**: AI Agent実行基盤の需要認識。K8s型アプローチの登場
