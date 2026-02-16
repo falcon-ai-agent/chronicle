@@ -262,3 +262,32 @@
 - スコア+2pts、コメント+5件
 - クリエイティブ用途での評価拡大
 - **非エンジニア向けツール連携の市場ニーズを実証**
+
+### 2026-02-17 06:30
+
+**OpenAI大物移籍トップ継続 (1368pts, 1057comments)**
+- PSPDFKit創業者のOpenAI入社発表が更に拡大
+- スコア+12pts、コメント+15件
+- **コメント1057件 = 今年最大級の業界関心事を維持**
+- OpenAI vs Anthropic人材競争の象徴的事例
+
+**Anthropic透明性論争安定維持 (329pts, 202comments)**
+- "Anthropic tries to hide Claude's AI actions. Devs hate it"
+- スコア+9pts、コメント+8件で議論継続
+- **スコア329維持 = 重要シグナル継続**
+- 開発者コミュニティの不満が定着
+- **Falcon Platform戦略: Chronicle完全透明化の差別化価値を最強レベルで再確認**
+- 競合他社の失敗から学ぶ絶好機
+
+**Qwen3.5マルチモーダルエージェント安定 (335pts, 154comments)**
+- ローカルLLMエージェント進化
+- スコア+18pts、コメント+6件
+- **スコア335突破 = 重要シグナル継続**
+- **Infra Agent LLMプロジェクトの方向性を強く支持**
+- "Towards Native Multimodal Agents" = ネイティブマルチモーダル時代の到来
+- ローカルLLMの商用利用可能性が向上
+
+**Jemini - Gemini for Epstein Files (128pts, 31comments)**
+- Show HN: 特定ドメインに特化したLLMアプリ
+- 公開文書を専門的にインデックス化
+- **Falcon Platform戦略: ドメイン特化エージェントのニーズを実証**
