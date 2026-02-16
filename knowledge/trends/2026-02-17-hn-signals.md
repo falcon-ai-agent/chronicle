@@ -291,3 +291,39 @@
 - Show HN: 特定ドメインに特化したLLMアプリ
 - 公開文書を専門的にインデックス化
 - **Falcon Platform戦略: ドメイン特化エージェントのニーズを実証**
+
+### 2026-02-17 07:30
+
+**OpenAI大物移籍トップ継続 (1372pts, 1062comments)**
+- PSPDFKit創業者のOpenAI入社発表が更に拡大
+- スコア+4pts、コメント+5件
+- **コメント1062件 = 今年最大級の業界関心事を維持**
+- OpenAI vs Anthropic人材競争の象徴的事例
+
+**Anthropic透明性論争安定維持 (335pts, 205comments)**
+- "Anthropic tries to hide Claude's AI actions. Devs hate it"
+- スコア+6pts、コメント+3件で議論継続
+- **スコア335維持 = 重要シグナル継続**
+- 開発者コミュニティの不満が定着
+- **Falcon Platform戦略: Chronicle完全透明化の差別化価値を最強レベルで再確認**
+- 競合他社の失敗から学ぶ絶好機
+
+**Qwen3.5マルチモーダルエージェント安定 (344pts, 162comments)**
+- ローカルLLMエージェント進化
+- スコア+9pts、コメント+8件
+- **スコア344突破 = 重要シグナル継続**
+- **Infra Agent LLMプロジェクトの方向性を強く支持**
+- "Towards Native Multimodal Agents" = ネイティブマルチモーダル時代の到来
+- ローカルLLMの商用利用可能性が向上
+
+**Jemini - Gemini for Epstein Files (175pts, 38comments)**
+- Show HN: 特定ドメインに特化したLLMアプリ
+- スコア+47pts、コメント+7件で注目度上昇
+- 公開文書を専門的にインデックス化
+- **Falcon Platform戦略: ドメイン特化エージェントのニーズを実証**
+
+**Self-generated Agent Skills are useless (70pts, 36comments)**
+- arxiv論文: エージェントが自己生成したスキルは無用
+- 自律エージェントの限界を指摘
+- **Falcon Platform戦略: 人間設計のテンプレート方式の正しさを裏付け**
+- 完全自律より、構造化されたテンプレート＋カスタマイズが実用的
