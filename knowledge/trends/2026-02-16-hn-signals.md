@@ -1446,3 +1446,107 @@
 5. **Claude物理統合**: 222pts, 146コメント
    - MCPによる物理デバイス統合の実践例
    - 200pts超を維持、継続的な関心
+
+## HN Signals - 23:30 Update
+
+### 23:30 - OpenClaw買収がHN記録級継続
+- **[1209pts, 891c]** I'm joining OpenAI
+- https://steipete.me/posts/2026/openclaw
+- **重要度: CRITICAL**
+- 1時間で1172→1209pts（+37）、コメント863→891（+28）
+- **HN史上記録級ストーリー継続、1200pts突破**
+- 議論が衰えず、OpenAI vs Anthropic人材争奪戦の象徴的事件
+- **示唆**: エコシステム開発者（IDE、SDK）の戦略的重要性が最高潮
+
+### 23:30 - Anthropic透明性批判が継続拡大
+- **[116pts, 59c]** Anthropic tries to hide Claude's AI actions. Devs hate it
+- https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/
+- **重要度: CRITICAL**
+- 1時間で71→116pts（+45, 1.6倍）、コメント27→59（+32, 2.2倍）
+- **急成長継続** - 開発者の批判が拡大中
+- **Falcon Platformへの直接的示唆**: 
+  - Anthropicが「AIアクションを隠す」批判を受けている
+  - Falcon Platform / Fuyajoは逆に**透明性を最大の強み**にできる
+  - Chronicleでの記録公開、AIの思考・判断プロセスの可視化は差別化要素
+
+### 23:30 - Qwen3.5さらに加速
+- **[122pts, 50c]** Qwen3.5: Towards Native Multimodal Agents
+- https://qwen.ai/blog?id=qwen3.5
+- **重要度: HIGH**
+- 1時間で67→122pts（+55, 1.8倍）、コメント31→50（+19）
+- **急成長継続** - Alibabaの新世代エージェント
+- Native Multimodal Agentsがトレンド
+- **示唆**: マルチモーダル対応が次世代AIエージェントの標準
+
+### 23:30 - exe.dev コスト分析継続
+- **[70pts, 36c]** Expensively Quadratic: The LLM Agent Cost Curve
+- https://blog.exe.dev/expensively-quadratic
+- **重要度: HIGH**
+- 1時間で60→70pts（+10）、コメント33→36（+3）
+- 競合exe.dev自身によるエージェント実行コストの二次関数的増加問題
+- **示唆**: Fuyajo固定価格モデルの妥当性、コスト予測可能性の価値
+
+### 23:30 - Claude Pen Plotter安定
+- **[232pts, 150c]** I gave Claude access to my pen plotter
+- https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+- **重要度: MEDIUM**
+- 1時間で222→232pts（+10）、コメント146→150（+4）
+- MCPによる物理デバイス統合の実践例
+- 200pts超を安定維持
+
+### 23:30 - MicroGPT可視化ツール安定
+- **[230pts, 23c]** Show HN: Microgpt is a GPT you can visualize in the browser
+- https://microgpt.boratto.ca
+- **重要度: MEDIUM**
+- 1時間で217→230pts（+13）、コメント変わらず23c
+- 200pts超を維持、教育ツールとして安定した支持
+
+### 23:30 - AIサブスク殺し議論継続
+- **[129pts, 212c]** AI is going to kill app subscriptions
+- https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions
+- **重要度: MEDIUM**
+- 1時間で126→129pts（+3）、コメント207→212（+5）
+- 200コメント超を維持、議論が安定継続
+
+### 23:30 - 自律数学研究安定
+- **[100pts, 50c]** Towards Autonomous Mathematics Research
+- https://arxiv.org/abs/2602.10177
+- **重要度: MEDIUM**
+- 100pts維持、コメント48→50（+2）
+- AI自律研究の学術応用
+
+### 23:30 - AI HDD不足継続
+- **[142pts, 110c]** Thanks a lot, AI: Hard drives are sold out for the year, says WD
+- https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out
+- **重要度: MEDIUM**
+- 1時間で69→142pts（+73, 2倍超）、コメント28→110（+82, 約4倍）
+- **急成長** - AI需要がインフラ全体に波及する問題として注目
+
+### 23:30 - ArsTechnica AI捏造記事削除（新規）
+- **[274pts, 189c]** Editor's Note: Retraction of article containing fabricated quotations
+- https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/
+- **重要度: MEDIUM**
+- ArsTechnicaがAI生成の捏造引用を含む記事を削除
+- 200pts超、AIジャーナリズムの信頼性問題
+
+## 今日の最重要シグナル（23:30時点 - 更新）
+
+1. **OpenClaw買収が1200pts突破**: 1209pts, 891コメント
+   - **HN史上記録級ストーリー継続**
+   - OpenAI vs Anthropicの人材争奪戦、エコシステム開発者の戦略的重要性
+
+2. **Anthropic透明性批判が加速**: 116pts, 59コメント（71→116, +45pts）
+   - **1時間で1.6倍、Falcon Platformへの直接的示唆**
+   - Anthropicが「AIアクションを隠す」批判
+   - **Falcon戦略**: 透明性を最大の強み（Chronicle、思考プロセス公開）
+
+3. **Qwen3.5さらに加速**: 122pts, 50コメント（67→122, +55pts）
+   - **1時間で1.8倍**
+   - Native Multimodal Agentsがトレンド
+
+4. **AI HDD不足急拡大**: 142pts, 110コメント（69→142, +73pts）
+   - **1時間で2倍超**
+   - AI需要がインフラ全体に波及
+
+5. **exe.dev コスト分析**: 70pts, 36コメント
+   - 固定価格モデルの妥当性示唆
