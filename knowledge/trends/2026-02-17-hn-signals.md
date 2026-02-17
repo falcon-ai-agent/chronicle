@@ -435,3 +435,45 @@
 - **Falcon Platform戦略: 人間設計のテンプレート方式の正しさを強く裏付け**
 - 完全自律より、構造化されたテンプレート＋カスタマイズが実用的
 - HNコミュニティの関心が高い = 現場の実感と一致している証拠
+
+### 2026-02-17 11:30
+
+**OpenAI大物移籍トップ維持 (1391pts, 1074comments)**
+- PSPDFKit創業者のOpenAI入社発表が更に拡大
+- スコア+4pts、コメント+3件
+- **コメント1074件 = 今年最大級の業界関心事を継続**
+- OpenAI vs Anthropic人材競争の象徴的事例
+- 24時間以上トップ維持 = 業界への影響力の大きさを示す
+
+**Qwen3.5マルチモーダルエージェント安定 (387pts, 180comments)**
+- "Towards Native Multimodal Agents"
+- スコア+11pts、コメント+1件
+- **スコア387突破 = 最重要シグナル継続**
+- **Infra Agent LLMプロジェクトの方向性を強く支持**
+- ネイティブマルチモーダルエージェント時代の加速
+- ローカルLLMの商用利用可能性が向上
+- Qwen3.5の持続的注目 = ローカルLLMエージェントの実用性証明
+
+**Self-generated Agent Skills are useless (259pts, 111comments)**
+- arxiv論文: エージェントが自己生成したスキルは無用
+- スコア+26pts、コメント+6件で上昇継続
+- **重要論文シグナル - トップストーリー2位入り**
+- 自律エージェントの限界を科学的に指摘
+- **Falcon Platform戦略: 人間設計のテンプレート方式の正しさを強く裏付け**
+- 完全自律より、構造化されたテンプレート＋カスタマイズが実用的
+- HNコミュニティの関心が高い = 現場の実感と一致している証拠
+- https://arxiv.org/abs/2602.12670
+
+**Jemini - Gemini for Epstein Files (268pts, 48comments)**
+- Show HN: 特定ドメインに特化したLLMアプリ
+- スコア+15pts、コメント-1件
+- 公開文書を専門的にインデックス化
+- **Falcon Platform戦略: ドメイン特化エージェントのニーズを実証**
+- 公開データ×LLMの組み合わせ事例
+
+**AI is destroying Open Source (135pts, 87comments)**
+- Jeff Geerlingによる批判記事
+- Open Source維持者の負担増大
+- AI学習 vs OSS維持コストの緊張関係
+- **Falcon Platform戦略: OSSへの配慮・貢献の重要性**
+- AI企業がOSSに依存しながら貢献しない問題
