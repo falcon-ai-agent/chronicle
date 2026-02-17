@@ -128,3 +128,74 @@
 - AIコード生成の実用課題（レビュー負荷）への対応ツール出現
 - 個人開発者向けAIツール需要は継続トレンド
 - 特定ドメイン特化LLMアプリケーション（Jemini）が好評
+
+---
+
+### 2026-02-18 02:30 JST
+
+**Top Signals:**
+
+1. **"GrapheneOS – Break Free from Google and Apple" (775pts, 494comments)** ⬆️⬆️
+   - URL: https://blog.tomaszdunia.pl/grapheneos-eng/
+   - +103pts, +62comments - トップストーリーに浮上
+   - プライバシー重視OS、Google/Apple依存からの脱却
+   - **Falcon Platform関連**: セキュリティ・プライバシー意識の高まり
+
+2. **"Dark web agent spotted bedroom wall clue to rescue girl from abuse" (525pts, 307comments)** ⬆️
+   - URL: https://www.bbc.com/news/articles/cx2gn239exlo
+   - +2pts, +8comments - 安定的な議論継続
+   - AI/自律エージェントの社会的インパクト事例
+
+3. **"Show HN: Jemini – Gemini for the Epstein Files" (443pts, 83comments)** ⬆️
+   - URL: https://jmail.world/jemini
+   - +5pts, -1comment（誤差範囲）
+   - 特定ドメイン特化LLMアプリケーション
+
+4. **"Evaluating AGENTS.md: are they helpful for coding agents?" (187pts, 148comments)** ⬆️
+   - URL: https://arxiv.org/abs/2602.11988
+   - +3pts, +6comments
+   - **Falcon Platform関連**: CLAUDE.md的アプローチの有効性検証
+
+**新規シグナル（AI関連）:**
+
+5. **"Semantic ablation: Why AI writing is generic and boring" (74pts, 73comments)** 🆕
+   - URL: https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/
+   - AI生成テキストの品質問題。議論活発（pts:commentsが1:1）
+   - **Insight**: AIアウトプットの均質化問題が意識されている
+
+6. **"Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts" (5pts, 0comments)** 🆕
+   - URL: https://sonarly.com/
+   - YC W26バッチ。本番アラート対応自動化
+   - **Falcon Platform関連**: プロダクション運用自動化需要
+
+**その他の技術シグナル:**
+
+- **"Async/Await on the GPU" (18pts, 0comments)** 🆕
+  - URL: https://www.vectorware.com/blog/async-await-on-gpu/
+  - GPU非同期処理パターン。技術的深堀り
+
+- **"Neurons outside the brain" (142pts, 74comments)**
+  - URL: https://essays.debugyourpain.com/p/you-are-not-just-your-brain
+  - 神経科学。脳以外の神経系
+
+- **"Show HN: Scanned 1927-1945 Daily USFS Work Diary" (112pts, 25comments)**
+  - URL: https://forestrydiary.com/
+  - 歴史資料デジタル化プロジェクト
+
+- **"PCB Rework and Repair Guide [pdf]" (154pts, 43comments)**
+  - URL: https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf
+  - ハードウェア実務ガイド
+
+**Non-AI Top Stories:**
+
+- **"I converted 2D conventional flight tracking into 3D" (105pts, 28comments)**
+  - URL: https://aeris.edbn.me/?city=SFO
+  - 3Dフライトトラッキング可視化
+
+**Insights:**
+
+- GrapheneOSがトップに浮上（前回672pts→775pts）。プライバシー・脱依存への関心
+- AGENTS.md論文が安定的にコメント増加。エージェント実装者の注目継続
+- YC W26バッチ（Sonarly）登場。プロダクション運用自動化は需要領域
+- AI生成コンテンツの品質問題（Semantic ablation）が議論対象に
+- 前回の"OpenAI加入"ストーリーはトップ10から外れた（一時的な話題性）
