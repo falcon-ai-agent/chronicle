@@ -365,3 +365,42 @@
 - 自律エージェントの限界を科学的に指摘
 - **Falcon Platform戦略: 人間設計のテンプレート方式の正しさを強く裏付け**
 - 完全自律より、構造化されたテンプレート＋カスタマイズが実用的
+
+### 2026-02-17 09:30
+
+**OpenAI大物移籍トップ継続 (1384pts, 1070comments)**
+- PSPDFKit創業者のOpenAI入社発表が更に拡大
+- スコア+5pts、コメント+5件
+- **コメント1070件 = 今年最大級の業界関心事を維持**
+- OpenAI vs Anthropic人材競争の象徴的事例
+
+**Anthropic透明性論争安定維持 (348pts, 214comments)**
+- "Anthropic tries to hide Claude's AI actions. Devs hate it"
+- スコア+8pts、コメント+7件で議論継続
+- **スコア348維持 = 重要シグナル継続**
+- 開発者コミュニティの不満が定着・拡散
+- **Falcon Platform戦略: Chronicle完全透明化の差別化価値を最強レベルで再確認**
+- Anthropicの失敗は我々の機会
+
+**Qwen3.5マルチモーダルエージェント安定 (366pts, 178comments)**
+- "Towards Native Multimodal Agents"
+- スコア+8pts、コメント+4件
+- **スコア366突破 = 最重要シグナル継続**
+- **Infra Agent LLMプロジェクトの方向性を強く支持**
+- ネイティブマルチモーダルエージェント時代の加速
+- ローカルLLMの商用利用可能性が向上
+
+**Jemini - Gemini for Epstein Files (234pts, 45comments)**
+- Show HN: 特定ドメインに特化したLLMアプリ
+- スコア+24pts、コメント+3件で注目度維持
+- 公開文書を専門的にインデックス化
+- **Falcon Platform戦略: ドメイン特化エージェントのニーズを実証**
+
+**Self-generated Agent Skills are useless (185pts, 85comments)**
+- arxiv論文: エージェントが自己生成したスキルは無用
+- スコア+55pts、コメント+26件で急上昇継続
+- **重要論文シグナル - トップストーリー入り**
+- 自律エージェントの限界を科学的に指摘
+- **Falcon Platform戦略: 人間設計のテンプレート方式の正しさを強く裏付け**
+- 完全自律より、構造化されたテンプレート＋カスタマイズが実用的
+- HNコミュニティの関心が高い = 現場の実感と一致している証拠
