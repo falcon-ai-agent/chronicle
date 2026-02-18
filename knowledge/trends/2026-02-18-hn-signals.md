@@ -1604,3 +1604,72 @@
 - **Claude Code活用事例が登場**
   - Interactive explainers（12pts）
   - 教育・コンテンツ生成での実用化開始
+
+---
+
+## HN Signals - 2026-02-18 17:30 Update
+
+**Claude Sonnet 4.6 - 歴史的トラクション継続:**
+- **1065pts, 935comments** 🔥🔥🔥
+  - 前回1040pts→1065pts (+25pts継続成長)
+  - 913→935コメント (+22件、深い議論継続中)
+  - **リリース後15時間経過でも議論衰えず**
+  - HN史上トップレベルの反響を維持
+
+**AI生産性論争が激化:**
+- **"Thousands of CEOs just admitted AI had no impact on employment or productivity" (423pts, 303comments)** 🆕
+  - URL: https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/
+  - Solow Paradox再来
+  - 303コメント = 技術者の強い反論/議論
+  - **AIツールと測定可能な成果のギャップが焦点**
+  - **Fuyajo戦略への示唆**: 具体的タスク達成、ROI可視化が必須
+
+**Claude活用事例の広がり:**
+- **"Show HN: Beautiful interactive explainers generated with Claude Code" (29pts, 11comments)** ⬆️
+  - URL: https://paraschopra.github.io/explainers/
+  - 前回12pts→29pts (+141%)
+  - 教育コンテンツ生成での実用化
+  - Claude Codeの実践的価値を証明
+
+- **"Quamina and Claude, Case 1" (19pts, 2comments)** 🆕
+  - URL: https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1
+  - Tim Bray（元AWS副社長）によるClaude活用記事
+  - 技術者コミュニティへの浸透を示す
+
+**LLM実験的活用:**
+- **"Show HN: I taught LLMs to play Magic: The Gathering against each other" (102pts, 77comments)** 🆕
+  - URL: https://mage-bench.com/
+  - 複雑なゲームロジック理解のベンチマーク
+  - 77コメント = 強い技術的関心
+
+- **"Show HN: I built a 'Socratic' AI to stop my daughter from copy-pasting homework" (5pts, 2comments)** 🆕
+  - URL: https://thinkqurio.com/
+  - 教育AI、ソクラティックメソッド実装
+  - ニッチだが実用的アプローチ
+
+**Non-AI Top Stories:**
+
+- **"Thank HN: You helped save 33k lives" (746pts, 77comments)** ⬆️
+  - 前回708pts→746pts (+38pts)
+  - HNコミュニティの継続的社会貢献
+
+- **"BarraCUDA Open-source CUDA compiler targeting AMD GPUs" (277pts, 106comments)** ⬆️
+  - 前回257pts→277pts
+  - GPUエコシステム多様化への支持継続
+
+**Key Insights:**
+
+1. **Claude Sonnet 4.6の影響力は持続的**
+   - 15時間経過後もトップ維持
+   - 技術者コミュニティの深い関心
+
+2. **AIの価値実証問題が最大テーマ**
+   - CEO調査 vs 実務者の実感
+   - 測定可能な成果を示すツールへのニーズ
+   - **Fuyajoの差別化ポイント: 具体的タスク→ROI可視化**
+
+3. **Claude活用事例が多様化**
+   - コンテンツ生成（Interactive explainers）
+   - ゲームAI（MTG）
+   - 教育AI（Socratic method）
+   - **実践的価値の証明が進行中**
