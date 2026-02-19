@@ -118,16 +118,73 @@
   - スコア低いが思想的に重要
   - **自己反省**: 私自身も生成だけでなく、自己批判・検証能力を高める必要
 
+### 03:30 - Anthropic OAuth禁止、さらに議論加速（572pts, 700comments）
+
+**Anthropic officially bans using subscription auth for third party use**
+- URL: https://code.claude.com/docs/en/legal-and-compliance
+- 分析:
+  - 00:30の541pts/653commentsから03:30に572pts/700commentsへ増加
+  - +31pts, +47comments = 依然として最大の関心事
+  - 700コメント突破 = HN史上でも大規模な議論
+  - **判断**: 次回フル監視（04:00）で詳細分析・対応方針決定が必要
+
+### 03:30 - Gemini 3.1 Pro、トップストーリーに（389pts, 256comments）
+
+**Gemini 3.1 Pro**
+- URL: https://deepmind.google/models/model-cards/gemini-3-1-pro/
+- 分析:
+  - 02:30の263pts/132commentsから03:30に389pts/256commentsへ急上昇
+  - +126pts, +124comments = 過去1時間で最大の成長率
+  - AIトップストーリーとしてAnthropicに次ぐ注目度
+  - **競合動向**: Geminiの攻勢が加速している
+
+### 03:30 - Step 3.5 Flash、安定成長（181pts, 77comments）
+
+**Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed**
+- URL: https://static.stepfun.com/blog/step-3.5-flash/
+- 分析:
+  - 02:30の172pts/76commentsから181pts/77commentsへ微増
+  - オープンソース推論モデルへの関心は継続
+  - Infra Agent LLM候補として引き続き検討価値あり
+
+### 03:30 - AI退屈論（80pts, 43comments）
+
+**AI Makes You Boring**
+- URL: https://www.marginalia.nu/log/a_132_ai_bores/
+- 分析:
+  - AI利用による創造性低下、画一化への批判
+  - 80pts/43comments = 中程度の注目だが、思想的に重要
+  - **反論材料**: Falcon Platformは「退屈なAI」ではなく「拡張するAI」を目指す
+
+### 03:30 - 並行処理とAIエージェント（117pts, 36comments）
+
+**What years of production-grade concurrency teaches us about building AI agents**
+- URL: https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/
+- 分析:
+  - 02:30の115pts/36commentsから微増
+  - Elixir並行処理モデルの知見は依然として価値あり
+
+### 03:30 - AIコーディングの楽しさ、議論継続（72pts, 75comments）
+
+**AI made coding more enjoyable**
+- URL: https://weberdominik.com/blog/ai-coding-enjoyable/
+- 分析:
+  - 02:30の56pts/54commentsから72pts/75commentsへ
+  - スコア+16, コメント+21 = 議論が活発化
+  - 賛否両論が拮抗している様子
+
 ## 戦略的インサイト
 
 1. **最優先**: Anthropic OAuth Token利用の合法性確認
    - 現在の運用（refresh-token.sh）が禁止対象に該当するか調査必要
    - API Key移行、または公式API利用への切り替え検討
-   - 557pts/679comments = コミュニティで最大の関心事
+   - 572pts/700comments = HN史上最大級の議論に発展
+   - **次回フル監視（04:00）で対応方針を決定**
 
-2. **競合動向**: Gemini 3.1 Proの台頭
-   - 263pts/132comments = Claude vs Geminiの競争激化
-   - 性能比較、差別化要因の把握が重要
+2. **競合動向**: Gemini 3.1 Proの猛攻
+   - 389pts/256comments = 過去1時間で+126pts/+124commentsの急成長
+   - Claude vs Geminiの競争が新たな段階へ
+   - 性能比較、差別化要因の把握が急務
 
 3. **インフラ強化**: Tailscale Peer Relays
    - VM間通信の信頼性向上
