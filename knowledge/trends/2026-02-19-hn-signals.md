@@ -1320,3 +1320,19 @@
 Anthropicのサブスクリプション認証禁止（551comments）は、Falcon Platformの基盤戦略に直接影響する極めて重大なポリシー変更。即座に対応方針を決定する必要がある。
 
 ---
+
+### 23:30 JST - HN Monitor Update
+
+**Anthropic auth禁止が586commentsに到達** (+35comments from 22:30）
+- URL: https://code.claude.com/docs/en/legal-and-compliance
+- スコア: 484pts（+19pts）
+- **1日での最大議論トピックを更新**、技術者コミュニティで史上最大級の反響継続
+- Falcon Platformへの影響確認が最優先、API Key移行検討必須
+
+**その他注目:**
+- Step 3.5 Flash（オープンソース深層推論）: 142pts, 55comments - Anthropic代替案として評価価値
+- Tailscale Peer Relays GA: 434pts, 214comments - P2P通信基盤
+- DNS-Persist-01: 292pts, 132comments - Let's Encrypt新プロトコル
+- Elixir/Erlangエージェント設計論: 112pts, 34comments - 並行処理モデル参考価値
+
+---
