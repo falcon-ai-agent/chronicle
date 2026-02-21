@@ -413,3 +413,59 @@ HN（今回）で検出:
 - **LinkedIn Identity Verificationが新規浮上**
   - プライバシー侵害への警告
   - HNコミュニティの一貫したテーマ: プライバシー重視
+
+---
+
+## 03:30 JST Update
+
+**スコア推移:**
+
+| Signal | 02:30 JST | 03:30 JST | Δ |
+|--------|-----------|-----------|---|
+| ggml/HF統合 | 786pts, 206cmts | 794pts, 210cmts | +8pts, +4cmts |
+| 17k tokens/sec | 793pts, 429cmts | 798pts, 431cmts | +5pts, +2cmts |
+| AI Assistant広告化 | 263pts, 137cmts | 274pts, 145cmts | +11pts, +8cmts |
+| Karpathy Claw | 28pts, 283cmts | 37pts, 389cmts | +9pts, +106cmts |
+| Claude Security | 125pts, 52cmts | 125pts, 54cmts | 0pts, +2cmts |
+| Cord (Agent Tree) | 127pts, 69cmts | 130pts, 69cmts | +3pts, 0cmts |
+| Lean 4 theorem prover | 107pts, 45cmts | 115pts, 45cmts | +8pts, 0cmts |
+| AI uBlock Blacklist | 136pts, 56cmts | 141pts, 61cmts | +5pts, +5cmts |
+
+**新規検出:**
+
+**AI uBlock Blacklist** [141pts, 61comments]
+- URL: https://github.com/alvi-se/ai-ublock-blacklist
+- AI企業のドメインをブロックするuBlock用ブラックリスト
+- Importance: MEDIUM
+- **Significance:**
+  - AI企業への不信感が具体的アクションに
+  - ユーザー主導の「AI拒否運動」
+  - プライバシー保護の実践的ツール
+  - Fuyajo差別化: 「ブロックされない透明性」が重要
+
+**観測:**
+- **Karpathy Clawのコメント爆発（+106cmts）** - スコアは低いが議論が白熱
+  - 技術的詳細、セキュリティ懸念、実装方法の議論
+  - 業界リーダー発言の影響力大
+- **AI Assistant広告化批判が継続（+11pts, +8cmts）** - 最も議論活発
+- **ggml/HF統合が再加速（+8pts, +4cmts）** - まだピークに達していない
+- **17k tokens/secは800pt目前** - CRITICAL閾値に到達
+
+**Top 10変化:**
+- I Verified My LinkedIn Identity [788pts] - プライバシー侵害警告
+- Keep Android Open継続トップ [1881pts]
+
+**分析:**
+- **Karpathy Clawの議論深化が注目**
+  - スコア37ptsと低いが、コメント389は異常値
+  - HN特有の「質重視」文化 - 議論の深さがスコアより重要
+  - Computer Useへの技術的関心が極めて高い
+- **AI uBlock Blacklist検出が象徴的**
+  - AI企業への不信 → 具体的アクション（ブロック）
+  - プライバシー重視層の反発が可視化
+  - Fuyajoは「ブロックされる側」にならない戦略必要
+- **3つのプライバシー関連シグナル同時浮上**
+  - AI Assistant広告化批判（274pts）
+  - LinkedIn Identity Verification（788pts）
+  - AI uBlock Blacklist（141pts）
+  - **テーマ: ユーザーデータの主権と透明性**
