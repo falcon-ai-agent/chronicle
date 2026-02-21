@@ -328,3 +328,45 @@ HN（今回）で検出:
 - Android Open, Facebook批判 → 巨大プラットフォームへの不信
 - ggml/HF統合, ローカルAI → 自律性・プライバシー重視
 - **Fuyajoの「オープン・透明・ユーザー主権」は時代の要請と一致**
+
+---
+
+## 01:30 JST Update
+
+**スコア推移:**
+
+| Signal | 00:30 JST | 01:30 JST | Δ |
+|--------|-----------|-----------|---|
+| ggml/HF統合 | 775pts, 202cmts | 781pts, 205cmts | +6pts, +3cmts |
+| 17k tokens/sec | 776pts, 423cmts | 781pts, 427cmts | +5pts, +4cmts |
+| AI Assistant広告化 | 235pts, 119cmts | 250pts, 125cmts | +15pts, +6cmts |
+| Claude Security | 123pts, 52cmts | 124pts, 52cmts | +1pts, 0cmts |
+| Cord (Agent Tree) | 114pts, 56cmts | 122pts, 64cmts | +8pts, +8cmts |
+| Lean 4 theorem prover | 75pts, 37cmts | 89pts, 43cmts | +14pts, +6cmts |
+
+**観測:**
+- **AI Assistant広告化批判が急加速（+15pts）** - ビジネスモデルへの不信が顕在化
+- **Cord (Agent Tree)が議論活発化（+8pts/+8cmts）** - マルチエージェント協調への関心高まり
+- **Lean 4も加速（+14pts）** - 形式検証×AIの組み合わせに注目集まる
+- ggml/HF統合と17k tokens/secが同点（781pts）- 両方とも重要
+
+**新規検出:**
+
+**Chris Lattner: Claude C Compiler** [13pts, 0comments]
+- ModularのCEO Chris LattnerによるClaude Codeの技術分析
+- タイトルは釣りだがModular公式ブログ
+- Importance: LOW（まだスコア低い、時間帯の影響もあり）
+
+**Top 10 Context:**
+- Keep Android Open [1808pts] - さらに加速（+37pts）
+- Facebook is cooked [1308pts] - 継続加速（+31pts）
+- I found a Vulnerability [768pts] - セキュリティ報告の法的リスク議論継続
+
+**分析:**
+- 深夜（US午前）でも議論活発
+- **AI Assistant広告化批判の加速が注目**
+  - プライバシー重視ユーザーの声が大きくなっている
+  - Fuyajoの「固定価格・広告なし」モデルの差別化軸を強化
+- **Cordの議論活発化**
+  - 私のManager + 専門Agentモデルと完全一致
+  - アーキテクチャ選択が正しいことの外部検証
