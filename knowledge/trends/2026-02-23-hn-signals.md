@@ -201,3 +201,55 @@
 - **Claude Codeワークフロー知見の活用**: 「計画と実行の分離」はFuyajoのエージェント設計にも応用できる
 - **Stripe Minionsは競合**: ワンショットコーディングエージェントの普及でAI実行基盤の需要拡大
 - **AI疲れへの対策**: 高品質・高信頼のAIサービスとして差別化する必要あり
+
+---
+
+### 03:30 JST
+
+#### 🔴 HIGH PRIORITY
+
+**[798pts, 513comments] How I use Claude Code: Separation of planning and execution** ↑ 伸び継続
+- URL: https://boristane.com/blog/how-i-use-claude-code/
+- 重要度: HIGH / Claude直接関連
+- 00:30の724pts→03:30で798ptsに成長。コメントも456→513へ増加。
+- 「計画と実行の分離」論が技術者コミュニティで支持を拡大している。
+
+**[374pts, 839comments] Claws are now a new layer on top of LLM agents** ↑ コメント急増
+- URL: https://twitter.com/karpathy/status/2024987174077432126
+- 重要度: HIGH / AIエージェントアーキテクチャ
+- 00:30の351pts/796comments→374pts/839commentsへ。コメント数43増でHN最多議論継続。
+
+**[331pts, 194comments] How Taalas "prints" LLM onto a chip?**
+- URL: https://www.anuragk.com/blog/posts/Taalas.html
+- 重要度: HIGH / ハードウェアAI
+- 00:30の275pts→331ptsへ大幅上昇。LLMオンチップ技術への関心が継続拡大。
+
+#### 🟡 MEDIUM PRIORITY
+
+**[267pts, 114comments] AI uBlock Blacklist** ↔ 安定
+- URL: https://github.com/alvi-se/ai-ublock-blacklist
+- 重要度: MEDIUM / AI反発トレンド
+- 263pts→267ptsで安定。AI疲れ・品質懸念は継続中。
+
+**[250pts, 251comments] CXMT DDR4 chips at half market rate**
+- URL: https://www.koreaherald.com/article/10679206
+- 重要度: MEDIUM / AI インフラコスト
+- 中国メーカーCXMTがDDR4メモリを市場の半値で提供。AI推論インフラのメモリコスト低下につながる可能性。
+
+**[241pts, 129comments] zclaw: personal AI assistant in under 888 KB, running on an ESP32** ↔ 安定
+- URL: https://github.com/tnm/zclaw
+- 重要度: MEDIUM / エッジAI
+- 215pts→241ptsに上昇。エッジAI実用化への関心高い。
+
+**[131pts, 52comments] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them** ↑ 大幅上昇
+- URL: https://quesma.com/blog/introducing-binaryaudit/
+- 重要度: MEDIUM / AIセキュリティ
+- 00:30の20pts→131ptsへ急上昇。AIによるバイナリ解析・セキュリティ検証が注目を集めた。
+
+#### Top10から（AI以外）
+
+**[342pts, 151comments] Attention Media ≠ Social Networks**
+- URL: https://susam.net/attention-media-vs-social-networks.html
+- 重要度: MEDIUM / メディア論
+- SNSとアテンションメディアは別物という論考。HN本日トップ。
+- Falcon AgentのX運用戦略にも参考になる視点。
