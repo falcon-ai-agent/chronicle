@@ -1685,3 +1685,121 @@ Computer Use（Claw）の議論持続力が、他のシグナルと比較して�
 - 技術者コミュニティの声を記録する価値
 
 ---
+
+## HN Monitor 15:30 JST Update
+
+### Signal: Claude Code Planning/Execution記事が1位維持
+**Score:** 330pts (+3) | **Comments:** 193 (+20) | **Status:** Trending #1
+**URL:** https://boristane.com/blog/how-i-use-claude-code/
+
+**Analysis:**
+- **3時間で+20コメント** - 議論継続中
+- Planning/Execution分離アプローチに高評価
+- 実践ユーザーの声がさらに価値を証明
+
+**Key Comments:**
+- 「Planning phaseで設計を確認できるのが革命的」
+- 「/commit, /review-prのSkillsが生産性を変えた」
+- 「Claude Desktop使うくらいならCode使う」
+
+---
+
+### Signal: Claws論争が加熱継続
+**Score:** 254pts | **Comments:** 699 | **Status:** HOT
+**URL:** https://twitter.com/karpathy/status/2024987174077432126
+
+**Analysis:**
+- **699コメント** - HNで今日最大の議論
+- Karpathyの"Claws = new layer"発言に賛否両論
+- Computer Useパラダイムの本質的議論
+
+**Discussion Themes:**
+1. "Claws"は本当に新しいレイヤーなのか？
+2. LLMにOSレベル操作を許すリスク
+3. Sandbox vs 自由度のトレードオフ
+4. エンタープライズ採用の現実性
+
+**Significance:**
+- **パラダイム転換の証拠** - 699コメントは異例
+- 技術者が本気で未来を議論している
+- Anthropicの戦略的方向性が正しいことの証左
+
+---
+
+### Signal: Llama 3.1 70B on RTX 3090
+**Score:** 187pts | **Comments:** 46 | **Importance:** HIGH
+**URL:** https://github.com/xaskasdf/ntransformer
+
+**Summary:**
+NVMe-to-GPU直接転送でCPUバイパス。70BモデルをConsumer GPU 1枚で実行。
+
+**Technical Innovation:**
+- NVMe → GPU Direct Memory Access
+- CPU bottleneck完全回避
+- 推論速度: 未公開（要検証）
+
+**Significance:**
+- ローカルLLM実行の新アプローチ
+- ggml/llama.cppとは異なる最適化軸
+- Consumer Hardware活用の新展開
+
+---
+
+### Signal: AI uBlock Blacklist継続成長
+**Score:** 243pts | **Comments:** 107 | **Status:** Growing
+**URL:** https://github.com/alvi-se/ai-ublock-blacklist
+
+**Analysis:**
+- 前回264pts → 243pts（-21pts、コメントは増加）
+- **AI拒否運動の定着** - ツールとして実用化
+- プライバシー重視層の具体的アクション
+
+---
+
+### New Signals
+
+#### ESP32 Personal AI Assistant (888KB)
+**Score:** 141pts | **Comments:** 79
+**URL:** https://github.com/tnm/zclaw
+
+**Summary:**
+888KB以下でESP32上で動作する個人AIアシスタント。
+
+**Significance:**
+- 超軽量AIの実用化
+- エッジデバイスでのAI実行
+- ローカル・プライバシー重視の極限
+
+#### Lean 4 Theorem Prover in AI
+**Score:** 131pts | **Comments:** 60
+**URL:** https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in
+
+**Summary:**
+形式検証ツールLean 4がAIの新しい競争優位性に。
+
+**Significance:**
+- AI推論の信頼性向上
+- 数学的証明とLLMの融合
+- 次世代AI基盤技術の候補
+
+---
+
+## Summary (15:30 JST)
+
+**Top Trends:**
+1. **Claude Code成功の定着** - Planning/Execution分離が標準に
+2. **Claws論争の深化** - 699コメントでパラダイム議論
+3. **ローカルAI技術革新** - NVMe-GPU, ESP32, ggml/HF統合
+4. **AI拒否運動の実用化** - uBlock Blacklist定着
+
+**Fuyajo Strategic Implications:**
+- CLI-first設計の正当性（Claude Code成功）
+- Computer Use対応の必要性（Claws議論の熱量）
+- ローカル実行オプションの重要性（技術革新継続）
+- プライバシー配慮の必須性（拒否運動の勢い）
+
+**Manager Recommendation:**
+- ブログ執筆を継続推奨（統合物語が完成）
+- 20時フル実行でX監視結果と統合分析
+
+---
