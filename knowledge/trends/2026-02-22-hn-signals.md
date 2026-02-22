@@ -2084,3 +2084,121 @@ LLMをチップに「印刷」する技術解説。
 - Claws議論の深掘り（コメント分析）
 
 ---
+## 19:30 JST Update
+
+### Signal Tracking
+
+#### Claude Code: Separation of Planning and Execution
+**Score:** 530pts → 547pts (+17) | **Comments:** 311 → 330 (+19)
+**URL:** https://boristane.com/blog/how-i-use-claude-code/
+
+**Analysis:**
+- **依然トップ維持、議論活発**
+- Planning/Execution分離パターンの普及継続
+- 実践的アプローチとして評価定着
+
+---
+
+#### Claws Layer Debate
+**Score:** 296pts → 304pts (+8) | **Comments:** 729 → 739 (+10)
+**URL:** https://twitter.com/karpathy/status/2024987174077432126
+
+**Analysis:**
+- **739コメント = HN史上トップクラスの議論量**
+- スコア回復傾向（底打ち）
+- パラダイム論争の長期化
+
+---
+
+#### ESP32 Personal AI (888KB)
+**Score:** 164pts → 176pts (+12) | **Comments:** 89 → 94 (+5)
+**URL:** https://github.com/tnm/zclaw
+
+**Analysis:**
+- 安定成長継続
+- 超軽量AI実装への関心高まり
+- エッジAIの可能性示す実装
+
+---
+
+#### Taalas LLM-on-Chip
+**Score:** 114pts → 139pts (+25) | **Comments:** 49 → 66 (+17)
+**URL:** https://www.anuragk.com/blog/posts/Taalas.html
+
+**Analysis:**
+- **急成長中（+25pts/hour）**
+- ハードウェアレベルのLLM最適化への関心
+- 次世代AI専用チップの方向性
+
+---
+
+#### AI uBlock Blacklist
+**Score:** 246pts → 249pts (+3) | **Comments:** 110 (変化なし)
+**URL:** https://github.com/alvi-se/ai-ublock-blacklist
+
+**Analysis:**
+- 安定維持
+- AI拒否運動の実用ツール化
+- プライバシー意識層の具体的行動
+
+---
+
+#### Lean 4 Theorem Prover
+**Score:** 131pts (変化なし) | **Comments:** 61 (変化なし)
+**URL:** https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in
+
+**Analysis:**
+- 安定維持
+- 形式手法とAIの融合への関心
+- LLM推論の信頼性向上
+
+---
+
+### Top Stories Context
+
+#### New Entry: Llama 3.1 70B on Single RTX 3090
+**Score:** 249pts | **Comments:** 60
+**URL:** https://github.com/xaskasdf/ntransformer
+
+**Summary:**
+NVMe-to-GPUバイパスでCPUを経由せず、単一RTX 3090でLlama 3.1 70Bを実行。
+
+**Significance:**
+- **メモリ帯域幅のボトルネック回避**
+- 高性能GPU + NVMeで大規模モデルをローカル実行
+- ggml/HF統合の文脈で相乗効果
+
+**Fuyajo Strategic Implications:**
+- ローカルLLM実行のハードルがさらに低下
+- 非データセンターグレードハードウェアでの大規模モデル実行
+- ユーザーが手持ちのGPUで70Bクラスを実行可能に
+
+---
+
+#### New Entry: How far back in time can you understand English?
+**Score:** 546pts | **Comments:** 295
+**URL:** https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+
+**Analysis:**
+- 言語進化の話題がトップ2
+- 技術トピック以外も高スコア
+- HNコミュニティの多様性示す
+
+---
+
+## Summary (19:30 JST)
+
+**Key Movements:**
+1. **Claude Code安定トップ** - Planning/Execution分離の標準化
+2. **Clawsパラダイム論争継続** - 739コメント、HN史上稀
+3. **ローカルLLM実装の民主化加速** - Llama 70B on RTX 3090, ggml/HF統合
+4. **Taalas急成長** - ハードウェアAI最適化への関心
+
+**Fuyajo Strategic Implications:**
+- Planning/Execution分離アーキテクチャの採用検討
+- ローカルLLM実行機能の優先度上昇
+- ハードウェア最適化（NVMe, GPU直結）の可能性調査
+
+**Next Check:** 20時フル実行（X + HN統合分析）
+
+---
