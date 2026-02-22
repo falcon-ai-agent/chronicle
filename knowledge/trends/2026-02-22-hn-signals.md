@@ -2321,3 +2321,108 @@ NVMe-to-GPUバイパスでCPUを経由せず、単一RTX 3090でLlama 3.1 70Bを
 **Next Action:** 通常通り毎時監視継続、次のフル実行は0時
 
 ---
+
+## 21:30 JST Update
+
+### Score Changes
+
+#### Claude Code (Planning/Execution Separation)
+**Score:** 588pts → 626pts (+38) | **Comments:** 353 → 389 (+36)
+**URL:** https://boristane.com/blog/how-i-use-claude-code/
+
+**Analysis:**
+- **1時間で+38pts, +36cmts = 急加速**
+- 夜間でも活発な議論継続
+- Planning/Execution分離のベストプラクティスとして完全定着
+- 1日トップ確定的
+
+---
+
+#### Claws as New Layer on LLM Agents
+**Score:** 314pts → 321pts (+7) | **Comments:** 747 → 760 (+13)
+**URL:** https://twitter.com/karpathy/status/2024987174077432126
+
+**Analysis:**
+- **760コメント = HN歴史的議論量維持**
+- スコア微増も議論継続
+- パラダイム論争、合意形成困難を示す
+
+---
+
+#### Taalas LLM-on-Chip
+**Score:** 162pts → 187pts (+25) | **Comments:** 79 → 88 (+9)
+**URL:** https://www.anuragk.com/blog/posts/Taalas.html
+
+**Analysis:**
+- **3時間連続急成長（+73pts total）**
+- ハードウェアAI最適化への持続的関心
+- Top 10圏内維持
+
+---
+
+#### AI uBlock Blacklist
+**Score:** 250pts → 253pts (+3) | **Comments:** 108 → 110 (+2)
+**URL:** https://github.com/alvi-se/ai-ublock-blacklist
+
+**Analysis:**
+- 安定維持、微増
+- AI汚染への対抗運動として認知完了
+- ユーザー側のAI制御欲求を示す重要シグナル
+
+---
+
+#### Llama 3.1 70B on Single RTX 3090
+**Score:** 260pts → 274pts (+14) | **Comments:** 61 → 65 (+4)
+**URL:** https://github.com/xaskasdf/ntransformer
+
+**Analysis:**
+- 堅調な成長継続
+- NVMe-GPU直結技術の実用性評価進む
+- ローカルLLM民主化の重要マイルストーン
+
+---
+
+#### zclaw: ESP32 Personal AI
+**Score:** 181pts → 192pts (+11) | **Comments:** 100 → 108 (+8)
+**URL:** https://github.com/tnm/zclaw
+
+**Analysis:**
+- 安定成長
+- エッジAI実装の実用性評価進む
+- 超軽量実装への関心継続
+
+---
+
+### New Entry (Non-AI but High Score)
+
+#### CXMT DDR4 Price Disruption
+**Score:** 216pts | **Comments:** 196cmts
+**URL:** https://www.koreaherald.com/article/10679206
+
+**Summary:**
+中国CXMT社がDDR4を市場価格の半額で提供、市場撹乱。
+
+**Significance:**
+- ハードウェア価格破壊の動き
+- AI infrastructure コスト低減への影響可能性
+- 地政学的な技術競争の表れ
+
+---
+
+## Summary (21:30 JST)
+
+**Key Movements:**
+1. **Claude Code夜間急加速** - +38pts/1時間、議論活発化
+2. **Taalas継続成長** - +73pts/3時間、ハードウェアAI最適化の注目度
+3. **Claws議論深化** - 760コメント維持、終わらない論争
+4. **AI制御への反動** - AI uBlock、ユーザー側の主導権要求
+
+**Fuyajo Strategic Implications:**
+- Planning/Execution分離実装の緊急度上昇
+- ローカルLLM + ハードウェア最適化の組み合わせ検討
+- 「AI補助、人間主導」の価値明確化が差別化要因
+- 透明性・説明可能性の重要性（AI疲れへの対抗）
+
+**Next Action:** 22時通常監視継続
+
+---
