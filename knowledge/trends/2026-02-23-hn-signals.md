@@ -204,6 +204,78 @@
 
 ---
 
+### 04:30 JST
+
+#### HIGH Priority
+
+**[820pts, 522comments] How I use Claude Code: Separation of planning and execution** ↑ 伸び継続
+- URL: https://boristane.com/blog/how-i-use-claude-code/
+- 重要度: HIGH / Claude直接関連
+- 03:30の798pts/513cmts → 820pts/522cmts。本日累計+96pts（00:30比）。ペースは落ちているが安定成長継続中。
+
+**[378pts, 849comments] Claws are now a new layer on top of LLM agents (Karpathy)** ↑ コメント最多継続
+- URL: https://twitter.com/karpathy/status/2024987174077432126
+- 重要度: HIGH / AIエージェントアーキテクチャ
+- 03:30の374pts/839cmts → 378pts/849cmts。コメント849件はHN最多。議論の熱量が継続。
+
+**[347pts, 209comments] How Taalas "prints" LLM onto a chip?** ↑ 上昇継続
+- URL: https://www.anuragk.com/blog/posts/Taalas.html
+- 重要度: HIGH / ハードウェアAI
+- 03:30の331pts/194cmts → 347pts/209cmts。継続的上昇でLLMチップ実装への関心が持続。
+
+#### MEDIUM Priority
+
+**[270pts, 114comments] AI uBlock Blacklist** ↔ 安定
+- URL: https://github.com/alvi-se/ai-ublock-blacklist
+- 重要度: MEDIUM / AI反発トレンド
+- 267pts→270ptsで安定。AI疲れシグナルが持続。
+
+**[252pts, 256comments] CXMT DDR4 chips at half market rate** ↔ 安定
+- URL: https://www.koreaherald.com/article/10679206
+- 重要度: MEDIUM / インフラコスト
+- 250pts/251cmts→252pts/256cmts。安定。
+
+**[250pts, 135comments] zclaw: personal AI assistant in under 888 KB, running on an ESP32** ↑ 上昇
+- URL: https://github.com/tnm/zclaw
+- 重要度: MEDIUM / エッジAI
+- 241pts→250ptsへ上昇。エッジAI軽量化需要が根強い。
+
+**[154pts, 61comments] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them** ↑ 成長中
+- URL: https://quesma.com/blog/introducing-binaryaudit/
+- 重要度: MEDIUM / AIセキュリティ
+- 131pts→154ptsへ上昇継続。AIセキュリティ用途への関心が拡大している。
+
+**[130pts, 80comments] Man accidentally gains control of 7k robot vacuums** (新規)
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ
+- IoTデバイスの大規模乗っ取り事例。エージェントの権限管理・セキュリティ設計の重要性を示す寓話的事例。
+
+**[89pts, 70comments] Minions: Stripe's one-shot, end-to-end coding agents** ↑ 緩やかな上昇
+- URL: https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
+- 重要度: MEDIUM / 大手コーディングエージェント競合
+- 83pts→89ptsへ。大手企業の内製AIエージェント化が進行中のシグナル。
+
+#### Top全体からの追加シグナル
+
+**[393pts, 175comments] Attention Media ≠ Social Networks** ↑ 本日全体トップ更新
+- URL: https://susam.net/attention-media-vs-social-networks.html
+- 重要度: MEDIUM / メディア論
+- 03:30の342pts→393ptsへ大幅上昇。本日全体トップに浮上。技術者のSNS疲れ・質重視の傾向を示す。
+
+### 分析サマリー（04:30）
+
+**トレンドの安定確認:**
+- Claude Code記事（820pts）が本日HNのAI最大トピックとして完全に定着。早朝でも成長継続。
+- Karpathy "Claws"（849cmts）は本日のコメント最多を維持。LLMエージェント新アーキテクチャ論の影響力。
+- AI uBlock Blacklist（270pts）とClaude Code（820pts）の並存 = AI熱狂と反発が同時進行中の市場。
+
+**Falcon Platform戦略への示唆:**
+- Claude Codeユーザーが「計画と実行の分離」を実践 → Fuyajoが実行環境として提供できる価値が明確
+- 大手（Stripe）の内製化 ≠ Fuyajoの競合。中小・個人の実行基盤需要はむしろ増大
+- 「Attention Media ≠ Social Networks」が全体トップ → Chronicleブログの差別化方向性を支持
+
+---
+
 ### 03:30 JST
 
 #### 🔴 HIGH PRIORITY
