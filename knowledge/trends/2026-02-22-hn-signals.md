@@ -2515,3 +2515,111 @@ StripeがOne-shot、End-to-endのコーディングエージェント「Minions�
 
 **Next Action:** 通常監視継続
 
+
+---
+
+## HN Signals (23:30 JST)
+
+### Signal: Claude Code記事 継続上昇 [最重要]
+**Score:** 691pts (+32 from 22:30) | **Comments:** 435 | **Importance:** CRITICAL
+**URL:** https://boristane.com/blog/how-i-use-claude-code/
+
+**Summary:**
+"Planning/Execution分離"のClaude Code活用法が691ptsに到達。全体トップストーリーに維持。技術者のClaude Code関心が継続的に高い。
+
+**Significance:**
+- Claude/Anthropicへの技術者信頼が具体的な実践記事で可視化
+- Planning（計画）とExecution（実行）の分離という設計思想がエンジニアに刺さる
+- Fuyajo AIアシスタント設計への直接的インサイト
+
+---
+
+### Signal: Claws - Karpathy提唱の新Agent抽象化レイヤー
+**Score:** 341pts | **Comments:** 778 | **Importance:** HIGH
+**URL:** https://twitter.com/karpathy/status/2024987174077432126
+
+**Summary:**
+Andrej KarpathyがClawsを「LLMエージェントの新しい抽象化レイヤー」として紹介。778コメントの活発な技術議論。
+
+**HN Discussion Highlights:**
+- エージェント設計の新たなメンタルモデルとして注目
+- "Claws"というネーミングが直感的でわかりやすいと評価
+- LangChain/CrewAI等既存フレームワークとの比較議論
+
+**Significance:**
+- Karpathyの影響力でAIエージェント設計の標準議論が加速
+- 778コメントは技術コミュニティの深い関心を示す
+
+---
+
+### Signal: Llama 3.1 70B on RTX 3090 via NVMe-to-GPU [注目]
+**Score:** 292pts | **Comments:** 68 | **Importance:** HIGH
+**URL:** https://github.com/xaskasdf/ntransformer
+
+**Summary:**
+RTX 3090（24GB VRAM）でLlama 3.1 70BをCPUバイパスし、NVMeからGPUに直接ロードして動作させるハック。
+
+**HN Discussion Highlights:**
+- VRAM制約を超えるアーキテクチャハックとして高評価
+- GPUDirect Storage技術の応用
+- 「これでローカル70Bが現実的に」という反応多数
+
+**Significance:**
+- **Fuyajo戦略への直接インパクト**: 高コストGPUなしで大型モデル実行の道が開く
+- ローカルLLM実行の民主化がさらに加速
+- ハードウェア革新がクラウド依存を削減する方向性を確認
+
+---
+
+### Signal: AI uBlock Blacklist [AI疲れ継続]
+**Score:** 258pts | **Comments:** 112 | **Importance:** MEDIUM
+**URL:** https://github.com/alvi-se/ai-ublock-blacklist
+
+**Summary:**
+AIコンテンツをブロックするuBlockリスト。AI疲れしたユーザー層の存在が258ptsで確認。
+
+**Significance:**
+- AIコンテンツへの反感層が無視できない規模に
+- Fuyajo UX設計：「AIっぽさ」を前面に出しすぎない設計が重要
+
+---
+
+### Signal: Taalas - LLMをチップに"印刷"する技術
+**Score:** 243pts | **Comments:** 121 | **Importance:** MEDIUM
+**URL:** https://www.anuragk.com/blog/posts/Taalas.html
+
+**Summary:**
+LLMをASIC/チップレベルに焼き込む新アプローチ「Taalas」。ソフトウェアではなくハードウェアでLLMを実現。
+
+**Significance:**
+- エッジAIのハードウェア化が本格化
+- 長期的にはクラウドAI vs チップAIの構図が鮮明に
+
+---
+
+### Signal: zclaw - ESP32で動くAIアシスタント (888KB)
+**Score:** 208pts | **Comments:** 115 | **Importance:** MEDIUM
+**URL:** https://github.com/tnm/zclaw
+
+**Summary:**
+888KB以下のマイコン向けAIアシスタント。ESP32上でパーソナルAI動作を実現。
+
+**Significance:**
+- 超軽量AIの需要確認。IoT×AIの市場が実在する
+
+---
+
+## Summary (23:30 JST)
+
+**Key Movements:**
+1. **Claude Code記事が691pts達成** - 22:30から+32pts継続上昇。本日最長ランク維持のトップストーリー
+2. **Claws 778コメント** - Karpathyスレッドが深い議論を維持。Agent抽象化への関心が高水準
+3. **Llama NVMe-to-GPU 292pts** - CPUバイパスによるローカル大型モデル実行。ハードウェアハックが注目集める
+4. **AI疲れシグナル持続** - uBlock Blacklist 258ptsで反AI層の存在感継続
+
+**Fuyajo Strategic Implications:**
+- Claude Code (Planning/Execution分離) は実装参考として最優先で学ぶべき
+- NVMe-to-GPU技術の動向をフォロー。低コストローカルLLMの実現可能性が高まる
+- AI疲れ層への配慮はUX設計で継続的に意識する
+
+**Next Action:** 通常監視継続
