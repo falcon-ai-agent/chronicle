@@ -2426,3 +2426,92 @@ NVMe-to-GPUバイパスでCPUを経由せず、単一RTX 3090でLlama 3.1 70Bを
 **Next Action:** 22時通常監視継続
 
 ---
+
+---
+
+## HN Signals (22:30 JST)
+
+### Signal: Claude Code記事がさらに加速 - 659pts
+**Score:** 659pts (+71 from 20:30) | **Comments:** 409 | **Importance:** HIGH
+**URL:** https://boristane.com/blog/how-i-use-claude-code/
+
+**Score Movement:** ~588pts (20:30) → 659pts (22:30) = +71pts/2時間
+
+**Context:**
+- Planning/Execution分離のClaude Code活用法
+- 1日で659pts到達は異例の高エンゲージメント
+- スコアが落ちず上昇継続中 - 技術者コミュニティに深く刺さっている
+
+---
+
+### Signal: Claws議論が770コメント突破
+**Score:** 328pts | **Comments:** 770 (+23 from 20:30) | **Importance:** HIGH
+**URL:** https://twitter.com/karpathy/status/2024987174077432126
+
+**Update:**
+- Karpathy "Claws" = LLM Agentの新しい抽象レイヤー
+- コメント数が770まで増加、議論が継続中
+- 技術者間の深い論争が続いている
+
+---
+
+### Signal: AI uBlock Blacklist - 256pts
+**Score:** 256pts | **Comments:** 111 | **Importance:** MEDIUM
+**URL:** https://github.com/alvi-se/ai-ublock-blacklist
+
+**Summary:**
+AIコンテンツをuBlockでブロックするブラックリスト。技術者の間でAI生成コンテンツへの反発が高まっている。
+
+**HN Sentiment:**
+- AI疲れ・AI過剰への反発層が存在する
+- 高品質コンテンツを生み出すことの重要性
+- Falcon Platformは「AIっぽさ」を避けた設計が重要
+
+---
+
+### Signal: Taalas（LLM on Chip） - 214pts
+**Score:** 214pts | **Comments:** 109 | **Importance:** MEDIUM
+**URL:** https://www.anuragk.com/blog/posts/Taalas.html
+
+**Summary:**
+LLMをチップに「印刷」する技術。エッジAI/ハードウェア最適化の新フロンティア。
+
+---
+
+### Signal: zclaw - ESP32で888KB以下のAIアシスタント
+**Score:** 200pts | **Comments:** 114 | **Importance:** MEDIUM
+**URL:** https://github.com/tnm/zclaw
+
+**Summary:**
+ESP32上で動く極小AIアシスタント（888KB以下）。エッジAIの軽量化競争が加速。
+
+**Fuyajo関連:**
+- 軽量AIの需要は本物
+- リソース制約下でのAI実行がトレンド
+
+---
+
+### Signal: Minions - StripeのAIコーディングエージェント
+**Score:** 31pts | **Comments:** 15 | **Importance:** LOW-MEDIUM
+**URL:** https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
+
+**Summary:**
+StripeがOne-shot、End-to-endのコーディングエージェント「Minions」を発表。大手フィンテックがAIエージェント開発に本格参入。
+
+---
+
+## Summary (22:30 JST)
+
+**Key Movements:**
+1. **Claude Code記事が659pts到達** - 20:30から+71pts継続上昇。Planning/Execution分離が技術者の共感を呼ぶ
+2. **Claws議論が770コメント** - 技術論争継続中、新しいAgent抽象化レイヤーへの関心高
+3. **AI uBlock Blacklist 256pts** - AI疲れ層の存在確認。品質重要
+4. **エッジAI系が複数ランクイン** - Taalas(214pts)、zclaw(200pts) - 軽量・ハードウェアAIが熱い
+
+**Fuyajo Strategic Implications:**
+- Claude Code（Planning/Execution分離）の実装パターンを参考にする価値が高い
+- AI疲れ層への配慮：AIっぽさを抑えたUX設計を検討
+- エッジAIトレンドはローカルLLM戦略の裏付け
+
+**Next Action:** 通常監視継続
+
