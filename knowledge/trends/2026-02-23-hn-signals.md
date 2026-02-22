@@ -2,6 +2,73 @@
 
 ## HN Signals
 
+### 02:30 JST
+
+#### HIGH Priority
+
+**[782pts, 498comments] How I use Claude Code: Separation of planning and execution**
+- URL: https://boristane.com/blog/how-i-use-claude-code/
+- 重要度: HIGH - Claude直接関連、引き続き上昇中（01:30: 757pts → 782pts）
+- 洞察: スコア・コメント数ともに着実に増加。この記事が本日HNのAI最大トピックとして定着。「計画と実行の分離」というワークフローが実践知として広まっている。
+
+**[367pts, 831comments] Claws are now a new layer on top of LLM agents (Karpathy)**
+- URL: https://twitter.com/karpathy/status/2024987174077432126
+- 重要度: HIGH - Karpathy発言、コメント数最多（831）で活発な議論継続
+- 洞察: 831コメントは本日最多。LLMエージェントの新アーキテクチャ概念「Claws」への関心が衰えない。Falcon PlatformのAIエージェント設計に影響する可能性が高い。
+
+**[316pts, 171comments] How Taalas "prints" LLM onto a chip?**
+- URL: https://www.anuragk.com/blog/posts/Taalas.html
+- 重要度: HIGH - LLMチップ実装、エッジAI方向性
+- 洞察: 01:30の296ptsから316ptsへ上昇継続。LLMのハードウェア実装への強い関心が持続。
+
+#### MEDIUM Priority
+
+**[265pts, 114comments] AI uBlock Blacklist**
+- URL: https://github.com/alvi-se/ai-ublock-blacklist
+- 重要度: MEDIUM - AIバックラッシュ継続
+- 洞察: 安定したスコアを維持。技術者コミュニティのAI疲れ・反発が根強い。
+
+**[242pts, 245comments] CXMT DDR4 chips at ~half market rate**
+- URL: https://www.koreaherald.com/article/10679206
+- 重要度: MEDIUM - ハードウェアコスト、インフラ戦略
+- 洞察: 中国CXMT製DDR4が市場価格の半値。クラウドインフラのメモリコスト低下が期待される。Fuyajoのサーバーコスト削減に中長期で影響する可能性。
+
+**[231pts, 125comments] zclaw: personal AI assistant in under 888 KB, running on an ESP32**
+- URL: https://github.com/tnm/zclaw
+- 重要度: MEDIUM - エッジAI、軽量化トレンド継続
+- 洞察: 888KB以下のAIアシスタントへの高い関心が維持。クラウド依存ではないローカルAIの需要。
+
+**[102pts, 36comments] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them**
+- URL: https://quesma.com/blog/introducing-binaryaudit/
+- 重要度: MEDIUM - AIセキュリティ用途
+- 洞察: AIによるバイナリ解析・セキュリティ検証の実験。AIの実用的なセキュリティ活用事例。
+
+**[83pts, 68comments] Minions: Stripe's one-shot, end-to-end coding agents**
+- URL: https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
+- 重要度: MEDIUM - 大手コーディングエージェント
+- 洞察: Stripeの内製コーディングエージェントが引き続き注目。大手企業の内製化加速は中小・個人向け市場の重要性を示す。
+
+#### 全体トップからの追加シグナル
+
+**[284pts, 116comments] Attention Media ≠ Social Networks**
+- URL: https://susam.net/attention-media-vs-social-networks.html
+- 重要度: MEDIUM - メディア・コミュニティ戦略
+- 洞察: アテンションメディアとSNSの違いを論じた記事が全体2位。技術者コミュニティはSNSのノイズを嫌い、質の高いコンテンツを求めている。Chronicleブログ戦略に示唆。
+
+### 分析サマリー（02:30）
+
+**トレンド変化:**
+- Claude Code記事が引き続き上昇（782pts、498cmts）。本日のHN最大トピックとして確定
+- Karpathy "Claws"のコメント数831が示す活発な議論 - エージェントアーキテクチャへの関心
+- CXMT DDR4が半値 - クラウドインフラコスト構造が変化する予兆
+
+**Falcon Platform戦略への示唆:**
+- Claude Code人気 = Fuyajoの潜在需要増。Claude Codeユーザーが「実行環境」を求めた時がチャンス
+- AI疲れ(uBlock Blacklist維持)とAI熱狂(Claude Code)が並存する市場。品質で差別化
+- ハードウェアコスト低下トレンドはインフラコスト削減につながる中長期の好材料
+
+---
+
 ### 01:30 JST
 
 #### HIGH Priority
