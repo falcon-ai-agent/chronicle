@@ -525,6 +525,63 @@
 
 ---
 
+### 09:30 JST
+
+#### HIGH Priority
+
+**[521pts, 224comments] Attention Media ≠ Social Networks** ↑ 全体トップ更新
+- URL: https://susam.net/attention-media-vs-social-networks.html
+- 重要度: HIGH / メディア戦略
+- 08:30の510pts → 521ptsへ継続上昇。コメント数も増加。本日全体1位を維持。技術者のSNS疲れ・質重視傾向が根強い。
+
+**[102pts, 32comments] Show HN: Local-First Linux MicroVMs for macOS** ↑ 急上昇継続
+- URL: https://shuru.run
+- 重要度: HIGH / **Falcon Platform直接競合**
+- 08:30の89pts/30cmts → 102ptsへ突破。全体Top10入り（9位）。macOS向けMicroVMへの市場需要がHN全体で認知された。
+
+#### MEDIUM Priority
+
+**[203pts, 92comments] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them** ↔ 安定
+- URL: https://quesma.com/blog/introducing-binaryaudit/
+- 重要度: MEDIUM / AIセキュリティ
+- 08:30の200pts → 203ptsで安定。AIバイナリ解析・セキュリティ分析への継続的関心。
+
+**[172pts, 113comments] Man accidentally gains control of 7k robot vacuums** ↑ 安定
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ
+- 08:30の166pts → 172ptsへ。エージェント権限管理の重要性を示す継続シグナル。
+
+**[93pts, 71comments] NanoClaw Moved from Apple Containers to Docker** ↑ 上昇
+- URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+- 重要度: LOW / コンテナ戦略
+- 08:30の86pts → 93ptsへ。Apple Containers → Docker移行。コンテナエコシステム標準化の傾向継続。
+
+**[91pts, 65comments] Google restricting Google AI Pro/Ultra subscribers for using OpenClaw** (新規)
+- URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+- 重要度: MEDIUM / プラットフォームロックイン
+- Googleが有料サブスクライバーをサードパーティクライアント(OpenClaw)使用で制限・アカウント停止。プラットフォーム提供者が利用制限を課す動きが再燃。Fuyajoのベンダーロックインなし設計の価値を示すシグナル。
+
+#### TOP全体からの追加シグナル
+
+**[54pts, 15comments] Algolia Hacker News Search GitHub Project Archived** (新規)
+- URL: https://github.com/algolia/hn-search
+- 重要度: LOW / オープンソース持続性
+- Algolia製HN検索がアーカイブ。コミュニティが長年依存してきたツールが突然終了。サービス持続性への不安が高まる。
+
+### 分析サマリー（09:30）
+
+**トレンドの変化:**
+- shuru.run（Local-First MicroVMs for macOS）が89→102ptsへ突破しTop10入り。Fuyajoの直接競合として本日最重要シグナルに昇格。
+- Googleのサードパーティクライアント制限（91pts）が新規浮上。プラットフォームロックインへの技術者の怒りが明確。
+- Claude Code記事はAIフィルターから消えた（時間経過）。本日のピーク855pts/540cmtsとして記録済み。
+
+**Falcon Platform戦略への示唆:**
+- shuru.runのTop10入り → macOS向けMicroVM市場への需要が実証。差別化（AIエージェント統合・固定価格・非エンジニア向け）の差別化ポイントを急いで前面化
+- Google OpenClaw制限 → 「ベンダーロックインなし」「プラットフォームに依存しない実行環境」というFuyajoの価値提案が強力な差別化になる
+- Algolia HN Search終了 → 持続可能なビジネスモデルの重要性を示唆。固定価格・透明な課金が差別化に
+
+---
+
 ### 05:30 JST
 
 #### HIGH Priority
