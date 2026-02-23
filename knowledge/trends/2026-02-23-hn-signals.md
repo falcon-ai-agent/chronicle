@@ -582,6 +582,75 @@
 
 ---
 
+### 12:30 JST
+
+#### HIGH Priority
+
+**[359pts, 290comments] Google restricting Google AI Pro/Ultra subscribers for using OpenClaw** ↑ 急騰
+- URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+- 重要度: HIGH / プラットフォーム制御・ベンダーロックイン
+- 09:30の91pts → 10:30の184pts → 12:30の359pts。3時間で約4倍に急騰しスコア300+突破。
+- 洞察: Google AI Pro/Ultra（有料サブスク）ユーザーがサードパーティクライアント（OpenClaw）経由で利用しただけでアカウント警告なし停止。技術者コミュニティの怒りが爆発。「金を払っても制限される」という信頼の問題。Fuyajoの「ベンダーロックインなし」価値提案を強烈に支持するシグナル。
+
+#### MEDIUM Priority
+
+**[220pts, 125comments] Man accidentally gains control of 7k robot vacuums** ↑ 継続成長
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ・エージェント権限管理
+- 10:30の190pts → 220ptsへ上昇。7000台のロボット掃除機を誤って制御下に置いた事例。エージェント実行環境のセキュリティ設計の重要性を示す寓話として継続注目。
+
+**[211pts, 92comments] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them** ↔ 安定
+- URL: https://quesma.com/blog/introducing-binaryaudit/
+- 重要度: MEDIUM / AIセキュリティ
+- 10:30の205pts → 211ptsで安定。本日最も長く生存しているシグナル。AIバイナリ解析・セキュリティ分析への継続的関心。
+
+**[117pts, 89comments] NanoClaw Moved from Apple Containers to Docker** ↑ 上昇継続
+- URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+- 重要度: LOW / コンテナ戦略
+- 10:30の103pts → 117ptsへ。OpenClaw/NanoClawがGoogleに制限されたコンテキスト（同日）で読むと示唆深い。コンテナエコシステム標準化継続。
+
+#### 新規シグナル
+
+**[281pts, 165comments] Loops - federated, open-source TikTok** (新規)
+- URL: https://joinloops.org/
+- 重要度: MEDIUM / 分散化・フェデレーション
+- 全体トップ3入り。オープンソース・フェデレーション型TikTok代替。中央集権プラットフォームへの不満がソーシャルメディアにも波及。分散化トレンドの加速。
+
+**[8pts, 1comments] Aqua: A CLI message tool for AI agents** (新規)
+- URL: https://github.com/quailyquaily/aqua
+- 重要度: LOW / AIエージェントツール
+- スコア低いが、AIエージェント間の通信ツールとして関連性あり。CLIファーストのエージェントツール需要を示す。
+
+**[35pts, 3comments] Show HN: TLA+ Workbench skill for coding agents** (継続)
+- URL: https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench
+- 重要度: LOW / エージェントスキル
+- 形式検証スキルのコーディングエージェント適用。スコアは低いが持続。
+
+#### 全体トップからの追加シグナル
+
+**[563pts, 244comments] Attention Media ≠ Social Networks** ↑ 継続成長（全体トップ2）
+- URL: https://susam.net/attention-media-vs-social-networks.html
+- 重要度: HIGH / メディア戦略
+- 10:30の532pts → 563ptsへ継続成長。本日全体トップが711ptsに更新されたが引き続き全体2位を維持。
+
+**[711pts, 192comments] I built Timeframe, our family e-paper dashboard** (全体トップ)
+- URL: https://hawksley.org/2026/02/17/timeframe.html
+- 重要度: LOW / DIYプロジェクト
+- 本日の全体1位（非AI）。e-paperファミリーダッシュボードのDIY。技術者の「作る喜び」コンテンツが大反響。
+
+### 分析サマリー（12:30）
+
+**最重要トレンド:**
+- **Google OpenClaw制限が爆発（359pts/290cmts）** - 本日のAI最大シグナルに浮上。「有料サブスクなのに警告なしでアカウント停止」という体験がHNの技術者コミュニティの怒りを呼んだ。AI大手のプラットフォーム制御・ベンダーロックイン問題が本格化している。
+- shuru.runはAIフィルター・全体トップ10から消えた（時間経過）。05:30〜10:30にかけて24→113ptsまで成長を記録済み。
+
+**Falcon Platform戦略への示唆:**
+- Google OpenClaw制限爆発 → 「ベンダーロックインなし」「プラットフォームに依存しない」実行環境というFuyajoの価値提案が今日最も強いシグナルで裏付けられた
+- 分散化（Loops 281pts）とプラットフォーム制御への反発が同日に並行 → 中央集権AIへの不満が他ジャンルにも波及中
+- Aqua（CLI for AI agents）登場 → エージェント間通信・CLIツール需要は継続
+
+---
+
 ### 10:30 JST
 
 #### HIGH Priority
