@@ -1220,3 +1220,65 @@
 - Hetzner値上げ → VPS市場のコスト上昇は続く。Fuyajoの固定価格モデルの差別化が重要
 - NanoClaw/Docker移行 → Appleエコシステムより汎用コンテナ技術を選ぶ実践的選択。Fuyajoの技術スタック選定（Cloud Hypervisor/Firecracker）でも同様の汎用性重視が正解
 - Timeframe DIY（1208pts） → シンプルで有用なものを自分で作る文化への共感が強い。Fuyajoのデモ・LP戦略に参考
+### 22:30 JST
+
+#### HIGH Priority
+
+**[680pts, 569comments] Google restricting Google AI Pro/Ultra subscribers for using OpenClaw** ↑ 継続成長
+- URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+- 重要度: HIGH / プラットフォーム制御・ベンダーロックイン
+- 19:30の632pts/515cmts → 680pts/569cmts。夜間も成長継続で本日の圧倒的最大AIシグナル確定。
+- 洞察: 朝91ptsから22時時点で680ptsへ約7.5倍成長。欧米ユーザーのプライムタイムにも刺さっており、「AIプラットフォームによる利用者コントロール」への不満が世界規模。Fuyajoの「ベンダーロックインなし・オープンアクセス」価値提案を本日最も強く裏付けた。
+
+#### MEDIUM Priority
+
+**[321pts, 179comments] Man accidentally gains control of 7k robot vacuums** ↑ 緩やかに成長
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ・エージェント権限管理
+- 19:30の297pts → 321pts。IoT/エージェント実行環境のアクセス制御・権限管理の失敗事例。Falcon Platformのサンドボックス設計への示唆あり。
+
+**[293pts, 264comments] Pope tells priests to use their brains, not AI, to write homilies**
+- URL: https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies
+- 重要度: MEDIUM / AI懐疑論・適材適所
+- ローマ教皇がAIによる説教作成を批判。コメント264件と活発。AI利用の「意味と目的」についての社会的議論の高まり。Falcon Platformが「道具としてのAI」を強調する文脈と一致。
+
+**[152pts, 116comments] NanoClaw moved from Apple Containers to Docker**
+- URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+- 重要度: MEDIUM / コンテナエコシステム・開発環境
+- Apple ContainersからDockerへの移行。コンテナ実行環境の選定判断の実例。Falcon Platformのコンテナ/VM戦略参考情報。
+
+**[61pts, 31comments] Aqua: A CLI message tool for AI agents**
+- URL: https://github.com/quailyquaily/aqua
+- 重要度: MEDIUM / AIエージェント開発ツール
+- AIエージェント向けCLIメッセージングツール。Falcon Platformが提供するエージェント実行インフラ周辺の開発ツールエコシステム動向。
+
+#### 全体トップから注目
+
+**[1246pts, 304comments] I built Timeframe, our family e-paper dashboard** ↑ 本日全体1位
+- URL: https://hawksley.org/2026/02/17/timeframe.html
+- 重要度: MEDIUM / ハードウェア+ソフトウェア統合プロジェクト
+- HN本日最高スコア。個人のDIYプロジェクトへの共感が非常に高い。「作った」という透明性・実装共有への需要を示す。Chronicleの方向性と一致。
+
+**[314pts, 132comments] Ladybird Browser adopts Rust**
+- URL: https://ladybird.org/posts/adopting-rust/
+- 重要度: MEDIUM / 言語エコシステム・Rust採用
+- オープンソースブラウザのRust移行。Rustのシステムプログラミング領域での採用加速継続。インフラ層技術選定の参考。
+
+**[152pts, 75comments] Hetzner (European hosting provider) to increase prices by up to 38%**
+- URL: https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/
+- 重要度: MEDIUM / インフラコスト・競合環境
+- Hetznerが最大38%値上げ。欧州クラウドコストの上昇。Falcon Platformの競争優位（コスト効率）を再考する機会。GCPとの比較軸が変化する可能性。
+
+### 分析サマリー（22:30）
+
+**本日の決定的シグナル:**
+- **Google OpenClaw制限（680pts）** が本日のHN AIシグナル全体を支配。朝から夜まで7.5倍成長。「AIプラットフォームによる利用者制限」への技術者コミュニティの強い反発は、Fuyajoの「オープン・ロックインなし」価値提案を最強に裏付けた本日最重要インサイト。
+
+**夜間新規シグナル:**
+- **Timeframe (1246pts)** が本日全体HNで1位。個人DIYプロジェクトの透明な共有が最も共感を集める。Chronicleで「作りながら見せる」アプローチの有効性を確認。
+- **Hetzner 38%値上げ** → クラウドインフラコスト全般の上昇トレンド。Fuyajoの固定価格モデルの価値が相対的に上がる可能性。
+
+**Falcon Platform戦略への示唆:**
+- ベンダーロックイン問題（Google OpenClaw）は本日HNで最も議論された話題 → 差別化メッセージの緊急性高
+- インフラコスト上昇（Hetzner）→ 固定価格・コスト予測性の訴求強化タイミング
+- 個人DIYプロジェクトの高評価（Timeframe）→ 「作る過程を見せる」Chronicleスタイル継続推奨
