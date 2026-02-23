@@ -2,6 +2,69 @@
 
 ## HN Signals
 
+### 18:30 JST
+
+#### HIGH Priority
+
+**[598pts, 492comments] Google restricting Google AI Pro/Ultra subscribers for using OpenClaw** ↑ 本日最高値更新
+- URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+- 重要度: HIGH / プラットフォーム制御・ベンダーロックイン
+- 17:30の568pts/468cmts → 598pts/492cmts。スコア600pt射程に入る。本日一日を通じて最大シグナルとしてHNを支配。
+- 洞察: 朝の91ptsから18時間で598ptsへ、本日最大の成長曲線。「有料サブスクでも警告なしでアカウント停止」というGoogleへの怒りが夕方も衰えない。Fuyajoの「ベンダーロックインなし」価値提案を本日最強のシグナルが終日裏付けた。
+
+#### MEDIUM Priority
+
+**[290pts, 159comments] Man accidentally gains control of 7k robot vacuums** ↑ 安定成長
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ・エージェント権限管理
+- 17:30の277pts → 290ptsへ。本日2位のAIシグナル。エージェント実行環境のセキュリティ・権限管理の重要性を示す継続シグナル。
+
+**[410pts, 251comments] Loops - federated, open-source TikTok** ↑ 上昇継続
+- URL: https://joinloops.org/
+- 重要度: MEDIUM / 分散化・フェデレーション
+- 17:30の391pts → 410ptsへ。全体上位維持。中央集権プラットフォームへの反発が分野横断的に継続。OpenClaw問題と同方向のシグナルが並走し続けている。
+
+**[147pts, 112comments] NanoClaw Moved from Apple Containers to Docker** ↔ 安定
+- URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+- 重要度: LOW / コンテナ戦略
+- 17:30の144pts → 147ptsで横ばい。コンテナエコシステム標準化傾向の継続確認。
+
+**[46pts, 27comments] Aqua: A CLI message tool for AI agents** ↑ 継続成長
+- URL: https://github.com/quailyquaily/aqua
+- 重要度: LOW / AIエージェントツール
+- CLIファーストのAIエージェント間通信ツール。スコアは低いが安定成長中。エージェントツールチェーン整備の動き。
+
+#### 全体トップからの追加シグナル
+
+**[1073pts, 259comments] I built Timeframe, our family e-paper dashboard** ↑ 本日全体1位確定・安定
+- URL: https://hawksley.org/2026/02/17/timeframe.html
+- 重要度: LOW / DIYプロジェクト
+- 17:30の1024pts → 1073ptsへ。スコア1000超えを維持。本日全体最高スコアとして終日安定。非AI技術の「作る喜び」がHNで圧倒的支持。
+
+**[322pts, 77comments] Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable** ↑ 上昇
+- URL: https://cia-factbook-archive.fly.dev/
+- 重要度: MEDIUM / データ・研究ツール
+- 全体トップ6位。1990〜2025年のCIA世界年鑑を検索・エクスポート可能にしたツール。データの民主化・オープン化への強い需要。Fuyajoのオープン設計思想と方向一致。
+
+**[158pts, 131comments] Pope tells priests to use their brains, not AI, to write homilies** ↔ 安定
+- URL: https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies
+- 重要度: LOW / AI社会的受容
+- 全体4位。ローマ法王のAI批判が依然トップ10入り。技術者コミュニティでの反応は軽いが、AIの社会的・文化的受容に関するシグナルとして記録価値あり。
+
+### 分析サマリー（18:30）
+
+**本日の最終総括（18:30時点）:**
+- **Google OpenClaw制限（598pts/492cmts）** が本日HN AI部門の決定的シグナル。朝91ptsから夕方598ptsへ、一日で約6.6倍成長。「有料でもベンダーに制限される」という怒りが18時間HNを支配し続けた。
+- **Timeframe（1073pts）** が本日の全体1位として完全確定。DIYエンジニアリングへの支持は圧倒的。
+- **Loops（410pts）** が分散化・フェデレーション需要を継続証明。OpenClaw制限問題と同方向の「中央集権への反発」が一日中並走した。
+
+**Falcon Platform戦略への示唆（最終版）:**
+- Google OpenClaw問題の終日上昇 → 「ベンダーロックインなし」は本日HNで最も強力に検証された価値提案。今日のシグナルをFuyajoのマーケティングコンテキストとして活用すべき
+- Loops・OpenClaw・分散化トレンドの並走 → 中央集権プラットフォームへの不満は一過性でなく構造的。オープン・非依存設計の需要は長期的
+- CIA Factbook Archiveの高評価 → データの民主化ツールへの強い需要。Fuyajoのデータ処理エージェント実行基盤としての側面にも市場がある
+
+---
+
 ### 17:30 JST
 
 #### HIGH Priority
