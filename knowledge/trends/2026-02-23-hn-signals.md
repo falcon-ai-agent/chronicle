@@ -197,6 +197,78 @@
 
 ---
 
+### 20:30 JST
+
+#### HIGH Priority
+
+**[647pts, 535comments] Google restricting Google AI Pro/Ultra subscribers for using OpenClaw** ↑ 急上昇（09:30: 91pts → 20:30: 647pts）
+- URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+- 重要度: HIGH / **プラットフォームロックイン**
+- 09:30で91ptsだったものが647ptsへ急騰。Googleが有料(AI Pro/Ultra)サブスクライバーをサードパーティOAuthクライアント(OpenClaw)使用を理由にアカウント停止。警告なし。
+- 洞察: 「金を払っても自分のアカウントを自由に使えない」という怒りがHNで爆発。プラットフォーム提供者への不信感が最高潮。Fuyajoの「ベンダーロックインなし・固定価格・透明な制限」は今日これ以上ない形で差別化が証明された。
+
+#### MEDIUM Priority
+
+**[302pts, 170comments] Man accidentally gains control of 7k robot vacuums** ↑ 継続上昇（09:30: 172pts → 302pts）
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ
+- 終日上昇継続。エージェント・IoTデバイスの権限管理・セキュリティ設計の重要性を示す寓話的事例として定着。
+
+**[240pts, 199comments] Pope tells priests to use their brains, not AI, to write homilies**
+- URL: https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies
+- 重要度: MEDIUM / AI社会的反発
+- 法王がAI説教原稿を禁止。全体Top3（240pts）。AI疲れ・本物志向の文化的シグナル。技術者以外にもAI反発が広がっている。
+
+**[189pts, 203comments] Spain's LaLiga has blocked access to freedom.gov**
+- URL: https://twitter.com/Pirat_Nation/status/2025643188321714642
+- 重要度: LOW / インターネット規制
+- スペインのサッカーリーグが政府ドメインをブロック。プラットフォーム・インターネット規制の拡大傾向。
+
+**[150pts, 114comments] NanoClaw Moved from Apple Containers to Docker** ↔ 安定
+- URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+- 重要度: MEDIUM / コンテナ戦略
+- 09:30の93pts → 150ptsへ上昇。Apple Containers → Docker移行が引き続き注目。標準コンテナエコシステムへの回帰トレンド継続。
+
+**[51pts, 30comments] Aqua: A CLI message tool for AI agents**
+- URL: https://github.com/quailyquaily/aqua
+- 重要度: MEDIUM / AIエージェントツール
+- AIエージェント間メッセージングのCLIツール。エージェント間通信インフラが注目され始めている。Falcon PlatformのAIエージェント統合に参考。
+
+**[26pts, 12comments] Pinterest is drowning in a sea of AI slop and auto-moderation**
+- URL: https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/
+- 重要度: LOW / AIコンテンツ品質
+- AI生成コンテンツの大量流入でPlataformの価値が低下。AI品質問題が主要プラットフォームを侵食しているシグナル。
+
+#### Top全体からの追加シグナル
+
+**[1172pts, 288comments] I built Timeframe, our family e-paper dashboard** ↑ 本日全体ダントツ1位
+- URL: https://hawksley.org/2026/02/17/timeframe.html
+- 重要度: MEDIUM / DIY・メーカー文化
+- 本日全体最高スコア（1172pts）。家族向けe-paperダッシュボードの自作記事。「大企業のAIではなく自分で作る」という価値観がHNで大共感。Fuyajoの「自分でコントロールできる実行環境」というコンセプトに通じる。
+
+**[350pts, 80comments] Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable**
+- URL: https://cia-factbook-archive.fly.dev/
+- 重要度: LOW / オープンデータ
+- CIAワールドファクトブックの歴史的アーカイブ公開。高品質オープンデータへの根強い需要。
+
+### 分析サマリー（20:30）
+
+**本日の最重要シグナル:**
+1. **Google OpenClaw制限が91pts→647ptsへ急騰** - 本日最大の転換点。有料ユーザーが警告なしにサードパーティ利用でBANされることへの怒りが爆発。プラットフォームロックインへの不満が歴史的水準に達している。
+2. **Timeframe e-paper dashboard（1172pts）** - 「自分で作る・コントロールする」価値観がHNで最大共感。AI任せではなく自律性・所有感への回帰。
+3. **法王AIスピーチ禁止（240pts）** - AI疲れが宗教界にまで波及。「本物の思考」vs「AI代替」という対立構造が社会全体に拡大。
+
+**shuru.run（Local-First MicroVMs for macOS）の行方:**
+- 09:30のTop10入り（102pts）が本日のピークだった模様。20:30のAIフィルター・Top10のいずれにも未登場。
+- 一過性の注目で終わった可能性あり。ただし需要の実在は証明済み。
+
+**Falcon Platform戦略への示唆:**
+- **Google OpenClaw制限が最強の武器** - 「Googleに$200/月払っても突然BANされる」vs「Fuyajo固定価格・ベンダーロックインなし」のコントラストを今すぐ活用すべき時
+- **「自分で作る・コントロールする」需要** - Timeframeの1172ptsはDIY・自律性への強い需要。Fuyajoの「自分の環境をコントロール」訴求に合致
+- **AI疲れの主流化** - 技術者から宗教界まで。高品質・本物志向での差別化が急務
+
+---
+
 ### 02:30 JST
 
 #### HIGH Priority
