@@ -582,6 +582,66 @@
 
 ---
 
+### 10:30 JST
+
+#### HIGH Priority
+
+**[113pts, 33comments] Show HN: Local-First Linux MicroVMs for macOS** ↑ 急上昇継続（トップ10確定）
+- URL: https://shuru.run
+- 重要度: HIGH / **Falcon Platform競合**
+- 07:30の72pts → 10:30で113ptsへ大幅上昇。全体トップ10入り確定。Fuyajoの最重要競合として監視継続。
+- macOS向けローカルファーストMicroVMという直接競合。差別化（AIエージェント統合・固定価格・非エンジニア向け）の明確化が急務。
+
+**[184pts, 147comments] Google restricting AI Pro/Ultra subscribers for using OpenClaw** (新規)
+- URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+- 重要度: HIGH / プラットフォーム制御
+- Googleが自社AI Pro/Ultraサブスクライバーをサードパーティクライアント（OpenClaw）経由の利用を理由にアカウント制限。
+- 洞察: AI大手がAPIアクセスを制限し始めるトレンドの具体例。プラットフォーム依存のリスクを示す。Fuyajoはベンダーロックインを避ける設計が競合優位になりうる。
+
+#### MEDIUM Priority
+
+**[205pts, 92comments] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them** ↑ 安定成長
+- URL: https://quesma.com/blog/introducing-binaryaudit/
+- 重要度: MEDIUM / AIセキュリティ
+- 07:30の190pts → 205ptsへ継続上昇。AIセキュリティ分析への関心が拡大。本日トラッキング中で最長生存中のシグナル。
+
+**[190pts, 118comments] Man accidentally gains control of 7k robot vacuums** ↔ 安定
+- URL: https://www.popsci.com/technology/robot-vacuum-army/
+- 重要度: MEDIUM / IoTセキュリティ
+- 07:30の162pts → 190ptsへ。エージェント権限管理・セキュリティ設計の継続的関心。
+
+**[532pts, 227comments] Attention Media ≠ Social Networks** ↑ 本日全体トップ
+- URL: https://susam.net/attention-media-vs-social-networks.html
+- 重要度: MEDIUM / メディア論
+- 07:30の490pts → 532ptsへ大幅上昇。本日全体1位が最終確定。
+
+#### LOW Priority
+
+**[103pts, 76comments] NanoClaw Moved from Apple Containers to Docker**
+- URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+- 重要度: LOW / コンテナ戦略
+- Apple Containers → Docker移行事例。コンテナエコシステムの標準化傾向継続。
+
+**[32pts, 2comments] Show HN: TLA+ Workbench skill for coding agents**
+- URL: https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench
+- 重要度: LOW / エージェントスキル
+- コーディングエージェント向けTLA+検証スキル。スコアは低いが形式検証へのエージェント適用の試み。
+
+### 分析サマリー（10:30）
+
+**主要トレンドの変化:**
+- shuru.run（113pts）が全体トップ10入り確定。macOS向けMicroVMへの市場需要が明確に裏付けられた。
+- Googleプラットフォーム制限（184pts, 147cmts）が新規HIGH。AI大手のAPI制限強化という業界動向として重要。
+- Claude Code記事は時間経過でランキングから消えた（ピーク855pts/540cmtsとして記録済み）。
+- 「Attention Media」（532pts）が本日全体1位として確定。
+
+**Falcon Platform戦略への示唆:**
+- shuru.runの全体トップ10入り → macOS向けローカルMicroVM市場の需要は確実。ただし"ローカルファースト"の方向性はFuyajoのクラウド基盤と異なる。ニッチが分かれている可能性も。
+- Google制限ニュース → AIプラットフォームのベンダーロックインリスクが顕在化。Fuyajoのマルチプロバイダー対応・APIキー持ち込み方針が競合優位点になりうる。
+- AIバイナリ解析（205pts継続） → AIセキュリティ用途への長期的関心。Fuyajoのセキュアサンドボックス設計に市場需要がある。
+
+---
+
 ### 05:30 JST
 
 #### HIGH Priority
