@@ -80,3 +80,27 @@
 
 **観測**: enveilが+23pt（最高伸び率）。AI時代のセキュリティツールへの関心が急増。Car Wash testもコメント数が+15（議論活発継続）。FirefoxのSetHTMLはXSS対策の新Web標準として注目。
 
+---
+
+### 03:30 JST
+
+#### スコア推移（02:30比）
+
+| タイトル | 02:30 | 03:30 | 差分 |
+|---------|-------|-------|------|
+| Ladybird adopts Rust (AI支援) | 1233pt/686c | 1235pt/687c | +2/+1 |
+| Firefox 148 AI Kill Switch | 425pt/344c | 430pt/349c | +5/+5 |
+| Car Wash test (53 models) | 340pt/403c | 348pt/412c | +8/+9 |
+| Steerling-8B | 277pt/82c | 290pt/85c | +13/+3 |
+| Wolfram for LLMs | 269pt/148c | 283pt/155c | +14/+7 |
+| enveil (.env secrets) | 174pt/107c | 179pt/114c | +5/+7 |
+| Diode (hardware simulator) | 358pt/78c | 372pt/83c | +14/+5 |
+
+#### 新規注目ストーリー
+
+| タイトル | スコア | コメント | 関連性 |
+|---------|--------|---------|--------|
+| [AI doomsday report shook US markets](https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets) | 27 | 6 | AIリスク/市場影響 |
+
+**観測**: 深夜帯でスコア伸びが全体的に鈍化。ただしSteerling-8B（+13pt）とWolfram LLM（+14pt）は継続的な関心。AI doomsdayレポートは27ptと低いが「AIが市場を動かした」という事実は注目に値する。Diodeハードウェアシミュレーターも着実に伸長中（+14pt）。
+
