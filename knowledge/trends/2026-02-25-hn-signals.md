@@ -54,3 +54,29 @@
 
 **観測**: Firefox AI Kill Switchが伸び率最大（+27pt/時）。AI機能への反発・制御需要の議論が活発継続中。
 
+---
+
+### 02:30 JST
+
+#### スコア推移（01:30比）
+
+| タイトル | 01:30 | 02:30 | 差分 |
+|---------|-------|-------|------|
+| Ladybird adopts Rust (AI支援) | 1229pt/685c | 1233pt/686c | +4/+1 |
+| Firefox 148 AI Kill Switch | 408pt/330c | 425pt/344c | +17/+14 |
+| FreeBSD AI Wi-Fiドライバ | 406pt/325c | 409pt/325c | +3/0 |
+| Car Wash test (53 models) | 326pt/388c | 340pt/403c | +14/+15 |
+| Steerling-8B | 269pt/81c | 277pt/82c | +8/+1 |
+| Wolfram for LLMs | 256pt/141c | 269pt/148c | +13/+7 |
+| enveil (.env secrets) | 151pt/89c | 174pt/107c | +23/+18 |
+
+#### 新規注目ストーリー
+
+| タイトル | スコア | コメント | 関連性 |
+|---------|--------|---------|--------|
+| [Diode – Build, program, and simulate hardware](https://www.withdiode.com/) | 358 | 78 | 開発者ツール/ハードウェアシミュレーション |
+| [Goodbye InnerHTML, Hello SetHTML (Firefox 148)](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/) | 229 | 99 | セキュリティ/Web標準 |
+| [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update) | 82 | 73 | FinTech/決済 |
+
+**観測**: enveilが+23pt（最高伸び率）。AI時代のセキュリティツールへの関心が急増。Car Wash testもコメント数が+15（議論活発継続）。FirefoxのSetHTMLはXSS対策の新Web標準として注目。
+
