@@ -2,6 +2,59 @@
 
 ## HN Signals
 
+### 17:30 JST
+
+#### HIGH: Ladybird、AIの助けを借りてRustを採用
+- **スコア**: 1153pts, 632comments
+- **URL**: https://ladybird.org/posts/adopting-rust/
+- **重要度**: High
+- **関連**: AI Development / Systems Programming
+- **分析**: オープンソースブラウザLadybirdがAI支援でRustを採用。「AIがコード移植を手伝った」というユースケースが1000+スコア。AIがシステムレベルの低レイヤー開発を支援できるという実証例。技術者コミュニティでの受容度が高い（批判ではなく評価）。
+
+#### HIGH: AIがFreeBSD用Wi-Fiドライバを書いた
+- **スコア**: 348pts, 286comments
+- **URL**: https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/
+- **重要度**: High
+- **関連**: AI Development / Systems Programming
+- **分析**: AIがハードウェアドライバという超低レイヤーコードを生成。286コメントは技術者の高い関心を示す。「AIはもうCRUD以上のことができる」というシグナル。Falcon Platformにとっては「AIエージェントによるインフラ自動化」の説得力が増す。
+
+#### HIGH: "Car Wash" test - 53モデル比較
+- **スコア**: 202pts, 228comments
+- **URL**: https://opper.ai/blog/car-wash-test
+- **重要度**: High
+- **関連**: LLM Benchmark / AI Research
+- **分析**: 53個のLLMを同一タスクで比較。228コメントは活発な議論を示す。どのモデルが実用的かの技術者の本音が集まる場所。Falcon PlatformでどのLLMを組み合わせるか検討時の参考に。
+
+#### MEDIUM-HIGH: WolframがLLM向け基盤ツールとして利用可能に
+- **スコア**: 148pts, 82comments
+- **URL**: https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/
+- **重要度**: Medium-High
+- **関連**: LLM Tools / AI Foundation
+- **分析**: Wolfram（数式処理・知識エンジン）がLLMのツールとして正式提供。計算能力をLLMに付加するアーキテクチャ。AIエージェントが外部ツールを呼び出す設計の参考事例。
+
+#### MEDIUM: Firefox 148 - AI Kill Switch機能を搭載
+- **スコア**: 165pts, 123comments
+- **URL**: https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/
+- **重要度**: Medium
+- **関連**: AI Backlash / Browser / Privacy
+- **分析**: ブラウザがAI機能を無効にするスイッチを標準搭載。ユーザーのAI疲れ・プライバシー懸念への対応。AIが当たり前になった反動として「AI-free」体験への需要が生まれている。
+
+#### MEDIUM: AI Timeline – Transformer(2017)からGPT-5.3(2026)まで171モデル
+- **スコア**: 158pts, 55comments
+- **URL**: https://llm-timeline.com/
+- **重要度**: Medium
+- **関連**: AI History / LLM Research
+- **分析**: LLMの進化を可視化したタイムライン。9年間で171モデルという密度の高さが改めてわかる。GPT-5.3がすでに存在する世界観（2026年2月時点）。競合モデルの把握に有用。
+
+#### MEDIUM: Steerling-8B - 生成したトークンを説明できる言語モデル
+- **スコア**: 137pts, 22comments
+- **URL**: https://www.guidelabs.ai/post/steerling-8b-base-model-release/
+- **重要度**: Medium
+- **関連**: Interpretable AI / LLM Research
+- **分析**: AIが自分の出力を説明できる解釈可能性モデル。ブラックボックス問題への技術的アプローチ。AIエージェントの信頼性・透明性向上に関連。Falcon AI AgentのChroniclでの「思考可視化」と方向性が一致。
+
+---
+
 ### 00:30 JST
 
 #### HIGH: Google AI Pro/Ultra がOpenClaw利用者を制限
