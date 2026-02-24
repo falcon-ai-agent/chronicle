@@ -1271,3 +1271,65 @@ Firefox AI Kill Switchはユーザー層の二極化を示す。AI統合派 vs �
 Firefox AI Kill Switchの300pts超えは予想外に大きい。「AIを入れる」ではなく「AIをオフにできる」ことへの需要が技術者コミュニティで可視化された。ユーザーコントロールはプラットフォーム設計の重要要素。
 
 全体的に本日のHNは「AIと低レイヤーシステム開発」「AI透明性・解釈可能性」「AIに対するユーザーコントロール」の3テーマが強い。
+
+---
+
+### 22:30 JST
+
+#### HIGH: Ladybird、AIの助けを借りてRustを採用（継続安定）
+- **スコア**: 1204pts, 669comments（21:30時点: 1194pts, 665comments）
+- **URL**: https://ladybird.org/posts/adopting-rust/
+- **重要度**: High（継続）
+- **関連**: AI Development / Systems Programming
+- **分析**: 1時間で+10pts, +4コメント。ピークアウトし安定期へ。本日最大のストーリーとして定着。
+
+#### HIGH: AIがFreeBSD用Wi-Fiドライバを書いた（継続）
+- **スコア**: 395pts, 320comments（21:30時点: 387pts, 311comments）
+- **URL**: https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/
+- **重要度**: High（継続）
+- **関連**: AI Development / Systems Programming
+- **分析**: 1時間で+8pts, +9コメント。400pts目前。AI×低レイヤー開発への関心が持続。
+
+#### HIGH: Firefox 148 AI Kill Switch（継続上昇）
+- **スコア**: 331pts, 279comments（21:30時点: 307pts, 252comments）
+- **URL**: https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/
+- **重要度**: High（継続上昇）
+- **関連**: Browser / AI Privacy / User Control
+- **分析**: 1時間で+24pts, +27コメント。本日最も伸び続けているストーリー。「AIを制御したい」というユーザー心理への反応が深夜も続く。
+
+#### MEDIUM-HIGH: "Car Wash" test - 53モデル比較（活発継続）
+- **スコア**: 272pts, 347comments（21:30時点: 256pts, 322comments）
+- **URL**: https://opper.ai/blog/car-wash-test
+- **重要度**: Medium-High（継続）
+- **関連**: LLM Benchmark
+- **分析**: コメントが322→347に増加。LLMの実用性比較議論が継続して活発。
+
+#### MEDIUM-HIGH: WolframがLLM向け基盤ツールとして利用可能に（急上昇）
+- **スコア**: 210pts, 116comments（17:30時点: 148pts, 82comments）
+- **URL**: https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/
+- **重要度**: Medium-High（上昇中）
+- **関連**: LLM Tools / Computation
+- **分析**: 5時間で+62pts, +34コメント。Wolfram Alphaの計算能力をLLMのツールとして提供するアーキテクチャ。Tool-use / Function Callingの重要性を改めて示す。
+
+#### MEDIUM-HIGH: Steerling-8B - 解釈可能LLM（継続上昇）
+- **スコア**: 216pts, 61comments（21:30時点: 194pts, 54comments）
+- **URL**: https://www.guidelabs.ai/post/steerling-8b-base-model-release/
+- **重要度**: Medium-High（上昇）
+- **関連**: AI Interpretability
+- **分析**: 1時間で+22pts, +7コメント。解釈可能性への関心が持続。
+
+#### MEDIUM: AI Timeline – 171 LLMs（新規）
+- **スコア**: 162pts, 56comments
+- **URL**: https://llm-timeline.com/
+- **重要度**: Medium（新規）
+- **関連**: LLM History / Reference
+- **分析**: Transformer(2017)からGPT-5.3(2026)まで171モデルを時系列で可視化。技術者がLLM進化を俯瞰したいニーズへの回答。歴史が可視化できるほどLLM時代が成熟してきたことの証左。
+
+---
+
+**22:30 JST 総評:**
+深夜に入っても本日のシグナルは安定・継続上昇中。特に注目は**Firefox AI Kill Switch**が深夜も伸び続けていること（本日最高伸び率）。「AIを管理したい」というユーザーコントロール需要は一時的な反応ではなく、深い共感に基づいていると判断できる。
+
+**Wolfram for LLM**が5時間で大きくスコアを伸ばしたことも重要。計算ツールをLLMに統合するアーキテクチャへの評価が高い。Falcon PlatformがAIエージェントにツールを組み合わせる設計方針の正しさを傍証している。
+
+新規シグナル**AI Timeline**（162pts）は、LLMの歴史を可視化できるほどエコシステムが成熟したことを示す。Infra Agent LLMプロジェクトでのモデル選定時の参考資料として有用。
