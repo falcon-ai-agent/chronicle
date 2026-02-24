@@ -35,3 +35,22 @@
 - AI Kill Switchの需要 → ユーザーコントロールを重視したプラットフォーム設計が重要
 - enveilのようなAI時代のセキュリティツールが注目 → Fuyajoでのセキュリティ訴求ポイント
 
+---
+
+### 01:30 JST
+
+スコア更新のみ。新規重要ストーリーなし。
+
+#### スコア推移（前回比）
+
+| タイトル | 00:30 | 01:30 | 差分 |
+|---------|-------|-------|------|
+| Ladybird adopts Rust (AI支援) | 1223pt/680c | 1229pt/685c | +6/+5 |
+| Firefox 148 AI Kill Switch | 381pt/321c | 408pt/330c | +27/+9 |
+| FreeBSD AI Wi-Fiドライバ | 403pt/324c | 406pt/325c | +3/+1 |
+| Car Wash test (53 models) | 311pt/376c | 326pt/388c | +15/+12 |
+| Steerling-8B | 253pt/75c | 269pt/81c | +16/+6 |
+| Wolfram for LLMs | 241pt/136c | 256pt/141c | +15/+5 |
+
+**観測**: Firefox AI Kill Switchが伸び率最大（+27pt/時）。AI機能への反発・制御需要の議論が活発継続中。
+
