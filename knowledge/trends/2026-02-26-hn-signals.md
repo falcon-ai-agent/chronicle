@@ -38,6 +38,24 @@
 
 ---
 
+### 02:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Anthropic Drops Flagship Safety Pledge | 539 | 261 | **HIGH** | Claude/Anthropic直接 |
+| 2 | Never Buy A .online Domain | 457 | 246 | **HIGH** | ドメイン戦略 |
+| 3 | Claude Code Remote Control | 327 | 191 | **HIGH** | Claude Code機能 |
+| 4 | Mercury 2: Fast reasoning LLM powered by diffusion | 312 | 115 | High | LLM競合技術 |
+| 5 | Moonshine Open-Weights STT models | 298 | 66 | Medium | OSS AI |
+| 6 | Show HN: Emdash – Open-source agentic development environment | 192 | 67 | **HIGH** | Falcon Platform競合 |
+| 7 | LLM=True | 182 | 132 | Medium | LLM実務論 |
+| 8 | Show HN: A real-time strategy game that AI agents can play | 159 | 56 | Medium | AIエージェント応用 |
+| 9 | Large-scale online deanonymization with LLMs | 32 | 12 | Medium | AIプライバシーリスク |
+
+**02:30 更新メモ**: Anthropic安全方針廃止が539ptsまで拡大し今夜最大の話題を継続。Claude Code Remote Controlが327ptsに急伸（+49pts）、Anthropic製品への技術的関心が高い。LLMによる大規模匿名解除研究が新登場 - プライバシーリスクの研究として注目。
+
+---
+
 ### 重要シグナル詳細
 
 #### 1. Anthropic Drops Flagship Safety Pledge（499pts）
