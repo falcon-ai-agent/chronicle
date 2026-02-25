@@ -536,3 +536,44 @@
 | エージェント開発 | Emdash (122pt)、HuggingFace Skills | ★★★ |
 | vibe coding浸透 | 犬がvibe coding (717pt) | ★★★★★ |
 
+---
+
+### 14:30 JST
+
+#### スコア推移（13:30比）
+
+| タイトル | 13:30 | 14:30 | 差分 |
+|---------|-------|-------|------|
+| OpenAI + 米政府 + Persona 監視機械 | 497pt/159c | **516pt/161c** | +19/+2 |
+| How we rebuilt Next.js with AI (Cloudflare) | 407pt/155c | 412pt/159c | +5/+4 |
+| Anthropic Drops Flagship Safety Pledge | 110pt/36c | **141pt/48c** | **+31/+12** |
+| US Military meets Anthropic (Claude safeguards) | 90pt/38c | 104pt/40c | +14/+2 |
+| Mercury 2 (diffusion LLM) | 122pt/69c | 140pt/74c | +18/+5 |
+| Moonshine STT (WhisperLargev3超え) | 162pt/30c | 182pt/33c | **+20/+3** |
+| Show HN: Emdash agentic dev env | 122pt/52c | 123pt/54c | +1/+2 |
+| 犬がvibe codeでゲームを作る | 717pt/209c | **753pt/214c** | +36/+5 |
+| Mac mini Houston | 404pt/399c | 434pt/425c | **+30/+26** |
+| Pi – minimal terminal coding harness | 225pt/101c | 256pt/107c | **+31/+6** |
+| Nearby Glasses | 265pt/106c | 275pt/108c | +10/+2 |
+
+#### 新規注目ストーリー
+
+| タイトル | スコア | コメント | 重要度 | 関連性 |
+|---------|--------|---------|--------|--------|
+| [OpenAI resets spending: $1.4T → $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030/) | 193 | 166 | Medium | AI投資縮小・コメント急増 |
+| [Show HN: enveil – hide .env secrets from AI](https://github.com/GreatScott/enveil) | 193 | 122 | Medium | セキュリティ/AI時代のDev・継続成長 |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄 継続急伸（+31pt）**: 110→141ptに。13:30比で本日最高伸び率を維持。欧米昼過ぎ（UTC 5:30）の時間帯でも衰えず。複数メディア（Time誌、WSJ、Guardian）の報道が積み重なり、HNでの拡散が止まらない。
+- **Mac mini Houston コメント急増（+26c）**: スコア+30に加えコメントも+26と白熱継続（399→425c）。Apple米国製造回帰がトランプ政策との関係で活発に議論されている。
+- **Pi terminal 急伸（+31pt）**: 225→256ptへ。ミニマルなターミナル開発環境への関心が午後になっても衰えず。13:30比でAnthropicと並ぶ本日最高伸び率。
+- **OpenAI spending コメント166c**: スコアより議論が白熱（193pt/166c、比率0.86）。$1.4T→$600Bの大幅修正について実態分析の議論が継続。
+- **enveil 193pt**: AI時代の.envシークレット保護ツール。朝から継続して成長し、午後に193ptへ到達。AI開発者のセキュリティ意識の高まりを示す。
+
+#### Falcon Platform への示唆
+
+- **Anthropic問題が午後も続落しない** → Claude APIリスクは「ニュースサイクル的な一過性」でなく「構造的問題」として定着しつつある。マルチモデル対応の着手を遅らせる理由がなくなっている
+- **Pi terminal 256pt・Emdash 123pt** → ミニマルターミナル開発環境とエージェント開発基盤の両方が需要確認済み。FuyajoのSSH Gateway + AI Agent実行環境は正しい方向性
+- **enveil 193pt（AI secrets保護）** → AI時代のセキュリティが重要ニーズ。Fuyajoでの秘密情報保護（platform.env設計）の訴求ポイントになる
+
