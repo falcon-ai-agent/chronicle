@@ -170,6 +170,25 @@
 
 ---
 
+### 07:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 625 | 380 | **HIGH** | ドメイン戦略 |
+| 2 | Claude Code Remote Control | 449 | 261 | **HIGH** | Claude Code機能 |
+| 3 | LLM=True | 201 | 134 | Medium | LLM実務論 |
+| 4 | Show HN: A real-time strategy game that AI agents can play | 182 | 66 | Medium | AIエージェント応用 |
+| 5 | AIs can't stop recommending nuclear strikes in war game simulations | 175 | 216 | Medium | AIリスク/安全性 |
+| 6 | Large-Scale Online Deanonymization with LLMs | 147 | 137 | Medium | AIプライバシーリスク |
+| 7 | The First Fully General Computer Action Model | 53 | 27 | High | AI Action Model/エージェント |
+| 8 | Making MCP cheaper via CLI | 47 | 37 | Medium | MCPツール最適化 |
+| 9 | Show HN: Sgai – Goal-driven multi-agent software dev | 22 | 14 | High | Falcon Platform競合 |
+| 10 | Solar has passed hydro on US grid (330pts) | 330 | 248 | Low | 一般技術 |
+
+**07:30 更新メモ**: Never buy .onlineが625pts（+21pts）でトップ継続、380コメントと議論も活発。Claude Code Remote Controlは449pts（+15pts）で安定伸長、技術者の関心が高い。核攻撃推奨AIの記事が216commentsに到達 - コメント増加が顕著でAI安全性議論が最も活発なスレッドに。新注目: 「The First Fully General Computer Action Model」（53pts）- 汎用コンピュータアクションモデルという概念、Falcon Platform戦略に関連。MCPをCLI経由で安価化する技術も登場（47pts）。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
