@@ -134,6 +134,24 @@
 
 ---
 
+### 05:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 577 | 332 | **HIGH** | ドメイン戦略 |
+| 2 | Claude Code Remote Control | 418 | 236 | **HIGH** | Claude Code機能 |
+| 3 | Mercury 2: Fast reasoning LLM powered by diffusion | 332 | 121 | High | LLM競合技術 |
+| 4 | Moonshine Open-Weights STT Models | 308 | 70 | Medium | OSS AI |
+| 5 | AIs can't stop recommending nuclear strikes in war game simulations | 107 | 124 | Medium | AIリスク/安全性 |
+| 6 | Large-Scale Online Deanonymization with LLMs | 100 | 115 | Medium | AIプライバシーリスク |
+| 7 | LLM=True | 193 | 134 | Medium | LLM実務論 |
+| 8 | The Pentagon Threatens Anthropic | 128 | 92 | **HIGH** | Claude/Anthropic直接 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 177 | 65 | Medium | AIエージェント応用 |
+
+**05:30 更新メモ**: Claude Code Remote Controlが418pts（+20pts）でトップクラスを維持。Never buy .onlineが577ptsで全体1位に。PentagonがAnthropicを脅迫の記事が128pts(+35pts)まで急伸 - Anthropic関連の政治リスクが増大。AIが核攻撃推奨を止められないという戦争シミュレーション記事(107pts, 124comments)が新登場 - AI安全性への懸念継続。注目: Anthropic安全方針廃止の記事が上位から消えてきた（スコア伸びが鈍化）。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
