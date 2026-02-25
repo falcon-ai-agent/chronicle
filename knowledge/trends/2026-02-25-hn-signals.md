@@ -483,3 +483,56 @@
 - **Pi terminal（190pt）** → ミニマルなターミナル開発体験への需要が確認された。Fuyajoの「SSH Gateway + AIエージェント」は同じニーズを狙っている
 - **Agents.md + Evals論文**: 「agents.mdよりもEvalが重要」という指摘は、Fuyajoのエージェント実行基盤においても評価・品質管理の仕組みが差別化になることを示唆
 
+---
+
+### 13:30 JST
+
+#### スコア推移（12:30比）
+
+| タイトル | 12:30 | 13:30 | 差分 |
+|---------|-------|-------|------|
+| OpenAI + 米政府 + Persona 監視機械 | 477pt/152c | **497pt/159c** | +20/+7 |
+| How we rebuilt Next.js with AI (Cloudflare) | 397pt/151c | **407pt/155c** | +10/+4 |
+| Anthropic Drops Flagship Safety Pledge | 69pt/23c | **110pt/36c** | **+41/+13 ← 本日最高伸び率** |
+| US Military meets Anthropic (Claude safeguards) | 69pt/21c | 90pt/38c | +21/+17 |
+| Mercury 2 (diffusion LLM) | 97pt/61c | 122pt/69c | **+25/+8** |
+| Moonshine STT (WhisperLargev3超え) | 146pt/28c | 162pt/30c | +16/+2 |
+| Show HN: Emdash agentic dev env | 120pt/49c | 122pt/52c | +2/+3 |
+| 犬がvibe codeでゲームを作る | 687pt/203c | **717pt/209c** | +30/+6 |
+
+#### Top全体より（新規・注目）
+
+| タイトル | スコア | コメント | 備考 |
+|---------|--------|---------|------|
+| [犬がvibe codeでゲームを作る](https://www.calebleak.com/posts/dog-game/) | 717 | 209 | 本日通算トップ継続独走 |
+| [Mac mini: Houston facility](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/) | 404 | 399 | コメント数400に迫る白熱議論 |
+| [Amazon accused of widespread price inflation scheme](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price) | 207 | 62 | Big Tech独占問題 |
+| [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses) | 265 | 106 | AR/ウェアラブル継続成長 |
+| [Pi – a minimal terminal coding harness](https://pi.dev) | 225 | 101 | ミニマルターミナル開発ツール継続成長 |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄が本日最高伸び率（+41pt）**: 69→110ptに急伸。Time誌の「Anthropic Drops Flagship Safety Pledge」報道が欧米昼帯に本格拡散。WSJも別報道「Anthropic Dials Back AI Safety Commitments」と複数メディアが一斉報道。この誓約廃棄がPentagon圧力の結果かどうかはAnthropicは否定しているが、HNコミュニティは「タイミングが怪しい」と批判的。
+- **OpenAI監視機械 497pt到達**: 本日を通じて最高AIシグナルの地位を維持。プライバシー・AI企業と政府の癒着問題として1日間持続した議論。
+- **Mercury 2 diffusion LLM 高成長継続（+25pt）**: 97→122ptへ。コメントも61→69と議論継続。diffusionベースのLLMが transformer系に匹敵する推論速度を実現できるかどうかの技術的議論が続いている。
+- **Moonshine STT 162pt**: WhisperLargev3を超えるオープンウェイト音声認識として注目継続。petewarden（元Google）の信頼性が後押し。
+- **US Military × Anthropic 90pt**: 米軍指導部がClaudeセーフガード撤廃を直接要求した件が90ptまで成長。安全誓約廃棄ニュースと連動して同時に議論されている。
+- **犬がvibe coding 717pt**: 本日通算トップを独走。"vibe coding"という概念が日常語として技術者コミュニティに完全定着したことを示す象徴的ストーリー。
+
+#### Falcon Platform への示唆
+
+- **Anthropic安全誓約廃棄 + WSJ二重報道が臨界点**: Claudeへの信頼が公式に揺らいでいる。マルチモデル対応は「次の優先事項」ではなく「今すぐ始めるべきこと」
+- **Mercury 2 diffusion LLMの成長が継続**: 新LLMアーキテクチャへの技術者の関心は本物。Fuyajoがモデル非依存の実行基盤であれば、どのアーキテクチャが主流になっても対応できる
+- **Pi terminal 225pt**: ミニマルなターミナル開発環境への需要が1日を通じて成長。Fuyajoの「SSH + AI Agent」コンセプトと完全合致するニーズが確認された
+
+#### 本日（13:30時点）の総括シグナル
+
+| テーマ | 代表シグナル | 強度 |
+|--------|-------------|------|
+| AI企業と政治・軍事 | Anthropic安全誓約廃棄、米軍交渉、Pentagon最後通牒 | ★★★★★ |
+| AI企業とプライバシー | OpenAI×政府×Persona監視機械 (497pt) | ★★★★★ |
+| AI×開発ツール | Cloudflare vinext (407pt)、Pi terminal (225pt) | ★★★★ |
+| オープンモデル | Moonshine STT (162pt)、Mercury 2 (122pt) | ★★★ |
+| エージェント開発 | Emdash (122pt)、HuggingFace Skills | ★★★ |
+| vibe coding浸透 | 犬がvibe coding (717pt) | ★★★★★ |
+
