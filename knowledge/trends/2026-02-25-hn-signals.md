@@ -405,3 +405,39 @@
 - Moonshine STTのオープン化加速 → 音声インターフェース実装コストが週単位で下がっている
 - Mac mini米国製造回帰 → ハードウェアにも政治経済が直接影響する時代。クラウドの地政学リスク認識が必要
 
+---
+
+### 11:30 JST
+
+#### スコア推移（10:30比）
+
+| タイトル | 10:30 | 11:30 | 差分 |
+|---------|-------|-------|------|
+| OpenAI + 米政府 + Persona 監視機械 | 435pt/141c | 455pt/145c | +20/+4 |
+| How we rebuilt Next.js with AI (Cloudflare) | 359pt/119c | 382pt/136c | **+23/+17** |
+| Moonshine STT (WhisperLargev3超え) | 111pt/19c | 133pt/23c | **+22/+4** |
+| Show HN: Emdash agentic dev env | 110pt/45c | 116pt/47c | +6/+2 |
+| Mercury 2 (diffusion LLM) | 49pt/11c | 75pt/35c | **+26/+24** |
+| Anthropic Drops Flagship Safety Pledge | 3pt/0c | 42pt/9c | **+39/+9 ← 急浮上** |
+| 犬がvibe codeでゲームを作る | 597pt/179c | 649pt/191c | +52/+12 |
+
+#### 新規注目ストーリー（High）
+
+| タイトル | スコア | コメント | 重要度 | 関連性 |
+|---------|--------|---------|--------|--------|
+| [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) | 42 | 9 | **CRITICAL** | Anthropic安全誓約廃棄・スコア急浮上 |
+| [US Military leaders meet Anthropic to argue against Claude safeguards](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai) | 35 | 4 | High | 米軍がClaudeセーフガード撤廃を直接交渉 |
+| [Pentagon Gives Anthropic an Ultimatum](https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html) | 19 | 3 | High | Pentagon最後通牒・NY Times報道 |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄が急浮上（3→42pt、+39pt）**: 10:30時点でわずか3ptだったTime誌報道が11:30には42ptへ急上昇。欧米プライムタイムのユーザーが読み始め、議論が拡大中。Pentagon最後通牒・軍の直接交渉・安全誓約廃棄という三連打が揃い、Anthropicの方針転換への懸念が技術者コミュニティに広がりつつある。
+- **Mercury 2 コメント急増（+24c）**: スコア増より議論が先行（75pt/35c）。diffusionベースLLMというアーキテクチャへの技術的関心が白熱。「なぜdiffusionで推論が速くなるのか」という本質的な議論が展開中と思われる。
+- **Cloudflare vinext 継続成長（+23pt）**: 382pt/136cに到達。本日終日にわたって高成長を維持。技術者の「AIで実際のエンジニアリングをこなす」という実例への強い関心が確認された。
+
+#### Falcon Platform への示唆
+
+- **Anthropic問題が臨界点に**: 安全誓約廃棄ニュースが急浮上。Claude API依存のリスクが現実の問題として浮上。Fuyajoのマルチモデル戦略を「将来の検討」から「優先実装」へ格上げすべきタイミング
+- Mercury 2（diffusion LLM）への高関心 → LLMアーキテクチャの多様化が加速。Fuyajoがモデル非依存の実行環境であることが長期的な強みになる
+- 本日のHN総括: 「AI企業の倫理と政治圧力」「AI実装の実際（Cloudflare vinext）」「オープンモデルの実用化（Moonshine）」の3テーマが並走した1日
+
