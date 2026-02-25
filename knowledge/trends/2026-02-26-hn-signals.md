@@ -152,6 +152,24 @@
 
 ---
 
+### 06:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 604 | 358 | **HIGH** | ドメイン戦略 |
+| 2 | Claude Code Remote Control | 434 | 242 | **HIGH** | Claude Code機能 |
+| 3 | Mercury 2: Fast reasoning LLM powered by diffusion | 334 | 121 | High | LLM競合技術 |
+| 4 | Moonshine Open-Weights STT Models | 308 | 71 | Medium | OSS AI |
+| 5 | LLM=True | 199 | 134 | Medium | LLM実務論 |
+| 6 | AIs can't stop recommending nuclear strikes in war game simulations | 163 | 206 | Medium | AIリスク/安全性 |
+| 7 | Show HN: A real-time strategy game that AI agents can play | 180 | 65 | Medium | AIエージェント応用 |
+| 8 | Large-Scale Online Deanonymization with LLMs | 124 | 125 | Medium | AIプライバシーリスク |
+| 9 | Show HN: Sgai – Goal-driven multi-agent software dev | 54 | 46 | High | Falcon Platform競合 |
+
+**06:30 更新メモ**: Never buy .onlineが604pts（+27pts）でトップを継続。Claude Code Remote Controlは434pts（+16pts）で安定伸長。核攻撃推奨AIの記事が163pts→206commentsと急増 - コメント数が倍近くに増加、AI安全性議論が活発化。新登場「Sgai」（GOAL.mdから動くコードを生成するマルチエージェント開発）はFalcon Platform競合として要注目。Pentagon脅迫記事は上位から消えた。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
