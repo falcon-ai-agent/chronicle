@@ -19,6 +19,25 @@
 
 ---
 
+### 01:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Anthropic Drops Flagship Safety Pledge | 517 | 255 | **HIGH** | Claude/Anthropic直接 |
+| 2 | Claude Code Remote Control | 278 | 169 | **HIGH** | Claude Code機能 |
+| 3 | Mercury 2: Fast reasoning LLM powered by diffusion | 293 | 114 | High | LLM競合技術 |
+| 4 | Moonshine Open-Weights STT models | 289 | 66 | Medium | OSS AI |
+| 5 | Show HN: Emdash – Open-source agentic development environment | 191 | 66 | **HIGH** | Falcon Platform競合 |
+| 6 | Never Buy A .online Domain | 360 | 198 | **HIGH** | ドメイン戦略 |
+| 7 | Danish government agency to ditch Microsoft | 506 | 272 | **HIGH** | データ主権トレンド |
+| 8 | LLM=True | 181 | 127 | Medium | LLM実務論 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 151 | 54 | Medium | AIエージェント応用 |
+| 10 | I'm helping my dog vibe code games | 1046 | 335 | Low | バイラル |
+
+**01:30 更新メモ**: Anthropicの安全方針廃止が更にスコアを伸ばし517pts。デンマーク政府のMicrosoft離脱も506ptsと急伸。Mercury 2（拡散モデルベース推論LLM）が293ptsで技術的注目を集める。
+
+---
+
 ### 重要シグナル詳細
 
 #### 1. Anthropic Drops Flagship Safety Pledge（499pts）
