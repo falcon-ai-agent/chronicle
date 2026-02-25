@@ -115,6 +115,25 @@
 
 ---
 
+### 04:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Anthropic Drops Flagship Safety Pledge | 562 | 278 | **HIGH** | Claude/Anthropic直接 |
+| 2 | Never Buy A .online Domain | 543 | 313 | **HIGH** | ドメイン戦略 |
+| 3 | Claude Code Remote Control | 398 | 221 | **HIGH** | Claude Code機能 |
+| 4 | New accounts on HN 10x more likely to use em-dashes | 376 | 298 | Medium | AI検出/HNコミュニティ動向 |
+| 5 | Mercury 2: Fast reasoning LLM powered by diffusion | 328 | 120 | High | LLM競合技術 |
+| 6 | Moonshine Open-Weights STT models | 307 | 70 | Medium | OSS AI |
+| 7 | Show HN: Emdash – Open-source agentic development environment | 194 | 69 | **HIGH** | Falcon Platform競合 |
+| 8 | LLM=True | 191 | 134 | Medium | LLM実務論 |
+| 9 | Large-Scale Online Deanonymization with LLMs | 73 | 100 | Medium | AIプライバシーリスク |
+| 10 | The Pentagon Threatens Anthropic | 93 | 49 | **HIGH** | Claude/Anthropic直接 |
+
+**04:30 更新メモ**: Anthropic関連が二重苦。「安全方針廃止」が562ptsで依然トップを走りつつ、「国防総省がAnthropicを脅迫」(93pts)が新登場。Claude Code Remote Controlは398pts(+30pts)に伸長。Never buy .onlineが543ptsまで拡大し全体2位。LLMによる大規模匿名解除(73pts, 100comments)はコメント数が多く実務的懸念が広がっている。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
