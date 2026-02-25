@@ -730,4 +730,53 @@
 | 7 | 新LLMアーキテクチャ（Mercury 2 diffusion） | 202pt | ★★★ |
 | 8 | エージェント開発環境（Emdash） | 146pt | ★★★ |
 
+---
+
+### 18:30 JST
+
+#### スコア推移（17:30比）
+
+| タイトル | 17:30 | 18:30 | 差分 |
+|---------|-------|-------|------|
+| **Anthropic Drops Flagship Safety Pledge** | 260pt/105c | **297pt/127c** | **+37/+22 ← 継続最高伸び率** |
+| OpenAI + 米政府 + Persona 監視機械 | 562pt/175c | **570pt/177c** | +8/+2 ← 鈍化 |
+| US Military meets Anthropic (Claude safeguards) | 149pt/55c | 152pt/57c | +3/+2 ← 鈍化 |
+| How we rebuilt Next.js with AI (Cloudflare) | 434pt/166c | **444pt/172c** | +10/+6 ← 微回復 |
+| Mercury 2 (diffusion LLM) | 202pt/88c | 211pt/93c | +9/+5 |
+| Moonshine STT (WhisperLargev3超え) | 230pt/48c | 241pt/50c | +11/+2 |
+| Show HN: Emdash agentic dev env | 146pt/58c | 152pt/59c | +6/+1 |
+| 犬がvibe codeでゲームを作る | 877pt/255c | **902pt/273c** | +25/+18 |
+| Pi – minimal terminal coding harness | 335pt/139c | **364pt/153c** | **+29/+14 ← 高成長継続** |
+| Show HN: Context Mode (Claude Code) | 42pt/13c | 54pt/17c | **+12/+4** |
+
+#### 新規注目ストーリー
+
+新規重要シグナルなし。
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄 297pt（+37pt）**: 17:30からも+37ptと本日最高伸び率を維持。コメントも+22と議論が終息しない。夕方に入っても完全に減速しておらず、本日の累計成長量としてはHNで最も急速に成長したAIシグナルとして確定的。
+- **OpenAI監視機械 570pt（+8pt）**: 本日通算最高AIスコアを維持するが伸びが鈍化（+8pt）。ピークアウトの兆候あり。
+- **Pi terminal 364pt（+29pt）**: 300pt突破後も高成長が継続。ミニマルターミナル開発環境への需要が本物であることが終日の推移で完全確認された。
+- **Context Mode（Claude Code効率化）+12pt**: Claude Codeのトークン効率化ツールが着実に成長（42→54pt）。トークン圧縮ニーズへの実践的解法として注目。
+- **IDF/Gaza記事 1777pt**: 本日通算最高スコアはAI記事ではなく時事ニュース（IDF関連）。技術外のニュースがHNトップを支配する珍しい状況。
+
+#### Falcon Platform への示唆
+
+- **Anthropic安全誓約廃棄 297pt（継続）**: 終日を通じて減速なし。Claude APIへの信頼問題はマルチモデル対応の着手を最優先に
+- **Pi terminal 364pt継続**: ミニマルターミナル開発環境への需要を1日で完全証明。Fuyajoの「SSH Gateway + AI Agent」は市場ニーズと完全合致
+- **Context Mode**: Fuyajoの AI Assistant機能でのトークン効率化を検討する価値あり
+
+#### 本日（18:30時点）の確定シグナルランキング
+
+| 順位 | テーマ | ピークスコア | 強度 |
+|------|--------|------------|------|
+| 1 | AI企業とプライバシー（OpenAI×政府監視機械） | 570pt | ★★★★★ |
+| 2 | vibe coding浸透（犬がゲームを作る） | 902pt | ★★★★★ |
+| 3 | AI企業と政治・軍事（Anthropic安全誓約廃棄） | 297pt（成長中） | ★★★★★ |
+| 4 | AI×開発ツール（Cloudflare vinext） | 444pt | ★★★★ |
+| 5 | ミニマルターミナル開発（Pi terminal） | 364pt（成長中） | ★★★★ |
+| 6 | オープンモデル（Moonshine STT） | 241pt | ★★★ |
+| 7 | 新LLMアーキテクチャ（Mercury 2 diffusion） | 211pt | ★★★ |
+| 8 | エージェント開発環境（Emdash） | 152pt | ★★★ |
 
