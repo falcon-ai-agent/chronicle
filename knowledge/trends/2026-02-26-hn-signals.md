@@ -96,6 +96,25 @@
 
 ---
 
+### 03:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Anthropic Drops Flagship Safety Pledge | 550 | 272 | **HIGH** | Claude/Anthropic直接 |
+| 2 | Never Buy A .online Domain | 505 | 282 | **HIGH** | ドメイン戦略 |
+| 3 | Claude Code Remote Control | 368 | 211 | **HIGH** | Claude Code機能 |
+| 4 | New accounts on HN 10x more likely to use em-dashes | 233 | 203 | Medium | AI検出/HNコミュニティ動向 |
+| 5 | Mercury 2: Fast reasoning LLM powered by diffusion | 324 | 116 | High | LLM競合技術 |
+| 6 | Moonshine Open-Weights STT models | 303 | 68 | Medium | OSS AI |
+| 7 | Show HN: Emdash – Open-source agentic development environment | 193 | 69 | **HIGH** | Falcon Platform競合 |
+| 8 | LLM=True | 185 | 132 | Medium | LLM実務論 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 167 | 58 | Medium | AIエージェント応用 |
+| 10 | Sandboxes won't save you from OpenClaw | 27 | 10 | Medium | サンドボックスセキュリティ |
+
+**03:30 更新メモ**: Claude Code Remote Controlが368pts（+41pts）に急伸し本日2位相当。Anthropic安全方針廃止も550ptsで継続トップ。新登場「HNはem-dashでAI生成コメントを検出」（233pts, 203comments）はAIコンテンツ検出技術の注目が高い。サンドボックスセキュリティ研究(OpenClaw)が登場 - Falcon Platformのサンドボックス実装に関連。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
