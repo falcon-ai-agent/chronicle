@@ -441,3 +441,45 @@
 - Mercury 2（diffusion LLM）への高関心 → LLMアーキテクチャの多様化が加速。Fuyajoがモデル非依存の実行環境であることが長期的な強みになる
 - 本日のHN総括: 「AI企業の倫理と政治圧力」「AI実装の実際（Cloudflare vinext）」「オープンモデルの実用化（Moonshine）」の3テーマが並走した1日
 
+---
+
+### 12:30 JST
+
+#### スコア推移（11:30比）
+
+| タイトル | 11:30 | 12:30 | 差分 |
+|---------|-------|-------|------|
+| OpenAI + 米政府 + Persona 監視機械 | 455pt/145c | 477pt/152c | **+22/+7** |
+| How we rebuilt Next.js with AI (Cloudflare) | 382pt/136c | 397pt/151c | +15/+15 |
+| Moonshine STT (WhisperLargev3超え) | 133pt/23c | 146pt/28c | +13/+5 |
+| Anthropic Drops Flagship Safety Pledge | 42pt/9c | 69pt/23c | **+27/+14** |
+| US Military meets Anthropic (Claude safeguards) | 35pt/4c | 69pt/21c | **+34/+17** |
+| Mercury 2 (diffusion LLM) | 75pt/35c | 97pt/61c | **+22/+26** |
+| Show HN: Emdash agentic dev env | 116pt/47c | 120pt/49c | +4/+2 |
+| 犬がvibe codeでゲームを作る | 649pt/191c | 687pt/203c | +38/+12 |
+
+#### 新規注目ストーリー
+
+| タイトル | スコア | コメント | 重要度 | 関連性 |
+|---------|--------|---------|--------|--------|
+| [Pi – a minimal terminal coding harness](https://pi.dev) | 190 | 82 | Medium | ミニマルターミナル開発ツール/Fuyajo関連 |
+| [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses) | 258 | 96 | Medium | AR/ウェアラブル・ハードウェア革新 |
+| [Mac mini: Houston facility](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/) | 378 | 386 | Medium | Apple米国製造・コメント数が圧倒的 |
+| [Agents.md file isn't the problem. Your lack of Evals is](https://tessl.io/blog/your-agentsmd-file-isnt-the-problem-your-lack-of-evals-is/) | 15 | 12 | Low | エージェント評価/品質管理の本質 |
+
+#### Key Discussions
+
+- **Anthropic×米軍問題が収束せず（+27〜34pt）**: 「安全誓約廃棄」と「米軍直接交渉」の両方が12:30でも急伸継続。合計69ptずつと同水準に並んだ。欧米の日中プライムタイムに突入しても議論が衰えず、Anthropicの方針転換への技術者コミュニティの関心が高い状態が持続。
+- **Mercury 2 コメント爆増（+26c）**: スコア+22ptよりコメント増加（35→61c）が際立つ。diffusionベース推論LLMというアーキテクチャの技術的議論が白熱中。HNの技術者がdiffusion LLMの実用性を真剣に議論している証拠。
+- **OpenAI監視機械 477pt**: 本日の最高AIシグナルとして維持継続。1日を通じて400pt台を安定維持。
+- **Pi terminal coding harness（190pt）**: ミニマルなターミナル開発ツールが190ptを獲得。「最小限のターミナルインターフェースで開発する」というコンセプトがFuyajoのSSH Gateway CLIアプローチと共鳴する。
+- **Nearby Glasses（258pt）**: YJGlasses for nearby objects。ARグラスでリアルタイムの周辺情報表示。ハードウェア×AI統合の新動向。
+- **Mac mini Houston（378pt/386c）**: コメント数が本日最多クラス。Appleの米国製造回帰とトランプ関税政策の交差点として議論が白熱。地政学リスクがハードウェア製造にも直撃。
+
+#### Falcon Platform への示唆
+
+- **Anthropic問題が12:30時点でも収束しない** → Claude API依存のリスクが現実化しつつある。マルチモデル対応は「優先実装」として具体的なタイムラインを設定すべき
+- **Mercury 2 diffusion LLMの技術議論が活発** → 従来のtransformer以外のLLMアーキテクチャが実用化されつつある。Fuyajoがモデル非依存の実行環境であることが差別化になる
+- **Pi terminal（190pt）** → ミニマルなターミナル開発体験への需要が確認された。Fuyajoの「SSH Gateway + AIエージェント」は同じニーズを狙っている
+- **Agents.md + Evals論文**: 「agents.mdよりもEvalが重要」という指摘は、Fuyajoのエージェント実行基盤においても評価・品質管理の仕組みが差別化になることを示唆
+
