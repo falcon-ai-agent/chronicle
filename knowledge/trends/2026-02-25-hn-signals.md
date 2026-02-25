@@ -577,3 +577,45 @@
 - **Pi terminal 256pt・Emdash 123pt** → ミニマルターミナル開発環境とエージェント開発基盤の両方が需要確認済み。FuyajoのSSH Gateway + AI Agent実行環境は正しい方向性
 - **enveil 193pt（AI secrets保護）** → AI時代のセキュリティが重要ニーズ。Fuyajoでの秘密情報保護（platform.env設計）の訴求ポイントになる
 
+---
+
+### 15:30 JST
+
+#### スコア推移（14:30比）
+
+| タイトル | 14:30 | 15:30 | 差分 |
+|---------|-------|-------|------|
+| OpenAI + 米政府 + Persona 監視機械 | 516pt/161c | **547pt/169c** | +31/+8 |
+| How we rebuilt Next.js with AI (Cloudflare) | 412pt/159c | 418pt/164c | +6/+5 ← 鈍化 |
+| Anthropic Drops Flagship Safety Pledge | 141pt/48c | **186pt/74c** | **+45/+26 ← 本日最高伸び率** |
+| US Military meets Anthropic (Claude safeguards) | 104pt/40c | **131pt/52c** | **+27/+12** |
+| Mercury 2 (diffusion LLM) | 140pt/74c | 163pt/82c | +23/+8 |
+| Moonshine STT (WhisperLargev3超え) | 182pt/33c | 204pt/37c | +22/+4 |
+| Show HN: Emdash agentic dev env | 123pt/54c | 130pt/55c | +7/+1 |
+| 犬がvibe codeでゲームを作る | 753pt/214c | **792pt/221c** | +39/+7 |
+| Mac mini Houston | 434pt/425c | 454pt/441c | +20/+16 |
+| Pi – minimal terminal coding harness | 256pt/107c | 282pt/116c | **+26/+9** |
+| enveil (.env secrets) | 193pt/122c | 194pt/122c | +1/0 ← 停止 |
+| OpenAI spending $1.4T→$600B | 193pt/166c | 198pt/167c | +5/+1 |
+
+#### 新規注目ストーリー
+
+| タイトル | スコア | コメント | 重要度 | 関連性 |
+|---------|--------|---------|--------|--------|
+| [Tech Firms Aren't Just Encouraging AI Use. They're Enforcing It](https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84) | 20 | 12 | Medium | AI強制採用・職場変革 |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄が本日最高伸び率（+45pt）**: 141→186ptに急伸。13:30以降ほぼ毎時30pt超の伸びが続き、本日最も急速に成長するAIシグナルとして定着。US Military meetingストーリー（+27pt）と連動して、「AnthropicのAI安全性への姿勢転換」というテーマが15時台も欧米ユーザーの主要関心事。
+- **Cloudflare vinext 成長鈍化（+6pt）**: 朝から高成長を続けてきたCloudflare記事が15:30で6pt増と鈍化。418pt/164cでピークアウトの兆候。技術者の関心がAnthropicの倫理問題へシフトしている可能性。
+- **OpenAI監視機械 547pt到達**: 本日通算最高AIスコア。1日を通じてHNのAIトップを維持。プライバシー侵害・AI企業と政府の癒着は2026年最大の議論テーマに定着しつつある。
+- **AI強制採用（20pt、新規）**: WSJ報道「テック企業がAI使用を単に推奨ではなく強制している」という記事が登場。まだ20ptだが、AI活用の強制化・労働環境変化という新テーマの芽。
+- **犬がvibe coding 792pt**: 本日通算トップを独走継続。22時間経過しても衰えない持続力は異例。
+
+#### Falcon Platform への示唆
+
+- **Anthropic安全誓約廃棄が+45ptで急伸継続** → Claude APIへの信頼問題は構造的に定着。Fuyajoのマルチモデル対応を今すぐ開始すべきタイミング
+- **Cloudflare vinextの鈍化** → AI開発ツール関心の「実装事例」から「倫理・安全」へシフト。Fuyajoのメッセージも技術的優位性だけでなく「透明性と安全」を訴求すべき
+- **AI強制採用（WSJ）** → 企業がAI活用を義務化し始めている。Fuyajoの「チームでAIを使う基盤」としての訴求が今後有力になるかもしれない
+- **Pi terminal 282pt（+26pt）継続成長** → ミニマルターミナル開発環境への需要は本物。Fuyajoの差別化軸として引き続き優先
+
