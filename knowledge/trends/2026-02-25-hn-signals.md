@@ -940,3 +940,56 @@
 - **Claude Code Remote Control** → Anthropic公式がリモート実行に参入。「クラウドAIエージェント実行」市場での差別化戦略の再検討が急務
 - **Context Mode 98.3%圧縮** → MCP/Claude Code利用者のコンテキスト効率化ニーズ。Fuyajoのエージェント実行プラットフォームでもコンテキスト管理は重要課題
 - **LLM=True批判** → 「AIを何でも使えばいい」への反動。Fuyajoは「適切な場面でのAI活用」を訴求すべき
+
+### 22:30 JST
+
+#### High Importance
+
+| タイトル | スコア | コメント | 関連性 |
+|---------|--------|---------|--------|
+| [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) | 418 | 200 | Anthropic/AI安全性 |
+| [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/) | 595 | 184 | AI×政府監視/プライバシー |
+| [Pi – A minimal terminal coding harness](https://pi.dev) | 448 | 210 | 開発者ツール/ターミナル |
+| [Mercury 2: Fast reasoning LLM powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) | 260 | 106 | 新LLMアーキテクチャ |
+| [Moonshine Open-Weights STT – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine) | 271 | 62 | オープンモデル/音声認識 |
+
+#### Medium Importance
+
+| タイトル | スコア | コメント | 関連性 |
+|---------|--------|---------|--------|
+| [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control) | 111 | 79 | Claude/Anthropic直接関連 |
+| [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/) | 147 | 97 | LLM批判/過剰利用 |
+| [IRS Tactics Against Meta Open a New Front in Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html) | 213 | 211 | Big Tech×規制 |
+| [Show HN: Emdash – Open-source agentic development environment](https://github.com/generalaction/emdash) | 176 | 60 | エージェント開発環境 |
+| [Danish government agency to ditch Microsoft software](https://therecord.media/denmark-digital-agency-microsoft-digital-independence) | 308 | 162 | 脱Microsoft/デジタル主権 |
+| [Show HN: Context Mode – 315KB of MCP output becomes 5.4KB in Claude Code](https://github.com/mksglu/claude-context-mode) | 66 | 19 | Claude Code/MCP最適化 |
+| [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/) | 87 | 32 | AIエージェント×ゲーム |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄 418pt（+43pt）**: 1時間で43pt増加、依然として成長中。24時間のトップトレンドを維持。AI企業の倫理姿勢への関心が高まっている。
+- **Claude Code Remote Control 111pt（+40pt）**: 71→111と大幅増加。Anthropicの公式リモートコントロール機能への関心が急拡大。「モバイル版Claude Code」という見出しも同時に登場（4pt）。
+- **Pi terminal 448pt（+19pt）**: 安定した増加継続。ミニマルターミナル開発環境への需要は本物。
+- **デンマーク政府のMicrosoft離脱 308pt（+121pt）**: 187→308と急激な成長。欧州のデジタル主権運動が注目を集め始めている。
+- **LLM=True 147pt（+31pt）**: 「AIを盲目的に使う」への技術者の反発が拡大。プラクティカルな懐疑論として定着。
+- **LLMスキーミッシュ（AIエージェントRTS）**: AIエージェントがゲームをプレイするデモ。エージェントの「インタラクション能力」の可視化として興味深い。
+
+#### 本日（22:30時点）のシグナル更新
+
+| 順位 | テーマ | スコア | 前回比 |
+|------|--------|--------|--------|
+| 1 | vibe coding浸透（犬がゲームを作る） | 977pt | +18pt |
+| 2 | AI×プライバシー（OpenAI×政府監視） | 595pt | +5pt（ピーク近）|
+| 3 | AI企業と倫理（Anthropic安全誓約廃棄） | 418pt | +43pt ↑ |
+| 4 | ミニマルターミナル開発（Pi terminal） | 448pt | +19pt |
+| 5 | 欧州デジタル主権（デンマーク脱Microsoft） | 308pt | +121pt ↑↑ |
+| 6 | Anthropic公式機能（Claude Code Remote Control） | 111pt | +40pt ↑↑ |
+| 7 | オープンモデル（Moonshine STT） | 271pt | +5pt |
+| 8 | 新LLMアーキテクチャ（Mercury 2） | 260pt | +10pt |
+
+#### Falcon Platform への示唆
+
+- **Claude Code Remote Control +40pt急増** → Anthropic公式がモバイル/リモート制御に本格参入。Fuyajoとの競合領域が具体化している。差別化は「プラットフォーム非依存」「マルチモデル」「コスト管理」
+- **デンマーク脱Microsoft +121pt急増** → 欧州のデジタル主権運動が加速。「オープン/独立」プラットフォームへの需要が高まっている。Fuyajoの「非Big Tech」ポジションが響く可能性
+- **LLM=True批判拡大** → 技術者コミュニティの「AI疲れ」が顕在化。Fuyajoは「適切な場面でのAI活用」「人間がコントロール」を訴求する差別化余地がある
+- **AIエージェントRTS（LLMスキーミッシュ）** → エージェントの実用性を示す新しい形。「何ができるか」の可視化が重要だと改めて確認
