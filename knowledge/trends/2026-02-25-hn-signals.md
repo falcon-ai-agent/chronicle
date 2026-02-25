@@ -888,3 +888,55 @@
 | 7 | 新LLMアーキテクチャ（Mercury 2 diffusion） | 233pt（成長中） | ★★★ |
 | 8 | エージェント開発環境（Emdash） | 161pt | ★★★ |
 
+
+---
+
+### 21:30 JST
+
+#### High Importance
+
+| タイトル | スコア | コメント | 関連性 |
+|---------|--------|---------|--------|
+| [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) | 375 | 177 | Anthropic/AI安全性 |
+| [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/) | 590 | 183 | AI×政府監視/プライバシー |
+| [Pi – A minimal terminal coding harness](https://pi.dev) | 429 | 203 | 開発者ツール/ターミナル |
+| [Mercury 2: Fast reasoning LLM powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) | 250 | 104 | 新LLMアーキテクチャ |
+| [Moonshine Open-Weights STT – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine) | 266 | 60 | オープンモデル/音声認識 |
+
+#### Medium Importance
+
+| タイトル | スコア | コメント | 関連性 |
+|---------|--------|---------|--------|
+| [Show HN: Emdash – Open-source agentic development environment](https://github.com/generalaction/emdash) | 171 | 60 | エージェント開発環境 |
+| [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/) | 116 | 83 | LLM批判/過剰利用 |
+| [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control) | 71 | 43 | Claude/Anthropic直接関連 |
+| [Show HN: Context Mode – 315KB of MCP output becomes 5.4KB in Claude Code](https://github.com/mksglu/claude-context-mode) | 63 | 19 | Claude Code/MCP最適化 |
+| [Danish government agency to ditch Microsoft software](https://therecord.media/denmark-digital-agency-microsoft-digital-independence) | 187 | 87 | 脱Microsoft/デジタル主権 |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄 375pt（+55pt）**: 19:30から55pt増加、議論が継続拡大。「安全性優先」という差別化戦略の放棄をHNコミュニティが批判的に注視している。
+- **OpenAI×政府監視機械 590pt（+14pt）**: ほぼピークアウト。Identity verification as surveillance machine として定着したシグナル。
+- **Pi terminal 429pt（+44pt）**: 前回から44pt増加、成長加速中。ミニマルターミナル開発環境への需要が本物であることを確認。
+- **LLM=True**: 「LLMをtrueに設定」という皮肉なタイトル。過剰なAI依存・LLMフラグ濫用に対する批判的ブログポスト。HN技術者の「AIへの懐疑」感情を反映。
+- **Claude Code Remote Control**: Anthropic公式のリモートコントロール機能。Fuyajoの「リモートAIエージェント実行」と直接競合する可能性が高い。
+- **Context Mode**: MCP出力を315KB→5.4KB（98.3%圧縮）するClaude Code拡張。コンテキスト効率化のニーズが顕在化。
+
+#### 本日（21:30時点）のシグナル更新
+
+| 順位 | テーマ | スコア | 前回比 |
+|------|--------|--------|--------|
+| 1 | vibe coding浸透（犬がゲームを作る） | 959pt | +35pt |
+| 2 | AI企業と政治・軍事（Anthropic安全誓約廃棄） | 375pt | +55pt ↑ |
+| 3 | AI×プライバシー（OpenAI×政府監視） | 590pt | +14pt（安定） |
+| 4 | ミニマルターミナル開発（Pi terminal） | 429pt | +44pt ↑ |
+| 5 | オープンモデル（Moonshine STT） | 266pt | +19pt |
+| 6 | 新LLMアーキテクチャ（Mercury 2） | 250pt | +17pt |
+| 7 | エージェント開発環境（Emdash） | 171pt | +10pt |
+
+#### Falcon Platform への示唆
+
+- **Anthropic安全誓約廃棄 375pt**: 増加継続。技術者の信頼不安が高まっている。Fuyajoでのマルチモデル対応（非Anthropic依存）は競合優位になりうる
+- **Claude Code Remote Control** → Anthropic公式がリモート実行に参入。「クラウドAIエージェント実行」市場での差別化戦略の再検討が急務
+- **Context Mode 98.3%圧縮** → MCP/Claude Code利用者のコンテキスト効率化ニーズ。Fuyajoのエージェント実行プラットフォームでもコンテキスト管理は重要課題
+- **LLM=True批判** → 「AIを何でも使えばいい」への反動。Fuyajoは「適切な場面でのAI活用」を訴求すべき
