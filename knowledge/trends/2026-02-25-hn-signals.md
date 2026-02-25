@@ -674,4 +674,60 @@
 | 6 | オープンモデル（Moonshine STT, Mercury 2） | 216pt / 189pt | ★★★ |
 | 7 | エージェント開発環境（Emdash） | 136pt | ★★★ |
 
+---
+
+### 17:30 JST
+
+#### スコア推移（16:30比）
+
+| タイトル | 16:30 | 17:30 | 差分 |
+|---------|-------|-------|------|
+| **Anthropic Drops Flagship Safety Pledge** | 221pt/89c | **260pt/105c** | **+39/+16 ← 継続最高伸び率** |
+| US Military meets Anthropic (Claude safeguards) | 141pt/55c | 149pt/55c | +8/0 |
+| How we rebuilt Next.js with AI (Cloudflare) | 429pt/165c | 434pt/166c | +5/+1 ← 停止 |
+| Mercury 2 (diffusion LLM) | 189pt/87c | 202pt/88c | +13/+1 |
+| Moonshine STT (WhisperLargev3超え) | 216pt/42c | 230pt/48c | **+14/+6** |
+| Show HN: Emdash agentic dev env | 136pt/55c | 146pt/58c | +10/+3 |
+| 犬がvibe codeでゲームを作る | 837pt/229c | **877pt/255c** | +40/+26 |
+| Pi – minimal terminal coding harness | 310pt/128c | **335pt/139c** | **+25/+11** |
+| Mac mini Houston | 478pt/469c | **492pt/481c** | +14/+12 |
+| OpenAI + 米政府 + Persona 監視機械 | （圏外） | **562pt/175c** | 復帰・最高スコア更新 |
+| OpenAI resets spending $1.4T→$600B | 201pt/169c | **203pt/171c** | +2/+2 ← 停止 |
+
+#### 新規注目ストーリー
+
+| タイトル | スコア | コメント | 重要度 | 関連性 |
+|---------|--------|---------|--------|--------|
+| [Show HN: Context Mode – 315KB MCP output → 5.4KB in Claude Code](https://github.com/mksglu/claude-context-mode) | 42 | 13 | Medium | Claude Code効率化・直接関連 |
+| [IRS vs Meta: new front in corporate tax fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html) | 206 | 206 | Low | Big Tech税務・間接関連 |
+
+#### Key Discussions
+
+- **Anthropic安全誓約廃棄 260pt（+39pt）**: 16:30に続き17:30でも本日最高伸び率を維持。221→260ptへ。コメントも89→105cへ急増。1日の締めくくりに向けても衰えない成長は、この問題がHNコミュニティで「未解決の重要問題」として残り続けていることを示す。
+- **OpenAI監視機械 562ptで復帰**: 圏外に落ちていた最高AIシグナルが17:30時点で再度圏内に復帰。562pt/175cは本日通算の最高AI単一スコアとして確定。AI企業と政府の監視インフラ問題は1日を通じてHNのトップシグナル。
+- **犬がvibe coding 877pt（+40pt/+26c）**: 本日通算最高スコアを更新し877ptへ。コメントも26増加と議論活発継続。"vibe coding"が開発文化として完全定着したことを象徴する異例の持続力。
+- **Pi terminal 335pt（+25pt）**: 300pt突破後も+25ptと高成長継続。ミニマルターミナル開発環境への需要が夕方にも衰えないことが確認。
+- **Mac mini コメント481c**: スコア492ptに対してコメント481c（比率0.98）という異常な議論密度。Apple米国製造回帰 × トランプ政策という政治経済テーマが技術者の感情を刺激し続けている。
+- **Cloudflare vinext 停止（+5pt）**: 朝の爆発的成長から一日かけて完全鈍化。HNの技術者の関心が「AI実装の驚き」から「AI企業の倫理・政治問題」へ完全に移行したことを確認。
+
+#### Falcon Platform への示唆
+
+- **Anthropic安全誓約廃棄 260pt（本日最高伸び率継続）**: 夕方に向かっても減速しないシグナルは構造的変化の証。Claude APIに代わるマルチモデル対応は今すぐ着手すべき最優先事項
+- **OpenAI監視機械 562ptが本日最高AIスコア確定**: 「AI企業の政府監視インフラ化」問題が2026年最大の技術者懸念事項として定着。Fuyajoの「非Big Tech、ユーザーコントロール重視」ポジショニングが強力な差別化軸
+- **Pi terminal 335pt継続成長**: ミニマルターミナル開発環境の需要は終日確認完了。Fuyajoの「SSH Gateway + AI Agent」コンセプトは正しい方向性
+- **Emdash 146pt（エージェント開発環境）**: オープンソースのエージェント開発環境として1日かけて146ptに到達。競合/補完関係を継続監視
+
+#### 本日（17:30時点）の確定シグナルランキング
+
+| 順位 | テーマ | ピークスコア | 強度 |
+|------|--------|------------|------|
+| 1 | AI企業とプライバシー（OpenAI×政府監視機械） | 562pt | ★★★★★ |
+| 2 | vibe coding浸透（犬がゲームを作る） | 877pt | ★★★★★ |
+| 3 | AI企業と政治・軍事（Anthropic安全誓約廃棄） | 260pt（成長中） | ★★★★★ |
+| 4 | AI×開発ツール（Cloudflare vinext） | 434pt（停止） | ★★★★ |
+| 5 | ミニマルターミナル開発（Pi terminal） | 335pt（成長中） | ★★★★ |
+| 6 | オープンモデル（Moonshine STT） | 230pt | ★★★ |
+| 7 | 新LLMアーキテクチャ（Mercury 2 diffusion） | 202pt | ★★★ |
+| 8 | エージェント開発環境（Emdash） | 146pt | ★★★ |
+
 
