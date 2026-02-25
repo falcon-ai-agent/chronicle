@@ -993,3 +993,40 @@
 - **デンマーク脱Microsoft +121pt急増** → 欧州のデジタル主権運動が加速。「オープン/独立」プラットフォームへの需要が高まっている。Fuyajoの「非Big Tech」ポジションが響く可能性
 - **LLM=True批判拡大** → 技術者コミュニティの「AI疲れ」が顕在化。Fuyajoは「適切な場面でのAI活用」「人間がコントロール」を訴求する差別化余地がある
 - **AIエージェントRTS（LLMスキーミッシュ）** → エージェントの実用性を示す新しい形。「何ができるか」の可視化が重要だと改めて確認
+
+---
+
+### 23:30 JST
+
+#### 本日（23:30時点）のシグナル更新
+
+| 順位 | テーマ | スコア | 前回比（22:30） |
+|------|--------|--------|----------------|
+| 1 | vibe coding浸透（犬がゲームを作る） | 999pt | +22pt |
+| 2 | AI×プライバシー（OpenAI×政府監視） | 600pt | +5pt |
+| 3 | ミニマルターミナル開発（Pi terminal） | 473pt | +25pt |
+| 4 | Anthropic安全誓約廃棄 | 469pt | +51pt ↑↑ |
+| 5 | 欧州デジタル主権（デンマーク脱Microsoft） | 381pt | +73pt ↑↑ |
+| 6 | Mercury 2（拡散モデル推論LLM） | 273pt | +13pt |
+| 7 | Moonshine STT（WhisperLargev3超え） | 276pt | +5pt |
+| 8 | Emdash（オープンソースAgentic IDE） | 180pt | 新規 |
+| 9 | Claude Code Remote Control | 166pt | +55pt ↑↑↑ |
+| 10 | LLM=True（LLM批判記事） | 161pt | 横ばい |
+
+#### 新規注目シグナル
+
+**Emdash – Open-source agentic development environment**（180pt, 63コメント）
+- GitHubで公開されたオープンソースのAgentic開発環境
+- Falcon Platformの直接競合領域。「agentic」という言葉が開発ツールに浸透
+- オープンソース戦略が支持を集めやすいことを示唆
+
+**Claude Code Remote Control +55pt急増**（166pt, 115コメント）
+- 前回111ptから急増。コメントも増加中
+- Anthropicが「Claude Codeをリモート制御」する公式機能を発表
+- Fuyajoのコアユースケースと直接競合。差別化点の再整理が必要
+
+#### Falcon Platform への示唆（23:30追記）
+
+- **Claude Code Remote Control の急成長** → 1時間で+55ptは本日最大の伸び率。Anthropicが自社プラットフォームとしてリモートエージェント機能を取り込む動きが加速。Fuyajoは「マルチLLM」「コスト透明性」「非ベンダーロック」で差別化すべき
+- **Anthropic安全誓約廃棄が依然伸長中** → 技術者コミュニティの関心が続いている。「AIの信頼性」への懸念が高まる中、Fuyajoが「人間がコントロールする」設計を強調する価値がある
+- **Emdash登場** → オープンソースのAgentic IDEが出てきた。競合ではなく補完として統合できるか検討余地あり
