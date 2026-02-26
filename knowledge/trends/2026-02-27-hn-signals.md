@@ -58,3 +58,40 @@
 **Never buy a .online domain** (743pts, 461 comments) - ドメイン選択の教訓。fuyajo.cloud選択は正解。
 
 **Jimi Hendrix was a systems engineer** (574pts, 188 comments) - 一般技術トピック
+
+---
+
+### 01:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Anthropic ditches its core safety promise** (384pts +127, 200 comments)
+- 1時間で+127ptという急成長。HNコミュニティの強い関心を示す。
+- 示唆: 安全性より商業・AGI開発を優先する方針転換への批判がさらに拡大中。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (357pts +77, 119 comments)
+- 前回280→357pts。開発者コミュニティの怒りが広がり続けている。
+- 示唆: YCスタートアップへの不信感が蓄積。倫理的なデータ収集が差別化に。
+
+**[STEADY] Google API keys security** (995pts +41, 240 comments) - 引き続きトップ
+**[STEADY] Large-Scale Deanonymization with LLMs** (321pts +7, 225 comments)
+**[GROWING] How will OpenAI compete?** (374pts +20, 526 comments)
+
+#### 新着シグナル
+
+**[MEDIUM] Show HN: Terminal Phone – E2EE Walkie Talkie from CLI** (196pts, 52 comments)
+- URL: https://gitlab.com/here_forawhile/terminalphone
+- Relevance: Security / Developer Tools
+- 示唆: コマンドラインからE2EE音声通話。プライバシー意識の高い開発者向けツールへの需要。
+
+**[LOW] Nano Banana 2: Google's latest AI image generation model** (36pts, 15 comments)
+- URL: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+- Relevance: AI Image Generation - Google
+- 示唆: GoogleがNano Banana 2をリリース。画像生成モデルの競争継続。
+
+#### エージェント関連（成長確認）
+
+**just-bash: Bash for Agents** (33pts +15, 26 comments) - 急成長中
+- シェルベースのエージェント実行ツールへの関心が高まり。Falcon Platformのエージェント実行層に参考。
+
+**Show HN: Agent Swarm** (61pts +12, 40 comments) - 継続成長
