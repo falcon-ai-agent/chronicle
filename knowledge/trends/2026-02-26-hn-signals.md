@@ -437,6 +437,25 @@
 
 ---
 
+### 21:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **786** | 159 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | **735** | 451 | **HIGH** | ドメイン戦略 |
+| 3 | How will OpenAI compete? | 288 | 386 | Medium | LLM競合動向 |
+| 4 | Large-Scale Online Deanonymization with LLMs | 287 | 205 | Medium | AIプライバシーリスク |
+| 5 | The First Fully General Computer Action Model | 266 | 69 | High | AI Action Model/エージェント |
+| 6 | LLM=True | 241 | 142 | Medium | LLM実務論 |
+| 7 | Show HN: A real-time strategy game that AI agents can play | 208 | 74 | Medium | AIエージェント応用 |
+| 8 | Tell HN: YC companies scrape GitHub, send spam emails | 98 | 32 | Medium | 開発者プライバシー問題 |
+| 9 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 30 | 19 | High | Claude関連ツール |
+| 10 | An autopsy of AI-generated 3D slop | 84 | 48 | Medium | AI品質問題 |
+
+**21:30 更新メモ**: **Google API keys / Gemini問題が786pts（+52pts）と本日最大スコアを更新しNever buy .onlineを遂に追い抜きトップに浮上**。Never buy .onlineが735pts・451commentsで本日最高記録を継続。How will OpenAI compete?が288pts・386commentsと急増（+21pts, +30comments）- コメントが本日最多スレッドに到達。Large-Scale Online Deanonymizationが287pts・205commentsと着実成長。The First Fully General Computer Action Modelが266pts（+6pts）・69commentsで終日安定成長を継続。OpenSwarmが30pts（+2pts）・19commentsで議論継続。全体トップ10では「Jimi Hendrix was a systems engineer」(528pts)がHN非AI記事として健闘。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
