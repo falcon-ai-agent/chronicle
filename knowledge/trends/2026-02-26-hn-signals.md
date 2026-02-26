@@ -282,6 +282,26 @@
 
 ---
 
+### 13:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 687 | 420 | **HIGH** | ドメイン戦略 |
+| 2 | LLM=True | 225 | 139 | Medium | LLM実務論 |
+| 3 | Large-Scale Online Deanonymization with LLMs | 216 | 169 | Medium | AIプライバシーリスク |
+| 4 | Show HN: A real-time strategy game that AI agents can play | 198 | 72 | Medium | AIエージェント応用 |
+| 5 | The First Fully General Computer Action Model | 177 | 58 | High | AI Action Model/エージェント |
+| 6 | Making MCP cheaper via CLI | 157 | 76 | High | MCPツール最適化 |
+| 7 | How Will OpenAI Compete? | 90 | 74 | Medium | LLM競合動向 |
+| 8 | Google API keys weren't secrets, but then Gemini changed the rules | 79 | 11 | Medium | APIセキュリティ/Gemini |
+| 9 | Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts | 22 | 1 | High | LLM推論エンジン/コールドスタート |
+| 10 | DeepSeek withholds latest AI model from Nvidia, AMD | 14 | 3 | **HIGH** | 地政学的AIリスク |
+| 11 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 8 | 0 | High | Claude関連ツール |
+
+**13:30 更新メモ**: Never buy .onlineが687pts（+4pts）・420commentsでトップ継続、伸びは落ち着き安定期へ。Making MCP cheaper via CLIが157pts（+13pts）・76commentsで今回最大上昇 - MCPコスト最適化への需要継続。The First Fully General Computer Action Modelが177pts（+9pts）と着実伸長。新規注目: **ZSE – 3.9秒コールドスタートのLLM推論エンジン**（OSS, GitHub）- Falcon Platformのコールドスタート課題に直接関連する技術。OpenSwarmが8ptsで小さいが「Multi-Agent Claude CLI Orchestrator」としてFalconの構成と近い。GoogleがGemini APIキーを突然シークレット化した問題（79pts）- APIキー管理の重要性を改めて示す。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
