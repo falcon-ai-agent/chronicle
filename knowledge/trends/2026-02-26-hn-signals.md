@@ -418,6 +418,25 @@
 
 ---
 
+### 20:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **734** | 149 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | **733** | 451 | **HIGH** | ドメイン戦略 |
+| 3 | Large-Scale Online Deanonymization with LLMs | 278 | 200 | Medium | AIプライバシーリスク |
+| 4 | The First Fully General Computer Action Model | 260 | 68 | High | AI Action Model/エージェント |
+| 5 | How will OpenAI compete? | 267 | 356 | Medium | LLM競合動向 |
+| 6 | LLM=True | 240 | 141 | Medium | LLM実務論 |
+| 7 | Making MCP cheaper via CLI | 236 | 96 | High | MCPツール最適化 |
+| 8 | Show HN: A real-time strategy game that AI agents can play | 208 | 73 | Medium | AIエージェント応用 |
+| 9 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 28 | 19 | High | Claude関連ツール |
+| 10 | An autopsy of AI-generated 3D slop | 88 | 61 | Medium | AI品質問題 |
+
+**20:30 更新メモ**: **Google API keys / Gemini問題が734pts（+65pts）と本日を通じて最大スコアに到達**、Never buy .onlineの733ptsとほぼ並走し本日2強の一角を占める。How will OpenAI compete?が267pts・356commentsと急伸（+21pts, +45comments）- 競合議論が本日最活発のスレッドに。Large-Scale Online Deanonymization with LLMsが278pts（+4pts）・200commentsに到達。The First Fully General Computer Action Modelが260pts（+9pts）で成長継続、汎用コンピュータアクションモデルへの関心が1日通じて高い。Making MCP cheaper via CLIが236pts（+9pts）・96commentsで安定。**YC企業がGitHubアクティビティをスクレイピングしてスパムメール送信**（54pts, 11comments）が新登場 - 開発者コミュニティへのプライバシー侵害として注目。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
