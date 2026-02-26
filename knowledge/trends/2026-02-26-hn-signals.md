@@ -475,6 +475,25 @@
 
 ---
 
+### 23:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **901** | 209 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | **742** | 458 | **HIGH** | ドメイン戦略 |
+| 3 | How will OpenAI compete? | **327** | 455 | **HIGH** | LLM競合動向 |
+| 4 | Large-Scale Online Deanonymization with LLMs | 306 | 216 | Medium | AIプライバシーリスク |
+| 5 | The First Fully General Computer Action Model | 290 | 71 | High | AI Action Model/エージェント |
+| 6 | Tell HN: YC companies scrape GitHub activity, send spam emails | 219 | 74 | Medium | 開発者プライバシー問題 |
+| 7 | Anthropic ditches its core safety promise (CNN) | 121 | 56 | **HIGH** | Claude/Anthropic直接 |
+| 8 | An autopsy of AI-generated 3D slop | 93 | 55 | Medium | AI品質問題 |
+| 9 | Show HN: Agent Swarm – Multi-agent self-learning teams (OSS) | 39 | 18 | High | マルチエージェント/Falcon競合 |
+| 10 | Launch HN: TeamOut – AI agent for planning company retreats | 54 | 58 | Low | AIエージェント応用 |
+
+**23:30 更新メモ**: **Google API keys / Gemini問題が901pts（+64pts）と本日900pt台に突入し日間最高を更新**。Never buy .onlineが742pts（+6pts）・458commentsで安定継続。How will OpenAI compete?が327pts・455commentsと急増（+17pts, +36comments）- コメント数が本日最多に到達し今日最白熱のスレッドに確定。**Anthropic ditches safety promise（CNN版）が29pts→121ptsと急伸（+92pts）** - 夜間に拡散が加速。YC企業GitHubスクレイピング問題が153pts→219ptsと急伸（+66pts）- 開発者コミュニティで強い反発。The First Fully General Computer Action Modelが290pts（+11pts）で成長継続。Agent Swarmが21pts→39ptsと加速（+18pts）- マルチエージェントOSSへの注目が高まる。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
