@@ -456,6 +456,25 @@
 
 ---
 
+### 22:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **837** | 187 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | **736** | 455 | **HIGH** | ドメイン戦略 |
+| 3 | How will OpenAI compete? | **310** | 419 | Medium | LLM競合動向 |
+| 4 | Large-Scale Online Deanonymization with LLMs | **294** | 213 | Medium | AIプライバシーリスク |
+| 5 | The First Fully General Computer Action Model | **279** | 70 | High | AI Action Model/エージェント |
+| 6 | LLM=True | 242 | 143 | Medium | LLM実務論 |
+| 7 | Tell HN: YC companies scrape GitHub activity, send spam emails | 153 | 59 | Medium | 開発者プライバシー問題 |
+| 8 | An autopsy of AI-generated 3D slop | 90 | 55 | Medium | AI品質問題 |
+| 9 | Anthropic ditches its core safety promise (CNN) | 29 | 10 | **HIGH** | Claude/Anthropic直接 |
+| 10 | Show HN: Agent Swarm – Multi-agent self-learning teams | 21 | 9 | High | マルチエージェント/Falcon競合 |
+
+**22:30 更新メモ**: **Google API keys / Gemini問題が837pts（+51pts）と本日最終的に圧倒的トップに確定**。Never buy .onlineが736pts・455commentsで僅差2位。How will OpenAI compete?が310pts・419commentsと急増（+22pts, +33comments）- コメント数が本日最多スレッドに到達、競合議論が最も白熱。Large-Scale Online Deanonymization with LLMsが294pts・213commentsで着実成長。The First Fully General Computer Action Modelが279pts（+13pts）・70commentsで終日成長継続。新登場: **CNN版「Anthropic ditches its core safety promise」**（29pts）- 午前の安全方針廃止記事の別版が再浮上。**Agent Swarm（マルチエージェント自律学習チームOSS）**が21pts - Falcon Platformのマルチエージェント構成に直接関連する競合技術として注目。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
