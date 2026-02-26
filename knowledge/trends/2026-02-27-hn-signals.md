@@ -283,6 +283,51 @@
 
 ---
 
+### 06:30 JST
+
+#### 注目変化（前回比）
+
+**[GROWTH] Will vibe coding end like the maker movement?** (188pts +49, 198 comments) - TOP10入り
+- 139→188pts、コメント145→198と急増継続。
+- 示唆: AIコーディング支援への懐疑論がさらに拡大。「メーカームーブメント」と同じ失敗を辿るか？Falcon Platformがエンドユーザー向けを志向する上で重要シグナル。
+
+**[HIGH] What Claude Code Chooses** (82pts +50, 41 comments) ★ - 急成長継続
+- 32→82pts。Claude Codeの意思決定・選択パターンの分析。開発者がAnthropicツールの内部動作に強い関心。
+- URL: https://amplifying.ai/research/claude-code-picks
+
+**[CRITICAL] Tell HN: YC companies scrape GitHub activity, send spam** (538pts +30, 200 comments)
+- 508→538pts。怒りが衰えず最上位圏を維持。
+- 示唆: 開発者コミュニティへの倫理的配慮が競合優位に直結。
+
+**[STEADY] Google API keys security** (1176pts +41, 279 comments) - 独走継続
+**[GROWING] Nano Banana 2** (398pts +27, 386 comments) - 成長継続
+**[GROWING] How will OpenAI compete?** (451pts +8, 614 comments) - コメント614に拡大
+
+#### 新着シグナル - エージェント関連
+
+**[MEDIUM] Launch HN: Cardboard (YC W26) – Agentic video editor** (56pts, 27 comments)
+- URL: https://www.usecardboard.com/
+- Relevance: AI Agents / Vertical Applications
+- 示唆: YC W26からエージェント動画編集。垂直特化エージェントアプリがYCレベルに達した証拠。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (28pts, 16 comments)
+- URL: https://storozhenko98.github.io/beehive/
+- 示唆: マルチワークスペースのエージェントオーケストレーター。Falcon Platformのマルチテナント設計に参考。
+
+**[LOW] Show HN: Mission Control – Open-source task management for AI agents** (25pts, 5 comments)
+- URL: https://github.com/MeisnerDan/mission-control
+- 示唆: AIエージェント向けタスク管理OSS。エージェント実行基盤ツールが増殖中。
+
+#### 成長確認
+
+**just-bash: Bash for Agents** (91pts, 52 comments) - 継続成長（86→91）
+**Open Source Endowment** (168pts, 110 comments) - 成長（150→168）
+**AirSnitch Wi-Fi attack** (269pts, 131 comments) - TOP1入り（247→269）
+**Ferret-UI Lite (Apple)** (31pts, 6 comments) - 横ばい
+
+
+---
+
 ### 07:30 JST
 
 #### 注目変化（前回比）
@@ -336,4 +381,3 @@
 - **"What Claude Code Chooses"が本日最大の急成長（32→138pts）**: Claude/Anthropicの意思決定透明性への開発者関心が爆発。Falcon PlatformでもAI意思決定の可視化・説明可能性を重視する設計が競合優位になり得る。
 - **"vibe coding"懐疑論が継続急成長（139→238pts）**: 非エンジニア向けAIコーディングへの市場自体が疑問視されている。Fuyajoのターゲット定義を再検討する材料として要注意。
 - **Google APIセキュリティが24時間以上トップ維持**: 後方互換性と段階的変更がプラットフォーム運営の鉄則として業界全体で再認識されている。
-
