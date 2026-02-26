@@ -321,6 +321,23 @@
 
 ---
 
+### 15:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 700 | 431 | **HIGH** | ドメイン戦略 |
+| 2 | Google API keys weren't secrets, but then Gemini changed the rules | 280 | 64 | Medium | APIセキュリティ/Gemini |
+| 3 | Large-Scale Online Deanonymization with LLMs | 236 | 180 | Medium | AIプライバシーリスク |
+| 4 | LLM=True | 228 | 139 | Medium | LLM実務論 |
+| 5 | The First Fully General Computer Action Model | 208 | 59 | High | AI Action Model/エージェント |
+| 6 | Show HN: A real-time strategy game that AI agents can play | 202 | 72 | Medium | AIエージェント応用 |
+| 7 | Making MCP cheaper via CLI | 176 | 80 | High | MCPツール最適化 |
+| 8 | How will OpenAI compete? | 146 | 155 | Medium | LLM競合動向 |
+
+**15:30 更新メモ**: Never buy .onlineが700pts（+7pts）・431commentsでついに700pt台に到達し本日最大記録。最大注目は**Google API keysがGemini後にシークレット化した問題**が280ptsに急伸（+94pts）、この1時間で最大上昇 - セキュリティコミュニティで大きな議論。How will OpenAI compete?が146pts・155commentsで41コメント急増、後続記事への関心高まり。The First Fully General Computer Action Modelは208pts（+18pts）で成長継続。Making MCP cheaper via CLIも176pts（+12pts）。Jimi Hendrix was a systems engineer（412pts）が全体トップ入り - 非AI記事。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
