@@ -207,6 +207,25 @@
 
 ---
 
+### 09:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 647 | 405 | **HIGH** | ドメイン戦略 |
+| 2 | Claude Code Remote Control | 479 | 275 | **HIGH** | Claude Code機能 |
+| 3 | AIs can't stop recommending nuclear strikes | 196 | 224 | Medium | AIリスク/安全性 |
+| 4 | LLM=True | 203 | 136 | Medium | LLM実務論 |
+| 5 | Large-Scale Online Deanonymization with LLMs | 178 | 153 | Medium | AIプライバシーリスク |
+| 6 | Show HN: A real-time strategy game that AI agents can play | 190 | 69 | Medium | AIエージェント応用 |
+| 7 | The First Fully General Computer Action Model | 119 | 42 | High | AI Action Model/エージェント |
+| 8 | Making MCP cheaper via CLI | 97 | 49 | Medium | MCPツール最適化 |
+| 9 | Launch HN: TeamOut – AI agent for planning company retreats | 38 | 48 | Medium | AIエージェント応用 |
+| 10 | Possible AI use leads to end of senryu competition after 20 years | 4 | 1 | Medium | AI文化的影響 |
+
+**09:30 更新メモ**: Never buy .onlineが647pts（+12pts）・405commentsで引き続きトップ。Claude Code Remote Controlは479pts（+14pts）・275commentsに、今日一日で00:30の207ptsから272pts増と最も持続的に成長した記事。核攻撃推奨AI記事が196pts・224commentsでコメント活発継続。The First Fully General Computer Actionが119pts（+33pts）と急伸、汎用コンピュータ操作AIへの関心高まる。Making MCP cheaper via CLIも97pts（+20pts）と伸長。新規：日本の川柳コンテストがAI使用疑惑で20年の歴史に幕 - AI文化的侵食の事例。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
