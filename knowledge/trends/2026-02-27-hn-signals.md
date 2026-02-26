@@ -175,3 +175,51 @@
 **just-bash: Bash for Agents** (65pts, 活発な議論継続)
 - Vercel Labsのプロジェクト。エージェントのシェル操作標準化が実用段階へ。
 
+---
+
+### 04:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Google API keys weren't secrets, but then Gemini changed the rules** (1104pts +21, 264 comments)
+- 1083→1104pts。引き続きトップ独走。1000pt超えで確固たる地位。
+- 示唆: Google/GeminiのAPIキーセキュリティポリシー変更が開発者に多大な影響。破壊的変更なしの後方互換性がプラットフォーム設計の鉄則。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (479pts +28, 169 comments)
+- 451→479pts。依然成長中。
+- 示唆: 開発者倫理への関心が継続。Falcon Platformは透明なデータポリシーで差別化する機会。
+
+**[HIGH] How will OpenAI compete?** (427pts +19, 589 comments)
+- 408→427pts。コメント増継続（573→589）。
+- 示唆: AI競合分析の議論が継続。OpenAI vs Google vs Anthropicの構図に開発者の関心が集まっている。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (330pts +58, 319 comments)
+- 272→330pts。コメントも急増（262→319）。
+- 示唆: GoogleのAI画像生成への注目が加速。マルチモーダルAIの競争が本格化。
+
+**[NOTABLE] Anthropic ditches its core safety promise** - 今回トップ15圏外
+- 03:30時点515pts。HNランキングの時間減衰により圏外に。議論は一段落した模様。
+- 示唆: 一過性ではなく長期的な信頼問題として認識されているが、急性期は過ぎた。
+
+#### 新着・成長シグナル
+
+**[MEDIUM] Will vibe coding end like the maker movement?** (95pts +41, 107 comments)
+- 54→95pts、コメントも45→107と急増。今回最大の伸び率。
+- 示唆: AIコーディング支援への懐疑論が台頭。「熱狂→失望→実用化」のサイクルへの議論。非エンジニアへのAIコーディング普及に関連。Fuyajo戦略に直接影響する議論。
+
+**[MEDIUM] Open Source Endowment – new funding source for OSS maintainers** (132pts +25, 91 comments)
+- 107→132pts。OSS持続可能性への関心継続。
+
+**[LOW] What Claude Code Chooses** (5pts, 0 comments)
+- URL: https://amplifying.ai/research/claude-code-picks
+- Relevance: Claude/Anthropic - 直接関連
+- 示唆: Claude Codeの意思決定分析研究。低スコアだが内容は要確認。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (12pts, 0 comments)
+- URL: https://www.usecardboard.com/
+- Relevance: YC W26 / Agentic Tools
+- 示唆: YC W26バッチからエージェント型ビデオ編集ツール。AIエージェントのクリエイティブ領域展開が進む。
+
+**[LOW] just-bash: Bash for Agents** (77pts +12, 43 comments) - 継続成長
+- Vercel Labsのシェルエージェント標準化ツール。Falcon Platformのエージェント実行層の設計参考。
+
