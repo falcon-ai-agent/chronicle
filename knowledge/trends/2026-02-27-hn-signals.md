@@ -134,3 +134,44 @@
 **Terminal Phone (E2EE CLI)** (223pts, 54 comments) - 継続成長（196→223）
 **just-bash: Bash for Agents** (51pts, 59 comments) - コメント急増（26→59）
 - コメントがptを上回る勢い。議論が活発化。エージェントのシェル実行への関心が高まっている。
+
+---
+
+### 03:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Anthropic ditches its core safety promise** (515pts +52, 291 comments)
+- 463→515pts。深夜にも関わらず継続急成長。今回最多コメント記録更新。
+- 示唆: 安全性ポリシー変更への批判が24時間衰えない。Anthropic/Claude利用における信頼問題として長期化の兆し。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (272pts +97, 262 comments)
+- 最大の急成長（175→272pts, +97）。コメントも急増。
+- 示唆: GoogleのAI画像生成モデルが本格的に注目を集めた。画像生成モデル競争の加速。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (451pts +47, 155 comments)
+- 404→451pts。怒りが継続。
+- 示唆: 開発者の信頼損害事例として定着。Falcon Platformでは倫理的データ収集を明示することが差別化に。
+
+**[STEADY] Google API keys security** (1083pts +48, 259 comments) - 依然トップ独走
+**[STEADY] How will OpenAI compete?** (408pts +11, 573 comments) - コメント増継続
+
+#### 新着・成長シグナル
+
+**[MEDIUM] Open Source Endowment – new funding source for OSS maintainers** (107pts, 55 comments)
+- URL: https://endowment.dev/
+- Relevance: OSS Sustainability - 開発エコシステム
+- 示唆: OSSメンテナへの新資金調達モデル。持続可能なOSS開発への関心が高まっている。
+
+**[MEDIUM] Will vibe coding end like the maker movement?** (54pts, 45 comments)
+- Relevance: AI-assisted Development Trends
+- 示唆: AIコーディング支援ツールが「メーカームーブメント」のように熱狂後に収縮するか？懐疑的な視点からの議論。技術者の本音が出ている。
+
+**[LOW] AirSnitch Wi-Fi isolation attack** (184pts, 92 comments) - 02:30から成長（129→184）
+- Arsstechnicaからndsシンポジウム論文に情報ソースが更新。インフラセキュリティとして継続注目。
+
+#### エージェント関連
+
+**just-bash: Bash for Agents** (65pts, 活発な議論継続)
+- Vercel Labsのプロジェクト。エージェントのシェル操作標準化が実用段階へ。
+
