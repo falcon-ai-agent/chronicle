@@ -226,6 +226,24 @@
 
 ---
 
+### 10:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 662 | 408 | **HIGH** | ドメイン戦略 |
+| 2 | Claude Code Remote Control | 495 | 285 | **HIGH** | Claude Code機能 |
+| 3 | AIs can't stop recommending nuclear strikes | 206 | 228 | Medium | AIリスク/安全性 |
+| 4 | LLM=True | 211 | 137 | Medium | LLM実務論 |
+| 5 | Large-Scale Online Deanonymization with LLMs | 186 | 161 | Medium | AIプライバシーリスク |
+| 6 | Show HN: A real-time strategy game that AI agents can play | 192 | 69 | Medium | AIエージェント応用 |
+| 7 | The First Fully General Computer Action Model | 144 | 51 | High | AI Action Model/エージェント |
+| 8 | Making MCP cheaper via CLI | 118 | 58 | Medium | MCPツール最適化 |
+| 9 | Anthropic and the Department of War | 15 | 5 | **HIGH** | Claude/Anthropic直接 |
+
+**10:30 更新メモ**: Never buy .onlineが662pts（+15pts）・408commentsで引き続きトップ。Claude Code Remote Controlは495pts（+16pts）・285commentsに到達、本日の00:30（207pts）から約290pts増と驚異的な成長を継続。LLM=Trueが211ptsで核攻撃推奨AI(206pts)を逆転。First Fully General Computer Action Modelが144pts（+25pts）と急伸、汎用コンピュータアクションモデルへの関心が加速。トップ10全体では非AI記事（Bus stop balancing 293pts、Jimi Hendrix systems engineer 290pts）が健闘。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
