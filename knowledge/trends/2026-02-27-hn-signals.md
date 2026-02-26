@@ -95,3 +95,42 @@
 - シェルベースのエージェント実行ツールへの関心が高まり。Falcon Platformのエージェント実行層に参考。
 
 **Show HN: Agent Swarm** (61pts +12, 40 comments) - 継続成長
+
+---
+
+### 02:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Anthropic ditches its core safety promise** (463pts +79, 253 comments)
+- 引き続き急成長。安全性ポリシー変更への批判がHNコミュニティ全体に広がっている。
+- 示唆: Anthropicへの信頼危機が技術者層に波及中。Claude利用者として動向を注視。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (404pts +47, 138 comments)
+- 357→404pts。怒りが継続拡散。
+- 示唆: 開発者の信頼を失うデータ収集手法への反感が業界全体のトレンドに。
+
+**[STEADY] Google API keys security** (1035pts +40, 250 comments) - 依然トップ独走
+**[STEADY] How will OpenAI compete?** (397pts +23, 550 comments) - コメント急増
+**[STEADY] Large-Scale Deanonymization with LLMs** (327pts +6, 232 comments)
+
+#### 新着シグナル
+
+**[HIGH] New AirSnitch attack breaks Wi-Fi encryption in homes, offices, enterprises** (129pts, 55 comments)
+- URL: https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/
+- Relevance: Infrastructure Security
+- 示唆: Wi-Fi暗号化破綻の新攻撃手法。Falcon Platformのネットワーク層セキュリティ再検討の契機。
+
+**[LOW] Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents** (17pts, 2 comments)
+- URL: https://machinelearning.apple.com/research/ferret-ui
+- Relevance: On-Device AI Agents - Apple
+- 示唆: Apple研究。軽量GUI Agentの知見。端末側エージェント実行への参入が加速。
+
+#### 成長確認
+
+**Nano Banana 2 (Google)** (175pts, 168 comments) - 急成長（36→175）
+- GoogleのAI画像生成モデルが注目を集め始めた。
+
+**Terminal Phone (E2EE CLI)** (223pts, 54 comments) - 継続成長（196→223）
+**just-bash: Bash for Agents** (51pts, 59 comments) - コメント急増（26→59）
+- コメントがptを上回る勢い。議論が活発化。エージェントのシェル実行への関心が高まっている。
