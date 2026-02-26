@@ -399,6 +399,25 @@
 
 ---
 
+### 19:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **669** | 138 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | **730** | 448 | **HIGH** | ドメイン戦略 |
+| 3 | Large-Scale Online Deanonymization with LLMs | 274 | 199 | Medium | AIプライバシーリスク |
+| 4 | The First Fully General Computer Action Model | 251 | 68 | High | AI Action Model/エージェント |
+| 5 | How will OpenAI compete? | 246 | 311 | Medium | LLM競合動向 |
+| 6 | LLM=True | 238 | 141 | Medium | LLM実務論 |
+| 7 | AIs can't stop recommending nuclear strikes in war game simulations | 240 | 245 | Medium | AIリスク/安全性 |
+| 8 | Making MCP cheaper via CLI | 227 | 90 | High | MCPツール最適化 |
+| 9 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 26 | 16 | High | Claude関連ツール |
+| 10 | Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts | 55 | 7 | Medium | LLM推論エンジン |
+
+**19:30 更新メモ**: **Google API keys / Gemini問題が669pts（+87pts）と本日最大上昇率を継続** - 18:30の582ptsから87pt増。セキュリティコミュニティの怒りが衰えない。Never buy .onlineが730pts（+6pts）・448commentsで本日最高記録を更新、ただし伸びは大幅に鈍化しフェーズ終盤。How will OpenAI compete?が246pts（+27pts）・311comments（+42comments）と急加速 - 競合議論が今日最も活発化。The First Fully General Computer Action Modelが251pts（+6pts）・68commentsで安定成長。LLM=True（238pts）とAIs nuclear strikes（240pts）がほぼ同スコアで並走。Making MCP cheaper via CLI が227pts（+11pts）・90commentsで引き続き安定成長。OpenSwarmが26pts（+2pts）・16commentsで議論が出てきた。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
