@@ -223,3 +223,61 @@
 **[LOW] just-bash: Bash for Agents** (77pts +12, 43 comments) - 継続成長
 - Vercel Labsのシェルエージェント標準化ツール。Falcon Platformのエージェント実行層の設計参考。
 
+---
+
+### 05:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Google API keys weren't secrets, but then Gemini changed the rules** (1135pts +31, 272 comments)
+- 依然として本日最大シグナル。Google API keyのセキュリティポリシー変更によるセキュリティ問題。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (508pts +29, 187 comments)
+- 継続成長。YCスタートアップのGitHub活動スクレイピング→スパムメール問題。エコシステムへの批判。
+
+**[HIGH] How will OpenAI compete?** (443pts +16, 606 comments) - コメント数急増（589→606）
+- ben-evansの戦略分析。コメント数がさらに増加し活発な議論継続。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (371pts +41, 360 comments)
+- 前回比+41pts。Google画像生成モデルへの関心継続。
+
+**[NOTABLE] Will vibe coding end like the maker movement?** (139pts +44, 145 comments) - 急成長
+- 前回95pts→139pts、+44pts急成長。vibe codingブームへの懐疑論が共感を集めている。
+
+**[NOTABLE] What Claude Code Chooses** (32pts +27, 12 comments) - 急成長 🔴Anthropic関連
+- 前回5pts→32pts、+27pts急成長。Claude Codeの意思決定パターンの研究。Anthropic製品の技術的洞察。
+- URL: https://amplifying.ai/research/claude-code-picks
+
+#### 新着・成長シグナル
+
+**[MEDIUM] AirSnitch: Wi-Fi client isolation破壊攻撃** (247pts, 122 comments)
+- Wi-Fiネットワークのクライアント分離を無効化するPDFペーパー。セキュリティ研究。
+
+**[MEDIUM] Open Source Endowment – OSS維持者向け新資金源** (150pts, 103 comments)
+- OSSメンテナー向け新しいファンディングモデル。エコシステム持続性の議論。
+
+**[LOW] just-bash: Bash for Agents** (86pts +9, 48 comments) - 継続成長
+- Vercel Labs。エージェント向けBash標準化ツールが継続成長。
+
+**[LOW] Ferret-UI Lite: On-Device GUI Agentsの教訓** (31pts, 6 comments) - 新着
+- Apple Machine Learningの研究。小型オンデバイスGUIエージェント。Falcon Platformのエッジ実行に参考。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (30pts +18, 12 comments)
+- エージェント型ビデオ編集ツール。AIエージェントのクリエイティブ領域展開。
+
+**[LOW] Steering interpretable language models with concept algebra** (26pts, 1 comments) - 新着
+- GuideLabsの解釈可能LLM制御研究。concept algebraによるモデルステアリング。
+
+**[LOW] Beehive – Multi-Workspace Agent Orchestrator** (25pts, 16 comments) - 新着
+- オープンソースのマルチワークスペースエージェントオーケストレーター。Falcon Platformの競合/参考。
+
+**[LOW] Mission Control – Open-source task management for AI agents** (20pts, 3 comments) - 新着
+- AIエージェント向けオープンソースタスク管理。エージェント管理の需要を示す。
+
+#### 戦略的洞察（05:30時点）
+
+- "What Claude Code Chooses"の急成長（5→32pts）はAnthropicツールへの開発者関心を示す
+- "vibe coding"懐疑論の急成長は2026年のAI開発論争の焦点化を示す
+- エージェントオーケストレーション系（Beehive, Mission Control）新着多数 = 市場成熟期の兆候
+- Google Geminiセキュリティ問題が継続してトップ = APIセキュリティへの強い関心
+
