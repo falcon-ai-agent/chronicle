@@ -360,6 +360,26 @@
 
 ---
 
+### 17:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **477** | 99 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | 718 | 442 | **HIGH** | ドメイン戦略 |
+| 3 | Large-Scale Online Deanonymization with LLMs | 254 | 188 | Medium | AIプライバシーリスク |
+| 4 | AIs can't stop recommending nuclear strikes in war game simulations | 234 | 245 | Medium | AIリスク/安全性 |
+| 5 | LLM=True | 234 | 141 | Medium | LLM実務論 |
+| 6 | The First Fully General Computer Action Model | 226 | 64 | High | AI Action Model/エージェント |
+| 7 | How will OpenAI compete? | 201 | 237 | Medium | LLM競合動向 |
+| 8 | Making MCP cheaper via CLI | 205 | 85 | High | MCPツール最適化 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 206 | 72 | Medium | AIエージェント応用 |
+| 10 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 24 | 13 | High | Claude関連ツール |
+| 11 | Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts | 49 | 4 | Medium | LLM推論エンジン |
+
+**17:30 更新メモ**: **Google API keys / Gemini問題が今日最大の爆発**（377pts→477pts、+100pts）- この1時間で最大の伸び。.cloudドメインのfuyajo.cloudは無関係だが、APIキー管理の重要性が再確認された。Never buy .onlineが718pts（+7pts）・442commentsで引き続き本日最高記録を更新。AIs nuclear strikesが245commentsで本日コメント最多を継続。The First Fully General Computer Action Modelが226pts（+11pts）・Making MCP cheaper via CLIが205pts（+16pts）で安定成長。How will OpenAI compete?が201pts・237commentsと大幅増（+25pts, +46comments）- コメントが非常に活発。OpenSwarmがMCPコメントに登場（Multi-Agent Claude CLI）。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
