@@ -338,6 +338,28 @@
 
 ---
 
+### 16:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 711 | 436 | **HIGH** | ドメイン戦略 |
+| 2 | Google API keys weren't secrets, but then Gemini changed the rules | 377 | 78 | **HIGH** | APIセキュリティ/Gemini |
+| 3 | Large-Scale Online Deanonymization with LLMs | 244 | 181 | Medium | AIプライバシーリスク |
+| 4 | LLM=True | 231 | 140 | Medium | LLM実務論 |
+| 5 | AIs can't stop recommending nuclear strikes in war game simulations | 229 | 243 | Medium | AIリスク/安全性 |
+| 6 | The First Fully General Computer Action Model | 215 | 63 | High | AI Action Model/エージェント |
+| 7 | How will OpenAI compete? | 176 | 191 | Medium | LLM競合動向 |
+| 8 | Making MCP cheaper via CLI | 189 | 84 | High | MCPツール最適化 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 204 | 72 | Medium | AIエージェント応用 |
+| 10 | I don't know how you get here from "predict the next word." | 100 | 102 | Medium | LLM哲学的考察 |
+| 11 | An autopsy of AI-generated 3D slop | 62 | 38 | Medium | AI品質問題 |
+| 12 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 21 | 10 | High | Claude関連ツール |
+| 13 | Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts | 44 | 2 | Medium | LLM推論エンジン |
+
+**16:30 更新メモ**: **Google API keys / Gemini問題が今時間最大の急伸**（280pts→377pts、+97pts）- Geminiが従来無害だったAPIキーを突然シークレット扱いに変更したことでセキュリティ研究者が激怒。Never buy .onlineが711pts（+11pts）・436commentsで本日最高記録を更新し続ける。AIs can't stop recommending nuclear strikesが243commentsと本日コメント最多を達成 - AI安全性議論が最も熱い。The First Fully General Computer Action Modelが215pts（+7pts）で着実成長。新登場「I don't know how you get here from 'predict the next word.'」（100pts, 102comments）はLLMの哲学的・認知科学的考察で技術者の深い議論を呼んでいる。Making MCP cheaper via CLIが189pts（+13pts）で本日通じて最も安定した成長を示すトピック。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
