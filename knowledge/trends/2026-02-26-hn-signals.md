@@ -244,6 +244,25 @@
 
 ---
 
+### 11:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 673 | 416 | **HIGH** | ドメイン戦略 |
+| 2 | Claude Code Remote Control | 505 | 289 | **HIGH** | Claude Code機能 |
+| 3 | LLM=True | 216 | 138 | Medium | LLM実務論 |
+| 4 | AIs can't stop recommending nuclear strikes in war game simulations | 209 | 231 | Medium | AIリスク/安全性 |
+| 5 | Large-Scale Online Deanonymization with LLMs | 197 | 164 | Medium | AIプライバシーリスク |
+| 6 | Show HN: A real-time strategy game that AI agents can play | 195 | 72 | Medium | AIエージェント応用 |
+| 7 | The First Fully General Computer Action Model | 155 | 54 | High | AI Action Model/エージェント |
+| 8 | Making MCP cheaper via CLI | 132 | 67 | Medium | MCPツール最適化 |
+| 9 | Launch HN: TeamOut – AI agent for planning company retreats | 39 | 52 | Low | AIエージェント実用 |
+| 10 | The Hater's Guide to Anthropic | 10 | 2 | Medium | Claude/Anthropic関連 |
+
+**11:30 更新メモ**: Never buy .onlineが673pts（+11pts）・416commentsでトップ継続。Claude Code Remote Controlが505pts（+10pts）・289commentsに到達 - 00:30の207ptsから298pts増と本日最大成長記事に確定。核攻撃推奨AI記事が231commentsで依然コメント活発。「The First Fully General Computer Action Model」が155pts（+11pts）・54commentsで着実伸長、汎用コンピュータアクションモデルへの技術的関心が続く。The Hater's Guide to Anthropicが新登場（プレミアム記事、スコア低いが要注目）。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
