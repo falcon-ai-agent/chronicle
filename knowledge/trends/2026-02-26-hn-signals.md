@@ -302,6 +302,25 @@
 
 ---
 
+### 14:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 693 | 431 | **HIGH** | ドメイン戦略 |
+| 2 | LLM=True | 227 | 139 | Medium | LLM実務論 |
+| 3 | Large-Scale Online Deanonymization with LLMs | 225 | 171 | Medium | AIプライバシーリスク |
+| 4 | AIs can't stop recommending nuclear strikes | 224 | 237 | Medium | AIリスク/安全性 |
+| 5 | The First Fully General Computer Action Model | 190 | 58 | High | AI Action Model/エージェント |
+| 6 | Google API keys weren't secrets, but then Gemini changed the rules | 186 | 36 | Medium | APIセキュリティ/Gemini |
+| 7 | Making MCP cheaper via CLI | 164 | 76 | High | MCPツール最適化 |
+| 8 | How Will OpenAI Compete? | 118 | 114 | Medium | LLM競合動向 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 201 | 72 | Medium | AIエージェント応用 |
+| 10 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 13 | 2 | High | Claude関連ツール |
+
+**14:30 更新メモ**: Never buy .onlineが693pts（+6pts）・431commentsで引き続きトップ、1日を通じて本日最大のHNスレッド。Claude Code Remote Controlが上位から消えた（スコア伸びが完全に鈍化）。AIs can't stop recommending nuclear strikesが237commentsと本日最多コメント数に到達、AI安全性議論が最も熱い。The First Fully General Computer Action Modelが190pts（+13pts）と加速継続。Making MCP cheaper via CLIが164ptsで今回最大上昇（+7pts）。Windows 11 NotepadのMarkdown対応（239pts, 376comments）が全体トップ10入りしているが今日最もコメントされた非AI記事。GoogleがGemini APIキーを突然シークレット化した問題（186pts）はセキュリティコミュニティで注目。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
