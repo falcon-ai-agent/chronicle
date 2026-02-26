@@ -381,3 +381,58 @@
 - **"What Claude Code Chooses"が本日最大の急成長（32→138pts）**: Claude/Anthropicの意思決定透明性への開発者関心が爆発。Falcon PlatformでもAI意思決定の可視化・説明可能性を重視する設計が競合優位になり得る。
 - **"vibe coding"懐疑論が継続急成長（139→238pts）**: 非エンジニア向けAIコーディングへの市場自体が疑問視されている。Fuyajoのターゲット定義を再検討する材料として要注意。
 - **Google APIセキュリティが24時間以上トップ維持**: 後方互換性と段階的変更がプラットフォーム運営の鉄則として業界全体で再認識されている。
+
+---
+
+### 08:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Google API keys weren't secrets, but then Gemini changed the rules** (1194pts +6, 286 comments)
+- 1188→1194pts。成長が鈍化し峠越えか。依然トップ独走。
+
+**[HIGH] What Claude Code Chooses** (180pts +42, 88 comments) 🔴 Anthropic関連・継続急成長
+- 138→180pts（+42）、コメント73→88と急増継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Claude Codeの意思決定・選択パターン研究が引き続き開発者に注目されている。Anthropic製品の透明性への強い関心。
+
+**[HIGH] Layoffs at Block** (241pts +130, 149 comments) - 本セッション最大急成長
+- 111→241pts（+130）。今回最大の伸び率。Jackのツイート起点。
+- 示唆: テック企業コスト削減が加速。AI移行コスト圧力とエンジニア雇用市場の変化が同時進行。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (452pts +23, 439 comments)
+- 429→452pts。コメント数も急増（422→439）。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (574pts +6, 216 comments)
+- 568→574pts。成長鈍化。ピーク越え感。
+
+**[HIGH] Will vibe coding end like the maker movement?** (264pts +26, 262 comments)
+- 238→264pts。TOP10入り維持・継続成長。
+
+**[MEDIUM] AirSnitch: Wi-Fi client isolation破壊攻撃** (304pts +13, 150 comments) - TOP1
+- 291→304pts。依然TOP圏維持。
+
+#### 新着シグナル 🔴 最重要
+
+**[CRITICAL] Statement from Dario Amodei on Our Discussions with the Department of War** (216pts, 106 comments)
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- Relevance: Anthropic/Claude - 直接関連・最重要
+- 示唆: AnthropicがPentagon/国防総省との取引を拒否したとのDario Amodeiの公式声明。「良心に従い応じることができない」と表明。AIの軍事利用に関する倫理的立場が明確化。開発者コミュニティの信頼回復につながる可能性あり（00:30の安全性ポリシー変更批判と対照的）。
+
+**[LOW] Anthropic says company 'cannot in good conscience accede' to Pentagon's demands** (6pts, 1 comments)
+- URL: https://apnews.com/...
+- Relevance: 上記の同一ニュースのAP通信報道。まだ低スコアだが拡散予測。
+
+**[LOW] Steering interpretable language models with concept algebra** (38pts, 17 comments)
+- URL: https://www.guidelabs.ai/post/steerling-steering-8b/
+- Relevance: LLM Interpretability / AI Safety
+- 示唆: concept algebraによる解釈可能LLMのステアリング研究。8Bパラメータモデルへの適用。AI可制御性研究の最前線。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (36pts +4, 17 comments)
+- マルチワークスペースエージェントオーケストレーター。32→36pts。
+
+#### 戦略的洞察（08:30時点）
+
+- **AnthropicのPentagon拒否声明が最重要シグナル**: 00:30の「Anthropic ditches safety promise」批判から一転、軍事利用を明確に拒否することで倫理的立場を示した。開発者コミュニティへの信頼回復戦略として機能する可能性。
+- **Block大量レイオフ（+130pts急成長）**: テック企業のコスト削減が加速中。AI移行に伴うエンジニア需要構造の変化が進行中。Falcon Platformのターゲット市場（非エンジニア向け）の需要拡大に繋がるシグナル。
+- **"vibe coding"懐疑論がTOP10維持**: AIコーディング支援への批判的議論が継続。実用的価値vs熱狂の議論がFuyajoの市場定義に直接影響。
