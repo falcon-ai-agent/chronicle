@@ -263,6 +263,25 @@
 
 ---
 
+### 12:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Never Buy A .online Domain | 683 | 420 | **HIGH** | ドメイン戦略 |
+| 2 | LLM=True | 222 | 139 | Medium | LLM実務論 |
+| 3 | AIs can't stop recommending nuclear strikes in war game simulations | 217 | 235 | Medium | AIリスク/安全性 |
+| 4 | Large-Scale Online Deanonymization with LLMs | 205 | 165 | Medium | AIプライバシーリスク |
+| 5 | Show HN: A real-time strategy game that AI agents can play | 197 | 72 | Medium | AIエージェント応用 |
+| 6 | The First Fully General Computer Action Model | 168 | 56 | High | AI Action Model/エージェント |
+| 7 | Making MCP cheaper via CLI | 144 | 73 | High | MCPツール最適化 |
+| 8 | How Will OpenAI Compete? | 57 | 20 | Medium | LLM競合動向 |
+| 9 | DeepSeek withholds latest AI model from Nvidia, AMD | 8 | 2 | **HIGH** | 地政学的AIリスク |
+| 10 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 4 | 0 | High | Claude関連ツール |
+
+**12:30 更新メモ**: Never buy .onlineが683pts（+10pts）・420commentsで引き続きトップ。核攻撃推奨AI記事が235commentsと本日最多コメント数に到達、AI安全性議論の熱は衰えない。The First Fully General Computer Action Modelが168pts（+13pts）と加速中。Making MCP cheaper via CLIが144pts（+12pts）でこの1時間で最大上昇 - MCP最適化への需要が高まっている。注目新登場: **DeepSeekが最新AIモデルをNvidiaとAMDに提供しない**（8pts, Reuters）- 小さいスコアだが地政学的インパクト大。Claude Code Remote Controlは本日トップリストから外れた（505ptsで本日終盤は伸び鈍化）。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
@@ -272,3 +291,5 @@
 2. Claude Code Remote Controlで自律エージェントの機能強化チャンス
 3. OSSエージェント開発環境(Emdash)が競合登場 → 差別化急務
 4. データ主権意識の高まり → セルフホスト需要を狙う可能性
+5. MCPのCLI最適化トレンドが加速 → Falcon PlatformのMCP活用戦略に影響
+6. DeepSeekの米国チップメーカー排除は地政学的AI分断の始まり → OSS LLM活用の優位性
