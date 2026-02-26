@@ -380,6 +380,25 @@
 
 ---
 
+### 18:30 JST
+
+| # | Title | Score | Comments | Importance | Relevance |
+|---|-------|-------|----------|------------|-----------|
+| 1 | Google API keys weren't secrets, but then Gemini changed the rules | **582** | 119 | **HIGH** | APIセキュリティ/Gemini |
+| 2 | Never Buy A .online Domain | **724** | 448 | **HIGH** | ドメイン戦略 |
+| 3 | Large-Scale Online Deanonymization with LLMs | 267 | 191 | Medium | AIプライバシーリスク |
+| 4 | The First Fully General Computer Action Model | **245** | 66 | High | AI Action Model/エージェント |
+| 5 | AIs can't stop recommending nuclear strikes in war game simulations | 237 | 245 | Medium | AIリスク/安全性 |
+| 6 | LLM=True | 236 | 141 | Medium | LLM実務論 |
+| 7 | How will OpenAI compete? | 219 | 269 | Medium | LLM競合動向 |
+| 8 | Making MCP cheaper via CLI | 216 | 85 | High | MCPツール最適化 |
+| 9 | Show HN: A real-time strategy game that AI agents can play | 208 | 73 | Medium | AIエージェント応用 |
+| 10 | Show HN: OpenSwarm – Multi-Agent Claude CLI Orchestrator | 24 | 13 | High | Claude関連ツール |
+
+**18:30 更新メモ**: **Google API keys / Gemini問題が582pts（+105pts）と今日最大の急伸を記録** - 1時間で100pts超の上昇は本日最高ペース。セキュリティコミュニティの怒りが頂点。Never buy .onlineが724pts（+6pts）・448commentsで本日最高記録を更新、ただし伸びは鈍化。The First Fully General Computer Action Modelが245pts（+19pts）と加速中。How will OpenAI compete?が269commentsに急増（+32comments）、競合議論が活発化。Making MCP cheaper via CLIが216pts（+11pts）で安定成長継続。LLM=True（236pts）とAIs nuclear strikes（237pts, 245comments）はほぼ横ばいで成長停滞フェーズ。
+
+---
+
 ### 分析メモ
 
 **今回のHNで最重要トピック**: Anthropic安全方針廃止とOpenAI監視疑惑が同日ランクイン。AIへの信頼危機が醸成されつつある。
