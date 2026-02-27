@@ -1112,3 +1112,48 @@
 - **Google/Gemini APIキー問題（1240pts）**: 初観測で高スコア。セキュリティポリシーの突然の変更が開発者の不満を喚起。競合他社の失敗がFuyajoの差別化（予測可能な課金・ポリシー）を強化。
 - **YCスパム問題（633pts）**: スタートアップエコシステムへの不信感。「信頼できるプラットフォーム」ポジションを早期に確立すべき。
 - **antirezのClaude Code活用**: Redisクリエイター級のベテランエンジニアがClaude Codeを実際の実装に使用。Claude Codeの地位確立を示す強力なシグナル。
+
+---
+
+### 21:30 JST
+
+**取得時刻**: 2026-02-27 21:30 JST
+
+### 主要シグナル（スコア順）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (2097pts +192, 1118 comments)
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 1905→2097pts（**+192**）。コメント1118（+96）。2100pt目前。
+- **2時間で+192pts**は夕方以降も加速していることを示す。米国東部時間の就業時間帯で急増か。
+- HN史上最も注目されたAI企業声明の一つになりつつある。
+
+**[HIGH] What Claude Code chooses** (463pts +34, 180 comments)
+- URL: https://amplifying.ai/research/claude-code-picks
+- 429→463pts（+34）。安定継続成長。
+- Claude Codeがどのライブラリ・フレームワークを選ぶかの透明性研究。1日中TOP10を維持。
+
+**[HIGH] Google API keys weren't secrets, but then Gemini changed the rules** (1246pts +6, 296 comments)
+- 1240→1246pts（+6）。ほぼ頭打ちフェーズ。コメントも294→296で安定。
+- ピーク後の自然減速。すでに十分な注目を集めた。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails to users** (640pts +7, 237 comments)
+- 633→640pts（+7）。こちらも安定フェーズ。
+- **倫理シグナル**: HNコミュニティの長期記憶に残る事例として定着。
+
+**[MEDIUM] Nano Banana 2: Google's latest AI image generation model** (573pts +7, 548 comments)
+- 566→573pts（+7）。コメント538→548（+10）。議論は継続中。
+
+**[MEDIUM] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks** (372pts +14, 169 comments)
+- 358→372pts（+14）。セキュリティ研究として安定した注目。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (122pts +4, 65 comments)
+- 118→122pts（+4）。エージェント応用事例として記録。
+
+**[LOW] Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code** (33pts, 37 comments)
+- antirez（Redisクリエイター）のClaude Code実装記事。コメント数が増加（スコアより議論活性化）。
+
+### 戦略的洞察（21:30時点）
+
+- **DoW声明2000pt突破**: 1905→2097（+192）は2時間で最大の伸び。米国昼間帯に入り議論が加速。2100pt超えは確実。Anthropicにとってこれが正の反応か負の反応かは声明内容次第だが、注目度は前例のない水準。
+- **全体的に安定フェーズ**: Google APIキー（+6）、YCスパム（+7）はピーク後の自然減速。Claude Code研究（+34）のみが継続成長を維持。
+- **Claude Code研究の持続力**: 1日を通してTOP10、かつ安定成長。「AIの意思決定の透明性」は一過性でなく継続的な関心事。Fuyajoが透明なAI実行ログを提供すれば差別化になる。
