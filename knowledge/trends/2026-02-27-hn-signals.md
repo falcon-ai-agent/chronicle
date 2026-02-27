@@ -793,3 +793,64 @@
 - **Google Workers Red Lines急成長（100→155pts, +55）**: 本セッション最大の伸び率。AnthropicのDoW声明が業界全体に波及し、Googleでも内部抵抗が表面化。AI軍事利用への反対が個社から業界標準へ発展するシグナル。
 - **Block大量レイオフ600pt突破**: Layoffs at Blockが600ptを突破し依然成長中。AI代替によるコスト削減が実際の雇用削減として可視化されている。
 - **Claude Code研究（295→317pts）継続**: Anthropic透明性への関心が本日終日持続。DoW声明（倫理）+ Claude Code研究（透明性）の両軸でAnthropicブランドが強化されている。
+
+---
+
+### 15:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (1486pts +155, 776 comments) 🔴 TOP1維持・1400pt突破
+- 1331→1486pts（+155）、コメント724→776と急増継続。午後も衰えず本日最大シグナルとして君臨。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: 1日通じてHN史上に残る議論として確定。GoogleのAPIキー問題（1222pts）を大幅に上回り、AI倫理が今日最大のテーマに。
+
+**[HIGH] Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic** (218pts +63, 90 comments) 🔥 本セッション最大急成長
+- 155→218pts（+63）。今回最大の伸び率。NYT報道。
+- URL: https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html
+- 示唆: AnthropicのDoW声明に触発されたGoogle従業員の軍事AI「レッドライン」要求がさらに拡散。AI倫理が業界全体の行動規範問題として定着しつつある。
+
+**[HIGH] What Claude Code Chooses** (346pts +29, 140 comments) 🔴 Anthropic関連・継続成長
+- 317→346pts（+29）。コメント130→140と増加。TOP5入り。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Claude Codeの意思決定分析研究が午後も成長継続。本日終日安定成長のAnthropicシグナル。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (538pts +12, 507 comments)
+- 526→538pts（+12）。コメント496→507と増加。
+- 示唆: Google AI画像生成モデルが500pt超え維持。継続注目。
+
+**[HIGH] Layoffs at Block** (626pts +26, 654 comments)
+- 600→626pts（+26）。コメント623→654と急増。
+- 示唆: Jack Dorseyのコメントへの関心が午後も継続。テック業界コスト削減の象徴事例として定着。
+
+**[STEADY] Google API keys weren't secrets, but then Gemini changed the rules** (1222pts +0, 294 comments)
+- 1222→1222pts。スコア完全停止。成長終了確定。
+
+**[STEADY] Tell HN: YC companies scrape GitHub activity, send spam** (618pts +5, 231 comments)
+- 613→618pts（+5）。成長鈍化継続。
+
+**[MEDIUM] AirSnitch: Wi-Fi client isolation破壊攻撃** (339pts +5, 162 comments)
+- 334→339pts（+5）。小幅成長。TOP5入り（ランキング3位）。
+
+**[MEDIUM] Open Source Endowment** (229pts +5, 141 comments) - 小幅成長
+**[MEDIUM] just-bash: Bash for Agents** (108pts +1, 67 comments) - 横ばい
+**[MEDIUM] Palantir's AI Gaza Aid Tracking** (121pts +9, 50 comments) - 成長継続
+
+#### 新着・注目シグナル
+
+**[LOW] 56% of CEOs report zero financial return from AI in 2026 (PwC, n=4,454)** (27pts +3, 18 comments)
+- URL: https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai
+- 示唆: AI投資でゼロリターンのCEOが56%。Fuyajoの「即座に価値提供」戦略の重要性を継続裏付け。
+
+**[LOW] What does "2>&1" mean?** (210pts, 121 comments) - 継続成長
+- シェル基礎知識へのバイラル関心継続。just-bash文脈と連動。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (104pts, 53 comments) - 横ばい
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (42pts, 21 comments) - 横ばい
+
+#### 戦略的洞察（15:30時点）
+
+- **DoW声明が1486pts到達（1331→1486, +155）**: 終日TOP1を維持しGoogleのAPIキー記事（1222pts）を大幅上回り確定。AI倫理問題がHNコミュニティにとって技術的セキュリティ問題より重大関心事。Anthropicが倫理的立場で開発者信頼を獲得中。
+- **Google Workers Red Lines（155→218pts, +63）**: 本セッション最大急成長。AnthropicのDoW声明が業界全体に波及。AI軍事利用への内部抵抗がAnthropicだけでなくGoogle内部でも組織化されている。業界横断的転換点。
+- **What Claude Code Chooses（317→346pts）継続**: 終日安定成長。Anthropic透明性への関心が本物として確立。DoW声明（倫理, 1486pts）+ Claude Code研究（透明性, 346pts）の両軸でAnthropicが開発者コミュニティで評価向上中。
+- **just-bash横ばい（107→108pts）**: エージェントシェル実行ツールとしての関心は「定着」フェーズへ。急成長期は終わり安定した実用関心に移行。
