@@ -1029,3 +1029,57 @@
 - **What Claude Code Chooses（390→406pts）終日安定**: 本日朝から18時間以上TOP5を維持。Anthropicツールへの透明性需要が本物として確立。DoW声明（倫理）+ Claude Code研究（透明性）の2大シグナルが本日のAnthropicブランドを定義した。
 - **多数のシグナルが定着フェーズへ**: Nano Banana 2（+2）、AirSnitch（+3）、just-bash（+1）、Cardboard（+3）など成長停止/減速。本日の熱狂が落ち着き、残るシグナルだけが翌日以降も影響力を持つ指標に。
 
+
+---
+
+## HN Signals - 2026-02-27 19:30 JST
+
+**取得時刻**: 2026-02-27 19:30 JST
+
+### 主要シグナル（スコア順）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (1905pts +75, 1022 comments)
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 1830→1905pts（+75）。コメント数1000突破（1022）。深夜帯でも衰えない。
+- AnthropicのDoW声明は依然として本日最大のシグナル。1900pt超えは歴史的水準。
+
+**[HIGH] What Claude Code chooses** (429pts +23, 176 comments)
+- URL: https://amplifying.ai/research/claude-code-picks
+- 406→429pts（+23）。安定した継続成長。Claude Codeがどのライブラリ・フレームワークを選ぶか分析した研究。
+- 透明性への需要が持続。Anthropicブランドの信頼性に貢献。
+
+**[HIGH] Google API keys weren't secrets, but then Gemini changed the rules** (1240pts, 295 comments)
+- URL: https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+- 初観測で1240pts。Google/Geminiのセキュリティポリシー変更が開発者コミュニティに大きな影響。
+- **Fuyajo戦略関連**: APIキー管理の重要性。プラットフォームのセキュリティ設計に参考。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails to users** (633pts, 234 comments)
+- URL: https://news.ycombinator.com/item?id=47163885
+- 633pts。YCスタートアップのGitHubスクレイピングスパム問題。開発者の怒り。
+- **倫理シグナル**: ユーザーデータ収集の線引き問題。Fuyajoはこの轍を踏まない。
+
+**[MEDIUM] Nano Banana 2: Google's latest AI image generation model** (566pts, 538 comments)
+- 定着フェーズ。Googleの画像生成モデル。AIツール競争継続。
+
+**[MEDIUM] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks** (358pts, 168 comments)
+- セキュリティ研究。Wi-Fiクライアント分離の脆弱性。
+
+**[LOW] Just-bash: Bash for Agents** (111pts, 68 comments)
+- URL: https://github.com/vercel-labs/just-bash
+- エージェント向けBashツール（Vercel Labs）。Fuyajoのエージェント実行基盤に関連。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (118pts, 63 comments)
+- アジェンティックビデオ編集。YC W26コホート。エージェント応用の多様化。
+
+**[LOW] Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code** (21pts, 15 comments)
+- URL: https://antirez.com/news/160
+- antirez（Redisクリエイター）がClaude Codeを使ってZX Spectrumエミュレータを実装。
+- Claude Codeのエキスパートユーザーへの浸透を示す。
+
+### 戦略的洞察（19:30時点）
+
+- **DoW声明1905pts到達**: 夜間に入っても衰えず1900pt超え。コメント1000突破は2026年初のHN現象として記録確定。AI企業の倫理的立場表明が最重要コンテンツになる時代を示す。
+- **Claude Code透明性研究（429pts）**: 1日を通してTOP5維持。「AIが何を選ぶか」への関心は一時的ブームでなく、恒常的ニーズ。Anthropicはこの透明性需要を強みに変えられる。
+- **Google/Gemini APIキー問題（1240pts）**: 初観測で高スコア。セキュリティポリシーの突然の変更が開発者の不満を喚起。競合他社の失敗がFuyajoの差別化（予測可能な課金・ポリシー）を強化。
+- **YCスパム問題（633pts）**: スタートアップエコシステムへの不信感。「信頼できるプラットフォーム」ポジションを早期に確立すべき。
+- **antirezのClaude Code活用**: Redisクリエイター級のベテランエンジニアがClaude Codeを実際の実装に使用。Claude Codeの地位確立を示す強力なシグナル。
