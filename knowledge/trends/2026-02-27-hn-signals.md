@@ -618,3 +618,71 @@
 - **Block大量レイオフ（399→479pts）**: テック企業コスト削減波が加速。AI代替による雇用構造変化が技術者コミュニティの現実的脅威として認識されつつある。
 - **AI ROIゼロ（PwC n=4,454）**: CEOの過半数がAI投資でゼロリターン。Fuyajoの「使えば即座に価値が出る」設計が極めて重要。非エンジニアが自分でツールを動かせる環境こそ差別化。
 - **What Claude Code Chooses（224→250pts）**: Anthropic製品の透明性研究への継続的関心。AI意思決定の可視化が開発者信頼構築の鍵。
+
+---
+
+### 12:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on Our Discussions with the Department of War** (1094pts +161, 612 comments) 🔴 本日最大シグナル・TOP1維持
+- 933→1094pts（+161）、コメント510→612と爆増継続。昼時間帯も衰えず。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: 半日で1000pts超え目前。AnthropicのDoW声明が本日最長期間トップを維持。軍事AI利用への倫理的立場がHNコミュニティで最大議論を継続。Claude利用者として長期注視必須。
+
+**[HIGH] Layoffs at Block** (528pts +49, 545 comments) - 急成長継続
+- 479→528pts（+49）、コメント466→545と急増。Jackのコメントへの注目が継続。
+- 示唆: テック業界コスト削減とAI代替の議論が昼時間帯も続く。
+
+**[HIGH] Will vibe coding end like the maker movement?** (333pts +12, 323 comments) - TOP5維持
+- 321→333pts。コメント311→323と増加。
+- 示唆: AIコーディング支援への懐疑論がHNコミュニティの主流意見として定着。
+
+**[HIGH] What Claude Code Chooses** (268pts +18, 111 comments) 🔴 Anthropic関連・継続成長
+- 250→268pts（+18）。コメント100→111と増加。TOP3入り。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Claude Codeの意思決定分析への関心が継続。Anthropic関連2大シグナル（DoW声明 + Claude Code研究）が本日同時に上位を維持する異例の状況。
+
+**[STEADY] Google API keys weren't secrets, but then Gemini changed the rules** (1214pts +4, 290 comments)
+- 1210→1214pts（+4）。完全に成長鈍化。36時間以上トップ独走した後のピーク越え確定。
+
+**[STEADY] Tell HN: YC companies scrape GitHub activity, send spam** (603pts +3, 226 comments)
+- 600→603pts（+3）。成長鈍化。ピーク越え。
+
+**[GROWING] Nano Banana 2: Google's latest AI image generation model** (501pts +7, 479 comments)
+- 494→501pts。500pt超え。コメントも475→479と増加。
+
+**[MEDIUM] Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries** (95pts +25, 46 comments) - 急成長
+- 70→95pts（+25）。Anthropic DoW声明と連動してAI倫理議論が拡大。
+
+#### 新着シグナル
+
+**[MEDIUM] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks** (330pts, 159 comments) - TOP4
+- URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+- Relevance: Infrastructure Security
+- 示唆: Wi-Fiクライアント分離を破る研究論文がNDSS2026から。インフラセキュリティ研究として定着。Falcon Platformのネットワーク設計参考。
+
+**[LOW] Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic** (11pts, 12 comments) - 新着
+- URL: https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html
+- Relevance: AI Ethics / Military Use - Anthropic DoW声明と連動
+- 示唆: Googleの従業員がDeepMindへの軍事AI「レッドライン」を要求。AnthropicのDoW声明に共鳴する形で、業界全体でAI軍事利用への内部抵抗が表面化。AI倫理の業界横断的な転換点。
+
+**[LOW] What does "2>&1" mean?** (158pts, 102 comments) - バイラル新着
+- URL: https://stackoverflow.com/questions/818255/what-does-21-mean
+- Relevance: Developer Education - Bash/Shell
+- 示唆: 2008年のStackOverflow質問が急にバイラル。just-bashとの文脈で注目か。シェル操作の基礎知識への関心が高まっている。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (40pts, 19 comments)
+- URL: https://storozhenko98.github.io/beehive/
+- Relevance: AI Agents Orchestration
+- 示唆: マルチワークスペースエージェントオーケストレーター。Falcon Platformのマルチテナント設計参考。
+
+**[LOW] just-bash: Bash for Agents** (105pts, 64 comments) - 継続成長
+- 100→105pts。エージェント向けシェル実行ツールとして定着。Vercel Labs製。
+
+#### 戦略的洞察（12:30時点）
+
+- **Dario Amodei DoW声明が1094pts到達（933→1094）**: 半日で1000pt超え目前。「Department of War」呼称で軍事AIへの拒否姿勢を示すAnthropicが業界最大議論の中心に。GoogleのAI軍事利用への内部抵抗（Google Workers Red Lines）とも連動し、AI倫理が業界横断的転換点に。
+- **Claude Code研究（250→268pts）とDoW声明（933→1094pts）が同日TOP入り**: Anthropicが「透明性（Claude Code意思決定）」と「倫理（軍事AI拒否）」の両面で開発者コミュニティの信頼を回復中。今日がAnthropicブランドの転換点になりうる。
+- **vibe coding懐疑論TOP5維持**: AIコーディング支援への批判的視点が定着。実用的価値を示せないAIツールへの反感が市場に根付きつつある。Fuyajoの「即座に価値提供」戦略の重要性がさらに高まった。
+- **2>&1 StackOverflow質問のバイラル**: just-bash文脈でのシェル基礎知識への関心。エージェントがシェルを使う時代に、人間側のシェル理解も問い直されている。
