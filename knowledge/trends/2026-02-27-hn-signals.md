@@ -1157,3 +1157,55 @@
 - **DoW声明2000pt突破**: 1905→2097（+192）は2時間で最大の伸び。米国昼間帯に入り議論が加速。2100pt超えは確実。Anthropicにとってこれが正の反応か負の反応かは声明内容次第だが、注目度は前例のない水準。
 - **全体的に安定フェーズ**: Google APIキー（+6）、YCスパム（+7）はピーク後の自然減速。Claude Code研究（+34）のみが継続成長を維持。
 - **Claude Code研究の持続力**: 1日を通してTOP10、かつ安定成長。「AIの意思決定の透明性」は一過性でなく継続的な関心事。Fuyajoが透明なAI実行ログを提供すれば差別化になる。
+
+---
+
+## HN Signals 22:30 JST
+
+### 更新サマリー（21:30→22:30）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (2189pts +92, 1190 comments)
+- 2097→2189pts（+92）。1時間で継続成長。1190コメントは前回比不明だが議論は継続中。
+- 「Department of War（戦争省）」という表現が注目を集めている。米国防総省（DoD）との契約に関するAnthropic公式声明。
+- Dario自らが説明に出た事実は、Anthropicのガバナンス上の重要性を示す。
+- **Falconへの影響**: Anthropicの政府・軍との関係に対するHNコミュニティの反応を追跡継続。
+
+**[HIGH] What Claude Code chooses** (473pts, 184 comments)
+- amplifying.ai によるClaude Codeの意思決定分析研究。スコア維持（前回比変動なし）。
+- 「AIが何を選択するか」の透明性研究。Fuyajo透明実行ログへの需要を裏付ける。
+
+**[HIGH] Google API keys weren't secrets, but then Gemini changed the rules** (1248pts, 299 comments)
+- TruffleSecurityによるGoogle/Gemini APIキーのセキュリティ変更に関する調査。
+- 1000pt超えの高注目。セキュリティ実践の変化がHNで大議論に。
+- **Fuyajo関連**: APIキー管理・秘密情報ハンドリングは重要な差別化ポイント。
+
+**[HIGH] YC companies scrape GitHub activity, send spam emails** (646pts, 239 comments)
+- YCスタートアップがGitHubデータをスクレイピングしてスパムメール送信。倫理問題として引き続き高注目。
+- HNコミュニティの怒りは継続。「信頼されたプラットフォームの悪用」として記憶に残る事例。
+
+**[MEDIUM] Nano Banana 2: Google's latest AI image generation model** (576pts, 550 comments)
+- Googleの最新画像生成AI。550コメントと議論活発。
+
+**[MEDIUM] AirSnitch: Wi-Fi client isolation breaking** (380pts, 170 comments)
+- セキュリティ研究として安定注目。NDSSシンポジウム論文。
+
+**[NEW] Steering interpretable language models with concept algebra** (72pts, 7 comments)
+- GuideLabsによる解釈可能LMのコンセプト代数制御。interpretability研究の最前線。
+- Falcon Platformの透明性AIへの理論的基盤として参考価値あり。
+
+**[NEW] Can you reverse engineer our neural network?** (87pts, 22 comments)
+- Jane Streetがニューラルネットリバースエンジニアリングチャレンジを公開。
+- 金融機関がAI解釈性に取り組む事例として興味深い。
+
+**[LOW] PostmarketOS bans use of generative AI** (16pts, 10 comments)
+- postmarketOSがコードベースへの生成AI使用を禁止。OSS界隈の反AI-codegen動向。
+
+**[LOW] Implementing ZX Spectrum emulator with Claude Code** by antirez (40pts, 40 comments)
+- antirez（Redisクリエイター）のClaude Code実装事例。コメント数が増加傾向。
+
+### 戦略的洞察（22:30時点）
+
+- **DoW声明2189pt**: 1時間で+92pt継続成長。米国夜間帯に入っても衰えない。Anthropicの軍需関与を巡る論争は長期化する可能性。
+- **Claude Code研究の安定**: 473ptで固定。ピーク後安定フェーズ。AIの意思決定透明性への継続的関心。
+- **interpretabilityテーマの台頭**: 「AI内部を理解したい」という需要が複数記事（Claude Code選択分析、コンセプト代数、NNリバースエンジニアリング）に表れている。Fuyajoの透明実行ログ戦略は時代に合っている。
+- **OSS界隈の生成AI反発**: postmarketOSのAI禁止ポリシー。エコシステムの分断が始まっている。
