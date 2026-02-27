@@ -203,3 +203,45 @@ signals_found: 8（新規: 5、更新: 3）
 - Anthropicがセーフガード削除拒否。AI安全性を巡る企業姿勢の試金石
 
 signals_found: 6（新規: 3、更新: 3）
+
+---
+
+### 05:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[574pts, 218comments] What Claude Code chooses**
+- スコア微増: 573 → 574（+1）。長期安定関心。Claude Codeの意思決定パターン研究が定番記事化
+- URL: https://amplifying.ai/research/claude-code-picks
+
+**[300pts, 149comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 262 → 300（+38）。**300ptマイルストーン達成**
+- AnthropicのOSSエコシステム拡大戦略が継続的に支持を集める
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[231pts, 160comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア上昇: 212 → 231（+19）。技術コミュニティで持続的注目
+
+**[164pts, 128comments] ChatGPT Health fails to recognise medical emergencies**
+- スコア上昇: 133 → 164（+31）。AI医療信頼性問題が引き続き拡散
+
+**[120pts, 76comments] We gave terabytes of CI logs to an LLM** 🆕(更新)
+- スコア上昇: 102 → 120（+18）。LLMのDevOps活用事例として実用的関心継続
+
+**[93pts, 211comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア: 93pts、コメント211。コメント数がスコアを大幅に超える→議論が活発
+- AI資金調達規模への懐疑的意見も多数
+
+**[21pts, 3comments] We Built Secure, Scalable Agent Sandbox Infrastructure** 🆕
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+- browser-useによるエージェントサンドボックス構築事例
+- **Falcon Platform直接関連**: エージェント実行の安全な分離手法の参考
+
+#### 🟠 COMPETITIVE INTEL（新規）
+
+**[12pts, 0comments] Anthropic refuses to bend to Pentagon on AI safeguards as dispute nears deadline**
+- Anthropic、ペンタゴンへのセーフガード削除要求を拒否（期限迫る）
+- スコア低いが戦略的に重要。Anthropicの倫理的立場の最新動向
+
+signals_found: 8（新規: 3、更新: 5）
