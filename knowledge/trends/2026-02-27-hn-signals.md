@@ -420,7 +420,6 @@
 - 示唆: AnthropicがPentagon/国防総省との取引を拒否したとのDario Amodeiの公式声明。「良心に従い応じることができない」と表明。AIの軍事利用に関する倫理的立場が明確化。開発者コミュニティの信頼回復につながる可能性あり（00:30の安全性ポリシー変更批判と対照的）。
 
 **[LOW] Anthropic says company 'cannot in good conscience accede' to Pentagon's demands** (6pts, 1 comments)
-- URL: https://apnews.com/...
 - Relevance: 上記の同一ニュースのAP通信報道。まだ低スコアだが拡散予測。
 
 **[LOW] Steering interpretable language models with concept algebra** (38pts, 17 comments)
@@ -436,3 +435,72 @@
 - **AnthropicのPentagon拒否声明が最重要シグナル**: 00:30の「Anthropic ditches safety promise」批判から一転、軍事利用を明確に拒否することで倫理的立場を示した。開発者コミュニティへの信頼回復戦略として機能する可能性。
 - **Block大量レイオフ（+130pts急成長）**: テック企業のコスト削減が加速中。AI移行に伴うエンジニア需要構造の変化が進行中。Falcon Platformのターゲット市場（非エンジニア向け）の需要拡大に繋がるシグナル。
 - **"vibe coding"懐疑論がTOP10維持**: AIコーディング支援への批判的議論が継続。実用的価値vs熱狂の議論がFuyajoの市場定義に直接影響。
+
+---
+
+
+### 09:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on Our Discussions with the Department of War** (523pts, 294 comments) 🔴 新着・最重要
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- Relevance: Anthropic/Claude - 最優先
+- 示唆: AnthropicのCEO Dario AmodeiがDoW（米国防総省）との協議についての声明を発表。国防・軍事AIの議論にAnthropicが正式に登場。商業AI企業が軍事利用に踏み込む歴史的な転換点。Claude利用者として重大な文脈変化。
+
+**[CRITICAL] Google API keys weren't secrets, but then Gemini changed the rules** (1195pts +7, 286 comments)
+- 1188→1195pts。30時間以上独走トップ維持。今日最大シグナルとして定着。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (586pts +18, 219 comments)
+- 568→586pts。開発者倫理問題として依然高い関心継続。
+
+**[HIGH] Layoffs at Block** (325pts +214, 305 comments) 🔥 本セッション最大急成長
+- 111→325pts（+214）、コメントも73→305と爆増。Jack Dorseyのコメントが注目を集めている。
+- 示唆: テック業界でのレイオフが続く。AI代替によるコスト削減圧力が増大中。
+
+**[HIGH] Will vibe coding end like the maker movement?** (287pts +49, 278 comments)
+- 238→287pts。コメントも237→278と増加継続。懐疑論が引き続き拡大。
+
+**[HIGH] AirSnitch: Wi-Fi client isolation破壊攻撃** (315pts +24, 156 comments)
+- 291→315pts。セキュリティ研究として継続成長。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (472pts +43, 459 comments)
+- 429→472pts。コメントも急増（422→459）。GoogleのAI画像生成が引き続き注目。
+
+**[HIGH] What Claude Code Chooses** (206pts +68, 93 comments) 🔴 Anthropic関連継続成長
+- 138→206pts。07:30から+68pts。Claude Codeの意思決定分析への開発者関心が継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+
+**[HIGH] How will OpenAI compete?** (451pts, 600+comments) - 横ばい維持
+
+#### 新着シグナル
+
+**[HIGH] Anthropic gives Opus 3 exit interview, "retirement" blog** (35pts, 26 comments) 🔴 Anthropic関連
+- URL: https://www.anthropic.com/research/deprecation-updates-opus-3
+- Relevance: Claude/Anthropic - 直接関連
+- 示唆: AnthropicがClaude 3 Opusを「退職」として廃止。モデルのライフサイクル管理と廃止コミュニケーションの新しいモデル。技術的継承と文化的配慮を組み合わせた廃止戦略。
+
+**[MEDIUM] Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage** (133pts, 125 comments)
+- URL: https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/
+- Relevance: Tech Market / Supply Chain
+- 示唆: スマートフォン市場が過去最大の13%減少予測（メモリ不足起因）。HBM/DRAM需要でAI半導体と競合するマクロ環境。AI開発コストへの間接的影響に注意。
+
+**[MEDIUM] Open Source Endowment – new funding source for OSS maintainers** (203pts +20, 125 comments)
+- 183→203pts。OSSエコシステム持続性への関心継続。
+
+**[MEDIUM] just-bash: Bash for Agents** (100pts +3, 61 comments) - 継続成長
+- 97→100pts。エージェントシェル実行ツールとして定着。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (88pts +12, 46 comments) - 成長
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (66pts +34, 78 comments)
+- コメントがptsを大幅上回る（78>66）。活発な議論。マルチエージェント管理ツールへの関心。
+
+**[LOW] Steering interpretable language models with concept algebra** (49pts, 3 comments)
+- GuideLabsの解釈可能LLMステアリング研究。コンセプト代数によるモデル制御。
+
+#### 戦略的洞察（09:30時点）
+
+- **Dario AmodeiのDoW声明が新着TOP2**: AnthropicがAI軍事利用の正面に立つことを選択。「安全性」と「軍事協力」の矛盾がどう解消されるかが今後の最大議論点。Claude利用者として倫理的含意を注視が必要。
+- **Layoffs at Blockが+214pts急増**: Jack Dorsey発のレイオフがtech業界で再び注目。AI代替コスト削減と人材市場の変化が加速。
+- **Opus 3退職ブログ**: Anthropicのモデル廃止コミュニケーション戦略は業界のベストプラクティスになりうる。廃止を「退職」として文化的に扱う新しいアプローチ。
+- **What Claude Code Chooses継続成長（138→206pts）**: Anthropicツールの内部動作への開発者関心は本物。透明性・説明可能性が競合優位要素として確立されつつある。
