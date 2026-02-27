@@ -72,3 +72,39 @@ Anthropicの「Constitutional AI」「安全性重視」というブランドと
 - AIエージェントへの需要は高まり続けている（YC W26でも登場）
 
 signals_found: 8
+
+---
+
+### 02:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[2621pts, 1398comments] Statement from Dario Amodei on our discussions with the Department of War**
+- スコア継続上昇: 2463 → 2621（+158）、コメント: 1315 → 1398（+83）
+- HN史上最高レベルの議論が続行中。技術コミュニティでの関心が衰えない
+
+**[1257pts, 301comments] Google API keys weren't secrets, but then Gemini changed the rules**
+- スコア微増: 1254 → 1257。引き続き高関心
+
+**[549pts, 208comments] What Claude Code chooses**
+- スコア上昇: 519 → 549（+30）。Claude Codeの意思決定パターン研究、関心継続
+
+#### 🟡 MEDIUM IMPORTANCE（新規）
+
+**[200pts, 127comments] Can you reverse engineer our neural network?**
+- Jane Streetのニューラルネット逆工学チャレンジ。スコア上昇: 155 → 200
+- 技術的挑戦として注目度高い
+
+**[161pts, 91comments] Get free Claude max 20x for open-source maintainers**
+- スコア大幅上昇: 60 → 161（+101）。Anthropic OSSプログラムへの関心が急増
+- Falcon Platform（Claude Code使用）にとってプラスのエコシステム拡大
+
+**[126pts, 71comments] Launch HN: Cardboard (YC W26) – Agentic video editor**
+- YC W26のAIエージェントツール継続注目。スコア: 125 → 126
+
+#### 🟠 COMPETITIVE INTEL（新規）
+
+**[63pts, 59comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 18 → 63（+45）。AI業界最大規模の資金調達が徐々に注目を集め始める
+
+signals_found: 7（新規: 0、更新: 7）
