@@ -108,3 +108,53 @@ signals_found: 8
 - スコア上昇: 18 → 63（+45）。AI業界最大規模の資金調達が徐々に注目を集め始める
 
 signals_found: 7（新規: 0、更新: 7）
+
+---
+
+### 03:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[2695pts, 1433comments] Statement from Dario Amodei on our discussions with the Department of War**
+- スコア継続上昇: 2621 → 2695（+74）、コメント: 1398 → 1433（+35）
+- HNで異例の持続的注目。軍事AI利用の倫理議論が朝まで続行
+
+**[566pts, 210comments] What Claude Code chooses**
+- スコア上昇: 549 → 566（+17）。Claude Codeの意思決定パターン研究、関心維持
+
+**[209pts, 110comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 161 → 209（+48）。Anthropic OSSプログラムへの関心が急加速
+
+#### 🟡 MEDIUM IMPORTANCE（新規）
+
+**[398pts, 173comments] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks**
+- URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+- NDSS 2026発表のWi-Fiクライアント分離破壊手法
+- 高スコア・高コメント。セキュリティ研究コミュニティの注目大
+- Falcon Platform: マルチテナント環境のネットワーク分離設計への参考
+
+**[221pts, 86comments] A better streams API is possible for JavaScript**
+- URL: https://blog.cloudflare.com/a-better-web-streams-api/
+- CloudflareによるWeb Streams APIの改善提案
+- Workers/エッジコンピューティング文脈。Falcon Platformのフロントエンド参考
+
+**[212pts, 136comments] Can you reverse engineer our neural network?**
+- Jane Streetのニューラルネット逆工学チャレンジ。スコア上昇: 200 → 212
+
+**[177pts, 144comments] The Pentagon is making a mistake by threatening Anthropic**
+- URL: https://www.understandingai.org/p/the-pentagon-is-making-a-mistake
+- DoW声明の対抗意見。Anthropic支持派の論考
+- コメント数/スコア比が高い→議論が活発
+
+**[123pts, 37comments] Show HN: RetroTick – Run classic Windows EXEs in the browser**
+- URL: https://retrotick.com/
+- ブラウザでクラシックWindows EXEを実行するデモ
+- **Falcon Platformとの類似概念**: ブラウザからEXE/アプリ実行という価値提案
+- 技術的アプローチ（エミュレーション vs. VM）の違いは要調査
+
+**[105pts, 80comments] Experts sound alarm after ChatGPT Health fails to recognise medical emergencies**
+- URL: https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies
+- ChatGPT Healthが医療緊急事態を認識できない問題
+- AI信頼性・安全性への懸念が高まるシグナル
+
+signals_found: 8（新規: 5、更新: 3）
