@@ -969,3 +969,63 @@
 - **"2>&1" バイラル継続（236→262pts）**: シェル基礎知識への関心が1日通じて持続。エージェントシェル実行時代に人間側のシェルリテラシーも問い直されている。just-bashとの相乗効果。
 - **Anthropic完全制圧**: DoW声明（1721pts）+ Claude Code研究（390pts）が本日終日上位を占め、Anthropicが「倫理」「透明性」の両軸で開発者コミュニティの信頼を獲得した歴史的な1日として確定。
 
+---
+
+### 18:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (1830pts +109, 969 comments) 🔴 TOP1独走継続・1800pt突破
+- 1721→1830pts（+109）、コメント898→969と急増継続。夜間に向かっても衰えず。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: 1800pt突破。13時間以上TOP1を維持し続けるAnthropicのDoW声明。本日のHNを完全制圧し2000pt到達の可能性も。AI倫理問題がHNコミュニティにとって今日最大の関心事として歴史的記録を更新中。
+
+**[HIGH] Layoffs at Block** (709pts +23, 758 comments) - 継続成長
+- 686→709pts（+23）、コメント722→758と急増。コメント数がスコアを大幅上回る高関心状態が続く。
+- 示唆: Jack Dorseyのコメントへの関心が夜まで継続。テック業界コスト削減の象徴事例として定着。
+
+**[HIGH] What Claude Code Chooses** (406pts +16, 171 comments) 🔴 Anthropic関連・継続成長
+- 390→406pts（+16）。コメント157→171と増加。夕方以降も安定成長継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Claude Codeの意思決定分析研究が18時台も成長継続。本日朝から終日TOP5入りの安定シグナル。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (631pts +3, 234 comments)
+- 628→631pts（+3）。成長ほぼ停止。ピーク越え確定。
+
+**[MEDIUM] Nano Banana 2: Google's latest AI image generation model** (562pts +2, 536 comments)
+- 560→562pts（+2）。成長停止。500pt超えで定着フェーズへ。
+
+**[MEDIUM] AirSnitch: Wi-Fi client isolation破壊攻撃** (354pts +3, 166 comments)
+- 351→354pts（+3）。横ばい。セキュリティ研究として定着フェーズ。
+
+**[MEDIUM] Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic** (241pts +7, 112 comments)
+- 234→241pts（+7）。成長減速。DoW声明連動シグナルとして安定。
+
+**[STEADY] Google API keys weren't secrets, but then Gemini changed the rules** (1235pts +3, 295 comments)
+- 1232→1235pts（+3）。実質停止。HNランキング圏外。本日スコア2位で終了確定。
+
+**[MEDIUM] Open Source Endowment – new funding source for OSS maintainers** (236pts +3, 146 comments)
+- 233→236pts（+3）。横ばい。
+
+**[LOW] Steering interpretable language models with concept algebra** (73pts +5, 7 comments) - 小幅成長
+- URL: https://www.guidelabs.ai/post/steerling-steering-8b/
+- 68→73pts。LLM解釈可能性研究として継続。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (114pts +3, 61 comments)
+- 111→114pts（+3）。成長減速。100pt超えで定着フェーズへ。
+
+**[LOW] just-bash: Bash for Agents** (111pts +1, 67 comments) - 実質横ばい
+- URL: https://github.com/vercel-labs/just-bash
+- 110→111pts。エージェントシェル実行ツールとして定着フェーズ確定。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (44pts, 21 comments)
+- URL: https://storozhenko98.github.io/beehive/
+- 横ばい。マルチエージェントオーケストレーター。
+
+#### 戦略的洞察（18:30時点）
+
+- **DoW声明が1830pts到達（1721→1830, +109）**: 1800pt突破で夜間も衰えず。本日のHNにおけるAnthropicのDoW声明は歴史的記録として確定。13時間以上TOP1を維持し、AI倫理が2026年の業界最大テーマとして刻まれた。
+- **Layoffs at Block（686→709pts, +23）**: 夜間も継続成長。コメント数（758）がスコア（709）を大幅上回り、議論の濃さを示す。AI代替によるコスト削減と雇用構造変化への開発者関心が持続。
+- **What Claude Code Chooses（390→406pts）終日安定**: 本日朝から18時間以上TOP5を維持。Anthropicツールへの透明性需要が本物として確立。DoW声明（倫理）+ Claude Code研究（透明性）の2大シグナルが本日のAnthropicブランドを定義した。
+- **多数のシグナルが定着フェーズへ**: Nano Banana 2（+2）、AirSnitch（+3）、just-bash（+1）、Cardboard（+3）など成長停止/減速。本日の熱狂が落ち着き、残るシグナルだけが翌日以降も影響力を持つ指標に。
+
