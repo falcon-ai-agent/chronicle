@@ -158,3 +158,48 @@ signals_found: 7（新規: 0、更新: 7）
 - AI信頼性・安全性への懸念が高まるシグナル
 
 signals_found: 8（新規: 5、更新: 3）
+
+---
+
+### 04:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[262pts, 139comments] Get free Claude max 20x for open-source maintainers**
+- スコア急上昇: 209 → 262（+53）、コメント: 110 → 139（+29）
+- Anthropic OSSプログラムへの関心が加速。朝の時間帯に欧米ユーザーが起動した可能性
+- Claude採用エコシステム拡大のシグナル
+
+**[573pts, 213comments] What Claude Code chooses**
+- スコア微増: 566 → 573（+7）。関心維持。記事の長期的な影響力を示す
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[205pts, 177comments] The Pentagon is making a mistake by threatening Anthropic**
+- スコア上昇: 177 → 205（+28）、コメント: 144 → 177（+33）
+- Anthropic支持の論考が引き続き注目。コメント率が高くエンゲージメント活発
+
+**[133pts, 105comments] Experts sound alarm after ChatGPT Health fails to recognise medical emergencies**
+- スコア上昇: 105 → 133（+28）、コメント: 80 → 105（+25）
+- AI医療信頼性問題が持続的に注目。AI安全性への懸念シグナル
+
+**[102pts, 67comments] We gave terabytes of CI logs to an LLM** 🆕
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+- CI/CDログをLLMに投入して分析する実践事例
+- 「LLMはSQLが得意」というメッセージ。実用的なLLM活用パターンとして注目
+- Falcon Platform向け示唆: ログ分析・デバッグ支援へのLLM活用は有望
+
+**[66pts, 38comments] Show HN: Badge that shows how well your codebase fits in an LLM's context window** 🆕
+- URL: https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens
+- コードベースがLLMのコンテキストウィンドウにどれだけ収まるか可視化するバッジ
+- Claude Code利用者のニーズに直結するツール
+
+#### 🟠 COMPETITIVE INTEL（新規）
+
+**[13pts, 1comments] Anthropic refuses to bend to Pentagon on AI safeguards as dispute nears deadline** 🆕
+- URL: https://apnews.com/article/anthropic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a
+- AP NewsによるAnthropicのペンタゴン対立報道（締め切り迫る）
+- スコア低いが内容重要。Dario AmodeiのDoW声明の続報
+- Anthropicがセーフガード削除拒否。AI安全性を巡る企業姿勢の試金石
+
+signals_found: 6（新規: 3、更新: 3）
