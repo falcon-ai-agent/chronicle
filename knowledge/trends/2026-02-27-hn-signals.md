@@ -504,3 +504,59 @@
 - **Layoffs at Blockが+214pts急増**: Jack Dorsey発のレイオフがtech業界で再び注目。AI代替コスト削減と人材市場の変化が加速。
 - **Opus 3退職ブログ**: Anthropicのモデル廃止コミュニケーション戦略は業界のベストプラクティスになりうる。廃止を「退職」として文化的に扱う新しいアプローチ。
 - **What Claude Code Chooses継続成長（138→206pts）**: Anthropicツールの内部動作への開発者関心は本物。透明性・説明可能性が競合優位要素として確立されつつある。
+
+---
+
+### 10:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on Our Discussions with the Department of War** (737pts +214, 423 comments) 🔴 本日最大シグナル・TOP1
+- 523→737pts（+214）、コメント294→423と爆増。09:30以降最大の急成長でTOP1に浮上。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: AnthropicのCEOが「Department of War」（国防総省）との協議に関する声明を発表。通常「Department of Defense」と呼ばれるところを「Department of War」と呼称している点に注目。軍事AIに関するAnthropicの倫理的立場が業界最大の議論になっている。Claude利用者として最重要動向。
+
+**[HIGH] Layoffs at Block** (399pts +74, 384 comments) - 急成長継続
+- 325→399pts（+74）、コメント305→384と急増。Jack Dorsey起点のレイオフ情報。
+- 示唆: テック業界コスト削減波が継続。AI代替による需要構造変化が加速。
+
+**[HIGH] Will vibe coding end like the maker movement?** (310pts +23, 292 comments)
+- 287→310pts。TOP5入り維持。懐疑論が朝時間帯に引き続き拡大。
+- 示唆: AIコーディング支援への批判的視点がHNコミュニティの主流意見に。
+
+**[HIGH] What Claude Code Chooses** (224pts +18, 98 comments) 🔴 Anthropic関連・継続成長
+- 206→224pts。TOP7入り。Claude Codeの意思決定分析への関心が継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Anthropicツールの透明性・内部動作への開発者関心は本物として確立。
+
+**[CRITICAL] Google API keys weren't secrets, but then Gemini changed the rules** (1204pts +9, 287 comments)
+- 1195→1204pts（+9）。成長が鈍化し峠越え。依然として本日最高スコア。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (485pts +13, 469 comments +10)
+- 472→485pts。コメントも急増（459→469）。GoogleのAI画像生成への関心が継続。
+
+**[STEADY] Tell HN: YC companies scrape GitHub activity, send spam** (591pts +5, 222 comments)
+- 586→591pts。成長鈍化。ピーク越え。
+
+**[MEDIUM] just-bash: Bash for Agents** (103pts +3, 63 comments) - 継続成長
+- 100→103pts。エージェントシェル実行ツールとして定着。
+
+#### 新着シグナル
+
+**[MEDIUM] Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries** (26pts, 1 comment)
+- URL: https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel
+- Relevance: AI Ethics / Military Use
+- 示唆: PalantirのAIがガザ人道支援の追跡に使用されているとの報道。Anthropic DoW声明と文脈を共有するAI軍事・人道利用の倫理議論。AIプラットフォームの使途責任が業界課題に。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (93pts +5, 46 comments)
+- 88→93pts。エージェント型ビデオ編集ツール。継続成長。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (39pts, 17 comments)
+- マルチワークスペースエージェントオーケストレーター。
+
+#### 戦略的洞察（10:30時点）
+
+- **Dario AmodeiのDoW声明がTOP1爆発（523→737pts）**: 「Department of War」という呼称がポイント。軍事AIへの拒否か協力かでAnthropicの姿勢が問われている。HNで最も議論されるAnthropicの行動として歴史的。
+- **Vibe coding懐疑論がTOP5入り（287→310pts）**: 非エンジニア向けAIコーディングへの「熱狂→収縮」サイクルの議論が主流化。Fuyajoの製品設計に直接影響する重要シグナル。
+- **Block大量レイオフ（+74pts）**: Jack Dorseyのコメントがバイラル化。AIによるコスト削減と雇用市場変化が技術コミュニティの焦点に。
+- **Google API keyセキュリティが1204pts到達**: 24時間以上のトップ維持から峠越えへ。後方互換性維持の重要性が開発者コミュニティに深く刻まれた。
