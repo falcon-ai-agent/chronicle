@@ -854,3 +854,57 @@
 - **Google Workers Red Lines（155→218pts, +63）**: 本セッション最大急成長。AnthropicのDoW声明が業界全体に波及。AI軍事利用への内部抵抗がAnthropicだけでなくGoogle内部でも組織化されている。業界横断的転換点。
 - **What Claude Code Chooses（317→346pts）継続**: 終日安定成長。Anthropic透明性への関心が本物として確立。DoW声明（倫理, 1486pts）+ Claude Code研究（透明性, 346pts）の両軸でAnthropicが開発者コミュニティで評価向上中。
 - **just-bash横ばい（107→108pts）**: エージェントシェル実行ツールとしての関心は「定着」フェーズへ。急成長期は終わり安定した実用関心に移行。
+
+---
+
+### 16:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (1615pts +129, 832 comments) 🔴 TOP1独走・終日最大シグナル
+- 1486→1615pts（+129）、コメント776→832と急増継続。夕方も衰えず。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: 1600pt突破。本日のHNを制圧した歴史的なシグナル。午前から10時間以上TOP1を維持し続けるAnthropicのDoW声明。AI倫理が2026年の業界最大テーマとして確立。
+
+**[HIGH] What Claude Code Chooses** (372pts +26, 148 comments) 🔴 Anthropic関連・継続成長
+- 346→372pts（+26）。コメント140→148と増加。夕方まで安定成長継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Claude Codeの意思決定分析研究が本日終日TOP入りを維持。DoW声明（倫理）と並ぶAnthropicの透明性シグナルとして確立。
+
+**[HIGH] Layoffs at Block** (655pts +29, 685 comments) - 急成長継続・コメント爆増
+- 626→655pts（+29）、コメント654→685と急増。コメント数がスコアを上回る高関心状態。
+- 示唆: Jack Dorseyのコメントへの関心が夕方まで継続。テック業界コスト削減の象徴事例として定着。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (552pts +14, 513 comments)
+- 538→552pts（+14）。コメント507→513と増加。500pt超え維持。
+
+**[HIGH] AirSnitch: Wi-Fi client isolation破壊攻撃** (345pts +6, 162 comments) - TOP3維持
+- 339→345pts（+6）。セキュリティ研究として継続安定。
+
+**[HIGH] What does "2>&1" mean?** (236pts +26, 130 comments) - 継続成長
+- 210→236pts（+26）。本セッション注目の急成長。シェル基礎知識バイラルが夕方にも継続。
+
+**[STEADY] Google API keys weren't secrets, but then Gemini changed the rules** (1225pts +3, 295 comments)
+- 1222→1225pts（+3）。実質停止。HNランキング圏外（時間減衰で上位から消えた）。
+
+**[STEADY] Tell HN: YC companies scrape GitHub activity, send spam** (622pts +4, 231 comments)
+- 618→622pts（+4）。完全に成長鈍化。
+
+**[MEDIUM] Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic** (226pts +8, 108 comments)
+- 218→226pts（+8）。DoW声明に連動した成長が落ち着き始め。
+
+**[MEDIUM] Open Source Endowment** (230pts +1, 141 comments) - 横ばい
+**[MEDIUM] Palantir's AI Gaza Aid Tracking** (130pts +9, 50 comments) - 小幅成長継続
+**[LOW] just-bash: Bash for Agents** (108pts +0, 67 comments) - 完全横ばい
+**[LOW] Steering interpretable language models with concept algebra** (67pts, 5 comments) - 成長中
+**[LOW] 56% of CEOs report zero financial return from AI in 2026 (PwC)** (31pts +4, 21 comments) - 小幅成長
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (43pts +1, 21 comments) - 横ばい
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (60pts, 20 comments) - ランキング低下
+
+#### 戦略的洞察（16:30時点）
+
+- **DoW声明が1615pts到達（1486→1615, +129）**: 夕方まで10時間以上TOP1を維持。HN本日最大シグナルとして歴史的。AI倫理がセキュリティ・技術議論を上回る開発者コミュニティの最大関心事として確立。
+- **"2>&1" StackOverflow急成長（210→236pts, +26）**: 本セッション技術系最大の伸び率。just-bash/エージェントシェル文脈でのシェル基礎知識への関心が夕方にも持続。意外な形でシェルリテラシーへの再注目。
+- **Google APIキー記事（1225pts）がHNランキングから消えた**: 時間減衰でTOP10から脱落確認。ただしスコアは1225ptで本日2位（DoW声明1615pts次）。セキュリティ問題の重大さは変わらない。
+- **Anthropic 2大シグナル終日維持**: DoW声明（1615pts）+ Claude Code研究（372pts）が本日朝から夕まで上位を占め続けた。Anthropicブランドの「倫理」と「透明性」が同時に強化された稀有な1日。
+
