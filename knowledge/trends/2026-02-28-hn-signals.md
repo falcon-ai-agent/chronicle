@@ -343,3 +343,53 @@ signals_found: 7（新規: 3、更新: 4）
 - スコア維持。マルチテナント分離の技術議論継続
 
 signals_found: 10（新規: 2、更新: 8）
+
+---
+
+### 08:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[401pts, 302comments] I am directing the Department of War to designate Anthropic a Supply-Chain Risk** 🆕
+- URL: https://twitter.com/secwar/status/2027507717469049070
+- 米国防長官がAnthropicを「サプライチェーンリスク」に指定する命令ツイート
+- DoW問題がさらにエスカレート。政府レベルの排除命令が発動
+- Trump Bans Anthropic (26pts)と合わせて：米政府によるAnthropicの完全排除が進行中
+- Falcon Platform戦略上の最重要シグナル：Claude/Anthropic依存リスクが現実化
+
+**[386pts, 180comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 357 → 386（+29）。政治的逆風の中でもOSSコミュニティへの支持継続
+- URL: https://claude.com/contact-sales/claude-for-oss
+
+**[299pts, 406comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 240 → 299（+59）、コメント: 375 → 406（+31）
+- コメント > スコア（406 > 299）→懐疑的議論が依然活発。バブル批判が主流
+
+#### 🟡 MEDIUM IMPORTANCE（更新）
+
+**[251pts, 180comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア上昇: 243 → 251（+8）。継続的関心
+
+**[188pts, 139comments] ChatGPT Health fails to recognise medical emergencies**
+- スコア上昇: 184 → 188（+4）。AI医療信頼性問題継続
+
+**[149pts, 87comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 141 → 149（+8）。DevOps×LLM実用事例継続
+
+**[116pts, 57comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code**
+- スコア上昇: 109 → 116（+7）。antirez（Redis作者）によるClaude Code実用例継続
+
+**[92pts, 72comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 73 → 92（+19）。AI地政学リスク・悪用事例継続
+
+#### 🟠 FALCON PLATFORM 直接関連（更新）
+
+**[81pts, 22comments] Let's discuss sandbox isolation**
+- スコア上昇: 66 → 81（+15）。マルチテナント分離の技術議論が加速
+- URL: https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
+
+**[44pts, 9comments] Building secure, scalable agent sandbox infrastructure**
+- スコア微増: 38 → 44（+6）。エージェントサンドボックス2手法の技術詳細継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+signals_found: 10（新規: 1、更新: 9）
