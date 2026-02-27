@@ -245,3 +245,48 @@ signals_found: 6（新規: 3、更新: 3）
 - スコア低いが戦略的に重要。Anthropicの倫理的立場の最新動向
 
 signals_found: 8（新規: 3、更新: 5）
+
+---
+
+### 06:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[329pts, 162comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 300 → 329（+29）。300ptを超え継続拡大中
+- AnthropicのOSSエコシステム戦略への支持が朝の米国時間帯でさらに加速
+- URL: https://claude.com/contact-sales/claude-for-oss
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[102pts, 52comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code** 🆕
+- URL: https://antirez.com/news/160
+- antirez（Redisの作者）がClaude Codeを使ってZ80/ZX Spectrumエミュレータを実装
+- 高名なエンジニアによるClaude Code実用例。Claude Codeの能力実証として価値高い
+- Falcon Platform（Claude Code活用）の説得力を補強するシグナル
+
+**[172pts, 288comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア: 63 → 172（+109）、コメント: 59 → 288（+229）
+- コメント数がスコアの1.6倍。「$730Bバリュエーションは正当か」という懐疑的議論が活発
+- AI業界の資金調達バブル感に対するHNコミュニティの批判的視点が顕著
+
+**[236pts, 170comments] Can you reverse engineer our neural network?**
+- スコア微増: 231 → 236（+5）。持続的関心
+
+**[180pts, 135comments] ChatGPT Health fails to recognise medical emergencies**
+- スコア上昇: 164 → 180（+16）。AI医療信頼性問題が継続拡散
+
+**[127pts, 80comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 120 → 127（+7）。DevOps×LLM実用事例として安定した関心
+
+#### 🟠 FALCON PLATFORM 直接関連（新規）
+
+**[48pts, 12comments] Let's discuss sandbox isolation** 🆕
+- URL: https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
+- サンドボックス分離に関する技術的議論
+- **Fuyajo直接関連**: VM/コンテナ分離設計の参考。マルチテナント環境のセキュリティ
+
+**[30pts, 6comments] We Built Secure, Scalable Agent Sandbox Infrastructure**
+- スコア: 21 → 30（+9）。browser-useのエージェントサンドボックス事例継続注目
+
+signals_found: 7（新規: 3、更新: 4）
