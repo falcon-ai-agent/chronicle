@@ -560,3 +560,61 @@
 - **Vibe coding懐疑論がTOP5入り（287→310pts）**: 非エンジニア向けAIコーディングへの「熱狂→収縮」サイクルの議論が主流化。Fuyajoの製品設計に直接影響する重要シグナル。
 - **Block大量レイオフ（+74pts）**: Jack Dorseyのコメントがバイラル化。AIによるコスト削減と雇用市場変化が技術コミュニティの焦点に。
 - **Google API keyセキュリティが1204pts到達**: 24時間以上のトップ維持から峠越えへ。後方互換性維持の重要性が開発者コミュニティに深く刻まれた。
+
+---
+
+### 11:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on Our Discussions with the Department of War** (933pts +196, 510 comments) 🔴 本セッション最大急成長・TOP1
+- 737→933pts（+196）、コメント423→510と爆増。本日最大シグナルとして不動のTOP1。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: Dario AmodeiのDoW（国防総省）声明がさらに急成長。朝時間帯のピークから持続的に拡大中。「Department of War」という呼称選択がポイント。AI軍事利用に関するAnthropicの公式立場として業界最大の議論を継続。
+
+**[HIGH] Layoffs at Block** (479pts +80, 466 comments) - 急成長継続
+- 399→479pts（+80）、コメント305→466と急増。
+- 示唆: Jack Dorseyのコメントがさらに注目を集めている。テック業界の大量レイオフとAI代替の議論が継続。
+
+**[HIGH] Tell HN: YC companies scrape GitHub activity, send spam emails** (600pts +9, 224 comments)
+- 591→600pts。成長継続するが鈍化傾向。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (494pts +9, 475 comments)
+- 485→494pts。コメント469→475と増加。
+
+**[MEDIUM] What Claude Code Chooses** (250pts +26, 100 comments) 🔴 Anthropic関連・継続成長
+- 224→250pts。TOP5入り。Claude Codeの意思決定分析への開発者関心が継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+
+**[STEADY] Google API keys weren't secrets, but then Gemini changed the rules** (1210pts +6, 289 comments)
+- 1204→1210pts。成長鈍化明確。峠越え後も依然本日最高スコア維持。
+
+**[STEADY] Will vibe coding end like the maker movement?** (321pts +11, 311 comments)
+- 310→321pts。TOP5維持。
+
+#### 新着・成長シグナル
+
+**[HIGH] Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries** (70pts +44, 19 comments) - 急成長
+- 前回26→70pts（+44）。Palantir AIがガザ人道支援追跡に使用との報道。
+- 示唆: Anthropic DoW声明と文脈を共有するAI軍事・人道利用の倫理問題が多方面から注目。AIプラットフォームの使途責任が業界課題として浮上。
+
+**[MEDIUM] Open Source Endowment – new funding source for OSS maintainers** (212pts, 131 comments)
+- OSSメンテナへの新ファンディングモデル。継続成長。
+
+**[LOW] Launch HN: Cardboard (YC W26) – Agentic video editor** (96pts, 48 comments)
+- 93→96pts。エージェント型ビデオ編集ツール継続成長。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (40pts, 18 comments)
+- マルチワークスペースエージェントオーケストレーター。
+
+**[LOW] 56% of CEOs report zero financial return from AI in 2026 (PwC survey, n=4,454)** (11pts, 8 comments)
+- URL: https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai
+- Relevance: AI ROI / Enterprise Adoption
+- 示唆: PwC調査（n=4,454）でCEOの56%がAI投資でゼロリターンと回答。AI ROI問題が経営層レベルで表面化。Fuyajoの「即座に価値提供」戦略の重要性を裏付けるシグナル。
+
+#### 戦略的洞察（11:30時点）
+
+- **Dario Amodei DoW声明が933pts到達**: 737→933（+196）と今朝の最大急成長。HNコミュニティ全体がAnthropicの軍事AI立場に注目。Claude利用者として倫理的コンテキストの変化を継続注視。
+- **Block大量レイオフ（399→479pts）**: テック企業コスト削減波が加速。AI代替による雇用構造変化が技術者コミュニティの現実的脅威として認識されつつある。
+- **AI ROIゼロ（PwC n=4,454）**: CEOの過半数がAI投資でゼロリターン。Fuyajoの「使えば即座に価値が出る」設計が極めて重要。非エンジニアが自分でツールを動かせる環境こそ差別化。
+- **What Claude Code Chooses（224→250pts）**: Anthropic製品の透明性研究への継続的関心。AI意思決定の可視化が開発者信頼構築の鍵。
