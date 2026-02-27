@@ -908,3 +908,64 @@
 - **Google APIキー記事（1225pts）がHNランキングから消えた**: 時間減衰でTOP10から脱落確認。ただしスコアは1225ptで本日2位（DoW声明1615pts次）。セキュリティ問題の重大さは変わらない。
 - **Anthropic 2大シグナル終日維持**: DoW声明（1615pts）+ Claude Code研究（372pts）が本日朝から夕まで上位を占め続けた。Anthropicブランドの「倫理」と「透明性」が同時に強化された稀有な1日。
 
+---
+
+### 17:30 JST
+
+#### 注目変化（前回比）
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (1721pts +106, 898 comments) 🔴 TOP1独走継続・1700pt突破
+- 1615→1721pts（+106）、コメント832→898と急増継続。夕方以降も衰えず。
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- 示唆: 1700pt突破。12時間以上TOP1を維持し続けるAnthropicのDoW声明。本日のHNを完全制圧。AI倫理が2026年の業界最大テーマとして確立した歴史的な1日。
+
+**[HIGH] What Claude Code Chooses** (390pts +18, 157 comments) 🔴 Anthropic関連・継続成長
+- 372→390pts（+18）。コメント148→157と増加。終日安定成長継続。
+- URL: https://amplifying.ai/research/claude-code-picks
+- 示唆: Claude Codeの意思決定分析研究が夕方まで成長継続。本日朝から終日TOP入りの安定シグナル。
+
+**[HIGH] What does "2>&1" mean?** (262pts +26, 137 comments) 🔥 本セッション技術系最大急成長
+- 236→262pts（+26）。コメント130→137と増加。今回最大の技術系成長率。
+- 示唆: シェル基礎知識バイラルが夕方も継続。just-bash/エージェントシェル文脈でのシェルリテラシーへの再注目が持続中。
+
+**[HIGH] Layoffs at Block** (686pts +31, 722 comments) - 急成長継続・コメント爆増
+- 655→686pts（+31）、コメント685→722と急増。コメント数がスコアを大幅上回る高関心状態。
+- 示唆: Jack Dorseyのコメントへの関心が継続。テック業界コスト削減の象徴事例として定着。
+
+**[MEDIUM] Nano Banana 2: Google's latest AI image generation model** (560pts +8, 528 comments +15)
+- 552→560pts（+8）。コメント513→528と増加。500pt超え安定維持。
+
+**[STEADY] Google API keys weren't secrets, but then Gemini changed the rules** (1232pts +7, 295 comments)
+- 1225→1232pts（+7）。HNランキング圏外だが本日2位スコアを維持。
+
+**[STEADY] Tell HN: YC companies scrape GitHub activity, send spam** (628pts +6, 234 comments)
+- 622→628pts（+6）。成長鈍化継続。ピーク越え確定。
+
+**[STEADY] Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic** (234pts +8, 110 comments)
+- 226→234pts（+8）。成長落ち着き。DoW声明連動シグナルとして安定。
+
+**[MEDIUM] Open Source Endowment** (233pts +3, 142 comments) - 横ばい
+**[MEDIUM] AirSnitch: Wi-Fi client isolation破壊攻撃** (351pts +6, 164 comments) - 継続安定
+**[LOW] just-bash: Bash for Agents** (110pts +2, 67 comments) - 横ばい継続
+
+#### 注目新着
+
+**[HIGH] Launch HN: Cardboard (YC W26) – Agentic video editor** (111pts +51, 60 comments) 🔥 本セッション最大急成長
+- 前回60→111pts（+51）。今回最大の伸び率。YC W26からエージェント型ビデオ編集ツール。
+- URL: https://www.usecardboard.com/
+- 示唆: YCバッチからエージェント垂直アプリが100pt超え。AIエージェントのクリエイティブ領域展開が本格化。垂直特化エージェントアプリがYCレベルで市場投入フェーズに入った。
+
+**[LOW] 56% of CEOs report zero financial return from AI in 2026 (PwC, n=4,454)** (37pts +6, 22 comments)
+- URL: https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai
+- 示唆: AI投資でゼロリターンのCEOが56%。Fuyajoの「即座に価値提供」戦略の重要性を継続裏付け。
+
+**[LOW] Show HN: Beehive – Multi-Workspace Agent Orchestrator** (44pts +1, 21 comments) - 横ばい
+**[LOW] Steering interpretable language models with concept algebra** (68pts +1, 7 comments) - 横ばい
+
+#### 戦略的洞察（17:30時点）
+
+- **DoW声明が1721pts到達（1615→1721, +106）**: 1700pt突破で夕方も衰えず。本日HN史上に残る最大議論として完全確立。AI倫理が技術・セキュリティを超えた最大テーマとして2026年に刻まれた。
+- **Cardboard (YC W26)急成長（60→111pts, +51）**: 本セッション最大の伸び率。YC W26エージェント垂直アプリが100pt超えし市場注目フェーズへ。AIエージェントのクリエイティブ領域（動画編集）への応用が評価されつつある。Falcon Platformの垂直特化戦略に参考。
+- **"2>&1" バイラル継続（236→262pts）**: シェル基礎知識への関心が1日通じて持続。エージェントシェル実行時代に人間側のシェルリテラシーも問い直されている。just-bashとの相乗効果。
+- **Anthropic完全制圧**: DoW声明（1721pts）+ Claude Code研究（390pts）が本日終日上位を占め、Anthropicが「倫理」「透明性」の両軸で開発者コミュニティの信頼を獲得した歴史的な1日として確定。
+
