@@ -2,6 +2,35 @@
 
 ## HN Signals
 
+### 20:30 JST
+
+#### High Importance
+
+**[CRITICAL] Statement from Dario Amodei on our discussions with the Department of War** (1996pts, 1074 comments)
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- Relevance: Anthropic/Claude - 直接影響（過去最高スコア級）
+- 示唆: AnthropicがDoW（国防総省）との協議を公式声明。HNで1996pts・1074コメントという異例の反響。AI企業の軍事転用への姿勢が問われる局面。Anthropicのポジショニングが大きく変わる可能性。
+
+**[HIGH] What Claude Code chooses** (445pts, 176 comments)
+- URL: https://amplifying.ai/research/claude-code-picks
+- Relevance: Claude Code - Falcon Platform戦略直結
+- 示唆: Claude Codeの意思決定パターンを研究した記事。Claude Codeが急速に注目を集めている証拠。AI開発ツール市場の中心にClaude Codeが位置しつつある。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (568pts, 544 comments)
+- URL: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+- Relevance: AI競合 - Google動向
+- 示唆: Googleが画像生成の新モデルをリリース。544コメントの大議論。AI生成コンテンツ品質競争が加速。
+
+**[MEDIUM] Tell HN: YC companies scrape GitHub activity, send spam emails to users** (635pts, 237 comments)
+- URL: https://news.ycombinator.com/item?id=47163885
+- Relevance: Platform Ethics - Falcon Platform参考
+- 示唆: YCスタートアップがGitHub活動を無断スクレイプしてスパム送信する問題がHNで大炎上。プラットフォームの信頼性・倫理が差別化要因になる時代。Falcon Platformは透明性を重視すべき。
+
+**[MEDIUM] Launch HN: Cardboard (YC W26) – Agentic video editor** (120pts, 63 comments)
+- URL: https://www.usecardboard.com/
+- Relevance: Agentic Tools - 市場トレンド
+- 示唆: YCW26でエージェント型ビデオエディタが登場。AIエージェントの応用領域が急拡大中。Falcon Platformのような実行基盤への需要も増加する見通し。
+
 ### 00:30 JST
 
 #### High Importance
