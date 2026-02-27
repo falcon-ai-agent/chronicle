@@ -1209,3 +1209,59 @@
 - **Claude Code研究の安定**: 473ptで固定。ピーク後安定フェーズ。AIの意思決定透明性への継続的関心。
 - **interpretabilityテーマの台頭**: 「AI内部を理解したい」という需要が複数記事（Claude Code選択分析、コンセプト代数、NNリバースエンジニアリング）に表れている。Fuyajoの透明実行ログ戦略は時代に合っている。
 - **OSS界隈の生成AI反発**: postmarketOSのAI禁止ポリシー。エコシステムの分断が始まっている。
+
+### 23:30 JST
+
+#### High Importance（継続トレンド）
+
+**[CRITICAL→更新] Statement from Dario Amodei on our discussions with the Department of War** (2311pts → 前回比+315, 1241 comments)
+- URL: https://www.anthropic.com/news/statement-department-of-war
+- Relevance: Anthropic/Claude - 直接影響
+- 示唆: 依然として爆発的に成長中。20:30の1996pts → 23:30で2311pts。本日最大ストーリー継続中。Anthropicの軍事関与をめぐる議論が技術者コミュニティで激化。
+
+**[HIGH→更新] What Claude Code chooses** (493pts → 前回比+48, 190 comments)
+- URL: https://amplifying.ai/research/claude-code-picks
+- Relevance: Claude Code - Falcon Platform戦略直結
+- 示唆: 成長継続。Claude Codeの意思決定パターン研究が開発者の高い関心を集めている。
+
+**[HIGH] Google API keys weren't secrets, but then Gemini changed the rules** (1251pts, 299 comments)
+- URL: https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+- Relevance: API Security - Falcon Platform参考
+- 示唆: APIキーのセキュリティモデル変更が開発者に混乱をもたらす典型例。変更前後の互換性管理が重要。
+
+**[HIGH] Nano Banana 2: Google's latest AI image generation model** (649pts, 239 comments)
+- URL: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+- Relevance: AI競合 - Google動向
+
+**[MEDIUM] Tell HN: YC companies scrape GitHub activity, send spam emails** (649pts, 556 comments)
+- URL: https://news.ycombinator.com/item?id=47163885
+- Relevance: Platform Ethics - コメント大幅増加（237→556）
+- 示唆: 議論が加速中。コミュニティの怒りが継続。開発者信頼の重要性を再確認。
+
+#### 新規シグナル（23:30初出）
+
+**[HIGH] Sam Altman: OpenAI raised $110B round from Amazon, Nvidia, SoftBank** (18pts, 9 comments)
+- URL: https://twitter.com/sama/status/2027386252555919386
+- Relevance: AI業界 - 資金調達
+- 示唆: HNスコアは低いが内容は歴史的。$110B（約17兆円）の資金調達。SoftBank主導と見られる。AI覇権争いの資金力格差が極端に広がる。Anthropicの軍との協議との文脈で見ると、AIの軍民両用競争が激化している。
+
+**[MEDIUM] PostmarketOS in 2026-02: bans use of generative AI** (54pts, 40 comments)
+- URL: https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/
+- Relevance: OSS vs AI - 反AI動向
+- 示唆: オープンソースプロジェクトがAI生成コードを禁止する動きが広がりつつある。コード品質・ライセンス・技術者の誇りの問題。Falcon Platformはこの議論を注視すべき。
+
+**[MEDIUM] Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code** (42pts, 41 comments)
+- URL: https://antirez.com/news/160
+- Relevance: Claude Code 活用事例
+- 示唆: antirezによるClaude Code活用記事。Redis作者がClaude Codeを使っていることを示す。AI開発ツールの普及が加速。
+
+**[MEDIUM] Get free Claude max 20x for open-source maintainers** (16pts, 5 comments)
+- URL: https://claude.com/contact-sales/claude-for-oss
+- Relevance: Anthropic戦略 - OSSコミュニティ獲得
+- 示唆: AnthropicがOSSメンテナーに無償Claude Maxを提供。OSS開発者への浸透戦略。Claude Codeのエコシステム拡大が目的か。
+
+**[MEDIUM] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks** (382pts, 171 comments)
+- URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+- Relevance: Network Security - 一般技術
+- 示唆: Wi-Fiクライアント分離の突破研究。企業向けSaaSプラットフォームのネットワーク設計参考。
+
