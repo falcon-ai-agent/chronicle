@@ -455,3 +455,69 @@ signals_found: 10（新規: 1、更新: 9）
 - Falcon Platform（Claude Code活用）周辺のニーズ把握に有用
 
 signals_found: 13（新規: 2、更新: 11）
+
+---
+
+### 10:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[967pts, 798comments] I am directing the Department of War to designate Anthropic a Supply-Chain Risk**
+- スコア急騰: 713 → 967（+254）、コメント: 578 → 798（+220）
+- URL: https://twitter.com/secwar/status/2027507717469049070
+- HN全体トップ1位。今日のHN最大シグナルとして継続加速
+- 米国防長官の公式ツイートが朝の欧米時間帯に爆発的拡散を続けている
+- Anthropic/Claude依存リスクが最高水準に達したまま
+
+**[432pts, 198comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 411 → 432（+21）。政治的逆風にもかかわらずOSS支持継続
+- URL: https://claude.com/contact-sales/claude-for-oss
+
+**[370pts, 454comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 340 → 370（+30）、コメント: 437 → 454（+17）
+- コメント > スコア（454 > 370）→懐疑的議論が依然活発
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[267pts, 182comments] Can you reverse engineer our neural network?**
+- スコア上昇: 257 → 267（+10）。Jane Streetチャレンジ継続
+
+**[168pts, 90comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 159 → 168（+9）。DevOps×LLM実用事例継続
+
+**[128pts, 85comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 109 → 128（+19）。AI地政学リスク・悪用事例が拡散継続
+
+**[123pts, 61comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code**
+- スコア微増: 120 → 123（+3）。antirez（Redis作者）によるClaude Code実用例継続
+
+**[188pts, 140comments] ChatGPT Health fails to recognise medical emergencies**
+- スコア横ばい: 188（変化なし）、コメント微増。AI医療信頼性問題継続
+
+**[79pts, 40comments] Show HN: Badge that shows how well your codebase fits in an LLM's context window** 🆕
+- URL: https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens
+- コードベースのLLMコンテキストウィンドウ適合度を可視化するバッジ
+- Claude Code利用者向けの実用ツール。開発者エコシステムの成熟を示す
+
+#### 🟠 FALCON PLATFORM 直接関連（更新）
+
+**[49pts, 9comments] Building secure, scalable agent sandbox infrastructure**
+- スコア微増: 45 → 49（+4）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+**[42pts, 14comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 32 → 42（+10）。Claude Codeエコシステム拡大の証拠継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+#### 🟣 GENERAL TECH（新規）
+
+**[359pts, 359comments] A new California law says all operating systems need to have age verification** 🆕
+- URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+- Linuxを含む全OSへの年齢認証義務化。コメント数 = スコア → 強い賛否両論
+- Falcon Platform（VM/コンテナ提供）の将来的な規制リスクとして注視が必要
+
+**[13pts, 1comment] Altman says OpenAI agrees with Anthropic's red lines in Pentagon dispute**
+- URL: https://thehill.com/policy/technology/5758898-altman-backs-anthropic-pentagon-stand/
+- Altman、AnthropicのAI安全基準を支持。AI業界 vs. ペンタゴン構図が継続
+
+signals_found: 12（新規: 2、更新: 10）
