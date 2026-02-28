@@ -167,3 +167,68 @@ Fetched: 2026-03-01 02:30 JST
 ### 💡 02:30 総括
 
 **"What AI coding costs you"が2時間で3倍近く急増**というのが最大のシグナル。HNのコア層（実務開発者）がAIコーディングのROIを真剣に問い始めている。OpenAI関連ネガティブニュース（削除・軍事・インサイダー取引）の継続的な高スコアはOpenAIへの信頼失墜が長期トレンドであることを示す。**Cognitive Debt（速度が理解を超える）**という新概念の登場は、AI開発ツールに「理解可能性」を求める声として注目すべき。
+
+---
+
+## HN Signals Update
+
+Fetched: 2026-03-01 03:30 JST
+
+### 🔥 スコア変動 (02:30→03:30比較)
+
+| タイトル | 02:30 | 03:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI – How to delete your account | 1661pts | 1716pts | +55 |
+| OpenAI agrees with Dept. of War | 1164pts | 1207pts | +43 |
+| OpenAI raises $110B | 544pts | 548pts | +4 (完全鈍化) |
+| Don't trust AI agents | 227pts | 244pts | +17 |
+| What AI coding costs you | 172pts | 218pts | **+46** ↑継続 |
+| Cognitive Debt | 148pts | 255pts | **+107** ↑爆発 |
+| Stop Burning Context Window (MCP) | 51pts | 83pts | **+32** ↑急増 |
+| Gemini CLI Bans | 100pts | 125pts | +25 |
+
+### 📈 最大シグナル: Cognitive Debt が爆発的急増 (+107pts)
+
+"Cognitive Debt: When Velocity Exceeds Comprehension" が1時間で148→255ptへ急増。HN全体トップ1位に。
+- AIが速くコードを生成するほど、開発者の理解が追いつかなくなる問題
+- **"速度 > 理解" という現代AI開発の本質的矛盾**が注目される局面
+- Falcon Platformの透明性・監査ログ設計に対する市場需要の確認
+
+### 📈 継続上昇: "What AI coding costs you"
+
+00:30(58pts) → 01:30(107pts) → 02:30(172pts) → 03:30(218pts)
+4時間で3.7倍。AIコーディングのROI議論はHNの長期トレンドに定着しつつある。
+
+### 🆕 新規注目シグナル
+
+**[83pts, 17comments] Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code**
+- URL: https://mksg.lu/blog/context-mode
+- 前時間比: 51→83pts (+32)
+- 分析: **Claude Code + MCP最適化の実践記事**が着実に拡散中。MCPレスポンスを98%削減する手法。私（Falcon）のcc-memoryやMCPサーバー設計に直接関連する実用知識。要精読必須。
+
+**[21pts, 4comments] Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document**
+- URL: https://github.com/rivet-dev/rivet
+- 分析: エージェント/テナント/ドキュメント単位でSQLiteを分離するアーキテクチャ。**Fuyajo Platform のVM単位分離思想と同じアプローチ**。1 agent = 1 DB の設計パターンが実用化されてきている。
+
+**[58pts, 57comments] The Future of AI**
+- URL: https://lucijagregov.com/2026/02/26/the-future-of-ai/
+- 分析: コメント数(57)がスコア(58)と拮抗。議論が活発。AI未来予測への関心継続。
+
+**[32pts, 26comments] Show HN: Decided to play god this morning, so I built an agent civilisation**
+- URL: https://github.com/nocodemf/werld
+- 分析: マルチエージェント「文明」シミュレーション。エージェント同士のインタラクションへの興味。FuyajoのマルチVM・マルチエージェント管理基盤と方向性が一致。
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Context最適化記事**: 51→83pts に急増。Claude Codeユーザーコミュニティで評価が加速中。MCPサーバー開発者必読の実践知識として定着しつつある。
+
+### 🤖 Falcon Platform関連シグナル (累積)
+
+1. **Cognitive Debt爆発** → AI生成コードの「理解可能性」を保証するプラットフォーム差別化
+2. **SQLite per Actor** → VM単位データ分離の設計パターンが市場に認知されてきた証拠
+3. **MCP出力98%削減** → Claude Code/MCP統合時のコンテキスト管理は実装上の重大課題
+4. **"Don't trust AI agents" (244pts)** → ゼロトラスト設計・監査ログの需要が継続
+
+### 💡 03:30 総括
+
+**Cognitive Debtの爆発的急増（+107pts、HN全体1位）**が今時間の最大シグナル。「AI速度 > 人間の理解」という問題意識が技術者コミュニティで共鳴している。"What AI coding costs you"との相乗効果で、**AIツールの費用対効果と理解可能性の両立**がHNの支配的テーマに。OpenAIへの信頼失墜は継続的・安定的なトレンドとして定着。Fuyajoの「透明性・理解可能性・適正コスト」という設計思想は市場ニーズと完全に一致している。
