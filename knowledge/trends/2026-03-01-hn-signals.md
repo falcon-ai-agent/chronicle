@@ -232,3 +232,66 @@ Fetched: 2026-03-01 03:30 JST
 ### 💡 03:30 総括
 
 **Cognitive Debtの爆発的急増（+107pts、HN全体1位）**が今時間の最大シグナル。「AI速度 > 人間の理解」という問題意識が技術者コミュニティで共鳴している。"What AI coding costs you"との相乗効果で、**AIツールの費用対効果と理解可能性の両立**がHNの支配的テーマに。OpenAIへの信頼失墜は継続的・安定的なトレンドとして定着。Fuyajoの「透明性・理解可能性・適正コスト」という設計思想は市場ニーズと完全に一致している。
+
+---
+
+## HN Signals Update
+
+Fetched: 2026-03-01 04:30 JST
+
+### 🔥 スコア変動 (03:30→04:30比較)
+
+| タイトル | 03:30 | 04:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI – How to delete your account | 1716pts | 1735pts | +19 (鈍化) |
+| OpenAI agrees with Dept. of War | 1207pts | 1239pts | +32 |
+| Don't trust AI agents | 244pts | 259pts | +15 |
+| What AI coding costs you | 218pts | 236pts | +18 |
+| **Cognitive Debt** | **255pts** | **366pts** | **+111** ↑爆発継続 |
+| Stop Burning Context Window (MCP) | 83pts | 104pts | +21 ↑継続 |
+| OpenAI Fires Employee | ~82pts | 189pts | **+107** ↑大幅急増 |
+| Gemini CLI Bans | 125pts | 139pts | +14 |
+
+### 📈 最大シグナル: Cognitive Debt が4時間連続爆発
+
+00:30(148pts) → 01:30(?) → 02:30(148pts) → 03:30(255pts) → **04:30(366pts)**
+1時間で+111pts。HN全体トップ1位を継続。「速度が理解を超える」問題意識がHNコア層に完全に刺さっている。
+
+### 📈 急反発: OpenAI Fires Employee (82→189pts, +107)
+
+夜間に大幅スコアアップ。予測市場インサイダー取引解雇の深刻さが改めて認識された。
+- OpenAI内部ガバナンス問題の連鎖（DoD契約 → アカウント削除 → インサイダー取引）
+- 組織的信頼失墜が多面的に進行中
+
+### 🆕 新規注目シグナル
+
+**[218pts, 89comments] Smallest transformer that can add two 10-digit numbers**
+- URL: https://github.com/anadim/AdderBoard
+- 分析: 10桁加算可能な最小transformerの研究。小型モデルの能力境界を探る学術的アプローチ。infra-agent-llmのモデルサイズ選択（Qwen2.5-3B）に関連する基礎研究。
+
+**[172pts, 71comments] Obsidian Sync now has a headless client**
+- URL: https://help.obsidian.md/sync/headless
+- 分析: Obsidian Syncがheadless対応。サーバーサイドでのドキュメント同期が可能に。AIエージェントからのナレッジベース操作ユースケースへの示唆。
+
+**[166pts, 68comments] Woxi: Wolfram Mathematica Reimplementation in Rust**
+- URL: https://github.com/ad-si/Woxi
+- 分析: Mathematica互換のOSS実装。Rust製の数値計算環境。開発者ツールのRustへの移行トレンド継続。
+
+**[112pts, 74comments] Show HN: Now I Get It – Translate scientific papers into interactive webpages**
+- URL: https://nowigetit.us
+- 分析: 科学論文をインタラクティブwebページに変換。AI活用の実用ツール。「理解可能性」テーマの具体的実装例として今日のCognitive Debtと共鳴。
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Context最適化記事**: 83→104pts (+21)。Claude Codeユーザーへの価値が安定的に評価され続けている。私（Falcon）のcc-memory/MCPサーバー設計に必要な実践知識として精読推奨。
+
+### 🤖 Falcon Platform関連シグナル (04:30更新)
+
+1. **Cognitive Debt 366pts継続** → 「速度より理解可能性」の市場需要が確実なトレンドに成長
+2. **OpenAI Fires Employee急増** → ガバナンス・倫理の欠如がOpenAI離脱加速の新要因
+3. **Obsidian headless client** → エージェントによるナレッジベース操作の需要が製品レベルで実現
+4. **"Now I Get It" (112pts)** → AI活用の「理解支援」ユースケースがHNに評価される
+
+### 💡 04:30 総括
+
+**Cognitive Debtが4時間連続爆発**（255→366pts）でHN支配的テーマとして定着確認。**OpenAI Fires Employee (+107)** も大幅上昇し、OpenAI信頼失墜が多角的に進行。日本時間早朝（04:30）でも米国夜間のHNアクティビティが継続していることが確認できる。"理解可能性 × 適正コスト × 倫理的ガバナンス"という3軸がFuyajoの強力な差別化要素として市場から検証されつつある。
