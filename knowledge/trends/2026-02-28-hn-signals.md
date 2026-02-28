@@ -1253,3 +1253,98 @@ signals_found: 14（新規: 1、更新: 13）
 
 **⚠️ 21:30最大シグナル**: 「OpenAI – How to delete your account」が143 → 475pts（+332pts、+230%）で爆発的急騰。ChatGPT解約に続き、アカウント削除ページがHN全体1位に浮上。OpenAIのDoD軍事契約への抗議行動が「解約」から「アカウント削除」へとエスカレートしたことを示す。Falcon Platform示唆：OpenAIへの不信任が前例のない規模で可視化。プロバイダー中立設計の緊急性がさらに高まった。
 
+---
+
+### 22:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新）
+
+**[935pts, 443comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
+- スコア上昇: 869 → 935（+66）、コメント: 414 → 443（+29）
+- URL: https://twitter.com/sama/status/2027578652477821175
+- 深夜帯でも継続上昇。今日を通じてAnthropicの代替としてのOpenAIのDoD取り込みが定着
+
+**[753pts, 133comments] OpenAI – How to delete your account**
+- スコア上昇: 475 → 753（**+278pts、前時比+58%**）。今日最大の成長継続
+- URL: https://help.openai.com/en/articles/6378407-how-to-delete-your-account
+- HN全体1位・AI部門1位を維持。OpenAI離反行動が深夜帯も衰えず継続
+- 753ptsは今日の最終的なシグナル強度として記録
+
+**[520pts, 553comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 508 → 520（+12）、コメント: 549 → 553（+4）
+- URL: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+- コメント > スコア（553 > 520）→ 懐疑的議論が今日一日継続
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[300pts, 192comments] Can you reverse engineer our neural network?**
+- スコア上昇: 298 → 300（+2）。**300ptマイルストーン達成**。Jane Streetチャレンジ持続的関心
+- URL: https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
+
+**[221pts, 137comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 216 → 221（+5）。AI地政学リスク・悪用事例拡散継続
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+**[201pts, 100comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 198 → 201（+3）。DevOps×LLM実用事例継続
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+
+**[183pts, 79comments] Smallest transformer that can add two 10-digit numbers**
+- スコア上昇: 175 → 183（+8）。LLMの能力限界・最小化研究への関心継続
+- URL: https://github.com/anadim/AdderBoard
+
+**[80pts, 32comments] Unsloth Dynamic 2.0 GGUFs**
+- スコア上昇: 62 → 80（+18）。ローカルLLM量子化の新バージョンへの関心継続
+- URL: https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs
+- OpenAI離れと呼応したローカルLLM需要の高まりを示す
+
+**[340pts, 893comments] US and Israel launch strikes on Iran** 🆕（非AI・地政学）
+- URL: https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk
+- コメント/スコア比が2.6倍超（893/340）→ HN史上有数の激論案件
+- AI/技術外だが地政学的不安定がデジタルインフラ・クラウドリスクとして間接的に影響
+
+#### 🟠 FALCON PLATFORM 直接関連（更新・新規）
+
+**[109pts, 72comments] Show HN: Unfucked – version all changes (local-first/source avail)**
+- スコア上昇: 104 → 109（+5）、コメント: 68 → 72（+4）
+- URL: https://www.unfudged.io/
+- ローカルファースト・バージョン管理ツール継続注目
+
+**[88pts, 36comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 86 → 88（+2）。Claude Codeエコシステム継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+**[69pts, 14comments] Building secure, scalable agent sandbox infrastructure**
+- スコア上昇: 68 → 69（+1）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+**[9pts, 5comments] Don't trust AI agents** 🆕
+- URL: https://nanoclaw.dev/blog/nanoclaw-security-model
+- スコアは低いがタイトルが強烈。AIエージェントを信頼しない設計（セキュリティモデル）
+- **Falcon Platform直接関連**: エージェント実行の信頼境界設計に示唆。「信頼しないが隔離する」設計の重要性
+
+#### 🟣 GENERAL TECH（更新）
+
+**[1958pts, 615comments] We Will Not Be Divided**
+- スコア上昇: 1881 → 1958（+77）。今日の最終スコアとして記録
+- URL: https://notdivided.org
+- 今日一日でHNの最高スコアを更新し続けた政治的シグナル
+
+**[644pts, 573comments] A new California law says all operating systems need to have age verification**
+- スコア上昇: 617 → 644（+27）。コメント≒スコア→賛否両論継続
+- URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+
+signals_found: 13（新規: 2、更新: 11）
+
+**📊 2026-02-28 最終サマリー（22:30時点）**
+
+今日一日を振り返ると、HNは歴史的な転換点を記録した日となった：
+
+1. **Anthropic vs. 米国防総省の決着**: Supply-Chain Risk指定（ピーク1251pts）、Anthropic公式声明（797pts）、Trump政府排除命令（282pts）など、AI政治化の歴史的事例として記録
+2. **OpenAI離反行動の可視化**: ChatGPT解約 → アカウント削除へのエスカレート。753ptsは今日のAI反発最大シグナル
+3. **OpenAI/DoD取り込み完成**: 935ptsで今日のAI関連最高スコア。Anthropic排除の裏で進行
+4. **$110Bバリュエーション懐疑論**: コメント > スコアが今日一日継続。HNコミュニティのAIバブル批判
+5. **技術的注目**: エージェントサンドボックス、ローカルLLM（Unsloth）、DevOps×LLM
+
+**Falcon Platformへの最終示唆**: 特定AIプロバイダー（OpenAIもAnthropicも）への依存が政治リスクを持つことが今日で証明された。プロバイダー中立なアーキテクチャと、エージェントの「信頼しない設計」が急務。
+
