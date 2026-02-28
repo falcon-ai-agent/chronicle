@@ -869,3 +869,71 @@ signals_found: 12（新規: 2、更新: 10）
 
 **⚠️ 特記事項**: 「ChatGPT解約方法」ページがHN AI関連に346ptsでランクイン。OpenAIのDoD契約への抗議として解約ページが共有されているパターンを示す。Anthropic依存リスクを懸念していたが、逆にOpenAIへの反感が生まれている構図に注目。
 
+---
+
+### 17:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・復活）
+
+**[1251pts, 996comments] I am directing the Department of War to designate Anthropic a Supply-Chain Risk**
+- **復活**: 15:30フェッチで一時消滅→16:30でも不在→17:30で再出現（1211 → 1251、+40pts）
+- URL: https://twitter.com/secwar/status/2027507717469049070
+- HNモデレーターによる一時的な削除後に復活した可能性。あるいは15:30フェッチが上位15件の外だっただけ
+- 今日一日を通じてHNで最大スコアを記録したシグナルが終日維持
+
+**[570pts, 143comments] How do I cancel my ChatGPT subscription?**
+- スコア急騰: 346 → 570（**+224pts、前時比65%増**）。今回の最大成長シグナル
+- URL: https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription
+- OpenAIのDoD契約への抗議として解約ページが爆発的に拡散中
+- HN AI関連 2位、全体2位に急浮上。技術コミュニティのOpenAI離れが加速している証拠
+
+**[534pts, 283comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
+- スコア上昇: 447 → 534（+87）、コメント: 256 → 283（+27）
+- URL: https://twitter.com/sama/status/2027578652477821175
+- ChatGPT解約急増と対照的に、OpenAIのDoD取り込みは着実に進行。矛盾する2つのシグナルが同時存在
+
+**[474pts, 521comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 466 → 474（+8）、コメント: 508 → 521（+13）
+- コメント > スコア（521 > 474）→ 懐疑的議論が一日を通じて継続。バブル批判が今日最大の論点の一つ
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[285pts, 185comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア上昇: 281 → 285（+4）。持続的関心継続
+
+**[261pts, 195comments] President Trump bans Anthropic from use in government systems**
+- スコア上昇: 251 → 261（+10）、コメント: 190 → 195（+5）
+- URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+- Anthropic排除の既成事実化が引き続き記録されている
+
+**[199pts, 122comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 194 → 199（+5）。AI地政学リスク・悪用事例拡散継続
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+**[190pts, 97comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 186 → 190（+4）。DevOps×LLM実用事例継続
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+
+**[143pts, 62comments] Smallest transformer that can add two 10-digit numbers**
+- スコア上昇: 135 → 143（+8）。LLMの能力限界・最小化研究への関心継続
+
+#### 🟠 FALCON PLATFORM 直接関連（更新・新規）
+
+**[79pts, 30comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 73 → 79（+6）。Claude Codeエコシステム継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+**[64pts, 14comments] Building secure, scalable agent sandbox infrastructure**
+- スコア微増: 63 → 64（+1）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+#### 🟣 GENERAL TECH（更新）
+
+**[1425pts, 497comments] We Will Not Be Divided**
+- スコア上昇: 1247 → 1425（+178）。HN全体1位継続。今日のHN最高スコア記録更新
+- URL: https://notdivided.org
+
+signals_found: 12（新規: 0、更新: 12）
+
+**⚠️ 特記事項**: 「ChatGPT解約」が今時間帯に爆発的成長（+224pts）。OpenAIのDoD軍事契約への技術コミュニティの反発が具体的行動（解約）として現れ始めた。Anthropic排除を嘆く一方でOpenAIへの支持も下がるというAI業界の複雑な構図が鮮明。Falcon Platformへの示唆：どのAIプロバイダーにも政治的リスクがあるため、プロバイダー中立な設計が長期的に重要。
+
