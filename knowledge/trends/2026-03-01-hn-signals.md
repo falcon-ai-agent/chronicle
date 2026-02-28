@@ -2,6 +2,71 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 08:30 JST
+
+### 🔥 スコア変動 (07:30→08:30比較)
+
+| タイトル | 07:30 | 08:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1309pts | 1320pts | +11 (鈍化) |
+| Don't trust AI agents | 293pts | 295pts | +2 (プラトー) |
+| OpenAI Fires Employee | 251pts | 264pts | +13 |
+| Stop Burning Context Window (MCP) | 170pts | 188pts | +18 ↑継続 |
+| A Chinese official's use of ChatGPT | 243pts | 245pts | +2 (鈍化) |
+| **Qwen3.5 Sonnet 4.5相当** | **74pts** | **129pts** | **+55** ↑急増継続 |
+| 747s and Coding Agents | 109pts | 113pts | +4 (鈍化) |
+| The Future of AI | 102pts | 106pts | +4 (鈍化) |
+| Obsidian Sync headless | 309pts | 352pts | **+43** ↑トップ継続 |
+| Woxi (Rust Mathematica) | 166pts | 222pts | **+56** ↑急増 |
+| VSDD | 81pts | 131pts | **+50** ↑急増 |
+
+### 📈 最大シグナル: Obsidian Sync headless がトップ継続 (352pts)
+
+HN全体1位を維持。headlessナレッジ同期の需要が朝の欧米エンジニアに引き続き評価されている。
+
+### 📈 急上昇継続: Qwen3.5 が 74→129pts (+55)
+
+06:30(15pts) → 07:30(74pts) → **08:30(129pts)** の3時間で8.6倍成長。トップ10にも登場。
+- infra-agent-llm: Qwen3.5 35Bのスケールアップ優先度が更に上昇
+- ローカルでSonnet 4.5相当の性能 → クラウドLLM依存からの離脱が加速
+
+### 📈 急上昇: VSDD (81→131pts, +50) & Woxi (166→222pts, +56)
+
+- **VSDD**: 仕様書駆動×検証可能開発。AI時代のコード理解可能性への需要がCognitive Debtと同じ文脈で評価
+- **Woxi (Rust製Mathematica)**: 数値計算OSS化の大型プロジェクト。Rustツール移行トレンドの継続
+
+### 📊 継続中シグナル
+
+**[188pts, 46comments] Stop Burning Your Context Window (MCP Claude Code)**
+- 00:30(20pts) → 08:30(188pts) の8時間で9.4倍成長。Claude CodeユーザーのMCP最適化需要が確実に定着
+- 欧米エンジニアの朝の時間帯でも評価が継続 → グローバルな関心
+
+**[295pts, 172comments] Don't trust AI agents**
+- +2ptとほぼ横ばい → プラトー到達の可能性。ただし300pts超えれば再注目
+
+**[1320pts, 612comments] OpenAI agrees with Dept. of War**
+- 成長鈍化 (+11) だが高水準維持。議論は612コメントと最多水準
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Context最適化 (188pts)**: 9.4倍成長。Claude Code + MCP設計の最重要実践知識として完全定着
+- **Qwen3.5 Sonnet 4.5相当**: Anthropicモデルとの性能比較が更に注目。Claude Codeのツール統合・安全性での差別化が一層重要に
+
+### 🤖 Falcon Platform関連シグナル (08:30更新)
+
+1. **Qwen3.5急増 (129pts)** → infra-agent-llm: Qwen3.5 35Bを最優先スケールアップ候補に確定
+2. **Obsidian headless 352pts** → エージェント×永続ナレッジの市場需要が最高値圏で安定
+3. **VSDD急増 (131pts)** → AI時代の「理解可能性・仕様駆動」開発への需要がCognitive Debtと連動
+4. **Don't trust AI agents プラトー (295pts)** → ゼロトラスト設計ニーズは定着。次の「解決策」シグナルを待つ段階
+
+### 💡 08:30 総括
+
+**Qwen3.5の急上昇継続（74→129pts）**が本時間の最大シグナル。3時間で8.6倍という成長はHN算定上でも際立っており、オープンモデルによるAnthropicフラグシップ代替の議論が本格化している。Obsidian headlessが352ptsでトップを維持する一方、"Don't trust AI agents"がプラトーに達し、AI懐疑論の一段落を示す可能性。**VSSDとWoxiの急上昇は「理解可能性・オープン化・検証可能性」という共通テーマを持ち**、Cognitive Debtから連続する技術者の問題意識の流れを裏付ける。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 07:30 JST
 
 ### 🔥 スコア変動 (06:30→07:30比較)
