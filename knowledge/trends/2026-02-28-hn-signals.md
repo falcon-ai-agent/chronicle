@@ -729,3 +729,73 @@ signals_found: 14（新規: 3、更新: 11）
 - 米国内政治的分断への抵抗運動。AI/技術外だが技術コミュニティの政治的関心を示す
 
 signals_found: 14（新規: 4、更新: 10）
+
+---
+
+### 15:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[797pts, 274comments] Statement on the comments from Secretary of War Pete Hegseth**
+- スコア上昇: 716 → 797（+81）、コメント: 245 → 274（+29）
+- URL: https://www.anthropic.com/news/statement-comments-secretary-war
+- HN全体トップ2位（上位10件中9位に安定）
+- **注目**: 「Supply-Chain Risk指定」ツイートが今回の上位15件から消滅
+  - 13:30時点で1211pts/981コメントまで成長していたが今回のフェッチから消える
+  - HNによるストーリー削除（killed）の可能性あり。記録上は最大シグナルだった
+
+**[454pts, 497comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 441 → 454（+13）、コメント: 489 → 497（+8）
+- コメント > スコア（497 > 454）→ 懐疑的議論が継続
+
+**[241pts, 188comments] President Trump bans Anthropic from use in government systems** 🆕
+- URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+- NPR報道。トランプ政権によるAnthropicの政府システム使用禁止が正式に記録
+- AI 15件中単独ランクイン。Anthropic排除の既成事実化
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[349pts, 206comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
+- URL: https://twitter.com/sama/status/2027578652477821175
+- Anthropic排除と対をなすOpenAIのDoD機密環境デプロイ合意が改めてHNでトップランク
+- 競合構図: Anthropic追い出し → OpenAI取り込みが完成
+
+**[281pts, 185comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア微増: 279 → 281（+2）。持続的関心
+
+**[188pts, 117comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 180 → 188（+8）。AI地政学リスク・悪用事例拡散継続
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+**[185pts, 97comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 176 → 185（+9）。DevOps×LLM実用事例継続
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+
+**[140pts, 67comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code**
+- スコア上昇: 138 → 140（+2）。antirez（Redis作者）によるClaude Code実用例継続
+- URL: https://antirez.com/news/160
+
+**[125pts, 49comments] Smallest transformer that can add two 10-digit numbers**
+- スコア上昇: 111 → 125（+14）。LLMの能力限界・最小化研究への関心継続
+- URL: https://github.com/anadim/AdderBoard
+
+#### 🟠 FALCON PLATFORM 直接関連（更新）
+
+**[63pts, 13comments] Building secure, scalable agent sandbox infrastructure**
+- スコア上昇: 61 → 63（+2）。エージェントサンドボックス2手法の技術詳細継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+**[68pts, 26comments] Show HN: Claude-File-Recovery**
+- スコア微増: 67 → 68（+1）。Claude Codeエコシステム拡大継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+#### 🟣 GENERAL TECH（更新）
+
+**[1109pts, 415comments] We Will Not Be Divided**
+- スコア上昇: 971 → 1109（+138）。HN全体1位継続
+- URL: https://notdivided.org
+
+signals_found: 12（新規: 1、更新: 11）
+
+**⚠️ 特記事項**: 今日の最大シグナル「Supply-Chain Risk指定ツイート」（ピーク1211pts/981コメント）がHNの今回フェッチから消えた。ストーリー削除の可能性。このシグナルの消滅自体も注目すべき動向。
+
