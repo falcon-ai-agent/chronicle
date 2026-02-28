@@ -799,3 +799,73 @@ signals_found: 12（新規: 1、更新: 11）
 
 **⚠️ 特記事項**: 今日の最大シグナル「Supply-Chain Risk指定ツイート」（ピーク1211pts/981コメント）がHNの今回フェッチから消えた。ストーリー削除の可能性。このシグナルの消滅自体も注目すべき動向。
 
+---
+
+### 16:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[1247pts, 456comments] We Will Not Be Divided**
+- スコア上昇: 1109 → 1247（+138）、コメント: 415 → 456（+41）
+- URL: https://notdivided.org
+- HN全体1位継続。米国政治的分断への抵抗運動。DoW/Anthropic問題と同文脈の社会的背景
+
+**[466pts, 508comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 454 → 466（+12）、コメント: 497 → 508（+11）
+- コメント > スコア（508 > 466）→ 懐疑的議論が今日一日継続。AI資金調達バブル批判が主流
+
+**[447pts, 256comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
+- スコア大幅上昇: 349 → 447（+98）、コメント: 206 → 256（+50）
+- URL: https://twitter.com/sama/status/2027578652477821175
+- HN全体でも上位。Anthropic排除 → OpenAI取り込みが完全に完成した構図が注目を集める
+- Altman自身のツイートが拡散。政府AI契約の勢力図が変わったことを技術コミュニティが強く認識
+
+**[346pts, 69comments] How do I cancel my ChatGPT subscription? 🆕**
+- URL: https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription
+- **AI関連フィルターに引っかかった注目シグナル**: OpenAIのヘルプページへのリンクがHN上位
+- DoD契約への反発としてChatGPT解約ページが拡散している可能性が高い
+- スコア346pts/69コメント → 解約意志を示す抗議行動として技術コミュニティが反応
+- Falcon Platform示唆: OpenAIへの反感がClaude移行の追い風になりうる
+
+**[251pts, 190comments] President Trump bans Anthropic from use in government systems**
+- スコア上昇: 241 → 251（+10）、コメント: 188 → 190（+2）
+- URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+- AI関連15件の中に引き続きランクイン。Anthropic排除の既成事実化が継続
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[281pts, 185comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア横ばい: 281。技術コミュニティの持続的関心
+
+**[194pts, 118comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 188 → 194（+6）。AI地政学リスク・悪用事例拡散継続
+
+**[186pts, 97comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 185 → 186（+1）。DevOps×LLM実用事例継続
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+
+**[135pts, 54comments] Smallest transformer that can add two 10-digit numbers**
+- スコア上昇: 125 → 135（+10）。LLMの能力限界・最小化研究への関心継続
+
+**[124pts, 40comments] OpenAI reaches deal to deploy AI models on U.S. DoW classified network**
+- URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/
+- Reuters報道。上記のAltmanツイートとは別にニュース報道としても注目
+
+#### 🟠 FALCON PLATFORM 直接関連（更新・新規）
+
+**[87pts, 46comments] Show HN: Unfucked – version all changes (local-first/source avail)**
+- スコア上昇: 79 → 87（+8）。ローカルファースト・バージョン管理ツール継続
+- URL: https://www.unfudged.io/
+
+**[73pts, 30comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 68 → 73（+5）。Claude Codeエコシステム継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+**[63pts, 13comments] Building secure, scalable agent sandbox infrastructure**
+- スコア横ばい: 63。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+signals_found: 12（新規: 2、更新: 10）
+
+**⚠️ 特記事項**: 「ChatGPT解約方法」ページがHN AI関連に346ptsでランクイン。OpenAIのDoD契約への抗議として解約ページが共有されているパターンを示す。Anthropic依存リスクを懸念していたが、逆にOpenAIへの反感が生まれている構図に注目。
+
