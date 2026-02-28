@@ -1,5 +1,64 @@
 # HN Signals - 2026-03-01
 
+## HN Signals Update
+
+Fetched: 2026-03-01 05:30 JST
+
+### 🔥 スコア変動 (04:30→05:30比較)
+
+| タイトル | 04:30 | 05:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI – How to delete your account | 1735pts | 1752pts | +17 (継続鈍化) |
+| OpenAI agrees with Dept. of War | 1239pts | 1259pts | +20 |
+| Don't trust AI agents | 259pts | 273pts | +14 |
+| What AI coding costs you | 236pts | 247pts | +11 |
+| OpenAI Fires Employee | 189pts | 212pts | **+23** ↑継続 |
+| Stop Burning Context Window (MCP) | 104pts | 127pts | **+23** ↑継続 |
+| A Chinese official's use of ChatGPT | 233pts | 239pts | +6 |
+| Obsidian Sync headless | 172pts | 215pts | **+43** ↑急増 |
+| Gemini CLI Bans | 139pts | 146pts | +7 |
+| **Cognitive Debt** | **366pts** | **不在** | 圏外へ（ピークアウト） |
+
+### 🆕 新規注目シグナル
+
+**[242pts, 62comments] The whole thing was a scam**
+- URL: https://garymarcus.substack.com/p/the-whole-thing-was-scam
+- by: guilamu (Gary Marcus)
+- 分析: AI懐疑派の代表格Gary Marcusによる「全部詐欺だった」論。242pts・62コメントは高水準。LLMの限界・誇大広告への反発が主流化しつつある証拠。Fuyajoにとってはリスク（AI全体への不信）でもありチャンス（実用的・透明な代替）でもある。
+
+**[82pts, 30comments] 747s and Coding Agents**
+- URL: https://carlkolon.com/2026/02/27/engineering-747-coding-agents/
+- by: cckolon
+- 分析: 航空機エンジニアリング（747）の安全設計思想とCodingエージェントの類比。エンジニアリング的厳密さ・フェイルセーフ設計をAIエージェントに適用する思考。Falcon Platformのエージェント設計原則として参考になる視点。
+
+**[81pts, 38comments] Verified Spec-Driven Development (VSDD)**
+- URL: https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00
+- by: todsacerdoti
+- 分析: 仕様書ベースの検証可能な開発手法。AI時代のコード理解可能性・検証可能性への需要。Cognitive Debtの解決策として注目されうるアプローチ。
+
+### 📊 継続中シグナル
+
+**[127pts, 21comments] Stop Burning Your Context Window (MCP Claude Code)**
+- 前時間比: 104→127pts (+23)、着実に上昇継続
+- MCPサーバー設計の最適化需要が長期的に認知されている
+
+**[215pts, 81comments] Obsidian Sync headless (+43pts)**
+- ヘッドレスナレッジ同期ツールへの関心が急増
+- エージェントからのドキュメント操作ユースケースの需要を示す
+
+### 🤖 Falcon Platform関連シグナル (05:30更新)
+
+1. **Gary Marcus "全部詐欺"論 (242pts)** → AI懐疑派の声が主流入り。「実際に動く・使える」プラットフォームの差別化がより重要に
+2. **747s and Coding Agents** → 安全設計・フェイルセーフをAIエージェントに適用する思想。Fuyajoエージェント設計原則の参考
+3. **VSDD** → Cognitive Debtの解決策としての仕様駆動開発。AIコード生成の「理解可能性」確保に直結
+4. **MCP Context最適化 (127pts継続)** → Claude Codeエコシステム内で実用的課題として定着
+
+### 💡 05:30 総括
+
+Cognitive Debtがランキング圏外へ（ピークアウト）。代わりに**Gary Marcus "The whole thing was a scam" (242pts)** という強烈な新シグナル。AI懐疑論がHNの主流に入りつつある。OpenAI関連ネガティブニュース3連発（削除・軍事・インサイダー取引）の長期継続と相まって、**「AIバブルの終わりの始まり」を感じさせる地点に来ている**可能性。Fuyajoにとっては、誇大広告を避け実用価値を証明することが最重要課題となる。
+
+---
+
 ## HN Signals
 
 Fetched: 2026-03-01 00:30 JST
