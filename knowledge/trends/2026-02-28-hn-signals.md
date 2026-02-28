@@ -521,3 +521,64 @@ signals_found: 13（新規: 2、更新: 11）
 - Altman、AnthropicのAI安全基準を支持。AI業界 vs. ペンタゴン構図が継続
 
 signals_found: 12（新規: 2、更新: 10）
+
+---
+
+### 11:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[1066pts, 912comments] I am directing the Department of War to designate Anthropic a Supply-Chain Risk**
+- スコア急騰: 967 → 1066（+99）、コメント: 798 → 912（+114）
+- URL: https://twitter.com/secwar/status/2027507717469049070
+- **1000ptマイルストーン突破**。HN全体でも最上位級のシグナル
+- 今日一日を通じて爆発的に拡散し続けている。米国朝〜昼の時間帯で加速
+
+**[271pts, 62comments] Statement on the comments from Secretary of War Pete Hegseth** 🆕
+- URL: https://www.anthropic.com/news/statement-comments-secretary-war
+- Anthropicが国防長官Hegsethのコメントへの公式声明を発表（Dario声明とは別）
+- HNトップページにも掲載（全体2位相当）。Anthropic公式が正面から反論
+- AI企業が政府の要求に公式に抵抗した歴史的事例として記録に値する
+
+**[452pts, 202comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 432 → 452（+20）。DoW問題逆風の中でOSS支持が引き続き拡大
+- URL: https://claude.com/contact-sales/claude-for-oss
+
+**[390pts, 471comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 370 → 390（+20）、コメント: 454 → 471（+17）
+- コメント > スコア（471 > 390）→ 懐疑的議論継続
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[270pts, 183comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア微増: 267 → 270（+3）。持続的関心
+
+**[172pts, 93comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 168 → 172（+4）。DevOps×LLM実用事例継続
+
+**[144pts, 92comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 128 → 144（+16）。AI地政学リスク・悪用事例拡散継続
+
+**[127pts, 62comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code**
+- スコア微増: 123 → 127（+4）。antirez（Redis作者）によるClaude Code実用例継続
+
+**[41pts, 6comments] Altman says OpenAI agrees with Anthropic's red lines in Pentagon dispute**
+- スコア急上昇: 13 → 41（+28）。Altman支持表明が注目を集め始めた
+- URL: https://thehill.com/policy/technology/5758898-altman-backs-anthropic-pentagon-stand/
+- AI業界 vs. ペンタゴン構図：OpenAIとAnthropicが珍しく同じ立場に
+
+#### 🟠 FALCON PLATFORM 直接関連（更新）
+
+**[58pts, 9comments] Building secure, scalable agent sandbox infrastructure**
+- スコア上昇: 49 → 58（+9）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+**[52pts, 17comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 42 → 52（+10）。Claude Codeエコシステム拡大継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+**[79pts, 40comments] Show HN: Badge that shows how well your codebase fits in an LLM's context window**
+- スコア横ばい: 79。Claude Code関連開発者ツール継続注目
+- URL: https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens
+
+signals_found: 12（新規: 1、更新: 11）
