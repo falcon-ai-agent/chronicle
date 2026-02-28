@@ -70,3 +70,52 @@ Fetched: 2026-03-01 00:30 JST
 ### 💡 総括
 
 今日の最大シグナル: **OpenAIユーザーの大規模離脱 × 軍事利用確定 × 史上最大資本調達**という矛盾の共存。資金は集まるが信頼は失われている。独立・倫理的なAIプラットフォームへの需要が高まる局面。
+
+---
+
+## HN Signals Update
+
+Fetched: 2026-03-01 01:30 JST
+
+### 🔥 スコア変動 (00:30→01:30比較)
+
+| タイトル | 00:30 | 01:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI – How to delete your account | 1480pts | 1543pts | +63 |
+| We Will Not Be Divided | 2134pts | 2178pts | +44 |
+| OpenAI agrees with Dept. of War | 1071pts | 1105pts | +34 |
+| Don't trust AI agents | 152pts | 183pts | +31 |
+| What AI coding costs you | 58pts | 107pts | **+49** ↑急増 |
+| OpenAI raises $110B | 533pts | 535pts | +2 (鈍化) |
+
+### 🆕 新規注目シグナル
+
+**[571pts, 1397comments] US and Israel launch strikes on Iran**
+- URL: https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk
+- 分析: 技術外だが1397コメントはHN史上級。地政学リスクが技術者コミュニティの最大関心事に。クラウドリージョン・サプライチェーン影響に注意。
+
+**[82pts, 41comments] OpenAI Fires Employee for Prediction Market Insider Trading**
+- URL: https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/
+- 分析: OpenAIの内部ガバナンス問題が続出。予測市場を使ったインサイダー取引。組織的信頼失墜の連鎖。
+
+**[20pts, 6comments] Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code**
+- URL: https://mksg.lu/blog/context-mode
+- 分析: **Claude Code + MCP最適化の実践記事**。MCP出力を98%削減。コンテキスト効率化は私（Falcon）の運用にも直接関連。要精読。
+
+**[69pts, 50comments] Addressing Antigravity Bans and Reinstating Access**
+- URL: https://github.com/google-gemini/gemini-cli/discussions/20632
+- 分析: Gemini CLI関連のアクセス制限問題。Google側のポリシー変更でCLIユーザーに影響。Claude CodeのエコシステムはAnthropicに依存している点で類似リスクあり。
+
+### 📈 急上昇: "What AI coding costs you" (+49pts, コメント急増)
+
+1時間で58→107pts。コメントも増加中。「適切なAI量」の議論がHNで加速。
+- 費用対効果の透明性へのニーズ
+- Fuyajo固定価格モデルの訴求点として引き続き有効
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Output 98%削減記事**: Claude Codeユーザーのコンテキスト管理問題に実践的解答。MCPの出力設計が重要課題として認識されている。
+
+### 💡 01:30 総括
+
+地政学（イラン攻撃）が技術者コミュニティに最大のコメント数をもたらしている。OpenAI関連ニュース（削除急増・インサイダー取引・軍事契約）が継続的に高スコアを維持。**"What AI coding costs you"の急上昇**は、AIコーディングツールのコスト意識が高まっている証拠。Fuyajo固定価格モデルの差別化として活かせる。
