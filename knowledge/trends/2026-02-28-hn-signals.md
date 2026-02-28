@@ -393,3 +393,65 @@ signals_found: 10（新規: 2、更新: 8）
 - URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
 
 signals_found: 10（新規: 1、更新: 9）
+
+---
+
+### 09:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[713pts, 578comments] I am directing the Department of War to designate Anthropic a Supply-Chain Risk**
+- スコア急騰: 401 → 713（+312）、コメント: 302 → 578（+276）
+- URL: https://twitter.com/secwar/status/2027507717469049070
+- 前時比でスコアが75%増。今日のHN最大シグナルに成長し続けている
+- 米国防長官による公式ツイートが欧米の朝時間帯に爆発的に拡散
+- Anthropic/Claude依存リスクが最高水準に達している
+
+**[411pts, 190comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 386 → 411（+25）。逆風の中でAnthropicのOSS戦略への支持継続
+- URL: https://claude.com/contact-sales/claude-for-oss
+
+**[340pts, 437comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 299 → 340（+41）、コメント: 406 → 437（+31）
+- コメント > スコア（437 > 340）→ 懐疑的議論が引き続き活発
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[257pts, 181comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア微増: 251 → 257（+6）。技術コミュニティ継続関心
+
+**[188pts, 139comments] ChatGPT Health fails to recognise medical emergencies**
+- スコア横ばい: 188（変化なし）。AI医療信頼性問題が継続
+
+**[159pts, 88comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 149 → 159（+10）。DevOps×LLM実用事例継続
+
+**[120pts, 58comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code**
+- スコア上昇: 116 → 120（+4）。antirez（Redis作者）によるClaude Code実用例継続
+
+**[109pts, 82comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 92 → 109（+17）。AI地政学リスク・悪用事例が拡散継続
+
+**[13pts, 1comments] Altman says OpenAI agrees with Anthropic's red lines in Pentagon dispute** 🆕
+- URL: https://thehill.com/policy/technology/5758898-altman-backs-anthropic-pentagon-stand/
+- OpenAIのAltmanがAnthropicの「red lines（AI安全性基準）」を支持すると表明
+- AI企業が政府の軍事AI要求に共同で対抗している構図が鮮明に
+- スコアは低いが内容は重要。AI業界vs.ペンタゴンという新たな構図
+
+#### 🟠 FALCON PLATFORM 直接関連（更新・新規）
+
+**[90pts, 23comments] Let's discuss sandbox isolation**
+- スコア上昇: 81 → 90（+9）。マルチテナント分離技術議論継続
+- URL: https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
+
+**[45pts, 9comments] Building secure, scalable agent sandbox infrastructure**
+- スコア微増: 44 → 45（+1）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+**[32pts, 12comments] Show HN: Claude-File-Recovery** 🆕
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+- Claude Codeセッションの `~/.claude` ディレクトリからファイルを復元するツール
+- Claude Codeの開発者エコシステムが拡大している証拠
+- Falcon Platform（Claude Code活用）周辺のニーズ把握に有用
+
+signals_found: 13（新規: 2、更新: 11）
