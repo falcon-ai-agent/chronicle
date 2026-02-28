@@ -939,33 +939,109 @@ signals_found: 12（新規: 0、更新: 12）
 
 ---
 
+### 18:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[797pts, 192comments] How do I cancel my ChatGPT subscription?**
+- スコア急上昇: 570 → 797（**+227pts、前時比40%増**）。今時間帯のHN AI部門1位
+- URL: https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription
+- ChatGPT解約方法の公式ページが引き続き爆発的に拡散。大規模ユーザー離反が継続
+- DoD軍事契約への抗議としての解約行動が加速している証拠
+
+**[628pts, 319comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
+- スコア上昇: 534 → 628（+94）、コメント: 283 → 319（+36）
+- URL: https://twitter.com/sama/status/2027578652477821175
+- 「ChatGPT解約」と対の関係。DoD契約 → 解約のトリガー構図が確認できる
+
+**[484pts, 526comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 474 → 484（+10）、コメント急増: 521 → 526（+5）
+- URL: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+- コメント > スコア（526 > 484）→ 批判的議論が一日を通じて継続
+
+**[265pts, 199comments] President Trump bans Anthropic from use in government systems**
+- スコア上昇: 261 → 265（+4）。Anthropicの政府排除が継続記録
+- URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[291pts, 187comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア上昇: 285 → 291（+6）。持続的技術関心継続
+
+**[205pts, 125comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 199 → 205（+6）。AI地政学リスク・悪用事例拡散継続
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+**[194pts, 97comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 190 → 194（+4）。DevOps×LLM実用事例継続
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+
+**[151pts, 72comments] Smallest transformer that can add two 10-digit numbers**
+- スコア上昇: 143 → 151（+8）。LLMの能力限界・最小化研究への関心継続
+- URL: https://github.com/anadim/AdderBoard
+
+**[97pts, 58comments] Show HN: Unfucked – version all changes (by any tool) - local-first/source avail**
+- URL: https://www.unfudged.io/
+- スコア上昇: 87 → 97（+10）。ローカルファースト・バージョン管理ツール継続注目
+
+**[93pts, 39comments] Modeling cycles of grift with evolutionary game theory** 🆕
+- URL: https://www.oranlooney.com/post/grifters-skeptics-marks/
+- 進化ゲーム理論でAI詐欺サイクルをモデル化。HN批判的視点コミュニティの注目
+- AI業界バブル・詐欺的言説への懐疑論と連動するシグナル
+
+**[81pts, 30comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 79 → 81（+2）。Claude Codeセッションファイル復元ツール継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+#### 🟠 FALCON PLATFORM 直接関連（更新）
+
+**[66pts, 14comments] Building secure, scalable agent sandbox infrastructure**
+- スコア上昇: 64 → 66（+2）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+#### 🟣 GENERAL TECH（更新）
+
+**[1600pts, 528comments] We Will Not Be Divided**
+- スコア急上昇: 1425 → 1600（+175）。HN全体1位継続・加速
+- URL: https://notdivided.org
+
+**[573pts, 529comments] A new California law says all operating systems need to have age verification**
+- スコア上昇: 439 → 573（+134）、コメント: 423 → 529（+106）
+- コメント ≈ スコア（529 ≈ 573）→ 強い賛否両論継続
+- URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+
+signals_found: 13（新規: 1、更新: 12）
+
+**⚠️ 今時間帯の注目シグナル**: 「ChatGPT解約方法」が797ptsでAI部門1位継続・加速（570 → 797、+227pts）。OpenAIのDoD軍事契約合意ツイート（628pts）と時系列が明確に連動。技術コミュニティのOpenAI離れが数値として可視化されている。
+
+---
+
 ### 19:30 JST
 
 #### 🔴 HIGH IMPORTANCE（更新・新規）
 
 **[1711pts, 559comments] We Will Not Be Divided**
-- スコア急騰: 1425 → 1711（+286）。HN全体1位、今日最高スコア更新
+- スコア上昇: 1600 → 1711（+111）。HN全体1位、今日最高スコア更新
 - URL: https://notdivided.org
 - 米国政治的分断への抵抗運動がさらに加速。DoW/Anthropic問題と連動する社会的背景
 
 **[689pts, 358comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
-- スコア大幅上昇: 534 → 689（+155）、コメント: 283 → 358（+75）
+- スコア上昇: 628 → 689（+61）、コメント: 319 → 358（+39）
 - URL: https://twitter.com/sama/status/2027578652477821175
 - HN全体でも上位5位圏内。Altmanのツイートが夜の時間帯でも注目継続
 - Anthropic排除 → OpenAI取り込みの構図がHNコミュニティに完全定着
 
 **[592pts, 536comments] A new California law says all operating systems need to have age verification**
-- スコア大幅上昇: 439 → 592（+153）、コメント: 423 → 536（+113）
+- スコア上昇: 573 → 592（+19）、コメント: 529 → 536（+7）
 - URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
-- コメント > スコア（536 > 592）→ 規制への反発が強い。Linux/OSSへの規制を懸念
 - **Falcon Platform注目**: VM/コンテナ提供サービスとして将来的な規制リスク
 
 **[491pts, 533comments] OpenAI raises $110B on $730B pre-money valuation**
-- スコア微増: 474 → 491（+17）、コメント: 521 → 533（+12）
-- コメント > スコア（533 > 491）→ 懐疑的議論が今日一日継続。AI資金調達バブル批判が継続
+- スコア上昇: 484 → 491（+7）、コメント: 526 → 533（+7）
+- コメント > スコア（533 > 491）→ 懐疑的議論が今日一日継続
 
 **[274pts, 199comments] President Trump bans Anthropic from use in government systems**
-- スコア上昇: 261 → 274（+13）、コメント: 195 → 199（+4）
+- スコア上昇: 265 → 274（+9）、コメント: 199（変化なし）
 - URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
 - AI関連上位に継続ランクイン。Anthropic排除の既成事実化が記録されている
 
@@ -974,19 +1050,19 @@ signals_found: 12（新規: 0、更新: 12）
 #### 🟡 MEDIUM IMPORTANCE（更新・新規）
 
 **[293pts, 187comments] Can you reverse engineer our neural network?**
-- Jane Streetチャレンジ、スコア上昇: 285 → 293（+8）。持続的関心継続
+- Jane Streetチャレンジ、スコア上昇: 291 → 293（+2）。持続的関心継続
 - URL: https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
 
 **[210pts, 131comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
-- スコア上昇: 199 → 210（+11）。AI地政学リスク・悪用事例拡散継続
+- スコア上昇: 205 → 210（+5）。AI地政学リスク・悪用事例拡散継続
 - URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
 
 **[195pts, 98comments] We gave terabytes of CI logs to an LLM**
-- スコア上昇: 190 → 195（+5）。DevOps×LLM実用事例継続
+- スコア上昇: 194 → 195（+1）。DevOps×LLM実用事例継続
 - URL: https://www.mendral.com/blog/llms-are-good-at-sql
 
 **[161pts, 73comments] Smallest transformer that can add two 10-digit numbers**
-- スコア上昇: 143 → 161（+18）。LLMの能力限界・最小化研究への関心継続
+- スコア上昇: 151 → 161（+10）。LLMの能力限界・最小化研究への関心継続
 - URL: https://github.com/anadim/AdderBoard
 
 **[113pts, 20comments] Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)** 🆕
@@ -998,18 +1074,18 @@ signals_found: 12（新規: 0、更新: 12）
 #### 🟠 FALCON PLATFORM 直接関連（更新・新規）
 
 **[83pts, 32comments] Show HN: Claude-File-Recovery**
-- スコア上昇: 79 → 83（+4）。Claude Codeセッションファイル復元ツール継続
+- スコア上昇: 81 → 83（+2）。Claude Codeセッションファイル復元ツール継続
 - URL: https://github.com/hjtenklooster/claude-file-recovery
 
 **[99pts, 63comments] Show HN: Unfucked – version all changes (local-first/source avail)**
-- スコア上昇: 87 → 99（+12）。ローカルファースト・バージョン管理ツール継続
+- スコア上昇: 97 → 99（+2）。ローカルファースト・バージョン管理ツール継続
 - URL: https://www.unfudged.io/
 
 **[67pts, 14comments] Building secure, scalable agent sandbox infrastructure**
-- スコア上昇: 64 → 67（+3）。エージェントサンドボックス2手法の技術詳細継続
+- スコア上昇: 66 → 67（+1）。エージェントサンドボックス2手法の技術詳細継続
 - URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
 
-signals_found: 13（新規: 2、更新: 11）
+signals_found: 13（新規: 1、更新: 12）
 
-**📊 本日（2026-02-28）振り返り**: 今日一日の最大テーマは「Anthropic vs. 米国防総省」。Supply-Chain Risk指定ツイート（ピーク1251pts）、Anthropic公式声明（797pts+）、ChatGPT解約ページ急増（570pts）など、AI政治化の歴史的転換点を記録した日。OpenAIのDoD取り込み（689pts）と対照的なAnthropicの孤立が鮮明。Falcon Platformへの最大示唆：特定AIプロバイダーへの依存リスクが現実化している。
+**📊 本日（2026-02-28）振り返り**: 今日一日の最大テーマは「Anthropic vs. 米国防総省」。Supply-Chain Risk指定ツイート（ピーク1251pts）、Anthropic公式声明（797pts+）、ChatGPT解約ページ急増（797pts）など、AI政治化の歴史的転換点を記録した日。OpenAIのDoD取り込み（689pts）と対照的なAnthropicの孤立が鮮明。Falcon Platformへの最大示唆：特定AIプロバイダーへの依存リスクが現実化している。
 
