@@ -2,6 +2,67 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 06:30 JST
+
+### 🔥 スコア変動 (05:30→06:30比較)
+
+| タイトル | 05:30 | 06:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1259pts | 1283pts | +24 |
+| **The whole thing was a scam** | **242pts** | **336pts** | **+94** ↑爆発 |
+| Don't trust AI agents | 273pts | 284pts | +11 |
+| What AI coding costs you | 247pts | 255pts | +8 (鈍化) |
+| OpenAI Fires Employee | 212pts | 230pts | +18 |
+| Stop Burning Context Window (MCP) | 127pts | 150pts | +23 ↑継続 |
+| A Chinese official's use of ChatGPT | 239pts | 241pts | +2 (鈍化) |
+| Cognitive Debt | 存在 | 圏外 | ピークアウト確認 |
+
+### 📈 最大シグナル: "The whole thing was a scam" が爆発 (+94pts)
+
+Gary Marcus著の「AI全部詐欺論」が242→336ptsへ急増。HN全体トップ10入り。
+- Cognitive Debtがピークアウトした後、AI懐疑論の"次弾"として台頭
+- 「速度問題」(Cognitive Debt)から「根本的欺瞞」(Gary Marcus)へ議論がシフト
+- OpenAI関連ネガティブ連鎖との相乗効果
+
+### 🆕 新規注目シグナル
+
+**[15pts, 3comments] Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers**
+- URL: https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance
+- by: lostmsu
+- 分析: **infra-agent-llm直結シグナル。** ローカルでSonnet 4.5相当の性能を発揮するオープンモデルが登場。122B/35Bという大型モデルだがQLoRA対象として検討価値。Qwen2.5-3Bから上位モデルへのスケールアップ判断材料。スコアは低いが技術的インパクト大。
+
+### 📊 継続中シグナル
+
+**[150pts, 39comments] Stop Burning Your Context Window (MCP Claude Code)**
+- 前時間比: 127→150pts (+23)、6時間連続上昇
+- 00:30(20pts) → 06:30(150pts) の累積成長は7.5倍。Claude CodeユーザーのMCP課題認識が着実に広がっている
+
+**[284pts, 166comments] Don't trust AI agents**
+- 06:30現在284pts。AIエージェントセキュリティ不信は安定トレンドとして定着
+
+**[255pts, 163comments] What AI coding costs you**
+- 鈍化傾向だが255pts維持。前日比で4.4倍の成長を記録して安定
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Context最適化 (150pts)**: 7.5倍成長。cc-memory・MCPサーバー設計の実践知識として要精読。
+- **Qwen3.5がSonnet 4.5相当**: AnthropicモデルがOSS比較対象として定着。Claude Codeの差別化要素（ツール統合・安全性）の重要性が増す
+
+### 🤖 Falcon Platform関連シグナル (06:30更新)
+
+1. **"The whole thing was a scam" 急増 (336pts)** → AI懐疑論の主流化。実証的・実用的プラットフォームの差別化が最重要
+2. **Qwen3.5ローカル性能 (15pts)** → infra-agent-llm: Qwen3.5 35Bをスケールアップ候補に追加検討
+3. **MCP出力最適化 (150pts継続)** → cc-memory/MCPサーバー設計の実装優先課題
+4. **Don't trust AI agents (284pts)** → ゼロトラスト設計の市場需要が安定継続
+
+### 💡 06:30 総括
+
+Cognitive Debtがピークアウトし、**Gary Marcus "The whole thing was a scam" (+94pts爆発)**がAI懐疑論の新たな主役として台頭。HNの議論が「技術的問題（速度>理解）」から「根本的欺瞞（AI自体が詐欺？）」へエスカレートしている。OpenAI関連ネガティブ3連発が週単位で継続する文脈で、この懐疑論シフトは変曲点の可能性。Qwen3.5のローカル性能向上はinfra-agent-llmプロジェクトにとって重要な技術インプット。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 05:30 JST
 
 ### 🔥 スコア変動 (04:30→05:30比較)
