@@ -2,6 +2,73 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 07:30 JST
+
+### 🔥 スコア変動 (06:30→07:30比較)
+
+| タイトル | 06:30 | 07:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1283pts | 1309pts | +26 |
+| The whole thing was a scam | 336pts | **圏外** | ピークアウト確認 |
+| Don't trust AI agents | 284pts | 293pts | +9 |
+| OpenAI Fires Employee | 230pts | 251pts | +21 |
+| Stop Burning Context Window (MCP) | 150pts | 170pts | +20 |
+| A Chinese official's use of ChatGPT | 241pts | 243pts | +2 (完全鈍化) |
+| **Qwen3.5 Sonnet 4.5相当** | **15pts** | **74pts** | **+59** ↑急増 |
+| **747s and Coding Agents** | 82pts | 109pts | **+27** ↑継続 |
+| **The Future of AI** | 58pts | 102pts | **+44** ↑急増 |
+| Obsidian Sync headless | 215pts | 309pts | +94 ↑爆発 |
+
+### 📈 最大シグナル: Obsidian Sync headless が爆発 (+94pts)
+
+トップ全体1位 309pts。headlessクライアント対応が朝の時間帯で一気に評価急増。
+- エージェントによるナレッジベース操作ニーズが製品として実現
+- サーバーサイド自動同期 = Fuyajoの「永続メモリ＋エージェント統合」構想と直結
+
+### 📈 急上昇: Qwen3.5が Sonnet 4.5相当 (+59pts)
+
+15→74ptsに急増中。朝の時間帯でエンジニアが注目し始めた。
+- **infra-agent-llm直撃シグナル**: Qwen3.5 35Bがローカルで Sonnet 4.5相当
+- Qwen2.5-3B（現計画）からのスケールアップ判断材料として重要度増加
+- オープンモデルがAnthropicフラグシップに追いつく速度が加速
+
+### 🆕 新規注目シグナル
+
+**[11pts, 1comments] "We do not think Anthropic should be designated as a supply chain risk"**
+- URL: https://twitter.com/OpenAI/status/2027846016423321831
+- by: golfer (OpenAI公式ツイート)
+- 分析: **OpenAIがAnthropicを「サプライチェーンリスク」指定に反対声明**。米政府のAI規制文脈で、競合であるはずのOpenAIがAnthropicを擁護。背景は不明だが、AI業界が規制面で連帯する動きの可能性。Falcon Platformの依存先（Anthropic Claude API）の政策リスク監視として要注意。
+
+### 📊 継続中シグナル
+
+**[170pts, 46comments] Stop Burning Your Context Window (MCP Claude Code)**
+- 00:30(20pts) → 07:30(170pts) の8.5倍成長継続。朝の欧米エンジニアにも届いている
+- MCP出力最適化の実践知識として定着化が確認された
+
+**[293pts, 171comments] Don't trust AI agents**
+- 300pts目前。AIエージェントセキュリティ不信のトレンドとして完全定着
+
+### 🔍 Claude/Anthropic関連
+
+1. **OpenAI → Anthropicサプライチェーンリスク反対**: 競合企業間の奇妙な連帯。規制リスクを業界全体で回避しようとする動き。
+2. **MCP Context最適化 (170pts)**: 8.5倍成長。Claude CodeエコシステムにおけるMCP設計の重要性が完全定着。
+3. **Qwen3.5がSonnet 4.5相当 (74pts急増)**: AnthropicモデルのOSS代替がより現実的になってきた。Claude Codeの「ツール統合・安全性・UX」での差別化が一層重要に。
+
+### 🤖 Falcon Platform関連シグナル (07:30更新)
+
+1. **Obsidian headless爆発 (309pts)** → 「エージェント＋永続ナレッジ」の市場需要が明確なシグナル
+2. **Qwen3.5ローカル性能急増 (74pts)** → infra-agent-llm: Qwen3.5 35Bをスケールアップ第一候補に格上げ
+3. **OpenAI規制リスク連帯** → Anthropic依存のリスクヘッジとして、APIフォールバック設計を検討価値あり
+4. **Don't trust AI agents 300pts目前** → ゼロトラスト×監査ログが市場の安定需要として確定
+
+### 💡 07:30 総括
+
+**"The whole thing was a scam" がピークアウト**し、昨日から今日にかけての懐疑論ブームが一段落した。代わりに**Obsidian headless (+94pts)** という実用ツールへの評価が最大シグナルに。「批判 → 実用」への揺り戻しが朝の時間帯に発生。Qwen3.5のSonnet 4.5相当報道が急増し、ローカルLLMの実用性向上が確認された。OpenAIのAnthropic擁護声明は政策・規制面での不確実性を示す新リスクとして注視が必要。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 06:30 JST
 
 ### 🔥 スコア変動 (05:30→06:30比較)
