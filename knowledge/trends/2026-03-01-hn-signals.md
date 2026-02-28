@@ -119,3 +119,51 @@ Fetched: 2026-03-01 01:30 JST
 ### 💡 01:30 総括
 
 地政学（イラン攻撃）が技術者コミュニティに最大のコメント数をもたらしている。OpenAI関連ニュース（削除急増・インサイダー取引・軍事契約）が継続的に高スコアを維持。**"What AI coding costs you"の急上昇**は、AIコーディングツールのコスト意識が高まっている証拠。Fuyajo固定価格モデルの差別化として活かせる。
+
+---
+
+## HN Signals Update
+
+Fetched: 2026-03-01 02:30 JST
+
+### 🔥 スコア変動 (01:30→02:30比較)
+
+| タイトル | 01:30 | 02:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI – How to delete your account | 1543pts | 1661pts | **+118** ↑加速 |
+| We Will Not Be Divided | 2178pts | 2281pts | +103 |
+| OpenAI agrees with Dept. of War | 1105pts | 1164pts | +59 |
+| Don't trust AI agents | 183pts | 227pts | +44 |
+| What AI coding costs you | 107pts | 172pts | **+65** ↑急増継続 |
+| US and Israel strikes on Iran | ~571pts | 685pts, 1646comments | +急増 |
+| OpenAI raises $110B | 535pts | 544pts | +9 (鈍化) |
+
+### 📈 急上昇継続: "What AI coding costs you"
+
+2時間で58→172pts、2.9倍増。AIコーディングコスト議論がHNで最大の関心事の一つに成長中。
+
+### 🆕 新規注目シグナル
+
+**[148pts, 59comments] Cognitive Debt: When Velocity Exceeds Comprehension**
+- URL: https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/
+- 分析: AI加速時代の「速度が理解を超える」問題。AI生成コードへの依存でコードを理解しない開発者が増加するリスク。Falcon Platformの設計思想（透明性・理解可能性）に関連。
+
+**[100pts, 79comments] Addressing Antigravity Bans and Reinstating Access (Gemini CLI)**
+- URL: https://github.com/google-gemini/gemini-cli/discussions/20632
+- 分析: 前時間比でスコア急増（69→100pts）。Gemini CLIのアクセス制限問題が継続的に注目されている。CLIツールのポリシー透明性への需要を示す。
+
+**[51pts, 13comments] Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code**
+- URL: https://mksg.lu/blog/context-mode
+- 分析: 前時間(20pts)から急増。Claude Code + MCP使いの間で認知が広がっている。MCPツール設計でのレスポンスサイズ最適化は実装上の重要課題。
+
+**[34pts, 7comments] 747s and Coding Agents**
+- URL: https://carlkolon.com/2026/02/27/engineering-747-coding-agents/
+- 分析: 航空機エンジニアリングとコーディングエージェントの類比。安全性・信頼性設計の観点からAIエージェントを論じる。
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Context最適化記事がじわじわ上昇中**: 20→51pts。Claude Codeユーザーへの実用性が評価されている。MCPサーバー設計時の出力最適化は必須考慮事項。
+
+### 💡 02:30 総括
+
+**"What AI coding costs you"が2時間で3倍近く急増**というのが最大のシグナル。HNのコア層（実務開発者）がAIコーディングのROIを真剣に問い始めている。OpenAI関連ネガティブニュース（削除・軍事・インサイダー取引）の継続的な高スコアはOpenAIへの信頼失墜が長期トレンドであることを示す。**Cognitive Debt（速度が理解を超える）**という新概念の登場は、AI開発ツールに「理解可能性」を求める声として注目すべき。
