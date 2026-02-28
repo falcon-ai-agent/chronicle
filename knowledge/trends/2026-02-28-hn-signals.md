@@ -1168,3 +1168,88 @@ signals_found: 14（新規: 2、更新: 12）
 
 **⚠️ 夜間トレンド**: 「OpenAI - How to delete your account」がHN全体1位に浮上。ChatGPT解約に続き、OpenAIアカウント削除ページが拡散。DoD軍事契約への抗議行動が一夜で解約→アカウント削除へとエスカレート。Unsloth Dynamic 2.0 GGUFs（全体2位、42pts）もローカルLLM/量子化への関心を示す。
 
+---
+
+### 21:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[475pts, 76comments] OpenAI – How to delete your account**
+- スコア**爆発的急騰**: 143 → 475（**+332pts、前時比+230%**）。今時間帯の最大成長シグナル
+- URL: https://help.openai.com/en/articles/6378407-how-to-delete-your-account
+- ChatGPT解約 → アカウント削除へとエスカレート。完全にOpenAIを捨てる意志を示す行動
+- HN全体1位・AI部門1位に急浮上。技術コミュニティのOpenAI離反が最終段階に達した可能性
+- ChatGPT解約ページ（前時ランクイン）が今回から消滅→解約から削除へトレンドが移行
+
+**[869pts, 414comments] OpenAI agrees with Dept. of War to deploy models in their classified network**
+- スコア上昇: 784 → 869（+85）、コメント: 382 → 414（+32）
+- URL: https://twitter.com/sama/status/2027578652477821175
+- HN全体4位。Anthropic排除→OpenAI取り込みの構図が継続。夜間も加速
+
+**[508pts, 549comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 499 → 508（+9）、コメント: 540 → 549（+9）
+- URL: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+- コメント > スコア（549 > 508）→ 懐疑的議論が今日一日継続
+
+**[282pts, 206comments] President Trump bans Anthropic from use in government systems**
+- スコア上昇: 277 → 282（+5）、コメント: 200 → 206（+6）
+- URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+- Anthropic政府排除の記録が継続。AI関連上位に安定ランクイン
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[298pts, 191comments] Can you reverse engineer our neural network?**
+- スコア上昇: 294 → 298（+4）。Jane Streetチャレンジ持続的関心継続
+- URL: https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
+
+**[216pts, 135comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア上昇: 213 → 216（+3）。AI地政学リスク・悪用事例拡散継続
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+**[198pts, 98comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 196 → 198（+2）。DevOps×LLM実用事例継続
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+
+**[175pts, 75comments] Smallest transformer that can add two 10-digit numbers**
+- スコア上昇: 170 → 175（+5）。LLMの能力限界・最小化研究への関心継続
+- URL: https://github.com/anadim/AdderBoard
+
+**[95pts, 40comments] Modeling cycles of grift with evolutionary game theory**
+- スコア微増: 93 → 95（+2）。AI業界バブル・詐欺サイクルの進化ゲーム理論分析継続
+- URL: https://www.oranlooney.com/post/grifters-skeptics-marks/
+
+**[62pts, 26comments] Unsloth Dynamic 2.0 GGUFs** 🆕
+- URL: https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs
+- HN全体2位。ローカルLLM量子化の新バージョン
+- OpenAI離れと呼応してローカルLLMへの関心が高まっているシグナル
+- Falcon Platform（Infra Agent LLM）の技術スタックとして要チェック
+
+#### 🟠 FALCON PLATFORM 直接関連（更新）
+
+**[104pts, 68comments] Show HN: Unfucked – version all changes (local-first/source avail)**
+- スコア上昇: 102 → 104（+2）。ローカルファースト・バージョン管理ツール継続
+- URL: https://www.unfudged.io/
+
+**[86pts, 33comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 85 → 86（+1）。Claude Codeセッションファイル復元ツール継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+**[68pts, 14comments] Building secure, scalable agent sandbox infrastructure**
+- スコア上昇: 67 → 68（+1）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+#### 🟣 GENERAL TECH（更新）
+
+**[1881pts, 597comments] We Will Not Be Divided**
+- スコア上昇: 1809 → 1881（+72）。HN全体3位（前時1位から3位に）
+- URL: https://notdivided.org
+- ランキング下降（1位→3位）はOpenAI関連記事の急上昇が原因
+
+**[617pts, 564comments] A new California law says all operating systems need to have age verification**
+- HN全体5位。コメント ≈ スコア（564 ≈ 617）→ 賛否両論継続
+- URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+
+signals_found: 14（新規: 1、更新: 13）
+
+**⚠️ 21:30最大シグナル**: 「OpenAI – How to delete your account」が143 → 475pts（+332pts、+230%）で爆発的急騰。ChatGPT解約に続き、アカウント削除ページがHN全体1位に浮上。OpenAIのDoD軍事契約への抗議行動が「解約」から「アカウント削除」へとエスカレートしたことを示す。Falcon Platform示唆：OpenAIへの不信任が前例のない規模で可視化。プロバイダー中立設計の緊急性がさらに高まった。
+
