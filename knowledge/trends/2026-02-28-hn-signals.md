@@ -1348,3 +1348,74 @@ signals_found: 13（新規: 2、更新: 11）
 
 **Falcon Platformへの最終示唆**: 特定AIプロバイダー（OpenAIもAnthropicも）への依存が政治リスクを持つことが今日で証明された。プロバイダー中立なアーキテクチャと、エージェントの「信頼しない設計」が急務。
 
+
+---
+
+## HN Signals - 2026-02-28 23:30 JST
+
+### スコア変動（前回22:30比）
+
+**[982pts, 173comments] OpenAI – How to delete your account**
+- スコア上昇: 753 → 982（+229）。アカウント削除運動が深夜も継続加速
+- URL: https://help.openai.com/en/articles/6378407-how-to-delete-your-account
+
+**[993pts, 469comments] OpenAI agrees with Dept. of War to deploy models in classified network**
+- スコア上昇: 935 → 993（+58）。本日の最終的なAI最高スコア
+- URL: https://twitter.com/sama/status/2027578652477821175
+
+### 新規シグナル（23:30初観測）
+
+**[302pts, 193comments] Can you reverse engineer our neural network?**
+- Jane Streetのニューラルネット逆リバースエンジニアリング挑戦
+- コメント数がスコアに近い = 技術者の強い関心
+- URL: https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
+- 重要度: Medium / 関連: AI/ML研究
+
+**[225pts, 140comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- 中国当局者がChatGPTを使用して威圧工作 → AIの政治的悪用事例
+- AI安全保障問題の新局面
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+- 重要度: High / 関連: AI Security, Geopolitics
+
+**[203pts, 101comments] We gave terabytes of CI logs to an LLM**
+- CI/CDログをLLMに投げてSQL生成。DevOps×LLM実装事例
+- 「LLMはSQLが得意」という実証
+- URL: https://www.mendral.com/blog/llms-are-good-at-sql
+- 重要度: Medium / 関連: Developer Tools, LLM実用
+
+**[110pts, 72comments] Show HN: Unfucked - version all changes (local-first/source available)**
+- あらゆるツール（AIを含む）の変更を全バージョン管理
+- "unfucked"という名前がHNらしい。AI時代のファイル変更追跡への需要
+- URL: https://www.unfudged.io/
+- 重要度: Medium / 関連: Developer Tools, Falcon Platform参考
+
+**[89pts, 37comments] Show HN: Claude-File-Recovery – recover files from ~/.claude sessions**
+- Claude Codeセッションの~/.claudeから削除されたファイルを復元するツール
+- Claude Codeユーザーコミュニティの課題が可視化
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+- 重要度: Medium / 関連: Claude/Anthropic, Developer UX
+
+**[51pts, 21comments] Don't trust AI agents**
+- AIエージェントを信頼するな、というセキュリティモデル解説
+- Falcon Platformのエージェントサンドボックス設計に直結
+- URL: https://nanoclaw.dev/blog/nanoclaw-security-model
+- 重要度: Medium / 関連: AI Agents, Security
+
+**[5pts] Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code**
+- MCP出力を98%削減してコンテキストウィンドウを節約する手法
+- スコアは低いが内容は実用的。Claude Code利用者必読
+- URL: https://mksg.lu/blog/context-mode
+- 重要度: Medium / 関連: Claude/Anthropic, Claude Code最適化
+
+signals_found: 8（新規: 6、更新: 2）
+
+**📊 2026-02-28 23:30 サマリー**
+
+深夜23:30のHNは引き続きOpenAI批判が最高スコアを更新。新規シグナルで注目すべきは：
+
+1. **Claude-File-Recovery**: Claudeユーザーが~/.claudeからファイル復元ツールを自作 → Claude Codeの「ファイル消失」問題がコミュニティ課題に
+2. **MCP Output 98%削減**: コンテキスト節約手法は我々の自律エージェント実装にも参考になる
+3. **Don't trust AI agents**: エージェントの「ゼロトラスト設計」への需要。Falcon Platformのサンドボックス正当性が高まる
+4. **中国政府×ChatGPT威圧工作**: AI政治利用の具体事例。プロバイダー選択がリスク管理に直結
+
+**Falcon Platformへの示唆**: Claude-File-Recovery（89pts）の存在は、Claudeユーザーがファイル管理/バージョン管理に強い需要を持つことを示す。Unfucked（110pts）も同様。Falcon Platformがバージョン管理統合を提供すれば差別化ポイントになりうる。
