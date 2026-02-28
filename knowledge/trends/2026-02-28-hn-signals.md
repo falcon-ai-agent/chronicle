@@ -653,3 +653,78 @@ signals_found: 12（新規: 1、更新: 11）
 - URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
 
 signals_found: 14（新規: 3、更新: 11）
+
+---
+
+### 13:30 JST
+
+#### 🔴 HIGH IMPORTANCE（更新・新規）
+
+**[1178pts, 970comments] I am directing the Department of War to designate Anthropic a Supply-Chain Risk**
+- スコア上昇: 1066 → 1178（+112）、コメント: 912 → 970（+58）
+- URL: https://twitter.com/secwar/status/2027507717469049070
+- 依然HN最大シグナル。昼の時間帯でも上昇継続
+
+**[597pts, 203comments] Statement on the comments from Secretary of War Pete Hegseth**
+- スコア急騰: 271 → 597（**+326**）、コメント: 62 → 203（+141）
+- URL: https://www.anthropic.com/news/statement-comments-secretary-war
+- **HN全体2位**。2時間で2.2倍に跳ね上がり。Anthropic公式反論が米国昼時間帯に爆発的拡散
+- DoW問題はAnthropicの公式声明 vs. ペンタゴンの構図として技術コミュニティに深く浸透
+
+**[490pts, 205comments] Get free Claude max 20x for open-source maintainers**
+- スコア上昇: 452 → 490（+38）。引き続き安定成長
+- URL: https://claude.com/contact-sales/claude-for-oss
+
+**[427pts, 484comments] OpenAI raises $110B on $730B pre-money valuation**
+- スコア上昇: 390 → 427（+37）、コメント: 471 → 484（+13）
+- コメント > スコア（484 > 427）→懐疑的議論継続。OpenAIのDoW契約とのコントラストも議論に
+
+**[139pts, 156comments] President Trump bans Anthropic from use in government systems**
+- URL: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+- コメント > スコア（156 > 139）→感情的議論が活発
+- 07:30の「Trump orders US Government to cut ties with Anthropic」（99pts/42comments）から大幅上昇
+
+#### 🟡 MEDIUM IMPORTANCE（更新・新規）
+
+**[276pts, 185comments] Can you reverse engineer our neural network?**
+- Jane Streetチャレンジ、スコア上昇: 270 → 276（+6）。持続的関心
+
+**[180pts, 96comments] We gave terabytes of CI logs to an LLM**
+- スコア上昇: 172 → 180（+8）。DevOps×LLM実用事例継続
+
+**[174pts, 108comments] A Chinese official's use of ChatGPT revealed an intimidation operation**
+- スコア急上昇: 144 → 174（+30）。AI地政学リスク・悪用事例が加速
+- URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+**[132pts, 64comments] Implementing a Z80 / ZX Spectrum emulator with Claude Code**
+- スコア上昇: 127 → 132（+5）。antirez（Redis作者）によるClaude Code実用例継続
+
+**[96pts, 33comments] Smallest transformer that can add two 10-digit numbers** 🆕
+- URL: https://github.com/anadim/AdderBoard
+- 10桁の足し算ができる最小トランスフォーマー研究
+- LLMの基礎能力・サイズ効率性に関する研究。モデル最適化への関心
+
+#### 🟠 FALCON PLATFORM 直接関連（更新・新規）
+
+**[65pts, 20comments] Show HN: Claude-File-Recovery**
+- スコア上昇: 52 → 65（+13）。Claude Codeエコシステム拡大継続
+- URL: https://github.com/hjtenklooster/claude-file-recovery
+
+**[61pts, 12comments] Building secure, scalable agent sandbox infrastructure**
+- スコア上昇: 58 → 61（+3）。エージェントサンドボックス事例継続
+- URL: https://browser-use.com/posts/two-ways-to-sandbox-agents
+
+#### 🟣 GENERAL TECH（更新・新規）
+
+**[464pts, 442comments] A new California law says all operating systems need to have age verification**
+- スコア急上昇: 359 → 464（+105）、コメント: 359 → 442（+83）
+- URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+- Linuxを含む全OSへの年齢認証義務化。Falcon Platform（VM/コンテナ提供）の将来的規制リスク
+
+**[17pts, 3comments] GitHub Copilot CLI downloads and executes malware** 🆕
+- URL: https://www.promptarmor.com/resources/github-copilot-cli-downloads-and-executes-malware
+- GitHub Copilot CLIがマルウェアをダウンロード・実行する脆弱性
+- AIコーディングツールのセキュリティリスク。Falcon Platform（AIエージェント実行環境）への示唆大
+- **サンドボックス分離の重要性を再確認**
+
+signals_found: 12（新規: 2、更新: 10）
