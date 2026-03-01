@@ -207,3 +207,56 @@ Fetched: 2026-03-02 03:30 JST
 新規の「MCP vs CLI」議論が登場。MCPに対するバックラッシュが始まっている可能性。Falcon PlatformでのMCP活用方針を継続的にモニタリングする。
 Ghosttyも+62ptsと急上昇。ターミナル・開発者ツールへの根強い需要が確認できる。
 
+---
+
+## 04:30 JST 更新差分
+
+Fetched: 2026-03-02 04:30 JST
+
+### スコア変動（04:30 vs 03:30）
+
+| タイトル | 03:30 | 04:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1398 | 1461 | **+63** ⚡ |
+| Anthropic supply chain risk | 710 | 730 | +20 |
+| Switch to Claude | 429 | 468 | **+39** |
+| AI chat ad-supported | 290 | 340 | **+50** ⚡ |
+| Ghostty Terminal Emulator | 300 | 383 | **+83** ⚡ |
+| Decision trees | 276 | 303 | +27 |
+| Why XML Tags / Claude | 64 | 78 | +14 |
+| Qwen3.5 ローカル | 433 | 433 | 0 |
+| 747s and coding agents | 160 | 162 | +2 |
+| AI Made Writing Code Easier | 346 | (圏外) | — |
+
+### 注目: 新規ストーリー
+
+**[175pts, 42comments] 10-202: Introduction to Modern AI (CMU)**
+- URL: https://modernaicourse.org
+- CMUの最新AIコース。教育系コンテンツとして安定した需要。
+
+**[113pts, 28comments] Flightradar24 for Ships**
+- URL: https://atlas.flexport.com/
+- 船舶版Flightradar。技術者の非AI系関心として注目。
+
+**[9pts, 2comments] Inside Anthropic's Killer-Robot Dispute with The Pentagon**
+- URL: The Atlantic
+- スコア低いがAnthropicの軍事・倫理問題。Pentagon関与の議論が始まりつつある。
+
+### 累計上昇ランキング（00:30 → 04:30）
+
+| タイトル | 00:30 | 04:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1461 | **+208** 🔥 |
+| AI Made Writing Code Easier | 134 | ~346+ | **+212+** 🔥 |
+| Switch to Claude | 354 | 468 | +114 |
+| Ghostty | (新規) | 383 | — |
+| AI chat ad-supported | 203 | 340 | +137 |
+| Anthropic supply chain risk | 653 | 730 | +77 |
+
+### 04:30 分析メモ
+
+Ghosttyが1時間で+83ptsと最大急上昇。開発者ツールへの関心が朝方に再加速。
+「AI Made Writing Code Easier」は04:30のフェッチでは圏外に落ちた。深夜帯に最大盛り上がりを見せ、朝方に勢い減退か。ただし累計+212ptsは今日最大の急上昇記録。
+AnthropicとPentagonの「キラーロボット」論争がThe Atlanticで報じられた（スコア低いが要注視）。Anthropicの軍事倫理ポジションが今後のブランドイメージに影響する可能性。
+Switch to Claude(+39)とMicrogpt(+63)は朝方でも加速中。
+
