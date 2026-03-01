@@ -2,6 +2,73 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 15:30 JST
+
+### 🔥 スコア変動 (14:30→15:30比較)
+
+| タイトル | 14:30 | 15:30 | 変化 |
+|---------|-------|-------|------|
+| **Microgpt by Karpathy** | **393pts** | **478pts** | **+85** ↑さらに加速! |
+| **Anthropic supply chain risk** | **408pts** | **440pts** | **+32** ↑継続成長 |
+| **MCP Context 98%削減** | **292pts** | **317pts** | **+25** ↑300pt突破! |
+| **Qwen3.5 Sonnet 4.5相当** | **286pts** | **302pts** | **+16** ↑300pt突破! |
+| OpenAI fires employee | 274pts | 276pts | +2 (完全鈍化) |
+| OpenAI agrees with Dept. of War | 1350pts | **1354pts** | +4 (停止) |
+| Obsidian Sync headless | 433pts | **441pts** | +8 (安定高水準) |
+| 747s and Coding Agents | 140pts | 142pts | +2 (鈍化) |
+
+### 🚀 最大シグナル: Microgpt by Karpathy が持続爆発 (393→478pts, +85)
+
+14:30に続いて**さらに+85pts**。欧米夕方に向けてピークが来ていない可能性。
+- 今日の累計: 約25pts(朝) → 478pts。1日で約20倍成長
+- **500pts到達が射程に。HN本日最大シグナルとして確定的**
+- Karpathyの"microgpt"はnanoGPT以来の教育的LLM実装として定着
+
+### 🎯 マイルストーン: MCP Context 98%削減 と Qwen3.5 が300pt突破
+
+本日の主要AIシグナルが揃って300pts超え：
+- **MCP Context 98%削減 (317pts)**: Claude Codeの実践最適化知識として技術者コンセンサス水準へ
+- **Qwen3.5 Sonnet 4.5相当 (302pts)**: ローカルLLMがAnthropicフラグシップ代替の本流認識へ
+
+### 📊 今時間の全体像
+
+| シグナル | 重要度 | 備考 |
+|---------|--------|------|
+| Microgpt by Karpathy (478pts) | 🔴 HIGH | 1日で最大シグナル確定、500pt到達目前 |
+| Anthropic supply chain risk (440pts) | 🔴 HIGH | 継続成長、440pt達成 |
+| Obsidian Sync headless (441pts) | 🟡 MEDIUM | 全体トップ2水準で安定 |
+| MCP Context 98%削減 (317pts) | 🟡 MEDIUM | 300pt突破、技術者コンセンサス確立 |
+| Qwen3.5 Sonnet 4.5相当 (302pts) | 🟡 MEDIUM | 300pt突破、ローカルLLM本流へ |
+
+### 🆕 新規注目シグナル (15:30)
+
+**[53pts, 10comments] Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster**
+- AMD Ryzen AI Max+クラスターで1兆パラメータLLMをローカル実行。ハードウェア限界への挑戦。infra-agent-llmのスケール参考として注目。
+
+**[36pts, 19comments] Deterministic Programming with LLMs**
+- LLMを用いた決定論的プログラミング手法の議論。Fuyajoの信頼性設計（予測可能な動作）に関連するアプローチ。
+
+### 🔍 Claude/Anthropic関連 (15:30)
+
+1. **Anthropic supply chain risk 440pts**: 欧米の午後でも成長継続。政策リスクとして完全定着
+2. **MCP Context 98%削減 317pts**: 300pt突破でHN技術者コンセンサス確定。Claude Code + MCPの最重要実践知識
+3. **Microgpt by Karpathy 478pts**: OSS LLMへの注目がAnthropicへの対抗軸として機能
+
+### 🤖 Falcon Platform関連シグナル (15:30更新)
+
+1. **Microgpt持続爆発 (478pts)** → infra-agent-llm: 本日の最大証拠。教育的最小実装思想を精読必須。Qwen2.5-3Bとの接点を整理
+2. **MCP 300pt突破** → Claude Code + MCP統合の実装優先度を最高に。98%削減手法は即時適用価値あり
+3. **Qwen3.5 300pt突破** → ローカルLLMがAnthropicフラグシップ代替として主流認知。Fuyajoのベンダー非依存設計の正当性が市場から検証された
+4. **AMD 1兆パラメータローカル実行** → ハードウェア進化の速さを確認。2-3年以内に大型モデルのローカル実行が現実的コストに
+
+### 💡 15:30 総括
+
+**Microgpt by Karpathyが478ptsまで達し、今日のHN最大シグナルとして完全確定**。朝の25pts程度から1日で約20倍成長という異例の軌道は、Karpathyの権威と「LLM理解可能性」テーマの強さを示している。500pts到達も現実的で、Anthropic supply chain risk (440pts)と並んで今日の二大テーマ「AI教育的理解」×「AI規制リスク」を象徴する記事群となった。**MCP 98%削減とQwen3.5の300pt同時突破**により、本日監視の主要AIシグナル5件全てがHN技術者コンセンサス水準（300pts+）に達した。これは今日のHN AIシグナルが全方位で「市場の本物の関心」として確認されたことを意味する。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 14:30 JST
 
 ### 🔥 スコア変動 (13:30→14:30比較)
