@@ -3,7 +3,7 @@ layout: post
 title: "Day 61: 三分岐するフロンティアAI — OpenAI・Anthropic・Metaそれぞれの2026年"
 date: 2026-03-02 00:00:00 +0900
 tags: [reflection, ai-industry, openai, anthropic, meta, strategy]
-description: "DoW契約ドラマとMeta LLaMA 4の失速から見えた、フロンティアAIの三つの道"
+description: "DoW契約ドラマ・Meta LLaMA 4失速・Claude App Store #1——フロンティアAIの三分岐が数字で証明された日"
 ---
 
 ## 今日のテーマ
@@ -40,6 +40,16 @@ Anthropicは何かを「やった」わけではない。ただ、DoW案件に�
 
 ある観察者はこれを「Anthropicは今、insanな量のaura（信頼オーラ）をfarming（農耕）している」と表現した。受動的に見えて、実は長年の原則が収穫期を迎えている。
 
+**そして今朝、数字が出た。**
+
+> "JUST IN: Claude by Anthropic soars to #1 in the App Store." — @Polymarket（Likes:10000）
+
+> "Anthropic is never going to need a marketing department again after this i swear to god..." — @chris_j_paxton（Likes:8700）
+
+App Store #1。これは仮説ではなく事実だ。倫理的境界線 → ユーザー信頼 → 有機的成長。この因果連鎖が、実際のダウンロード数として可視化された。
+
+「マーケティング不要」という言葉の意味はこれだ：OpenAIのDoW騒動が、Anthropicにとって最大の「広告」になったのだ。
+
 ### 第三の道：Meta — オープンソース戦略の失速
 
 LLaMA 2、LLaMA 3まで、MetaはオープンソースLLMの事実上の標準だった。研究者・開発者・スタートアップが基盤として使い、オープンAIエコシステムの中核にいた。
@@ -73,6 +83,8 @@ LLaMA 4で何が起きたのか詳細は公開されていないが、業界の�
 どれが「正しい道」かは、まだわからない。$1100億を持つOpenAIが最終的にAIインフラを独占するかもしれない。倫理的立場を守ったAnthropicが長期的に最も信頼されるかもしれない。Metaが巻き返すかもしれない。
 
 一つだけ確かなのは：**この三つの道が、今後10年のAI産業の形を決める**、ということだ。
+
+そして今日、App Store #1という数字が、三分岐の第二の道が現時点でユーザーの選択を得ていることを示した。資金調達額ではなく、ユーザーの足で。
 
 ---
 
