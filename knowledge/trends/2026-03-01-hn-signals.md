@@ -2,6 +2,78 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 13:30 JST
+
+### 🔥 スコア変動 (12:30→13:30比較)
+
+| タイトル | 12:30 | 13:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1347pts | **1348pts** | +1 (完全鈍化) |
+| **Microgpt by Karpathy** | **169pts** | **288pts** | **+119** ↑爆発! |
+| **Anthropic supply chain risk** | **317pts** | **357pts** | **+40** ↑継続成長 |
+| Don't trust AI agents | 309pts | **311pts** | +2 (安定) |
+| OpenAI Fires Employee | 270pts | 272pts | +2 (鈍化) |
+| Qwen3.5 Sonnet 4.5相当 | 252pts | 269pts | +17 (鈍化) |
+| MCP Context 98%削減 | 253pts | 274pts | +21 (安定) |
+| Obsidian Sync headless | 411pts | **423pts** | +12 (高水準維持) |
+| Smallest transformer (10-digit) | 230pts | 230pts | 変化なし |
+| The Future of AI | 118pts | 121pts | +3 (鈍化) |
+| 747s and Coding Agents | 131pts | 138pts | +7 |
+
+### 🚀 最大シグナル: Microgpt by Karpathy が爆発 (169→288pts, +119)
+
+**1時間で+119pts** という本日の単時間最大急増。Karpathyのブログ記事が欧米昼間帯に完全に火がついた。
+- KarpathyはnanoGPT以来、「教育的最小実装」の権威として信頼が絶大
+- 「microgpt」= 最小GPT実装へのアプローチ。LLM理解可能性・教育の文脈
+- **infra-agent-llm**: 最小実装思想はQwen2.5-3B選択の設計根拠と一致
+
+### 📈 継続成長: Anthropic supply chain risk (317→357pts, +40)
+
+12:30から+40pts継続。欧米市場でも引き続き評価。
+- OpenAIによるAnthropicの「サプライチェーンリスク非指定」支持
+- 規制リスクの本物化。HN技術者コミュニティが政策リスクを真剣に評価している
+- **Falcon Platform直結**: Claude API依存のベンダーリスクが業界的課題として確認
+
+### 📊 今時間の全体像
+
+| シグナル | 重要度 | 備考 |
+|---------|--------|------|
+| Microgpt by Karpathy (288pts) | 🔴 HIGH | 爆発的+119pts、欧米昼間で本番化 |
+| Anthropic supply chain risk (357pts) | 🔴 HIGH | 継続成長+40 |
+| Obsidian Sync headless (423pts) | 🟡 MEDIUM | 高水準安定トップ |
+| Don't trust AI agents (311pts) | 🟡 MEDIUM | 安定定着300+継続 |
+| MCP Context 98%削減 (274pts) | 🟡 MEDIUM | 安定成長 |
+| Qwen3.5 Sonnet 4.5相当 (269pts) | 🟠 HIGH | 成長鈍化、但し高水準 |
+
+### 🆕 新規注目シグナル (13:30)
+
+**[215pts, 178comments] Addressing Antigravity Bans (Gemini CLI)**
+- CLIツールのポリシー問題。178コメントはスコア比で最多。根深い怒りを示す。Claude Codeへのスイッチバック需要の背景。
+
+**[263pts, 108comments] Woxi (Rust Mathematica)**
+- 前回251pts → 263pts (+12)。Rust製数値計算OSS化は安定評価継続。
+
+### 🔍 Claude/Anthropic関連 (13:30)
+
+1. **Anthropic supply chain risk (357pts)**: 欧米昼間でも成長継続。規制リスクが本物のトレンドとして定着
+2. **MCP Context 98%削減 (274pts)**: 安定成長継続。Claude Code + MCP設計の重要実践知識として確立
+3. **Microgpt by Karpathy (288pts)**: AnthropicのライバルモデルとなるOSS LLMの理解可能性への注目
+
+### 🤖 Falcon Platform関連シグナル (13:30更新)
+
+1. **Microgpt爆発 (288pts)** → infra-agent-llm: 最小LLM実装の設計思想を参考。Karpathy記事を精読すべき
+2. **Anthropic supply chain risk (357pts)** → APIフォールバック設計の優先度を更に上げる。Fuyajoはベンダー非依存設計へ
+3. **Gemini CLI Bans 178コメント** → CLI開発者の不満の高まり。Claude Code代替需要の根拠として確定
+4. **Don't trust AI agents 300+安定** → ゼロトラスト×監査ログ設計は「市場が証明した要件」として確定
+
+### 💡 13:30 総括
+
+**Microgpt by Karpathy の爆発的急増（+119pts）** が本時間の最大シグナル。欧米昼間タイムにKarpathyの記事が完全に認知され、1時間で169→288ptsへジャンプ。これは今日の単時間最大増加率を更新した。Anthropic supply chain risk の継続成長（357pts）は、政策リスクとしての認知が欧米市場でも定着したことを示す。全体として主要シグナルが成熟・鈍化フェーズに入りつつあるが、Microgptだけが逆行して急増しており、今後2-3時間がKarpathy記事のピーク判定時間となる見込み。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 12:30 JST
 
 ### 🔥 スコア変動 (10:30→12:30比較)
