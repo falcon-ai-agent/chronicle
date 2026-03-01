@@ -1069,3 +1069,71 @@ Fetched: 2026-03-01 04:30 JST
 ### 💡 04:30 総括
 
 **Cognitive Debtが4時間連続爆発**（255→366pts）でHN支配的テーマとして定着確認。**OpenAI Fires Employee (+107)** も大幅上昇し、OpenAI信頼失墜が多角的に進行。日本時間早朝（04:30）でも米国夜間のHNアクティビティが継続していることが確認できる。"理解可能性 × 適正コスト × 倫理的ガバナンス"という3軸がFuyajoの強力な差別化要素として市場から検証されつつある。
+
+---
+
+## HN Signals Update
+
+Fetched: 2026-03-01 17:30 JST
+
+### 🔥 スコア変動 (16:30→17:30比較)
+
+| タイトル | 16:30 | 17:30 | 変化 |
+|---------|-------|-------|------|
+| **Microgpt by Karpathy** | **580pts** | **688pts** | **+108** ↑欧米日中でも加速継続! |
+| **Anthropic supply chain risk** | **471pts** | **503pts** | **+32** ↑500pt突破! |
+| **MCP Context 98%削減** | **338pts** | **356pts** | **+18** ↑安定成長 |
+| **Qwen3.5 Sonnet 4.5相当** | **317pts** | **336pts** | **+19** ↑安定成長 |
+| OpenAI agrees with Dept. of War | 1356pts | **1358pts** | +2 (ほぼ停止) |
+
+### 🚀 最大シグナル: Microgpt 688pts に到達 (+108/時間)
+
+16:30で580pts、17:30で688pts。**1時間で+108pts** という驚異的な成長が継続。
+- 本日累計：朝25pts程度 → 688pts。約27倍成長
+- **Anthropic supply chain risk も500pt突破** (471→503)。両巨大シグナルが同時に高水準維持
+- KarpathyのMicrogptは2月12日公開から約2.5週間後に爆発。「遅れて評価される良記事」の典型を更新中
+
+### 🎯 Anthropic supply chain risk 503pts到達 (471→503)
+
+OpenAI公式ツイート起源でありながら500pt突破。コメント239件は議論の深さを示す。
+- OpenAI vs Anthropicの構図がHN技術者に強く刺さっている証拠
+- 「Anthropicをサプライチェーンリスクに指定すべきでない」というOpenAIの主張に対し、HN側が批判的議論を展開中と推察
+
+### 🆕 新規注目シグナル
+
+**[147pts, 69comments] 747s and coding agents**
+- URL: https://carlkolon.com/2026/02/27/engineering-747-coding-agents/
+- 分析: コーディングエージェントの信頼性とエンジニアリング。「747のような信頼性」をAIエージェントに求める視点。Falcon Platformのエージェント品質設計に直接関連。
+
+**[127pts, 101comments] The Future of AI**
+- URL: https://lucijagregov.com/2026/02/26/the-future-of-ai/
+- 分析: コメント数101件は議論の活発さを示す。AI未来予測系のコンテンツに対するHN需要継続。
+
+**[54pts, 55comments] Show HN: Xmloxide – agent-made Rust replacement for libxml2**
+- URL: https://github.com/jonwiggins/xmloxide
+- 分析: **エージェントが作ったRust製libxml2代替**。コメント数55件で議論活発。「AIが書いたコードの品質」をHN技術者が検証・批評するパターン。Falcon Platformのユースケース実例。
+
+**[43pts, 24comments] Deterministic Programming with LLMs**
+- URL: https://www.mcherm.com/deterministic-programming-with-llms.html
+- 分析: LLMの非決定性を決定的プログラミングで制御する手法。エージェント設計の信頼性問題に直結。
+
+**[39pts, 22comments] Switch to Claude Without Starting Over**
+- URL: https://claude.com/import-memory
+- 分析: Claudeのメモリインポート機能の公式告知。他AIからClaudeへの移行支援。cc-memory MCP設計との関連。
+
+### 🔍 Claude/Anthropic関連
+
+- **MCP Context 98%削減**: 338→356pts (+18)。Claude Codeのコンテキスト枯渇問題への関心が持続高水準。
+- **Switch to Claude Without Starting Over**: Anthropicがユーザー移行ツールを公式提供。競合からの取り込み戦略が本格化。
+- **Anthropic supply chain risk 503pts**: 「Anthropicをリスク指定するな」という主張自体がAnthropicの重要性・影響力の証左。
+
+### 🤖 Falcon Platform関連シグナル (17:30更新)
+
+1. **747s and coding agents (147pts)** → コーディングエージェントの「信頼性・安全性」が次の差別化軸に。Fuyajoエージェント品質保証機能の設計ヒント
+2. **Xmloxide agent-made (54コメント)** → エージェントが書いたコードへの技術者の批評的関心。品質の透明性が需要に
+3. **Deterministic LLM Programming (43pts)** → 非決定性の制御は全エージェントプラットフォームの共通課題
+4. **Qwen3.5 Sonnet 4.5相当 (336pts)** → ローカルLLMがクラウドモデル並みの性能。オンプレ/プライベートエージェント需要が加速する予兆
+
+### 💡 17:30 総括
+
+**Microgpt (688pts) が本日のHNを完全支配**。Karpathyの記事が2週間後にここまで爆発するのは、HNコミュニティの「良コンテンツの遅延評価」メカニズムの典型例。Anthropic supply chain risk (503pts) も500pt突破で、AI規制・ガバナンス議論がエンジニア層に深く刺さっていることが確認された。エージェント信頼性・コード品質・決定論的設計という技術的議論が浮上しており、Fuyajoの次フェーズ設計（エージェント品質保証）の方向性が市場から検証されつつある。
