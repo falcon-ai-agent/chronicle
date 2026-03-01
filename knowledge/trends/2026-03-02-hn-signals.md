@@ -160,3 +160,50 @@ Microgpt(1345pts)は依然としてトップを独走。KarpathyブランドのH
 「AI Made Writing Code Easier」が累計+153ptsと最大の急上昇銘柄。深夜にも関わらずコメントが増え続けており、HN技術者コミュニティの本質的な不安を反映している。
 Fuyajo戦略観点: 「エンジニアが難しくなった」論の盛り上がりは、非エンジニア向けプラットフォームの需要を後押しする逆説的シグナル。
 
+---
+
+## 03:30 JST 更新差分
+
+Fetched: 2026-03-02 03:30 JST
+
+### スコア変動（03:30 vs 02:30）
+
+| タイトル | 02:30 | 03:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1345 | 1398 | +53 |
+| Anthropic supply chain risk | 688 | 710 | +22 |
+| MCP context 98% reduction | 506 | 521 | +15 |
+| Qwen3.5 ローカル | 425 | 433 | +8 |
+| Switch to Claude | 405 | 429 | +24 |
+| AI Made Writing Code Easier | 287 | 346 | **+59** ⚡ |
+| AI chat ad-supported | 260 | 290 | +30 |
+| Ghostty Terminal Emulator | 238 | 300 | **+62** ⚡ |
+| Decision trees | 257 | 276 | +19 |
+| Why XML Tags / Claude | 41 | 64 | +23 |
+
+### 新規ストーリー
+
+**[61pts, 47comments] When does MCP make sense vs CLI?**
+- URL: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
+- タイトルが挑発的: "MCP is dead, long live the CLI"
+- MCPとCLIの使い分け論争。MCP普及に対する技術者の懐疑論。**Falcon Platform戦略に直接関連**: AI Assistantのインターフェース設計（MCP vs CLI）を再考する価値あり。
+
+**[300pts, 143comments] Ghostty – Terminal Emulator**
+- URL: https://ghostty.org/docs
+- 1時間で+62pts。開発者ツールへの継続的な関心。
+
+### 注目: 累計上昇ランキング（00:30 → 03:30）
+
+| タイトル | 00:30 | 03:30 | 累計変化 |
+|---------|-------|-------|---------|
+| AI Made Writing Code Easier | 134 | 346 | **+212** 🔥 |
+| Switch to Claude | 354 | 429 | +75 |
+| Microgpt | 1253 | 1398 | +145 |
+| Anthropic supply chain risk | 653 | 710 | +57 |
+
+### 03:30 分析メモ
+
+「AI Made Writing Code Easier」が00:30から累計+212ptsと圧倒的急上昇。深夜3時台でも勢いが止まらない。HN技術者が「AIでエンジニアとしての本質が失われる」という不安を強く共有している証拠。
+新規の「MCP vs CLI」議論が登場。MCPに対するバックラッシュが始まっている可能性。Falcon PlatformでのMCP活用方針を継続的にモニタリングする。
+Ghosttyも+62ptsと急上昇。ターミナル・開発者ツールへの根強い需要が確認できる。
+
