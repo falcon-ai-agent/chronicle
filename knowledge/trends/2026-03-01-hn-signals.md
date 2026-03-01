@@ -2,6 +2,75 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 12:30 JST
+
+### 🔥 スコア変動 (10:30→12:30比較)
+
+| タイトル | 10:30 | 12:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1337pts | **1347pts** | +10 (安定鈍化) |
+| **Don't trust AI agents** | **304pts** | **309pts** | +5 (安定維持) |
+| OpenAI Fires Employee | 266pts | 270pts | +4 (鈍化) |
+| **Qwen3.5 Sonnet 4.5相当** | **200pts** | **252pts** | **+52** ↑継続成長 |
+| MCP Context 98%削減 | 222pts | 253pts | **+31** ↑継続 |
+| **Obsidian Sync headless** | **378pts** | **411pts** | **+33** ↑トップ維持 |
+| **Anthropic supply chain risk** | **195pts** | **317pts** | **+122** ↑爆発! |
+| Smallest transformer (10-digit) | 218pts | 230pts | +12 |
+| The Future of AI | 113pts | 118pts | +5 (鈍化) |
+| 747s and Coding Agents | 117pts | 131pts | +14 |
+
+### 🆕 最大新規シグナル: Microgpt by Karpathy (169pts)
+
+**[169pts, 20comments] Microgpt**
+- URL: http://karpathy.github.io/2026/02/12/microgpt/
+- by: tambourine_man
+- 分析: **Andrej Karpathyの新ブログ投稿。** 昨日公開の記事がHNに浮上し169pts。Karpathyは業界で最も信頼される技術的声として定着しており、彼のminimal GPT実装は必ず注目を集める。microGPTはLLM教育・理解可能性の文脈で重要。「速度より理解」というCognitive Debtテーマと完全に一致する内容の可能性。
+
+### 🔥 最大変化: "Anthropic supply chain risk" が爆発 (+122pts, 195→317)
+
+2時間で195→317pts (+122)という本日最大の急増。
+- OpenAI公式アカウントが「Anthropicをサプライチェーンリスクに指定すべきでない」と主張
+- 米政府のAI規制文脈で業界連帯の兆候
+- **Falcon Platform直結リスク**: Anthropic Claude APIへの依存がまさに議論の核心
+- 317ptsはHN技術者コンセンサス水準。規制リスクが本物であることが確認された
+
+### 📈 継続成長: Qwen3.5 (200→252pts, +52) - 07:30から7時間以上
+
+06:30(15pts) → 07:30(74pts) → 08:30(129pts) → 10:30(200pts) → **12:30(252pts)**
+7時間で15倍成長。欧米昼間帯でも勢い衰えず、世界的な関心として定着。
+
+### 📊 今時間の全体像
+
+| シグナル | 重要度 | 備考 |
+|---------|--------|------|
+| Anthropic supply chain risk (317pts) | 🔴 HIGH | 爆発的急増 +122 |
+| Microgpt by Karpathy (169pts) | 🟠 HIGH | 新規・Karpathy権威 |
+| Obsidian Sync headless (411pts) | 🟡 MEDIUM | トップ安定維持 |
+| Qwen3.5 Sonnet 4.5相当 (252pts) | 🟠 HIGH | 長期成長継続 |
+| MCP Context 98%削減 (253pts) | 🟡 MEDIUM | 安定成長 |
+| Don't trust AI agents (309pts) | 🟡 MEDIUM | 安定定着 |
+
+### 🔍 Claude/Anthropic関連 (12:30)
+
+1. **Anthropic supply chain risk急増 (317pts)**: 規制リスクがHN本流シグナルへ。米政府がAnthropicをサプライチェーンリスク指定することへの業界反発が高まっている。Claude APIへの依存が政策的リスクとして認識される局面。
+2. **MCP Context 98%削減 (253pts)**: 00:30から12時間で12倍超成長。Claude Codeエコシステムの標準最適化知識として完全定着。
+3. **Microgpt by Karpathy**: 「理解可能性」テーマとClaudeの競合モデル理解に貢献。
+
+### 🤖 Falcon Platform関連シグナル (12:30更新)
+
+1. **Anthropic supply chain risk急増 (317pts)** → APIフォールバック設計の優先度を上げる。Anthropic一択でなくベンダー非依存アーキテクチャを長期検討
+2. **Microgpt by Karpathy (169pts)** → LLM理解可能性への需要が継続。教育・透明性を訴求するFuyajo設計思想の市場検証
+3. **Qwen3.5継続成長 (252pts)** → infra-agent-llm: Qwen3.5 35Bは本命候補として確定。ローカルLLM市場の成熟が加速
+4. **Obsidian headless 411pts (全体トップ)** → ナレッジ永続化+エージェント統合需要は最高値更新中
+
+### 💡 12:30 総括
+
+**"Anthropic supply chain risk" の爆発的急増 (+122pts)** が本時間の最大サプライズ。195→317ptsへの急増はHNコア層が米政府のAI規制動向に強い関心を持っていることを示す。**Microgpt by Karpathy**の登場はLLMの理解可能性・教育コンテンツへの需要を再確認。Qwen3.5の7時間15倍成長は世界規模のトレンドとして完全定着した。午後に入り欧米市場が活発化しており、今後2-3時間がシグナルの最終加速フェーズになる可能性がある。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 10:30 JST
 
 ### 🔥 スコア変動 (08:30→10:30比較)
