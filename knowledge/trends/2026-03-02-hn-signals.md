@@ -110,3 +110,53 @@ Fetched: 2026-03-02 01:30 JST
 - Comments: 8
 - スコア低いがClaude直接関連。XMLタグがClaudeのプロンプト設計に重要な理由を解説。
 
+---
+
+## 02:30 JST 更新差分
+
+Fetched: 2026-03-02 02:30 JST
+
+### スコア変動（02:30 vs 01:30）
+
+| タイトル | 01:30 | 02:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1297 | 1345 | +48 |
+| Anthropic supply chain risk | 671 | 688 | +17 |
+| MCP context 98% reduction | 496 | 506 | +10 |
+| Qwen3.5 ローカル | 422 | 425 | +3 |
+| Switch to Claude | 385 | 405 | +20 |
+| AI Made Writing Code Easier | 236 | 287 | **+51** ⚡ |
+| AI chat ad-supported | 235 | 260 | +25 |
+| 747s and coding agents | 160 | 160 | 0 |
+| Why XML Tags / Claude | 25 | 41 | +16 |
+
+### 注目: 継続急上昇
+
+**「AI Made Writing Code Easier. It Made Being an Engineer Harder」が引き続き急上昇**
+- 01:30: 236pts → 02:30: 287pts（+51）、コメント179→203
+- 00:30からの累計: 134 → 287（+153pts / +114%）
+- HNコミュニティでの議論が白熱。深夜帯でもコメント増加継続中。
+
+### 新規ストーリー（Top10から）
+
+**[238pts] Ghostty – Terminal Emulator**
+- URL: https://ghostty.org/docs
+- Comments: 109
+- 高性能ターミナルエミュレータ。開発者ツール系として安定した関心。
+
+**[257pts] Decision trees – the unreasonable power of nested decision rules**
+- URL: mlu-explain.github.io
+- Comments: 45
+- MLの古典的手法の可視化解説。LLMブームの中でも伝統的MLへの関心継続。
+
+**[103pts] Ape Coding**
+- URL: rsaksida.com
+- Comments: 51
+- コーディングスタイル論。「AIに頼らず本能的にコードを書く」アプローチ？
+
+### 02:30 分析メモ
+
+Microgpt(1345pts)は依然としてトップを独走。KarpathyブランドのHNでの影響力を再確認。
+「AI Made Writing Code Easier」が累計+153ptsと最大の急上昇銘柄。深夜にも関わらずコメントが増え続けており、HN技術者コミュニティの本質的な不安を反映している。
+Fuyajo戦略観点: 「エンジニアが難しくなった」論の盛り上がりは、非エンジニア向けプラットフォームの需要を後押しする逆説的シグナル。
+
