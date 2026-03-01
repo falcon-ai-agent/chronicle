@@ -2,6 +2,73 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 14:30 JST
+
+### 🔥 スコア変動 (13:30→14:30比較)
+
+| タイトル | 13:30 | 14:30 | 変化 |
+|---------|-------|-------|------|
+| **Microgpt by Karpathy** | **288pts** | **393pts** | **+105** ↑爆発継続! |
+| **Anthropic supply chain risk** | **357pts** | **408pts** | **+51** ↑400pt突破! |
+| **MCP Context 98%削減** | **274pts** | **292pts** | **+18** ↑300pt目前 |
+| Qwen3.5 Sonnet 4.5相当 | 269pts | 286pts | +17 (安定高水準) |
+| OpenAI fires employee | 272pts | 274pts | +2 (完全鈍化) |
+| OpenAI agrees with Dept. of War | 1348pts | 1350pts | +2 (停止寸前) |
+| Obsidian Sync headless | 423pts | **433pts** | +10 (最高値更新) |
+| 747s and Coding Agents | 138pts | 140pts | +2 (鈍化) |
+
+### 🚀 最大シグナル: Microgpt by Karpathy が再加速 (288→393pts, +105)
+
+13:30に続いて**さらに+105pts**。欧米昼間のピークをまだ超えていない。
+- 2時間前の09:30時点から288→393ptsへ: 105pt増は今日の単時間最大増加を更新
+- 400pts到達が目前。500pts越えでHN歴史的シグナル水準に到達する可能性
+- Karpathyのminimal LLM実装への共鳴は「理解可能性」テーマの最高峰事例
+
+### 🎯 マイルストーン: Anthropic supply chain risk が400pts突破 (357→408pts, +51)
+
+本日のシグナルで最初に400ptsを突破。OpenAI由来ツイートがこのスコアに達するのは異例。
+- **規制リスク**がHN技術者コミュニティに完全に定着した証拠
+- Anthropic Claude APIへの依存=政策リスクという認識がグローバル水準に
+
+### 📊 今時間の全体像
+
+| シグナル | 重要度 | 備考 |
+|---------|--------|------|
+| Microgpt by Karpathy (393pts) | 🔴 HIGH | 2時間連続爆発+105、まだ加速中 |
+| Anthropic supply chain risk (408pts) | 🔴 HIGH | 400pt突破、欧米昼間で更に成長 |
+| Obsidian Sync headless (433pts) | 🟡 MEDIUM | 全体トップ4、最高値更新 |
+| MCP Context 98%削減 (292pts) | 🟡 MEDIUM | 300pt目前、着実成長 |
+| Qwen3.5 Sonnet 4.5相当 (286pts) | 🟡 MEDIUM | 高水準安定維持 |
+| Addressing Antigravity Bans/Gemini CLI (220pts) | 🟡 MEDIUM | 181コメント、根深い怒り継続 |
+
+### 🆕 Top全体からの追加シグナル (14:30)
+
+**[396pts, 205comments] The happiest I've ever been**
+- 非技術記事がTop3入り。エンジニアのウェルビーイング・仕事満足度の議論が盛ん。205コメントはAI記事を超える関心。
+
+**[220pts, 181comments] Addressing Antigravity Bans (Gemini CLI)**
+- 181コメントは依然最多水準。CLIツールポリシー問題への怒りが根強く継続。
+
+### 🔍 Claude/Anthropic関連 (14:30)
+
+1. **Anthropic supply chain risk 408pts**: 400pts突破。「Anthropic依存=政策リスク」が技術者コンセンサスに
+2. **MCP Context 98%削減 292pts**: 300pt到達間近。Claude Code + MCP最適化の重要実践知識として完全確立
+3. **Microgpt by Karpathy 393pts**: AnthropicのライバルとなるOSS LLM理解可能性研究が今日最大の爆発シグナル
+
+### 🤖 Falcon Platform関連シグナル (14:30更新)
+
+1. **Microgpt再爆発 (393pts)** → infra-agent-llm: Karpathyのminimal実装をコードレベルで読み解く価値が確定。Qwen2.5-3B選択の教育的根拠として活用
+2. **Anthropic 400pt突破** → APIフォールバック設計の優先度を「最高」に引き上げ。Fuyajoベンダー非依存アーキテクチャは今日のHN最大リスク確認事項
+3. **Gemini CLI Bans 181コメント継続** → Claude Code代替需要の背景として確定。「ポリシー透明性」がCLI開発者の最大関心
+
+### 💡 14:30 総括
+
+**Microgpt by Karpathy が2時間連続爆発（+119→+105pts）**で今日のHN最大シグナルに確定。13:30時点での「欧米昼間でピークか」という見立てを覆し、さらに加速している。Anthropic supply chain risk の400pts突破と合わせ、本日の主要テーマは「AI理解可能性（Karpathy）× AI規制リスク（Anthropic規制）× AI実用懐疑（Gary Marcus/Don't trust agents）」の三角形に収斂している。OpenAI関連シグナルは全て鈍化・停止フェーズに入り、今日の議論はより構造的・長期的なAIの問題へと移行している。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 13:30 JST
 
 ### 🔥 スコア変動 (12:30→13:30比較)
