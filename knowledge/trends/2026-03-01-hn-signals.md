@@ -2,6 +2,75 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 09:30 JST
+
+### 🔥 スコア変動 (07:30→09:30比較)
+
+| タイトル | 07:30 | 09:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1309pts | 1328pts | +19 |
+| **Don't trust AI agents** | **293pts** | **300pts** | **+7 (300pt到達!)** |
+| OpenAI Fires Employee | 251pts | 264pts | +13 |
+| **Stop Burning Context Window (MCP)** | **170pts** | **206pts** | **+36** ↑急増 |
+| **Qwen3.5 Sonnet 4.5相当** | **74pts** | **162pts** | **+88** ↑爆発 |
+| 747s and Coding Agents | 109pts | 117pts | +8 |
+| The Future of AI | 102pts | 113pts | +11 |
+| **Obsidian Sync headless** | **309pts** | **361pts** | **+52** ↑継続急増 |
+
+### 🆕 最大新規シグナル: Claude が米 App Store 総合1位
+
+**[134pts, 33comments] Claude surpasses ChatGPT to become the #1 app on the US App Store**
+- URL: https://apps.apple.com/us/iphone/charts
+- by: byincugnito
+- 分析: **Anthropic直撃の最大ポジティブシグナル。** ChatGPTを抜いてClaudeが米App Store総合1位。Falcon Platformが依存するAPIプロバイダーの市場支配力が急伸している。Claude APIへの需要増加が予想される一方、APIクォータ制約のリスクも。
+
+### 📈 急上昇: Qwen3.5 爆発 (74→162pts, +88)
+
+前回から2時間で2倍以上に急増。朝の欧米エンジニアタイムに完全に火がついた。
+- **infra-agent-llm直撃**: Qwen3.5 35BがSonnet 4.5相当性能をローカル実現
+- Qwen2.5-3B（現計画）からQwen3.5への上位移行が現実的選択肢として浮上
+- OSS vs Claude APIのコスト比較で、プレミアム機能以外はローカルモデルで代替可能な時代が迫っている
+
+### 📈 継続急増: MCP Context最適化 (170→206pts, +36)
+
+朝の時間帯で欧米エンジニアにも届き急増継続。7時間で20pts→206ptsの10倍超成長。
+- Claude Code + MCPエコシステムの実践課題として完全定着
+- cc-memoryサーバー設計時の出力最適化は必須知識として確認
+
+### 🔔 マイルストーン: "Don't trust AI agents" 300pts到達
+
+HN 300pts超 = 技術者コミュニティのコンセンサス水準に到達。AIエージェントセキュリティ不信が「主流の懸念事項」として確定。
+
+### 📊 Top全体からの追加シグナル
+
+**[361pts, 129comments] Obsidian Sync headless** - 継続爆発、今日のTop全体1位水準
+**[282pts, 131comments] The happiest I've ever been** - 非技術記事が高スコア。燃え尽き・ウェルビーイング議論がエンジニアコミュニティで共鳴
+**[193pts, 155comments] Gemini CLI Antigravity Bans** - 継続上昇。Gemini CLIポリシー問題の根深さ
+
+### 🔍 Claude/Anthropic関連
+
+1. **Claude US App Store #1 (134pts)**: ネガティブ続きのAI界隈で明確なポジティブシグナル。Anthropicのコンシューマー市場での台頭が技術者コミュニティでも注目されている
+2. **Anthropic supply chain risk反対声明 (108pts)**: OpenAIによる擁護声明。政策リスクの主要注目点として定着
+3. **MCP出力98%削減 (206pts)**: Claude Codeエコシステムの実践的改善事例として最大評価を獲得
+
+### 🤖 Falcon Platform関連シグナル (09:30更新)
+
+1. **Claude #1 App Store** → 依存APIプロバイダーの競争優位が確認。同時にAPI需要急増によるクォータリスクに注意
+2. **Qwen3.5爆発 (162pts)** → infra-agent-llm: Qwen3.5 35Bへのスケールアップを本格検討段階に格上げ
+3. **Obsidian headless 361pts** → 「エージェント + 永続ナレッジ」の市場需要が今日最大シグナルとして確定
+4. **Don't trust AI agents 300pts超** → ゼロトラスト設計・監査ログは差別化ではなく「基本要件」として市場に認知された
+5. **MCP最適化 206pts** → Fuyajoのエージェント基盤でMCPを採用する際の設計品質基準が明確化
+
+### 💡 09:30 総括
+
+**Claude US App Store #1** という朝一番のサプライズポジティブシグナルが今時間の最大ニュース。一日中OpenAIネガティブが続いたHNで、Anthropicへの評価が反転上昇している。**Qwen3.5の爆発的注目増加（+88pts）**はinfra-agent-llmプロジェクトにとって直接的な技術インプット。ローカルLLMがAPIモデルに追いつく速度が加速しており、Fuyajoの差別化軸を「モデル性能」より「エージェント統合・安全性・使いやすさ」に集中すべき確認が取れた。
+
+---
+
+
+
+## HN Signals Update
+
 Fetched: 2026-03-01 07:30 JST
 
 ### 🔥 スコア変動 (06:30→07:30比較)
