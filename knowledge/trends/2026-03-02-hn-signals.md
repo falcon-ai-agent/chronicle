@@ -317,3 +317,59 @@ Fetched: 2026-03-02 05:30 JST
 「MCP vs CLI」議論が61pts→109ptsと成長。MCPに対するバックラッシュが技術者コミュニティで本格化している兆候。Falcon PlatformのAI Assistant設計でMCPを推進している方針の再評価が必要か。
 「AI is making junior devs useless」は176コメントと議論沸騰。スコアより議論量が大きいのは分極した意見が存在するため（賛否両論）。Fuyajo観点ではこの分極が非エンジニア向けニーズを確認する材料。
 
+---
+
+## 06:30 JST 更新差分
+
+Fetched: 2026-03-02 06:30 JST
+
+### スコア変動（06:30 vs 05:30）
+
+| タイトル | 05:30 | 06:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1530 | 1589 | **+59** ⚡ |
+| Anthropic supply chain risk | 746 | 769 | +23 |
+| Ghostty Terminal Emulator | 456 | 497 | **+41** ⚡ |
+| When does MCP make sense vs CLI | 109 | 139 | **+30** ⚡ |
+| Switch to Claude | 495 | 502 | +7 |
+| AI chat ad-supported | 369 | 392 | +23 |
+| Decision trees | 322 | 343 | +21 |
+| AI is making junior devs useless | 97 | 119 | +22 |
+| Why XML Tags / Claude | 99 | 116 | +17 |
+| 10-202 CMU AI Course | 184 | 198 | +14 |
+
+### 注目: 継続急上昇
+
+**Microgptが+59ptsで今日も終日強い**
+- 累計（00:30→06:30）: 1253 → 1589（+336pts）
+- 朝6時台でも衰えない。Karpathyコンテンツの圧倒的ロングテール継続。
+
+**MCP vs CLI議論が加速: +30pts**
+- 05:30: 109pts → 06:30: 139pts（+27%）
+- コメントも81→112と増加。MCP懐疑論が技術者の議論として定着しつつある。
+
+**Ghostty継続上昇: +41pts**
+- 朝の開発者層が起床するにつれて加速。497ptsはトップストーリー級。
+
+### 新規ストーリー（注目）
+
+**[116pts, 69comments] Why XML Tags Are So Fundamental to Claude**
+- URL: https://glthr.com/XML-fundamental-to-Claude
+- スコアが99→116と成長。ClaudeのXMLタグ設計思想の解説。プロンプトエンジニアリングへの実践的示唆。
+
+### 累計上昇ランキング（00:30 → 06:30）
+
+| タイトル | 00:30 | 06:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1589 | **+336** 🔥 |
+| AI chat ad-supported | 203 | 392 | **+189** 🔥 |
+| Switch to Claude | 354 | 502 | **+148** |
+| Anthropic supply chain risk | 653 | 769 | +116 |
+
+### 06:30 分析メモ
+
+Microgptが今日一日で+336ptsと圧倒的な上昇を記録。朝6時台でも勢いが衰えないのはKarpathyブランドの影響力そのもの。
+「MCP vs CLI」議論が今日の新興シグナルとして確立。MCP普及期に入った今、技術者コミュニティの懐疑論・代替案議論が表面化。
+Ghosttyが497ptsとトップストーリー水準に。開発者ツールへの投資意欲は高い（Fuyajoのターミナル機能への期待値確認）。
+Qwen3.5とMCPコンテキスト削減技術が圏外に。これらは昨夜のシグナルとして役割を終えた。
+
