@@ -1427,3 +1427,56 @@ Fetched: 2026-03-01 21:30 JST
 ### 💡 22:30 総括
 
 **Switch to Claudeが+52pts加速**が本時間の最大シグナル。ChatGPT→Claude乗り換えツールへの関心が前時間比で加速していることは、Anthropicの成長戦略が機能している証拠。Microgptは+97ptsで1118ptに達し、OpenAI×国防総省との差を縮めている。Qwen3.5がSonnet 4.5相当の性能をローカルで実現したことは、クローズドモデル依存を減らすFuyajoのインフラ戦略に直接的な追い風。
+
+---
+
+## HN Signals 23:30 JST
+
+### 📊 スコア更新 (23:30)
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|----------|--------|
+| OpenAI × 国防総省 classified network | **1372pts** | 636 | 🔴 HIGH |
+| Microgpt (Karpathy) | **1190pts** | 211 | 🔴 HIGH |
+| Qwen3.5 Sonnet 4.5性能のローカルモデル | **415pts** | 229 | 🔴 HIGH |
+| MCP context削減98% | **459pts** | 92 | 🔴 HIGH |
+| Switch to Claude (memory import) | **307pts** | 156 | 🟡 MEDIUM |
+| Anthropic supply chain risk (OpenAI発言) | **635pts** | 339 | 🔴 HIGH |
+| 747s and coding agents | 159pts | 82 | 🟡 MEDIUM |
+| AI ad-supported chat demo | 168pts | 95 | 🟡 MEDIUM |
+
+### 🔴 最重要シグナル (23:30)
+
+**1. OpenAI × 米国防総省 (1372pts, 636comments)**
+- URL: https://twitter.com/sama/status/2027578652477821175
+- OpenAIが機密ネットワークへのモデルデプロイに合意。Altman自らアナウンス
+- HN 636コメントと最多。技術者の反発・懸念が集まっている可能性
+- 「AIの軍事利用」という倫理問題が最大の火種。Anthropicとの方向性の違いが鮮明
+
+**2. Anthropic supply chain risk (635pts, 339comments)**
+- URL: https://twitter.com/OpenAI/status/2027846016423321831
+- OpenAIが「Anthropicをsupply chain riskに指定すべきではない」と発言
+- 競合他社がAnthropicを擁護？→ 政治的文脈で米国政府への対Anthropic工作への対抗策か
+- Falcon Platformの主要モデルがAnthropicである以上、規制リスクとして注視必要
+
+**3. MCP context削減98% (459pts, 92comments)**
+- URL: https://mksg.lu/blog/context-mode
+- Claude Code向けMCPサーバーでコンテキスト消費を98%削減
+- 実用的なClaude Code最適化ツール。Falcon Platform AI Assistantへの応用価値高い
+
+### 🔍 Claude/Anthropic関連 (23:30)
+
+- **Anthropic supply chain risk 635pts**: 前時間比+25pts。OpenAI vs 米政府の地政学的争いでAnthropicが巻き込まれている構図
+- **MCP context削減 459pts**: +19pts継続成長。実用ツールとして定着
+- **Switch to Claude 307pts**: +53pts。memory import機能の注目継続
+
+### 🤖 Falcon Platform関連シグナル (23:30更新)
+
+1. **MCP context 98%削減** → Claude Codeの実用性向上。Fuyajoの AI Assistant機能に直接応用可能
+2. **Qwen3.5 415pts** → ローカルLLM + Sonnet 4.5相当性能が定着。Infra Agent LLMプロジェクトへの追い風
+3. **OpenAI × 国防総省** → AIの軍事利用への懸念増大。Anthropicとの差別化（安全重視）がポジティブに作用する可能性
+4. **Switch to Claude 307pts** → ChatGPT→Claude乗り換え需要継続。Falcon Platform がClaude前提の正当性確認
+
+### 💡 23:30 総括
+
+**OpenAI × 国防総省合意が1372pts到達**。Microgpt (1190pts)を超えて本日最大シグナル。「AIの軍事化」という議論が技術者コミュニティで最大の関心事になっている。Anthropicが安全・倫理を重視するスタンスを取り続けることで、Falcon PlatformのClaude依存は長期的にはポジティブな差別化要素となりうる。Qwen3.5のローカル高性能化はオープンソースLLM活用路線（Infra Agent LLM）を加速させる好材料。
