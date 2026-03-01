@@ -2,6 +2,68 @@
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 10:30 JST
+
+### 🔥 スコア変動 (08:30→10:30比較)
+
+| タイトル | 08:30 | 10:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1320pts | 1337pts | +17 (安定鈍化) |
+| Don't trust AI agents | 295pts | **304pts** | **+9** ✅ **300超え達成** |
+| OpenAI Fires Employee | 264pts | 266pts | +2 (プラトー) |
+| **Qwen3.5 Sonnet 4.5相当** | **129pts** | **200pts** | **+71** ↑爆発継続 |
+| MCP Context 98%削減 | 188pts | 222pts | **+34** ↑継続成長 |
+| A Chinese official's use of ChatGPT | 245pts | 246pts | +1 (完全鈍化) |
+| Obsidian Sync headless | 352pts | 378pts | **+26** ↑トップ継続 |
+| VSDD | 131pts | 141pts | +10 |
+| Gemini CLI Bans | 199pts | 199pts | 変化なし |
+| We do not think Anthropic should be supply chain risk | 195pts | 195pts | 変化なし |
+| **Cognitive Debt** | 366pts | **圏外** | ピークアウト確認 |
+| **The whole thing was a scam** | 圏外 | 圏外 | ピークアウト継続 |
+
+### 📈 最大シグナル: Qwen3.5 が 15→200pts (13倍成長・4時間)
+
+06:30(15pts) → 07:30(74pts) → 08:30(129pts) → **10:30(200pts)**
+4時間で13倍の成長。VentureBeat記事が欧米エンジニアの朝に完全に到達。
+
+- **infra-agent-llm最重要シグナル**: Qwen3.5 35B がローカルで Sonnet 4.5 相当
+- 200pts突破でHN本流シグナルに格上げ
+- ローカルLLMによるAnthropicフラグシップ代替の議論が本格化
+
+### ✅ マイルストーン: "Don't trust AI agents" が300pts突破
+
+295→304pts。「AIエージェントを信頼するな」というシグナルが300pts の心理的閾値を超え、長期定着トレンドとして完全確認された。
+
+### 📈 継続成長: MCP Context 98%削減 (188→222pts, +34)
+
+00:30(20pts) → 10:30(222pts)の10時間で11倍成長。グローバルなClaude CodeユーザーのMCP課題認識が定着。
+
+### 📊 ピークアウト確認
+
+- **Cognitive Debt** (366pts peak) → 圏外へ。AI開発の理解可能性問題への関心は定着したが、記事自体は一過性
+- **"The whole thing was a scam"** (336pts peak) → 圏外継続
+
+### 🔍 Claude/Anthropic関連
+
+1. **MCP Context 98%削減 (222pts)**: 11倍成長で完全定着。Claude Code + MCP設計のデファクト参照記事に
+2. **Qwen3.5 Sonnet 4.5相当 (200pts)**: Anthropicフラグシップとの性能競合が主流トレンドに。Claude Codeの差別化（ツール統合・安全性・UX）が一層重要
+3. **Anthropicサプライチェーンリスク (195pts)**: スコア変化なし。議論が落ち着いてきた
+
+### 🤖 Falcon Platform関連シグナル (10:30更新)
+
+1. **Qwen3.5 200pts爆発** → infra-agent-llm: Qwen3.5 35Bをプロジェクト最優先モデルに確定。Qwen2.5-3Bからのスケールアップ検討を即開始
+2. **Don't trust AI agents 300pts超え** → ゼロトラスト×監査ログは「市場が証明した要件」として設計に組み込む
+3. **Obsidian headless 378pts (トップ継続)** → headlessナレッジ同期の需要は本物。エージェント統合型ナレッジ基盤の市場検証完了
+4. **MCP最適化 222pts** → Fuyajo AI Assistantのコンテキスト効率化を優先実装課題に
+
+### 💡 10:30 総括
+
+**Qwen3.5の13倍成長（15→200pts）**が本セッションの最大シグナル。ローカルLLMがAnthropicフラグシップ相当の性能に達したという事実は、クラウドLLM依存からの移行を加速させる可能性がある。Cognitive Debtと"The whole thing was a scam"のピークアウトにより、AI懐疑論の一波は収まった。代わりに**実用ツール（Obsidian headless, MCP最適化）への評価**が引き続き高水準を維持しており、「批判より実用」へのシフトが続いている。"Don't trust AI agents"の300pts突破はセキュリティ設計に関する市場要求の確定を意味する。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 09:30 JST
 
 ### 🔥 スコア変動 (07:30→09:30比較)
@@ -20,7 +82,6 @@ Fetched: 2026-03-01 09:30 JST
 ### 🆕 最大新規シグナル: Claude が米 App Store 総合1位
 
 **[134pts, 33comments] Claude surpasses ChatGPT to become the #1 app on the US App Store**
-- URL: https://apps.apple.com/us/iphone/charts
 - by: byincugnito
 - 分析: **Anthropic直撃の最大ポジティブシグナル。** ChatGPTを抜いてClaudeが米App Store総合1位。Falcon Platformが依存するAPIプロバイダーの市場支配力が急伸している。Claude APIへの需要増加が予想される一方、APIクォータ制約のリスクも。
 
@@ -29,41 +90,23 @@ Fetched: 2026-03-01 09:30 JST
 前回から2時間で2倍以上に急増。朝の欧米エンジニアタイムに完全に火がついた。
 - **infra-agent-llm直撃**: Qwen3.5 35BがSonnet 4.5相当性能をローカル実現
 - Qwen2.5-3B（現計画）からQwen3.5への上位移行が現実的選択肢として浮上
-- OSS vs Claude APIのコスト比較で、プレミアム機能以外はローカルモデルで代替可能な時代が迫っている
 
 ### 📈 継続急増: MCP Context最適化 (170→206pts, +36)
 
 朝の時間帯で欧米エンジニアにも届き急増継続。7時間で20pts→206ptsの10倍超成長。
-- Claude Code + MCPエコシステムの実践課題として完全定着
-- cc-memoryサーバー設計時の出力最適化は必須知識として確認
 
 ### 🔔 マイルストーン: "Don't trust AI agents" 300pts到達
 
 HN 300pts超 = 技術者コミュニティのコンセンサス水準に到達。AIエージェントセキュリティ不信が「主流の懸念事項」として確定。
 
-### 📊 Top全体からの追加シグナル
-
-**[361pts, 129comments] Obsidian Sync headless** - 継続爆発、今日のTop全体1位水準
-**[282pts, 131comments] The happiest I've ever been** - 非技術記事が高スコア。燃え尽き・ウェルビーイング議論がエンジニアコミュニティで共鳴
-**[193pts, 155comments] Gemini CLI Antigravity Bans** - 継続上昇。Gemini CLIポリシー問題の根深さ
-
 ### 🔍 Claude/Anthropic関連
 
-1. **Claude US App Store #1 (134pts)**: ネガティブ続きのAI界隈で明確なポジティブシグナル。Anthropicのコンシューマー市場での台頭が技術者コミュニティでも注目されている
-2. **Anthropic supply chain risk反対声明 (108pts)**: OpenAIによる擁護声明。政策リスクの主要注目点として定着
-3. **MCP出力98%削減 (206pts)**: Claude Codeエコシステムの実践的改善事例として最大評価を獲得
-
-### 🤖 Falcon Platform関連シグナル (09:30更新)
-
-1. **Claude #1 App Store** → 依存APIプロバイダーの競争優位が確認。同時にAPI需要急増によるクォータリスクに注意
-2. **Qwen3.5爆発 (162pts)** → infra-agent-llm: Qwen3.5 35Bへのスケールアップを本格検討段階に格上げ
-3. **Obsidian headless 361pts** → 「エージェント + 永続ナレッジ」の市場需要が今日最大シグナルとして確定
-4. **Don't trust AI agents 300pts超** → ゼロトラスト設計・監査ログは差別化ではなく「基本要件」として市場に認知された
-5. **MCP最適化 206pts** → Fuyajoのエージェント基盤でMCPを採用する際の設計品質基準が明確化
+1. **Claude US App Store #1 (134pts)**: ネガティブ続きのAI界隈で明確なポジティブシグナル
+2. **MCP出力98%削減 (206pts)**: Claude Codeエコシステムの実践的改善事例として最大評価を獲得
 
 ### 💡 09:30 総括
 
-**Claude US App Store #1** という朝一番のサプライズポジティブシグナルが今時間の最大ニュース。一日中OpenAIネガティブが続いたHNで、Anthropicへの評価が反転上昇している。**Qwen3.5の爆発的注目増加（+88pts）**はinfra-agent-llmプロジェクトにとって直接的な技術インプット。ローカルLLMがAPIモデルに追いつく速度が加速しており、Fuyajoの差別化軸を「モデル性能」より「エージェント統合・安全性・使いやすさ」に集中すべき確認が取れた。
+**Claude US App Store #1** という朝一番のサプライズポジティブシグナルが今時間の最大ニュース。**Qwen3.5の爆発的注目増加（+88pts）**はinfra-agent-llmプロジェクトにとって直接的な技術インプット。ローカルLLMがAPIモデルに追いつく速度が加速しており、Fuyajoの差別化軸を「モデル性能」より「エージェント統合・安全性・使いやすさ」に集中すべき確認が取れた。
 
 ---
 
