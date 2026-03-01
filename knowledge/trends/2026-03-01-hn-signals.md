@@ -71,6 +71,76 @@ Fetched: 2026-03-01 12:30 JST
 
 ## HN Signals Update
 
+Fetched: 2026-03-01 11:30 JST
+
+### 🔥 スコア変動 (09:30→11:30比較)
+
+| タイトル | 09:30 | 11:30 | 変化 |
+|---------|-------|-------|------|
+| OpenAI agrees with Dept. of War | 1328pts | 1341pts | +13 (鈍化) |
+| **Obsidian Sync headless** | **361pts** | **396pts** | **+35** ↑継続 |
+| Don't trust AI agents | 300pts | 307pts | +7 |
+| **Qwen3.5 Sonnet 4.5相当** | **162pts** | **227pts** | **+65** ↑急増継続 |
+| **MCP Context 98%削減** | **206pts** | **238pts** | **+32** ↑継続 |
+| OpenAI Fires Employee | 264pts | 268pts | +4 (鈍化) |
+| Anthropic supply chain risk反対 | 108pts | 271pts | **+163** ↑急増 |
+| Smallest transformer 10-digit | (前回圏外) | 230pts | 安定 |
+| Woxi (Rust Mathematica) | (222pts前回) | 251pts | +29 ↑継続 |
+| Gemini CLI Bans | 193pts | 201pts | +8 |
+| VSDD | 131pts | 149pts | +18 ↑継続 |
+
+### 🆕 最大新規シグナル: Karpathy が "microgpt" 発表
+
+**[25-37pts, 急上昇中] Microgpt**
+- URL: http://karpathy.github.io/2026/02/12/microgpt/
+- by: tambourine_man
+- 分析: **Andrej Karpathy（元OpenAI、Tesla AI）が "microgpt" を発表。** HNでのスコアは現時点では低いが、Karpathyの影響力（LLM実装でのgithub.com/karpathy/nanoGPT実績）から今後急増が見込まれる。LLMの最小実装・教育的アプローチへの注目。infra-agent-llmプロジェクトの設計参考として**要精読**。
+
+### 📈 急上昇: Anthropic supply chain risk 反対声明 (108→271pts, +163)
+
+**2時間で2.5倍に急増。** 今日の朝一(07:30)では11ptsだったものが271ptsまで成長。
+- OpenAIがAnthropicの「サプライチェーンリスク」指定に反対する声明
+- 米国政府のAI規制をめぐる業界の複雑な動き
+- **Falcon Platformの依存先（Anthropic Claude API）の政策リスク**として引き続き注視
+
+### 📈 継続急増: Qwen3.5 (162→227pts, +65)
+
+06:30(15pts) → 07:30(74pts) → 08:30(129pts) → 09:30(162pts) → **11:30(227pts)**
+- 5時間で15倍成長、まだ加速中
+- infra-agent-llm: Qwen3.5 35Bへのスケールアップが最優先課題として完全確定
+
+### 📊 Top全体からの追加シグナル (11:30)
+
+**[396pts, 143comments] Obsidian Sync headless** - 今日最高値更新。エージェント×永続ナレッジの需要が全体1位水準継続
+**[333pts, 153comments] The happiest I've ever been** - 非技術記事がTop5。エンジニアのウェルビーイング議論
+**[251pts, 104comments] Woxi (Rust Mathematica)** - 数値計算ツールOSS化の継続的評価
+**[201pts, 172comments] Gemini CLI Antigravity Bans** - 根深い問題として継続評価（172コメント）
+**[149pts, 71comments] VSDD** - 仕様駆動開発の評価継続
+**[143pts, 62comments] Block macOS Tahoe alerts** - 実用的ユーティリティが高評価（UXへの需要）
+**[141pts, 85comments] Windows 95 UI Case Study (1996)** - 古典的UX研究が再注目。「使いやすさ」の原則回帰
+
+### 🔍 Claude/Anthropic関連 (11:30)
+
+1. **Anthropic supply chain risk反対 (271pts大幅急増)**: 政策リスクとしてHNコミュニティに完全定着。OpenAI-Anthropic連帯の奇妙な構図が注目を集め続けている
+2. **MCP Context 98%削減 (238pts)**: 全日を通じて安定成長。Claude Code+MCPエコシステムの最重要実践知識として確定
+3. **Qwen3.5 Sonnet 4.5相当 (227pts)**: AnthropicモデルとのOSS比較が完全に主流議題に
+
+### 🤖 Falcon Platform関連シグナル (11:30更新)
+
+1. **Karpathy microgpt発表** → LLMの教育的最小実装。infra-agent-llmのアーキテクチャ参考として精読必須
+2. **Obsidian headless 396pts** → エージェント×永続ナレッジがHN最高評価ゾーンで定着。Fuyajo設計の核心的価値観が市場から検証された
+3. **Qwen3.5急増継続 (227pts)** → ローカルLLMがAnthropicフラグシップ代替の現実的選択肢として完全定着
+4. **Windows 95 UX Case Study急浮上 (141pts)** → 「使いやすさ」原則の再評価。Fuyajoのノーコード/UX設計に適用すべき古典的知見
+5. **Gemini CLI Bans 172コメント** → CLIツールポリシー問題の根深さ。Claude Code代替への需要の背景
+
+### 💡 11:30 総括
+
+**Karpathy的microgptの登場**が今時間の最大サプライズシグナル。影響力最大級の研究者がLLM最小実装を公開したことで、infra-agent-llmプロジェクトの設計思想との接点が生まれた。**Qwen3.5が227ptsまで急増継続**し、今日のAI技術議論の中心テーマとして確立。**Anthropic supply chain risk反対声明が108→271ptsに急増**したのも注目点で、OpenAI-Anthropic関係の複雑な政策的力学が技術者コミュニティに引き続き注目されている。全体として「AI懐疑論 → 実用ツール評価 → ローカルLLM台頭」という今日一日のナレティブが11:30時点でも継続中。
+
+---
+
+## HN Signals Update
+
 Fetched: 2026-03-01 10:30 JST
 
 ### 🔥 スコア変動 (08:30→10:30比較)
@@ -115,19 +185,19 @@ Fetched: 2026-03-01 10:30 JST
 ### 🔍 Claude/Anthropic関連
 
 1. **MCP Context 98%削減 (222pts)**: 11倍成長で完全定着。Claude Code + MCP設計のデファクト参照記事に
-2. **Qwen3.5 Sonnet 4.5相当 (200pts)**: Anthropicフラグシップとの性能競合が主流トレンドに。Claude Codeの差別化（ツール統合・安全性・UX）が一層重要
+2. **Qwen3.5 Sonnet 4.5相当 (200pts)**: Anthropicフラグシップとの性能競合が主流トレンドに
 3. **Anthropicサプライチェーンリスク (195pts)**: スコア変化なし。議論が落ち着いてきた
 
 ### 🤖 Falcon Platform関連シグナル (10:30更新)
 
-1. **Qwen3.5 200pts爆発** → infra-agent-llm: Qwen3.5 35Bをプロジェクト最優先モデルに確定。Qwen2.5-3Bからのスケールアップ検討を即開始
+1. **Qwen3.5 200pts爆発** → infra-agent-llm: Qwen3.5 35Bをプロジェクト最優先モデルに確定
 2. **Don't trust AI agents 300pts超え** → ゼロトラスト×監査ログは「市場が証明した要件」として設計に組み込む
-3. **Obsidian headless 378pts (トップ継続)** → headlessナレッジ同期の需要は本物。エージェント統合型ナレッジ基盤の市場検証完了
+3. **Obsidian headless 378pts (トップ継続)** → headlessナレッジ同期の需要は本物
 4. **MCP最適化 222pts** → Fuyajo AI Assistantのコンテキスト効率化を優先実装課題に
 
 ### 💡 10:30 総括
 
-**Qwen3.5の13倍成長（15→200pts）**が本セッションの最大シグナル。ローカルLLMがAnthropicフラグシップ相当の性能に達したという事実は、クラウドLLM依存からの移行を加速させる可能性がある。Cognitive Debtと"The whole thing was a scam"のピークアウトにより、AI懐疑論の一波は収まった。代わりに**実用ツール（Obsidian headless, MCP最適化）への評価**が引き続き高水準を維持しており、「批判より実用」へのシフトが続いている。"Don't trust AI agents"の300pts突破はセキュリティ設計に関する市場要求の確定を意味する。
+**Qwen3.5の13倍成長（15→200pts）**が本セッションの最大シグナル。ローカルLLMがAnthropicフラグシップ相当の性能に達したという事実は、クラウドLLM依存からの移行を加速させる可能性がある。Cognitive Debtと"The whole thing was a scam"のピークアウトにより、AI懐疑論の一波は収まった。代わりに**実用ツール（Obsidian headless, MCP最適化）への評価**が引き続き高水準を維持しており、「批判より実用」へのシフトが続いている。
 
 ---
 
