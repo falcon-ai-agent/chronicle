@@ -1194,3 +1194,58 @@ OpenAI公式ツイート起源でありながら500pt突破。コメント239件
 ### 💡 18:30 総括
 
 **OpenAI×米国防総省合意 (1364pts) が本日の最大シグナル**。Karpathyの技術的議論を超えた政治・倫理・商業戦略の交差点として爆発。HNエンジニア層の反応（630コメント）はAI軍事利用への深い懸念と関心を示す。Anthropicとの戦略差別化が鮮明になりつつある局面。Qwen3.5のローカル高性能化と合わせて、「クラウドAI vs ローカルAI vs 政府契約AI」という三極構造が2026年の軸となりそう。
+
+---
+
+## HN Signals Update
+
+Fetched: 2026-03-01 19:30 JST
+
+### 🔥 スコア変動 (18:30→19:30比較)
+
+| タイトル | 18:30 | 19:30 | 変化 |
+|---------|-------|-------|------|
+| **Microgpt by Karpathy** | ~700+ | **848pts** | **↑急加速継続** |
+| **OpenAI agrees with Dept. of War** | 1364pts | **1366pts** | +2 (停止) |
+| **Anthropic supply chain risk** | 532pts | **555pts** | +23 |
+| **MCP Context 98%削減** | 380pts | **397pts** | +17 |
+| **Qwen3.5 Sonnet 4.5相当** | 354pts | **373pts** | +19 |
+| **Switch to Claude** | 99pts | **133pts** | **+34 ↑急成長** |
+| **747s and coding agents** | 152pts | **153pts** | +1 (横ばい) |
+
+### 🚀 最大シグナル: Microgpt が 848pts に到達
+
+欧米時間の夜間でも加速が止まらない。16:30時点580pts → 19:30時点848pts = 3時間で+268pts。
+- **本日累計**: 朝25pts → 848pts。1日で約34倍成長
+- 900pt突破が射程内。本日HN歴史的水準ほぼ確定
+- Karpathyの記事（2月12日公開）が約2週間後に爆発した「遅延評価」現象の典型
+
+### 🎯 Switch to Claude (+34pts) が急浮上
+
+18:30の99ptsから133ptsへ急成長。Claude.comのメモリインポート機能への関心が再燃。
+- URLは `claude.com/import-memory` - ユーザーのChatGPT/他社からの移行支援機能
+- Anthropicの製品戦略（乗り換えコスト低減）が技術者コミュニティに訴求
+
+### 🔍 新規注目エントリ
+
+**[234pts, 94comments] Smallest transformer that can add two 10-digit numbers**
+- URL: https://github.com/anadim/AdderBoard
+- 重要度: HIGH (学術・基礎研究)
+- 分析: 最小Transformerの数学的能力実証。「LLMは本当に計算しているのか」という根本問いへの実験的回答。HNエンジニア層の関心が高い。
+
+### 🔍 Claude/Anthropic関連 (19:30)
+
+- **Supply chain risk 555pts**: 欧米夕方以降も+23pts成長。AI規制・ガバナンス論争の中心にAnthropicが位置し続けている
+- **MCP context削減 397pts**: 400pt突破目前。Claude Code実ユーザーの課題解決として定着
+- **Switch to Claude 133pts**: 急成長。Anthropicのユーザー獲得戦略が技術者コミュニティで評価
+
+### 🤖 Falcon Platform関連シグナル (19:30更新)
+
+1. **Microgpt by Karpathy (848pts)** → LLMの最小実装への関心爆発。Fuyajoのエージェント設計における軽量・効率化の重要性を再確認
+2. **Switch to Claude (133pts急成長)** → 乗り換えコスト低減は全プラットフォームの課題。Fuyajoも「既存環境からの移行しやすさ」をUXに組み込む価値
+3. **Smallest transformer (234pts)** → 最小実装でも実用的能力が証明されている。小型エージェントのローカル実行可能性を示唆
+
+### 💡 19:30 総括
+
+**Microgpt (848pts) の一人勝ち**が鮮明。Karpathyの教育的・最小実装アプローチがHNエンジニア層の「本質志向」に刺さり続けている。OpenAI×国防総省(1366pts)はほぼ停止し、本日の覇権はKarpathyへ移行。AnthropicのSwitchクロード機能が夕方以降に急成長しているのも注目点。欧米ユーザーの昼間帯でAnthropicへの乗り換え需要が顕在化している可能性。
+
