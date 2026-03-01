@@ -1249,3 +1249,62 @@ Fetched: 2026-03-01 19:30 JST
 
 **Microgpt (848pts) の一人勝ち**が鮮明。Karpathyの教育的・最小実装アプローチがHNエンジニア層の「本質志向」に刺さり続けている。OpenAI×国防総省(1366pts)はほぼ停止し、本日の覇権はKarpathyへ移行。AnthropicのSwitchクロード機能が夕方以降に急成長しているのも注目点。欧米ユーザーの昼間帯でAnthropicへの乗り換え需要が顕在化している可能性。
 
+
+---
+
+## 20:30 JST 更新
+
+Fetched: 2026-03-01 20:30 JST
+
+### 🔥 スコア変動 (19:30→20:30比較)
+
+| タイトル | 19:30 | 20:30 | 変化 |
+|---------|-------|-------|------|
+| **Microgpt by Karpathy** | 848pts | **926pts** | **+78 🎉900pt突破** |
+| **OpenAI agrees with Dept. of War** | 1366pts | **1367pts** | +1 (完全停止) |
+| **Anthropic supply chain risk** | 555pts | **578pts** | +23 |
+| **MCP Context 98%削減** | 397pts | **415pts** | +18 |
+| **Qwen3.5 Sonnet 4.5相当** | 373pts | **379pts** | +6 (鈍化) |
+| **Switch to Claude** | 133pts | **164pts** | **+31 ↑継続成長** |
+| **747s and coding agents** | 153pts | **154pts** | +1 (横ばい) |
+
+### 🚀 最大シグナル: Microgpt が 926pts — 1000pt射程内
+
+- 19:30→20:30の1時間で+78pts。成長が再加速
+- 欧米夜間帯に入りつつあるが失速なし
+- **本日累計**: 朝25pts → 926pts。約37倍成長
+- 1000pt突破は時間の問題。HN歴史的記録を更新中
+
+### 🎯 Switch to Claude (+31pts) が本日2番目の成長率
+
+133pts→164ptsへ継続急成長。コメントも114まで増加。
+- ChatGPTからClaude移行機能が欧米ユーザーの昼間帯で評価継続
+- Anthropicの乗り換え支援戦略が実際にコンバージョンしている証拠
+
+### 🆕 新規エントリ
+
+**[513pts, 260comments] The happiest I've ever been**
+- URL: https://ben-mini.com/2026/the-happiest-ive-ever-been
+- 重要度: LOW (非技術コンテンツ)
+- 分析: 人生・幸福についての個人エッセイ。HNエンジニア層が技術以外の「人間的テーマ」に強く共鳴する週末パターン
+
+**[132pts, 102comments] The Future of AI**
+- URL: https://lucijagregov.com/2026/02/26/the-future-of-ai/
+- 重要度: MEDIUM
+- 分析: AI将来予測系コンテンツ。スコアより議論(102コメント)が活発。エンジニア層が批判的に読んでいる可能性
+
+### 🔍 Claude/Anthropic関連 (20:30)
+
+- **Anthropic supply chain risk 578pts**: 欧米夜間でも+23pt成長継続。AI規制論争のAnthropicポジションへの関心が続く
+- **MCP context削減 415pts**: 400pt突破。Claude Code本番ユーザーの課題解決ツールとして定着確認
+- **Switch to Claude 164pts**: 本日最も急成長中のClaude関連記事
+
+### 🤖 Falcon Platform関連シグナル (20:30更新)
+
+1. **Microgpt (926pts)** → 1000pt目前。「最小・軽量」がHNの最大評価軸として確定
+2. **Switch to Claude (164pts成長中)** → ユーザー乗り換えコスト低減はプラットフォーム設計の核心。Fuyajoにも応用すべき設計思想
+3. **The Future of AI (132pts, 102コメント)** → 将来予測への高コメント率。エンジニア層の未来不確実性への感度が高い
+
+### 💡 20:30 総括
+
+**Microgpt 926pts — 本日のHN完全制覇が確定**。Karpathyの「シンプルで理解できる実装」の教育的価値がHNエンジニア層の核心ニーズに刺さり続けている。1000pt突破は欧米深夜（JST 9時頃）が有力。OpenAI×国防総省(1367pts)は完全に止まり、Karpathyがトップに立つのも時間の問題。Switch to Claude (+31pts)の継続急成長は、Anthropicの乗り換え戦略が欧米市場で機能している証拠として重要。
