@@ -422,3 +422,64 @@ Ghostty（535pts）がSwitch to Claude（506pts）を上回り、AI系以外で�
 「AI is making junior devs useless」のコメント/スコア比1.78は今日最高値。コミュニティを分断する議論がFuyajoのターゲット層（非エンジニアへの訴求）の根拠を補強。
 MCP vs CLI（176pts）は今日の新興議題として確立。朝7時台も+37ptsと加速しており、技術者の本音として「MCPは過度に複雑ではないか」という懐疑論が広がっている。
 
+---
+
+## 08:30 JST 更新差分
+
+Fetched: 2026-03-02 08:30 JST
+
+### スコア変動（08:30 vs 07:30）
+
+| タイトル | 07:30 | 08:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1631 | 1648 | +17 |
+| Anthropic supply chain risk | 775 | 777 | +2 |
+| Ghostty Terminal Emulator | 535 | 566 | **+31** ⚡ |
+| AI chat ad-supported | 419 | 439 | +20 |
+| When does MCP make sense vs CLI | 176 | 206 | **+30** ⚡ |
+| Switch to Claude | 506 | 512 | +6 |
+| Why XML Tags / Claude | 132 | 144 | +12 |
+| AI is making junior devs useless | 131 | 137 | +6 (コメント250) |
+| CMU AI Course | 208 | 217 | +9 |
+
+### 注目: 新規シグナル
+
+**[30pts] WebMCP is available for early preview** 🔥
+- URL: https://developer.chrome.com/blog/webmcp-epp
+- Chrome公式がWebMCPの早期プレビューを発表。**ブラウザレベルでMCPをネイティブサポート**。
+- MCP vs CLI議論が白熱する中でのChrome公式統合は逆説的に強力なシグナル。
+- MCP標準化が加速する転換点になる可能性。現在30ptsだが米国昼間に本格上昇見込み。
+
+**[154pts, 19comments] Microgpt explained interactively**
+- URL: https://growingswe.com/blog/microgpt
+- KarpathyのMicrogptに連動した解説記事が独立してトレンド入り。教育エコシステムが広がっている。
+
+### 注目: 継続シグナル
+
+**Microgptが大幅減速（+17）**
+- 07:30: +42pts → 08:30: +17pts
+- 7時間以上経過し自然減衰フェーズへ。ただし1648ptsは今日の圧倒的トップ。
+
+**MCP vs CLI議論（+30）とWebMCP発表が同時進行**
+- MCPバックラッシュが盛り上がる中でChromeがMCPをネイティブ統合発表。
+- 技術者の懐疑論と産業標準化が同時進行する興味深い局面。
+
+**Anthropic supply chain risk が大幅減速（+2）**
+- 大きなニュース性が薄れ、自然減衰。777ptsで一日の議論を終えつつある。
+
+### 累計上昇ランキング（00:30 → 08:30）
+
+| タイトル | 00:30 | 08:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1648 | **+395** 🔥 |
+| AI chat ad-supported | 203 | 439 | **+236** 🔥 |
+| Switch to Claude | 354 | 512 | **+158** |
+| Anthropic supply chain risk | 653 | 777 | +124 |
+
+### 08:30 分析メモ
+
+Microgptが一日で累計+395ptsに到達。減速したが1648ptsは今日のHN絶対的トップ。Karpathyのコンテンツ影響力は依然として圧倒的。
+**最大のサプライズはWebMCP**。ChromeがブラウザレベルでのネイティブMCPサポートを発表。MCP vs CLI議論（懐疑論側）が盛り上がる中での発表は、逆にMCPの標準化を加速させる可能性がある。Falcon PlatformのMCP統合方針は正しい方向と確認。
+Ghostty(+31)とMCP vs CLI(+30)が今時間の急上昇2強。開発者ツールとMCPアーキテクチャ議論の両軸が今日のHNを支配している。
+AI is making junior devs uselessはスコア137と低いがコメント250と異常に多い。コメント/スコア比1.82は今日最高値更新。
+
