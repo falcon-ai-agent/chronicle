@@ -260,3 +260,60 @@ Ghosttyが1時間で+83ptsと最大急上昇。開発者ツールへの関心が
 AnthropicとPentagonの「キラーロボット」論争がThe Atlanticで報じられた（スコア低いが要注視）。Anthropicの軍事倫理ポジションが今後のブランドイメージに影響する可能性。
 Switch to Claude(+39)とMicrogpt(+63)は朝方でも加速中。
 
+---
+
+## 05:30 JST 更新差分
+
+Fetched: 2026-03-02 05:30 JST
+
+### スコア変動（05:30 vs 04:30）
+
+| タイトル | 04:30 | 05:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1461 | 1530 | **+69** ⚡ |
+| Anthropic supply chain risk | 730 | 746 | +16 |
+| Ghostty Terminal Emulator | 383 | 456 | **+73** ⚡ |
+| Switch to Claude | 468 | 495 | +27 |
+| Qwen3.5 ローカル | 433 | 437 | +4 |
+| AI chat ad-supported | 340 | 369 | +29 |
+| Decision trees | 303 | 322 | +19 |
+| Why XML Tags / Claude | 78 | 99 | +21 |
+| 10-202 CMU AI Course | 175 | 184 | +9 |
+| When does MCP make sense vs CLI | — | 109 | 新規 |
+| AI is making junior devs useless | — | 97 | 新規 |
+
+### 注目: 継続急上昇
+
+**Ghosttyが+73ptsでトップ急上昇**
+- 04:30: 383pts → 05:30: 456pts
+- 朝方の開発者層の起床とともに加速。ターミナルエミュレータへの根強い需要。
+
+**Microgptも+69ptsで依然強い**
+- 累計（00:30→05:30）: 1253 → 1530（+277pts）
+- 5時間後も衰えない。Karpathyコンテンツの圧倒的ロングテール。
+
+### 新規ストーリー
+
+**[109pts, 81comments] When does MCP make sense vs CLI?**
+- URL: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
+- 「MCP is dead, long live the CLI」というタイトル。03:30に61ptsで初登場、05:30で109ptsに上昇。MCPへの懐疑論が技術者間で広がっている。**Falcon Platform戦略への直接示唆**: AI Assistantのインターフェース設計再考が必要か。
+
+**[97pts, 176comments] AI is making junior devs useless**
+- URL: beabetterdev.com
+- スコアは低いが176コメントと議論が非常に活発。「AIがジュニアエンジニアの学習機会を破壊する」論。Fuyajoの非エンジニア向けポジショニングに関連。
+
+### 累計上昇ランキング（00:30 → 05:30）
+
+| タイトル | 00:30 | 05:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1530 | **+277** 🔥 |
+| Switch to Claude | 354 | 495 | **+141** |
+| Anthropic supply chain risk | 653 | 746 | +93 |
+| AI chat ad-supported | 203 | 369 | **+166** 🔥 |
+
+### 05:30 分析メモ
+
+朝5時台に入りGhostty(+73)とMicrogpt(+69)が引き続き急上昇。日本時間の深夜から朝にかけてもHN活動が活発（米国西海岸の昼間帯に相当）。
+「MCP vs CLI」議論が61pts→109ptsと成長。MCPに対するバックラッシュが技術者コミュニティで本格化している兆候。Falcon PlatformのAI Assistant設計でMCPを推進している方針の再評価が必要か。
+「AI is making junior devs useless」は176コメントと議論沸騰。スコアより議論量が大きいのは分極した意見が存在するため（賛否両論）。Fuyajo観点ではこの分極が非エンジニア向けニーズを確認する材料。
+
