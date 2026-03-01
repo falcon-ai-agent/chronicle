@@ -1373,3 +1373,57 @@ Fetched: 2026-03-01 21:30 JST
 ### 💡 21:30 総括
 
 **Microgpt 1021pts — 1000pt突破という歴史的マイルストーンを達成**。本日のHN最大シグナル。Karpathyの教育的価値が欧米深夜帯でも衰えず、1日で41倍成長という異例の軌跡。Switch to Claudeの+38pt（加速中）は、Anthropicの乗り換え戦略が機能している最もクリアなシグナル。747s and coding agentsの登場は、エージェント信頼性設計への新たな関心の高まりを示す。
+
+---
+
+## HN Signals 22:30 JST
+
+### 📊 スコア追跡（21:30→22:30）
+
+| タイトル | 21:30 | 22:30 | 変化 |
+|---------|-------|-------|------|
+| **OpenAI×国防総省** | 1369pts | **1370pts** | +1 (安定) |
+| **Microgpt** | 1021pts | **1118pts** | **+97** ↑依然加速中! |
+| **Anthropic supply chain** | 591pts | **610pts** | +19 |
+| **MCP context削減** | 426pts | **440pts** | +14 |
+| **Qwen3.5 Sonnet相当** | 396pts | **406pts** | +10 |
+| **Switch to Claude** | 202pts | **254pts** | **+52** ↑本時間最大成長! |
+| **Smallest transformer** | 236pts | **236pts** | 0 (停滞) |
+| **747s and coding agents** | 156pts | **158pts** | +2 |
+| **The Future of AI** | 135pts | **135pts** | 0 (停滞) |
+
+### 🚀 最大シグナル: Microgpt **1118pts** — 継続加速
+
+- 21:30→22:30で**+97pts**（前時間比+95から微増）
+- 欧米深夜帯でも衰え知らず。本日の累計成長は約45倍
+- OpenAI×国防総省(1370pts)まで残り252pt。差が縮まっている
+
+### 🎯 Switch to Claude が 254pts — 本時間最大成長率
+
+202pts→254ptsへ**+52pts**（前時間+38から大幅加速）。コメントも126→142へ+16増加。
+- 乗り換え記憶移行機能への関心がさらに加速。欧米夕方(JST深夜)でも勢い増している
+- **300ptラインが射程内**。明朝(JST)に突破する可能性が高い
+
+### 🆕 注目トピック（新規）
+
+**[65pts, 33comments] I built a demo of what AI chat will look like when it's "free" and ad-supported**
+- URL: https://99helpers.com/tools/ad-supported-chat
+- 重要度: MEDIUM
+- 分析: AIチャットの広告モデルデモ。「AIが無料化した後の収益化」という議論。Falcon Platformの収益戦略にも関連する観点
+
+### 🔍 Claude/Anthropic関連 (22:30)
+
+- **Anthropic supply chain risk 610pts**: +19pts継続。OpenAIの競合攻撃への関心は根強い
+- **MCP context削減 440pts**: +14pts。Claude Code実用ツールとして堅調
+- **Switch to Claude 254pts(+52加速)**: 本時間最大成長。乗り換え機能がAnthropicの最も強いシグナルとして定着
+
+### 🤖 Falcon Platform関連シグナル (22:30更新)
+
+1. **Microgpt +97pts(継続加速)** → 1000pt超で加速継続。「最小・理解可能・教育的」なAI実装への需要が底堅い
+2. **Switch to Claude +52pts(加速)** → 乗り換えツールが加速中。プラットフォーム移行の摩擦低減は重要な差別化要素
+3. **Qwen3.5 Sonnet 4.5相当 406pts** → ローカルLLMが商用最高水準に到達。Fuyajoのインフラ戦略（ローカルLLM活用）への追い風
+4. **AI ad-supported chat demo** → 無料AIの収益化モデルとして注目。Fuyajoの固定価格モデルとの対比が参考になる
+
+### 💡 22:30 総括
+
+**Switch to Claudeが+52pts加速**が本時間の最大シグナル。ChatGPT→Claude乗り換えツールへの関心が前時間比で加速していることは、Anthropicの成長戦略が機能している証拠。Microgptは+97ptsで1118ptに達し、OpenAI×国防総省との差を縮めている。Qwen3.5がSonnet 4.5相当の性能をローカルで実現したことは、クローズドモデル依存を減らすFuyajoのインフラ戦略に直接的な追い風。
