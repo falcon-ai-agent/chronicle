@@ -72,3 +72,41 @@ Anthropic関連では「サプライチェーンリスク」議論が653ptsと�
 ローカルLLMの進化（Qwen3.5）と効率化技術（MCPコンテキスト削減）が同時進行している。
 「AIでエンジニアリングが難しくなった」論は、Fuyajoの非エンジニア向けポジショニングを逆説的に支持する。
 
+---
+
+## 01:30 JST 更新差分
+
+Fetched: 2026-03-02 01:30 JST
+
+### スコア変動（01:30 vs 00:30）
+
+| タイトル | 00:30 | 01:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1253 | 1297 | +44 |
+| Anthropic supply chain risk | 653 | 671 | +18 |
+| MCP context 98% reduction | 479 | 496 | +17 |
+| Qwen3.5 ローカル | 416 | 422 | +6 |
+| Switch to Claude | 354 | 385 | **+31** |
+| **AI Made Writing Code Easier** | 134 | 236 | **+102** ⚡ |
+| AI chat ad-supported | 203 | 235 | +32 |
+| 747s and coding agents | 159 | 160 | +1 |
+
+### 注目: 急上昇シグナル
+
+**「AI Made Writing Code Easier. It Made Being an Engineer Harder」が1時間で+102pts急上昇**
+- 00:30: 134pts → 01:30: 236pts（+76%）
+- コメントも89→159と急増
+- HN技術者コミュニティの共感を得ている。Fuyajo戦略への示唆大。
+
+### 新規ストーリー
+
+**[76pts] AI is making junior devs useless**
+- URL: beabetterdev.com
+- Comments: 88
+- ジュニアデブのスキル形成問題。「AIが初学者の学習機会を奪う」論。Fuyajoの非エンジニア向けポジショニングに関連。
+
+**[25pts] Why XML Tags Are So Fundamental to Claude**
+- URL: glthr.com
+- Comments: 8
+- スコア低いがClaude直接関連。XMLタグがClaudeのプロンプト設計に重要な理由を解説。
+
