@@ -1308,3 +1308,68 @@ Fetched: 2026-03-01 20:30 JST
 ### 💡 20:30 総括
 
 **Microgpt 926pts — 本日のHN完全制覇が確定**。Karpathyの「シンプルで理解できる実装」の教育的価値がHNエンジニア層の核心ニーズに刺さり続けている。1000pt突破は欧米深夜（JST 9時頃）が有力。OpenAI×国防総省(1367pts)は完全に止まり、Karpathyがトップに立つのも時間の問題。Switch to Claude (+31pts)の継続急成長は、Anthropicの乗り換え戦略が欧米市場で機能している証拠として重要。
+
+---
+
+## HN Signals Update — 21:30 JST
+
+Fetched: 2026-03-01 21:30 JST
+
+### 🔥 スコア変動 (20:30→21:30比較)
+
+| タイトル | 20:30 | 21:30 | 変化 |
+|---------|-------|-------|------|
+| **Microgpt by Karpathy** | **926pts** | **1021pts** | **+95** ↑1000pt突破!! |
+| **OpenAI×国防総省** | 1367pts | **1369pts** | +2 (完全停止) |
+| **Anthropic supply chain risk** | 578pts | **591pts** | **+13** (安定継続) |
+| **MCP context 98%削減** | 415pts | **426pts** | **+11** (安定継続) |
+| **Qwen3.5 Sonnet 4.5相当** | 380pts | **396pts** | **+16** (再加速) |
+| **Switch to Claude** | 164pts | **202pts** | **+38** ↑本日最大成長率更新! |
+| **Obsidian Sync headless** | — | 497pts | 継続高位 |
+
+### 🚀 最大シグナル: Microgpt が **1021pts** — 1000pt突破達成!!
+
+- 20:30→21:30の1時間で+95pts。ついに**1000ptの壁を突破**
+- OpenAI×国防総省(1369pts)まで残り348pt。まだ追いつかないが本日のHN支配者として確定
+- **本日累計**: 朝25pts → 1021pts。約41倍成長
+- 欧米深夜（米東部時間 朝7時頃）でも衰えない異常な持続力
+
+### 🎯 Switch to Claude が 202pts — 本日最大成長率を更新
+
+164pts→202ptsへ**+38pts**（前時間比+31から加速）。コメントも114→126へ増加。
+- ChatGPTからClaude移行機能が欧米早朝でも評価継続中
+- 1時間で+38ptsは本日のClaude関連記事で最大
+- **202pts突破は次の300ptラインを視野に入れるレベル**
+
+### 🆕 注目トピック
+
+**[156pts, 78comments] 747s and coding agents**
+- URL: https://carlkolon.com/2026/02/27/engineering-747-coding-agents/
+- 重要度: HIGH
+- 分析: コーディングエージェントを747機の工学に例えた記事。「高信頼性システムにおけるAIエージェントの設計」という切り口がHNエンジニア層に刺さっている。Falcon Platformのエージェント設計思想に直接関連
+
+**[236pts, 96comments] Smallest transformer that can add two 10-digit numbers**
+- URL: https://github.com/anadim/AdderBoard
+- 重要度: MEDIUM
+- 分析: 最小限のトランスフォーマーで10桁加算を実現。Microgptブームに乗った「理解可能な最小実装」トレンドの波。教育的価値への需要が高い
+
+**[135pts, 104comments] The Future of AI**
+- URL: https://lucijagregov.com/2026/02/26/the-future-of-ai/
+- 重要度: MEDIUM
+- 分析: 前時間から135pts継続。コメント(104)がスコアに対して非常に多い(比率0.77)→批判的議論が活発。HNがAI将来予測に懐疑的な姿勢を維持
+
+### 🔍 Claude/Anthropic関連 (21:30)
+
+- **Anthropic supply chain risk 591pts**: +13pts継続成長。OpenAIのAnthropicへの攻撃的ポジション取りへの関心は衰えず
+- **MCP context削減 426pts**: +11pts。Claude Code実用ツールとして400pt超で安定定着
+- **Switch to Claude 202pts(+38)**: 本日最大成長率。乗り換えメモリ移行機能がAnthropicの成長ドライバーとして機能中
+
+### 🤖 Falcon Platform関連シグナル (21:30更新)
+
+1. **Microgpt 1021pts突破** → 「最小・軽量・理解可能」の価値観が再確認。Fuyajoも複雑さを最小化した設計を貫くべき
+2. **747s and coding agents (156pts, 78コメント)** → 高信頼性エージェント設計への関心。「エージェントが失敗したときの安全設計」がエンジニア層の関心事
+3. **Switch to Claude (+38pts加速)** → 乗り換え摩擦の低減は差別化要因。Fuyajoでも「既存環境からの移行コスト最小化」を設計原則とすべき
+
+### 💡 21:30 総括
+
+**Microgpt 1021pts — 1000pt突破という歴史的マイルストーンを達成**。本日のHN最大シグナル。Karpathyの教育的価値が欧米深夜帯でも衰えず、1日で41倍成長という異例の軌跡。Switch to Claudeの+38pt（加速中）は、Anthropicの乗り換え戦略が機能している最もクリアなシグナル。747s and coding agentsの登場は、エージェント信頼性設計への新たな関心の高まりを示す。
