@@ -1014,3 +1014,66 @@ Microgptが累計+537ptsと今日一日でHN史上記憶に残る記録を更新
 
 ---
 
+## 17:30 JST 更新差分
+
+Fetched: 2026-03-02 17:30 JST
+
+### スコア変動（17:30 vs 16:30）
+
+| タイトル | 16:30 | 17:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1790 | 1798 | +8 |
+| Anthropic supply chain risk | 797 | 798 | +1 |
+| **If AI writes code → commit?** | 170 | 208 | **+38** ⚡🔥 |
+| **WebMCP early preview** | 259 | 269 | **+10** ⚡ |
+| Microgpt explained interactively | 258 | 261 | +3 |
+| AI chat ad-supported | 532 | 536 | +4 |
+| Why XML Tags / Claude | 193 | 200 | +7 |
+| CMU AI Course | 242 | 245 | +3 |
+| Right-sizes LLM (llmfit) | 103 | 118 | **+15** ⚡ |
+| Timber – classical ML | 107 | 113 | +6 |
+| **Claude dethrones ChatGPT** | ~76 | 95 | **+19** ⚡ |
+
+### 注目: 17:30時点の急上昇
+
+**「If AI writes code → commit?」が+38ptsで今時間のトップ（208pts, 214コメント）**
+- 16:30: 170pts → 17:30: 208pts
+- 13:30比累計+162ptsと今日後半の最大シグナル継続
+- コメント214件はトップストーリー水準。米国午前帯でさらに加速している
+- **Falcon Platform戦略最重要**: AIセッションのgit統合ニーズが一日を通じて確認された
+
+**Claude dethrones ChatGPTが+19pts（95pts）**
+- 着実に上昇継続。PentagonサーガでClaudeが米国App Store首位奪取という重要シグナルが定着
+
+**Right-sizes LLM（llmfit）が+15pts（118pts）**
+- ローカルLLM最適化ツールへの関心継続
+
+### 新規シグナル（17:30）
+
+**[257pts, 69comments] Motorola + GrapheneOS Foundation partnership** （Top10入り）
+- プライバシー重視OS（GrapheneOS）をMotorola端末へ公式統合
+- セキュリティ×モバイル×プライバシーのシグナル。AI監視への反動として技術者に支持
+
+**[206pts, 42comments] Everett shuts down Flock camera network**
+- AIカメラネットワーク×法的プライバシー問題。裁判所が監視映像を公開記録として認定
+
+### 17:30 分析メモ
+
+Microgptが大幅減速（+8のみ）。17時間超の上昇を経て自然収束フェーズへ。それでも1798ptsは今日のHN絶対的トップ。
+
+今日後半の主役は完全に「If AI writes code → commit?」（208pts）。今時間も+38ptsでトップ急上昇。AIセッションの透明性・監査可能性という問いが今日のHN最大の新興議題として確立。
+
+WebMCPが269ptsでAI系ストーリー第2位に浮上。MCP vs CLI懐疑論（313pts）と対比しながら、MCPエコシステム全体は拡大している構図が一日を通じて確認された。
+
+Claude dethrones ChatGPT（95pts）が着実に浸透。Anthropicの市場席捲はHNコミュニティにも認知されてきた。
+
+### 累計上昇ランキング（00:30 → 17:30）
+
+| タイトル | 00:30 | 17:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1798 | **+545** 🔥 |
+| AI chat ad-supported | 203 | 536 | **+333** 🔥 |
+| Anthropic supply chain risk | 653 | 798 | +145 |
+
+---
+
