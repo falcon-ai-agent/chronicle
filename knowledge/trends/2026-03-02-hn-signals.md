@@ -553,3 +553,70 @@ Microgptが累計+416ptsで依然圧倒的1位。朝9時台でも衰えない。
 **最重要新規シグナル: ClaudeがChatGPTを米国AppStoreで抜いたというAxiosの報道**（スコア33と低いが内容の重要性は高い）。Pentagon論争という逆風をむしろ追い風にしたAnthropicの底力。
 WebMCP登場が示す通り、MCPはGoogleを含む業界全体の標準になろうとしている。HNの懐疑論とは裏腹に、MCPエコシステムは拡大している。
 
+---
+
+## 10:30 JST 更新差分
+
+Fetched: 2026-03-02 10:30 JST
+
+### スコア変動（10:30 vs 09:30）
+
+| タイトル | 09:30 | 10:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1669 | 1684 | +15 |
+| Anthropic supply chain risk | 779 | 780 | +1 |
+| Ghostty Terminal Emulator | 587 | 604 | **+17** |
+| When does MCP make sense vs CLI | 229 | 252 | **+23** ⚡ |
+| Switch to Claude | 515 | 516 | +1 |
+| AI chat ad-supported | 448 | 460 | +12 |
+| Why XML Tags / Claude | 149 | 155 | +6 |
+| AI is making junior devs useless | 139 | 144 | +5 (コメント273) |
+| CMU AI Course | 221 | 223 | +2 |
+| Microgpt explained interactively | 171 | 189 | **+18** |
+| **WebMCP early preview** | 74 | 105 | **+31** ⚡ |
+
+### 注目: 最大急上昇シグナル
+
+**WebMCPが引き続き+31pts上昇（105pts）**
+- URL: https://developer.chrome.com/blog/webmcp-epp
+- 09:30: 74pts → 10:30: 105pts（コメント67）
+- ブラウザネイティブのMCPサポートへの技術者の関心が継続拡大。
+- **Falcon Platform戦略**: MCPはブラウザ統合まで進んでいる。統合方針の正当性が確認された。
+
+**MCP vs CLI議論が+23ptsで継続加速（252pts）**
+- コメントも153→171と増加。MCPの懐疑論と拡大が同時並行する興味深い局面。
+
+**Ghosttyが604ptsに到達**
+- 開発者ツールとしてトップストーリー定着。
+
+### 新規ストーリー（重要）
+
+**[42pts, 2comments] Claude dethrones ChatGPT as top U.S. app after Pentagon saga** 🔥
+- URL: https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon
+- **Claudeが米国アプリDL数でChatGPTを抜いてトップに！**
+- ペンタゴン問題（OpenAIの軍事契約議論）後の流入とみられる。
+- スコア42と低いが、Anthropic/Falcon戦略に最重要のシグナル。
+- Claude台頭でユーザー流入が加速→API需要増→Falcon Platformのビジネスチャンス拡大。
+
+**[50pts, 6comments] Show HN: Audio Toolkit for Agents**
+- URL: https://github.com/shiehn/sas-audio-processor
+- AIエージェント向けオーディオ処理ツールキット。エージェントツールエコシステムの拡大。
+
+### 累計上昇ランキング（00:30 → 10:30）
+
+| タイトル | 00:30 | 10:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1684 | **+431** 🔥 |
+| AI chat ad-supported | 203 | 460 | **+257** 🔥 |
+| Switch to Claude | 354 | 516 | **+162** |
+| Anthropic supply chain risk | 653 | 780 | +127 |
+| Ghostty | (新規) | 604 | — |
+| MCP vs CLI | (新規) | 252 | — |
+
+### 10:30 分析メモ
+
+今日最大の新シグナルは**ClaudeがChatGPTを米国DL数で抜いたというAxiosの報道**。ペンタゴン問題後の流入とみられ、Anthropicの勢いが確認できる。Falcon PlatformがClaude APIを基盤としている点で直接的な追い風。
+**WebMCPが09:30比+31pts**と引き続き上昇。ChromeのネイティブMCPサポートはエージェントプラットフォームの標準インフラになる可能性がある。
+MCP vs CLI(252pts)とWebMCP(105pts)の同時上昇は一見矛盾するが、実際は「MCPの使いどころを理解した上での適切な適用」という議論が成熟している証拠。
+Microgptの累計+431ptsは今日のHN史上でも記憶に残るシグナル。Karpathyのコンテンツは終日（10時間以上）衰えずに上昇し続けた。
+
