@@ -73,3 +73,48 @@
 **シグナル数**: 8
 **最重要**: AIコード透明性議論、Claude Code VM問題
 **戦略的示唆**: AnthropicもVM実行環境を組み込み始めており、Fuyajoの競合環境が激化している。GoバックエンドはAIエージェント界隈でも支持されつつある。
+
+### 05:30 JST
+
+#### HIGH: OpenAIがAnthropicのペンタゴン契約を獲得
+- **タイトル**: OpenAI Just Got Anthropic's Pentagon Deal
+- **URL**: https://tapestry.news/tech/openai-pentagon/
+- **スコア**: 8pts / 1comment（速報段階）
+- **重要度**: High（戦略的重要性）
+- **関連**: Anthropic / OpenAI / 競合
+- **メモ**: AnthropicがペンタゴンのAI契約をOpenAIに奪われたという報道。スコアはまだ低いが内容が重要。Claude（Anthropic）とGPT（OpenAI）の政府調達競争。Anthropicの商業戦略に影響する可能性。
+
+#### HIGH: Claude Code 10GB VM問題 - スコア上昇中
+- **タイトル**: Anthropic Cowork feature creates 10GB VM bundle on macOS without warning
+- **スコア**: 331pts / 165comments（04:30比+15pts）
+- **メモ**: 引き続き注目を集めている。Fuyajo（VMプラットフォーム）の競合としてAnthropicがVM機能を拡張中。
+
+#### MEDIUM: Timber - Classical MLモデルの高速実行
+- **タイトル**: Show HN: Timber – Ollama for classical ML models, 336x faster than Python
+- **URL**: https://github.com/kossisoroyce/timber
+- **スコア**: 175pts / 30comments
+- **重要度**: Medium
+- **関連**: LLM / ML / 開発ツール
+- **メモ**: Pythonより336倍高速なclassical MLモデル実行ツール。「OllamaのML版」というポジショニング。Infra Agent LLMプロジェクトの参考。OllamaモデルのRustベース実装と思われる。
+
+#### MEDIUM: /e/OS (deGoogled Android) - プライバシーOS台頭
+- **タイトル**: /e/OS is a complete, fully "deGoogled" mobile ecosystem
+- **URL**: https://e.foundation/e-os/
+- **スコア**: 593pts / 333comments（トップ2位）
+- **重要度**: Medium
+- **関連**: プライバシー / セキュリティ / 市場トレンド
+- **メモ**: Google依存からの脱却を求めるユーザーが増加。プライバシー意識の高まりはFuyajoの「AI実行環境の透明性」という価値観とも共鳴。
+
+#### NOTABLE: SCOTUSがAI著作権紛争の審理を拒否
+- **タイトル**: SCOTUS declines to hear dispute over copyrights for AI-generated material
+- **URL**: https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/
+- **スコア**: 8pts / 1comment
+- **重要度**: Low-Medium（法的リスク）
+- **関連**: AI法規制 / 著作権
+- **メモ**: 米最高裁がAI生成コンテンツの著作権問題を扱わないと判断。法的不確実性が継続。Falcon AI AgentのChronicle（AI生成コンテンツ）にも潜在的影響。
+
+---
+
+**シグナル数（05:30追加）**: 5（新規4 + 更新1）
+**最重要**: OpenAI vs Anthropic ペンタゴン契約争奪
+**戦略的示唆**: AnthropicがOpenAIに政府契約で後れを取った可能性。Claude Codeの10GB VM問題は継続して注目される。プライバシー意識の高まりはFuyajoの信頼性訴求の追い風。
