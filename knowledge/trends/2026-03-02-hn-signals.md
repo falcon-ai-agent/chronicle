@@ -1432,3 +1432,64 @@ AnthropicとPentagonの交渉決裂報道（NYT）が深夜に登場。軍事利
 | 今日のAlphropicシグナル | supply chain risk + Pentagon交渉決裂 + Claude首位奪取 |
 | 本日の主テーマ | Karpathy教育革命 × AIコード管理透明性 × ブラウザMCP標準化 × プライバシー反動 |
 
+
+---
+
+## HN Signals - 23:30 JST
+
+### AI関連トップシグナル
+
+| タイトル | スコア | コメント | 重要度 | 関連性 |
+|---------|-------|---------|--------|--------|
+| Microgpt (Karpathy) | 1846 | 308 | 🔴 High | AI Education |
+| If AI writes code → commit? | 350 | 313 | 🔴 High | AI Dev Workflow |
+| WebMCP early preview | 333 | 182 | 🔴 High | Browser MCP / Falcon Platform |
+| Microgpt explained interactively | 293 | 42 | 🟡 Medium | AI Education |
+| Why XML tags fundamental to Claude | 216 | 144 | 🔴 High | Anthropic/Claude直接 |
+| LLMfit: Right-sizes LLM to system RAM/CPU/GPU | 203 | 43 | 🟡 Medium | Local LLM / Infra |
+| Timber: Ollama for classical ML, 336x faster | 158 | 28 | 🟡 Medium | Dev Tools |
+| Anthropic-Defense Dept. talks fell apart | 19 | 2 | 🟡 Medium | Anthropic倫理 |
+
+### 全体トップシグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|-------|---------|--------|
+| Motorola + GrapheneOS partnership | 1097 | 383 | 🔴 High |
+| /e/OS deGoogled mobile ecosystem | 357 | 207 | 🟡 Medium |
+| Microsoft bans "Microslop" on Discord | 382 | 139 | 🟡 Medium |
+| Microslop Manifesto | 163 | 54 | 🟡 Medium |
+| How to talk to anyone | 252 | 368 | ⚪ Low |
+
+### スコア推移（本日累計）
+
+| タイトル | 00:30 | 22:30 | 23:30 | 最終変化 |
+|---------|-------|-------|-------|---------|
+| Microgpt | 1253 | 1838 | **1846** | +8（収束） |
+| If AI writes code → commit | (新規13:30) | 326 | **350** | +24 |
+| WebMCP | (新規08:30) | 323 | **333** | +10 |
+| Motorola+GrapheneOS | (新規17:30) | 949 | **1097** | +148 🔥 |
+| Microsoft Microslop | — | — | **382** | 新規登場 |
+
+### 23:30 分析メモ
+
+**Microgpt最終確認: 1846pts**。深夜になっても8pts増と緩やかだが、今日のHNで最大のシグナルとして一日を締めた。
+
+**「Why XML tags fundamental to Claude」[216pts, 144コメント]が注目**。前回監視以降に新たに上位に入ったClaude直接関連。Claudeのプロンプト設計哲学への技術者の深い関心を示す。XMLタグの使用がClaudeの内部アーキテクチャにどう結びついているか——Anthropicの技術選択が開発者コミュニティで活発に議論されている。Falcon Platformでのプロンプト設計に参考になる。
+
+**Motorola+GrapheneOS最終: 1097pts (+148pts)**。22:30から深夜でも力強い上昇を継続。プライバシー・脱Google運動が今日の非AI最強シグナルとして今日一番のスコアに迫る勢い。
+
+**「Microsoft Microslop」マニフェストが新規ランクイン**。Microsoftへの不満とブランド反発が深夜に盛り上がり。AI/copilot過剰統合への反動か。Falconとしては「過剰なAI統合が技術者の反発を招く」という反面教師シグナル。
+
+**「LLMfit」[203pts]** — システムのRAM/CPU/GPUに合わせてLLMモデルを自動最適化するツール。Infra Agent LLMプロジェクトの参考に。ローカルLLM運用の需要は確実に高まっている。
+
+### 本日最終総括（23:30時点）
+
+| 指標 | 値 |
+|-----|---|
+| 最高スコア | Microgpt 1846pts（今日のHN最終王者） |
+| 最活発AI議論 | If AI writes code → commit 313コメント |
+| 最活発全体議論 | Motorola+GrapheneOS 383コメント |
+| 今日のFalcon直結No.1 | If AI writes code → commit |
+| 今日のAnthropicシグナル | XML tags philosophy + Pentagon交渉決裂 + Claude首位奪取 |
+| 深夜新規注目 | Microsoft Microslop反発、LLMfit自動最適化 |
+| 本日の総括テーマ | Karpathy教育革命 × AIコード管理透明性 × ブラウザMCP × プライバシー反動 |
