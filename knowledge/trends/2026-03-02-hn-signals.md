@@ -751,3 +751,65 @@ Microgptが累計+467ptsと今日一日で最大のHNシグナルを更新し続
 **新規注目**: Logiraの登場。AIエージェントのランタイム監査ニーズがOSSとして形になりつつある。Falcon PlatformのマルチユーザーVM環境でエージェントを実行する際のセキュリティレイヤーとして参考になる。
 AI is making junior devs uselessのコメント296件は今日の最高記録更新継続中。正午になっても議論が冷めない。Fuyajoの非エンジニア向けポジショニングを支持するシグナルが一日中積み重なっている。
 
+---
+
+## 13:30 JST 更新差分
+
+Fetched: 2026-03-02 13:30 JST
+
+### スコア変動（13:30 vs 12:30）
+
+| タイトル | 12:30 | 13:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1720 | 1732 | +12 |
+| Anthropic supply chain risk | 787 | 789 | +2 |
+| Ghostty Terminal Emulator | 642 | 661 | **+19** ⚡ |
+| When does MCP make sense vs CLI | 289 | 313 | **+24** ⚡ |
+| AI chat ad-supported | 487 | 497 | +10 |
+| **WebMCP early preview** | 169 | 197 | **+28** ⚡ |
+| Why XML Tags / Claude | 175 | 178 | +3 |
+| CMU AI Course | 234 | 236 | +2 |
+| Microgpt explained interactively | 218 | 222 | +4 |
+| Claude dethrones ChatGPT | 50 | 64 | **+14** |
+
+### 注目: 13:30時点の急上昇
+
+**WebMCPが+28ptsで今時間のトップ急上昇（197pts）**
+- 12:30: 169pts → 13:30: 197pts（コメント120）
+- 終日上昇継続。ChromeのMCPネイティブサポートはエコシステム定着フェーズに入った。
+
+**MCP vs CLI議論が+24pts（313pts）**
+- 懐疑論・バックラッシュとWebMCP拡大が同時進行する構図が固まった一日。
+
+### 新規シグナル
+
+**[46pts, 76comments] If AI writes code, should the session be part of the commit?**
+- URL: https://github.com/mandel-macaque/memento
+- AIがコードを書いた場合、そのセッション（コンテキスト・プロンプト・判断過程）をgitコミットに含めるべきか？という問い。
+- コメント/スコア比: 1.65と高い（分極した議論）。
+- **Falcon Platform戦略直結**: AI Assistantを使った開発ワークフローの透明性・監査可能性の問題。将来の差別化機能候補。
+
+**[83pts, 49comments] Why does C have the best file API**
+- URL: maurycyz.com
+- C言語のファイルAPIが最良という技術議論。LLMブーム中でも基礎技術への関心継続。
+
+### 累計上昇ランキング（00:30 → 13:30）
+
+| タイトル | 00:30 | 13:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1732 | **+479** 🔥 |
+| AI chat ad-supported | 203 | 497 | **+294** 🔥 |
+| Anthropic supply chain risk | 653 | 789 | +136 |
+| Ghostty | (新規) | 661 | — |
+| MCP vs CLI | (新規) | 313 | — |
+| WebMCP | (新規) | 197 | — |
+
+### 13:30 分析メモ
+
+Microgptが累計+479ptsと13時間以上経過しても衰えない。1732ptsは今日のHN絶対的トップ。
+**WebMCPが+28ptsで今時間のリーダー**。169→197とトップに迫る勢い。MCPバックラッシュ論争を超えてブラウザ標準化が加速している。
+**新規重要シグナル**: 「AIがコードを書いた場合のgitコミット問題」が登場。AI時代の開発ワークフロー・監査可能性の問題として技術者の関心を集めている。Falcon PlatformのAI Assistant機能における差別化要素となる可能性。
+Claude dethrones ChatGPTも+14ptsと午後も継続上昇。Claudeの市場席捲がHNコミュニティにも浸透してきた。
+
+---
+
