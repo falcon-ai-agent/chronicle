@@ -210,3 +210,48 @@
 **シグナル数（07:30追加）**: 6（新規1 + 更新5）
 **最重要**: Claude Code VM問題が継続トレンド、Go for AI agents のコミュニティ支持確認
 **戦略的示唆**: Anthropicの透明性問題＋重量VM実行がユーザー不満を生んでいる。Fuyajoは「軽量・透明・制御可能」なVM実行環境として差別化可能。Goバックエンドの選択はHNコミュニティでも支持されている。
+
+### 08:30 JST
+
+#### HIGH: Claude Code 10GB VM問題 - ピーク維持
+- **タイトル**: Anthropic Cowork feature creates 10GB VM bundle on macOS without warning
+- **スコア**: 347pts / 175comments（07:30比+5pts/+1comment）
+- **重要度**: High
+- **メモ**: 伸びはほぼ止まったが347ptで安定。一日を通じてHNのAI関連最高スコアを維持。AnthropicのVM実行環境強化に対するユーザー不満が定着した。Fuyajoの「明示的な同意・使用量可視化」は明確な差別化軸。
+
+#### MEDIUM: GoはAIエージェント最良の言語か - 208コメント到達
+- **タイトル**: A case for Go as the best language for AI agents
+- **URL**: https://getbruin.com/blog/go-is-the-best-language-for-agents/
+- **スコア**: 138pts / 208comments（07:30比+19pts/+17comments）
+- **重要度**: Medium
+- **メモ**: 一日を通じて208コメントに到達。Go goroutineによる並行エージェント制御、静的型付け、低メモリフットプリントが支持を集めている。Fuyajoバックエンド（Go検討中）のコミュニティ支持確認済み。
+
+#### MEDIUM: 500ms以下レイテンシのvoice agent - 急上昇
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 63pts / 22comments（07:30比+48pts/+17comments）
+- **重要度**: Medium
+- **関連**: AI Agent / リアルタイム
+- **メモ**: 07:30時点で15ptsだったのが63ptsに急上昇。朝の技術者コミュニティに注目された。sub-500msの音声エージェントは「応答性の高いAIアシスタント」需要を示す。Fuyajoの将来機能（音声インターフェース）の参考。
+
+#### MEDIUM: M4 Neural Engine リバースエンジニアリング - 安定
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **URL**: https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+- **スコア**: 240pts / 60comments
+- **重要度**: Medium
+- **関連**: ハードウェア / ML / LLM推論
+- **メモ**: ローカルLLM実行の基盤となるNeural Engineの詳細解析。Infra Agent LLM（ローカルLLMファインチューニング）の実装参考。Appleシリコンでのモデル推論最適化に。
+
+#### NOTABLE: Metaスマートグラス - 「全部見える」プライバシー問題
+- **タイトル**: The workers behind Meta's smart glasses can see everything
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 190pts / 105comments（トップ10入り）
+- **重要度**: Low-Medium
+- **関連**: プライバシー / AI監視
+- **メモ**: MetaのAIスマートグラスのレビュアーが「全部見える」と証言。AIとプライバシーの緊張関係が具体的に浮き彫り。「AIは何でも見ている」という不安がユーザーに広がっている。Fuyajoが「ユーザーデータを外部に出さない」透明性を強調できるシグナル。
+
+---
+
+**シグナル数（08:30追加）**: 5（新規2 + 更新3）
+**最重要**: Claude Code VM問題が一日最高スコア（347pts）で安定。Voice agentが急上昇。
+**戦略的示唆**: 本日のHNトレンドはAnthropicの透明性問題に集中した一日。Voice agentの急上昇はリアルタイムAI応答への需要を示す。Fuyajoは「軽量VM + 明示的同意 + 使用量可視化」で差別化が可能。Goバックエンドの支持は一日を通じて確認。
