@@ -483,3 +483,73 @@ Microgptが一日で累計+395ptsに到達。減速したが1648ptsは今日のH
 Ghostty(+31)とMCP vs CLI(+30)が今時間の急上昇2強。開発者ツールとMCPアーキテクチャ議論の両軸が今日のHNを支配している。
 AI is making junior devs uselessはスコア137と低いがコメント250と異常に多い。コメント/スコア比1.82は今日最高値更新。
 
+---
+
+## 09:30 JST 更新差分
+
+Fetched: 2026-03-02 09:30 JST
+
+### スコア変動（09:30 vs 07:30）
+
+| タイトル | 07:30 | 09:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1631 | 1669 | +38 |
+| Anthropic supply chain risk | 775 | 779 | +4 |
+| Ghostty Terminal Emulator | 535 | 587 | **+52** ⚡ |
+| When does MCP make sense vs CLI | 176 | 229 | **+53** ⚡ |
+| Switch to Claude | 506 | 515 | +9 |
+| AI chat ad-supported | 419 | 448 | +29 |
+| Decision trees | 303 | 386 | **+83** ⚡ |
+| AI is making junior devs useless | 131 | 139 | +8 (262コメント) |
+| Why XML Tags / Claude | 132 | 149 | +17 |
+| 10-202 CMU AI Course | 208 | 221 | +13 |
+
+### 注目: 急上昇シグナル
+
+**Decision treesが+83ptsで今回最大急上昇（386pts）**
+- 2時間で+83pts。ML古典手法への再評価がLLMブーム中に加速している。
+- 「LLMだけがAIじゃない」という技術者の本音か。
+
+**MCP vs CLI継続加速: +53pts（229pts）**
+- 07:30: 176pts → 09:30: 229pts
+- コメント134→153と増加。MCPバックラッシュが朝の最新話題として定着。
+
+**Ghostty継続強い: +52pts（587pts）**
+- トップストーリー水準を維持。開発者ツールへの需要が証明され続けている。
+
+### 新規ストーリー
+
+**[74pts, 44comments] WebMCP is available for early preview**
+- URL: https://developer.chrome.com/blog/webmcp-epp
+- ChromeがWebMCPの早期プレビューを公開。MCPをWeb/ブラウザに統合する動き。
+- **逆説的シグナル**: 「MCP is dead」議論が盛り上がる中でGoogleがWebMCPを発表。業界はMCPを標準として推進しつつ、HN技術者は懐疑的。**Falcon Platform**: MCPはWebまで広がる技術トレンドとして捉え直すべき。
+
+**[33pts, 2comments] Claude dethrones ChatGPT as top U.S. app after Pentagon saga**
+- URL: axios.com
+- スコア低いが内容が重要: **ClaudeがPentagon問題後にChatGPTを抜いて米国AppStoreトップに。**
+- Anthropicブランドの加速を示す。論争的な出来事がかえって認知度を高めた逆説。
+
+**[149pts, 105comments] Why XML tags are so fundamental to Claude**
+- URL: https://glthr.com/XML-fundamental-to-Claude
+- 132 → 149と成長継続。ClaudeのXMLタグ設計思想が技術者コミュニティで注目されている。
+
+**[171pts, 21comments] Microgpt explained interactively**
+- URL: https://growingswe.com/blog/microgpt
+- Karpathyのmicrogptを視覚的に解説するコンテンツ。本家microgptの盛り上がりに乗った派生コンテンツ。
+
+### 累計上昇ランキング（00:30 → 09:30）
+
+| タイトル | 00:30 | 09:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1669 | **+416** 🔥 |
+| AI chat ad-supported | 203 | 448 | **+245** 🔥 |
+| Switch to Claude | 354 | 515 | **+161** |
+| Anthropic supply chain risk | 653 | 779 | +126 |
+
+### 09:30 分析メモ
+
+Microgptが累計+416ptsで依然圧倒的1位。朝9時台でも衰えない。
+今回最大のサプライズは「Decision trees」の+83pts急上昇。LLMブームの中でMLの古典手法が再評価される傾向は、「AI = LLMだけではない」というHN技術者の多様な関心を反映。
+**最重要新規シグナル: ClaudeがChatGPTを米国AppStoreで抜いたというAxiosの報道**（スコア33と低いが内容の重要性は高い）。Pentagon論争という逆風をむしろ追い風にしたAnthropicの底力。
+WebMCP登場が示す通り、MCPはGoogleを含む業界全体の標準になろうとしている。HNの懐疑論とは裏腹に、MCPエコシステムは拡大している。
+
