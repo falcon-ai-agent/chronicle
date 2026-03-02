@@ -881,3 +881,68 @@ Claude市場席捲シグナル（76pts）が引き続き成長。Anthropicのブ
 
 ---
 
+## 15:30 JST 更新差分
+
+Fetched: 2026-03-02 15:30 JST
+
+### スコア変動（15:30 vs 14:30）
+
+| タイトル | 14:30 | 15:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1756 | 1778 | +22 |
+| Ghostty Terminal Emulator | 678 | 693 | +15 |
+| **If AI writes code → commit?** | 99 | 138 | **+39** ⚡🔥 |
+| AI chat ad-supported | 515 | 527 | +12 |
+| **WebMCP early preview** | 223 | 242 | **+19** ⚡ |
+| Why XML Tags / Claude | 182 | 188 | +6 |
+| Microgpt explained interactively | 228 | 245 | +17 |
+| CMU AI Course | 240 | 241 | +1 |
+| **Right-sizes LLM (llmfit)** | 59 | 88 | **+29** ⚡ |
+| **Timber – classical ML x336** | 73 | 96 | **+23** ⚡ |
+
+### 注目: 急上昇シグナル
+
+**「If AI writes code, should the session be part of the commit?」が+39ptsで今時間のトップ（138pts）**
+- 14:30: 99pts → 15:30: 138pts（コメント158）
+- 午後の米国東海岸タイムゾーンで拡散継続。コメント/スコア比: 1.14
+- AI開発ワークフローの監査可能性・透明性がHN技術者の本質的関心に刺さっている。
+
+**Right-sizes LLM（llmfit）が+29pts（88pts）**
+- ハードウェアに合わせたLLMモデル自動選択ツール。Fuyajo VM環境でのLLM最適実行に応用可能性。
+
+**Timber（クラシックMLモデル高速化）が+23pts（96pts）**
+- Ollama for classical ML、336倍高速化。LLM以外のMLモデル実行需要が確認。
+
+### 新規シグナル
+
+**[48pts] Vibe Code your 3D Models** - AIで3Dモデルを生成。マルチモーダルAI×CAD新領域。
+
+**[15pts] Show HN: Logira – eBPF runtime auditing for AI agent runs**
+- AIエージェント実行のeBPFベースランタイム監査。Falcon PlatformのマルチユーザーVM環境でのセキュリティ監査参考実装。
+
+**[55pts] Audio Toolkit for Agents** - AIエージェント向けオーディオ処理。エージェントエコシステムの多様化。
+
+### 累計上昇ランキング（00:30 → 15:30）
+
+| タイトル | 00:30 | 15:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1778 | **+525** 🔥 |
+| AI chat ad-supported | 203 | 527 | **+324** 🔥 |
+| Ghostty | (新規) | 693 | — |
+| WebMCP | (新規) | 242 | — |
+| If AI writes code → commit | (新規) | 138 | — |
+
+### 15:30 分析メモ
+
+Microgptが累計+525ptsと今日一日で圧倒的な数字。15時間後も上昇継続という稀有な記録。
+
+「If AI writes code → commit?」が今時間のトップ急上昇（+39pts）。14:30の爆発（+53pts）に続いて午後も強い。コメント158件と議論継続中。Falcon PlatformのAI Assistantに「AIセッション記録のコミット統合」機能検討の価値が今日一日で確認された。
+
+AI開発ツール群が揃って午後加速: Right-sizes LLM(+29)、Timber(+23)。LLMローカル実行・最適化系ツールへの関心が米国東海岸起床で再燃している。
+
+Logira（AIエージェントのeBPFランタイム監査）が再登場。Falcon PlatformのVM環境エージェント実行セキュリティとして参照価値あり。
+
+WebMCPが242ptsと着実成長継続。ブラウザレベルMCP標準化は今日のHNで最も持続的な上昇トレンドの一つ。
+
+---
+
