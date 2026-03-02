@@ -620,3 +620,65 @@ Fetched: 2026-03-02 10:30 JST
 MCP vs CLI(252pts)とWebMCP(105pts)の同時上昇は一見矛盾するが、実際は「MCPの使いどころを理解した上での適切な適用」という議論が成熟している証拠。
 Microgptの累計+431ptsは今日のHN史上でも記憶に残るシグナル。Karpathyのコンテンツは終日（10時間以上）衰えずに上昇し続けた。
 
+---
+
+## 11:30 JST 更新差分
+
+Fetched: 2026-03-02 11:30 JST
+
+### スコア変動（11:30 vs 10:30）
+
+| タイトル | 10:30 | 11:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1684 | 1702 | +18 |
+| Anthropic supply chain risk | 780 | 783 | +3 |
+| Ghostty Terminal Emulator | 604 | 617 | +13 |
+| When does MCP make sense vs CLI | 252 | 271 | **+19** ⚡ |
+| Switch to Claude | 516 | 523 | +7 |
+| AI chat ad-supported | 460 | 474 | +14 |
+| **WebMCP early preview** | 105 | 132 | **+27** ⚡ |
+| Why XML Tags / Claude | 155 | 166 | +11 |
+| AI is making junior devs useless | 144 | 147 | +3 (289コメント) |
+| CMU AI Course | 223 | 230 | +7 |
+| Decision trees | (396) | 402 | +6 |
+| Claude dethrones ChatGPT | 42 | 50 | +8 |
+
+### 注目: 11:30時点の急上昇
+
+**WebMCPが今時間最大の+27pts（132pts）**
+- 10:30: 105pts → 11:30: 132pts（コメント79）
+- ChromeのWebMCPが今日のAI/MCP系で最も加速している新興シグナル。
+
+**MCP vs CLI議論継続: +19pts（271pts）**
+- MCPバックラッシュとWebMCP拡大が並行して盛り上がっている状況が継続。
+
+**AI is making junior devs useless: コメント/スコア比が今日最高値更新**
+- スコア147に対してコメント289（比率: 1.97）
+- ほぼ2:1のコメント/スコア比は今日のHNで最も分極している議題。
+
+### 新規ストーリー（注目）
+
+**[451pts, 231comments] How to talk to anyone and why you should**
+- URL: theguardian.com
+- 非AIの人間関係・コミュニケーション術が451ptsと強い関心。
+- HN技術者がAIだけでなく「人間力」を求めているシグナル。AIの台頭への反動か。
+
+### 累計上昇ランキング（00:30 → 11:30）
+
+| タイトル | 00:30 | 11:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1702 | **+449** 🔥 |
+| AI chat ad-supported | 203 | 474 | **+271** 🔥 |
+| Switch to Claude | 354 | 523 | **+169** |
+| Anthropic supply chain risk | 653 | 783 | +130 |
+| Ghostty | (新規) | 617 | — |
+| MCP vs CLI | (新規) | 271 | — |
+| WebMCP | (新規) | 132 | — |
+
+### 11:30 分析メモ
+
+Microgptが累計+449ptsで終日圧倒的1位を維持。11時間後でも上昇継続中。
+**WebMCPが今時間の最大急上昇（+27pts）**。MCP vs CLI懐疑論と同時進行する逆説。業界標準化はChromeが推進しながら、HN技術者は「本当にMCPが必要か」を問い続けている。
+「AI is making junior devs useless」のコメント/スコア比が1.97に到達。今日のHNで最も感情的・分極的なトピック。技術コミュニティがAIの影響を真剣に議論している証拠。
+**非AI系シグナル**: 「How to talk to anyone」が451ptsと強い関心。AIへの疲れ・人間力への回帰的需要がHN技術者の間でも存在する。Fuyajoのユーザーコミュニティ設計への示唆。
+
