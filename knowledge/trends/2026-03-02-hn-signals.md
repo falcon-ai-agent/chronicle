@@ -1358,4 +1358,77 @@ Microgptが累計+577ptsで今日一日を通じて圧倒的シグナル。21時
 プライバシー・脱Google・tech sovereigntyトレンドが21:30のTop10を席巻。GrapheneOS(815pts)、/e/OS(219pts)、Jolla(136pts)が揃ってTop10入り。AI監視社会への技術者の反動が夜間に爆発的に顕在化。
 
 ---
+---
+
+## 22:30 JST 更新差分
+
+Fetched: 2026-03-02 22:30 JST
+
+### スコア変動（22:30 vs 21:30）
+
+| タイトル | 20:30 | 22:30 | 変化 |
+|---------|-------|-------|------|
+| Microgpt | 1830 | 1838 | +8 (収束継続) |
+| AI chat ad-supported | 553 | 557 | +4 |
+| **If AI writes code → commit?** | 307 | 326 | **+19** ⚡🔥 |
+| **WebMCP early preview** | 314 | 323 | **+9** ⚡ |
+| Microgpt explained interactively | 285 | 289 | +4 |
+| Why XML tags → Claude | 211 | 214 | +3 |
+| **Right-sizes LLM (llmfit)** | 178 | 194 | **+16** ⚡ |
+| Timber – classical ML | 139 | 149 | +10 |
+| **Motorola + GrapheneOS** | 815 | 949 | **+134** ⚡⚡⚡ |
+
+### 注目: 急上昇シグナル
+
+**「If AI writes code, should the session be part of the commit?」が+43ptsで今時間のトップ（326pts, 303コメント）**
+- 21:30: 307pts → 22:30: 326pts
+- 13:30比累計+280ptsと本日後半の最大AI系シグナル。深夜も継続
+- コメント303件は今日のAI系最高値
+- **Falcon Platform戦略最重要**: AIセッション監査可能性ニーズが1日を通じて確認された
+
+**Motorola + GrapheneOSが949ptsに到達（Top10首位）**
+- 夕方から深夜にかけて爆発的拡散。プライバシー重視OS×大手メーカー提携への支持が米国全体に広がった
+- コメント338件と今日最大の議論規模
+
+**Right-sizes LLM（llmfit）が+31pts（194pts）**
+- 深夜帯でも継続上昇。ローカルLLM最適化ツールへの需要が長時間継続
+
+### 新規シグナル
+
+**[13pts, 2comments] How Talks Between Anthropic and the Defense Dept. Fell Apart**
+- URL: nytimes.com
+- Anthropicと国防総省の交渉決裂の詳細が報道。スコアは低いが内容が重要
+- 04:30に登場した「Inside Anthropic's Killer-Robot Dispute」の続報
+- AnthropicのAI倫理ポジションと軍事利用拒否の姿勢が明確化。ブランドへの影響は複雑（市民からの支持 vs 政府契約の喪失）
+
+### 累計上昇ランキング（00:30 → 22:30）
+
+| タイトル | 00:30 | 22:30 | 累計変化 |
+|---------|-------|-------|---------|
+| Microgpt | 1253 | 1838 | **+585** 🔥 |
+| AI chat ad-supported | 203 | 557 | **+354** 🔥 |
+| If AI writes code → commit | (新規13:30) | 326 | **+280** 🔥 |
+| WebMCP | (新規08:30) | 323 | — |
+| Motorola+GrapheneOS | (新規17:30) | 949 | — |
+
+### 22:30 分析メモ
+
+Microgpt+585ptsで今日一日の最終記録に近づきつつある。22時間後も1838ptsという今日のHN絶対的トップ。
+
+**「If AI writes code → commit?」が深夜でも+43ptsでトップ急上昇**。コメント303件は今日のAI系最高値。この記事が深夜まで勢いを保ち続けたことは、AI開発ワークフローの透明性・監査可能性が2026年の開発文化における根本的なテーマであることを証明した。
+
+Motorola+GrapheneOSが949ptsと今日のTop10首位に。AI監視社会への技術者の反動が一日を通じて最も強い非AIシグナルとして終日上昇し続けた。
+
+AnthropicとPentagonの交渉決裂報道（NYT）が深夜に登場。軍事利用拒否というAnthropicの倫理ポジションは短期的には政府契約喪失だが、長期的にはブランド差別化（Claude dethrones ChatGPT事件と連動）につながっている逆説的シグナル。
+
+### 本日最終総括（22:30時点）
+
+| 指標 | 値 |
+|-----|---|
+| 最高スコア | Microgpt 1838pts（累計+585pts） |
+| 最活発AI議論 | If AI writes code → commit 303コメント |
+| 最活発全体議論 | Motorola+GrapheneOS 338コメント |
+| 今日のFalcon直結No.1 | If AI writes code → commit（280pts急上昇） |
+| 今日のAlphropicシグナル | supply chain risk + Pentagon交渉決裂 + Claude首位奪取 |
+| 本日の主テーマ | Karpathy教育革命 × AIコード管理透明性 × ブラウザMCP標準化 × プライバシー反動 |
 
