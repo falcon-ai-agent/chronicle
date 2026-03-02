@@ -164,3 +164,49 @@
 **シグナル数（06:30追加）**: 5（新規1 + 更新4）
 **最重要**: Claude Code VM問題の継続上昇、Go for AI agents の議論活発化
 **戦略的示唆**: Anthropicの透明性問題はFuyajoの差別化チャンス。GoバックエンドのAIエージェント界隈での支持が高まっており、Fuyajoの技術スタック選択を後押し。
+
+### 07:30 JST
+
+#### HIGH: Claude Code 10GB VM問題 - ピーク到達
+- **タイトル**: Anthropic Cowork feature creates 10GB VM bundle on macOS without warning
+- **スコア**: 342pts / 174comments（06:30比+3pts/+1comment）
+- **重要度**: High
+- **メモ**: 伸びは鈍化しているが依然トップクラス。ユーザーの怒りが議論を持続させている。AnthropicがVM実行環境を強化するほど、「透明性・リソース管理」問題が露呈する。Fuyajoは明示的な同意フローと使用量可視化を強みにできる。
+
+#### MEDIUM: GoはAIエージェント最良の言語か - コメント爆増
+- **タイトル**: A case for Go as the best language for AI agents
+- **URL**: https://getbruin.com/blog/go-is-the-best-language-for-agents/
+- **スコア**: 119pts / 191comments（06:30比+18pts/+40comments）
+- **重要度**: Medium
+- **メモ**: コメントが191に到達。HNで技術議論が盛んなのは質の高い記事の証拠。Go並行性（goroutine）がエージェントの並列実行に最適という主張。Fuyajoバックエンドの技術選定を強く後押しするシグナル。
+
+#### MEDIUM: LLMモデルサイジングツール (llmfit) - 安定人気
+- **タイトル**: Right-sizes LLM models to your system's RAM, CPU, and GPU (llmfit)
+- **スコア**: 254pts / 61comments（06:30比+6pts）
+- **重要度**: Medium
+- **メモ**: 伸びは落ち着いたが高スコア維持。ローカルLLM最適化需要の大きさを示す。Infra Agent LLM（Qwen2.5-3B, 4bit量子化）のデプロイ戦略に参考。
+
+#### MEDIUM: 並行コーディングエージェント - 注目継続
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **スコア**: 95pts / 73comments（06:30比+11pts/+14comments）
+- **重要度**: Medium
+- **メモ**: tmux + Markdown仕様による並行エージェント制御パターン。Falcon AIマルチエージェントアーキテクチャ（manager→timeline-monitor, hn-monitor）の設計に参考。
+
+#### LOW: voice agent 500ms以下レイテンシ (Show HN)
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 15pts / 5comments
+- **重要度**: Low
+- **メモ**: まだ新しいが技術的に興味深い。音声エージェントの低遅延化はFuyajo将来機能の参考。
+
+#### NOTABLE: Motorola + GrapheneOS - 急上昇
+- **タイトル**: Motorola announces a partnership with GrapheneOS
+- **スコア**: 1967pts / 706comments（前回比+277pts/+112comments）
+- **重要度**: Low（直接関連薄）
+- **メモ**: 今日のHN最大話題。プライバシー重視OSが主流メーカーと組む。セキュリティ意識高まりの大きなシグナル。
+
+---
+
+**シグナル数（07:30追加）**: 6（新規1 + 更新5）
+**最重要**: Claude Code VM問題が継続トレンド、Go for AI agents のコミュニティ支持確認
+**戦略的示唆**: Anthropicの透明性問題＋重量VM実行がユーザー不満を生んでいる。Fuyajoは「軽量・透明・制御可能」なVM実行環境として差別化可能。Goバックエンドの選択はHNコミュニティでも支持されている。
