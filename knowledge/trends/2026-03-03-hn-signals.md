@@ -365,3 +365,61 @@
 **シグナル数（10:30追加）**: 6（新規0 + 更新6）
 **最重要**: Metaスマートグラスが457ptsでHN全体1位・AIプライバシー問題が本日最大テーマに確定
 **戦略的示唆**: 「AIは全部見ている」という恐怖がHNを支配した一日。Claude Code VM透明性問題（353pts）とMeta監視問題（457pts）が並んでトップ。Fuyajoの「ユーザーデータを外に出さない・明示的な同意・使用量可視化」というポジションは今日のHNトレンドと完全に一致する。Voice agentの急成長（15→142pts）はリアルタイムAI需要の高さを示す。Goバックエンドの支持は終日確認。
+
+### 11:30 JST
+
+#### HIGH: Metaスマートグラス - 575ptsに到達・HN全体1位独走
+- **タイトル**: The workers behind Meta's smart glasses can see everything
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 575pts / 322comments（10:30比+118pts/+77comments）
+- **重要度**: High
+- **関連**: AIプライバシー / 監視 / ユーザー信頼
+- **メモ**: 10:30時点457ptsから575ptsへ118pt急騰し続けている。HN全体1位独走。「AIの目が常に開いている」という恐怖が技術者コミュニティで拡大中。AI製品の透明性・ユーザー信頼が今日のHN最大テーマとして確定。Fuyajoの「データを外に出さない」訴求が強烈に求められているシグナル。
+
+#### MEDIUM: voice agent sub-500ms - 176ptsに継続上昇（Show HN最高位）
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 176pts / 45comments（10:30比+34pts/+8comments）
+- **重要度**: Medium
+- **関連**: AI Agent / リアルタイム音声 / 実装パターン
+- **メモ**: 07:30時15pts→10:30時142pts→11:30時176ptsと一貫した急上昇継続。本日のShow HN最高スコア。sub-500ms音声エージェントの実装詳細が技術者に強く響いている。Fuyajoのリアルタイム音声インターフェース実装の参考資料として保存価値あり。
+
+#### MEDIUM: 新iPad Air M4 - 328pts/528コメント（AIハードウェア需要）
+- **タイトル**: New iPad Air, powered by M4
+- **URL**: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+- **スコア**: 328pts / 528comments
+- **重要度**: Medium
+- **関連**: AIハードウェア / エッジコンピューティング
+- **メモ**: M4チップ搭載iPad Airが高注目。Neural Engine強化でエッジAI推論性能が向上。M4 Neural Engineリバースエンジニアリング記事（272pts）と合わせてAppleのAIハードウェア投資が注目を集める一日。ローカルLLM実行（Infra Agent LLM）の将来プラットフォームとして参考。
+
+#### MEDIUM: M4 Neural Engine リバースエンジニアリング - 272pts安定
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **スコア**: 272pts / 72comments（10:30比+4pts/+4comments）
+- **重要度**: Medium
+- **関連**: ハードウェア / ML推論 / ローカルLLM
+- **メモ**: 安定した高評価を維持。iPad Air M4発表と合わせてApple Neural Engine関連が今日のAIハードウェアトレンドとして定着。
+
+#### MEDIUM: 並行コーディングエージェント（tmux）- 127ptsへ
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **スコア**: 127pts / 96comments（10:30比+9pts/+7comments）
+- **重要度**: Medium
+- **メモ**: 着実な成長。本日のAIエージェントパターン系で最も実践的な記事。Falcon AIマルチエージェント構成の参考として引き続き価値あり。
+
+#### MEDIUM: GoはAIエージェント最良の言語か - 154pts/223コメントで安定
+- **タイトル**: A case for Go as the best language for AI agents
+- **スコア**: 154pts / 223comments（10:30比+3pts/+2comments）
+- **重要度**: Medium
+- **メモ**: 伸びは鈍化したが223コメントで深い議論が継続。朝から夕方まで一貫してFuyajoバックエンド（Go）への支持を示し続けた一日。
+
+#### LOW: Ask HN: What Online LLM / Chat do you use?
+- **URL**: https://news.ycombinator.com/item?id=47227046
+- **スコア**: 3pts / 0comments（新着）
+- **重要度**: Low
+- **関連**: LLM市場 / ユーザー調査
+- **メモ**: まだ新着だが、どのLLMを使っているかの実態調査。コメントが集まれば市場シェアのシグナルになる。次回監視時に追跡価値あり。
+
+---
+
+**シグナル数（11:30追加）**: 7（新規3 + 更新4）
+**最重要**: Metaスマートグラスが575ptsでHN全体1位独走・iPad Air M4発表がAIハードウェアトレンドを後押し
+**戦略的示唆**: Meta監視問題が575ptsまで拡大し、AI製品へのプライバシー不信が本日のHN最大テーマとして確定した。同時にAppleがM4搭載iPad Airを発表し、エッジAI推論への注目も高まった。Voice agentは176ptsまで急成長し、リアルタイムAI応答への強い需要を示した。Fuyajoは「透明・軽量・ユーザー制御可能なVM実行環境」として絶好のポジショニングが可能な状況。
