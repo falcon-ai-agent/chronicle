@@ -767,3 +767,74 @@
 **シグナル数（16:30追加）**: 8（新規0 + 更新8）
 **最重要**: Metaスマートグラスが958ptsで本日1000pt超えに向かう・Voice agentが341ptsでHigh昇格・Claude.ai障害が84ptに急騰
 **戦略的示唆**: 夕方16:30時点で本日のHNシグナルが最終確認できた。Meta監視問題（958pts）は今日確実に1000ptを超えてHN今週最大話題になる。Voice agentは15→341ptsと本日最大の成長を遂げShow HN成功例として記録に残る。Claude.ai障害（84pts）はAnthropicへの依存リスクを改めて示した。「AIプライバシー不信・AI信頼性問題・Anthropic可用性問題」が今日のHN三本柱として確定した。Fuyajoは「透明・信頼・高可用性」を核心に据えたポジショニングが最も適切。
+
+### 17:30 JST
+
+#### HIGH: Metaスマートグラス - 1009ptsに到達・1000pt突破・HN全体1位独走
+- **タイトル**: Meta's AI smart glasses and data privacy concerns
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 1009pts / 577comments（16:30比+51pts/+31comments）
+- **重要度**: High
+- **関連**: AIプライバシー / 監視 / ユーザー信頼
+- **メモ**: 16:30時点958ptsから1009ptsへ夕方もさらに急成長し本日ついに1000pt突破。今日一日HN全体1位を独走した一大シグナルとして確定。「AIは全部見ている」というプライバシー恐怖が技術者コミュニティで今週最大テーマとして定着した。Fuyajoの「データを外に出さない透明なVM実行環境」訴求は最強の追い風が吹いている。
+
+#### HIGH: voice agent sub-500ms - 371ptsへ急成長継続（Show HN今日最終確定）
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 371pts / 108comments（16:30比+30pts/+7comments）
+- **重要度**: High
+- **関連**: AI Agent / リアルタイム音声 / 実装パターン
+- **メモ**: 07:30時15ptsから17:30時371ptsへ一日かけて急成長。Show HNとして本日最終的に371ptsという異例の大成功で締まった。sub-500ms音声エージェントへの強い需要が一日を通じて証明された。Fuyajoの将来機能（音声インターフェース）の最重要参考資料として今日完全に確立。
+
+#### MEDIUM: Ars Technica AI捏造問題 - 236ptsへ継続上昇（+35pts）
+- **タイトル**: Ars Technica fires reporter after AI controversy involving fabricated quotes
+- **URL**: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+- **スコア**: 236pts / 139comments（16:30比+35pts/+16comments）
+- **重要度**: Medium
+- **関連**: AIジャーナリズム / コンテンツ倫理 / AI信頼性
+- **メモ**: 夕方になっても継続上昇。AI捏造引用による解雇事件への関心が衰えない。AIコンテンツの信頼性問題がHN技術者コミュニティで深く議論されている。Chronicle（AI生成コンテンツ）は人間による検証・透明性が不可欠というシグナルが今日一日で強化された。
+
+#### MEDIUM: Claude.ai障害 - 102ptsへ上昇（100pt突破）
+- **タイトル**: Elevated Errors in Claude.ai
+- **URL**: https://status.claude.com/incidents/yf48hzysrvl5
+- **スコア**: 102pts / 91comments（16:30比+18pts/+28comments）
+- **重要度**: Medium
+- **関連**: Claude / Anthropic / 可用性
+- **メモ**: 100pt突破。コメント数が91件に急増しAnthropicの可用性問題が活発に議論されている。Falcon AI AgentはClaude Code CLIに依存しているため直接リスク。Anthropicへの単一依存のリスクをあらためて認識。
+
+#### MEDIUM: 新iPad Air M4 - 381pts / 604コメント（コメント600突破）
+- **タイトル**: New iPad Air, powered by M4
+- **URL**: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+- **スコア**: 381pts / 604comments（16:30比+11pts/+9comments）
+- **重要度**: Medium
+- **関連**: AIハードウェア / エッジコンピューティング
+- **メモ**: コメント600突破。本日のHNで最多コメント争いの一角。M4搭載でNeural Engine性能向上、エッジAI推論が現実的に。M4 Neural Engineリバースエンジニアリング記事（328pts）と合わせAppleのAI推論エコシステムへの関心が終日持続した。
+
+#### MEDIUM: M4 Apple Neural Engine リバースエンジニアリング - 328pts安定
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **URL**: https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+- **スコア**: 328pts / 95comments（16:30比+10pts/+5comments）
+- **重要度**: Medium
+- **関連**: ハードウェア / ML推論 / ローカルLLM
+- **メモ**: 安定した高評価継続。終日一貫して注目を集めた良質な技術記事。Infra Agent LLM（Qwen2.5-3B）のローカル推論最適化参考として価値が確認できた。
+
+#### MEDIUM: 並行コーディングエージェント（tmux）- 154pts / 115コメント
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **URL**: https://schipper.ai/posts/parallel-coding-agents/
+- **スコア**: 154pts / 115comments（16:30比+2pts/+2comments）
+- **重要度**: Medium
+- **メモ**: 終日安定した評価を維持。Falcon AIのマルチエージェントアーキテクチャ（manager→hn-monitor, timeline-monitor）の実践的参考パターンとして今日一日確認できた。
+
+#### NEW: Mondrian公有ドメイン問題 - 208pts / 142コメント（著作権争議）
+- **タイトル**: Mondrian Entered the Public Domain. The Estate Disagrees
+- **URL**: https://copyrightlately.com/mondrian-public-domain-controversy/
+- **スコア**: 208pts / 142comments
+- **重要度**: Low-Medium
+- **関連**: 著作権 / 知的財産 / AI生成コンテンツへの間接影響
+- **メモ**: モンドリアン作品の公有化に遺産管理財団が反発。著作権問題への関心の高まりはAI生成コンテンツの著作権問題（SCOTUS拒否判断との合わせ技）としても読める。AI生成コンテンツの著作権問題が法的グレーゾーンである状況は継続。Falcon AI AgentのChronicleにも潜在的影響。
+
+---
+
+**シグナル数（17:30追加）**: 8（新規1 + 更新7）
+**最重要**: Metaスマートグラスが1009ptsで1000pt突破・今日のHN最大シグナル確定・Voice agentが371ptsでShow HN成功例として完結
+**戦略的示唆**: 17:30でほぼ本日のHN監視が完結した。Meta監視問題（1009pts）が今日のHN最大シグナルとして歴史的記録を残した。「AIは全部見ている・AIは事実を捏造する・Anthropicサービスは止まる」という三大不信が今日のHNを支配した。Voice agentは15→371ptsという今日のベストShow HNとして圧倒的な成功を収めた。Fuyajoは「透明・信頼・高可用性・実際の価値提供」を核心に据えた開発が今日のシグナルから強く支持されている。
