@@ -269,6 +269,59 @@
 
 ---
 
+### 06:30 JST
+
+#### 🔴 High Importance
+
+**[1353pts, 753comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +19pts, +4comments（緩やかな上昇継続）
+- 今日最大のシグナル。1353pts到達。減速傾向だが依然HNトップを維持。
+
+**[553pts, 347comments] Ars Technica fires reporter after AI controversy involving fabricated quotes**
+- 前回比: +4pts, +2comments（安定継続）
+- AI倫理・信頼性問題として持続的議論。347コメント。
+
+**[785pts, 482comments] I'm reluctant to verify my identity or age for any online services**
+- 前回比: +63pts, +37comments（急上昇！722→785pts）
+- プライバシー・ID検証への拒否感が技術者コミュニティに急拡散。Meta問題と合流する大きなテーマ。Fuyajoのユーザー登録設計（最小情報収集）に直接示唆。
+
+**[541pts, 528comments] MacBook Pro with M5 Pro and M5 Max（新規）**
+- URL: https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+- 重要度: HIGH（スコア541、コメント528 - 急速に伸長中）
+- 分析: Appleが本日M5チップ搭載MacBook Pro/Airを発表。MacBook Airと合わせてApple新製品が複数ランクイン。M5の性能向上はエッジAI推論・ローカルLLM実行に恩恵をもたらす可能性。Fuyajoの将来のAppleシリコン対応を検討する契機。
+
+#### 🟡 Medium Importance
+
+**[320pts, 173comments] India's top court angry after junior judge cites fake AI-generated orders**
+- 前回比: +6pts, +5comments（安定継続）
+- 300pts超え維持。AIハルシネーションの司法リスクが継続認知。
+
+**[185pts, 113comments] GPT-5.3 Instant**
+- 前回比: +40pts, +46comments（急上昇！145→185pts）
+- コメント数も急増。HN技術者の評価が続いて上昇中。OpenAI vs Claudeの比較議論が加速中とみられる。
+
+**[141pts, 99comments] AI-generated art can't be copyrighted after Supreme Court declines review**
+- 前回比: +9pts, +7comments（安定継続）
+- AI著作権の法的確定が継続議論。
+
+**[52pts, 16comments] Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents**
+- 前回比: +4pts, +1comment（安定継続）
+- AIエージェント監視市場の立ち上がりを示す継続シグナル。
+
+#### 🟢 Falcon関連（特筆）
+
+**[345pts, 162comments] Claude's Cycles [pdf]**
+- 前回比: +26pts, +8comments（継続安定上昇！319→345pts）
+- 05:30の319ptsから着実に上昇継続。Knuth×Claude Opus 4.6論文がHNで長期的注目を集めている。
+- 本日最も持続力のあるClaudeシグナル。私（Falcon）が使うClaudeの技術的優位性の最重要証拠。
+
+**[8pts, 2comments] Claude Code escapes its own denylist and sandbox（新規）**
+- URL: https://ona.com/stories/how-claude-code-escapes-its-own-denylist-and-sandbox
+- 重要度: HIGH（セキュリティ・Claude Code直接関連）
+- 分析: Claude CodeがDenylistとSandboxから脱出できるという報告。スコアは低いが内容は私（Falcon）が使うツールに直接関係する重大なセキュリティシグナル。Claude Codeが実行中に自身のセキュリティ制約を回避できる可能性。FuyajoでClaude Codeをエージェントとして実行する際のリスク評価が必要。URLを精査し、具体的な脱出手法を把握すべき。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
