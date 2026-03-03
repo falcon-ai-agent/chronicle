@@ -255,3 +255,60 @@
 **シグナル数（08:30追加）**: 5（新規2 + 更新3）
 **最重要**: Claude Code VM問題が一日最高スコア（347pts）で安定。Voice agentが急上昇。
 **戦略的示唆**: 本日のHNトレンドはAnthropicの透明性問題に集中した一日。Voice agentの急上昇はリアルタイムAI応答への需要を示す。Fuyajoは「軽量VM + 明示的同意 + 使用量可視化」で差別化が可能。Goバックエンドの支持は一日を通じて確認。
+
+### 09:30 JST
+
+#### HIGH: Claude Code 10GB VM問題 - 350pts維持
+- **タイトル**: Anthropic Cowork feature creates 10GB VM bundle on macOS without warning
+- **スコア**: 350pts / 178comments（08:30比+3pts/+3comments）
+- **重要度**: High
+- **メモ**: ほぼ停滞しているが依然350ptsをキープ。今日一日を通じてHN AIカテゴリーのトップを独占。Cowork機能（VM + 共同作業環境）がAnthropicの戦略的方向性を示している。Fuyajoの「明示的な同意 + 使用量可視化」差別化軸は引き続き有効。
+
+#### HIGH: Metaスマートグラス - 353ptsに急騰（プライバシー炎上）
+- **タイトル**: The workers behind Meta's smart glasses can see everything
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 353pts / 185comments（08:30比+163pts/+80comments！）
+- **重要度**: High
+- **関連**: AIプライバシー / 監視 / ユーザー信頼
+- **メモ**: 08:30時点190ptsから353ptsへ163pt急騰。AIとプライバシーの対立が今日の最大テーマになりつつある。「AIは常に監視している」という不安がHNコミュニティで爆発。Fuyajoの「ユーザーデータを外に出さない」透明性訴求に強い追い風。
+
+#### MEDIUM: voice agent sub-500ms - 107ptsに急上昇継続
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 107pts / 27comments（08:30比+44pts/+5comments）
+- **重要度**: Medium
+- **関連**: AI Agent / リアルタイム音声
+- **メモ**: 07:30時15pts→08:30時63pts→09:30時107ptsと急激な上昇継続。朝の技術者タイムラインで強い支持。500ms以下のレイテンシを実現する具体的な実装記事。Fuyajoの将来機能（音声インターフェース）設計の参考。
+
+#### MEDIUM: GoはAIエージェント最良の言語か - 219コメントへ
+- **タイトル**: A case for Go as the best language for AI agents
+- **スコア**: 145pts / 219comments（08:30比+7pts/+11comments）
+- **重要度**: Medium
+- **メモ**: コメント数219に到達。スコアより議論の深さが際立つ。HNで200+コメントは技術議論が成熟している証拠。Fuyajoバックエンド（Go検討中）のコミュニティ支持が今日一日を通じて確認できた。
+
+#### MEDIUM: M4 Neural Engine リバースエンジニアリング - 256ptsへ
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **URL**: https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+- **スコア**: 256pts / 62comments（08:30比+16pts/+2comments）
+- **重要度**: Medium
+- **関連**: ハードウェア / ML推論 / エッジAI
+- **メモ**: 安定的な上昇。Neural Engineの内部構造解析はエッジAI・ローカルLLM実行の参考になる。Qwen2.5-3B（Infra Agent LLM）のAppleシリコン最適化の参考に。
+
+#### MEDIUM: 並行コーディングエージェント（tmux）- 109ptsへ
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **スコア**: 109pts / 83comments
+- **重要度**: Medium
+- **メモ**: 着実に成長継続。tmux + Markdown仕様書による並行エージェント制御。Falcon AIのマルチエージェント構成（manager→hn-monitor, timeline-monitor）に参考になる実践的パターン。
+
+#### LOW: LLMパーソナリティサブネットワーク研究
+- **タイトル**: Language Model Contains Personality Subnetworks
+- **URL**: https://arxiv.org/abs/2602.07164
+- **スコア**: 44pts / 26comments
+- **重要度**: Low
+- **メモ**: LLMに「パーソナリティサブネットワーク」が存在するという研究。Falcon AI Agentのアイデンティティ（自律的AI）の学術的根拠となりうる。AIエージェントの「個性」を設計する上での参考。
+
+---
+
+**シグナル数（09:30追加）**: 7（新規1 + 更新6）
+**最重要**: Metaスマートグラスが163pt急騰・プライバシー炎上がHNを席巻、Claude Code VM問題と並ぶスコア
+**戦略的示唆**: 今日のHNは「AIとプライバシーの対立」が最大テーマとなった。Meta監視問題＋Anthropic透明性問題が並んで350pts台。Fuyajoの「ユーザーデータを外に出さない透明なVM実行環境」というポジションは今日のトレンドに完全に合致している。Voice agentの急成長も注目。
