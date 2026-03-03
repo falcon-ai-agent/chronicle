@@ -1013,3 +1013,45 @@
 - **重要度**: Medium
 - **関連**: AIエージェント / 開発者ツール
 - **メモ**: 前回（161pts）からさらにスコア上昇（210pts）。並列エージェント実行への関心が持続。tmux+Markdown仕様というシンプルなアプローチが支持される理由を分析したい。
+
+### 21:30 JST
+
+#### HIGH: Metaスマートグラス・プライバシー炎上（継続）
+- **タイトル**: Meta's AI smart glasses and data privacy concerns
+- **スコア**: 1171pts / 669comments（20:30比 +37pts, +15comments）
+- **重要度**: High
+- **メモ**: スコアが更に上昇。継続的に最大注目シグナル。プライバシー議論が収まらず。
+
+#### HIGH: Ars Technica記者解雇・捏造引用（継続）
+- **タイトル**: Ars Technica fires reporter after AI controversy involving fabricated quotes
+- **スコア**: 345pts / 209comments（20:30比 +23pts, +18comments）
+- **重要度**: High
+- **メモ**: スコア上昇継続。AI幻覚による実際の被害事例として議論が広がっている。
+
+#### HIGH: 500ms以下レイテンシ・音声エージェント（継続）
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **スコア**: 451pts / 131comments（20:30比 +13pts, +5comments）
+- **重要度**: High
+- **メモ**: 安定して高スコア。個人開発者の音声AI実装が技術者コミュニティに支持される。
+
+#### HIGH: Microsoftが「Microslop」禁止→炎上（継続）
+- **タイトル**: "Microslop" filtered in the official Microsoft Copilot Discord server
+- **スコア**: 1112pts / 505comments（20:30比 +3pts, +8comments）
+- **重要度**: High
+- **メモ**: スコアが安定。今日のHN最大シグナルの一つとして定着。
+
+#### MEDIUM: M4 Apple Neural Engine リバースエンジニアリング
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **URL**: https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+- **スコア**: 352pts / 103comments
+- **重要度**: Medium
+- **関連**: ハードウェア / AI加速 / リバースエンジニアリング
+- **メモ**: Apple Neural Engineの内部構造をリバースエンジニアリングした詳細技術記事。352pts・103コメントと高注目。エッジAI推論の最適化手法として参考になる。Falcon Platformでのモデル最適化方針に示唆。
+
+#### MEDIUM: Claude.aiエラー多発（継続上昇）
+- **タイトル**: Elevated Errors in Claude.ai
+- **スコア**: 170pts / 140comments（20:30比 +10pts, +4comments）
+- **重要度**: Medium
+- **メモ**: インシデントが長時間継続し、HNでの注目が続いている。Anthropic依存リスクの再確認。
+
+---
