@@ -423,3 +423,65 @@
 **シグナル数（11:30追加）**: 7（新規3 + 更新4）
 **最重要**: Metaスマートグラスが575ptsでHN全体1位独走・iPad Air M4発表がAIハードウェアトレンドを後押し
 **戦略的示唆**: Meta監視問題が575ptsまで拡大し、AI製品へのプライバシー不信が本日のHN最大テーマとして確定した。同時にAppleがM4搭載iPad Airを発表し、エッジAI推論への注目も高まった。Voice agentは176ptsまで急成長し、リアルタイムAI応答への強い需要を示した。Fuyajoは「透明・軽量・ユーザー制御可能なVM実行環境」として絶好のポジショニングが可能な状況。
+
+### 12:30 JST
+
+#### HIGH: Metaスマートグラス - 672ptsに到達・HN全体1位継続
+- **タイトル**: The workers behind Meta's smart glasses can see everything
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 672pts / 378comments（11:30比+97pts/+56comments）
+- **重要度**: High
+- **関連**: AIプライバシー / 監視 / ユーザー信頼
+- **メモ**: 672ptsに到達し本日HN全体1位を独走継続。AIとプライバシーへの怒りが一日中衰えない。このトピックが今週のHN最大シグナルになる可能性。Fuyajoの「データを外に出さない」透明性訴求は継続して強い追い風。
+
+#### MEDIUM: voice agent sub-500ms - 217ptsに到達（41pt急増）
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 217pts / 62comments（11:30比+41pts/+17comments）
+- **重要度**: Medium
+- **関連**: AI Agent / リアルタイム音声 / 実装パターン
+- **メモ**: 07:30時15ptsから一日かけて217ptsへ急成長。Show HNとしては異例の高スコア。sub-500ms実現の技術的詳細（WebRTC、ストリーミング、低遅延パイプライン）が技術者に強く響いている。Fuyajoの音声インターフェース実装の最重要参考資料。
+
+#### MEDIUM: 新iPad Air M4 - 338pts / 542コメント（コメント急増）
+- **タイトル**: New iPad Air, powered by M4
+- **URL**: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+- **スコア**: 338pts / 542comments（11:30比±0pts/+14comments）
+- **重要度**: Medium
+- **関連**: AIハードウェア / エッジコンピューティング
+- **メモ**: スコアは横ばいだがコメント数が542に増加。M4搭載でNeural Engine性能が向上、ローカルLLM推論が現実的に。M4 Neural Engineリバースエンジニアリング記事との相乗効果でAppleのAI戦略が本日HNのサブテーマとなっている。
+
+#### MEDIUM: M4 Neural Engine リバースエンジニアリング - 280ptsへ
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **URL**: https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+- **スコア**: 280pts / 74comments（11:30比+8pts/+2comments）
+- **重要度**: Medium
+- **関連**: ハードウェア / ML推論 / ローカルLLM
+- **メモ**: iPad Air M4発表と合わせてAppleのAI推論エンジンへの関心が持続。安定した高評価。
+
+#### MEDIUM: 並行コーディングエージェント（tmux）- 130pts / 103コメント
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **URL**: https://schipper.ai/posts/parallel-coding-agents/
+- **スコア**: 130pts / 103comments（11:30比+3pts/+7comments）
+- **重要度**: Medium
+- **メモ**: 100コメント突破。tmux + Markdown仕様による並行AIエージェント制御が一日を通じて安定した注目を集めた。Falcon AIのマルチエージェント設計（manager→hn-monitor, timeline-monitor）の直接的参考パターン。
+
+#### MEDIUM: GoはAIエージェント最良の言語か - 158pts / 225コメント
+- **タイトル**: A case for Go as the best language for AI agents
+- **URL**: https://getbruin.com/blog/go-is-the-best-language-for-agents/
+- **スコア**: 158pts / 225comments（11:30比+4pts/+2comments）
+- **重要度**: Medium
+- **メモ**: 225コメントで深い議論が一日中継続。朝から夜まで安定して支持を集めるのは内容の質が高い証拠。Fuyajoバックエンド（Go検討中）の技術選定を支持するシグナルが今日一日で確定した。
+
+#### LOW: Ars Technica、AI捏造引用問題でライター解雇（新規）
+- **タイトル**: Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes
+- **URL**: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+- **スコア**: 9pts / 3comments（新着）
+- **重要度**: Low-Medium
+- **関連**: AIジャーナリズム / コンテンツ倫理 / AI信頼性
+- **メモ**: AIが捏造した引用を記事に使用し解雇。AIコンテンツの検証問題が浮き彫り。Falcon AI AgentのChronicle（AI生成コンテンツ）にとっても「透明性・検証可能性」の重要性を示す。まだスコア低いが追跡価値あり。
+
+---
+
+**シグナル数（12:30追加）**: 7（新規1 + 更新6）
+**最重要**: Metaスマートグラスが672ptsでHN全体1位独走継続・voice agentが217ptsへ急成長
+**戦略的示唆**: Meta監視問題は672ptsまで拡大し今日最大のシグナルとして確定。AIプライバシー不信の波が本物であることが証明された。voice agentが一日かけて217ptsまで急成長しリアルタイムAI需要の強さを示した。GoバックエンドはHNで終日支持され技術選択の根拠として確立。Ars Technicaの事件はAI生成コンテンツの検証問題を改めて提起しており、Falcon AI AgentのChronicle透明性戦略の重要性を再確認させる。
