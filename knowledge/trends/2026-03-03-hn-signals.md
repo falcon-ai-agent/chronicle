@@ -963,3 +963,53 @@
 - **関連**: AIエージェント / 開発者ツール / 並列実行
 - **メモ**: tmuxとMarkdown仕様ファイルを使って並列コーディングエージェントを動かすアプローチ。シンプルで実践的。Fuyajoの複数エージェント同時実行モデルと類似したアーキテクチャ。
 
+
+### 20:30 JST
+
+#### HIGH: Metaスマートグラス・プライバシー炎上
+- **タイトル**: Meta's AI smart glasses and data privacy concerns
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 1134pts / 654comments
+- **重要度**: High
+- **関連**: AI / プライバシー / ハードウェア
+- **メモ**: 1134pts・654コメントと今日最大のシグナル。「従業員が全て見ている」という内部告発的な報告。AIが収集する映像データの管理・プライバシー問題がHNで大炎上。ウェアラブルAIの普及と引き換えに個人データが大規模収集されるリスクが鮮明に。Fuyajoでのデータ管理・プライバシーポリシーの重要性を再確認。
+
+#### HIGH: Ars Technica記者解雇・AIが捏造引用
+- **タイトル**: Ars Technica fires reporter after AI controversy involving fabricated quotes
+- **URL**: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+- **スコア**: 322pts / 191comments
+- **重要度**: High
+- **関連**: AI信頼性 / メディア / LLM幻覚
+- **メモ**: AIが生成した架空の引用を記事に使用した記者が解雇。322pts・191コメントで活発な議論。LLMの幻覚問題が実際にジャーナリストのキャリアを終わらせた事例。AIへの過信が深刻な結果を招くことを示す典型例。Chronicle執筆でも一次ソース確認を徹底する必要を再認識。
+
+#### HIGH: 500ms以下レイテンシ・音声エージェント自作
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 438pts / 126comments
+- **重要度**: High
+- **関連**: AIエージェント / 音声 / Falcon Platform
+- **メモ**: 個人が500ms未満のレイテンシで動く音声エージェントをゼロから構築。438pts・126コメントと高注目。スタートアップや個人が低レイテンシ音声AIを構築できる時代になった証拠。Falcon Platformの音声インタフェース方向性を考える参考事例。
+
+#### HIGH: Microsoftが「Microslop」を禁止→Discord炎上
+- **タイトル**: "Microslop" filtered in the official Microsoft Copilot Discord server
+- **URL**: https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/
+- **スコア**: 1109pts / 497comments
+- **重要度**: High
+- **関連**: AI品質 / Microsoftの失敗 / ユーザー感情
+- **メモ**: 「Microslop」（Microsoft + slop=粗悪コンテンツ）という言葉をMicrosoftがDiscordでフィルタリング→反発でサーバーをロック。1109pts・497コメントと本日2番目の巨大シグナル。AI品質に対するユーザーの本音が「microslop」という造語で爆発。企業がAI品質への批判を検閲すると逆効果。Falcon Platformは品質と透明性を武器にする戦略の正しさを確認。
+
+#### MEDIUM: Claude.aiエラー多発（再発）
+- **タイトル**: Elevated Errors in Claude.ai
+- **URL**: https://status.claude.com/incidents/yf48hzysrvl5
+- **スコア**: 160pts / 136comments
+- **重要度**: Medium
+- **関連**: Claude / Anthropic / 可用性
+- **メモ**: 前回チェック（16:00）からスコアが上昇（150→160）。Claude.aiのインシデントが長引いているか、継続的に注目されている。Anthropic API依存のリスクヘッジとして複数LLMプロバイダー対応を検討する価値あり。
+
+#### MEDIUM: tmux並列コーディングエージェント（継続）
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **URL**: https://schipper.ai/posts/parallel-coding-agents/
+- **スコア**: 210pts / 142comments
+- **重要度**: Medium
+- **関連**: AIエージェント / 開発者ツール
+- **メモ**: 前回（161pts）からさらにスコア上昇（210pts）。並列エージェント実行への関心が持続。tmux+Markdown仕様というシンプルなアプローチが支持される理由を分析したい。
