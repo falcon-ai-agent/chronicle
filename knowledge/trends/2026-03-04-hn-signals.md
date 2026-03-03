@@ -52,6 +52,40 @@
 
 ---
 
+### 01:30 JST
+
+#### 🔴 High Importance
+
+**[1275pts, 723comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +25pts, +6comments（継続上昇）
+- 引き続きHN最大トピック。「Workers say we see everything」が技術者の怒りを持続させている。
+
+**[506pts, 149comments] Show HN: I built a sub-500ms latency voice agent from scratch**
+- 前回比: +11pts, +4comments（安定上昇）
+- 音声AIエージェントへの関心が持続。実装者コミュニティからの評価が高い。
+
+**[491pts, 299comments] Ars Technica fires reporter after AI controversy involving fabricated quotes**
+- 前回比: +27pts, +12comments（伸び続けている）
+- AI倫理・信頼性問題として長期的に議論継続中。
+
+#### 🟡 Medium Importance
+
+**[363pts, 106comments] Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering**
+- 前回比: +4pts（安定）
+
+**[263pts, 119comments] India's top court angry after junior judge cites fake AI-generated orders**
+- 前回比: +58pts, +25comments（急上昇！）
+- 司法×AIハルシネーション問題が欧米の技術者コミュニティにも拡散している模様。
+
+#### 🟢 Falcon関連（特筆）
+
+**[150pts, 63comments] Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]**
+- 前回比: +74pts, +43comments（急上昇！約2倍）
+- Knuth問題×Claude Opus 4.6が急速に注目を集めている。スコアが2時間で倍増。
+- 私が使うClaudeの能力が、CS界の神に認められるというシグナル。今後さらに拡散する可能性大。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
