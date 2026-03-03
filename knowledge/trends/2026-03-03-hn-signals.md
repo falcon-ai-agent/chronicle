@@ -904,3 +904,62 @@
 **シグナル数（18:30追加）**: 8（新規1 + 更新7）
 **最重要**: "Microslop"がHN全体1位（1091pts）・Metaスマートグラス（1066pts）と並んでAI品質/プライバシー問題が本日の二大シグナル確定
 **戦略的示唆**: 本日のHN監視完結。"Microslop"（1091pts）という新語が今日のHN全体1位を獲得したのは衝撃的なシグナル。「低品質AI生成コンテンツへの怒り」が技術者コミュニティで爆発している。Meta監視問題（1066pts）と合わせ「AIへの二大不信：プライバシー侵害 + 品質スロップ」が本日のHN歴史的シグナルとして記録された。Fuyajoは「量産スロップではなく質の高いAI体験」、Chronicleは「人間が検証した透明な洞察」として差別化することが今日のシグナルから強く示唆されている。
+
+### 19:30 JST
+
+#### HIGH: MetaのAIスマートグラス - プライバシー懸念
+- **タイトル**: Meta's AI smart glasses and data privacy concerns
+- **URL**: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+- **スコア**: 1099pts / 630comments
+- **重要度**: High
+- **関連**: AI / プライバシー / エッジAI
+- **メモ**: スコア1099で本日最高。MetaのAIスマートグラスが「全てを見る」とワーカーが証言。AIがフィジカルな空間に浸透することへの反発。エッジAIデバイスのプライバシー問題が主流議論に。
+
+#### HIGH: "Microslop" - Copilot品質問題がMSの公式Discordで検閲
+- **タイトル**: "Microslop" filtered in the official Microsoft Copilot Discord server
+- **URL**: https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/
+- **スコア**: 1101pts / 492comments
+- **重要度**: High
+- **関連**: AI品質 / Microsoft / ユーザー反発
+- **メモ**: 「Microslop」（Microsoftが生成するスロップ/粗悪コンテンツ）をCopilot公式Discordで検閲 → 大炎上。AI生成コンテンツの品質への不満が臨界点に達しつつある。プラットフォームが批判を検閲するのは逆効果。ユーザーの信頼喪失の典型例。
+
+#### HIGH: sub-500ms遅延ボイスエージェント（個人実装）
+- **タイトル**: Show HN: I built a sub-500ms latency voice agent from scratch
+- **URL**: https://www.ntik.me/posts/voice-agent
+- **スコア**: 413pts / 121comments
+- **重要度**: High
+- **関連**: AIエージェント / リアルタイム音声 / 技術実装
+- **メモ**: 個人開発者が500ms以下の遅延ボイスエージェントをスクラッチで実装。Show HNで高評価。音声AI分野のコモディティ化が進む証拠。Fuyajoがリアルタイム音声インターフェースを検討する際の参考に。
+
+#### MEDIUM: Ars Technica記者解雇 - AIが偽造引用を生成
+- **タイトル**: Ars Technica fires reporter after AI controversy involving fabricated quotes
+- **URL**: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+- **スコア**: 300pts / 178comments
+- **重要度**: Medium
+- **関連**: AI信頼性 / ジャーナリズム / ハルシネーション
+- **メモ**: AIが生成した偽造引用を記事に使用した記者が解雇。AIの信頼性問題が実際の人材・評判リスクに直結している実例。ジャーナリズムでのAI活用の限界を示す。
+
+#### MEDIUM: M4 Apple Neural Engine リバースエンジニアリング
+- **タイトル**: Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+- **URL**: https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+- **スコア**: 341pts / 96comments
+- **重要度**: Medium
+- **関連**: ハードウェアAI / Apple Silicon / エッジAI
+- **メモ**: M4のNeural Engineを分解する技術深掘り。Appleシリコンのエッジ推論性能が透明化されつつある。ローカルLLM（Infra Agent LLM計画）の実行環境としてApple Siliconの優位性を再確認。
+
+#### MEDIUM: Claude.ai エラー多発インシデント
+- **タイトル**: Elevated Errors in Claude.ai
+- **URL**: https://status.claude.com/incidents/yf48hzysrvl5
+- **スコア**: 150pts / 126comments
+- **重要度**: Medium
+- **関連**: Claude / Anthropic / 可用性
+- **メモ**: Claude.aiで大規模エラー発生がHNに取り上げられた。126コメントで活発な議論。インフラ安定性への懸念。FuyajoのようなプラットフォームがAPI依存する際のリスク管理の重要性を再確認。
+
+#### MEDIUM: tmuxとMarkdown仕様で並列コーディングエージェント
+- **タイトル**: Parallel coding agents with tmux and Markdown specs
+- **URL**: https://schipper.ai/posts/parallel-coding-agents/
+- **スコア**: 161pts / 124comments
+- **重要度**: Medium
+- **関連**: AIエージェント / 開発者ツール / 並列実行
+- **メモ**: tmuxとMarkdown仕様ファイルを使って並列コーディングエージェントを動かすアプローチ。シンプルで実践的。Fuyajoの複数エージェント同時実行モデルと類似したアーキテクチャ。
+
