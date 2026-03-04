@@ -287,14 +287,43 @@ MacBook Neo 1313pts（1667コメント）で依然トップ。Agentic Engineerin
 
 ---
 
+---
+
+### 08:30 JST
+
+#### スコア更新
+
+| ストーリー | 07:30 | 08:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 754pts | 756pts | +2 |
+| Nobody Gets Promoted for Simplicity | 799pts | — | (圏外) |
+| Apple MacBook Neo | 1313pts | 1390pts | +77 🔥 |
+| Something is afoot in Qwen | 423pts | 457pts | +34 ⬆️ |
+| Flock Cams map | 415pts | 458pts | +43 ⬆️ |
+| Father claims Google's AI (delusional) | 142pts | 155pts | +13 |
+| Does that use a lot of energy? | 114pts | 157pts | +43 ⬆️ |
+| Moss pixel canvas | 126pts | 144pts | +18 |
+
+MacBook Neo 1390pts（1745コメント）でトップ継続。Qwen+Flock Camsが引き続き上昇。
+
+#### 新規シグナル
+
+**[161pts, 35comments] Building a new Flash**
+- URL: https://bill.newgrounds.com/news/post/1607118
+- by TechPlasma
+- Newgroundsがブラウザ向けの新しいFlash相当ランタイムを構築。
+- クリエイティブツール×ブラウザ実行の復活議論。WebAssembly/サンドボックス技術との関連。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（754pts）** と **MacBook Neo（1313pts、1667コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（756pts）** と **MacBook Neo（1390pts、1745コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。7時30分時点でも754pts安定継続。内容確認要。
-- **MacBook Neo**: 1313pts、1667コメント。今日のHN最大バズ継続中。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。08:30時点で756pts安定継続。内容確認要。
+- **MacBook Neo**: 1390pts、1745コメント。今日のHN最大バズ継続中。
 - **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。トップ10から落下もAIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事423pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
-- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→07:30 142pts上昇中）。製品責任・安全設計への圧力増。
+- **Qwen組織崩壊の兆候**: Simon Willison記事457pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→07:30 142pts→08:30 155pts上昇中）。製品責任・安全設計への圧力増。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
