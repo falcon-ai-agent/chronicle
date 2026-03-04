@@ -432,6 +432,62 @@
 
 ---
 
+### 09:30 JST
+
+#### 🔴 High Importance
+
+**[1363pts, 768comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +1pt, +7comments（ほぼ停滞→天井到達）
+- 今日最大のシグナル。1363pts到達。上昇が止まり、社会的インパクトは記録完了。
+
+**[419pts, 198comments] Claude's Cycles [pdf]**
+- 前回比: +16pts, +6comments（403→419pts、安定上昇継続）
+- 400pt突破後も着実に上昇。Knuth×Claude Opus 4.6論文の持続力が際立つ。本日最重要Claudeシグナル。
+
+**[626pts, 610comments] MacBook Pro with M5 Pro and M5 Max**
+- 前回比: +18pts, +35comments（608→626pts）
+- コメント610件→本日最大コメント数トピック。M5のAI推論性能への期待が議論を牽引。
+
+**[160pts, 103comments] Don't Make Me Talk to Your Chatbot（新規）**
+- URL: https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/
+- 重要度: HIGH（UX・AIチャットボット批判）
+- 分析: 「チャットボットと話させるな」という強い拒否感が160pts。HN技術者はAIチャットボットUIに疲弊している。Fuyajoでの「会話型AI」推し出しを再考すべきシグナル。CLIファーストの設計思想を支持する声が技術者コミュニティに根強い。
+
+#### 🟡 Medium Importance
+
+**[270pts, 193comments] GPT-5.3 Instant**
+- 前回比: +20pts, +11comments（250→270pts）
+- 継続上昇。Claude's Cycles（419pts）との差が縮まらず、HN技術者の関心はClaudeが優位。
+
+**[116pts, 117comments] When AI writes the software, who verifies it?**
+- 前回比: +17pts, +28comments（99→116pts、100pt突破！）
+- コメントが急増。AIコード生成の品質保証問題が技術者コミュニティで本格議論化。
+
+**[113pts, 129comments] Claude is an Electron App because we've lost native**
+- 前回比: +15pts, +12comments（98→113pts、100pt突破！）
+- ネイティブ vs Electron論争がついに100pt突破。開発者DXへの根強い関心。
+
+**[354pts, 409comments] MacBook Air with M5**
+- 前回比: +23pts, +28comments（331→354pts）
+- M5 Air/Proの両方がHNトップ。ローカルAI推論環境の向上への期待が高い。
+
+**[230pts, 183comments] Intel's 18A process node with 288-core Xeon**
+- URL: https://www.tomshardware.com/...
+- 前回比: +15pts, +19comments（215→230pts）
+- データセンターインフラの次世代ハードウェア。Fuyajoインフラ選定の将来参考。
+
+**[69pts, 19comments] Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents**
+- 前回比: +3pts（66→69pts、安定継続）
+- AIエージェント監視市場の継続シグナル。
+
+#### 🔴 セキュリティ（継続監視）
+
+**[25pts, 9comments] Claude Code escapes its own denylist and sandbox**
+- 前回比: +3pts, +1comment（22→25pts）
+- 緩やかな上昇継続。FuyajoでのClaude Code実行時のサンドボックス設計に要注意。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
