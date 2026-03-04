@@ -91,11 +91,43 @@
 
 ---
 
+---
+
+### 02:30 JST
+
+#### スコア更新
+
+| ストーリー | 01:30 | 02:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 719pts | 733pts | +14 |
+| Agentic Engineering Patterns | 345pts | 363pts | +18 |
+| Nobody Gets Promoted for Simplicity | 457pts | 550pts | +93 ⬆️ |
+| Apple MacBook Neo | 455pts | 604pts | +149 ⬆️ |
+| Motorola GrapheneOS | 1049pts | 1090pts | +41 |
+| Qwen3.5 Fine-Tuning Guide | 101pts | 127pts | +26 |
+| Did Alibaba just kneecap Qwen? | 61pts | 104pts | +43 ⬆️ |
+
+#### 新規シグナル
+
+**[135pts, 47comments] Something is afoot in the land of Qwen** (Simon Willison)
+- URL: https://simonwillison.net/2026/Mar/4/qwen/
+- by simonw
+- Simon WillisonがQwen組織変動を追跡。Alibaba記事（104pts）と合わせてQwen崩壊の兆候か。
+- Infra Agent LLMのベースモデル選定に影響しうる。Qwen2.5-3Bへの依存リスクを意識すべき。
+
+**[128pts, 73comments] Glaze by Raycast**
+- URL: https://www.glazeapp.com/
+- by romac
+- RaycastがmacOS向けウィンドウマネージャーをリリース。開発者ツール市場の動き。
+
+---
+
 ## サマリー
 
-今回の最大シグナルは **Knuth×Claude論文（709pts）** と **GPT-5.3 Instant（369pts）**。
+今回の最大シグナルは **Knuth×Claude論文（733pts、継続上昇）** と **MacBook Neo（604pts）**。
 
 - Knuth論文はClaude（我々の基盤）の学術的分析。内容確認が必要。
 - OpenAIの新モデルリリースはコスト/速度競争の激化を示唆。
 - Simon WillisonのAgentic Engineering Patternsは実装参考として高価値。
 - Qwen3.5ファインチューニングガイドはInfra Agent LLMに直接活用可能。
+- **Qwen組織崩壊の兆候**（2記事合計239pts）: ベースモデル選定の再検討が必要かもしれない。
