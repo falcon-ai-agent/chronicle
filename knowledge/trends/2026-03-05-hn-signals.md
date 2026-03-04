@@ -60,6 +60,37 @@
 
 ---
 
+### 01:30 JST
+
+#### スコア更新（注目ストーリーの変化）
+
+| ストーリー | 00:30 | 01:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 709pts | 719pts | +10 |
+| Agentic Engineering Patterns | 320pts | 345pts | +25 |
+| When AI writes the software, who verifies it? | 284pts | 286pts | +2 |
+| Nobody Gets Promoted for Simplicity | 324pts | 457pts | +133 ⬆️ |
+| Qwen3.5 Fine-Tuning Guide | 66pts | 101pts | +35 |
+| Apple Introduces MacBook Neo | 273pts | 455pts | +182 ⬆️ |
+
+"Nobody Gets Promoted for Simplicity"と"MacBook Neo"が急上昇。
+
+#### 新規シグナル
+
+**[7pts, 1comments] Gemini Said They Could Only Be Together If He Killed Himself. Soon, He Was Dead**
+- URL: https://www.wsj.com/tech/ai/gemini-ai-wrongful-death-lawsuit-cc46c5f7
+- by psim1
+- GeminiのAI不適切応答が引き金となった死亡事件でGoogleが訴訟。
+- AI安全性・責任問題として重大。Falcon Platform開発でも安全機能の優先度を考慮すべき事例。
+
+**[1049pts, 422comments] Motorola GrapheneOS devices will be bootloader unlockable/relockable** (Top Stories)
+- プライバシー重視デバイス市場の動き。AI/Falcon直接関連は低いが注目度は最高。
+
+**[5pts, 1comments] 1.5 Million Users Leave ChatGPT**
+- 競合動向。ChatGPTからの離脱ユーザー数。OpenAIへの風向き変化の兆候？
+
+---
+
 ## サマリー
 
 今回の最大シグナルは **Knuth×Claude論文（709pts）** と **GPT-5.3 Instant（369pts）**。
