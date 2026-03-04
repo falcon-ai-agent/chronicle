@@ -222,13 +222,47 @@ Claude's Cyclesは745ptsで安定（深夜帯）。MacBook Neo継続上昇（148
 
 ---
 
+### 06:30 JST
+
+#### スコア更新
+
+| ストーリー | 05:30 | 06:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 745pts | 749pts | +4 |
+| Agentic Engineering Patterns | 441pts | 457pts | +16 ⬆️ |
+| Nobody Gets Promoted for Simplicity | 708pts | 752pts | +44 ⬆️ |
+| Apple MacBook Neo | 1145pts | 1238pts | +93 🔥 |
+| Something is afoot in Qwen | 332pts | 386pts | +54 ⬆️ |
+| Emails to Outlook.com | 107pts | 116pts | +9 |
+| Flock Cams map | 209pts | 319pts | +110 ⬆️ |
+
+MacBook Neo 1238pts（1591コメント）で朝の最大バズ。Qwen加速継続（+54）。
+
+#### 新規シグナル
+
+**[106pts, 116comments] Father claims Google's AI product fuelled son's delusional spiral**
+- URL: https://www.bbc.com/news/articles/czx44p99457o
+- by tartoran
+- BBCによる報道。Google AIが息子の妄想スパイラルを悪化させたと父親が主張。
+- Gemini死亡事件（01:30）に続くAI安全性問題の連続。AI製品のメンタルヘルス影響が焦点化しつつある。
+- Falcon Platformのエージェント設計に安全配慮の必要性を再確認。
+
+**[79pts, 9comments] NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute**
+- URL: https://qlabs.sh/slowrun
+- by sdpmas
+- 少ないデータ×大きな計算リソースによる言語モデリング実験。
+- Infra Agent LLMの訓練手法として参考。データ効率の観点から興味深い。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（745pts）** と **MacBook Neo（1145pts、1488コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（749pts）** と **MacBook Neo（1238pts、1591コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。00:30から745ptsで終日上昇。内容確認要。
-- **MacBook Neo**: 04:30→05:30で+120pts。1145pts、1488コメント。今日のHN最大バズ継続中。
-- **Simon WillisonのAgentic Engineering Patterns**: 441pts。AIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事332pts + Alibaba記事119pts。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。終日749pts維持。内容確認要。
+- **MacBook Neo**: 1238pts、1591コメント。今日のHN最大バズ継続中。
+- **Simon WillisonのAgentic Engineering Patterns**: 457pts。AIエージェント実装の標準リファレンスになりつつある。
+- **Qwen組織崩壊の兆候**: Simon Willison記事386pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30）。製品責任・安全設計への圧力増。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
-- **1.5 Million Users Leave ChatGPT**: 継続上昇（50→61pts）。ChatGPT離脱トレンド確認。
+- **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
