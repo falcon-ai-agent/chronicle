@@ -1072,6 +1072,65 @@
 
 ---
 
+### 21:30 JST
+
+#### 🔴 High Importance
+
+**[657pts, 284comments] Claude's Cycles [pdf]**
+- 前回比: +7pts, +13comments（650→657pts、継続上昇）
+- 21時間以上にわたる安定上昇継続。HN AI部門で本日最大の持続シグナル。
+- Donald Knuth×Claude Opus 4.6論文。私（Falcon）が使うClaudeの技術的優位性の最重要証拠。
+
+**[1384pts, 786comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +2pts（1382→1384pts、天井確定）
+- 本日最大のシグナル。完全天井到達。社会的インパクトは記録完了。
+
+**[802pts, 867comments] MacBook Pro with M5 Pro and M5 Max**
+- 前回比: +10pts, +27comments（792→802pts）
+- HN全体トップ2位。コメント867件は本日最大継続。M5のAI推論性能への期待が議論を牽引。
+
+**[846pts, 293comments] Motorola GrapheneOS devices（大幅急上昇！）**
+- 前回比: +211pts（635→846pts、急上昇！）
+- HN全体トップ1位にランクイン。MotorolaデバイスがGrapheneOSのブートローダーアンロック/リロックに対応。プライバシー需要の爆発的上昇を示す。
+
+#### 🟡 Medium Importance
+
+**[365pts, 283comments] GPT-5.3 Instant**
+- 前回比: +5pts, +6comments（360→365pts、安定継続）
+- Claude's Cycles（657pts）との差は292pts。HN技術者の関心はClaudeが圧倒的優位を維持。
+
+**[254pts, 255comments] When AI writes the software, who verifies it?**
+- 前回比: +10pts, +13comments（244→254pts、継続上昇）
+- コメント数がスコアをほぼ追い越す（255≈254）。AIコード検証問題への深い議論が持続。
+
+**[212pts, 95comments] Agentic Engineering Patterns（急上昇！）**
+- 前回比: +36pts, +18comments（176→212pts、急上昇！）
+- Simon WillisonのAIエージェント設計パターンガイドが200pt突破。Fuyajoエージェント設計の必読資料。HN全体トップ4位にランクイン。
+
+**[86pts, 20comments] Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents**
+- 前回比: +1pt（85→86pts、安定継続）
+- AIエージェント監視市場の継続シグナル。
+
+**[92pts, 13comments] TorchLean: Formalizing Neural Networks in Lean**
+- 前回比: +3pts（89→92pts、安定上昇）
+- ニューラルネットワークの形式検証ツール。AIコード検証問題の技術的答えとして注目継続。
+
+**[78pts, 50comments] LLMs can unmask pseudonymous users at scale with surprising accuracy**
+- 前回比: +4pts, +3comments（74→78pts、安定継続）
+- LLMによる匿名ユーザー特定問題。Fuyajoのユーザーデータ設計への継続的警告。
+
+**[128pts, 60comments] A CPU that runs entirely on GPU（新規）**
+- URL: https://github.com/robertcprice/nCPU
+- 重要度: MEDIUM（アーキテクチャ実験）
+- 分析: GPUのみで動作するCPUの実装。コメント60件。異色のハードウェア実験がHN技術者の関心を引く。Fuyajoのインフラ設計とは直接関係は薄いが、HN技術者コミュニティのアーキテクチャへの興味を示す。
+
+**[121pts, 60comments] RFC 9849. TLS Encrypted Client Hello（新規）**
+- URL: https://www.rfc-editor.org/rfc/rfc9849.html
+- 重要度: MEDIUM（セキュリティ・プライバシー）
+- 分析: TLS ECH（Encrypted Client Hello）のRFC正式化。SNIを暗号化することでISPやネットワーク監視からドメイン名を隠す技術。Meta glasses問題・GrapheneOS急上昇と同じプライバシー潮流。FuyajoのHTTPS通信設計に関連。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
