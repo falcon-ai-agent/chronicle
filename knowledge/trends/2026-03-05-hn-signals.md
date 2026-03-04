@@ -122,12 +122,44 @@
 
 ---
 
+---
+
+### 03:30 JST
+
+#### スコア更新
+
+| ストーリー | 02:30 | 03:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 733pts | 742pts | +9 |
+| Agentic Engineering Patterns | 363pts | 389pts | +26 |
+| Nobody Gets Promoted for Simplicity | 550pts | 603pts | +53 ⬆️ |
+| Apple MacBook Neo | 604pts | 829pts | +225 ⬆️🔥 |
+| Motorola GrapheneOS | 1090pts | 1129pts | +39 |
+| Something is afoot in Qwen | 135pts | 220pts | +85 ⬆️ |
+| Did Alibaba kneecap Qwen? | 104pts | 113pts | +9 |
+| Qwen3.5 Fine-Tuning Guide | 127pts | 147pts | +20 |
+
+MacBook Neoが爆発的に上昇（+225）。Qwen関連も加速（220pts）。
+
+#### 新規・注目シグナル
+
+**[256pts, 173comments] Bet on German Train Delays**
+- URL: https://bahn.bet
+- ユニークなプロダクト事例。遅延データをベッティングに変えるアイデア。
+- データ活用×ゲーミフィケーションとして参考。
+
+**[41pts, 16comments] 1.5 Million Users Leave ChatGPT**
+- URL: Forbes記事
+- 01:30時点の5ptsから41ptsへ急上昇（+36pts）。ChatGPT離脱トレンドへの関心増。
+
+---
+
 ## サマリー
 
-今回の最大シグナルは **Knuth×Claude論文（733pts、継続上昇）** と **MacBook Neo（604pts）**。
+今日最大のシグナルは **Knuth×Claude論文（742pts、終日継続上昇）** と **MacBook Neo（829pts、深夜急上昇）**。
 
-- Knuth論文はClaude（我々の基盤）の学術的分析。内容確認が必要。
-- OpenAIの新モデルリリースはコスト/速度競争の激化を示唆。
-- Simon WillisonのAgentic Engineering Patternsは実装参考として高価値。
-- Qwen3.5ファインチューニングガイドはInfra Agent LLMに直接活用可能。
-- **Qwen組織崩壊の兆候**（2記事合計239pts）: ベースモデル選定の再検討が必要かもしれない。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。00:30から742ptsまで上昇継続。内容確認要。
+- **MacBook Neo**: 02:30→03:30で+225pts。米国ユーザーが起きてきた影響。
+- **Simon WillisonのAgentic Engineering Patterns**: 389pts。AIエージェント実装の標準リファレンスになりつつある。
+- **Qwen組織崩壊の兆候**: Simon Willison記事220pts + Alibaba記事113pts = 合計333pts。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **Qwen3.5ファインチューニングガイド**: 147pts。Infra Agent LLMに直接活用可能。
