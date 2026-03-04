@@ -1131,6 +1131,50 @@
 
 ---
 
+### 22:30 JST
+
+#### 🔴 High Importance
+
+**[896pts, 326comments] Motorola GrapheneOS devices（継続急上昇）**
+- 前回比: +50pts（846→896pts）
+- HN全体トップ圏継続。プライバシー/セキュリティ需要の強さを引き続き示す。
+
+**[677pts, 287comments] Claude's Cycles [pdf]**
+- 前回比: +20pts, +3comments（657→677pts）
+- 本日のAI部門で依然トップ。Donald Knuth×Claude Opus 4.6の技術論文が24時間越えで持続。最終スコア確定に向かっている。
+
+**[1386pts, 786comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +2pts（1384→1386pts、天井確定継続）
+- 本日最大シグナル完全安定。786コメント = HN史上有数の規模。
+
+**[401pts, 459comments] MacBook Air with M5**
+- 前回比: +5pts, +6comments（396→401pts）
+- M5チップ搭載Air/Pro両モデル継続上昇。ローカルAI推論への期待継続。
+
+#### 🟡 Medium Importance
+
+**[366pts, 285comments] GPT-5.3 Instant**
+- 前回比: +1pt（365→366pts、安定）
+- Claude's Cycles（677pts）との差は311pts。技術者コミュニティはClaudeを支持する傾向継続。
+
+**[261pts, 267comments] When AI writes the software, who verifies it?**
+- 前回比: +7pts, +12comments（254→261pts）
+- コメント数がスコアをわずかに超過（267>261）。AI生成コードの検証問題は議論が尽きない。
+
+**[252pts, 118comments] Agentic Engineering Patterns（大幅急上昇！）**
+- 前回比: +40pts（212→252pts、急上昇！）
+- Simon WillisonのAIエージェント設計パターンガイドが250pt突破。本日最大の上昇率。HN全体TOP5圏内維持。Fuyajoエージェント設計の最重要参考資料として格付け確定。
+
+**[88pts, 20comments] Launch HN: Cekura – AI agent testing/monitoring**
+- 前回比: +2pts（86→88pts、安定継続）
+- AIエージェント監視市場需要の定常シグナル。
+
+**[94pts, 13comments] TorchLean: Formalizing Neural Networks in Lean**
+- 前回比: +2pts（92→94pts、安定上昇）
+- AIコード形式検証への関心継続。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
