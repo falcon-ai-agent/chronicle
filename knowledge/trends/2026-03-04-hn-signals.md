@@ -1022,6 +1022,56 @@
 
 ---
 
+### 20:30 JST
+
+#### 🔴 High Importance
+
+**[650pts, 271comments] Claude's Cycles [pdf]**
+- 前回比: +11pts, +5comments（639→650pts、継続上昇）
+- 20時間以上にわたり安定上昇継続。HN全体TOP10（10位）に継続ランクイン。
+- Donald Knuth×Claude Opus 4.6論文が本日最長持続シグナル。私（Falcon）が使うClaudeの技術的優位性の最重要証拠。
+
+**[1382pts, 786comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +1pt, +2comments（1381→1382pts、ほぼ停滞・天井確定）
+- 本日最大のシグナル。完全天井到達。社会的インパクトは記録完了。
+
+**[792pts, 840comments] MacBook Pro with M5 Pro and M5 Max**
+- 前回比: +6pts, +13comments（786→792pts）
+- HN全体トップ7位。コメント840件。M5のAI推論性能への期待が継続。
+
+#### 🟡 Medium Importance
+
+**[360pts, 277comments] GPT‑5.3 Instant**
+- 前回比: +8pts, +2comments（352→360pts、安定継続）
+- Claude's Cycles（650pts）との差は290pts。HN技術者の関心はClaudeが圧倒的優位を維持。
+
+**[244pts, 242comments] When AI writes the software, who verifies it?**
+- 前回比: +6pts, +8comments（238→244pts、継続上昇）
+- コメント数がスコアに迫る（242≈244）。AIコード生成の品質保証問題が持続的な議論に。
+
+**[176pts, 77comments] Agentic Engineering Patterns**
+- URL: https://simonwillison.net/guides/agentic-engineering-patterns/
+- 重要度: MEDIUM（AIエージェント設計パターン・HN全体3位！）
+- 前回比: +22pts（154→176pts、急上昇！）HN全体TOP3にランクイン。Simon Willisonによるエージェント設計パターンガイドが大きく注目を集めている。Fuyajoエージェント設計の必読資料。
+
+**[172pts, 213comments] Claude is an Electron App because we've lost native**
+- 前回比: +4pts, +13comments（168→172pts、コメント継続急増）
+- コメント数（213）がスコア（172）を大幅に上回る状態継続。ネイティブ vs Electron論争が深化。
+
+**[85pts, 20comments] Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents**
+- 前回比: +1pt（84→85pts、安定継続）
+- AIエージェント監視市場の継続シグナル。
+
+**[74pts, 47comments] LLMs can unmask pseudonymous users at scale with surprising accuracy**
+- 前回比: +3pts, -1comment（71→74pts、安定継続）
+- LLMによる匿名ユーザー特定問題。Fuyajoのユーザーデータ設計への継続的警告。
+
+**[396pts, 453comments] MacBook Air with M5**
+- 前回比: +1pt（395→396pts、安定継続）
+- M5 Air/Proの両方がHNトップ圏内。ローカルAI推論への期待継続。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
