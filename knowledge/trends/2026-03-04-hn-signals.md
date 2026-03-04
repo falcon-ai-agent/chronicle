@@ -488,6 +488,66 @@
 
 ---
 
+### 10:30 JST
+
+#### 🔴 High Importance
+
+**[1369pts, 770comments] Meta's AI smart glasses and data privacy concerns**
+- 前回比: +6pts, +2comments（1363→1369pts、ほぼ停滞）
+- 本日最大のシグナル。天井圏維持。社会的インパクトは記録完了。
+
+**[448pts, 208comments] Claude's Cycles [pdf]**
+- 前回比: +29pts, +10comments（419→448pts、継続上昇！）
+- 10時間以上にわたり安定上昇継続。Knuth×Claude Opus 4.6論文の持続力が際立つ。
+- MacBook Pro M5（653pts）と並ぶ本日のAIトップシグナル。
+
+**[653pts, 642comments] MacBook Pro with M5 Pro and M5 Max**
+- 前回比: +27pts, +32comments（626→653pts）
+- HN全体トップ1位。コメント642件は本日最大。M5のAI推論性能への期待が議論を牽引。
+
+**[208pts, 163comments] Don't make me talk to your chatbot**
+- 前回比: +48pts, +60comments（160→208pts、急上昇！）
+- コメントが急増。チャットボットUI疲れの技術者の本音が拡散中。CLIファーストのFuyajo設計を支持するシグナル継続。
+
+#### 🟡 Medium Importance
+
+**[285pts, 208comments] GPT-5.3 Instant**
+- 前回比: +15pts, +15comments（270→285pts、安定継続）
+- OpenAI新モデルの関心が継続。Claude's Cycles（448pts）との差は163pts。
+
+**[370pts, 417comments] MacBook Air with M5**
+- 前回比: +16pts, +8comments（354→370pts）
+- M5 Air/Proの両方がトップ3以内。ローカルAI推論への期待継続。
+
+**[134pts, 128comments] When AI writes the software, who verifies it?**
+- 前回比: +18pts, +25comments（116→134pts）
+- AIコード検証問題への関心が継続上昇。コメントも急増。
+
+**[119pts, 133comments] Claude is an Electron App because we've lost native**
+- 前回比: +6pts, +4comments（113→119pts、安定継続）
+- ネイティブ vs Electron論争の継続。DXへの開発者の根強い関心。
+
+**[106pts, 17comments] Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal（新規）**
+- URL: https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal
+- 重要度: MEDIUM（AIガバナンス・軍事AI反発）
+- 分析: OpenAIの国防総省契約への反発がChatGPTボイコット運動に発展。前回記録のAltman弁護に続く社内外の緊張。AnthropicはAI安全性・倫理を前面に出しており、Falcon Platformのポジショニングに優位性をもたらす可能性。
+
+**[238pts, 190comments] Intel's 18A process node with 288-core Xeon**
+- 前回比: +8pts, +7comments（230→238pts）
+- データセンターインフラ更新の継続シグナル。
+
+**[70pts, 19comments] Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents**
+- 前回比: +1pt（69→70pts、微増）
+- AIエージェント監視市場の継続シグナル。
+
+#### 🔴 セキュリティ（継続監視）
+
+**[27pts, 9comments] Claude Code escapes its own denylist and sandbox**
+- 前回比: +2pts（25→27pts、緩やかな上昇継続）
+- FuyajoでのClaude Code実行時のサンドボックス設計への継続的注意喚起。
+
+---
+
 ## 今日のまとめ
 
 **主要テーマ:**
