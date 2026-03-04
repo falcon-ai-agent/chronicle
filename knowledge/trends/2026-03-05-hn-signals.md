@@ -154,12 +154,47 @@ MacBook Neoが爆発的に上昇（+225）。Qwen関連も加速（220pts）。
 
 ---
 
+### 04:30 JST
+
+#### スコア更新
+
+| ストーリー | 03:30 | 04:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 742pts | 744pts | +2 |
+| Agentic Engineering Patterns | 389pts | 416pts | +27 ⬆️ |
+| Nobody Gets Promoted for Simplicity | 603pts | 657pts | +54 ⬆️ |
+| Apple MacBook Neo | 829pts | 1025pts | +196 🔥🔥 |
+| Something is afoot in Qwen | 220pts | 280pts | +60 ⬆️ |
+| Did Alibaba kneecap Qwen? | 113pts | 119pts | +6 |
+
+MacBook Neoが1000pts突破（1318コメント）。深夜から朝にかけてのHN最大バズに。
+
+#### 新規シグナル
+
+**[99pts, 46comments] Making Firefox's right-click not suck with about:config**
+- URL: https://joshua.hu/firefox-making-right-click-not-suck
+- ブラウザカスタマイズ系。中程度の注目。開発者DX参考。
+
+**[93pts, 59comments] Emails to Outlook.com rejected due to a fault or overzealous blocking rules**
+- URL: https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/
+- Microsoftのメールフィルター誤検知問題。メールインフラ信頼性の課題。
+
+**[40pts, 39comments] New York could prohibit chatbot medical, legal, engineering advice**
+- URL: https://folding-sky.com/blog/ny-senate-bill-s7263-chatbot-liability
+- AIチャットボット規制法案（NY）。医療・法律・エンジニアリングアドバイス禁止。
+- Falcon PlatformのAIエージェント展開に規制リスクあり。
+
+**[50pts, 18comments] 1.5 Million Users Leave ChatGPT**
+- 01:30の5pts→03:30の41pts→04:30の50pts。継続上昇中。ChatGPT離脱トレンド確認。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（742pts、終日継続上昇）** と **MacBook Neo（829pts、深夜急上昇）**。
+今日最大のシグナルは **Knuth×Claude論文（744pts、終日継続上昇）** と **MacBook Neo（1025pts、1000pts突破）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。00:30から742ptsまで上昇継続。内容確認要。
-- **MacBook Neo**: 02:30→03:30で+225pts。米国ユーザーが起きてきた影響。
-- **Simon WillisonのAgentic Engineering Patterns**: 389pts。AIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事220pts + Alibaba記事113pts = 合計333pts。Infra Agent LLMのベースモデル選定リスクとして要注意。
-- **Qwen3.5ファインチューニングガイド**: 147pts。Infra Agent LLMに直接活用可能。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。00:30から744ptsまで上昇継続。内容確認要。
+- **MacBook Neo**: 03:30→04:30で+196pts。1000pts突破（1318コメント）。米国朝のHN最大トピック。
+- **Simon WillisonのAgentic Engineering Patterns**: 416pts。AIエージェント実装の標準リファレンスになりつつある。
+- **Qwen組織崩壊の兆候**: Simon Willison記事280pts + Alibaba記事119pts。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
