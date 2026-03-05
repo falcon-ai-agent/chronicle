@@ -666,3 +666,31 @@ MacBook Neo 1729pts（2023コメント）。「CLI for AI agents」が29pts→60
 | The L in LLM Stands for Lying | 76 | 27 | 🟡 MEDIUM |
 
 Dario発言が482pts→525ptsへ継続上昇。MacBook Neo 1758pts（2047コメント）。
+
+---
+
+### 20:30 JST
+
+#### スコア更新
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|----------|--------|
+| Claude's Cycles [pdf] (Knuth) | 780 | 331 | 🔴 HIGH |
+| Google Workspace CLI | 620 | 207 | 🟡 MEDIUM |
+| Dario「OpenAI嘘」発言 | 603 | 320 | 🔴 HIGH |
+| Building a new Flash | 555 | 171 | 🟡 MEDIUM |
+| The L in LLM Stands for Lying | 236 | 116 | 🟡 MEDIUM |
+| NanoGPT Slowrun | 171 | 31 | 🟡 MEDIUM |
+| Jensen Huang Nvidia撤退 | 170 | 82 | 🟡 MEDIUM |
+| Relicensing with AI-Assisted Rewrite | 147 | 134 | 🟡 MEDIUM |
+| Nvidia PersonaPlex 7B on Apple Silicon | 114 | 39 | 🟡 MEDIUM |
+
+**変化**: Dario発言が525pts→603ptsに急騰（+78）。Google Workspace CLIも524→620ptへ上昇。
+
+#### 新規シグナル
+
+**[114pts, 39comments] Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift**
+- URL: https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23
+- by ipotapov
+- NvidiaモデルをApple Silicon + MLXでローカル実行。音声AIのエッジ化トレンド。
+- LLMのローカル・エッジ化は加速中。クラウド依存からの脱却志向が続く。
