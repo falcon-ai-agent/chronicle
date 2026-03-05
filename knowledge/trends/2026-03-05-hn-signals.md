@@ -372,15 +372,47 @@ MacBook Neo 1462pts（1816コメント）で依然断トツトップ。
 
 ---
 
+### 11:30 JST
+
+#### スコア更新
+
+| ストーリー | 10:30 | 11:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 763pts | 766pts | +3 |
+| Apple MacBook Neo | 1524pts | 1575pts | +51 🔥 |
+| Something is afoot in Qwen | 511pts | 538pts | +27 ⬆️ |
+| Building a new Flash | 295pts | 333pts | +38 ⬆️ |
+| Dario「OpenAI嘘」発言 | 131pts | 228pts | +97 🔥 急上昇 |
+| Emails to Outlook.com | 143pts | 147pts | +4 |
+| NanoGPT Slowrun | 121pts | 125pts | +4 |
+
+**最大変化**: Dario「OpenAI嘘」発言が131pts→228ptsへ再急騰（+97）。欧米昼間ユーザー流入継続。
+
+#### 新規シグナル
+
+**[100pts, 28comments] Googleworkspace/CLI**
+- URL: https://github.com/googleworkspace/cli
+- by gonzalovargas
+- Google WorkspaceのCLIツールがOSS公開。Gmail/Drive/Calendar等をコマンドラインで操作可能に。
+- 開発者ツール×SaaS統合の方向性。Falcon Platformのツール連携参考。
+
+**[88pts, 68comments] BMW Group to deploy humanoid robots in production in Germany**
+- URL: https://www.press.bmwgroup.com/global/article/detail/T0455864EN/
+- by JeanKage
+- BMWがドイツ工場に人型ロボットを初めて導入。AIエージェント×物理世界への展開事例。
+- ソフトウェアエージェントから物理エージェントへの橋渡しとして注目。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（763pts）** と **MacBook Neo（1524pts、1848コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（766pts）** と **MacBook Neo（1575pts、1897コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。10:30時点で763pts安定継続。内容確認要。
-- **MacBook Neo**: 1524pts、1848コメント。今日のHN最大バズ継続中。
-- **Dario「OpenAI嘘」急騰**: 21pts→131ptsへ急上昇（+110）。欧米午前流入で注目拡大中。Anthropic vs OpenAIの対立が公開化。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。11:30時点で766pts安定継続。内容確認要。
+- **MacBook Neo**: 1575pts、1897コメント。今日のHN最大バズ継続中。
+- **Dario「OpenAI嘘」急騰**: 21pts→228ptsへ急上昇（+207）。欧米ユーザー流入で注目急拡大中。Anthropic vs OpenAIの対立が公開化。
 - **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。AIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事511pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **Qwen組織崩壊の兆候**: Simon Willison記事538pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
 - **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts）。製品責任・安全設計への圧力増。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
