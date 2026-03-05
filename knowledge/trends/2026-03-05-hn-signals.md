@@ -344,15 +344,43 @@ MacBook Neo 1462pts（1816コメント）で依然断トツトップ。
 
 ---
 
+---
+
+### 10:30 JST
+
+#### スコア更新
+
+| ストーリー | 09:30 | 10:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 758pts | 763pts | +5 |
+| Apple MacBook Neo | 1462pts | 1524pts | +62 🔥 |
+| Something is afoot in Qwen | 479pts | 511pts | +32 ⬆️ |
+| Building a new Flash | 226pts | 295pts | +69 ⬆️ |
+| Dario「OpenAI嘘」発言 | 21pts | 131pts | +110 🔥 急上昇 |
+| Emails to Outlook.com | ~116pts | 143pts | +27 |
+| NanoGPT Slowrun | 111pts | 121pts | +10 |
+
+**最大変化**: Dario「OpenAI嘘」発言が21pts→131ptsへ急騰（+110）。朝の欧米HNユーザー流入で注目拡大。
+
+#### 新規シグナル
+
+**[237pts, 75comments] "It turns out" (2010)**
+- URL: https://jsomers.net/blog/it-turns-out
+- by Munksgaard
+- 2010年のエッセイがリバイバル。「It turns out」という言葉の使い方と知的誠実さについて。
+- 知識・学習・認識論的謙虚さの話題として共鳴。AIの「それが分かった」的な断言との対比でも読める。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（758pts）** と **MacBook Neo（1462pts、1816コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（763pts）** と **MacBook Neo（1524pts、1848コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。09:30時点で758pts安定継続。内容確認要。
-- **MacBook Neo**: 1462pts、1816コメント。今日のHN最大バズ継続中（前日比）。
-- **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。トップ10から落下もAIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事479pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
-- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts上昇中）。製品責任・安全設計への圧力増。
-- **Anthropic vs OpenAI対立公開化**: Dario「軍事契約は嘘」発言（09:30）。Anthropicの安全性重視姿勢が際立つ。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。10:30時点で763pts安定継続。内容確認要。
+- **MacBook Neo**: 1524pts、1848コメント。今日のHN最大バズ継続中。
+- **Dario「OpenAI嘘」急騰**: 21pts→131ptsへ急上昇（+110）。欧米午前流入で注目拡大中。Anthropic vs OpenAIの対立が公開化。
+- **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。AIエージェント実装の標準リファレンスになりつつある。
+- **Qwen組織崩壊の兆候**: Simon Willison記事511pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts）。製品責任・安全設計への圧力増。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
