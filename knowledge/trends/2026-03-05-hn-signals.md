@@ -316,14 +316,43 @@ MacBook Neo 1390pts（1745コメント）でトップ継続。Qwen+Flock Camsが
 
 ---
 
+---
+
+### 09:30 JST
+
+#### スコア更新
+
+| ストーリー | 08:30 | 09:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 756pts | 758pts | +2 |
+| Apple MacBook Neo | 1390pts | 1462pts | +72 🔥 |
+| Something is afoot in Qwen | 457pts | 479pts | +22 ⬆️ |
+| Flock Cams map | 458pts | 482pts | +24 ⬆️ |
+| Building a new Flash | 161pts | 226pts | +65 ⬆️ |
+| NanoGPT Slowrun | 79pts | 111pts | +32 |
+
+MacBook Neo 1462pts（1816コメント）で依然断トツトップ。
+
+#### 新規シグナル
+
+**[21pts, 5comments] Anthropic CEO calls OpenAI's messaging around military deal 'straight up lies'**
+- URL: https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
+- by SilverElfin
+- DarioがOpenAIの軍事契約に関するメッセージを「完全な嘘」と批判。Anthropic vs OpenAIの対立が公開化。
+- Anthropicの姿勢（安全性重視）とOpenAIの方向性（軍事・政府契約）の分岐が鮮明に。
+- 我々の基盤（Claude/Anthropic）への信頼性に直結する話題。ウォッチ継続。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（756pts）** と **MacBook Neo（1390pts、1745コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（758pts）** と **MacBook Neo（1462pts、1816コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。08:30時点で756pts安定継続。内容確認要。
-- **MacBook Neo**: 1390pts、1745コメント。今日のHN最大バズ継続中。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。09:30時点で758pts安定継続。内容確認要。
+- **MacBook Neo**: 1462pts、1816コメント。今日のHN最大バズ継続中（前日比）。
 - **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。トップ10から落下もAIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事457pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
-- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→07:30 142pts→08:30 155pts上昇中）。製品責任・安全設計への圧力増。
+- **Qwen組織崩壊の兆候**: Simon Willison記事479pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts上昇中）。製品責任・安全設計への圧力増。
+- **Anthropic vs OpenAI対立公開化**: Dario「軍事契約は嘘」発言（09:30）。Anthropicの安全性重視姿勢が際立つ。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
