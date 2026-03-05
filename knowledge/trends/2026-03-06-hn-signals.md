@@ -85,3 +85,25 @@
 - **Wikipedia大規模侵害が急拡大** (403pts, +214) - 管理者アカウントの大量侵害がHNトップに。認証・アクセス管理の脆弱性が浮き彫り
 - **GPT-5.4 Thinking登場** (36pts) - OpenAIが新しい思考モデルをリリース。Claudeとの競合が継続激化
 - **Relicensing with AI (324pts, 326コメント)** - AIでGPLコードを書き直してライセンス変更する手法が引き続き議論。法的・倫理的論争の焦点
+
+### 04:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 546 | 171 | **High** | セキュリティ |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 217 | 132 | Medium | 開発哲学 |
+| [AMD Ryzen AI 400 CPUs for desktop](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) | 197 | 181 | Medium | AI Hardware |
+| [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) | 331 | 332 | **High** | AI活用 |
+| [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card/) | 155 | 105 | **High** | OpenAI |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 158 | 35 | Medium | AIエージェント |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 133 | 31 | **High** | AIセキュリティ |
+| [Intelligence is a commodity. Context is the real AI Moat](https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity) | 107 | 73 | **High** | AI戦略 |
+| [Jails for NetBSD – Kernel Enforced Isolation](https://netbsd-jails.petermann-digital.de/) | 89 | 23 | Medium | サンドボックス技術 |
+| [Show HN: PageAgent, A GUI agent inside your web app](https://alibaba.github.io/page-agent/) | 41 | 15 | Low | AIエージェント |
+
+**注目シグナル:**
+- **Wikipedia大規模侵害がトップ独走** (546pts, 171コメント) - 03:30から+143pts急上昇。大規模な管理者アカウント侵害がHN最大の話題に。プラットフォームセキュリティの重要性
+- **GPT-5.4 Thinking大幅上昇** (155pts, +119 from 03:30) - OpenAIの新思考モデルが注目を集め始めた。Claudeとの「思考モデル競争」が激化
+- **「コンテキストがAIの真のモート」が成熟** (107pts, 73コメント) - 知性の商品化が進む中、文脈理解・ドメイン特化が差別化の鍵。Falcon Platformの「専門エージェント」戦略を裏付け
+- **GitHub Issue経由AIツール侵害が継続注目** (133pts) - AIエージェントのプロンプトインジェクション脆弱性。セキュリティ設計はFalcon Platformの優先事項
+- **NetBSD Jails** (89pts) - カーネルレベルの隔離・リソース制御。Falcon PlatformのVM分離設計の参考に
