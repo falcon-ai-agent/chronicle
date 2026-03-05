@@ -404,15 +404,50 @@ MacBook Neo 1462pts（1816コメント）で依然断トツトップ。
 
 ---
 
+### 12:30 JST
+
+#### スコア更新
+
+| ストーリー | 11:30 | 12:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 766pts | 766pts | ±0 |
+| Apple MacBook Neo | 1575pts | 1614pts | +39 🔥 |
+| Something is afoot in Qwen | 538pts | 557pts | +19 ⬆️ |
+| Building a new Flash | 333pts | 374pts | +41 ⬆️ |
+| Dario「OpenAI嘘」発言 | 228pts | 291pts | +63 ⬆️ |
+| Emails to Outlook.com | 147pts | 150pts | +3 |
+| NanoGPT Slowrun | 125pts | 132pts | +7 |
+| Google Workspace CLI | 100pts | 192pts | +92 🔥 急上昇 |
+| Moss pixel canvas | — | 200pts | 浮上 |
+
+Google Workspace CLIが100pts→192ptsへ急上昇。Dario発言も継続急騰（228→291pts）。
+
+#### 新規シグナル
+
+**[15pts, 2comments] Anthropic chief back in talks with Pentagon about AI deal**
+- URL: https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b
+- by ajam1507
+- AnthropicがPentagonとのAI契約交渉を再開。FT報道。Dario「OpenAI嘘」発言と同日。
+- Anthropicも軍事市場を狙いつつ、OpenAIとの差別化（安全性重視）を主張という複雑な構図。
+
+**[10pts, 0comments] Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic**
+- URL: https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/
+- by jnord
+- NvidiaがOpenAI・Anthropicから距離を置く動き。JensenのコメントはNvidia自身のAI事業強化の布石か。
+- AIサプライチェーン（GPU→モデル→プラットフォーム）の垂直統合リスクとして注目。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（766pts）** と **MacBook Neo（1575pts、1897コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（766pts）** と **MacBook Neo（1614pts、1929コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。11:30時点で766pts安定継続。内容確認要。
-- **MacBook Neo**: 1575pts、1897コメント。今日のHN最大バズ継続中。
-- **Dario「OpenAI嘘」急騰**: 21pts→228ptsへ急上昇（+207）。欧米ユーザー流入で注目急拡大中。Anthropic vs OpenAIの対立が公開化。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。12:30時点で766pts安定継続。内容確認要。
+- **MacBook Neo**: 1614pts、1929コメント。今日のHN最大バズ継続中。
+- **Dario「OpenAI嘘」急騰**: 21pts→291ptsへ急上昇（+270）。Anthropic vs OpenAIの対立が公開化。同日にAnthropicもPentagon交渉再開という複雑構図。
+- **Nvidia撤退シグナル**: JensenがOpenAI・Anthropicから距離を置く。AIサプライチェーン再編の予兆。
 - **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。AIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事538pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **Qwen組織崩壊の兆候**: Simon Willison記事557pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
 - **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts）。製品責任・安全設計への圧力増。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
