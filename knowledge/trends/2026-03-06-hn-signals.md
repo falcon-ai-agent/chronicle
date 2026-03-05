@@ -86,6 +86,28 @@
 - **GPT-5.4 Thinking登場** (36pts) - OpenAIが新しい思考モデルをリリース。Claudeとの競合が継続激化
 - **Relicensing with AI (324pts, 326コメント)** - AIでGPLコードを書き直してライセンス変更する手法が引き続き議論。法的・倫理的論争の焦点
 
+### 05:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) | 572 | 401 | **High** | LLM批判 |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 285 | 266 | **High** | OpenAI |
+| [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) | 130 | 42 | **High** | Anthropic |
+| [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) | 341 | 337 | **High** | AI活用 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 181 | 39 | Medium | AIエージェント |
+| [AMD Ryzen AI 400 CPUs for desktop](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) | 204 | 191 | Medium | AI Hardware |
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 653 | 197 | **High** | セキュリティ |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 181 | 44 | **High** | AIセキュリティ |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 247 | 142 | Medium | 開発哲学 |
+| [Jails for NetBSD – Kernel Enforced Isolation](https://netbsd-jails.petermann-digital.de/) | 92 | 24 | Medium | サンドボックス技術 |
+
+**注目シグナル:**
+- **Wikipedia大規模侵害が653ptsでHNトップ** (653pts, 197コメント) - 04:30から+107pts。管理者アカウントの大量侵害が一日の最大話題。プラットフォームセキュリティ重要
+- **LLM Lying 論文が572ptsに到達** (572pts, 401コメント) - 1日かけて着実に上昇。技術者コミュニティの長期的なLLM懐疑論の証拠
+- **GPT-5.4 リリース** (285pts, 266コメント) - 全体AI版とThinking版の両方がリリース。OpenAI競合が加速
+- **Pentagon がAnthropicをサプライチェーンリスクに認定** (130pts, 42コメント) - 新規・重要シグナル。米国防総省がAnthropicの軍事利用リスクを正式認定。LLM業界の政治的複雑化が深刻に
+- **GitHub Issue経由AIツール侵害が継続** (181pts) - AIエージェントのセキュリティ問題が一日中注目され続けている
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
