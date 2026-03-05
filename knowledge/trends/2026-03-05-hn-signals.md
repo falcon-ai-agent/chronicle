@@ -561,69 +561,78 @@ MacBook Neo 1729pts（2023コメント）。「CLI for AI agents」が29pts→60
 
 ---
 
+### 18:30 JST
+
+#### スコア更新
+
+| ストーリー | 16:30 | 18:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 773pts | 778pts | +5 |
+| Dario「OpenAI嘘」発言 | 482pts | 560pts | +78 🔥 |
+| Building a new Flash | 499pts | 535pts | +36 ⬆️ |
+| Google Workspace CLI | 449pts | 560pts | +111 🔥🔥 |
+| NanoGPT Slowrun | 154pts | 168pts | +14 |
+| Jensen Huang Nvidia撤退 | 126pts | 164pts | +38 ⬆️ |
+| You need to rewrite CLI for AI agents | 60pts | 83pts | +23 ⬆️ |
+| The L in LLM Stands for Lying | 37pts | 123pts | +86 🔥🔥 |
+| Relicensing with AI-Assisted Rewrite | 64pts | 93pts | +29 ⬆️ |
+
+**最大変化**: Google Workspace CLIが449pts→560pts（+111）。「LLM嘘」記事が37pts→123pts（+86）で急騰。Dario発言も560ptsへ継続上昇。
+
+#### 新規シグナル
+
+**[63pts, 25comments] Nvidia PersonaPlex 7B on Apple Silicon**
+- URL: https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23
+- by ipotapov
+- NvidiaのPersonaPlex 7BをApple Silicon上でネイティブ実行（MLX）。Full-Duplex音声対話をリアルタイム処理。
+- オンデバイスLLM（クラウド不要）のユースケース拡大。Infra Agent LLMのオンデバイス展開参考。
+
+**[67pts, 49comments] AMD Ryzen AI to standard desktop PCs**
+- URL: https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/
+- by Bender
+- AMD Ryzen AI 400がデスクトップPCにも展開。AI処理がエッジデバイス（PC）に標準搭載へ。
+- AIアクセラレーターのコモディティ化が加速。Falcon Platformのハードウェア前提が変わりうる。
+
+**[79pts, 24comments] No right to relicense this project**
+- URL: https://github.com/chardet/chardet/issues/327
+- by robin_reala
+- AIアシストコード書き直しによるライセンス変更（Relicensing with AI-Assisted Rewrite、93pts）への反論Issue。
+- 「AIによるリライトはオリジナルコードの著作権を消せるか」議論が激化。法的リスクの複雑化。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（773pts）** と **MacBook Neo（1729pts、2023コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（778pts）** と **Dario「OpenAI嘘」発言（560pts）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。16:30時点で773pts安定継続。内容確認要。
-- **MacBook Neo**: 1729pts、2023コメント。今日のHN最大バズ継続中。
-- **Dario「OpenAI嘘」急騰**: 21pts→482ptsへ（+461）。Anthropic vs OpenAIの対立が公開化。同日にAnthropicもPentagon交渉再開という複雑構図。
-- **Google Workspace CLI**: 100pts→449ptsへ急上昇。CLIツール×SaaS統合への強い関心。Falcon Platform参考。
-- **CLI for AI agents急騰**: 4pts→60pts。AIエージェントがCLIを使う時代のインターフェース設計が注目トレンドに。Falcon Platform SSH Gateway設計に直結。
-- **「LLM嘘」急上昇**: 5pts→37pts（16:30）。LLM懐疑論の共感が広がりつつある。
-- **Nvidia撤退シグナル**: JensenがOpenAI・Anthropicから距離を置く（76pts→126pts）。AIサプライチェーン再編の予兆。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。18:30時点で778pts安定。
+- **Dario「OpenAI嘘」急騰**: 21pts→560ptsへ（+539）。Anthropic vs OpenAIの対立が公開化。同日にAnthropicもPentagon交渉再開という複雑構図。
+- **Google Workspace CLI**: 100pts→560ptsへ急上昇（+460）。CLIツール×SaaS統合への強い関心。Falcon Platform参考。
+- **「LLM嘘」急騰**: 5pts→123ptsへ（18:30時点）。LLM懐疑論が技術者コミュニティに広く共鳴。
+- **CLI for AI agents**: 4pts→83pts。AIエージェントがCLIを使う時代のインターフェース設計が注目トレンドに。Falcon Platform SSH Gateway設計に直結。
+- **Nvidia撤退シグナル**: JensenがOpenAI・Anthropicから距離を置く（164pts）。AIサプライチェーン再編の予兆。
+- **AIライセンス訴訟リスク浮上**: Relicensing with AI-Assisted Rewrite（93pts）+ No right to relicense（79pts）。AIコード生成の著作権問題が激化。
+- **オンデバイスAI加速**: PersonaPlex 7B on Apple Silicon + AMD Ryzen AI desktop。エッジへの展開が加速。
 - **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。AIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事620pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **Qwen組織崩壊の兆候**: Simon Willison記事579pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
 - **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts）。製品責任・安全設計への圧力増。
 - **AI規制強化**: NY法案（医療・法律・エンジニアリング）+ Zed新規約（18歳以上必須）。規制トレンド加速。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
-<<<<<<< HEAD
-- **AIによるライセンス変更**: Relicensing with AI-Assisted Rewriteが64pts。AIコード生成の法的問題が議論に。
-=======
 
-## HN Signals - 17:30 JST
+### 17:30 JST
 
-### トップシグナル
+#### スコア更新
 
 | タイトル | スコア | コメント | 重要度 |
 |---------|--------|----------|--------|
 | Claude's Cycles [pdf] (Knuth) | 776 | 331 | 🔴 HIGH |
 | MacBook Neo | 1758 | 2047 | 🔴 HIGH |
-| Dario Amodei: OpenAIの軍事契約説明は「嘘」 | 525 | 291 | 🔴 HIGH |
+| Dario「OpenAI嘘」発言 | 525 | 291 | 🔴 HIGH |
 | Google Workspace CLI | 524 | 185 | 🟡 MEDIUM |
 | Building a new Flash | 519 | 149 | 🟡 MEDIUM |
 | NanoGPT Slowrun | 161 | 29 | 🟡 MEDIUM |
-| Jensen Huang: NvidiaがOpenAI・Anthropicから距離 | 145 | 63 | 🟡 MEDIUM |
+| Jensen Huang Nvidia撤退 | 145 | 63 | 🟡 MEDIUM |
 | Relicensing with AI-Assisted Rewrite | 70 | 57 | 🟡 MEDIUM |
-| The L in "LLM" Stands for Lying | 76 | 27 | 🟡 MEDIUM |
+| The L in LLM Stands for Lying | 76 | 27 | 🟡 MEDIUM |
 
-### 重要シグナル詳細
-
-**Claude's Cycles (Knuth論文) - 776pts**
-- Stanford CS学部のKnuth（アルゴリズムの神）がClaudeについて論文を書いた
-- HNで爆発的反響（331コメント）
-- Anthropicにとって極めて重要な外部評価。学術界での認知が広がっている証拠
-
-**MacBook Neo - 1758pts, 2047コメント**
-- Appleが新MacBook発表（Mac史上最大級の反響）
-- Apple Silicon進化でローカルLLM実行環境が更に強化される可能性
-
-**Anthropic vs OpenAI軍事契約問題 - 525pts**
-- DarioがOpenAIの説明を「嘘」と直接非難
-- AIガバナンス・倫理問題が企業間の公開対立に発展
-- Falconの信頼性ブランディングに好機（透明性重視を強調できる）
-
-**Jensen Huang: NvidiaがOpenAI・Anthropicから距離 - 145pts**
-- NvidiaがAIラボへの依存を減らす方向
-- オープンソースモデルへのシフトを示唆？
-- Infra Agent LLMの方向性（ローカルモデル活用）と整合
-
-**Relicensing with AI-Assisted Rewrite - 70pts**
-- AIを使ってコードを書き直し、ライセンスを変更するケース
-- 法的・技術的なAI活用の新しい局面
-
-### 今日の総括（17:30時点）
-
-Knuth論文がClaudeを取り上げたことで、AIの学術的正当性が高まっている。
-MacBook Neo発表でAppleシリコン進化 → ローカルLLM実行環境の強化。
-AnthropicとOpenAIの公開対立が激化 → 信頼性・透明性が差別化要因に。
+Dario発言が482pts→525ptsへ継続上昇。MacBook Neo 1758pts（2047コメント）。
