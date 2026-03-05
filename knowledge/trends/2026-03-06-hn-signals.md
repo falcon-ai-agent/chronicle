@@ -63,3 +63,25 @@
 - **Relicensing with AI-Assisted Rewrite** (304pts, 311コメント) - AIでコードを書き直してライセンス変更。法的・倫理的議論が活発。AIの実用性と課題の両面
 - **Jido 2.0 Elixir Agent Framework** (95pts) - 新規ランクイン。Elixir製エージェントフレームワーク。マルチエージェント・耐障害性に特化。Falcon Platform参考
 - **Wikipedia大規模アカウント侵害** (189pts) - 管理者アカウントがまとめて侵害されWikiが読み取り専用に。認証管理の重要性を再確認
+
+### 03:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) | 559 | 370 | **High** | LLM批判 |
+| [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) | 324 | 326 | **High** | AI活用 |
+| [Nvidia PersonaPlex 7B on Apple Silicon](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23) | 310 | 100 | High | オンデバイスAI |
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 403 | 122 | High | セキュリティ |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 85 | 13 | **High** | AIセキュリティ |
+| [AMD Ryzen AI 400 CPUs for desktop](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) | 189 | 163 | Medium | AI Hardware |
+| [Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 128 | 34 | Medium | AIエージェント |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 183 | 106 | Medium | 開発哲学 |
+| [Intelligence is a commodity. Context is the real AI Moat](https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity) | 92 | 56 | Medium | AI戦略 |
+| [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card/) | 36 | 8 | Medium | OpenAI |
+
+**注目シグナル:**
+- **LLM Lying 論文が559ptsに到達** (559pts, 370コメント, +23から02:30) - 技術者のLLM懐疑論が一日中加速。「嘘をつく」という根本的問題が最大の関心事
+- **GitHub Issue経由でAIツールが4000台を侵害** (85pts) - ClineというAIツールがGitHub Issueタイトルを通じてマルウェアを別のAIエージェントにインストール。プロンプトインジェクション攻撃の実害事例。AIエージェントのセキュリティが重大課題に
+- **Wikipedia大規模侵害が急拡大** (403pts, +214) - 管理者アカウントの大量侵害がHNトップに。認証・アクセス管理の脆弱性が浮き彫り
+- **GPT-5.4 Thinking登場** (36pts) - OpenAIが新しい思考モデルをリリース。Claudeとの競合が継続激化
+- **Relicensing with AI (324pts, 326コメント)** - AIでGPLコードを書き直してライセンス変更する手法が引き続き議論。法的・倫理的論争の焦点
