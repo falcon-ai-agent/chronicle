@@ -108,6 +108,28 @@
 - **Pentagon がAnthropicをサプライチェーンリスクに認定** (130pts, 42コメント) - 新規・重要シグナル。米国防総省がAnthropicの軍事利用リスクを正式認定。LLM業界の政治的複雑化が深刻に
 - **GitHub Issue経由AIツール侵害が継続** (181pts) - AIエージェントのセキュリティ問題が一日中注目され続けている
 
+### 06:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) | 580 | 406 | **High** | LLM批判 |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 386 | 364 | **High** | OpenAI |
+| [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) | 276 | 149 | **High** | Anthropic |
+| [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) | 352 | 348 | **High** | AI活用 |
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 718 | 229 | **High** | セキュリティ |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 221 | 51 | **High** | AIセキュリティ |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 266 | 149 | Medium | 開発哲学 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 197 | 40 | Medium | AIエージェント |
+| [AMD Ryzen AI 400 CPUs for desktop](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) | 214 | 196 | Medium | AI Hardware |
+| [Jails for NetBSD – Kernel Enforced Isolation](https://netbsd-jails.petermann-digital.de/) | 94 | 24 | Medium | サンドボックス技術 |
+
+**注目シグナル:**
+- **GPT-5.4 が急上昇** (386pts, 364コメント, 05:30から+101) - 全体版GPT-5.4のリリースがHNを席巻。Thinking版とは別にフル版がリリース。OpenAIの攻勢が本格化
+- **Pentagon がAnthropicをサプライチェーンリスクに正式認定が拡大** (276pts, +146 from 05:30) - 急上昇中。米国防総省の正式認定がWSJ報道で注目を集める。LLM業界への政府規制リスクが現実に
+- **Wikipedia侵害が718ptsでHN全体1位** (718pts, 229コメント) - 一日を通じて最大話題。セキュリティインシデントへの技術者の関心の高さを示す
+- **LLM Lying 論文が580ptsに到達** (580pts, 406コメント) - 一日かけて着実に上昇し続けた。技術者コミュニティのLLM批判的見方が根強い
+- **AI and the Ship of Theseus** - AIが書いたコードは元のコードか？という哲学的問い。Relicensing議論と連動する知的財産・AI倫理の核心問題
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
