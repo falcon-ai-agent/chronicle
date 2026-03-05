@@ -619,6 +619,36 @@ MacBook Neo 1729pts（2023コメント）。「CLI for AI agents」が29pts→60
 - **AI規制強化**: NY法案（医療・法律・エンジニアリング）+ Zed新規約（18歳以上必須）。規制トレンド加速。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
 
+### 19:30 JST
+
+#### スコア更新
+
+| ストーリー | 18:30 | 19:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 778pts | 780pts | +2 |
+| Dario「OpenAI嘘」発言 | 560pts | 581pts | +21 ⬆️ |
+| Google Workspace CLI | 560pts | 588pts | +28 ⬆️ |
+| The L in LLM Stands for Lying | 123pts | 176pts | +53 🔥 急上昇 |
+| Relicensing with AI-Assisted Rewrite | 93pts | 120pts | +27 ⬆️ |
+| NanoGPT Slowrun | 168pts | 170pts | +2 |
+| Jensen Huang Nvidia撤退 | 164pts | 166pts | +2 |
+| You need to rewrite CLI for AI agents | 83pts | 93pts | +10 |
+| AMD Ryzen AI desktop | 67pts | 78pts | +11 |
+| Nvidia PersonaPlex 7B | 63pts | 87pts | +24 ⬆️ |
+
+**最大変化**: 「LLM嘘」記事が123pts→176ptsへ急騰（+53）。Dario発言も581ptsへ継続上昇。
+
+#### 新規シグナル
+
+**[20pts, 4comments] Aura-State: Formally Verified LLM State Machine Compiler**
+- URL: https://news.ycombinator.com/item?id=47209315
+- by rohanmunshi08
+- LLMの状態遷移を形式検証するコンパイラ。LLMの動作保証・予測可能性への需要。
+- 「LLM嘘問題」と同方向。AIシステムの信頼性・検証可能性が次のトレンドになりつつある。
+- Falcon Platformのエージェント動作保証に将来的に関連。
+
+---
+
 ### 17:30 JST
 
 #### スコア更新
