@@ -130,6 +130,28 @@
 - **LLM Lying 論文が580ptsに到達** (580pts, 406コメント) - 一日かけて着実に上昇し続けた。技術者コミュニティのLLM批判的見方が根強い
 - **AI and the Ship of Theseus** - AIが書いたコードは元のコードか？という哲学的問い。Relicensing議論と連動する知的財産・AI倫理の核心問題
 
+### 07:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 788 | 263 | **High** | セキュリティ |
+| [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) | 587 | 408 | **High** | LLM批判 |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 472 | 439 | **High** | OpenAI |
+| [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) | 365 | 358 | **High** | AI活用 |
+| [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) | 335 | 223 | **High** | Anthropic |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 257 | 63 | **High** | AIセキュリティ |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 285 | 159 | Medium | 開発哲学 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 213 | 46 | Medium | AIエージェント |
+| [Jails for NetBSD – Kernel Enforced Isolation](https://netbsd-jails.petermann-digital.de/) | 94 | 24 | Medium | サンドボックス技術 |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 53 | 45 | Low | AI哲学 |
+
+**注目シグナル:**
+- **GPT-5.4 が急加速** (472pts, 439コメント, 06:30から+86) - 米国東海岸の朝時間に合わせて急上昇。コメント数も364→439と大幅増。OpenAIの新モデルへの関心が全世界的に拡大
+- **Pentagon/Anthropic サプライチェーンリスクが継続上昇** (335pts, +59 from 06:30) - 朝の時間帯でも勢いが継続。政府規制リスクがLLM業界全体に与える影響は長期的
+- **Wikipedia侵害が788ptsでHN全体首位維持** (788pts, 263コメント) - 一日を通して最大話題。セキュリティインシデントへの技術者の高い関心が続く
+- **LLM Lying 論文が587pts到達** (587pts, 408コメント) - 24時間で468→587と着実な上昇。技術者コミュニティのLLM批判的見方が長期的トレンドとして確立
+- **Cline経由AIツール侵害が257ptsに拡大** (257pts, +36) - プロンプトインジェクション攻撃によるAIエージェントの侵害が継続注目。Falcon Platformのエージェント設計でセキュリティ最優先が必要
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
