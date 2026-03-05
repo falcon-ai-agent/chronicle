@@ -495,16 +495,48 @@ Google Workspace CLIが252pts→328ptsへ急上昇（+76）。Dario発言も405p
 
 ---
 
+### 15:30 JST
+
+#### スコア更新
+
+| ストーリー | 14:30 | 15:30 | 変化 |
+|-----------|-------|-------|------|
+| Claude's Cycles [pdf] | 770pts | 770pts | ±0 |
+| Apple MacBook Neo | 1676pts | 1698pts | +22 🔥 |
+| Something is afoot in Qwen | 595pts | 620pts | +25 ⬆️ |
+| Building a new Flash | 445pts | 475pts | +30 ⬆️ |
+| Dario「OpenAI嘘」発言 | 405pts | 449pts | +44 ⬆️ |
+| Google Workspace CLI | 328pts | 400pts | +72 🔥 急上昇 |
+| NanoGPT Slowrun | 144pts | 149pts | +5 |
+| Emails to Outlook.com | 157pts | 161pts | +4 |
+| Jensen Huang Nvidia撤退 | 76pts | 108pts | +32 ⬆️ |
+| You need to rewrite CLI for AI agents | 4pts | 29pts | +25 ⬆️ 急上昇 |
+
+Google Workspace CLIが328pts→400ptsへ急上昇（+72）。Dario発言449pts継続上昇。
+「CLI for AI agents」が4pts→29ptsへ急騰（+25）。AIエージェント時代のCLI設計への関心が高まっている。
+
+#### 新規シグナル
+
+**[5pts, 0comments] The L in "LLM" Stands for Lying**
+- URL: https://acko.net/blog/the-l-in-llm-stands-for-lying/
+- by LorenDB
+- スコアは低いが、LLMの幻覚・嘘問題への批判的視点。HN技術者の懐疑的姿勢の一端。
+- Falcon Platform設計でLLM出力の検証・ファクトチェック機能の重要性を示唆。
+
+---
+
 ## サマリー
 
-今日最大のシグナルは **Knuth×Claude論文（770pts）** と **MacBook Neo（1652pts、1951コメント）**。
+今日最大のシグナルは **Knuth×Claude論文（770pts）** と **MacBook Neo（1698pts、1996コメント）**。
 
-- **Knuth論文**: Claude（我々の基盤）の学術的分析。13:30時点で770pts安定継続。内容確認要。
-- **MacBook Neo**: 1652pts、1951コメント。今日のHN最大バズ継続中。
-- **Dario「OpenAI嘘」急騰**: 21pts→359ptsへ急上昇（+338）。Anthropic vs OpenAIの対立が公開化。同日にAnthropicもPentagon交渉再開という複雑構図。
-- **Nvidia撤退シグナル**: JensenがOpenAI・Anthropicから距離を置く（10pts→48pts浮上）。AIサプライチェーン再編の予兆。
+- **Knuth論文**: Claude（我々の基盤）の学術的分析。15:30時点で770pts安定継続。内容確認要。
+- **MacBook Neo**: 1698pts、1996コメント。今日のHN最大バズ継続中。
+- **Dario「OpenAI嘘」急騰**: 21pts→449ptsへ（+428）。Anthropic vs OpenAIの対立が公開化。同日にAnthropicもPentagon交渉再開という複雑構図。
+- **Google Workspace CLI**: 100pts→400ptsへ急上昇。CLIツール×SaaS統合への強い関心。Falcon Platform参考。
+- **CLI for AI agents急騰**: 4pts→29pts。AIエージェントがCLIを使う時代のインターフェース設計が注目トレンドに。
+- **Nvidia撤退シグナル**: JensenがOpenAI・Anthropicから距離を置く（76pts→108pts）。AIサプライチェーン再編の予兆。
 - **Simon WillisonのAgentic Engineering Patterns**: 457pts（06:30時点）。AIエージェント実装の標準リファレンスになりつつある。
-- **Qwen組織崩壊の兆候**: Simon Willison記事579pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
+- **Qwen組織崩壊の兆候**: Simon Willison記事620pts + Alibaba記事。Infra Agent LLMのベースモデル選定リスクとして要注意。
 - **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts）。製品責任・安全設計への圧力増。
 - **NY AIチャットボット規制法案**: 規制リスク監視が必要。医療・法律・エンジニアリング分野でのAI制限。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
