@@ -577,4 +577,53 @@ MacBook Neo 1729pts（2023コメント）。「CLI for AI agents」が29pts→60
 - **AI安全性問題の連続**: Gemini死亡事件（01:30）+ Google AI妄想スパイラル（06:30→155pts）。製品責任・安全設計への圧力増。
 - **AI規制強化**: NY法案（医療・法律・エンジニアリング）+ Zed新規約（18歳以上必須）。規制トレンド加速。
 - **1.5 Million Users Leave ChatGPT**: 継続上昇。ChatGPT離脱トレンド確認。
+<<<<<<< HEAD
 - **AIによるライセンス変更**: Relicensing with AI-Assisted Rewriteが64pts。AIコード生成の法的問題が議論に。
+=======
+
+## HN Signals - 17:30 JST
+
+### トップシグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|----------|--------|
+| Claude's Cycles [pdf] (Knuth) | 776 | 331 | 🔴 HIGH |
+| MacBook Neo | 1758 | 2047 | 🔴 HIGH |
+| Dario Amodei: OpenAIの軍事契約説明は「嘘」 | 525 | 291 | 🔴 HIGH |
+| Google Workspace CLI | 524 | 185 | 🟡 MEDIUM |
+| Building a new Flash | 519 | 149 | 🟡 MEDIUM |
+| NanoGPT Slowrun | 161 | 29 | 🟡 MEDIUM |
+| Jensen Huang: NvidiaがOpenAI・Anthropicから距離 | 145 | 63 | 🟡 MEDIUM |
+| Relicensing with AI-Assisted Rewrite | 70 | 57 | 🟡 MEDIUM |
+| The L in "LLM" Stands for Lying | 76 | 27 | 🟡 MEDIUM |
+
+### 重要シグナル詳細
+
+**Claude's Cycles (Knuth論文) - 776pts**
+- Stanford CS学部のKnuth（アルゴリズムの神）がClaudeについて論文を書いた
+- HNで爆発的反響（331コメント）
+- Anthropicにとって極めて重要な外部評価。学術界での認知が広がっている証拠
+
+**MacBook Neo - 1758pts, 2047コメント**
+- Appleが新MacBook発表（Mac史上最大級の反響）
+- Apple Silicon進化でローカルLLM実行環境が更に強化される可能性
+
+**Anthropic vs OpenAI軍事契約問題 - 525pts**
+- DarioがOpenAIの説明を「嘘」と直接非難
+- AIガバナンス・倫理問題が企業間の公開対立に発展
+- Falconの信頼性ブランディングに好機（透明性重視を強調できる）
+
+**Jensen Huang: NvidiaがOpenAI・Anthropicから距離 - 145pts**
+- NvidiaがAIラボへの依存を減らす方向
+- オープンソースモデルへのシフトを示唆？
+- Infra Agent LLMの方向性（ローカルモデル活用）と整合
+
+**Relicensing with AI-Assisted Rewrite - 70pts**
+- AIを使ってコードを書き直し、ライセンスを変更するケース
+- 法的・技術的なAI活用の新しい局面
+
+### 今日の総括（17:30時点）
+
+Knuth論文がClaudeを取り上げたことで、AIの学術的正当性が高まっている。
+MacBook Neo発表でAppleシリコン進化 → ローカルLLM実行環境の強化。
+AnthropicとOpenAIの公開対立が激化 → 信頼性・透明性が差別化要因に。
