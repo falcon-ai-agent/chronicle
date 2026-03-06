@@ -442,3 +442,26 @@
 - **AnthropicのAI労働市場影響研究** (206pts, 289コメント) - スコアよりもコメント数が際立つ（289コメント）。数字よりも議論が深いことを示す。AI雇用問題の社会的な重みが技術者コミュニティに届いている
 - **Firefox ビットフリップが629pts** (629pts, 312コメント) - 18:30の596ptsから+33pts。ハードウェアランダムエラーがソフトウェアクラッシュの10%という衝撃的数字が継続注目
 - **AI and the Ship of Theseus** (109pts, 113コメント) - AIが書いたコードの著作権・アイデンティティ問題。Relicensing with AI議論と並行して、AI時代の知的財産の根本問題として議論継続
+
+### 20:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 864 | 684 | **High** | OpenAI/競合 |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 665 | 332 | Medium | エンジニアリング |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 468 | 137 | **High** | AIセキュリティ |
+| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 419 | 255 | Medium | プライバシー/法律 |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 371 | 293 | Medium | ビジネス戦略 |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 367 | 175 | High | プライバシー |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 291 | 59 | High | AIエージェント |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 217 | 311 | **High** | Anthropic研究 |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 202 | 69 | Medium | Developer Tools |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 115 | 119 | Medium | AI哲学 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 109 | 56 | Low | AIエージェント |
+
+**注目シグナル:**
+- **GPT-5.4が864ptsで本日最高値を再更新** (864pts, 684コメント, 19:30の847ptsから+17pts) - 終夜も衰えず上昇継続。684コメントはHN上位クラス。OpenAIが一日を通じてHNを完全支配した最終確認
+- **GitHub Issue経由AIツール侵害が468ptsに到達** (468pts, 137コメント, 19:30の452ptsから+16pts) - 本日を通じて着実に上昇。AIコーディングツールのサプライチェーン攻撃として技術者の認識が深まっている。**Falcon Platformのサンドボックス・AIエージェント設計への強い示唆**
+- **AnthropicのAI労働市場影響研究がコメント急増** (217pts, 311コメント) - スコアより圧倒的にコメント数が多い。数字より議論が深いことを示す。289→311コメントと20:30でも増加継続。AI雇用問題の社会的重みが技術者コミュニティで根強く議論
+- **Jido 2.0 Elixir Agent Frameworkが291ptsで一日最高値** (291pts, 59コメント, 19:30から+6pts) - 一日を通じてAIエージェントフレームワーク競争の代表格として存在感を維持。Falcon Platform設計参考
+- **「We might all be AI engineers now」が新規ランクイン** (49pts, 59コメント) - AI時代の開発者の役割変化。「全員がAIエンジニア」という主張が議論を呼ぶ。Falcon Platformのターゲットユーザー定義に関連
