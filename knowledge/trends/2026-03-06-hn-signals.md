@@ -219,6 +219,28 @@
 - **Anthropic「Department of War」公式声明** (93pts, 45コメント) - 新規・重要。PentagonサプライチェーンリスクへのAnthropicの公式回答。軍事利用問題についての立場を表明
 - **CBP広告エコシステム経由で市民追跡** (296pts, 122コメント) - 新規。米国税関が広告SDKを通じて位置情報追跡。プライバシー監視の深刻化がFalcon Platformのデータ設計に示唆
 
+### 11:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 885 | 311 | **High** | セキュリティ |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 646 | 559 | **High** | OpenAI |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 342 | 194 | Medium | 開発哲学 |
+| [CBP tapped into online advertising to track people's movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/) | 360 | 151 | High | プライバシー/監視 |
+| [Anthropic: Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 184 | 136 | **High** | Anthropic |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 232 | 207 | Medium | ビジネス戦略 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 250 | 55 | Medium | AIエージェント |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 91 | 24 | Medium | AI活用 |
+| [Show HN: PageAgent, A GUI agent inside your web app](https://alibaba.github.io/page-agent/) | 74 | 37 | Medium | AIエージェント |
+| [10% of Firefox crashes caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 301 | 159 | Medium | エンジニアリング |
+
+**注目シグナル:**
+- **Wikipedia侵害が885ptsで一日最高値更新** (885pts, 311コメント, 10:30から+16pts) - 依然首位。スコアの伸びは鈍化しつつあるが依然として最大話題
+- **GPT-5.4 が646pts/559コメントで急成長** (646pts, 559コメント, 10:30から+30pts/+12コメント) - 朝のピークを超えて継続上昇。一日を通じてOpenAIの最大関心事
+- **Anthropic「Department of War」声明が急上昇** (184pts, 136コメント, 10:30から+91pts) - 今時間帯の最大ジャンプ。米軍への立場を公式表明した記事が技術者コミュニティで強い関心を集め始めた
+- **Paul Graham「The Brand Age」が232pts** (232pts, 207コメント) - ブランドが差別化の核心という論考。AI時代のプロダクト戦略として示唆大。Falcon Platformのブランド構築にも関連
+- **Jido 2.0 が250ptsに到達** (250pts, 55コメント) - AI Agent Frameworkが着実に成長。Elixirの耐障害性がエージェント設計に適している
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
