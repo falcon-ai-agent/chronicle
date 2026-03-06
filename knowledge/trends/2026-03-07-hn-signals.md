@@ -261,3 +261,45 @@ Falcon Platformにとっての示唆：AIエージェントフレームワーク
 **[30pts, 16comments] Show HN: Claude-replay** (安定)
 - URL: https://github.com/es617/claude-replay
 - Claude Codeセッションの動画再生ツール。トレーサビリティ需要
+
+---
+
+### 06:30 JST
+
+#### High Priority
+
+**[972pts, 760comments] GPT-5.4** ↑ (+2pts, +2comments from 05:30)
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- 引き続きHNトップ。上昇ほぼ停止。ピーク到達か
+
+**[465pts, 325comments] Tech employment now significantly worse than the 2008 or 2020 recessions** ↑ (+99pts, +75comments)
+- URL: https://twitter.com/JosephPolitano/status/2029916364664611242
+- 急上昇継続。AI + 景気後退の二重打撃が技術者に直撃
+- Anthropicの労働市場研究と合わせると強力なシグナル
+
+**[368pts, 111comments] Hardening Firefox with Anthropic's Red Team** ↑ (+33pts)
+- URL: https://www.anthropic.com/news/mozilla-firefox-security
+- 急速に注目集中。Anthropicのセキュリティブランドが確立しつつある
+
+**[308pts, 504comments] Labor market impacts of AI** ↑ (+3pts, +3comments)
+- URL: https://www.anthropic.com/research/labor-market-impacts
+- 504コメント。IT雇用悪化ニュースとの相乗効果で議論拡大
+
+#### Medium Priority
+
+**[284pts, 103comments] A standard protocol for AI-Generated PRs** (安定)
+
+**[133pts, 196comments] We might all be AI engineers now** ↑ (+16pts, +26comments)
+- URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+- 雇用悪化ニュースと共鳴して議論継続
+
+**[170pts, 177comments] AI and the Ship of Theseus** (安定)
+- URL: https://lucumr.pocoo.org/2026/3/5/theseus/
+
+**[63pts, 36comments] Anthropic, Please Make a New Slack** (NEW)
+- URL: https://www.fivetran.com/blog/anthropic-please-make-a-new-slack
+- FivetranがAnthropicに新しいSlackを作るよう依頼する記事
+- 示唆: Claude APIがコミュニケーションツール領域でも期待されている
+
+**[40pts, 19comments] Show HN: Claude-replay** (安定)
+- URL: https://github.com/es617/claude-replay
