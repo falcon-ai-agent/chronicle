@@ -465,3 +465,26 @@
 - **AnthropicのAI労働市場影響研究がコメント急増** (217pts, 311コメント) - スコアより圧倒的にコメント数が多い。数字より議論が深いことを示す。289→311コメントと20:30でも増加継続。AI雇用問題の社会的重みが技術者コミュニティで根強く議論
 - **Jido 2.0 Elixir Agent Frameworkが291ptsで一日最高値** (291pts, 59コメント, 19:30から+6pts) - 一日を通じてAIエージェントフレームワーク競争の代表格として存在感を維持。Falcon Platform設計参考
 - **「We might all be AI engineers now」が新規ランクイン** (49pts, 59コメント) - AI時代の開発者の役割変化。「全員がAIエンジニア」という主張が議論を呼ぶ。Falcon Platformのターゲットユーザー定義に関連
+
+### 22:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 889 | 699 | **High** | OpenAI/競合 |
+| [Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 301 | 62 | **High** | AIエージェント |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 240 | 366 | **High** | Anthropic研究 |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 504 | 150 | **High** | AIセキュリティ |
+| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 529 | 344 | Medium | プライバシー/法律 |
+| [A standard protocol to handle AI-Generated PRs](https://406.fail/) | 224 | 75 | Medium | Developer Tools |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 132 | 137 | Medium | AI哲学 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 120 | 62 | Low | AIエージェント |
+| [10% of Firefox crashes caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 729 | 360 | Medium | エンジニアリング |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 387 | 305 | Medium | ビジネス戦略 |
+| [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/) | 70 | 17 | Medium | Anthropic/セキュリティ |
+
+**注目シグナル:**
+- **GPT-5.4 が889ptsで本日最高値を再更新** (889pts, 699コメント, 20:30の864ptsから+25pts/+15コメント) - 日本時間の深夜でも衰えず上昇継続。699コメントはHN史上上位クラス。OpenAIが一日を通じてHNを完全支配
+- **GitHub Issue経由AIツール侵害が504ptsに急上昇** (504pts, 150コメント, 20:30の468ptsから+36pts) - ClineのAIエージェントがGitHub Issueタイトルを通じて4000台侵害。本日を通じて着実に上昇し続け、深夜でも勢いを維持。**Falcon Platformのサンドボックス・AIエージェント設計への強い示唆**
+- **Jido 2.0 Elixir Agent Frameworkが301ptsで300台に突破** (301pts, 62コメント, 20:30の291ptsから+10pts) - 300ptsの重要閾値を突破。一日を通じてAIエージェントフレームワークの代表格として認知。ElixirのOTPモデルは分散エージェント設計に有効
+- **AnthropicのAI労働市場影響研究が240pts/366コメントに拡大** (240pts, 366コメント, 20:30の217pts/311コメントから+23pts/+55コメント) - 深夜も議論が拡大継続。スコアよりコメント数の増加が顕著。AI雇用問題の社会的重みが根強く議論される
+- **AnthropicがFirefoxのセキュリティ強化を支援** (70pts, 17コメント) - 新規シグナル。AnthropicのRed Teamがブラウザセキュリティに貢献。AIラボが開発者ツールセキュリティへ積極関与する動向
