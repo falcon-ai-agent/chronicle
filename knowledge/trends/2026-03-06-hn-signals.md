@@ -241,6 +241,29 @@
 - **Paul Graham「The Brand Age」が232pts** (232pts, 207コメント) - ブランドが差別化の核心という論考。AI時代のプロダクト戦略として示唆大。Falcon Platformのブランド構築にも関連
 - **Jido 2.0 が250ptsに到達** (250pts, 55コメント) - AI Agent Frameworkが着実に成長。Elixirの耐障害性がエージェント設計に適している
 
+### 12:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 675 | 585 | **High** | OpenAI |
+| [CBP tapped into online advertising to track people's movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/) | 386 | 160 | High | プライバシー/監視 |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 356 | 197 | Medium | 開発哲学 |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 332 | 186 | Medium | エンジニアリング |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 255 | 222 | Medium | ビジネス戦略 |
+| [Anthropic: Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 233 | 194 | **High** | Anthropic |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 251 | 56 | Medium | AIエージェント |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 250 | 127 | High | プライバシー |
+| [Labor market impacts of AI](https://www.anthropic.com/research/labor-market-impacts) | 81 | 87 | Medium | Anthropic |
+| [Jails for NetBSD – Kernel Enforced Isolation](https://netbsd-jails.petermann-digital.de/) | 99 | 24 | Medium | サンドボックス技術 |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 109 | 30 | Medium | AI活用 |
+
+**注目シグナル:**
+- **GPT-5.4 が675pts/585コメントで独走** (675pts, 585コメント, 11:30から+29pts/+26コメント) - 一日を通じてOpenAIの最大話題。Wikipedia侵害が姿を消し、GPT-5.4がHN全体首位に浮上
+- **Anthropic「Department of War」声明が急加速** (233pts, 194コメント, 11:30から+49pts/+58コメント) - 今時間帯の最大ジャンプ。米軍との関係についてのAnthropicの公式立場が昼の時間帯に爆発的に拡散。Dario vs OpenAIの軍事契約対立が続く
+- **CBP広告エコシステム経由追跡が386ptsに到達** (386pts, 160コメント) - 米国税関が広告SDKで市民追跡。プライバシー侵害の深刻化が技術者コミュニティで強く議論される
+- **Proton Mail + FBI の匿名ユーザー開示** (250pts, 127コメント) - 新規ランクイン。プライバシー重視とされるProton Mailが捜査協力でユーザー情報開示。プライバシーツールへの信頼問題
+- **Jido 2.0が251ptsで安定成長** (251pts, 56コメント) - Elixir製エージェントフレームワークが一日を通じて技術者の関心を維持。Falcon Platformのエージェント設計参考
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
