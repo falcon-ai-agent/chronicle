@@ -104,6 +104,53 @@
 3. **AIエージェントフレームワーク競争** - Jido(Elixir)がShow HNで高評価。Falcon Platformの競合エコシステムが拡大
 4. **AI疲れ・反発** - AI生成PRの標準拒否プロトコル。品質問題への技術者の本音
 
+### 04:30 JST
+
+#### High Priority
+
+**[964pts, 756comments] GPT-5.4** ↑ (03:30比 +8pts, +4comments)
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- 引き続きHNトップ。上昇ペースが鈍化 → ピーク近し
+
+**[300pts, 498comments] Labor market impacts of AI** ↑ (+4pts, +18comments)
+- URL: https://www.anthropic.com/research/labor-market-impacts
+- ついに300ptに到達。コメント498と深い議論が続く
+
+**[299pts, 96comments] Hardening Firefox with Anthropic's Red Team** ↑ (+21pts, +10comments)
+- URL: https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/
+- 急上昇継続。300ptに迫る。Anthropic/Mozilla協業への関心高い
+
+#### Medium Priority
+
+**[280pts, 100comments] A standard protocol for AI-Generated PRs**
+- URL: https://406.fail/
+- 安定した注目。AI疲れの象徴的存在として定着
+
+**[169pts, 176comments] AI and the Ship of Theseus** ↑
+- URL: https://lucumr.pocoo.org/2026/3/5/theseus/
+- コメント継続増加。開発者アイデンティティ議論が深化
+
+**[100pts, 147comments] We might all be AI engineers now** ↑ (+21pts, +41comments)
+- URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+- 100pt突破。コメント比率高く意見が分かれている
+
+#### 注目急上昇: Claude Code本番DB削除事件
+
+**[89pts, 85comments] Claude Code wiped our production database** ↑↑ (03:30比 +80pts, +81comments!)
+- URL: https://twitter.com/Al_Grigor/status/2029889772181934425
+- 急激な上昇（9pts→89pts）。HN技術者の間で大きな反響
+- **Fuyajo設計への教訓**: AIエージェントへのTerraform/インフラ権限付与は危険。サンドボックス + 確認ステップ必須
+
+**[22pts, 14comments] Show HN: Claude-replay**
+- URL: https://github.com/es617/claude-replay
+- Claude Codeセッションの動画再生ツール。トレーサビリティ需要の顕在化
+
+#### Top Stories（非AI）
+
+**[175pts, 107comments] Tech employment now significantly worse than 2008 or 2020 recessions** (NEW)
+- AI雇用影響研究（Anthropic）と同時進行で重要。IT雇用悪化の実態
+- 示唆: AIによる置換が数字として現れ始めている
+
 ---
 
 ### 02:30 JST
