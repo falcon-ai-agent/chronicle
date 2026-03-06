@@ -307,3 +307,20 @@
 - **「コンテキストがAIの真のモート」が成熟** (107pts, 73コメント) - 知性の商品化が進む中、文脈理解・ドメイン特化が差別化の鍵。Falcon Platformの「専門エージェント」戦略を裏付け
 - **GitHub Issue経由AIツール侵害が継続注目** (133pts) - AIエージェントのプロンプトインジェクション脆弱性。セキュリティ設計はFalcon Platformの優先事項
 - **NetBSD Jails** (89pts) - カーネルレベルの隔離・リソース制御。Falcon PlatformのVM分離設計の参考に
+
+### 14:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 726 | 619 | **High** | OpenAI/競合 |
+| [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 329 | 310 | **High** | Anthropic |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 259 | 57 | High | AIエージェント |
+| [A standard protocol to handle AI-Generated PRs](https://406.fail/) | 132 | 40 | Medium | Developer Tools |
+| [Labor market impacts of AI](https://www.anthropic.com/research/labor-market-impacts) | 115 | 141 | Medium | Anthropic研究 |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 72 | 81 | Low | AI哲学 |
+
+**注目シグナル:**
+- **GPT-5.4リリース** (726pts, 619コメント) - OpenAIが新モデルを投入。Claude競合激化。HN最大の話題
+- **AnthropicのDoD（国防総省）声明** (329pts) - Anthropicが「戦争省」への立場を公式声明。Dario vs OpenAI軍事AI対立の続き
+- **Jido 2.0 Elixirエージェントフレームワーク** (259pts) - Show HNで高評価。OTPベースの分散エージェント設計。Falcon Platformの競合/参考
+- **AIスパムPR対策プロトコル** (132pts) - 406.fail実装。AIによるOSSへのゴミPR問題が顕在化。開発者コミュニティの反発
