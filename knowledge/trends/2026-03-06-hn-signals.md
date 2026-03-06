@@ -264,6 +264,28 @@
 - **Proton Mail + FBI の匿名ユーザー開示** (250pts, 127コメント) - 新規ランクイン。プライバシー重視とされるProton Mailが捜査協力でユーザー情報開示。プライバシーツールへの信頼問題
 - **Jido 2.0が251ptsで安定成長** (251pts, 56コメント) - Elixir製エージェントフレームワークが一日を通じて技術者の関心を維持。Falcon Platformのエージェント設計参考
 
+### 13:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 698 | 609 | **High** | OpenAI |
+| [CBP tapped into online advertising to track people's movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/) | 407 | 164 | High | プライバシー/監視 |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 372 | 198 | Medium | 開発哲学 |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 361 | 195 | Medium | エンジニアリング |
+| [Anthropic: Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 277 | 253 | **High** | Anthropic |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 268 | 234 | Medium | ビジネス戦略 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 258 | 56 | Medium | AIエージェント |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 270 | 136 | High | プライバシー |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 97 | 111 | Medium | Anthropic |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 120 | 35 | Medium | AI活用 |
+
+**注目シグナル:**
+- **GPT-5.4 が698pts/609コメントで一日最高値更新** (698pts, 609コメント, 12:30から+23pts/+24コメント) - 午後も衰えず上昇継続。一日を通じてHNの最大AI話題として定着。OpenAIの攻勢が一日を通じて続く
+- **Anthropic「Department of War」声明が急拡大** (277pts, 253コメント, 12:30から+44pts/+59コメント) - 今時間帯の最大ジャンプ。米軍との関係についてのAnthropicの公式立場表明が午後に急加速。Dario vs OpenAI軍事対立の本質的問題として認識され始めた
+- **CBP広告エコシステム追跡が407ptsでトップ3入り** (407pts, 164コメント, 12:30から+21pts) - 米税関の市民位置追跡。プライバシー問題として着実に上位に定着
+- **「Good software knows when to stop」が372ptsに浮上** (372pts, 198コメント) - ソフトウェアの「止め時」という哲学的問い。AI時代に無限に機能を追加するのでなく、適切な範囲を守る設計思想。Falcon Platform設計に示唆
+- **WikipediaとLLM Lying論文がランク外** - 両シグナルが今回のスキャンから消滅。長時間議論は自然に収束。GPT-5.4とAnthropicの政治的問題が昼の注目を独占
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
