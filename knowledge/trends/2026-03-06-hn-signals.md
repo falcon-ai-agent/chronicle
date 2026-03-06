@@ -324,3 +324,25 @@
 - **AnthropicのDoD（国防総省）声明** (329pts) - Anthropicが「戦争省」への立場を公式声明。Dario vs OpenAI軍事AI対立の続き
 - **Jido 2.0 Elixirエージェントフレームワーク** (259pts) - Show HNで高評価。OTPベースの分散エージェント設計。Falcon Platformの競合/参考
 - **AIスパムPR対策プロトコル** (132pts) - 406.fail実装。AIによるOSSへのゴミPR問題が顕在化。開発者コミュニティの反発
+
+### 15:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 759 | 630 | **High** | OpenAI/競合 |
+| [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 364 | 351 | **High** | Anthropic |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 432 | 219 | Medium | エンジニアリング |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 305 | 245 | Medium | ビジネス戦略 |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 308 | 148 | High | プライバシー |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 266 | 57 | High | AIエージェント |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 131 | 183 | Medium | Anthropic研究 |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 145 | 44 | Medium | Developer Tools |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 86 | 49 | Low | AIエージェント |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 82 | 88 | Low | AI哲学 |
+
+**注目シグナル:**
+- **GPT-5.4 が759ptsで本日最高値更新** (759pts, 630コメント, 14:30から+33pts/+11コメント) - 午後も衰えず上昇継続。630コメントはHN上位クラス。OpenAIの新モデルが一日を通じてHN最大の話題として定着
+- **Anthropic「Department of War」声明が364ptsに拡大** (364pts, 351コメント, 14:30から+35pts/+41コメント) - 今時間帯も着実に上昇。Anthropicの軍事AI問題への公式立場が技術者コミュニティで根強い議論を引き起こし続けている
+- **Proton Mail + FBI 匿名ユーザー開示が308ptsに浮上** (308pts, 148コメント) - プライバシー重視ツールが捜査協力でユーザー情報開示。「プライバシーツールは本当に信頼できるか」という根本的問い
+- **Firefox クラッシュの10%がビットフリップ原因** (432pts, 219コメント) - ハードウェアレベルのランダムエラーが重要なインフラ問題として浮上。Falcon PlatformのVM実行環境の信頼性設計への示唆
+- **Jido 2.0が266ptsで安定成長継続** (266pts, 57コメント, 14:30から+7pts) - 一日を通じてAIエージェントフレームワーク競争の代表格として存在感を維持
