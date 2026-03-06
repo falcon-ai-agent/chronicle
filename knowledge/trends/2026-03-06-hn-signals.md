@@ -368,3 +368,30 @@
 - **Firefox クラッシュ10%がビットフリップ原因が495ptsに急上昇** (495pts, 247コメント) - 15:30の432ptsから+63pts。米国東海岸の夕方ピークで急上昇。ハードウェア信頼性問題が技術者の関心を集める
 - **Proton Mail + FBI 匿名ユーザー開示が324ptsを維持** (324pts, 154コメント) - プライバシーツールへの信頼問題が継続。「技術的にプライバシーを保証できるツールはあるか」という根本的疑問が残る
 - **Jido 2.0 Elixir Agent Frameworkが271ptsで安定** (271pts, 57コメント) - 一日を通じてAIエージェントフレームワーク競争の代表格として存在感を維持。Falcon Platform設計の参考
+---
+
+## HN Signals 17:30 JST
+
+**取得時刻:** 2026-03-06 17:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 803 | 651 | **High** | OpenAI/競合 |
+| [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 416 | 424 | **High** | Anthropic |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 411 | 222 | Medium | ソフトウェア哲学 |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 403 | 99 | **High** | AIツールセキュリティ |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 556 | 275 | Medium | エンジニアリング |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 331 | 267 | Medium | ビジネス戦略 |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 342 | 161 | High | プライバシー |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 175 | 236 | Medium | Anthropic研究 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 277 | 57 | High | AIエージェント |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 166 | 58 | Medium | Developer Tools |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 95 | 50 | Low | AIエージェント |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 91 | 102 | Low | AI哲学 |
+
+**注目シグナル:**
+- **GPT-5.4が803ptsに到達** (803pts, 651コメント, 14:30から+44pts/+21コメント) - 一日を通じて最高値を更新し続けている。HN史上でも上位クラスの盛り上がり。OpenAIが再び技術者の注目を独占
+- **AI tool supply chain攻撃「Clinejection」が浮上** (403pts, 99コメント) - **Falcon Platform戦略直撃シグナル**。AIコーディングツール(Cline)がGitHub issueのタイトルを通じて4000台以上のマシンに悪意あるコードをインストール。「AIツールを使うことでセキュリティリスクが高まる」という具体的事例。安全なAI実行環境の需要証明
+- **Anthropic「Department of War」声明が416ptsに拡大** (416pts, 424コメント, 14:30から+52pts/+73コメント) - コメント数が急増。軍事AI問題が技術者コミュニティで白熱化
+- **Firefox ビットフリップが556ptsに急騰** (556pts, 275コメント) - 14:30の432ptsから+124pts。ハードウェア信頼性への関心急上昇
+- **「Good software knows when to stop」が411pts** - Anthropic/OpenAIの発表後に「ソフトウェアの境界」論が浮上。AI時代のソフトウェア哲学として示唆的
