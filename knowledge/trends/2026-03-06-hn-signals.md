@@ -447,17 +447,17 @@
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
 |---------|--------|---------|--------|------|
-| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 864 | 684 | **High** | OpenAI/競合 |
-| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 665 | 332 | Medium | エンジニアリング |
-| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 468 | 137 | **High** | AIセキュリティ |
-| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 419 | 255 | Medium | プライバシー/法律 |
-| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 371 | 293 | Medium | ビジネス戦略 |
-| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 367 | 175 | High | プライバシー |
-| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 291 | 59 | High | AIエージェント |
-| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 217 | 311 | **High** | Anthropic研究 |
-| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 202 | 69 | Medium | Developer Tools |
-| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 115 | 119 | Medium | AI哲学 |
-| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 109 | 56 | Low | AIエージェント |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 874 | 689 | **High** | OpenAI/競合 |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 700 | 346 | Medium | エンジニアリング |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 488 | 143 | **High** | AIセキュリティ |
+| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 482 | 295 | Medium | プライバシー/法律 |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 382 | 297 | Medium | ビジネス戦略 |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 371 | 180 | High | プライバシー |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 230 | 331 | **High** | Anthropic研究 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 297 | 59 | High | AIエージェント |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 213 | 73 | Medium | Developer Tools |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 122 | 130 | Medium | AI哲学 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 117 | 61 | Low | AIエージェント |
 
 **注目シグナル:**
 - **GPT-5.4が864ptsで本日最高値を再更新** (864pts, 684コメント, 19:30の847ptsから+17pts) - 終夜も衰えず上昇継続。684コメントはHN上位クラス。OpenAIが一日を通じてHNを完全支配した最終確認
