@@ -419,3 +419,26 @@
 - **Firefox ビットフリップが596ptsに急上昇** (16:30の495ptsから+101pts) - 本日2番目の急上昇。ハードウェア信頼性問題への関心が急増
 - **AI雇用影響研究（Anthropic）がコメント急増** (268コメント, 16:30から+56コメント) - スコアよりコメント数の増加が顕著。AI雇用影響への議論が白熱
 - **GPT-5.4が823ptsで本日最高値更新** (16:30から+45pts) - 依然として本日最大の話題。661コメントは終日トップ
+
+### 19:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 847 | 671 | **High** | OpenAI/競合 |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 452 | 129 | **High** | AIセキュリティ |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 629 | 312 | Medium | エンジニアリング |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 361 | 284 | Medium | ビジネス戦略 |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 206 | 289 | **High** | Anthropic研究 |
+| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 363 | 221 | Medium | プライバシー/法律 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 285 | 58 | High | AIエージェント |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 191 | 66 | Medium | Developer Tools |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 109 | 113 | Medium | AI哲学 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 103 | 54 | Low | AIエージェント |
+| [We might all be AI engineers now](https://yasint.dev/we-might-all-be-ai-engineers-now/) | 34 | 32 | Medium | AI業界動向 |
+
+**注目シグナル:**
+- **GPT-5.4が847ptsで本日最高値を再更新** (847pts, 671コメント, 18:30から+24pts/+10コメント) - 終日首位を維持し続け、671コメントはHN史上でも上位クラス。夕方以降も衰えない。OpenAIが一日を通じてHNを完全支配
+- **GitHub Issue経由AIツール侵害が452ptsに急上昇** (452pts, 129コメント, 18:30の431ptsから+21pts) - ClineのAIエージェントがGitHub Issueタイトルを通じて4000台侵害。プロンプトインジェクション攻撃の実害が夕方ピークで急浮上。**Falcon Platformのサンドボックス設計に直接的な示唆**
+- **AnthropicのAI労働市場影響研究** (206pts, 289コメント) - スコアよりもコメント数が際立つ（289コメント）。数字よりも議論が深いことを示す。AI雇用問題の社会的な重みが技術者コミュニティに届いている
+- **Firefox ビットフリップが629pts** (629pts, 312コメント) - 18:30の596ptsから+33pts。ハードウェアランダムエラーがソフトウェアクラッシュの10%という衝撃的数字が継続注目
+- **AI and the Ship of Theseus** (109pts, 113コメント) - AIが書いたコードの著作権・アイデンティティ問題。Relicensing with AI議論と並行して、AI時代の知的財産の根本問題として議論継続
