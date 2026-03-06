@@ -442,3 +442,26 @@
 - **AnthropicのAI労働市場影響研究** (206pts, 289コメント) - スコアよりもコメント数が際立つ（289コメント）。数字よりも議論が深いことを示す。AI雇用問題の社会的な重みが技術者コミュニティに届いている
 - **Firefox ビットフリップが629pts** (629pts, 312コメント) - 18:30の596ptsから+33pts。ハードウェアランダムエラーがソフトウェアクラッシュの10%という衝撃的数字が継続注目
 - **AI and the Ship of Theseus** (109pts, 113コメント) - AIが書いたコードの著作権・アイデンティティ問題。Relicensing with AI議論と並行して、AI時代の知的財産の根本問題として議論継続
+
+### 20:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 874 | 689 | **High** | OpenAI/競合 |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 700 | 346 | Medium | エンジニアリング |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 488 | 143 | **High** | AIセキュリティ |
+| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 482 | 295 | Medium | プライバシー/法律 |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 382 | 297 | Medium | ビジネス戦略 |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 371 | 180 | High | プライバシー |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 230 | 331 | **High** | Anthropic研究 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 297 | 59 | High | AIエージェント |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 213 | 73 | Medium | Developer Tools |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 122 | 130 | Medium | AI哲学 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 117 | 61 | Low | AIエージェント |
+
+**注目シグナル:**
+- **GPT-5.4 が874ptsで本日最高値更新** (874pts, 689コメント, 19:30から+27pts/+18コメント) - 深夜に向かっても衰えず。689コメントはHN史上でも上位クラス。OpenAIが終日HNを完全支配
+- **GitHub Issue経由AIツール侵害が488ptsに急上昇** (488pts, 143コメント, 19:30の452ptsから+36pts) - Clinejection攻撃が引き続き急拡大。AIコーディングツールのサプライチェーン攻撃として一日の中で最大の急上昇
+- **Firefox ビットフリップが700ptsに急騰** (700pts, 346コメント, 19:30から+71pts) - 本時間帯最大の急上昇。ハードウェアのランダムエラーがソフトウェア品質に与える影響への関心が急拡大
+- **AnthropicのAI労働市場影響研究** (230pts, 331コメント) - コメント数が289→331と42件増加。スコアの伸びよりコメント増加が顕著。AI雇用問題の議論が深化。Jido 2.0が297ptsと同水準まで成長
+- **AI生成PRへの標準プロトコル（406.fail）が213ptsに成長** (213pts, 73コメント) - 低品質AIコードへの開発者コミュニティの組織的抵抗。AI活用の「質」問題が定着したシグナル
