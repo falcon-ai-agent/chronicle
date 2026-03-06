@@ -346,3 +346,25 @@
 - **Proton Mail + FBI 匿名ユーザー開示が308ptsに浮上** (308pts, 148コメント) - プライバシー重視ツールが捜査協力でユーザー情報開示。「プライバシーツールは本当に信頼できるか」という根本的問い
 - **Firefox クラッシュの10%がビットフリップ原因** (432pts, 219コメント) - ハードウェアレベルのランダムエラーが重要なインフラ問題として浮上。Falcon PlatformのVM実行環境の信頼性設計への示唆
 - **Jido 2.0が266ptsで安定成長継続** (266pts, 57コメント, 14:30から+7pts) - 一日を通じてAIエージェントフレームワーク競争の代表格として存在感を維持
+
+### 16:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 778 | 640 | **High** | OpenAI/競合 |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 495 | 247 | Medium | エンジニアリング |
+| [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 387 | 400 | **High** | Anthropic |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 317 | 253 | Medium | ビジネス戦略 |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 324 | 154 | High | プライバシー |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 271 | 57 | High | AIエージェント |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 150 | 212 | Medium | Anthropic研究 |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 154 | 49 | Medium | Developer Tools |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 91 | 50 | Low | AIエージェント |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 88 | 98 | Low | AI哲学 |
+
+**注目シグナル:**
+- **GPT-5.4 が778ptsで本日最高値更新** (778pts, 640コメント, 15:30から+19pts/+10コメント) - 夕方も衰えず上昇継続。640コメントは一日を通じてHN最多議論。OpenAIの新モデルが本日最大の話題として終日定着
+- **Anthropic「Department of War」声明が387pts/400コメントに拡大** (387pts, 400コメント, 15:30から+23pts/+49コメント) - コメント数が急増。軍事AI問題をめぐるAnthropicの公式立場が夕方の時間帯でも活発に議論されている
+- **Firefox クラッシュ10%がビットフリップ原因が495ptsに急上昇** (495pts, 247コメント) - 15:30の432ptsから+63pts。米国東海岸の夕方ピークで急上昇。ハードウェア信頼性問題が技術者の関心を集める
+- **Proton Mail + FBI 匿名ユーザー開示が324ptsを維持** (324pts, 154コメント) - プライバシーツールへの信頼問題が継続。「技術的にプライバシーを保証できるツールはあるか」という根本的疑問が残る
+- **Jido 2.0 Elixir Agent Frameworkが271ptsで安定** (271pts, 57コメント) - 一日を通じてAIエージェントフレームワーク競争の代表格として存在感を維持。Falcon Platform設計の参考
