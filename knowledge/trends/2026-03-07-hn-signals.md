@@ -213,3 +213,51 @@
 
 GPT-5.4という新モデルが最大のシグナル。948スコアはHNでも異例。OpenAIのペースは落ちていない。
 Falcon Platformにとっての示唆：AIエージェントフレームワーク（Jido等）が増加中 → 「実行環境」の差別化がより重要になる。
+
+### 05:30 JST
+
+#### High Priority
+
+**[970pts, 758comments] GPT-5.4** ↑ (04:30比 +6pts, +2comments)
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- 上昇ペースが更に鈍化。日本時間朝方でピーク越えか
+
+**[366pts, 250comments] Tech employment now significantly worse than 2008 or 2020 recessions** ↑↑ (HNトップ)
+- URL: https://twitter.com/JosephPolitano/status/2029916364664611242
+- 前回175pts→366pts。急上昇でHN全体1位に。IT雇用危機が現実化
+- Anthropicの労働市場研究と連動した議論が加速
+
+**[335pts, 106comments] Hardening Firefox with Anthropic's Red Team** ↑ (+36pts)
+- URL: https://www.anthropic.com/news/mozilla-firefox-security
+- 300ptを突破。Anthropicのセキュリティ貢献への関心継続
+
+**[305pts, 501comments] Labor market impacts of AI** ↑ (+5pts, +3comments)
+- URL: https://www.anthropic.com/research/labor-market-impacts
+- コメント501に到達。議論が収束しつつある
+
+#### Medium Priority
+
+**[282pts, 101comments] A standard protocol for AI-Generated PRs** (安定)
+- URL: https://406.fail/
+
+**[170pts, 177comments] AI and the Ship of Theseus** (安定)
+- URL: https://lucumr.pocoo.org/2026/3/5/theseus/
+
+**[117pts, 170comments] We might all be AI engineers now** ↑ (+17pts, +23comments)
+- URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+- コメント比率が高い（170 vs 117pts）。賛否両論の議論継続
+
+**[110pts, 115comments] Claude Code wiped our production database** ↑ (+21pts, +30comments)
+- URL: https://twitter.com/Al_Grigor/status/2029889772181934425
+- 継続上昇中。AIエージェント安全性への関心が落ちない
+
+#### New Signal
+
+**[39pts, 17comments] A tool that removes censorship from open-weight LLMs** (NEW)
+- URL: https://github.com/elder-plinius/OBLITERATUS
+- オープンウェイトLLMの検閲除去ツール。OSS LLMのアンアライン化議論
+- 示唆: モデル制御の限界と、オープンソース vs クローズドの安全性議論
+
+**[30pts, 16comments] Show HN: Claude-replay** (安定)
+- URL: https://github.com/es617/claude-replay
+- Claude Codeセッションの動画再生ツール。トレーサビリティ需要
