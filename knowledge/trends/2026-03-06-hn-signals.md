@@ -395,3 +395,27 @@
 - **Anthropic「Department of War」声明が416ptsに拡大** (416pts, 424コメント, 14:30から+52pts/+73コメント) - コメント数が急増。軍事AI問題が技術者コミュニティで白熱化
 - **Firefox ビットフリップが556ptsに急騰** (556pts, 275コメント) - 14:30の432ptsから+124pts。ハードウェア信頼性への関心急上昇
 - **「Good software knows when to stop」が411pts** - Anthropic/OpenAIの発表後に「ソフトウェアの境界」論が浮上。AI時代のソフトウェア哲学として示唆的
+
+### 18:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 823 | 661 | **High** | OpenAI/競合 |
+| [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another) | 431 | 117 | **High** | セキュリティ/AIツール |
+| [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 438 | 452 | **High** | Anthropic |
+| [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) | 596 | 296 | Medium | エンジニアリング |
+| [Proton Mail helped FBI unmask anonymous protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) | 357 | 166 | High | プライバシー |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 345 | 272 | Medium | ビジネス戦略 |
+| [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) | 307 | 191 | Medium | プライバシー/法律 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 281 | 58 | High | AIエージェント |
+| [Labor market impacts of AI (Anthropic)](https://www.anthropic.com/research/labor-market-impacts) | 189 | 268 | **High** | Anthropic研究 |
+| [Standard protocol to handle AI-generated PRs](https://406.fail/) | 178 | 63 | Medium | Developer Tools |
+| [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) | 101 | 112 | Low | AI哲学 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 100 | 53 | Low | AIエージェント |
+
+**注目シグナル:**
+- **新規: GitHub Issue Titleで4000台の開発者マシンが侵害** (431pts, 117コメント) - Cline（AIコーディングツール）のGitHub Issueタイトルを悪用した攻撃。AIツールが外部コンテンツを自動実行する危険性。Falcon Platformのサンドボックス設計への強い示唆
+- **Anthropic「Department of War」声明が438pts/452コメントに急拡大** (16:30から+51pts/+52コメント) - コメント数が452まで増加。軍事AI問題でAnthropicへの注目が夕方ピークで最大化
+- **Firefox ビットフリップが596ptsに急上昇** (16:30の495ptsから+101pts) - 本日2番目の急上昇。ハードウェア信頼性問題への関心が急増
+- **AI雇用影響研究（Anthropic）がコメント急増** (268コメント, 16:30から+56コメント) - スコアよりコメント数の増加が顕著。AI雇用影響への議論が白熱
+- **GPT-5.4が823ptsで本日最高値更新** (16:30から+45pts) - 依然として本日最大の話題。661コメントは終日トップ
