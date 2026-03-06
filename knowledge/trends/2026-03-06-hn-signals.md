@@ -197,6 +197,28 @@
 - **AnthropicのAI労働市場インパクト研究** (52pts, 47コメント) - Anthropic自身が雇用への影響を研究・公開。AI企業の社会的責任表明として注目
 - **AI生成PRを自動破棄するプロトコル提案** (46pts) - 低品質AI生成コードへの技術者の抵抗。AI活用の質が問われる時代に
 
+### 10:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 869 | 308 | **High** | セキュリティ |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 616 | 547 | **High** | OpenAI |
+| [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) | 609 | 424 | **High** | LLM批判 |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 333 | 183 | Medium | 開発哲学 |
+| [CBP tapped into online advertising to track people's movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/) | 296 | 122 | High | プライバシー/監視 |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 209 | 192 | Medium | ビジネス戦略 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 247 | 53 | Medium | AIエージェント |
+| [Anthropic: Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 93 | 45 | **High** | Anthropic |
+| [Show HN: PageAgent, A GUI agent inside your web app](https://alibaba.github.io/page-agent/) | 74 | 37 | Medium | AIエージェント |
+| [Anthropic: Labor market impacts of AI](https://www.anthropic.com/research/labor-market-impacts) | 60 | 60 | Medium | Anthropic |
+
+**注目シグナル:**
+- **Wikipedia侵害が869ptsでHN全体首位更新** (869pts, 308コメント, 08:30から+27pts) - 丸一日トップを維持。技術者コミュニティの認証・セキュリティへの根強い関心
+- **GPT-5.4 がコメント547件で首位争い** (616pts, 547コメント, 08:30から+73pts) - 朝のピークを超えてさらに加速。547コメントはHN上位クラス。OpenAIの新モデルへの強烈な関心
+- **LLM Lying 論文が609ptsに到達** (609pts, 424コメント) - GPT-5.4とほぼ同スコアで拮抗。LLMへの批判的視点と新モデルへの期待が同時に存在する技術者の複雑な心境
+- **Anthropic「Department of War」公式声明** (93pts, 45コメント) - 新規・重要。PentagonサプライチェーンリスクへのAnthropicの公式回答。軍事利用問題についての立場を表明
+- **CBP広告エコシステム経由で市民追跡** (296pts, 122コメント) - 新規。米国税関が広告SDKを通じて位置情報追跡。プライバシー監視の深刻化がFalcon Platformのデータ設計に示唆
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
