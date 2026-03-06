@@ -362,3 +362,59 @@ Falcon Platformにとっての示唆：AIエージェントフレームワーク
 - URL: https://github.com/es617/claude-replay
 - 30pts→47ptsへ上昇。Claude Codeトレーサビリティツールの需要確認
 
+### 08:30 JST
+
+#### High Priority
+
+**[979pts, 770comments] GPT-5.4** → (07:30比 +5pts, +4comments)
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- 勢い完全停止。ピーク越え安定期。HNの関心はGPT-5.4から他トピックに移行
+
+**[638pts, 423comments] Tech employment now significantly worse than 2008 or 2020 recessions** ↑↑ (+87pts, +42comments)
+- URL: https://twitter.com/JosephPolitano/status/2029916364664611242
+- 551pts→638ptsへ引き続き急上昇。コミュニティの怒りが収まらない
+- 「AIが仕事を奪う」恐怖がHN全体で最もホットなテーマに
+
+**[428pts, 124comments] Hardening Firefox with Anthropic's Red Team** ↑ (+30pts, +9comments)
+- URL: https://www.anthropic.com/news/mozilla-firefox-security
+- 398pts→428pts。Anthropicのセキュリティポジション強化が継続認知
+
+#### Medium Priority
+
+**[157pts, 244comments] We might all be AI engineers now** ↑ (+9pts, +19comments)
+- URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+- コメント速度が依然高い。スコア157に対してコメント244は異常値
+- 感情的な議論が継続中。賛否の二極化がHNらしい
+
+**[146pts, 118comments] Anthropic, please make a new Slack** ↑↑ (+28pts, +27comments)
+- URL: https://www.fivetran.com/blog/anthropic-please-make-a-new-slack
+- 本日最速の上昇率の一つ。AIネイティブな業務ツールへの渇望が共感を呼ぶ
+- コメントも増加中。Falcon Platform SaaS方向性の参考になる市場需要
+
+**[127pts, 26comments] Paul Brainerd (PageMaker founder) has died** ↑ (+9pts)
+- URL: https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/
+- 安定した追悼の声。「民主化ツール」の先駆者への敬意
+
+**[94pts, 36comments] A tool that removes censorship from open-weight LLMs (OBLITERATUS)** ↑ (+16pts)
+- URL: https://github.com/elder-plinius/OBLITERATUS
+- 78pts→94pts。OSS LLM自由化ムーブメント継続
+
+**[78pts, 55comments] The worst acquisition in history, again** ↑↑ (+26pts, +20comments)
+- URL: https://www.profgmedia.com/p/the-worst-acquisition-in-history
+- 52pts→78pts、コメント急増。Xの買収批判か他M&Aか。議論が活性化
+
+**[53pts, 24comments] Show HN: Claude-replay** ↑ (+6pts)
+- URL: https://github.com/es617/claude-replay
+- 上昇ペース鈍化。初期関心は満たされた
+
+#### New Signal
+
+**[13pts, 2comments] Claude Used to Hack Mexican Government** ↑ (+5pts, +2comments)
+- URL: https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html
+- 8pts→13ptsへ。コメントも付き始めた。Schneierブログ経由で拡散開始か
+- AIエージェント悪用事例が本格的に議題化する予兆
+
+**[12pts, 4comments] What if AI just makes us work harder?** (NEW)
+- URL: https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4
+- FT記事。「AIで仕事が増える逆説」。Tech employment危機と連動するテーマ
+
