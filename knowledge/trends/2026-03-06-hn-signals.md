@@ -174,6 +174,29 @@
 - **PageAgent (Alibaba製) が新規ランクイン** (64pts, 35コメント) - Webアプリ内部に生きるGUI Agent。Alibabaがエージェントフレームワークを本格展開
 - **Anthropicの労働市場影響レポート** (15pts) - 新規。AIが労働市場に与える影響の実証研究。規制・政策議論への材料
 
+### 09:30 JST
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|---------|--------|------|
+| [Wikipedia read-only: mass admin account compromise](https://www.wikimediastatus.net) | 859 | 295 | **High** | セキュリティ |
+| [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) | 605 | 421 | **High** | LLM批判 |
+| [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) | 589 | 514 | **High** | OpenAI |
+| [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) | 323 | 175 | Medium | 開発哲学 |
+| [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here) | 232 | 52 | Medium | AIエージェント |
+| [The Brand Age (Paul Graham)](https://paulgraham.com/brandage.html) | 198 | 185 | Medium | 開発哲学 |
+| [Labor market impacts of AI](https://www.anthropic.com/research/labor-market-impacts) | 52 | 47 | Medium | Anthropic |
+| [Standard protocol for AI-generated PRs](https://406.fail/) | 46 | 8 | Medium | AI活用 |
+| [Show HN: PageAgent, GUI agent inside web app](https://alibaba.github.io/page-agent/) | 70 | 37 | Low | AIエージェント |
+| [Jails for NetBSD – Kernel Enforced Isolation](https://netbsd-jails.petermann-digital.de/) | 96 | 24 | Medium | サンドボックス技術 |
+
+**注目シグナル:**
+- **Wikipedia大規模侵害が859ptsでHN全体独走** (859pts, 295コメント, 07:30から+71) - 丸一日経っても首位維持。技術者コミュニティのセキュリティへの関心が非常に高い
+- **LLM Lying 論文が605ptsに到達** (605pts, 421コメント) - 587→605と着実な上昇継続。技術者の批判的見方が一日を通して根強い
+- **GPT-5.4 が514コメントで最多議論** (589pts, 514コメント, 07:30から+117) - コメント数がHN最多。OpenAIの新モデルへの議論が米国朝の時間帯で最高潮
+- **Jido 2.0 Elixir Agent Framework が232ptsに成長** (232pts, 52コメント) - AIエージェントフレームワーク競争が激化。Elixirの耐障害性モデルはFalcon Platform参考
+- **AnthropicのAI労働市場インパクト研究** (52pts, 47コメント) - Anthropic自身が雇用への影響を研究・公開。AI企業の社会的責任表明として注目
+- **AI生成PRを自動破棄するプロトコル提案** (46pts) - 低品質AI生成コードへの技術者の抵抗。AI活用の質が問われる時代に
+
 ### 04:30 JST
 
 | タイトル | スコア | コメント | 重要度 | 関連 |
