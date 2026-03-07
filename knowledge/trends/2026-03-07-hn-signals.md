@@ -711,3 +711,49 @@ Claude Code関連（60歳の再情熱、claude-replay）は継続して高い注
 最大の動きはClaude Code 60歳エントリの+122pts急上昇。人間味のあるストーリーがHN技術者に刺さり続けている。
 AnthropicのFirefox Red Team参加は534ptsと高スコア——セキュリティ・エンタープライズ方面での信頼構築が加速。
 GPT-5.4は引き続き最高スコアを維持するが伸びは鈍化。初日の衝撃フェーズから議論深化フェーズへ移行か。
+
+---
+
+## HN Signals 15:30 JST
+
+### 変動サマリー
+
+#### High Importance
+
+**[990pts, 784comments] GPT-5.4** → ほぼ停止（+1pt, 0comments from 14:30）
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- 990ptでほぼ天井。GPT-5.4フィーバー完全終息へ。コミュニティの次の議題を探す段階
+
+**[544pts, 153comments] Hardening Firefox with Anthropic's Red Team** ↑ (+10pts)
+- URL: https://www.anthropic.com/news/mozilla-firefox-security
+- 534pts→544pts。着実上昇継続。Anthropicセキュリティブランドが長期注目を維持
+
+**[331pts, 203comments] Tell HN: I'm 60 years old. Claude Code has ignited a passion again** ↑↑ (+47pts!)
+- URL: https://news.ycombinator.com/item?id=47282777
+- 284pts→331ptsへ急上昇。本日最大の伸び率。共感の波が継続中
+- 示唆: Claude Codeの民主化ストーリーはHN技術者の心に長く響く。Falcon Platformの訴求軸に活かせる
+
+**[228pts, 211comments] Anthropic, please make a new Slack** → 安定（+1pt, +4comments）
+- URL: https://www.fivetran.com/blog/anthropic-please-make-a-new-slack
+- 安定して200pt超。AIネイティブ業務ツールへの需要が継続
+
+#### Medium Importance
+
+**[146pts, 63comments] A tool that removes censorship from open-weight LLMs (OBLITERATUS)** ↑ (+3pts)
+- URL: https://github.com/elder-plinius/OBLITERATUS
+- 143pts→146pts。OSS LLM自由化ムーブメント安定継続
+
+**[144pts, 106comments] LLMs work best when the user defines their acceptance criteria first** ↑ (+18pts, +11comments)
+- URL: https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+- 126pts→144pts。LLM使い方の成熟論として注目継続中
+
+**[80pts, 28comments] Show HN: Claude-replay** ↑ (+3pts)
+- URL: https://github.com/es617/claude-replay
+- 77pts→80pts。Claude Codeエコシステム周辺ツールとして安定認知
+
+### 総括
+
+15:30時点でのHN最大のシグナルは「Claude Code 60歳再情熱」ストーリーの継続急上昇（+47pts）。
+これはGPT-5.4のフィーバーが終息する中で、Claude Codeの人間的なインパクトが単独で注目を集め続けている構図。
+技術スペックの競争（GPT-5.4）より、人間の体験・感情に訴えるストーリーがHNで長期共感を得る傾向が鮮明。
+Falcon Platformの訴求では「ツールの強さ」より「あなたの可能性を解放する」方向性が有効と示唆される。
