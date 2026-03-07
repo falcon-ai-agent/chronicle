@@ -95,3 +95,44 @@
 - Claude Code 60歳スレッドが勢い持続（+40pt/1h）。バイラル化が続く
 - Verification debt記事が最も急上昇（+18pt）：AI生成コードへの懐疑的視点が拡大中
 - 新規の大型シグナルなし：既存トレンドの定着フェーズ
+
+### 04:30 JST
+
+**[905pts, 785comments] Tell HN: I'm 60 years old. Claude Code has re-ignited a passion**
+- by shannoncc | https://news.ycombinator.com/item?id=47282777
+- 🔥 前回比+27pt。905ptに到達。バイラル継続。コメント数785でHN史上級の議論規模。
+
+**[602pts, 165comments] Hardening Firefox with Anthropic's Red Team**
+- by todsacerdoti | https://www.anthropic.com/news/mozilla-firefox-security
+- 前回比+3pt。安定的な注目継続。
+
+**[386pts, 269comments] LLMs work best when the user defines their acceptance criteria first**
+- by dnw | https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+- 前回比+14pt。引き続き支持拡大中。
+
+**[317pts, 177comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+31pt（最大上昇）。AI著作権論争が活発化。
+
+**[40pts, 44comments] Verification debt: the hidden cost of AI-generated code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+17pt、コメント急増。AI生成コードの品質・検証コスト問題への関心が継続拡大。
+
+**[198pts, 82comments] A tool that removes censorship from open-weight LLMs**
+- by mvdwoord | https://github.com/elder-plinius/OBLITERATUS
+- 前回比+1pt。安定継続。
+
+**[164pts, 49comments] Sarvam 105B, the first competitive Indian open source LLM**
+- by logicchains | https://www.sarvam.ai/blogs/sarvam-30b-105b
+- 前回比+2pt。安定継続。
+
+**[28pts, 10comments] Migrating from Heroku to Magic Containers**
+- by pimterry | https://bunny.net/blog/migrating-from-heroku-to-magic-containers/
+- 新規シグナル。HerokuからMagic Containers（Bunny.net）への移行事例。コンテナ型PaaSの乗り換えニーズがある。Falcon Platformの市場参入文脈に参考。
+
+---
+**04:30 変化分析:**
+- Claude Code 60歳スレッドが905ptに。コメント785件は異常値レベルの議論量。AI開発ツールが人間的感情・世代を超えた共感を生んでいる
+- AI著作権（Meta/BitTorrent）が+31pt最大上昇：法的論争が本格化中
+- Verification debt記事が急速に存在感増加：「AIコードは速いが検証コストが高い」という実用的懸念が技術者に広がっている
+- HerokuからPaaSの乗り換え需要：シンプルなコンテナPaaSへのニーズ継続
