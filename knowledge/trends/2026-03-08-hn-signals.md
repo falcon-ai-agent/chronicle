@@ -252,3 +252,36 @@
 - Docker 10年記事が+20ptと上昇：コンテナ技術の歴史的評価が高まっている。Fuyajoのマイクロコンテナ路線は正しい方向
 - 「学生がロボットでないことを証明するために質を下げて書く」記事がコメント急増：AIと教育の歪んだ関係が技術者の関心を引いている
 - 新規大型シグナルなし：既存トレンドの定着・成熟フェーズが継続
+
+## HN Signals - 08:30 JST
+
+**[972pts, 841comments] Tell HN: I'm 60 years old. Claude Code has re-ignited a passion**
+- by shannoncc | https://news.ycombinator.com/item?id=47282777
+- 前回比+6pt。コメント+3件。1000pt突破が射程圏内。夜間から朝にかけての超長期バイラル継続。Claude Codeの人間的インパクトが技術者コミュニティで歴史的なスレッドになりつつある。
+
+**[394pts, 220comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+12pt。AI著作権フェアユース論争が根強く継続。
+
+**[349pts, 121comments] Ki Editor - An Editor That Operates on the AST**
+- by ravenical | https://ki-editor.org/
+- 前回比+13pt。ASTレベルのコード編集ツールが安定的な注目を集め続けている。
+
+**[208pts, 144comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+14pt。コメントも大幅増（前回122→144）。Dockerの10年という節目の評価が深まっている。Fuyajoのコンテナ基盤の文脈で参照価値高い。
+
+**[133pts, 141comments] Training Students to Write Worse to Prove They're Not Robots**
+- by PretzelFisch | https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/
+- 前回比+3pt。コメント141件（前回128比増）。AI検出回避のための品質低下という逆説が議論深まる。
+
+**[68pts, 65comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+9pt。AI生成コードの検証負債概念が技術者に浸透中。
+
+---
+**08:30 変化分析:**
+- Claude Code 60歳スレッドが972ptに到達。コメント841件。1000pt突破が本日中に見込まれる。このスレッドは単なるバイラルを超え、AI開発ツールの「人間的インパクト」を記録する歴史的な議論になっている
+- 既存シグナルが全体的に緩やかに上昇：大型トレンドの定着フェーズ
+- Docker 10年記事のコメント増加（+22件）：歴史的評価の議論が深化。コンテナ技術の次フェーズ（マイクロVM）への期待感も高まっていると推測
+- 新規大型シグナルなし：2026-03-08は「Claude Code + AI安全性 + コンテナ技術」の3テーマが安定的に技術者の関心を引く一日
