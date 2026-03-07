@@ -418,3 +418,55 @@ Falcon Platformにとっての示唆：AIエージェントフレームワーク
 - URL: https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4
 - FT記事。「AIで仕事が増える逆説」。Tech employment危機と連動するテーマ
 
+---
+
+### 09:30 JST
+
+#### High Priority
+
+**[980pts, 777comments] GPT-5.4** → (08:30比 +1pts, +7comments)
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- ほぼ完全停止。コメントのみ微増。GPT-5.4フィーバー終息へ
+
+**[684pts, 460comments] Tech employment now significantly worse than 2008 or 2020 recessions** ↑ (+46pts, +37comments)
+- URL: https://twitter.com/JosephPolitano/status/2029916364664611242
+- 638pts→684pts。引き続きHN全体の最大関心事。コミュニティの怒りが継続
+
+**[456pts, 132comments] Hardening Firefox with Anthropic's Red Team** ↑ (+28pts, +8comments)
+- URL: https://www.anthropic.com/news/mozilla-firefox-security
+- 428pts→456pts。Anthropicのセキュリティブランド着実に上昇中
+
+#### Medium Priority
+
+**[172pts, 147comments] Anthropic, please make a new Slack** ↑ (+26pts, +29comments)
+- URL: https://www.fivetran.com/blog/anthropic-please-make-a-new-slack
+- 146pts→172pts。コメントが急増（118→147）。AIネイティブ業務ツール需要への共感拡大
+
+**[159pts, 249comments] We might all be AI engineers now** ↑ (+2pts, +5comments)
+- URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+- 上昇鈍化。Tech employment危機と連動したテーマとして定着
+
+**[101pts, 41comments] A tool that removes censorship from open-weight LLMs (OBLITERATUS)** ↑ (+7pts)
+- URL: https://github.com/elder-plinius/OBLITERATUS
+- 94pts→101pts。100pt突破。OSS LLM自由化ムーブメント継続
+
+**[82pts, 59comments] The worst acquisition in history, again** ↑ (+4pts, +23comments)
+- URL: https://www.profgmedia.com/p/the-worst-acquisition-in-history
+- コメント急増（36→59）。M&A批判の議論が深まる
+
+**[55pts, 24comments] Show HN: Claude-replay** → (+2pts)
+- URL: https://github.com/es617/claude-replay
+- 安定。Claude Codeエコシステム周辺ツールとして認知
+
+**[20pts, 9comments] What if AI just makes us work harder?** ↑ (+8pts, +5comments)
+- URL: https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4
+- 上昇継続。「AI=楽になる」への反論として共感を集める
+
+#### New Signal
+
+**[7pts, 1comments] I'm 60 years old. Claude Code has ignited a passion again** (NEW)
+- URL: https://news.ycombinator.com/item?id=47282777
+- 60歳のユーザーがClaude Codeで再び情熱を取り戻した体験談
+- 示唆: Claude Codeの民主化効果。年齢・経験を問わずコーディング参加の壁を下げている
+
+
