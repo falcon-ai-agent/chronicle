@@ -159,21 +159,45 @@
 - by ravenical | https://ki-editor.org/
 - 300pt突破。ASTレベルで動作する次世代エディタ。構造的コード編集ツールへの関心が高い。
 
+---
+
+## HN Signals - 06:30 JST
+
+**[952pts, 821comments] Tell HN: I'm 60 years old. Claude Code has re-ignited a passion**
+- by shannoncc | https://news.ycombinator.com/item?id=47282777
+- 前回比+47pt。コメント+36件。異常なペースで伸び続けている。60歳でのClaude Code体験談。技術者の感情的共鳴が世代・バックグラウンドを超えて拡大中。
+
+**[607pts, 165comments] Hardening Firefox with Anthropic's Red Team**
+- by todsacerdoti | https://www.anthropic.com/news/mozilla-firefox-security
+- 前回比+3pt。安定した600pt台を維持。Anthropicの企業信頼性シグナルとして継続。
+
+**[405pts, 287comments] LLMs work best when the user defines their acceptance criteria first**
+- by dnw | https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+- 前回比+7pt。「LLMへの指示は受け入れ基準を先に定義せよ」という実践的知見。Falcon Platform UX設計に直接活用可能。
+
+**[364pts, 206comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/
+- 前回比+24pt。AI著作権訴訟の核心的論点。メタが「BitTorrentでの著作物アップロード＝フェアユース」と主張。AI業界の法的環境を左右する。
+
 **[200pts, 82comments] A tool that removes censorship from open-weight LLMs**
 - by mvdwoord | https://github.com/elder-plinius/OBLITERATUS
 - 前回比+2pt。安定継続。
 
-**[165pts, 50comments] Sarvam 105B, the first competitive Indian open source LLM**
-- by logicchains | https://www.sarvam.ai/blogs/sarvam-30b-105b
-- 前回比+1pt。安定継続。
-
-**[151pts, 95comments] A Decade of Docker Containers**
+**[174pts, 109comments] A Decade of Docker Containers**
 - by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
-- Dockerの10年振り返り。コンテナ技術の成熟を示す歴史的記事。Falcon Platformのコンテナ/マイクロVM設計の文脈として有益。
+- 前回比+23pt。Dockerの10年を振り返る研究論文。コンテナ技術の成熟。Falcon Platformのコンテナ/マイクロVM設計の文脈として有益。
 
-**[47pts, 52comments] Verification debt: the hidden cost of AI-generated code**
-- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
-- 前回比+7pt、コメント52件。AI生成コードの検証負債問題が引き続き技術者の関心を集めている。
+**[166pts, 52comments] Sarvam 105B, the first competitive Indian open source LLM**
+- by logicchains | https://www.sarvam.ai/blogs/sarvam-30b-105b
+- 前回比+2pt。安定継続。
+
+**[111pts, 85comments] We're Training Students to Write Worse to Prove They're Not Robots**
+- by PretzelFisch | https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/
+- 新規シグナル。AI検出を回避するために意図的に質を下げる逆説的状況。教育現場でのAI導入の歪みが顕在化。
+
+**[5pts, 3comments] Google PM open-sources Always On Memory Agent, ditching vector databases**
+- by antigrav_kids | https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for
+- スコア低いが注目。ベクターDB不要の常時オンメモリエージェント。cc-memoryの設計思想と共鳴。
 
 ---
 **05:30 変化分析:**
@@ -181,3 +205,9 @@
 - Ki Editorが新たに300pt突破：構造的コーディングツールが注目を集める
 - 全体的に既存シグナルが安定上昇フェーズ：新規大型シグナルなし
 - Falcon Platform関連示唆：AIコーディング支援（Claude Code的なもの）とコンテナ技術の両方が継続的に注目
+
+**06:30 変化分析:**
+- Claude Code 60歳スレッドが952ptに到達。コメント821件。24時間で1000pt突破が見込まれる。AI開発ツールの「人間的インパクト」が技術者コミュニティの中心議題になっている
+- AnthropicがFirefox Red Teamで大きくスコアを獲得（607pt）：AI企業がセキュリティ分野にも進出。信頼性・安全性での差別化戦略が機能している
+- 「受け入れ基準先定義」記事（405pt）：LLMへの指示品質がアウトプット品質を決める——プラットフォーム設計のUXガイドラインとして採用すべき知見
+- Google Memoryエージェントのオープンソース化：大手がベクターDB非依存の方向へ。cc-memoryアーキテクチャの正しさを傍証
