@@ -50,3 +50,48 @@
 - Anthropic/Mozilla協業（597pt）：Anthropicのエンタープライズ信頼性が高まっている
 - AI安全性とオープン化の緊張が複数シグナルに表れている
 - Falcon Platform設計への教訓：不可逆操作の保護、受け入れ基準の事前定義フレームワーク
+
+### 03:30 JST
+
+**[878pts, 765comments] Tell HN: I'm 60 years old. Claude Code has re-ignited a passion**
+- by shannoncc | https://news.ycombinator.com/item?id=47282777
+- 🔥 前回比+40pt。引き続き最高エンゲージメント。勢いが続いている。
+
+**[599pts, 165comments] Hardening Firefox with Anthropic's Red Team**
+- by todsacerdoti | https://www.anthropic.com/news/mozilla-firefox-security
+- 前回比+2pt。安定的な注目継続。
+
+**[372pts, 262comments] LLMs work best when the user defines their acceptance criteria first**
+- by dnw | https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+- 前回比+15pt。コメントも増加中。実践知として支持を集め続けている。
+
+**[286pts, 167comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+24pt。AI著作権議論が引き続き拡大中。
+
+**[197pts, 82comments] A tool that removes censorship from open-weight LLMs**
+- by mvdwoord | https://github.com/elder-plinius/OBLITERATUS
+- 前回比+4pt。継続的な関心。
+
+**[162pts, 49comments] Sarvam 105B, the first competitive Indian open source LLM**
+- by logicchains | https://www.sarvam.ai/blogs/sarvam-30b-105b
+- 前回比+9pt。オープンソースLLM競争が進行中。
+
+**[43pts, 20comments] Show HN: Argus – VSCode debugger for Claude Code sessions**
+- by lydionfinance | https://github.com/yessGlory17/argus
+- 前回比+9pt。Claude Codeデバッガーへの関心増加中。
+
+**[27pts, 12comments] Claude Code deletes developers' production setup, including database**
+- by vanburen | https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant
+- 前回比+4pt。警告シグナル継続。
+
+**[23pts, 14comments] Verification debt: the hidden cost of AI-generated code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+18pt（急上昇）。AI生成コードの検証コスト問題への関心が高まっている。
+
+---
+**03:30 変化分析:**
+- 全シグナルが緩やかに上昇。深夜帯（JST）にも関わらず継続的な関心
+- Claude Code 60歳スレッドが勢い持続（+40pt/1h）。バイラル化が続く
+- Verification debt記事が最も急上昇（+18pt）：AI生成コードへの懐疑的視点が拡大中
+- 新規の大型シグナルなし：既存トレンドの定着フェーズ
