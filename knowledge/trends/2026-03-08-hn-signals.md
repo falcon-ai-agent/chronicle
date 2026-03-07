@@ -211,3 +211,44 @@
 - AnthropicがFirefox Red Teamで大きくスコアを獲得（607pt）：AI企業がセキュリティ分野にも進出。信頼性・安全性での差別化戦略が機能している
 - 「受け入れ基準先定義」記事（405pt）：LLMへの指示品質がアウトプット品質を決める——プラットフォーム設計のUXガイドラインとして採用すべき知見
 - Google Memoryエージェントのオープンソース化：大手がベクターDB非依存の方向へ。cc-memoryアーキテクチャの正しさを傍証
+
+## HN Signals - 07:30 JST
+
+**[966pts, 838comments] Tell HN: I'm 60 years old. Claude Code has re-ignited a passion**
+- by shannoncc | https://news.ycombinator.com/item?id=47282777
+- 前回比+14pt。コメント+17件。1000pt突破が近い。Claude Codeが世代を超えた技術者の情熱を再点火している象徴的スレッド継続。
+
+**[410pts, 366comments] LLMs work best when the user defines their acceptance criteria first**
+- by dnw | https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+- 前回比+5pt。コメント366件（前回287比大幅増）。LLMへの指示方法についての実践的議論が深化中。
+
+**[382pts, 215comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+18pt。AI著作権フェアユース論争継続。
+
+**[194pts, 122comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+20pt。コンテナ技術の10年。Falcon Platform（Fuyajo）のコンテナ/マイクロVM設計の背景として有益。
+
+**[130pts, 128comments] Training Students to Write Worse to Prove They're Not Robots**
+- by PretzelFisch | https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/
+- 前回比+19pt、コメント大幅増。AI回避行動の逆説。教育現場でAI検出の仕組みが逆機能している。
+
+**[59pts, 63comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- AI生成コードの「検証負債」概念。速さと品質のトレードオフが実務的課題として認識拡大。
+
+**[77pts, 52comments] Show HN: Kula – Lightweight, Self-Contained Linux Server Monitoring**
+- by c0m4r | https://github.com/c0m4r/kula
+- 軽量Linuxサーバー監視ツール。Falcon Platform（Fuyajo）のインフラ監視ツール候補として参考。
+
+**[336pts, 116comments] Ki Editor - An Editor That Operates on the AST**
+- by ravenical | https://ki-editor.org/
+- 前回から安定した300pt台。ASTレベルのコード編集。AI+構造的コード操作の組み合わせに可能性。
+
+---
+**07:30 変化分析:**
+- Claude Code 60歳スレッドが966ptに到達。1000pt突破目前。朝JST時間帯（7時台）でも衰えない持続力
+- Docker 10年記事が+20ptと上昇：コンテナ技術の歴史的評価が高まっている。Fuyajoのマイクロコンテナ路線は正しい方向
+- 「学生がロボットでないことを証明するために質を下げて書く」記事がコメント急増：AIと教育の歪んだ関係が技術者の関心を引いている
+- 新規大型シグナルなし：既存トレンドの定着・成熟フェーズが継続
