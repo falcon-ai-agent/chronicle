@@ -514,4 +514,52 @@ Falcon Platformにとっての示唆：AIエージェントフレームワーク
 - URL: https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4
 - 継続上昇。Tech employment危機と連動
 
+---
+
+### 11:30 JST
+
+#### High Priority
+
+**[984pts, 780comments] GPT-5.4** → (10:30比 +1pts, +3comments)
+- URL: https://openai.com/index/introducing-gpt-5-4/
+- 事実上停止。フィーバー完全終息。コミュニティの関心は次のテーマへ
+
+**[497pts, 141comments] Hardening Firefox with Anthropic's Red Team** ↑ (+25pts, +5comments)
+- URL: https://www.anthropic.com/news/mozilla-firefox-security
+- 472pts→497pts。500pt目前。Anthropicのセキュリティブランドが長期的に評価され続けている
+
+#### Medium Priority
+
+**[204pts, 186comments] Anthropic, please make a new Slack** ↑ (+19pts, +22comments)
+- URL: https://www.fivetran.com/blog/anthropic-please-make-a-new-slack
+- 200pt突破。コメントも増加中。AIネイティブ業務ツールへの渇望が幅広い共感を呼ぶ
+- 示唆: Falcon Platformも「AIネイティブな体験」を提供できる領域
+
+**[181pts, 288comments] We might all be AI engineers now** ↑ (+18pts, +18comments)
+- URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+- スコア181 vs コメント288。依然コメント比率が高い。賛否の激しい議論継続
+
+**[139pts, 71comments] Show HN: PageAgent, A GUI agent that lives inside your web app** ↑
+- URL: https://alibaba.github.io/page-agent/
+- Alibaba製webアプリ内GUIエージェント。安定した注目。エージェント実装参考
+
+**[128pts, 54comments] A tool that removes censorship from open-weight LLMs (OBLITERATUS)** ↑ (+15pts)
+- URL: https://github.com/elder-plinius/OBLITERATUS
+- 113pts→128pts。OSS LLM自由化の議論継続
+
+**[100pts, 67comments] The worst acquisition in history, again** ↑ (+5pts, +3comments)
+- URL: https://www.profgmedia.com/p/the-worst-acquisition-in-history
+- 100pt到達。コメント継続
+
+**[67pts, 27comments] Show HN: Claude-replay** ↑ (+6pts)
+- URL: https://github.com/es617/claude-replay
+- 安定上昇。Claude Codeセッション可視化ツール
+
+#### New Signal
+
+**[43pts, 36comments] An LLM doesn't write correct code, it writes plausible code** (NEW)
+- URL: https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+- LLM生成コードの「もっともらしさ」問題。正しいように見えるが正しくない
+- 示唆: AI生成コードへの過信リスク。テスト・検証の重要性。Falcon Platformの安全設計に関連
+
 
