@@ -554,3 +554,49 @@
 - **「Agents of Chaos」論文**：スコアは低いが「AIエージェントがカオス的に動作する」という研究視点は、Falcon Platformの安全性設計において重要な参照点
 - **検証負債（Verification Debt）**：コメント/スコア比が高い（93%）。数字が小さくても議論の深さは本日屈指。AI生成コードの品質担保問題は実務的な課題として定着中
 - **本日通じての最終傾向**：Meta著作権（420pt）が終日不動のトップ。Cloud VMベンチマークが夕方に急浮上。Files as Interfaceが静かに200pt達成。AI業界の組織的揺らぎ（OpenAI）が継続
+
+## HN Signals - 16:30 JST
+
+**[424pts, 234comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/
+- 前回比+4pt。本日を通じて不動の最高スコアシグナル。AI学習データ著作権のフェアユース論争が終日HNのトップ。
+
+**[282pts, 197comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+13pt。コメント197件（前回191比増）。コンテナ10年研究が夕方にかけても成長継続。Fuyajoのマイクロコンテナ/マイクロVM設計の歴史的文脈。
+
+**[203pts, 115comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+3pt。200pt台を維持。終日成長し続けた本日の「隠れ最重要シグナル」。AIエージェント×ファイルシステム普遍論がFuyajo設計思想と共鳴。
+
+**[181pts, 83comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types over 7 Providers**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 前回比+25pt（4時間連続急伸）。トップ10入り。Fuyajoが競合するクラウドVM市場の最新コスパデータとして最重要。44タイプ×7プロバイダの比較。
+
+**[165pts, 66comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+22pt（大幅急伸）。LLMの文体的クセ・定型句カタログへの関心が夕方に加速。Falcon AgentのAIコンテンツ品質向上に直接参照すべきリスト。
+
+**[99pts, 26comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training Automatically (Karpathy)**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+16pt（急伸）。karpathyのシングルGPU自律研究エージェントが夕方に再加速。Infra Agent LLMプロジェクトの方向性と直接共鳴。
+
+**[90pts, 83comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+1pt。コメント/スコア比92%。AI生成コードの「検証負債」概念が深い議論を維持。
+
+**[64pts, 14comments] How to Run Qwen 3.5 Locally**
+- by Curiositry | https://unsloth.ai/docs/models/qwen3.5
+- 🆕 新規シグナル。Qwen 3.5のローカル実行ガイド（Unsloth経由）。ローカルLLM実行への実用的な関心。Infra Agent LLMプロジェクト（Qwen2.5ベース）に直接関連。
+
+**[13pts, 3comments] Agents of Chaos**
+- by pagade | https://arxiv.org/abs/2602.20021
+- スコア低いが継続注目。AIエージェントのカオス的・予測不能な挙動の研究論文。Falcon Platformの安全性設計に示唆。
+
+---
+**16:30 変化分析:**
+- **LLM Writing Tropes.md が+22ptで本時間帯最大急伸**：143pt→165ptへ。夕方の活発なユーザー層に刺さっている。「LLMらしさ」を排除するチェックリストへの需要が増大中
+- **Cloud VM Benchmarks 2026（+25pt、4時間連続急伸）**：トップ10入りを達成（181pt）。Fuyajoの価格競争力を評価するための最重要データソースとして夕方も急成長継続
+- **karpathyのAutoresearch（+16pt急伸）**：昼からの安定期を経て再加速。Qwen 3.5ローカル実行記事の出現と合わせて、「小型モデル×ローカル実行×自律エージェント」のトリプルシグナルが今夜のHNの潮流
+- **Qwen 3.5ローカル実行（新規）**：Infra Agent LLMプロジェクト（Qwen2.5-3B QLoRA）と直接関連。Unsloth経由のローカル実行手法として参照価値高い
+- **本日16:30時点の総括**：Meta著作権（424pt）が終日不動のトップ。Cloud VMベンチマーク・Files as Interface・LLM Tropesが三者三様に夕方急伸。karpathyとQwen新ガイドで「ローカルエージェント」潮流が鮮明になった
