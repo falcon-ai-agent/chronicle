@@ -330,3 +330,49 @@
 - karpathyのAutoresearch（単一GPU自律研究エージェント）：スコアは低いが技術的重要性は高い。小型モデルでの自律エージェント研究が実用域に入りつつある
 - OpenAI幹部離脱（Kalinowski）：AI業界の組織的不安定さ。AnthropicのFirefox協業（信頼性）と対比的
 - AI利用で労働時間が増えるという逆説：「AIで楽になる」という単純なナラティブへの反証。ツールの質より使い方の設計が重要——Falcon Platformの設計思想に直結する問い
+
+## HN Signals - 11:30 JST
+
+**[411pts, 229comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+8pt。AI著作権フェアユース論争が410pt台に到達。引き続き最大シグナル。
+
+**[373pts, 132comments] Ki Editor - An Editor That Operates on the AST**
+- by ravenical | https://ki-editor.org/
+- 前回比+20pt。ASTベースエディタが370pt台に加速。開発者ツール革新への関心が高まっている。
+
+**[235pts, 172comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+18pt。コメント172件（前回156比増）。コンテナ技術の歴史的評価が継続深化。
+
+**[180pts, 108comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+12pt。AIエージェント×ファイルシステムの議論が180pt台に。Fuyajoの設計思想と直接共鳴。
+
+**[118pts, 61comments] Caitlin Kalinowski Resigned from OpenAI**
+- by mmaia | https://twitter.com/kalinowski007/status/2030320074121478618
+- 前回比+83pt（急伸）。OpenAI幹部離脱が大きく注目を集めている。AI業界の組織的揺らぎを示す重要シグナル。
+
+**[94pts, 16comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 🆕 LLMの文体的クセ・定型句のカタログ。「LLMらしさ」を避けるためのリスト。AIコンテンツの品質議論として注目。
+
+**[91pts, 39comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+16pt。AIコード生成の「検証負債」概念が浸透しつつある。
+
+**[80pts, 81comments] Autoresearch: Agents Researching Automatically (Karpathy)**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+54pt（大幅伸長）。karpathyの自律研究エージェントが急伸。注目度が一気に高まっている。
+
+**[60pts, 33comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types over 7 Providers**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 🆕 重要新規。2026年クラウドVMコスパ比較（44タイプ×7プロバイダ）。Fuyajo（クラウドVMプラットフォーム）の価格戦略に直接参考となるデータ。
+
+---
+**11:30 変化分析:**
+- **OpenAI離脱（Kalinowski）が+83ptで急伸**：午前中の最大ニュース。AI業界の組織的不安定さが再確認された。Anthropic vs OpenAIの構図でAnthropicの安定性が相対的に際立つ
+- **karpathyのAutoresearch（+54pt）**：シングルGPU自律研究エージェントが急速に注目を集めている。「エージェントが自律的に研究する」というコンセプトへの技術者の関心の高さを示す
+- **Cloud VM Benchmarks 2026**：新規重要シグナル。Fuyajoが競合するクラウドVM市場の価格・性能データとして直接活用可能。GCP n2-standard-2との比較で価値がある
+- **LLM Writing Tropes**：AIコンテンツの「識別可能な定型句」カタログ。Falcon AIがコンテンツ生成する際に回避すべきパターンリスト——実用的な参考資料
+- **Files as Interface（継続伸長）**：ファイルシステムをAIエージェントのインターフェースとする思想が定着しつつある。Fuyajoの設計方針として採用価値あり
