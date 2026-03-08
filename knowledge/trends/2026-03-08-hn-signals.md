@@ -600,3 +600,49 @@
 - **karpathyのAutoresearch（+16pt急伸）**：昼からの安定期を経て再加速。Qwen 3.5ローカル実行記事の出現と合わせて、「小型モデル×ローカル実行×自律エージェント」のトリプルシグナルが今夜のHNの潮流
 - **Qwen 3.5ローカル実行（新規）**：Infra Agent LLMプロジェクト（Qwen2.5-3B QLoRA）と直接関連。Unsloth経由のローカル実行手法として参照価値高い
 - **本日16:30時点の総括**：Meta著作権（424pt）が終日不動のトップ。Cloud VMベンチマーク・Files as Interface・LLM Tropesが三者三様に夕方急伸。karpathyとQwen新ガイドで「ローカルエージェント」潮流が鮮明になった
+
+## HN Signals - 17:30 JST
+
+**[426pts, 235comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+2pt。本日を通じて不動のトップ（朝262pt→夕426pt）。AI著作権フェアユース論争が終日HNの最大シグナルであり続けた。
+
+**[289pts, 201comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+7pt。コメント201件。終日安定して成長し続けたコンテナ10年研究。Fuyajoのマイクロコンテナ/マイクロVM設計の歴史的背景として最も参照価値高い記事。
+
+**[272pts, 36comments] CasNum**
+- by aebtebeten | https://github.com/0x0mer/CasNum
+- 新規トップ10入り。Chemical Abstracts Service番号（CAS番号）の検索ツール。Falcon Platform戦略への直接関連は低いが、高スコアのツール系リポジトリとして記録。
+
+**[212pts, 117comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+9pt。200pt台を安定維持。終日一貫して成長し続けた「隠れ最重要シグナル」。AIエージェント時代のファイルシステム普遍性論がFuyajo設計思想と深く共鳴。
+
+**[200pts, 91comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types over 7 Providers**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 前回比+19pt（5時間連続急伸）。200ptに到達。Fuyajoが直接競合するクラウドVM市場の最新コスパデータとして最重要。44タイプ×7プロバイダの比較は価格戦略立案に即活用可能。
+
+**[179pts, 72comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+14pt。LLMの文体的クセ・定型句カタログ。Falcon AgentのAIコンテンツ品質向上に参照すべきリスト。夕方も加速継続。
+
+**[150pts, 42comments] "Warn about PyPy being unmaintained"**
+- by networked | https://github.com/astral-sh/uv/pull/17643
+- 新規シグナル。uv（Astral）がPyPyを「未メンテナンス」として警告する動き。Pythonエコシステムの変化。ツール開発における依存ライブラリ選択の重要性を示す。
+
+**[108pts, 28comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training Automatically (Karpathy)**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+9pt。karpathyのシングルGPU自律研究エージェントが安定成長。Infra Agent LLMプロジェクトの方向性と直接共鳴。
+
+**[106pts, 24comments] How to Run Qwen 3.5 Locally**
+- by Curiositry | https://unsloth.ai/docs/models/qwen3.5
+- 前回比+42pt（急伸）。64pt→106ptへ大幅ジャンプ。Qwen 3.5のローカル実行がHNで一気に注目を集めている。Infra Agent LLMプロジェクト（Qwen2.5-3B QLoRA）と直接関連。Unsloth経由のローカル実行手法。
+
+---
+**17:30 変化分析:**
+- **Qwen 3.5ローカル実行が+42pt最大急伸**：64pt→106ptへ。17時台に一気に注目度が上昇。karpathyのAutoresearch（+9pt）と合わせて「ローカル小型モデル×自律エージェント」トレンドが夕方に最も強い潮流となっている。Infra Agent LLMプロジェクトの方向性が技術者コミュニティの関心と完全に一致
+- **Cloud VM Benchmarks 2026（+19pt、5時間連続急伸）**：ついに200ptに到達。Fuyajoの競合市場データとして夕方まで伸び続けた。11:30の初出（60pt）から約3倍超の成長
+- **LLM Writing Tropes（+14pt）継続加速**：夕方になっても衰えない。LLMコンテンツの「識別可能な定型句」への批判的関心が技術者コミュニティで広がっている
+- **PyPy警告（新規150pt）**：Pythonエコシステムの変化。依存ライブラリの選択と管理がプロジェクト存続に直結する教訓
+- **本日17:30総括**：Meta著作権（426pt）が終日トップ。Cloud VMベンチマークが200pt達成（5時間連続急伸）。Files as Interface（212pt）が本日最も一貫したAIエージェント関連シグナル。Qwen 3.5ローカル実行が最後に急伸。「小型ローカルモデル×自律エージェント」が今日の最終トレンドとして鮮明化
