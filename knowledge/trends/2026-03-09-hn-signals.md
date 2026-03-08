@@ -129,3 +129,77 @@ Karpathyのautoresearch（146pts）はInfra Agent LLMプロジェクトとシナ
 ### Thoughts (01:30)
 
 前回（00:30）から大きな変化なし。Karpathyのautoresearchが着実にスコアを伸ばしており、AI自律研究ツールへの関心が高い。Docker 10年記事の議論数（238）は当面続く見込み。今週のHNの主要テーマは「AIエージェントのインタフェース設計」と「コンテナ/VM技術の進化」の二軸。
+
+---
+
+### 02:30 JST
+
+#### High Importance
+
+**[339pts, 242comments] A decade of Docker containers**
+- URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
+- Relevance: Falcon Platform / Infrastructure
+- Note: スコア・コメント共にさらに増加（334→339pts, 238→242comments）。コンテナ技術の10年議論が最も盛り上がっている記事として継続。
+
+**[275pts, 130comments] Files are the interface humans and agents interact with**
+- URL: https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- Relevance: AI Agent / Falcon Platform
+- Note: スコア微増（269→275pts）。ファイルシステムとエージェントインタフェースの議論が継続して注目を集めている。
+
+#### Medium Importance
+
+**[159pts, 44comments] Autoresearch: Agents researching on single-GPU nanochat training automatically (Karpathy)**
+- URL: https://github.com/karpathy/autoresearch
+- Relevance: AI Agent / Infra Agent LLM
+- Note: スコア上昇継続（156→159pts）。単一GPUでの自律研究エージェント。Infra Agent LLMプロジェクトの参考。
+
+**[108pts, 97comments] Oracle may slash up to 30k jobs to fund AI data-centers**
+- URL: https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html
+- Relevance: AI Infrastructure / Industry
+- Note: OracleがAIデータセンター投資のために3万人削減を検討。コメント数が97と非常に多く、技術者の関心が高い。AIインフラへの大規模投資が続く。
+
+**[103pts, 23comments] Rijksmuseum discovers new Rembrandt painting (AI analysis)**
+- URL: https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn
+- Relevance: AI / Computer Vision
+- Note: AI画像解析で新たなレンブラント作品を発見。AIの文化的応用事例として注目。
+
+**[95pts, 34comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / Developer Tools
+- Note: CI環境でコーディングエージェントを評価するベンチマーク。エージェントの実用性評価手法として参考。
+
+#### Low Importance
+
+**[83pts, 9comments] Some Words on WigglyPaint**
+- URL: https://beyondloom.com/blog/onwigglypaint.html
+- Relevance: Creative Tools / General Tech
+- Note: クリエイティブツール開発についての考察。
+
+**[64pts, 5comments] Phi-4-reasoning-vision (Microsoft)**
+- URL: https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
+- Relevance: AI / LLM
+- Note: スコア上昇（47→64pts）。Microsoftのマルチモーダル推論モデル訓練の知見。
+
+**[15pts, 12comments] Why most general-purpose Agents fail and why I'm avoiding LLM "reasoning"**
+- URL: https://news.ycombinator.com/item?id=47296947
+- Relevance: AI Agent
+- Note: 汎用エージェント失敗論・LLM推論懐疑論。コメント増加（10→12）。
+
+**[10pts, 0comments] Claude Struggles to Cope with ChatGPT Exodus**
+- URL: https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/
+- Relevance: Claude / Anthropic
+- Note: スコア低め（10pts）だが、ClaudeがChatGPTからの流入に対応できていないという報道。信頼性要確認。
+
+### Key Discussions (02:30)
+
+- **Docker 10年の議論が最高潮**: コメント242件と今回のHNで最も議論されている。コンテナvs VMの本音が続出。Fuyajoのインフラ選定の参考になる。
+- **Oracleの3万人削減**: AI投資のためのリストラは業界全体のトレンド。AIインフラコストが企業の雇用構造を変えている。
+- **エージェント懐疑論継続**: 汎用エージェントへの批判が続く。「専門特化」と「シンプルなルールベース」を組み合わせたアプローチへの支持が多い。
+
+### Thoughts (02:30)
+
+今回の新規注目点はOracle 3万人削減記事（108pts, 97comments）。コメント数の多さが示すように、技術者コミュニティでAIによる雇用への影響が真剣に議論されている。Fuyajoのような「AIを活用した開発効率化プラットフォーム」は、この流れと整合する。
+
+Claudeに関する記事（スコア10pts）は低評価。Forbes記事の信憑性に疑問符。HNコミュニティはこれを重要視していない。
+
+Docker/コンテナ10年記事が339ptsに達し、本日のHN最注目記事に。FuyajoがコンテナとマイクロVMを組み合わせる設計を採用するなら、この議論は参考価値が高い。
