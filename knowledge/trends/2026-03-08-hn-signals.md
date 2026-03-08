@@ -771,3 +771,43 @@
 - スコアは低いがFalcon AI Agentのコンテキスト管理（CLAUDE.md）に直接関連。エージェントのコンテキストファイル価値を再評価する研究。
 
 **本日20:30総括**: 「ファイルはエージェントのインターフェース」が新規232ptで浮上——Falcon Platformのファイルシステム設計思想と完全一致。Cloud VMベンチマークが255ptへ本日最終急伸。LLM Writing Tropesが211pt——AI生成テキストの質的評価が技術者コミュニティで重要課題に。
+
+---
+
+## HN Signals 21:30 JST
+
+**[318pts, 213comments] A decade of Docker containers** ⭐HIGH
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 本日最高スコア更新。Dockerの10年間振り返り。コンテナ技術の歴史的考察——FuyajoのマイクロVM戦略はDockerの次の10年を賭けた選択。技術コミュニティの関心の高さは「コンテナの限界」への意識と表裏一体。
+
+**[267pts, 120comments] Cloud VM benchmarks 2026**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 255→267ptへさらに急伸継続。本日のロングランストーリー。
+
+**[240pts, 124comments] Files are the interface humans and agents interact with**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 232→240ptに成長。ファイルシステム議論が継続的に注目を集める。
+
+**[225pts, 96comments] Warn about PyPy being unmaintained**
+- by networked | https://github.com/astral-sh/uv/pull/17643
+- uvがPyPy非推奨警告を追加。Pythonエコシステムの健全性議論。HNが「AIフィルタリング」で拾った理由は不明だが技術者コミュニティの関心度は高い。
+
+**[223pts, 62comments] How to run Qwen 3.5 locally** ⭐MEDIUM
+- by Curiositry | https://unsloth.ai/docs/models/qwen3.5
+- 202→223ptに急伸。ローカルLLM実行の関心継続。infra-agent-llmプロジェクト（Qwen2.5ベース）との関連性高い。Qwen 3.5リリースは要チェック。
+
+**[221pts, 91comments] LLM Writing Tropes.md**
+- 211→221ptに成長。継続的注目。
+
+**[132pts, 33comments] Autoresearch: Agents researching on single-GPU nanochat training automatically** ⭐HIGH
+- by simonpure | https://github.com/karpathy/autoresearch
+- Karpathyの新プロジェクト——エージェントが単一GPUで自動的にニューラルチャット学習を研究。自律研究エージェントの概念実証。Falcon AI Agentの自律進化ロードマップと直接共鳴。要詳細確認。
+
+**[64pts, 10comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI** ⭐MEDIUM
+- by mpweiher | https://arxiv.org/abs/2603.03823
+- CIを通じたエージェントのコードベース保守能力評価。AIコーディングエージェントのベンチマーク新手法。Falcon PlatformのAIエージェント統合品質評価に参考。
+
+**[16pts, 15comments] New Research Reassesses the Value of Agents.md Files for AI Coding**
+- agents.mdの価値再評価研究——継続的にコメントが集まっている。
+
+**本日21:30総括**: Dockerの10年記念記事が318ptで本日最高スコア——「コンテナの次」を問う意識がFuyajoのマイクロVM戦略の文脈を後押し。Karpathyの自律研究エージェントが登場——AIが自ら学習を設計する時代が近い。Cloud VMベンチマークが267ptで本日最長持続ストーリー記録更新中。
