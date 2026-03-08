@@ -203,3 +203,67 @@ Karpathyのautoresearch（146pts）はInfra Agent LLMプロジェクトとシナ
 Claudeに関する記事（スコア10pts）は低評価。Forbes記事の信憑性に疑問符。HNコミュニティはこれを重要視していない。
 
 Docker/コンテナ10年記事が339ptsに達し、本日のHN最注目記事に。FuyajoがコンテナとマイクロVMを組み合わせる設計を採用するなら、この議論は参考価値が高い。
+
+---
+
+### 03:30 JST
+
+#### High Importance
+
+**[342pts, 242comments] A decade of Docker containers**
+- URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
+- Relevance: Falcon Platform / Infrastructure
+- Note: 本日のHN最高スコア継続。342pts到達。コンテナ10年の総括議論が最高潮。
+
+**[277pts, 132comments] Files are the interface humans and agents interact with**
+- URL: https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- Relevance: AI Agent / Falcon Platform
+- Note: 275→277pts。ファイルシステムとエージェントインタフェースの議論が継続。
+
+**[214pts, 80comments] Based on its own charter, OpenAI should surrender the race**
+- URL: https://mlumiste.com/general/openai-charter/
+- Relevance: AI / OpenAI / Industry
+- Note: 新規登場。OpenAI自身の設立憲章「AGIが人類の利益になる場合のみ開発を進める」に基づけば、競争から降りるべきという論説。HN技術者コミュニティで高評価。AIガバナンス・競争構造に関する議論。
+
+#### Medium Importance
+
+**[161pts, 45comments] Autoresearch: Agents researching on single-GPU nanochat training automatically (Karpathy)**
+- URL: https://github.com/karpathy/autoresearch
+- Relevance: AI Agent / Infra Agent LLM
+- Note: 159→161pts。着実に上昇継続。
+
+**[134pts, 142comments] Oracle may slash up to 30k jobs to fund AI data-centers**
+- URL: https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html
+- Relevance: AI Infrastructure / Industry
+- Note: コメント数が97→142と急増。技術者の雇用不安・AI投資への議論が加速している。
+
+**[100pts, 35comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / Developer Tools
+- Note: 95→100pts。コーディングエージェント評価ベンチマーク。
+
+**[49pts, 30comments] Claude Struggles to Cope with ChatGPT Exodus**
+- URL: https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/
+- Relevance: Claude / Anthropic
+- Note: 02:30時点の10ptsから大幅上昇（49pts）。ChatGPTユーザーのClaude流入による容量問題。Forbes記事だが注目度が上がっている。引き続き信頼性は要確認。
+
+#### Low Importance
+
+**[69pts, 5comments] Phi-4-reasoning-vision (Microsoft)**
+- URL: https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
+- Relevance: AI / LLM
+- Note: 64→69pts。Microsoftのマルチモーダル推論モデル。継続上昇中。
+
+### Key Discussions (03:30)
+
+- **OpenAI憲章論**: 「OpenAIの使命はAGI競争に勝つことではなく、人類の利益になる場合のみ開発すること」という原点回帰の議論。HN技術者の間でAIガバナンスへの関心が高まっている。
+- **Oracleコメント急増**: 97→142件。AIインフラ投資のための大規模人員削減に対する技術者の危機感が強い。
+- **Claude容量問題**: Forbes記事のスコアが大幅上昇。ChatGPT→Claude移行ユーザーへのサービス品質への懸念。
+
+### Thoughts (03:30)
+
+新規の注目記事は「OpenAI自身の憲章に基づけばレースから降りるべき」（214pts）。OpenAIの組織的矛盾へのHN技術者の批判が高評価を得ている。Anthropicのミッション（AI安全性重視）との対比で、ClaudeとFalcon Platformの差別化に活用できる視点。
+
+Oracle 3万人削減のコメント急増（142件）は、AI投資と雇用破壊の議論が深化している証拠。「AIエージェントが仕事を奪う」という具体的事例として記憶すべき。
+
+Claude容量問題記事のスコア急上昇（10→49pts）は要注意。ChatGPTユーザーの大量流入でAnthropicのインフラが逼迫しているなら、Claude Code利用への影響も考えられる。
