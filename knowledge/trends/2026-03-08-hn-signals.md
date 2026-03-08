@@ -646,3 +646,53 @@
 - **LLM Writing Tropes（+14pt）継続加速**：夕方になっても衰えない。LLMコンテンツの「識別可能な定型句」への批判的関心が技術者コミュニティで広がっている
 - **PyPy警告（新規150pt）**：Pythonエコシステムの変化。依存ライブラリの選択と管理がプロジェクト存続に直結する教訓
 - **本日17:30総括**：Meta著作権（426pt）が終日トップ。Cloud VMベンチマークが200pt達成（5時間連続急伸）。Files as Interface（212pt）が本日最も一貫したAIエージェント関連シグナル。Qwen 3.5ローカル実行が最後に急伸。「小型ローカルモデル×自律エージェント」が今日の最終トレンドとして鮮明化
+
+## HN Signals - 18:30 JST
+
+**[430pts, 238comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+4pt。本日を通じて不動のトップ（朝262pt→夜430pt）。AI著作権フェアユース論争が終日HNの最大シグナルとして君臨し続けた。LLMトレーニングデータの法的グレーゾーンを問う根本的論点。
+
+**[297pts, 203comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+8pt。300pt目前。終日成長し続けたコンテナ10年研究。コンテナ技術の成熟と次世代（マイクロVM）への移行期を示す。Fuyajoの設計文脈として最も参照価値の高い記事。
+
+**[218pts, 100comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types over 7 Providers**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 前回比+18pt（6時間連続急伸）。200pt台を達成し安定成長継続。Fuyajoが直接競合するクラウドVM市場の最新コスパデータ。44タイプ×7プロバイダの比較は価格戦略立案に即活用可能。
+
+**[216pts, 119comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+4pt。終日一貫して成長し続けた本日の「隠れ最重要シグナル」。AIエージェント時代のファイルシステム普遍性論がFuyajo設計思想と深く共鳴。
+
+**[193pts, 78comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+14pt。LLMの文体的クセ・定型句カタログが引き続き急伸。夜にかけても加速。Falcon AgentのAIコンテンツ品質向上に参照すべきリスト。
+
+**[169pts, 54comments] "Warn about PyPy being unmaintained"**
+- by networked | https://github.com/astral-sh/uv/pull/17643
+- 前回比+19pt（大幅急伸）。Pythonパッケージマネージャー uv がPyPyを「未メンテナンス」として警告。エコシステムの依存関係管理がプロジェクト存続に直結する教訓。
+
+**[143pts, 36comments] How to Run Qwen 3.5 Locally**
+- by Curiositry | https://unsloth.ai/docs/models/qwen3.5
+- 前回比+37pt（最大急伸）。106pt→143ptへ大幅ジャンプ。Qwen 3.5のローカル実行ガイドが夜にかけて最も急伸中。Infra Agent LLMプロジェクト（Qwen2.5-3B QLoRA）と直接関連するUnsloth経由実行手法。
+
+**[115pts, 31comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training Automatically (Karpathy)**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+7pt。karpathyのシングルGPU自律研究エージェントが安定成長継続。Qwen 3.5ローカル実行との組み合わせで「ローカル小型モデル×自律エージェント」潮流が鮮明。
+
+**[13pts, 9comments] New Research Reassesses the Value of Agents.md Files for AI Coding**
+- by noemit | https://www.infoq.com/news/2026/03/agents-context-file-value-review/
+- 🆕 新規シグナル。AIコーディングにおけるAgents.mdファイルの価値を再評価する研究。スコアは低いがClaude Code skill設計（CLAUDE.md等）に直接関連する実用的知見。
+
+**[5pts, 2comments] Llm9p: LLM as a Plan 9 File System**
+- by mleroy | https://github.com/NERVsystems/llm9p
+- 🆕 ニッチだが興味深いコンセプト。LLMをPlan 9ファイルシステムとしてマウントする試み。「ファイルシステムとしてのLLM」というFiles as Interface論の極端な実装例。Fuyajoのファイルベース設計思想と共鳴。
+
+---
+**18:30 変化分析:**
+- **Qwen 3.5ローカル実行が+37ptで本時間帯最大急伸**：夕方から夜にかけてさらに加速。karpathyのAutoresearch（+7pt）との組み合わせで「ローカル小型モデル×自律エージェント」が本日の最終・最強トレンドとして確立。Infra Agent LLMプロジェクトの方向性が完全に時代の潮流と一致
+- **PyPy unmaintained警告（+19pt）**：uv（Astral）エコシステムの台頭がPythonの依存関係管理を刷新中。Falcon Platformのツール選定において依存ライブラリの健全性チェックが重要
+- **Agents.md価値再評価（新規）**：AIコーディングエージェントにとってコンテキストファイル（CLAUDE.md等）の設計が品質を左右することが研究で示される
+- **Llm9p（LLMをファイルシステム化）**：スコア低いが概念的に重要。Files as Interface論の究極形——LLM自体をファイルシステムとして公開するアーキテクチャ。Fuyajoの設計方向性として検討価値あり
+- **本日18:30総括**：Meta著作権（430pt、朝から+168pt成長）が終日不動のトップ。Cloud VMベンチマークが6時間連続急伸で218pt到達。Files as Interface（216pt）が終日最も一貫したAIエージェントシグナル。Qwen 3.5ローカル実行が最終時間帯に最大急伸。本日のキーメッセージ：「ローカル小型LLM×自律エージェント×ファイルシステムUI」が2026年春の技術者コミュニティの核心潮流
