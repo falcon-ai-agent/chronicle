@@ -696,3 +696,54 @@
 - **Agents.md価値再評価（新規）**：AIコーディングエージェントにとってコンテキストファイル（CLAUDE.md等）の設計が品質を左右することが研究で示される
 - **Llm9p（LLMをファイルシステム化）**：スコア低いが概念的に重要。Files as Interface論の究極形——LLM自体をファイルシステムとして公開するアーキテクチャ。Fuyajoの設計方向性として検討価値あり
 - **本日18:30総括**：Meta著作権（430pt、朝から+168pt成長）が終日不動のトップ。Cloud VMベンチマークが6時間連続急伸で218pt到達。Files as Interface（216pt）が終日最も一貫したAIエージェントシグナル。Qwen 3.5ローカル実行が最終時間帯に最大急伸。本日のキーメッセージ：「ローカル小型LLM×自律エージェント×ファイルシステムUI」が2026年春の技術者コミュニティの核心潮流
+
+## HN Signals - 19:30 JST
+
+**[305pts, 204comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+8pt。300ptを突破。終日一貫して成長し続けたコンテナ10年研究がついに300pt台に到達。コンテナ技術の成熟とマイクロVM次世代への移行期を示す。Fuyajoのアーキテクチャ設計の文脈として最重要参照記事。
+
+**[243pts, 107comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 前回比+25pt（7時間連続急伸）。Fuyajoが競合するクラウドVM市場の最新コスパデータとして本日最重要の実用シグナル。44タイプ×7プロバイダの比較で価格戦略立案に即活用可能。
+
+**[225pts, 121comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+9pt。終日一貫して成長し続けた本日の「隠れ最重要シグナル」。AIエージェント時代のファイルシステム普遍性論がFuyajo設計思想と深く共鳴。
+
+**[207pts, 86comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+14pt。200pt突破。LLMの文体的クセ・定型句カタログへの関心が夜も加速継続。Falcon AgentのAIコンテンツ品質向上に参照すべきリスト。
+
+**[187pts, 70comments] Warn about PyPy Being Unmaintained**
+- by networked | https://github.com/astral-sh/uv/pull/17643
+- 前回比+18pt（急伸）。uv（Astral）がPyPyを「未メンテナンス」として警告する動き。Pythonエコシステムの変化。依存ライブラリ選定の重要性を示す。
+
+**[176pts, 49comments] How to Run Qwen 3.5 Locally**
+- by Curiositry | https://unsloth.ai/docs/models/qwen3.5
+- 前回比+33pt（最大急伸）。143pt→176ptへ大幅ジャンプ。Qwen 3.5のローカル実行ガイドが夜にかけてさらに加速。Infra Agent LLMプロジェクト（Qwen2.5-3B QLoRA）と直接関連。
+
+**[120pts, 33comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training (Karpathy)**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+5pt。karpathyの自律研究エージェントが安定成長継続。Qwen 3.5ローカル実行と組み合わせて「ローカル小型モデル×自律エージェント」潮流の核心。
+
+**[44pts, 3comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- by mpweiher | https://arxiv.org/abs/2603.03823
+- 🆕 新規シグナル。CIを通じてAIエージェントのコードベース維持能力を評価する研究論文。AIエージェントのソフトウェアエンジニアリング能力評価の新指標として注目。Fuyajoのエージェント統合設計に示唆。
+
+**[30pts, 13comments] I'm Not Consulting an LLM**
+- by birdculture | https://lr0.org/blog/p/gpt/
+- 🆕 新規。LLMを使わないという意思表明。AI利用への反発・懐疑的視点。技術者コミュニティのLLM疲れが表れている。
+
+**[23pts, 25comments] Ask HN: Why There Are No Actual Studies That Show AI Is More Productive?**
+- by make_it_sure | https://news.ycombinator.com/item?id=47295628
+- 🆕 新規。AI生産性の科学的証拠不足を問うスレッド。コメント数がスコアを超えている（25/23）——活発な議論の証。「AIで労働時間が増える」（09:30シグナル）と同系列の懐疑論。
+
+---
+**19:30 変化分析:**
+- **Qwen 3.5ローカル実行が+33ptで本時間帯最大急伸**：夜にかけてさらに加速。本日11:30に初出（64pt）してから176ptへ急成長。karpathyのAutoresearch（+5pt）と合わせて「ローカル小型モデル×自律エージェント」が本日の最終・最強トレンドとして完全確立
+- **Cloud VM Benchmarks 2026（+25pt、7時間連続急伸）**：243ptに到達。昼11:30の初出（60pt）から4倍超の成長。Fuyajoの競合市場データとして終日急伸し続けた本日最実用的なシグナル
+- **Docker 10年が300pt突破**：コンテナ技術の歴史的評価が節目を越えた。マイクロVM時代の到来を予感させる
+- **AI懐疑論の台頭**：「LLMを使わない」「AIが生産性向上を示す研究がない」という新規シグナルが同時出現。Claude Code熱狂（朝）と真逆の視点が夜に浮上。技術者コミュニティのLLM評価が成熟・複雑化している
+- **SWE-CI（新規）**：CIを通じたAIエージェント評価という新しいベンチマーク概念。Fuyajoでのエージェント品質保証に応用可能
+- **本日19:30総括**：Qwen 3.5ローカル実行が本日最後の急伸シグナルとして確定。Cloud VMベンチマークが7時間連続急伸でFuyajo最実用データに。Docker 300pt突破。AI懐疑論が夜に浮上——「熱狂→懐疑」という成熟サイクルの一日
