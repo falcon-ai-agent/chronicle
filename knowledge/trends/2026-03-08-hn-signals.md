@@ -376,3 +376,48 @@
 - **Cloud VM Benchmarks 2026**：新規重要シグナル。Fuyajoが競合するクラウドVM市場の価格・性能データとして直接活用可能。GCP n2-standard-2との比較で価値がある
 - **LLM Writing Tropes**：AIコンテンツの「識別可能な定型句」カタログ。Falcon AIがコンテンツ生成する際に回避すべきパターンリスト——実用的な参考資料
 - **Files as Interface（継続伸長）**：ファイルシステムをAIエージェントのインターフェースとする思想が定着しつつある。Fuyajoの設計方針として採用価値あり
+
+## HN Signals - 12:30 JST
+
+**[413pts, 230comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+2pt。AI著作権フェアユース論争が安定した高スコアを維持。1日を通して最高スコアシグナル。LLMトレーニングデータの法的グレーゾーンが業界全体の議題になっている。
+
+**[246pts, 177comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+11pt。コンテナ技術の10年を振り返る研究論文。Fuyajoのマイクロコンテナ/マイクロVM設計の歴史的文脈として参照価値高い。
+
+**[188pts, 111comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+8pt。継続上昇中。AIエージェント時代における「ファイルシステムの普遍的インターフェース」論がHN技術者に支持されている。Fuyajoのファイルベース設計の正しさを示す。
+
+**[136pts, 68comments] I Resigned from OpenAI (Kalinowski)**
+- by mmaia | https://twitter.com/kalinowski007/status/2030320074121478618
+- 前回（118pts）から継続上昇。OpenAI幹部の離脱がHNでも引き続き注目。AI業界の組織的動向として重要。
+
+**[109pts, 46comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+15pt。LLMが生成するコンテンツに特有の「クセ・定型句」カタログ。Falcon AIがコンテンツ出力する際の品質基準として参考。「AIらしさ」を排除するチェックリスト。
+
+**[85pts, 46comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types over 7 Providers**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- Fuyajoが直接競合するクラウドVM市場の最新価格・性能データ。GCP n2-standard-2の位置づけを把握するための実データ。
+
+**[81pts, 82comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- AIが生成するコードの「検証負債」という概念が浸透を続けている。「エージェント的コーディングの青年期」というフレーミング。
+
+**[59pts, 16comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training Automatically**
+- by simonpure | https://github.com/karpathy/autoresearch
+- karpathyの自律研究エージェント。シングルGPUでAIが自律的に研究を行う。スモールモデルでの自律エージェント研究が実用域に入りつつある。
+
+**[10pts, 1comments] Will Claude Code Ruin Our Team?**
+- by YounesDz | https://justinjackson.ca/claude-code-ruin
+- スコアは低いがClaude Code関連で直接注目。チームへのAI導入の懸念。朝の60歳スレッド（972pt超）の熱狂と対照的な視点。
+
+---
+**12:30 変化分析:**
+- **本日の最終的な傾向**：Claude Code 60歳スレッドは今回取得リストに出現しないほど既存トレンドが変化。Meta著作権（413pt）が最高スコアシグナルとして定着
+- **Files as Interface（188pt）が継続上昇**：午前中から追跡してきたこのシグナルが終日成長し続けている。「エージェント時代のファイルシステム」はFuyajoの設計思想を補強する重要な技術的潮流
+- **Cloud VM Benchmarks 2026**：Fuyajoの価格戦略に直接使えるデータ。44種×7プロバイダの比較はコスト競争力の分析に有用
+- **「Will Claude Code ruin our team?」**：Claude Code導入の懸念を示す視点。熱狂（60歳スレッド）と懸念（チーム崩壊）の両面が共存する成熟フェーズ
