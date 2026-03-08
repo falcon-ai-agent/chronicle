@@ -330,3 +330,53 @@
 - karpathyのAutoresearch（単一GPU自律研究エージェント）：スコアは低いが技術的重要性は高い。小型モデルでの自律エージェント研究が実用域に入りつつある
 - OpenAI幹部離脱（Kalinowski）：AI業界の組織的不安定さ。AnthropicのFirefox協業（信頼性）と対比的
 - AI利用で労働時間が増えるという逆説：「AIで楽になる」という単純なナラティブへの反証。ツールの質より使い方の設計が重要——Falcon Platformの設計思想に直結する問い
+
+## HN Signals - 10:30 JST
+
+**[407pts, 223comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+25pt。400pt突破。MetaがBitTorrent経由の著作物アップロードをフェアユースと主張。LLM訓練データの法的根拠を巡る議論が最高潮。AI業界全体への波及影響大。
+
+**[363pts, 132comments] Ki Editor - An Editor That Operates on the AST**
+- by ravenical | https://ki-editor.org/
+- 前回比+27pt。ASTレベルの構造的コード編集。AI+構造的編集の組み合わせへの関心が持続。
+
+**[227pts, 165comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+33pt（最大上昇）。コンテナ技術10年の研究論文が注目増加。Fuyajoのマイクロコンテナ/VM路線への追い風。
+
+**[171pts, 106comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 新規高スコアシグナル。「ファイルシステムこそ人間とエージェントの共通インターフェース」という主張。Falcon Platform（Fuyajo）のエージェント設計において、ファイルベースの状態管理・インターフェースの重要性を示す。cc-memoryのファイルベース設計とも整合。
+
+**[137pts, 150comments] Training Students to Write Worse to Prove They're Not Robots**
+- by PretzelFisch | https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/
+- 前回比+7pt。コメント150件（前回128比）。教育現場でのAI検出回避の逆説。AI活用が標準化する中での評価基準の歪みが議論拡大中。
+
+**[92pts, 49comments] I Resigned from OpenAI**
+- by mmaia | https://twitter.com/kalinowski007/status/2030320074121478618
+- 新規シグナル。OpenAI関係者の退職告白。OpenAI内部の文化・方向性への不満が示唆。競合他社（Anthropic等）との差別化として内部文化が重要な要素に。
+
+**[82pts, 34comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 新規シグナル。LLMが生成するテキストの典型的パターン（トロープ）をまとめたリソース。AI生成コンテンツの識別・品質評価ツールとして実用性あり。
+
+**[41pts, 29comments] Why Developers Using AI Are Working Longer Hours**
+- by birdculture | https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/
+- 新規シグナル。AI活用でも開発者の労働時間が増加している逆説。「AIで効率化→より多くのタスクを引き受ける→総労働時間増加」というパターン。Falcon Platformのユーザー価値訴求（量より質の生産性）に示唆。
+
+**[30pts, 11comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training Automatically**
+- by simonpure | https://github.com/karpathy/autoresearch
+- karpathy（ex-OpenAI/Tesla AI）の新プロジェクト。単一GPU上でエージェントが自律的にnanochatモデルをトレーニング。自律型研究エージェントの実装事例。Infra Agent LLMプロジェクト（Falcon）の方向性と共鳴。
+
+**[10pts, 0comments] Cloud VM Benchmarks 2026: Performance/Price for 44 VM Types over 7 Providers**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- スコア低いが高関連性。2026年版クラウドVM価格性能比較（44種VM×7プロバイダー）。FuyajoのVM料金設計・競合ポジショニングに直接活用できる参考データ。
+
+---
+**10:30 変化分析:**
+- Claude Code 60歳スレッドが今回のフィルターから落ちた（トップ15外へ）：成熟・沈静化フェーズに移行
+- 「ファイルがエージェントと人間のインターフェース」記事が新規高スコア：Falcon Platformのエージェント設計思想を傍証する重要な議論
+- karpathy自律研究エージェント（autoresearch）：著名研究者が自律AIエージェント×ローカルLLM訓練の実装を公開。Infra Agent LLMの方向性と一致
+- Cloud VM Benchmarks 2026：Fuyajoの価格競争力評価に直接使えるデータセット
+- Meta/BitTorrentフェアユース議論が400pt突破：AI著作権問題がHNトップトレンドとして定着
