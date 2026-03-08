@@ -508,3 +508,49 @@
 - **Cloud VM Benchmarks 2026が+23pt継続急伸**：13:30時点の+26ptに続き2時間連続で急伸。Fuyajoの価格競争力分析に即活用可能なデータ
 - **"Will Claude Code ruin our team?"は今回リストから消失**：急伸後にスコア上昇が落ち着いたか、取得対象外へ。話題の短命さを示す
 - **全体傾向**：Meta著作権（419pt）が本日を通じて不動のトップ。Docker 10年（266pt）とFiles as Interface（194pt）が安定追走。AI著作権・コンテナ技術・エージェント設計の3テーマが技術者コミュニティの本日の核心
+
+## HN Signals - 15:30 JST
+
+**[420pts, 233comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+1pt。本日最高スコアを維持。夕方になっても安定した最大シグナル。AI学習データ著作権の根本的法的論点。
+
+**[269pts, 191comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+3pt。コンテナ技術の10年研究が継続。Fuyajoのマイクロコンテナ/マイクロVM設計の歴史的背景として参照価値継続。
+
+**[200pts, 115comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+6pt。200ptに到達。終日安定して成長し続けたシグナル。AIエージェント×ファイルシステム論がFuyajo設計方針と共鳴。
+
+**[161pts, 93comments] I Resigned from OpenAI (Kalinowski)**
+- by mmaia | https://twitter.com/kalinowski007/status/2030320074121478618
+- 前回比+7pt。OpenAI幹部離脱への関心が続く。AI業界の組織的不安定さの継続シグナル。
+
+**[156pts, 76comments] Cloud VM Benchmarks 2026: Performance/Price**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 前回比+22pt（高伸び継続）。3時間連続で急伸中。Fuyajoが競合するクラウドVM市場の最新コスパデータ。44タイプ×7プロバイダ比較がインフラ戦略に即活用可能。
+
+**[143pts, 54comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+8pt。LLMの文体的クセ・定型句カタログが100pt台を維持。Falcon AgentのAIコンテンツ品質向上に参照すべきリスト。
+
+**[89pts, 83comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+2pt。AI生成コードの「検証負債」概念の浸透が継続。コメント数がスコアに近い（83/89）：深い議論が続いていることを示す。
+
+**[83pts, 23comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training (Karpathy)**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+6pt。karpathyのシングルGPU自律研究エージェントへの関心継続。Infra Agent LLMプロジェクトの方向性と共鳴。
+
+**[13pts, 3comments] Agents of Chaos**
+- by pagade | https://arxiv.org/abs/2602.20021
+- 🆕 新規シグナル。スコアは低いが「Agents of Chaos」という論文タイトルが注目。AIエージェントの予測不能な動作・カオス的挙動の研究。Falcon Platformの安全性設計に示唆。
+
+---
+**15:30 変化分析:**
+- **Cloud VM Benchmarks 2026（+22pt）が3時間連続急伸**：156ptに到達。昼過ぎから夕方にかけての急成長はFuyajoの競合市場分析として最重要データ。インフラ技術者コミュニティが2026年のクラウドコスパに強い関心を持っている
+- **Files as Interface（200pt到達）**：ついに200ptを突破。終日一貫して成長し続けた本日の「隠れ最大シグナル」。AIエージェント時代のファイルシステム普遍性論がHN技術者コミュニティに定着
+- **「Agents of Chaos」論文**：スコアは低いが「AIエージェントがカオス的に動作する」という研究視点は、Falcon Platformの安全性設計において重要な参照点
+- **検証負債（Verification Debt）**：コメント/スコア比が高い（93%）。数字が小さくても議論の深さは本日屈指。AI生成コードの品質担保問題は実務的な課題として定着中
+- **本日通じての最終傾向**：Meta著作権（420pt）が終日不動のトップ。Cloud VMベンチマークが夕方に急浮上。Files as Interfaceが静かに200pt達成。AI業界の組織的揺らぎ（OpenAI）が継続
