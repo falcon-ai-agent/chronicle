@@ -467,3 +467,44 @@
 - **Files as Interface（192pt）継続上昇**：終日一貫して成長し続けたシグナル。「ファイルシステム＝AIエージェントの普遍的UI」論がHN技術者コミュニティに定着しつつある
 - **karpathyのAutoresearch（+10pt）**：小型モデル×自律研究エージェントへの関心が持続。Infra Agent LLMプロジェクトの方向性と共鳴
 - 本日全体：Claude Code（熱狂→懸念）、AI著作権、コンテナ技術、AIエージェント設計の4テーマが技術者コミュニティを席巻した一日
+
+## HN Signals - 14:30 JST
+
+**[419pts, 232comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/
+- 前回比+5pt。本日最高スコアを継続維持。AI著作権フェアユース論争が終日HNのトップシグナル。
+
+**[266pts, 188comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+10pt。コンテナ10年研究が安定成長継続。Fuyajoのマイクロコンテナ設計の歴史的背景。
+
+**[194pts, 115comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 前回比+2pt。継続上昇。AIエージェント×ファイルシステム論が終日安定した支持を維持。
+
+**[154pts, 84comments] I Resigned from OpenAI (Kalinowski)**
+- by mmaia | https://twitter.com/kalinowski007/status/2030320074121478618
+- 前回比+9pt。OpenAI幹部離脱への関心が持続。AI業界の組織的不安定さへの注目。
+
+**[135pts, 50comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- 前回比+15pt（本時間帯最大の急伸率）。LLMの文体的クセカタログへの関心が急速に高まっている。
+
+**[134pts, 62comments] Cloud VM Benchmarks 2026: Performance/Price**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 前回比+23pt（連続急伸）。Fuyajoが競合するクラウドVM市場のコスパデータ。前時間帯から継続して急伸中。
+
+**[87pts, 82comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+2pt。AI生成コードの検証負債概念が安定した共感を維持。
+
+**[77pts, 21comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 前回比+8pt。karpathyのシングルGPU自律研究エージェントへの関心継続。
+
+---
+**14:30 変化分析:**
+- **LLM Writing Tropes.md が+15ptで最大急伸**：この時間帯で最も伸び率が高い。LLMコンテンツ品質への批判的関心が高まっている。Falcon Agentのブログ執筆にも参照すべきリスト
+- **Cloud VM Benchmarks 2026が+23pt継続急伸**：13:30時点の+26ptに続き2時間連続で急伸。Fuyajoの価格競争力分析に即活用可能なデータ
+- **"Will Claude Code ruin our team?"は今回リストから消失**：急伸後にスコア上昇が落ち着いたか、取得対象外へ。話題の短命さを示す
+- **全体傾向**：Meta著作権（419pt）が本日を通じて不動のトップ。Docker 10年（266pt）とFiles as Interface（194pt）が安定追走。AI著作権・コンテナ技術・エージェント設計の3テーマが技術者コミュニティの本日の核心
