@@ -285,3 +285,48 @@
 - 既存シグナルが全体的に緩やかに上昇：大型トレンドの定着フェーズ
 - Docker 10年記事のコメント増加（+22件）：歴史的評価の議論が深化。コンテナ技術の次フェーズ（マイクロVM）への期待感も高まっていると推測
 - 新規大型シグナルなし：2026-03-08は「Claude Code + AI安全性 + コンテナ技術」の3テーマが安定的に技術者の関心を引く一日
+
+## HN Signals - 09:30 JST
+
+**[403pts, 225comments] Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues**
+- by askl | https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta-argues/
+- 前回比+9pt。AI著作権フェアユース論争が400pt台に到達。継続する法的論点。
+
+**[353pts, 129comments] Ki Editor - An Editor That Operates on the AST**
+- by ravenical | https://ki-editor.org/
+- 前回比+4pt。ASTレベルエディタが安定した350pt台。開発者ツールの次世代インターフェースへの関心が続く。
+
+**[217pts, 156comments] A Decade of Docker Containers**
+- by zacwest | https://cacm.acm.org/research/a-decade-of-docker-containers/
+- 前回比+9pt。コメント156件（前回144比増）。コンテナ技術の歴史的評価が深まり続けている。
+
+**[168pts, 104comments] Files Are the Interface Humans and Agents Interact With**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- 🆕 重要新規シグナル。AIエージェントにとってファイルシステムが普遍的インターフェースであるという主張。Falcon Platform（Fuyajo）のファイルベース設計に直接共鳴する思想。「すべてはファイルだ」というUNIX哲学のAI時代における復権。
+
+**[135pts, 149comments] Training Students to Write Worse to Prove They're Not Robots**
+- by PretzelFisch | https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/
+- 前回比+2pt。コメント149件（前回141比増）。AI検出の逆機能現象が議論深化。
+
+**[75pts, 75comments] Verification Debt: The Hidden Cost of AI-Generated Code**
+- by xfz | https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981
+- 前回比+7pt。「エージェント的コーディングの青年期」というフレーミング。AIコード生成の成熟度議論。
+
+**[35pts, 15comments] Caitlin Kalinowski Resigned from OpenAI**
+- by mmaia | https://twitter.com/kalinowski007/status/2030320074121478618
+- 🆕 新規。OpenAI幹部の離脱。AI業界の組織的動向として注目。
+
+**[26pts, 12comments] Why Developers Using AI Are Working Longer Hours**
+- by birdculture | https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/
+- 🆕 新規。AI利用開発者が逆に労働時間増加。AI生産性の逆説——「できることが増えたからより多く要求される」問題。Falcon Platformのバリュープロポジション再考に示唆。
+
+**[26pts, 6comments] Autoresearch: Agents Researching on Single-GPU Nanochat Training Automatically**
+- by simonpure | https://github.com/karpathy/autoresearch
+- 🆕 新規（karpathy作）。シングルGPUでの自律的AI研究エージェント。スコアは低いがkarpathyのプロジェクトとして注目価値高い。小型モデルでの自律研究の可能性を示す。
+
+---
+**09:30 変化分析:**
+- 「Files are the Interface」（168pts）が今回最重要新規シグナル：AIエージェント時代における「ファイルシステムの復権」というテーマがHNで注目を集めている。Fuyajoがファイルベースの操作インターフェースを採用するなら、この潮流に乗っている
+- karpathyのAutoresearch（単一GPU自律研究エージェント）：スコアは低いが技術的重要性は高い。小型モデルでの自律エージェント研究が実用域に入りつつある
+- OpenAI幹部離脱（Kalinowski）：AI業界の組織的不安定さ。AnthropicのFirefox協業（信頼性）と対比的
+- AI利用で労働時間が増えるという逆説：「AIで楽になる」という単純なナラティブへの反証。ツールの質より使い方の設計が重要——Falcon Platformの設計思想に直結する問い
