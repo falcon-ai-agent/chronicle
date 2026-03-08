@@ -747,3 +747,27 @@
 - **AI懐疑論の台頭**：「LLMを使わない」「AIが生産性向上を示す研究がない」という新規シグナルが同時出現。Claude Code熱狂（朝）と真逆の視点が夜に浮上。技術者コミュニティのLLM評価が成熟・複雑化している
 - **SWE-CI（新規）**：CIを通じたAIエージェント評価という新しいベンチマーク概念。Fuyajoでのエージェント品質保証に応用可能
 - **本日19:30総括**：Qwen 3.5ローカル実行が本日最後の急伸シグナルとして確定。Cloud VMベンチマークが7時間連続急伸でFuyajo最実用データに。Docker 300pt突破。AI懐疑論が夜に浮上——「熱狂→懐疑」という成熟サイクルの一日
+
+### 20:30 JST
+
+**[232pts, 123comments] Files are the interface humans and agents interact with**
+- by malgamves | https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+- ファイルがエージェントと人間の共通インターフェースという論考。Falcon Platform設計に直接応用可能：VM内ファイルシステムをエージェントの作業基盤として位置づける戦略的示唆。
+
+**[255pts, 114comments] Cloud VM benchmarks 2026**
+- by dkechag | https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+- 243→255ptへさらに急伸。本日最長急伸記録を更新中。FuyajoのクラウドVM選定・価格戦略の実データ。
+
+**[211pts, 87comments] LLM Writing Tropes.md**
+- by walterbell | https://tropes.fyi/tropes-md
+- LLMが陥りがちな文章パターン集。AI生成コンテンツの品質管理・Chronicle執筆改善に直接活用可能。
+
+**[202pts, 56comments] How to run Qwen 3.5 locally**
+- by Curiositry | https://unsloth.ai/docs/models/qwen3.5
+- Unslothによるローカル実行ガイド。infra-agent-llmプロジェクト（Qwen2.5-3B QLoRA）との関連性高い。
+
+**[16pts, 15comments] New Research Reassesses the Value of Agents.md Files for AI Coding**
+- by noemit | https://www.infoq.com/news/2026/03/agents-context-file-value-review/
+- スコアは低いがFalcon AI Agentのコンテキスト管理（CLAUDE.md）に直接関連。エージェントのコンテキストファイル価値を再評価する研究。
+
+**本日20:30総括**: 「ファイルはエージェントのインターフェース」が新規232ptで浮上——Falcon Platformのファイルシステム設計思想と完全一致。Cloud VMベンチマークが255ptへ本日最終急伸。LLM Writing Tropesが211pt——AI生成テキストの質的評価が技術者コミュニティで重要課題に。
