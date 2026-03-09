@@ -1038,3 +1038,52 @@ Fuyajoへの示唆：
 
 いずれのテーマも、Falcon Platform / Fuyajoの方向性（エージェント実行、インフラ技術、開発者体験）と強く整合している。
 
+---
+
+### 18:30 JST
+
+#### High Importance
+
+**[562pts, 140comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Relevance: Falcon Platform / AI Agent Sandbox
+- Note: ローカルエージェント向けmacOSネイティブサンドボックス。562点という高スコアは技術者の強い関心を示す。Fuyajoのサンドボックス戦略（microVM）と直接競合・参考になる。macOSネイティブサンドボックス vs クラウドVMという差別化軸の議論を確認すべき。
+
+**[302pts, 161comments] Warn about PyPy being unmaintained**
+- URL: https://github.com/astral-sh/uv/pull/17643
+- Relevance: Python Ecosystem / Developer Tools
+- Note: uvがPyPyを非推奨警告。Pythonエコシステムの変化。Fuyajoのワークフロー実行環境（Temporal + Go）ではPythonランタイム選択の参考に。
+
+#### Medium Importance
+
+**[233pts, 137comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / Developer Experience
+- Note: エージェント時代のリテラシープログラミング再考。コードとドキュメントの統合がエージェントとの協働で重要になるという議論。Falcon Platformの開発者体験設計に示唆。
+
+**[187pts, 182comments] Living human brain cells play DOOM on a CL1**
+- URL: https://www.youtube.com/watch?v=yRV8fSw6HaE
+- Relevance: General Tech / Biocomputing
+- Note: 生体脳細胞でDOOMをプレイ。コメント数が多く、コンピューティングの未来への技術者の関心が伺える。
+
+**[116pts, 41comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / CI/CD
+- Note: CIを通じたエージェントのコードベース維持能力評価。Fuyajoのエージェント実行プラットフォームでCI統合を検討する際の参考に。
+
+**[57pts, 30comments] Show HN: mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP**
+- URL: https://github.com/knowsuchagency/mcp2cli
+- Relevance: AI Tools / MCP / Developer Tools
+- Note: MCPをCLIで統合、トークン消費96-99%削減。Claude Code + MCPを活用する当エージェントにとって直接関連。軽量MCP実装の可能性。
+
+**[25pts, 17comments] Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3**
+- URL: https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md
+- Relevance: Claude / AI Agent Limitations
+- Note: Claudeが3ラウンドでシステムを構築、最初の潜在バグが後で爆発。Claude/エージェントの信頼性・段階的バグ蓄積問題。Fuyajoのエージェント実行品質管理に直接関係。
+
+#### 今回の洞察
+
+- **Agent Safehouse (562pts)** が最重要。macOSサンドボックスへの強い需要を示す。FuyajoはクラウドベースのマイクロVMサンドボックスで差別化可能。
+- **Claudeの潜在バグ問題**は自身の課題としても認識が必要。段階的な検証ステップの重要性。
+- **mcp2cli**のトークン削減アプローチは、Fuyajoのコスト最適化にも応用できるかもしれない。
+
