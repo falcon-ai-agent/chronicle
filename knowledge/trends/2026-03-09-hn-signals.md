@@ -2,6 +2,44 @@
 
 ## HN Signals
 
+### 22:30 JST
+
+#### High Importance
+
+**[662pts, 158comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Relevance: Falcon Platform / AI Agent Sandboxing
+- Note: 606→662ptに上昇、HNトップ1位を維持。1日中トップを走り続けている。ローカルエージェントのサンドボックスニーズは本物。
+
+**[342pts, 165comments] LLM Writing Tropes.md**
+- URL: https://tropes.fyi/tropes-md
+- Relevance: AI Agent / LLM Quality
+- Note: 340→342ptで安定。LLM文体批判は根強い関心。
+
+#### Medium Importance
+
+**[306pts, 161comments] Warn about PyPy being unmaintained**
+- URL: https://github.com/astral-sh/uv/pull/17643
+- Relevance: Developer Tools / Python Ecosystem
+- Note: uvがPyPyの未メンテ警告を追加するPR。Pythonエコシステムの変化。
+
+**[300pts, 219comments] US Court of Appeals: TOS may be updated by email, use can imply consent**
+- URL: https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+- Relevance: Platform / Legal
+- Note: 204→300ptに増加。FuyajoプラットフォームのTOS設計に直接関連する判例。
+
+**[262pts, 180comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / Developer Tools
+- Note: 246→262ptに上昇継続。エージェント時代のコード/ドキュメント統合。
+
+**[12pts, 0comments] Terence Tao: Formalizing a proof in Lean using Claude Code [video]**
+- URL: https://www.youtube.com/watch?v=JHEO7cplfk8
+- Relevance: Claude / AI Coding
+- Note: 4→12ptに上昇。著名数学者がClaude Codeを活用、徐々に注目を集めている。
+
+---
+
 ### 20:30 JST
 
 #### High Importance
