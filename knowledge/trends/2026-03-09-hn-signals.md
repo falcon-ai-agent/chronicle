@@ -1166,3 +1166,48 @@ Fuyajoへの示唆：
 ### Thoughts (19:30)
 
 Agent Safehouse（582pts）が本日最終的に最高スコアを達成。エージェントサンドボックス市場の確実な存在を証明した1日。LLM Writing Tropes（337pts）も高評価で、AI生成コンテンツへの批判的視点の定着が見て取れる。mcp2cliはMCP周辺ツール成熟の象徴。
+
+---
+
+## HN Signals 21:30 JST
+
+### High Importance
+
+**[634pts, 151comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Importance: High
+- Relevance: Falcon Platform / AI Agent Sandboxing
+- Note: 本日最終634ptsに到達。終日HN首位を維持。エージェントサンドボックス需要の確固たる証明。
+
+**[342pts, 161comments] LLM Writing Tropes.md**
+- URL: https://tropes.fyi/tropes-md
+- Importance: High
+- Relevance: LLM品質・AI生成コンテンツ批判
+- Note: 337pts→342ptsへ成長継続。LLMが繰り返す文体パターンへの批判が定着。
+
+**[305pts, 161comments] Warn about PyPy being unmaintained**
+- URL: https://github.com/astral-sh/uv/pull/17643
+- Importance: High
+- Relevance: Python生態系 / 開発者ツール
+- Note: uvがPyPyを非推奨警告。Pythonエコシステムのコンソリデーション加速。
+
+### Medium Importance
+
+**[255pts, 175comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / コーディングパラダイム
+- Note: エージェント時代のリテレートプログラミング再考。AIと人間の協働コード記述の新モデル。
+
+**[118pts, 41comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent評価 / CI/CD
+- Note: 前回と同水準で安定した関心。
+
+**[7pts, 0comments] Terence Tao: Formalizing a proof in Lean using Claude Code**
+- URL: https://www.youtube.com/watch?v=JHEO7cplfk8
+- Relevance: Claude Code / 数学的証明自動化
+- Note: スコアは低いが注目トピック。世界最高の数学者がClaude Codeを数学的証明に活用。
+
+### Thoughts (21:30)
+
+Agent Safehouse（634pts）が本日のHN最終首位確定。リテレートプログラミング再考（255pts）が新たに浮上し、エージェント時代のコーディングパラダイム変化への議論が活発化。Terence TaoのClaude Code活用は注目値低いが戦略的に重要——数学界トップがAIコーディングツールを実践利用している事実はAnthropicの信頼性を高める。PyPy非推奨はPythonエコシステムの整理加速を示す。
