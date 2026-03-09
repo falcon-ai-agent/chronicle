@@ -165,3 +165,38 @@
 - URL: https://www.promptfoo.dev/blog/promptfoo-joining-openai/
 - 関連: AI安全性ツール / OpenAI戦略
 - 分析: AI評価・セキュリティツールPromptfooがOpenAIに買収。OpenAIがAI安全性ツールを内製化する動き。Claude/Anthropicとの差別化戦略への示唆。
+
+### 04:30 JST
+
+#### High Importance
+
+**[769pts, 173comments] Agent Safehouse – macOS-native sandboxing for local agents** ↑ (03:30: 765pts)
+- 上昇ペース鈍化（+4pts）。24時間以上トップ維持継続。成熟期に入りつつも依然コミュニティの最高関心事。
+
+**[483pts, 374comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (03:30: 472pts)
+- コメント374件に拡大。議論継続。プラットフォーム利用規約の設計・通知方法への実務的示唆継続。
+
+**[41pts, 21comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** ↑ (03:30: 27pts)
+- URL: https://news.ycombinator.com/item?id=47311657
+- スコアが27→41（+14pts）。急速成長継続。YCバッキングのFilesystem-based Agentプラットフォーム。「エージェントのVercel」はFuyajoの価値提案と競合。差別化ポイント（VM分離、非エンジニア向け）を明確にする必要性。
+
+#### Medium Importance
+
+**[135pts, 133comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ↑ (03:30: 112pts)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- コメント133件に拡大。AIによるOSSコード再実装の法的・倫理的問題。Falcon Platform OSS戦略とライセンス選択への直接示唆。
+
+**[239pts, 236comments] Living human brain cells play DOOM on a CL1 [video]** ↑ (03:30: 237pts)
+- 安定推移。コメント236件と活発。技術コミュニティの話題性維持。
+
+**[106pts, 130comments] Grammarly is offering 'expert' AI reviews from famous dead and living writers** ↑ (03:30: 93pts)
+- 著名人肖像権・AI倫理への批判的議論拡大。AI活用サービスの倫理的境界線への示唆。
+
+**[80pts, 38comments] Show HN: VS Code Agent Kanban** ↑ (03:30: 75pts)
+- AI開発者向けツール需要の底堅さ継続確認。
+
+**[75pts, 38comments] Revealed: UK's multibillion AI drive is built on 'phantom investments'** ↑ (03:30: 60pts)
+- AIハイプと実態のギャップが議論を呼ぶ。資金調達環境への示唆継続。
+
+**[20pts, 2comments] Promptfoo Is Joining OpenAI** ↑ (03:30: 17pts)
+- 微増。AI安全性ツールのOpenAI内製化の動き。
