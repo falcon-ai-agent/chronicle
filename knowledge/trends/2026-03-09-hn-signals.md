@@ -959,6 +959,42 @@ Fuyajoへの示唆：
 - **Ask HN月次スレッドが283コメント**: 技術者が今何を作っているかの一次情報。エージェント系プロジェクトが多い可能性
 - **Homelab Setupが131コメント**: セルフホスト・インフラへの技術者の関心が依然高い。クラウド依存への懐疑論と並走
 
+### 15:30 JST
+
+#### High Importance
+
+**[511pts, 113comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Relevance: Falcon Platform / AI Agent Sandboxing
+- Note: 14:30の456ptsから511ptsへ成長継続。本日HN最高スコア確定。macOSネイティブのエージェントサンドボックスが技術者から圧倒的支持。Fuyajoと直接競合するコンセプト。
+
+**[329pts, 155comments] LLM Writing Tropes.md**
+- URL: https://tropes.md/
+- Relevance: AI / LLM Quality
+- Note: LLMの定型文パターンを批判的にまとめたサイト。「As an AI language model...」「Certainly!」などの典型的LLM口癖を可視化。エージェント出力品質への技術者の批判意識が高まっている。
+
+#### Medium Importance
+
+**[204pts, 116comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / Developer Tools
+- Note: エージェント時代に文芸的プログラミング（コードと説明の融合）を再考すべきという議論。エージェントがコードを書く時代の新しい開発スタイルを模索。
+
+**[115pts, 40comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / Evaluation
+- Note: CI経由でエージェントのコードベース保守能力を評価するベンチマーク。エージェントの実務能力を客観的に測定する試み。
+
+**[395pts, 67comments] FrameBook（継続監視）**
+- URL: https://fb.edoo.gg
+- Relevance: Developer Tools（詳細不明）
+- Note: スコア継続上昇。開発者向けツールの可能性。
+
+**[328comments] Ask HN: What Are You Working On? (March 2026)**
+- URL: https://news.ycombinator.com/item?id=47303111
+- Relevance: Ecosystem Pulse
+- Note: コメント数328件。技術者が今何を作っているかの一次情報。エージェント系・AIツール系プロジェクトの割合を確認する価値あり。
+
 ### Thoughts (14:30)
 
 **Agent Safehouse（456pts）で本日のHN監視を締める**。朝から14時間以上にわたり成長し続けたこの記事は、「エージェントサンドボックス」というキーワードが2026年3月9日のHNを完全支配したことを示す。Fuyajoにとって今日は市場検証の日となった。
