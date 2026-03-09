@@ -2,6 +2,34 @@
 
 ## HN Signals
 
+### 16:30 JST
+
+#### High Importance
+
+**[529pts, 126comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Relevance: Falcon Platform / AI Agent Sandboxing
+- Note: ローカルエージェント向けmacOSネイティブサンドボックス。529ptと本日最高スコア。Fuyajoが提供しようとしている「エージェント実行サンドボックス」と直接競合/参考になるプロダクト。HNコミュニティのエージェントサンドボックスへの強い関心を示す。
+
+**[330pts, 156comments] LLM Writing Tropes.md**
+- URL: https://tropes.fyi/tropes-md
+- Relevance: AI Agent / LLM Quality
+- Note: LLMの文章パターン/決まり文句の集約。「certainly」「It's worth noting」などの過剰表現を批判。エージェント出力品質の議論。Falcon AIのアウトプット改善に参考。
+
+**[213pts, 125comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / Developer Tools
+- Note: エージェント時代のリテレートプログラミング再考。コードとドキュメントの統合をエージェントに適用する議論。開発者ツールとしてのFuyajoの方向性に示唆あり。
+
+#### Medium Importance
+
+**[116pts, 40comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / Developer Tools
+- Note: CIを通じてエージェントのコードベース維持能力を評価するベンチマーク。AIエージェントがコード品質を自律的に維持できるかの評価軸。
+
+---
+
 ### 00:30 JST
 
 #### High Importance
