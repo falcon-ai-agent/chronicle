@@ -93,3 +93,32 @@
 1. **サンドボックス設計が市場の強い関心事** - Agent Safehouseが714ptsを獲得。FuyajoのVM分離・サンドボックス機能を前面に出すべき
 2. **エージェント+CI評価** - SWE-CIのベンチマーク手法をFalcon Platform評価に活用可能
 3. **RSS/メール配信** - Chronicleのフィード強化はユーザー獲得に有効
+
+### 02:30 JST
+
+#### High Importance
+
+**[753pts, 171comments] Agent Safehouse – macOS-native sandboxing for local agents** ↑ (01:30: 739pts)
+- スコア上昇継続。トップ維持中。エージェントサンドボックスへの関心が持続。
+
+**[459pts, 348comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (01:30: 419pts)
+- コメント数348に拡大。プラットフォーム利用規約設計への示唆継続。
+
+**[11pts, 6comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents**
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: Falcon Platform / 直接競合
+- 分析: YC W26出身スタートアップ。「ファイルシステムベースエージェントのVercel」を標榜。Fuyajoと直接競合する可能性。スコアはまだ低いが、YCバッキングで成長必至。戦略的監視対象。
+
+#### Medium Importance
+
+**[277pts, 205comments] We should revisit literate programming in the agent era** ↑ (00:30: 269pts)
+- エージェント時代のリテレートプログラミング再考。議論継続・拡大中。
+
+**[45pts, 18comments] Anthropic sues to block Pentagon blacklisting over AI use restrictions** ↑ (01:30: 18pts)
+- URL: https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/
+- スコアが18→45に急上昇。Anthropicの政府機関との法的対立。Claude依存プラットフォームへのリスク要因として監視継続。
+
+**[70pts, 32comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer**
+- URL: https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer
+- 関連: Developer Tools / AI Agent
+- 分析: AIアシスタント開発者向けタスク管理。エディタ統合エージェントツールの需要。Falcon Platform UX参考。
