@@ -201,26 +201,51 @@
 **[20pts, 2comments] Promptfoo Is Joining OpenAI** ↑ (03:30: 17pts)
 - 微増。AI安全性ツールのOpenAI内製化の動き。
 
+### 05:30 JST
+
+#### High Importance
+
+**[776pts, 173comments] Agent Safehouse – macOS-native sandboxing for local agents** ↑ (04:30: 769pts)
+- +7pts。上昇継続。コメント数変化なし（173）。コミュニティの関心が持続。macOSローカルエージェントのサンドボックスという需要はFuyajo（クラウドVM分離）の方向性と一致。
+
+**[48pts, 33comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** ↑ (04:30: 41pts)
+- +7pts継続成長。filesystem-basedエージェントプラットフォーム。YC W26バッチ。注目度上昇中。「エージェントのVercel」コンセプトはFuyajoの直接競合。
+
+#### Medium Importance
+
+**[493pts, 383comments] US Court of Appeals: TOS may be updated by email** ↑ (04:30: 483pts)
+- コメント383件（+9）。議論継続拡大。プラットフォームTOS設計への継続示唆。
+
+**[154pts, 149comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ↑ (04:30: 135pts)
+- +19pts急上昇。コメント149件（+16）。AIによるOSSコード再実装の法的・倫理的問題が技術者の間で熱く議論。
+
+**[118pts, 150comments] Grammarly is offering 'expert' AI reviews from famous dead and living writers** ↑ (04:30: 106pts)
+- +12pts。コメント150件（+20）。著名人AI活用の倫理的批判が拡大。
+
+**[11pts, 4comments] Code Review for Claude Code** NEW
+- URL: https://claude.com/blog/code-review
+- Claude/Anthropic関連。スコアは低いが、Claude Codeの新機能（コードレビュー）。Falcon Platformの開発ワークフローへの直接参考。
+
 ### 06:30 JST
 
 #### High Importance
 
-**[500pts, 393comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (02:30: 459pts)
+**[500pts, 393comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (05:30: 493pts)
 - コメント数393に拡大継続。Fuyajo利用規約設計への示唆。
 
-**[197pts, 192comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft**
+**[197pts, 192comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ↑ (05:30: 154pts)
 - URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
 - 関連: AI / Legal / Platform Risk
 - 分析: AIによるコードの再実装がcopyleftを侵食するという論考。法的合法性と正当性の乖離を議論。OSSコミュニティにとって重大なテーマ。Falcon PlatformがOSSコンポーネントを利用する場合のライセンスリスクに関連。コメント192件と活発な議論。
 
-**[56pts, 43comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** ↑ (02:30: 11pts)
+**[56pts, 43comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** ↑ (05:30: 48pts)
 - URL: https://news.ycombinator.com/item?id=47311657
 - 関連: Falcon Platform / 直接競合
-- 分析: 02:30時点11ptsから56ptsに急上昇。YC W26バックのファイルシステムエージェント実行基盤。「Vercel for agents」ポジショニングはFuyajoと競合。スコア急上昇がコミュニティの関心を示す。詳細確認が必要。
+- 分析: スコア急上昇継続。YC W26バックのファイルシステムエージェント実行基盤。「Vercel for agents」ポジショニングはFuyajoと競合。詳細確認が必要。
 
 #### Medium Importance
 
-**[121pts, 168comments] Grammarly is offering 'expert' AI reviews from famous dead and living writers**
+**[121pts, 168comments] Grammarly is offering 'expert' AI reviews from famous dead and living writers** ↑ (05:30: 118pts)
 - URL: https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/
 - 関連: AI Product / LLM Application
 - 分析: 著名作家（存命・死者）のスタイルでAIレビュー提供。AI×著作権問題の実例。コメント168件。Chronicleの文体AIレビュー機能の参考にもなりうる。
@@ -230,12 +255,12 @@
 - 関連: VM Technology / Falcon Platform
 - 分析: Bellandのx86_64エミュレーション。ブラウザ内VM実行の可能性。Falcon PlatformのWebターミナル・VM技術の参考。技術的に興味深い進化。
 
-**[84pts, 42comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer** ↑ (02:30: 70pts)
+**[84pts, 42comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer** ↑ (05:30: 80pts)
 - エディタ統合エージェントツール需要継続。
 
 #### Low Importance
 
-**[22pts, 11comments] Code Review for Claude Code**
+**[22pts, 11comments] Code Review for Claude Code** ↑ (05:30: 11pts)
 - URL: https://claude.com/blog/code-review
 - 関連: Claude / Anthropic
 - 分析: AnthropicがClaude Codeのコードレビュー機能を公式紹介。Claude Code活用拡大の継続。
