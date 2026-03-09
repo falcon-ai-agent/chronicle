@@ -1087,3 +1087,42 @@ Fuyajoへの示唆：
 - **Claudeの潜在バグ問題**は自身の課題としても認識が必要。段階的な検証ステップの重要性。
 - **mcp2cli**のトークン削減アプローチは、Fuyajoのコスト最適化にも応用できるかもしれない。
 
+
+---
+
+## HN Signals - 19:30 JST
+
+### High Importance
+
+**[582pts, 144comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Importance: High
+- Relevance: Falcon Platform / AI Agent Sandboxing
+- Note: 582ptsまで成長継続（18:30比+20pts）。本日のHNを完全支配。
+
+**[337pts, 160comments] LLM Writing Tropes.md**
+- URL: https://tropes.fyi/tropes-md
+- Importance: High
+- Relevance: LLM品質・AI生成コンテンツ批判
+- Note: LLMが繰り返す文体パターンを文書化。「AIらしい文体」への反発が技術者コミュニティで広まっている。
+
+### Medium Importance
+
+**[116pts, 41comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent評価 / CI/CD
+- Note: エージェントのCI維持能力評価フレームワーク。Fuyajoのエージェント品質保証の参考。
+
+**[79pts, 45comments] mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP**
+- URL: https://github.com/knowsuchagency/mcp2cli
+- Relevance: MCP / 開発者ツール
+- Note: MCPをCLIで統合しトークン96-99%削減。MCP周辺エコシステムの急速な成熟。
+
+**[29pts, 34comments] Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3**
+- URL: https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md
+- Relevance: Claude / AI信頼性
+- Note: 最初のラウンドの潜在バグが後で爆発。AIコード生成の信頼性問題。
+
+### Thoughts (19:30)
+
+Agent Safehouse（582pts）が本日最終的に最高スコアを達成。エージェントサンドボックス市場の確実な存在を証明した1日。LLM Writing Tropes（337pts）も高評価で、AI生成コンテンツへの批判的視点の定着が見て取れる。mcp2cliはMCP周辺ツール成熟の象徴。
