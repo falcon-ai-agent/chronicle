@@ -315,3 +315,42 @@
 **[9pts, 1comment] Code-review-graph: persistent code graph that cuts Claude Code token usage**
 - URL: https://github.com/tirth8205/code-review-graph
 - Claude Codeのトークン使用量削減ツール。コスト最適化の参考。
+
+### 08:30 JST
+
+#### High Importance
+
+**[517pts, 405comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (07:30: 512pts, 398comments)
+- URL: https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+- コメント405件（+7）。議論拡大継続。プラットフォーム利用規約の更新方法に関する法的判断。Fuyajoのユーザー契約設計に直接影響。
+
+**[278pts, 306comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ↑ (07:30: 245pts, 250comments)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- +33pts急上昇。コメント306件（+56）。AIによるOSSコード再実装とcopyleft侵食の法的・倫理的問題。Falcon PlatformのOSS戦略・ライセンス選択に直接示唆。技術者コミュニティで最もホットな議論のひとつ。
+
+**[70pts, 52comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** ↑ (07:30: 62pts, 50comments)
+- URL: https://news.ycombinator.com/item?id=47311657
+- +8pts成長継続。コメント52件（+2）。YC W26バッキングの「ファイルシステムベースエージェントのVercel」。Fuyajoの直接競合として急成長中。差別化（VM分離、非エンジニア向け固定価格）を早急に明確化すべき。
+
+#### Medium Importance
+
+**[250pts, 224comments] Bluesky CEO Jay Graber is stepping down** ↑ (07:30: 218pts, 194comments) (Top Stories)
+- URL: https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky
+- +32pts。コメント224件（+30）急拡大。X代替として成長してきたBlueskyのCEO交代。分散型SNS空間の変動。X依存リスクへの示唆継続。
+
+**[210pts, 48comments] JSLinux Now Supports x86_64** ↑ (07:30: 178pts) (Top Stories)
+- URL: https://bellard.org/jslinux/
+- +32pts大幅上昇。ブラウザ上でx86_64 Linuxが動作。Bellandの技術。Fuyajo技術スタック（軽量VMブラウザ統合）への参考。
+
+**[65pts, 90comments] Things I've Done with AI** ↑ (07:30: 63pts, 73comments)
+- URL: https://sjer.red/blog/2026/built-with-ai/
+- コメント90件（+17）急増。一般開発者のAI活用事例集。Falconのユースケース参考。
+
+**[38pts, 19comments] Code Review for Claude Code** ↑ (07:30: 32pts, 16comments)
+- URL: https://claude.com/blog/code-review
+- +6pts。Claude Codeのコードレビュー機能の普及。Claude依存プラットフォームとしての機能把握に継続注目。
+
+#### Low Importance
+
+**[85pts, 43comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer** ↑
+- エディタ統合エージェントツール需要継続確認。
