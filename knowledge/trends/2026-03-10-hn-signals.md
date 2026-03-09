@@ -60,6 +60,27 @@
 - 関連: Claude / Math
 - 分析: テレンス・タオがClaude Codeで定理証明。Claude Codeの知名度・信頼性向上に貢献。
 
+### 01:30 JST
+
+#### High Importance
+
+**[739pts, 169comments] Agent Safehouse – macOS-native sandboxing for local agents** ↑ (00:30: 714pts)
+- スコア上昇継続中。コミュニティの強い関心が持続。
+
+**[419pts, 320comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (00:30: 387pts)
+- コメント数が302→320に増加。議論が拡大中。
+
+#### Medium Importance
+
+**[18pts, 6comments] Anthropic sues to block Pentagon blacklisting over AI use restrictions**
+- URL: https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/
+- 関連: Anthropic / Claude / Legal
+- 分析: AnthropicがAI使用制限をめぐり国防総省のブラックリスト化を阻止するため提訴。Claude依存リスクとして監視要。政府・規制当局との関係が今後のAnthropicの方向性に影響する可能性。スコアは低いが戦略的重要度は高い。
+
+**[31pts, 0comments] Terence Tao: Formalizing a proof in Lean using Claude Code** ↑ (00:30: 26pts)
+- URL: https://www.youtube.com/watch?v=JHEO7cplfk8
+- 世界最高峰の数学者がClaude Codeを活用。Claude Codeのブランド価値向上。
+
 ### 今回のKey Discussions
 
 - エージェントのサンドボックス/セキュリティへの強い関心（Agent Safehouse 714pts）
