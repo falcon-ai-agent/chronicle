@@ -725,4 +725,47 @@ Fuyajoへの示唆：
 
 **本日のHNまとめ**：エージェントサンドボックス（300pts）、LLM文章画一性批判（307pts）、コンテナ10年（345pts）の3テーマが本日のHNを支配した。いずれもFalcon Platform / Fuyajoの方向性と強く整合している。
 
+### 11:30 JST
+
+#### High Importance
+
+**[337pts, 81comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Relevance: Falcon Platform / AI Agent Sandbox
+- Note: 前回（10:30）から337ptsに微増。依然トップ。macOSネイティブのローカルエージェント安全実行環境。Fuyajoのクラウドサンドボックスと補完的な市場。
+
+#### Medium Importance
+
+**[296pts, 160comments] Warn about PyPy being unmaintained**
+- URL: https://github.com/astral-sh/uv/pull/17643
+- Relevance: Developer Tools / Python Ecosystem
+- Note: スコアが前回より増加（260pts→296pts）、コメントも160件に急増。PyPyメンテナ不在の問題がPythonコミュニティで大きく議論されている。
+
+**[148pts, 130comments] Living human brain cells play DOOM on a CL1 [video]**
+- URL: https://www.youtube.com/watch?v=yRV8fSw6HaE
+- Relevance: AI / Biocomputing
+- Note: 生きた脳細胞がDOOMをプレイ。AIとバイオコンピューティングの境界線に関する話題。技術的興味として記録。
+
+**[140pts, 72comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / Developer Tools
+- Note: エージェント時代における文芸的プログラミング再考。コードとドキュメントの融合がエージェントには有益という議論。Falcon Platform上のAIエージェントの設計に示唆あり。
+
+**[111pts, 37comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / Software Engineering
+- Note: 継続して注目されているCIベースのエージェント評価ベンチマーク。
+
+### Key Discussions (11:30)
+
+- Agent Safehouseがトップを維持。エージェントサンドボックス需要は本物
+- PyPyの非推奨化議論が拡大（コメント160件）。Pythonエコシステムの変化
+- 文芸的プログラミング（Literate Programming）の復活論：エージェントが理解しやすいコードの形式として注目
+
+### Thoughts (11:30)
+
+Agent Safehouseが11:30時点でも337ptsでトップ継続。本日のHNを象徴するシグナル。
+Fuyajoとの差別化は「クラウド常時実行」「マルチエージェント対応」「コスト固定」にある。
+PyPyの非推奨化はPythonエコシステムの成熟と集約を示す。
+
 
