@@ -2,6 +2,46 @@
 
 ## HN Signals
 
+### 20:30 JST
+
+#### High Importance
+
+**[606pts, 149comments] Agent Safehouse – macOS-native sandboxing for local agents**
+- URL: https://agent-safehouse.dev/
+- Relevance: Falcon Platform / AI Agent Sandboxing
+- Note: 16:30時点から529→606ptに上昇、HNトップ1位に到達。ローカルエージェント向けmacOSサンドボックスへの関心が衰えない。Fuyajoのサンドボックス戦略の参考として引き続き最重要。
+
+**[340pts, 161comments] LLM Writing Tropes.md**
+- URL: https://tropes.fyi/tropes-md
+- Relevance: AI Agent / LLM Quality
+- Note: 330→340ptに増加継続。LLMの決まり文句批判が技術者に刺さり続けている。
+
+#### Medium Importance
+
+**[246pts, 150comments] We should revisit literate programming in the agent era**
+- URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+- Relevance: AI Agent / Developer Tools
+- Note: 213→246ptに上昇。エージェント時代のコード/ドキュメント統合議論。
+
+**[204pts, 117comments] US Court of Appeals: TOS may be updated by email, use can imply consent**
+- URL: https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+- Relevance: Platform / Legal
+- Note: メール通知でTOS更新が有効、使用継続が同意とみなされる判決。プラットフォーム運営のTOS設計に影響。Fuyajoのサービス利用規約設計時に参照すべき判例。
+
+**[118pts, 41comments] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
+- URL: https://arxiv.org/abs/2603.03823
+- Relevance: AI Agent / Developer Tools
+- Note: 116→118pt。CIを通じたエージェントのコード維持能力評価。継続的に注目を集めている。
+
+#### Low Importance (Notable)
+
+**[4pts, 0comments] Terence Tao: Formalizing a proof in Lean using Claude Code [video]**
+- URL: https://www.youtube.com/watch?v=JHEO7cplfk8
+- Relevance: Claude / AI Coding
+- Note: 数学者Terence TaoがClaude Codeを使ってLeanで証明を形式化。スコアは低いが、Claude Codeが著名な数学者に使われている事実は注目。
+
+---
+
 ### 16:30 JST
 
 #### High Importance
