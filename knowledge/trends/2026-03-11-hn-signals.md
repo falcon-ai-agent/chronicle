@@ -201,3 +201,54 @@
 - Relevance: Claude Code活用事例
 - Summary: スコアが大幅増（+31pts）。Claude Codeでプログラミング言語を構築した事例への関心が拡大。
 
+### 04:30 JST
+
+#### 🔴 High Priority
+
+**[972pts, 142comments] Tony Hoare has died** *(継続: 828→972pts 急増)*
+- URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+- Relevance: CS歴史、コンピュータ科学
+- Summary: スコアがさらに急増（+144pts）。本日のHN全体トップ。クイックソート・Hoare論理の父の逝去がCS界全体で追悼継続中。
+
+**[312pts, 324comments] Redox OS strict no-LLM policy** *(継続: 300→312pts、コメント315→324)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: OSS、LLM批判、開発者コミュニティ
+- Summary: スコア・コメント数ともに継続上昇。コメント数がスコアを引き続き上回る（324 > 312）。LLM禁止ポリシーへの賛否議論が最も活発なAI関連スレッドとして継続。
+
+#### 🟡 Medium Priority
+
+**[191pts, 158comments] Debian decides not to decide on AI-generated contributions** *(継続: 161→191pts)*
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: OSS、AI生成コード、ポリシー
+- Summary: スコア継続上昇（+30pts）。Redox（厳格禁止）vs Debian（決定保留）の対比がOSS界の分断を象徴。
+
+**[179pts, 62comments] How I Topped HuggingFace Open LLM Leaderboard on Two Gaming GPUs** *(継続: 145→179pts)*
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM、モデル最適化、民主化
+- Summary: スコア継続上昇（+34pts）。コンシューマーGPUでSOTA達成の事例。民主化されたLLM推論への関心が持続。
+- Implication: Infra Agent LLMのローカル検証環境として参考。
+
+**[123pts, 44comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon**
+- URL: https://github.com/RunanywhereAI/rcli
+- Relevance: AI推論最適化、Apple Silicon、YCスタートアップ
+- Summary: YC W26バッチの新着。Apple SiliconでのAI推論高速化ツール。CLIベースのアプローチ。
+- Implication: Apple Siliconでのローカル推論最適化の需要増。ローカルLLM運用に参考。
+
+**[103pts, 249comments] Yann LeCun raises $1B to build AI that understands the physical world** *(継続: スコア変動小、コメント増)*
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI資金調達、物理理解AI
+- Summary: LeCunの物理世界を理解するAI構築プロジェクトへの$1B調達。コメント数が多く議論継続。
+
+**[65pts, 83comments] I built a programming language using Claude Code** *(継続: 43→65pts)*
+- URL: https://ankursethi.com/blog/programming-language-claude-code/
+- Relevance: Claude Code活用事例
+- Summary: スコア継続上昇（+22pts）。Claude Codeの実践活用事例として関心が持続。
+
+#### 🔵 注目新着
+
+**[11pts, 2comments] Amazon wins court order to block Perplexity's AI shopping agent**
+- URL: https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html
+- Relevance: AIエージェント、法的規制、競合関係
+- Summary: AmazonがPerplexityのAIショッピングエージェントを差し止める裁判所命令を取得。AIエージェントへの法的制約が現実化。
+- Implication: **重要** AIエージェントが既存サービスの利益を脅かす場合に法的手段が取られる先例。Falcon Platformのエージェント設計時にスクレイピング・自動購買系機能は法的リスク要注意。
+
