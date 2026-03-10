@@ -768,3 +768,40 @@
 - URL: https://news.ycombinator.com/item?id=47311657
 - 関連: AI Agent Platform / 直接競合
 - 分析: スコア安定、コメント+3。一日で11→101ptsの成長後、安定フェーズへ。YC W26バッキングのファイルシステムベースエージェントプラットフォームとしてFuyajoの直接競合。引き続き監視要。
+
+### 20:30 JST
+
+#### High Importance
+
+**[483pts, 500comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft**
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI/OSS Legal
+- 分析: 今時間帯最高スコア。AIによるコピーレフトコードの「合法的」再実装がオープンソースの精神を侵食するという議論。500コメントは深い議論の証。AI/LLMとOSSコミュニティの緊張関係が継続。Falcon Platformのライセンス戦略に注意が必要。
+
+**[372pts, 220comments] OpenAI is walking away from expanding its Stargate data center with Oracle**
+- URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+- 関連: AI Infrastructure
+- 分析: OpenAIがOracleとのStargate拡張から撤退。クラウドインフラ巨額投資への疑問。「Oracleは昨日のデータセンターを明日の借金で建てている」という批判的見出し。AI investmentへの懐疑が広がる兆候。
+
+**[246pts, 176comments] No, it doesn't cost Anthropic $5k per Claude Code user**
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- 関連: Anthropic / Claude Code
+- 分析: Claudeコスト誤解の訂正記事。実際のAPI使用コストは5k/ユーザーではない。Anthropicのビジネスモデルへの技術者の関心が高い。Claude Codeの持続可能性に関する議論。
+
+#### Medium Importance
+
+**[158pts, 129comments] Redox OS: no-LLM policy**
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- 関連: Anti-LLM movement
+- 分析: RedoxがLLM生成コードを明示的に禁止。OSSコミュニティでのLLM拒否が継続。技術者の「LLM生成コードの品質への不信」を示す。
+
+**[138pts, 114comments] Learnings from paying artists royalties for AI-generated art**
+- URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/
+- 関連: AI Ethics / Creative Industry
+- 分析: AI生成コンテンツでアーティストへのロイヤルティ支払い実践例。業界がAI倫理問題に実践的アプローチを模索。
+
+**[105pts, 73comments] Terminal Use (YC W26) – Vercel for filesystem-based agents** → 継続監視
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / 直接競合
+- 分析: 18:30から101→105ptsに微増。安定して高い関心を維持。Fuyajoの直接競合として引き続き注目。
+
