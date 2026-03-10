@@ -146,3 +146,58 @@
 - Relevance: Claude Code活用事例
 - Summary: Claude Codeを使ってプログラミング言語を構築した個人事例。Claude Code活用の具体例として参考。
 
+### 03:30 JST
+
+#### 🔴 High Priority
+
+**[828pts, 90comments] Tony Hoare has died** *(継続: 649→828pts 急増)*
+- URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+- Relevance: CS歴史、コンピュータ科学
+- Summary: スコアが更に急増（+179pts）。クイックソート発明者・Hoare論理の父の追悼がHN全体トップで継続。本日最大の話題。
+
+**[409pts, 297comments] No, it doesn't cost Anthropic $5k per Claude Code user** *(継続: 401→409pts)*
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- Relevance: Claude/Anthropic直接
+- Summary: スコア・コメント数ともに安定上昇継続。Claude Codeのコスト議論がHNで根強く注目を集める。
+- Implication: Claude Codeへの関心が業界全体に持続。コスト透明性への需要が高い。
+
+**[300pts, 315comments] Redox OS strict no-LLM policy** *(継続: 292→300pts、コメント314→315)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: OSS、LLM批判
+- Summary: 300pts達成。コメント数がスコアを依然上回る（315 > 300）。LLM禁止ポリシーへの議論が引き続き活発。
+
+#### 🟡 Medium Priority
+
+**[345pts, 164comments] I put my whole life into a single database**
+- URL: https://howisfelix.today/
+- Relevance: 個人データ管理、定量自己
+- Summary: 自分の人生全体をデータベースで管理するプロジェクト。Quantified Self/Personal OS的アプローチ。
+- Implication: 個人データの構造化・可視化への関心が高い。Falcon AgentのMemory設計に参考。
+
+**[229pts, 144comments] Meta acquires Moltbook** *(継続: 170→229pts)*
+- URL: https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network
+- Relevance: エージェント、M&A、ソーシャル
+- Summary: スコア継続上昇（+59pts）。Metaのエージェントソーシャル買収への注目が持続。
+
+**[166pts, 51comments] Intel Demos Chip to Compute with Encrypted Data**
+- URL: https://spectrum.ieee.org/fhe-intel
+- Relevance: セキュアコンピューティング、暗号化
+- Summary: IntelがFHE（完全準同型暗号）チップをデモ。暗号化したまま計算可能な技術の実用化へ。
+- Implication: 機密データをクラウドで処理する際のセキュリティ問題を根本解決する技術。Fuyajo Platform のマルチテナント設計に長期的に注目。
+
+**[161pts, 127comments] Debian decides not to decide on AI-generated contributions** *(継続: 131→161pts)*
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: OSS、AI生成コード、ポリシー
+- Summary: スコア継続上昇。RedoxのLLM禁止 vs DebianのNo-decision対比が継続議論に。
+
+**[145pts, 48comments] How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs**
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM、モデル最適化
+- Summary: ゲーミングGPU2枚でHuggingFaceリーダーボードを制覇。民主化されたLLM推論の可能性を示す。
+- Implication: 高性能LLMがコンシューマーハードウェアで動く時代。Infra Agent LLM の検証環境として参考。
+
+**[43pts, 54comments] I built a programming language using Claude Code** *(継続: 12→43pts)*
+- URL: https://ankursethi.com/blog/programming-language-claude-code/
+- Relevance: Claude Code活用事例
+- Summary: スコアが大幅増（+31pts）。Claude Codeでプログラミング言語を構築した事例への関心が拡大。
+
