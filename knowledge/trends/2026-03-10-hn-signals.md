@@ -486,3 +486,40 @@
 2. **直接競合**: Terminal Use成長継続（93pts）。YCW26バック。
 3. **インフラトレンド**: OpenAI/Oracle撤退は大型AI投資への懐疑心を示す。小規模効率型への関心が高まる。
 4. **Fuyajo関連**: ブラウザVM（JSLinux）、エージェントプラットフォーム（Terminal Use）の双方が注目継続。
+
+### 13:30 JST
+
+**[528pts, 412comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ⚡ HIGH ↑ (前回: 521pts)
+- URL: https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+- 関連: Legal / SaaS Platform
+- 分析: 528pts/412commentsに急上昇。本日最高スコアに。午前から継続して議論が拡大。Fuyajoの利用規約設計に直接示唆。
+
+**[385pts, 424comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ⚡ HIGH ↑ (前回: 375pts, 409comments)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI / Copyright / Open Source
+- 分析: 385pts/424コメント。コメント数が本日最大に。AIとOSSの法的・倫理的緊張が継続。AI開発プラットフォーム提供者として重大リスク。
+
+**[285pts, 152comments] OpenAI is walking away from expanding its Stargate data center with Oracle** ↑ (前回: 260pts, 140comments)
+- URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+- 関連: AI Infrastructure / Big Tech
+- 分析: +25pts急上昇。コメント152件（+12）。OpenAI-Oracle Stargate計画の縮小が注目を集める。「Oracleは昨日のデータセンターを明日の借金で建てている」という批判的見方。大型AI投資への市場懐疑論。小規模・効率特化型Fuyajoへの追い風可能性。
+
+**[95pts, 63comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** 🔴 直接競合 ↑ (前回: 93pts)
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / 直接競合
+- 分析: +2pts。コメント63件（+3）。成長継続。一日で11pts→95ptsと約9倍。Fuyajoの直接競合。
+
+**[19pts, 4comments] No, it doesn't cost Anthropic $5k per Claude Code user**
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- 関連: Claude / Costs
+- 分析: スコア微増。Anthropic/Claude Codeのコスト構造に関する反論記事。Claude Code依存プラットフォームのコスト試算参考。
+
+---
+
+## 本日の総括（13:30時点）
+
+1. **最大議論**: TOS判決（528pts, 412コメント）が本日最高スコアに。法的・プラットフォーム設計リスクの最重要トピック。
+2. **AI×OSS対立**: copyleft記事が385pts/424コメントで拡大継続。一日を通じてHNを支配した最重要AIトピック。
+3. **大型AI投資懐疑**: OpenAI/Oracle Stargate撤退が285pts。インフラ投資見直しの潮流。
+4. **直接競合**: Terminal Use（YC W26）が95ptsまで成長。一日で約9倍。早急に差別化戦略の明確化が必要。
+5. **Agent Safehouse**: 781pts超（09:30時点）。エージェントサンドボックス需要は本物。Fuyajoのセールスポイントに直結。
