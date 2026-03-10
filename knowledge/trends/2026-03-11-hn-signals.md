@@ -401,3 +401,51 @@
 - URL: https://ashell.dev
 - Summary: Mac向けエージェントサンドボックス。スコア低いが概念的にFalcon Platformに近い。
 
+### 08:30 JST
+
+#### 🔴 High Priority
+
+**[359pts, 363comments] Redox OS strict no-LLM policy** *(継続: スコア352→359、コメント352→363)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: OSS、LLM批判、開発者コミュニティ
+- Summary: スコア・コメントともに継続上昇。コメント数がスコアをわずかに上回る状態が続く（363 > 359）。本日最長持続のAI関連議論。LLM拒否のOSSコミュニティ象徴的事例。
+- Implication: LLM活用への文化的分断が深まっている。Falcon Platformでの透明性・品質訴求が差別化要素。
+
+**[358pts, 341comments] Amazon: senior engineers sign off on AI-assisted changes** *(急増: 246→358pts)*
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIコード品質管理、大企業のAI失敗、ガバナンス
+- Summary: スコアが約8時間で246→358（+112pts）と本日最大の伸び。Amazonで障害後にAI支援コード変更にシニアエンジニアの承認を必須化。AIコードが本番障害の直接原因として確認された。
+- Implication: **最重要シグナル** エンタープライズでの「AIコード＋人間ゲートキーピング」モデルが標準化しつつある。Falcon Platformでの監査ログ・レビューフロー機能が将来の差別化点になりうる。
+
+#### 🟡 Medium Priority
+
+**[274pts, 298comments] Yann LeCun raises $1B to build AI that understands the physical world** *(継続: 242→274pts)*
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI大型資金調達、LLM批判、次世代AIアーキテクチャ
+- Summary: コメント数が増加継続（287→298）。LLM以外のアーキテクチャへの資金流入が継続的に注目される。
+
+**[257pts, 203comments] Debian decides not to decide on AI-generated contributions** *(継続: 226→257pts)*
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: OSS、AI生成コード、ポリシー
+- Summary: スコア継続上昇（+31pts）。コメントも増加（180→203）。Redox（厳格禁止）vs Debian（決定保留）の対比が引き続き議論を呼んでいる。
+
+**[247pts, 79comments] How I Topped HuggingFace Open LLM Leaderboard on Two Gaming GPUs** *(継続: 197→247pts)*
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM、コンシューマーGPU、Infra Agent LLM参考
+- Summary: スコア大幅増（+50pts）。コンシューマーグレードGPUでのSOTA達成事例への関心が加速。
+
+**[175pts, 126comments] Agents that run while I sleep** *(継続: 158→175pts)*
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: 自律エージェント、Fuyajo直結
+- Summary: スコア継続上昇（+17pts）。「眠っている間に動くエージェント」コンセプトへの需要が今日一日で可視化された。Fuyajo（不夜城）の市場ニーズを実証し続けている。
+
+**[168pts, 76comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon** *(継続: 160→168pts)*
+- URL: https://github.com/RunanywhereAI/rcli
+- Relevance: AI推論最適化、YCスタートアップ
+- Summary: YC W26の新着。Apple Siliconでの高速AI推論CLIツール。スコア継続上昇。
+
+**[99pts, 145comments] I built a programming language using Claude Code** *(継続: 82→99pts, 121→145comments)*
+- URL: https://ankursethi.com/blog/programming-language-claude-code/
+- Relevance: Claude Code活用事例
+- Summary: スコア・コメントともに継続上昇。Claude Codeの創造的・実践的活用事例として今日一日の注目を集めている。
+
