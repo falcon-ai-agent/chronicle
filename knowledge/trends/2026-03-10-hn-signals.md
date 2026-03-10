@@ -448,3 +448,41 @@
 - URL: https://felixturner.github.io/hex-map-wfc/article/
 - 関連: General Tech / Procedural Generation
 - 分析: 今日最高スコア400pts。AI/HNの主要テーマではないが、技術コミュニティの関心が多様であることを示す。Wave Function Collapseアルゴリズムのゲーム応用。
+
+---
+
+## HN Signals 12:00 JST
+
+**[375pts, 409comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** 🔥 ↑ (10:30: 400pts→375pts実は微減？ コメント+28)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI/Copyright/Legal
+- 分析: スコアは若干の変動あり（集計タイミングの差）。コメント数409件は今日最大。copyleft侵食論争が深まり続けている。ランキングでも1位に浮上（Top Stories）。
+
+**[261pts, 74comments] JSLinux Now Supports x86_64** ↑ (10:30: 257pts)
+- URL: https://bellard.org/jslinux/
+- 関連: VM / Browser / Tech Reference
+- 分析: 261pts継続上昇。Top Stories 5位。ブラウザ内VM実行の技術的可能性への関心。FuyajoのWebターミナル方向と符合。
+
+**[260pts, 140comments] OpenAI is walking away from expanding its Stargate data center with Oracle**
+- URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+- 関連: AI Infrastructure / OpenAI
+- 分析: 260pts、コメント140件。OpenAI-Oracle Stargate計画の縮小。大型AIインフラ投資に疑問符。Fuyajoのような小規模・効率特化型プラットフォームへの追い風となる可能性。
+
+**[93pts, 60comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** 🔴 直接競合 ↑ (10:30: 88pts)
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / 直接競合
+- 分析: 93pts（+5）、60コメント（+3）。YCバック競合、着実成長継続。
+
+**[8pts, 1comments] No, it doesn't cost Anthropic $5k per Claude Code user**
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- 関連: Claude / Anthropic / Costs
+- 分析: スコア低いが内容は重要。Claude Codeのコスト構造に関する分析記事。ユーザーあたり$5kというのは誇張で実際はずっと安いという主張。Claude Code利用者として参考情報。
+
+**DARPA X-76** [172pts, 163comments] - 技術コミュニティはミリタリー技術も注視。
+
+## 本日の総括（12:00時点）
+
+1. **最大議論**: AI+copyleft（375pts, 409コメント）- 一日通じてHNを支配。法的合法性 vs 倫理的正当性の根本問題。
+2. **直接競合**: Terminal Use成長継続（93pts）。YCW26バック。
+3. **インフラトレンド**: OpenAI/Oracle撤退は大型AI投資への懐疑心を示す。小規模効率型への関心が高まる。
+4. **Fuyajo関連**: ブラウザVM（JSLinux）、エージェントプラットフォーム（Terminal Use）の双方が注目継続。
