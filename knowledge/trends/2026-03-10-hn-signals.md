@@ -730,3 +730,41 @@
 4. **大型AI投資懐疑**: OpenAI/Oracle Stargate撤退345pts。大型投資より効率重視の流れが定着。
 5. **OSSのAI反発**: Redox OS no-LLM policy。copyleft議論と連動したOSSコミュニティの組織的反発。
 6. **Yann LeCun $1B**: 物理世界理解AI。LLM以外のアプローチへの大型投資という長期トレンドシグナル。
+
+---
+
+### 19:30 JST
+
+#### High Importance
+
+**[467pts, 491comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ↑ (18:30: 455pts, 481コメント)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: OSS / AI Policy / Legal
+- 分析: +12pts、+10コメント。終日HN最大議題として継続成長。著作権・copyleftの侵食議論は夜間も衰えず。AIコード生成の正当性問題が技術者コミュニティの核心的懸念として定着。
+
+**[356pts, 210comments] OpenAI is walking away from expanding its Stargate data center with Oracle** ↑ (18:30: 345pts)
+- URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+- 関連: AI Infrastructure / Big Tech
+- 分析: +11pts継続成長。OpenAI/Oracle間の大型インフラ計画が頓挫。「今日のデータセンターを明日の借金で建設する」という批判的タイトルが効いている。大規模投資より効率重視の流れを示す強いシグナル。
+
+**[227pts, 161comments] No, it doesn't cost Anthropic $5k per Claude Code user** ↑ (18:30: 200pts)
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- 関連: Anthropic / Claude Code / Business Model
+- 分析: +27pts（本日最大の急伸継続）。夕方以降も成長が加速。Claude Codeのコスト構造に関する技術者の強い関心が持続。Anthropicのビジネスモデルへの注目度が高いことを示す。
+
+#### Medium Importance
+
+**[134pts, 109comments] Learnings from paying artists royalties for AI-generated art** ↑ (18:30: 129pts)
+- URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/
+- 関連: AI Ethics / Copyright / Business Model
+- 分析: +5pts、コメント109件。copyleft議論と連動しAI生成コンテンツへの報酬問題への関心継続。
+
+**[102pts, 75comments] Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy** 🔴 急伸 ↑ (18:30: 40pts, 16コメント)
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- 関連: OSS / AI Policy
+- 分析: **+62ptsの急激なスパイク**。18:30から19:30の1時間で40→102ptと2.5倍成長。Rustで書かれたOSプロジェクトがLLM生成コード禁止方針を採択。copyleft議論と連動し夜間に拡散加速。OSSコミュニティのAI反発が組織化されつつあることを示す重要シグナル。
+
+**[101pts, 74comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** → 安定 (18:30: 101pts, 71コメント)
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / 直接競合
+- 分析: スコア安定、コメント+3。一日で11→101ptsの成長後、安定フェーズへ。YC W26バッキングのファイルシステムベースエージェントプラットフォームとしてFuyajoの直接競合。引き続き監視要。
