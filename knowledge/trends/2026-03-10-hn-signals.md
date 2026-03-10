@@ -354,3 +354,48 @@
 
 **[85pts, 43comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer** ↑
 - エディタ統合エージェントツール需要継続確認。
+
+### 09:30 JST
+
+#### High Importance
+
+**[781pts, 174comments] Agent Safehouse – macOS-native sandboxing for local agents** ↑ (08:30: 769pts)
+- URL: https://agent-safehouse.dev/
+- 関連: Falcon Platform / Agent Sandboxing
+- 分析: +12pts継続上昇。コメント174件（+1）。ほぼ24時間以上にわたり最高スコアを維持。エージェントサンドボックス需要の根強さを証明。Falcon Platform（Fuyajo）のVM分離・サンドボックス機能は市場ニーズに合致。
+
+**[311pts, 349comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ↑ (08:30: 278pts, 306comments)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI / Legal / OSS
+- 分析: +33pts急上昇。コメント349件（+43）。AIによるOSSコード再実装とcopyleft侵食の議論が一日中継続。300pt突破。Falcon PlatformのOSSライセンス戦略に直接影響。
+
+**[78pts, 54comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** ↑ (08:30: 70pts, 52comments)
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: Falcon Platform / 直接競合
+- 分析: +8pts成長継続。コメント54件（+2）。YC W26バッキングで「ファイルシステムベースエージェントのVercel」。一日で11pts→78ptsと急成長。Fuyajoの最重要競合として監視継続。
+
+#### Medium Importance
+
+**[519pts, 407comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ↑ (08:30: 517pts, 405comments)
+- URL: https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+- 安定推移（+2pts）。コメント407件（+2）。プラットフォーム利用規約設計への示唆継続。
+
+**[227pts, 64comments] JSLinux Now Supports x86_64** ↑ (08:30: 210pts)
+- URL: https://bellard.org/jslinux/
+- +17pts大幅上昇。ブラウザ内x86_64 Linux実行。Fuyajoのブラウザベース軽量VM方向への技術参考継続。
+
+**[205pts, 50comments] Sir Tony Hoare has died** NEW
+- URL: http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html
+- 関連: CS History / Notable Death
+- 分析: C.A.R.ホーアが死去。クイックソート、Hoare logic、CSP（並行プロセス代数）の創案者。コンピュータサイエンスの巨人。技術コミュニティへの影響大。「Can a computer think?」の問いで知られ、ソフトウェア正確性への哲学は今日のAI安全性議論にも通ずる。
+
+**[87pts, 43comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer** ↑ (08:30: 85pts)
+- エディタ統合エージェントツール需要継続。
+
+**[86pts, 45comments] Revealed: UK's multibillion AI drive is built on 'phantom investments'** ↑ (03:30: 60pts)
+- URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments
+- 大幅上昇。AIハイプと実態のギャップが引き続き議論を呼ぶ。投資家・スタートアップ資金調達環境への示唆。
+
+**[44pts, 25comments] Code Review for Claude Code** ↑ (08:30: 38pts, 19comments)
+- URL: https://claude.com/blog/code-review
+- +6pts。コメント25件（+6）。Claude Codeのコードレビュー機能拡充。Claude依存プラットフォームとしての機能把握継続。
