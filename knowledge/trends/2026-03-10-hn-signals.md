@@ -399,3 +399,26 @@
 **[44pts, 25comments] Code Review for Claude Code** ↑ (08:30: 38pts, 19comments)
 - URL: https://claude.com/blog/code-review
 - +6pts。コメント25件（+6）。Claude Codeのコードレビュー機能拡充。Claude依存プラットフォームとしての機能把握継続。
+
+### 10:30 JST
+
+**[521pts, 408comments] US Court of Appeals: TOS may be updated by email, use can imply consent** ⚡ HIGH
+- URL: https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+- 関連: Legal / SaaS Platform
+- 分析: 521pts/408commentsで最高スコア。メールによるTOS更新が有効、継続利用が同意とみなされる判決。Fuyajoのような有料SaaSプラットフォームには直接影響。利用規約変更時の通知方法・手続きを設計段階から考慮必要。HNコミュニティの反応は批判的で「企業寄り」との声が多数予想される。
+
+**[337pts, 365comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ⚡ HIGH
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI / Copyright / Open Source
+- 分析: 337pts/365comments。AIによるオープンソースコードの再実装とcopyleftの侵食に関する議論。法的には合法だが正当かという問い。AI訓練データ問題の延長線上にあり、オープンソースコミュニティとAI企業の対立が激化中。Falcon PlatformがAIツールを提供する立場として、この法的グレーゾーンの動向を把握必須。
+
+**[82pts, 55comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** 🔴 直接競合
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / Developer Tools / 直接競合
+- 分析: YC W26バッチ。「Vercel for filesystem-based agents」という表現はFuyajoの「開発者向けAIエージェント実行環境」と完全に重なる。コメント55件で議論活発。資金力（YC $500k）と認知度で強力な競合になる可能性。差別化ポイント（固定価格、非エンジニア向け、ノーコード）を明確にする必要性が増した。
+
+**[237pts, 69comments] JSLinux Now Supports x86_64** ↑ (08:30: 227pts)
+- +10pts上昇継続。ブラウザ内x86_64 Linux実行。技術参考。
+
+**[87pts, 43comments] VS Code Agent Kanban** ↑ (08:30: 87pts)
+- スコア横ばい。エージェント向けタスク管理ツール需要を示す。
