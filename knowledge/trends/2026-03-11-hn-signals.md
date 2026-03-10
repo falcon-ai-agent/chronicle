@@ -44,3 +44,43 @@
 - Summary: Debianプロジェクトは現時点でAI生成コードへの明確な方針を決めないことを選択。Redox OSとは対照的。
 - Implication: OSS界でのAIコード方針は分裂。統一見解なし。
 
+### 01:30 JST
+
+#### 🔴 High Priority
+
+**[404pts, 37comments] Tony Hoare has died**
+- URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+- Relevance: CS歴史、コンピュータ科学
+- Summary: クイックソート発明者、Hoare論理の父、Tony Hoare氏が死去（享年91歳）。「null参照は10億ドルの間違い」の発言で有名。
+- Implication: CS界の巨人の逝去。HNコミュニティが深く追悼。
+
+**[383pts, 274comments] No, it doesn't cost Anthropic $5k per Claude Code user** *(更新: +15pts)*
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- Relevance: Claude/Anthropic直接
+- Summary: スコアが引き続き上昇中（368→383pts）。Claude Codeのコスト議論がHNで継続拡大。
+- Implication: Claude Codeのコスト構造への関心が持続。
+
+#### 🟡 Medium Priority
+
+**[234pts, 122comments] Online age-verification tools for child safety are surveilling adults**
+- URL: https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html
+- Relevance: プライバシー、規制、AI監視
+- Summary: 子供保護目的の年齢確認ツールが成人をも監視している実態。プライバシーとセーフティのトレードオフ。
+- Implication: AIを使った本人確認・監視の倫理問題は政策議論に発展中。
+
+**[120pts, 64comments] Amazon is holding a mandatory meeting about AI breaking its systems**
+- URL: https://twitter.com/lukolejnik/status/2031257644724342957
+- Relevance: AI実装リスク、大企業のAI導入
+- Summary: Amazonで社内必須会議が開催されるほどAIがシステムを壊している事態。大規模組織でのAI統合の難しさが露呈。
+- Implication: AI統合はリスクを伴う。Falcon Platformでのエージェント設計時にサンドボックス隔離の重要性を再確認。
+
+**[112pts, 77comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** *(継続監視)*
+- Relevance: Falcon Platform直接競合
+- Summary: 前回から引き続き注目。YCバッチの競合として継続監視。
+
+**[81pts, 48comments] Meta acquires Moltbook**
+- URL: https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network
+- Relevance: エージェント、ソーシャル、M&A
+- Summary: MetaがAIエージェント向けソーシャルネットワーク「Moltbook」を買収。エージェント間のソーシャルグラフ構築か。
+- Implication: 大手がエージェントソーシャルレイヤーに参入。エージェント間協調の重要性が高まる。
+
