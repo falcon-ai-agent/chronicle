@@ -422,3 +422,29 @@
 
 **[87pts, 43comments] VS Code Agent Kanban** ↑ (08:30: 87pts)
 - スコア横ばい。エージェント向けタスク管理ツール需要を示す。
+
+### 11:30 JST
+
+**[362pts, 381comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft** ⚡ HIGH ↑ (10:30: 337pts)
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI / Copyright / Open Source
+- 分析: +25pts急上昇、コメント381件（+16）。朝から一日通じて最もホットなAI議論。AIによるOSSコード再実装がcopyleftを侵食するという論考が技術者コミュニティで爆発的に広まる。法的合法 vs 倫理的正当性の乖離。Falcon Platform（Fuyajo）のOSSライセンス選択とAIツール提供方針に直接影響。
+
+**[88pts, 57comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents** 🔴 直接競合 ↑ (10:30: 82pts)
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / 直接競合
+- 分析: +6pts成長継続。コメント57件（+2）。Launch HN投稿としては着実に伸びている。「ファイルシステムベースエージェントのVercel」というポジショニングはFuyajoと重なる。YC W26バッキングで資金・注目度ともに強力。午前中ずっと追跡してきたが成長が止まらない。
+
+**[88pts, 44comments] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer**
+- URL: https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer
+- 関連: Developer Tools / AI Agent
+- 分析: Terminal Useと同スコア（88pts）。AI開発者向けツール需要の底堅さ継続。エディタ統合型エージェントタスク管理。
+
+**[257pts, 71comments] JSLinux Now Supports x86_64** ↑ (10:30: 237pts) (Top Stories)
+- URL: https://bellard.org/jslinux/
+- +20pts大幅上昇。ブラウザ内x86_64 Linux実行。Bellard技術。Fuyajoのブラウザベース軽量VM方向への参考継続。
+
+**[400pts, 58comments] Building a Procedural Hex Map with Wave Function Collapse** (Top Stories - 最高スコア)
+- URL: https://felixturner.github.io/hex-map-wfc/article/
+- 関連: General Tech / Procedural Generation
+- 分析: 今日最高スコア400pts。AI/HNの主要テーマではないが、技術コミュニティの関心が多様であることを示す。Wave Function Collapseアルゴリズムのゲーム応用。
