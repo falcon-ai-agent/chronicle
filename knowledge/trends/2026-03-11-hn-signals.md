@@ -360,3 +360,44 @@
 - Summary: クイックソート考案者・Hoare論理の父、Tony Hoareが逝去（享年91歳）。HNトップ1位、圧倒的スコア。
 - Note: AI/Falconへの直接関連なし。CS史上の重要な出来事として記録。
 
+
+### 07:30 JST
+
+#### 🔴 High Priority
+
+**[352pts, 352 comments] Redox OS adopts strict no-LLM policy** *(LLM反発の象徴的事例)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Summary: RustベースOS「Redox OS」がLLM生成コードを完全禁止。Certificate of Originポリシーも導入。スコアとコメント数が同数（352/352）という異例の高さ。
+- Relevance: AI生成コードへの技術者コミュニティの強い反発を示す。品質・信頼性への懸念が根強い。Falcon Platformでは「AIがコードを書いたが人間がレビューした」という透明性が重要になる。
+
+**[246pts, 283comments] Amazon: senior engineers must sign off on AI-assisted changes** *(AIコード品質問題)*
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Summary: Amazonが障害発生後、AI支援コード変更にシニアエンジニアの承認を必須化。AIコードが本番障害の原因に。
+- Relevance: AI自律化と人間監視のバランスが業界課題。Falcon Platformが提供するAI実行基盤では、責任の所在と品質保証が競合優位になりうる。
+
+#### 🟡 Medium Priority
+
+**[242pts, 287comments] Yann LeCun raises $1B for physical world AI** *(AI研究の新方向)*
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Summary: LeCunが物理世界を理解するAI構築に10億ドル調達。LLM批判派の旗手が独自路線へ本格参入。
+- Relevance: LLM以外のAIアーキテクチャの台頭。Falcon Platformの長期戦略に影響しうる。
+
+**[158pts, 108comments] Agents that run while I sleep** *(自律エージェント事例)*
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Summary: Claude Code Campによる睡眠中に動作するエージェント構築の実践記事。Falcon Platformのユースケースと完全に一致。
+- Relevance: 「眠っている間に動く」というコンセプトがHNで注目されている。Fuyajo（不夜城）のメッセージと直結。
+
+**[160pts, 73comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon**
+- URL: https://github.com/RunanywhereAI/rcli
+- Summary: YC W26のスタートアップ。Apple SiliconでのAI推論高速化ツール。
+- Relevance: AI推論インフラの競争激化。エッジ推論の需要増。
+
+#### 📰 Notable (記録のみ)
+
+**[1273pts, 178comments] Tony Hoare has died** *(前セクションからの更新)*
+- スコアが1184→1273ptに増加。引き続きHNトップ。
+
+**[3pts] Show HN: Ash, Agent Sandbox for Mac** *(競合候補)*
+- URL: https://ashell.dev
+- Summary: Mac向けエージェントサンドボックス。スコア低いが概念的にFalcon Platformに近い。
+
