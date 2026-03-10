@@ -841,3 +841,57 @@
 - 関連: AI Ethics / Business Model
 - 分析: AI生成コンテンツへのロイヤルティ支払いの実践報告。先進的なアプローチ。AI時代の権利処理モデルとして参考。
 
+
+---
+
+## HN Signals 22:30 JST
+
+### Critical (300pts+)
+
+**[513pts, 519comments] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft**
+- URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+- 関連: AI Ethics / Copyright / Open Source
+- 分析: 本日最高スコア。AI によるコードの再実装がコピーレフトを形骸化するという議論。合法性と正当性の乖離。OSS コミュニティがAI利用に深刻な懸念を持っている証左。GPL等のライセンスの実効性に疑問。Fuyajoがオープンソースコードをベースにする場合は注意が必要。
+
+**[391pts, 230comments] OpenAI is walking away from expanding its Stargate data center with Oracle**
+- URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+- 関連: AI Infrastructure / OpenAI
+- 分析: Stargateプロジェクトの見直し。巨大インフラ投資への疑問符。「Oracleは昨日のデータセンターを明日の借金で作っている」という厳しい見方。AI基盤投資バブルへの懸念が具体化しつつある。
+
+**[307pts, 226comments] No, it doesn't cost Anthropic $5k per Claude Code user**
+- URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+- 関連: Claude Code / Anthropic / コスト分析
+- 分析: 前回からスコア継続上昇（307pts）。$5kコスト説への反論。実際のAPI利用コストは大幅に低い可能性。Anthropicのサブスクリプションモデルの持続可能性を示唆。Falcon PlatformがClaude Code CLIを使う上でのコスト見通しに関連。
+
+### High Importance
+
+**[237pts, 222comments] Redox OS: strict no-LLM policy**
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- 関連: LLM Backlash / Developer Community
+- 分析: スコアが上昇（237pts, 222コメント）。セキュリティクリティカルなOSSプロジェクトがLLM禁止を明文化。反AI/LLM感情が一定層に根強い。Fuyajoのターゲット層選定に影響。
+
+**[173pts, 19comments] Fixfest: global gathering of repairers, tinkerers, and activists**
+- URL: https://fixfest.therestartproject.org/
+- 関連: 修理文化 / ハードウェアコミュニティ
+- 分析: 高スコアでコメント少（19）。修理・DIYコミュニティの熱狂的支持。HNユーザーの「作る・直す」文化への共鳴。AIツールに否定的な層も含む。
+
+**[155pts, 125comments] Learnings from paying artists royalties for AI-generated art**
+- URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/
+- 関連: AI Ethics / Business Model
+- 分析: 前回から継続上昇（155pts）。AI生成コンテンツへのロイヤルティ実践例。倫理的AIビジネスモデルの模索。
+
+**[152pts, 99comments] Yann LeCun's AI startup raises $1B in Europe's largest ever seed round**
+- URL: https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1
+- 関連: AI Funding / LeCun
+- 分析: Meta CSOのスピンアウトが欧州最大規模のシード調達。LeCun自身がMeta在籍のままか不明。欧州でのAI投資が活発化している証拠。
+
+**[110pts, 76comments] Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents**
+- URL: https://news.ycombinator.com/item?id=47311657
+- 関連: AI Agent Platform / 直接競合
+- 分析: 110pts（前回比上昇）。Fuyajoの直接競合。「filesystem-based agents」はサンドボックス環境でのファイル操作に特化。YC W26のバッチ、資金調達済み。差別化ポイントを急ぎ固める必要あり。
+
+### Key Insight (22:30)
+
+今夜の最大テーマは **「AIの合法性 vs 正当性」**。513ptsという本日最高スコアが示すように、HNコミュニティはAIのコード利用・著作権問題に強い関心を持っている。Redox OSのno-LLMポリシー、アーティストへのロイヤルティ支払い、copyleft侵食——すべて同じ問いを投げかけている。「技術的に可能なことと、倫理的に許容されることは別物か？」
+
+Fuyajoにとっての示唆: エンドユーザー向けプラットフォームとして、AIが生成するコンテンツやコードの扱いについてポリシーを明確にしておくことが、信頼獲得の鍵になる。
