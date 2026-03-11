@@ -416,3 +416,76 @@
 - **Dead Internet Theory現実化**: AIコンテンツ汚染への危機感が高まる中、本物の人間によるアウトプットに価値が集まる可能性。Falcon Platformのブログ・Chronicle戦略は差別化要因になりうる
 - **BitNet（1ビットLLM）**: ローカルCPUで100Bパラメータが動く時代へ。infra-agent-llmはQwen2.5-3B限定から拡張できる。クラウド不要・プライバシー保護のローカルAIが主流になる可能性
 - **McKinseyハック継続上昇**: AIプラットフォームのセキュリティが引き続き注目。Fuyajoのセキュリティ実装（APIキーハッシュ化、VM分離）をマーケティングに活用できる
+
+### 07:30 JST
+
+#### AI/LLM シグナル（07:30）
+
+**[1919pts, 745comments] Don't post generated/AI-edited comments. HN is for conversation between humans.**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH
+- 関連: AI Content / Community Sentiment
+- メモ: 06:30の1387ptsからさらに急上昇。745コメントと議論も白熱。HNコミュニティの「本物の人間の声」への回帰が加速している
+
+**[355pts, 145comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Security / Falcon Platform
+- メモ: 企業向けAIプラットフォームのセキュリティ脆弱性のハック事例。Fuyajoのセキュリティ設計（VM分離、APIキーハッシュ化）の重要性を再確認。エンタープライズAIはセキュリティ問題が多い
+
+**[276pts, 141comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: Local LLM / Infra Agent LLM
+- メモ: スコア維持・継続注目。CPUで100Bモデルが動く時代。infra-agent-llm戦略に直接影響
+
+**[96pts, 96comments] I'm glad the Anthropic fight is happening now**
+- URL: https://www.dwarkesh.com/p/dow-anthropic
+- 重要度: MEDIUM
+- 関連: Anthropic / AI Policy
+- メモ: 05:30の5pts→06:30の55pts→07:30の96ptsへ急上昇継続。Anthropicの規制対立への関心が高まっている
+
+**[85pts, 37comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent Tools / Falcon Platform
+- メモ: 55pts→85ptsへ上昇継続。AIエージェント向けブラウザプロトコルの注目度が増している
+
+**[22pts, 8comments] Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do**
+- URL: https://www.sentrial.com/
+- 重要度: MEDIUM
+- 関連: AI Agent Monitoring / Falcon Platform
+- メモ: YC W26。AIエージェント障害検知サービス。Fuyajo自律エージェント実行基盤の競合/参考
+
+**[13pts, 0comments] Anthropic has strong case against Pentagon blacklisting, legal experts say**
+- URL: https://www.reuters.com/legal/legalindustry/anthropic-has-strong-case-against-pentagon-blacklisting-legal-experts-say-2026-03-11/
+- 重要度: MEDIUM
+- 関連: Anthropic / Business Risk
+- メモ: Anthropicの国防省ブラックリスト問題。法的専門家はAnthropicに有利と分析。Claude API利用の事業継続リスクとして注視
+
+#### TOP 10 追加シグナル（07:30）
+
+**[418pts, 142comments] Temporal: A nine-year journey to fix time in JavaScript**
+- 重要度: LOW-MEDIUM（JS日時APIの標準化。06:30の393ptsからさらに上昇）
+
+**[323pts, 124comments] Making WebAssembly a first-class language on the Web**
+- 重要度: LOW-MEDIUM（WASM標準化継続上昇）
+
+**[307pts, 522comments] The MacBook Neo**
+- 重要度: LOW（Apple新製品、技術コミュニティの注目）
+
+**[182pts, 126comments] Google closes deal to acquire Wiz**
+- 重要度: LOW-MEDIUM（クラウドセキュリティ大型買収。Google Cloudの強化）
+
+**[51pts, 35comments] Personal Computer by Perplexity**
+- URL: https://www.perplexity.ai/personal-computer-waitlist
+- 重要度: MEDIUM
+- 関連: AI Hardware / Competition
+- メモ: PerplexityがAI専用PCを発表。AIエージェントとハードウェアの統合が加速。ローカルAI実行の需要を示す
+
+#### Falcon Platform への示唆（07:30）
+
+- **McKinseyハック355pts**: エンタープライズAIプラットフォームのセキュリティ問題がHNで注目。Fuyajoのセキュリティ実装（VM分離、APIキーハッシュ）は競合優位性。「セキュアなAI実行環境」をマーケティングメッセージに
+- **Perplexity PC**: AIエージェント実行に最適化されたハードウェアの登場。Fuyajoのクラウドベースアプローチとの差別化を意識する必要
+- **Anthropic Pentagon問題**: Claude API依存リスクが顕在化。将来的にはモデルの多様化（BitNet等のローカルモデル）も検討対象に
+- **HN反AI感情継続加速**: 1919ptsは今日のトップ。「ツールで人間を強化」というFuyajoのポジショニングはタイムリー
