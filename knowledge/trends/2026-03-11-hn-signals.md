@@ -611,3 +611,71 @@
 - URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
 - Summary: クイックソートの発明者、Hoareロジックの創始者、ヌル参照の「10億ドルの過ち」発言で有名なTony Hoareが死去。享年91歳。CS界の偉人の訃報。
 
+### 12:30 JST
+
+#### 🔴 High Priority
+
+**[468pts, 405comments] After outages, Amazon to make senior engineers sign off on AI-assisted changes** *(継続: 454→468pts、399→405comments)*
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIコード品質管理、ガバナンス、大企業のAI失敗
+- Summary: 本日最大成長を継続。スコア468pts、405コメント。Amazonの障害後AI承認プロセス義務化が引き続きHNで最大のAI議論スレッドとして継続。コメント数がスコアを超えた（405 > 468は逆転寸前）。
+- Implication: **本日のキーシグナル** AIコード実行への信頼性問題が業界全体の課題として定着。Falcon Platformでの監査ログ・承認フロー機能が差別化要素。
+
+**[378pts, 384comments] Redox OS strict no-LLM policy** *(継続: コメントがスコア超え)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: OSS、LLM批判、開発者コミュニティ
+- Summary: スコア378pts、コメント384件（コメントがスコアを超えた）。本日一日にわたりLLM排除議論が継続。開発者コミュニティの反発を象徴する事例として定着。
+- Implication: LLM生成コードの品質・信頼性への強い懸念が継続。
+
+#### 🟡 Medium Priority
+
+**[362pts, 337comments] Yann LeCun raises $1B to build AI that understands the physical world** *(継続: 342→362pts)*
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI大型資金調達、LLM批判、次世代AIアーキテクチャ
+- Summary: スコア継続上昇（+20pts）。LLM批判者LeCunの$1B調達への注目が持続。
+
+**[315pts, 89comments] Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs** *(継続: 294→315pts)*
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM、コンシューマーGPU、Infra Agent LLM参考
+- Summary: スコア大幅増（+21pts）。コンシューマーGPU2枚でSOTA達成事例。民主化されたLLM推論への関心継続。
+
+**[293pts, 216comments] Debian decides not to decide on AI-generated contributions** *(継続: 287→293pts)*
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: OSS、AI生成コード、ポリシー
+- Summary: スコート微増。Redox（禁止）vs Debian（保留）の対比議論継続。
+
+**[252pts, 215comments] Agents that run while I sleep** *(継続: 240→252pts)*
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: **自律エージェント、Falcon Platform直接関連**
+- Summary: スコア+12pts。「眠っている間に動くエージェント」需要が一日通じて実証。コメント215件と議論継続。Fuyajo（不夜城）のコンセプトと完全一致。
+- Implication: 本日一日のHN観測でFuyajoのコンセプトが市場に受け入れられることが実証された。
+
+**[188pts, 111comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon** *(継続: 184→188pts)*
+- URL: https://github.com/RunanywhereAI/rcli
+- Relevance: AI推論最適化、YCスタートアップ
+- Summary: スコート微増継続。Apple SiliconでのAI推論高速化CLI。
+
+**[123pts, 66comments] Levels of Agentic Engineering** *(継続: 108→123pts)*
+- URL: https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+- Relevance: **AIエージェント設計フレームワーク、Falcon Platform設計参考**
+- Summary: スコート+15pts。エージェント工学のレベル分類フレームワーク。HNでの共感が継続。
+- Implication: Falcon Platformのエージェント機能の分類・訴求に使えるフレームワーク。
+
+**[104pts, 154comments] I built a programming language using Claude Code** *(継続: コメント152→154)*
+- URL: https://ankursethi.com/blog/programming-language-claude-code/
+- Relevance: Claude Code活用事例
+- Summary: スコア安定、コメント微増。Claude Codeの実践活用への継続的関心。
+
+#### 🔵 注目新着
+
+**[152pts, 73comments] Cloudflare crawl endpoint**
+- URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
+- Relevance: AI/エージェントのWebアクセス、クローリングインフラ
+- Summary: CloudflareがCrawlエンドポイントをリリース。AIエージェントによるWebクロールの管理・制御ができるAPI。
+- Implication: AIエージェントがWebを「読む」インフラの整備が進んでいる。Falcon Platformのエージェントに外部情報収集機能を追加する際の参考。
+
+#### 📌 継続記録
+
+**[1563pts, 203comments] Tony Hoare has died** *(1527→1563pts 本日トップ継続)*
+- 本日最終確認。CS界の偉人Tony Hoarの逝去がHN全体トップを独走し一日を終えた。
+
