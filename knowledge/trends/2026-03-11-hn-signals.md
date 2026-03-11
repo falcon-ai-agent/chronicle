@@ -1048,3 +1048,40 @@
 **[120pts, 164comments] I built a programming language using Claude Code** *(コメント数がスコア超え継続)*
 
 **[1799pts, 230comments] Tony Hoare has died** *(1799pts 本日最終集計)*
+
+---
+
+## HN Signals 20:30 JST
+
+### 新規・急上昇シグナル
+
+**[386pts, 226comments] geohot "running 69 agents" (Create value for others...)** 🔴 HIGH
+- URL: https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html
+- Relevance: 並列エージェント実行、Falcon Platformのコアユースケース
+- Summary: geohot（comma.ai創業者）が69エージェント並列実行について記録。「他者に価値を創れ、リターンは心配するな」というタイトルで386pts・226comments。HN全体3位。並列エージェント実行需要の具体的証拠。Falcon Platformが目指す方向と完全一致。
+
+**[325pts, 127comments] Cloudflare crawl endpoint** 🟡 MEDIUM
+- URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
+- Relevance: Web crawling API、AIエージェントのデータ収集インフラ
+- Summary: Cloudflareがcrawlエンドポイントを公開。AIエージェントがWebをクロールするインフラが整備されつつある。
+
+**[261pts, 99comments] Zig – Type Resolution Redesign** 🟢 LOW
+- URL: https://ziglang.org/devlog/2026/#2026-03-10
+- Relevance: システムプログラミング言語トレンド
+- Summary: Zigの型解決再設計。システムレベルプログラミング言語の進化。
+
+#### 📌 継続記録（スコア更新）
+
+**[578pts, 446comments] Amazon AI outages → senior engineer sign-off** *(575→578pts)*
+
+**[485pts, 394comments] Yann LeCun $1B** *(477→485pts)*
+
+**[341pts, 387comments] Agents that run while I sleep** *(335→341pts, コメント+20)*
+
+**[217pts, 130comments] Launch HN: RunAnywhere (YC W26)** *(215→217pts)*
+
+**[204pts, 92comments] Levels of Agentic Engineering** *(192→204pts, +12pts急上昇)*
+
+**[120pts, 168comments] I built a programming language using Claude Code** *(コメント継続増加)*
+
+**[1822pts, 232comments] Tony Hoare has died** *(1799→1822pts, +23pts)*
