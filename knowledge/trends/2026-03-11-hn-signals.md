@@ -449,3 +449,65 @@
 - Relevance: Claude Code活用事例
 - Summary: スコア・コメントともに継続上昇。Claude Codeの創造的・実践的活用事例として今日一日の注目を集めている。
 
+### 09:30 JST
+
+#### 🔴 High Priority
+
+**[406pts, 371comments] Amazon: senior engineers must sign off on AI-assisted changes** *(急増: 358→406pts)*
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIコード品質管理、大企業のAI失敗、ガバナンス
+- Summary: スコアが358→406（+48pts）。コメントも341→371（+30）と継続拡大。本日最大伸び率をキープ。Amazonがアウテージ後にAI支援コード変更にシニアエンジニアの承認を必須化。
+- Implication: エンタープライズでの「AIコード＋人間ゲートキーピング」がデファクトスタンダードになりつつある。AI実行基盤の信頼性・監査機能の需要を示す強いシグナル。
+
+**[364pts, 365comments] Redox OS strict no-LLM policy** *(継続: 359→364pts、363→365comments)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: OSS、LLM批判、開発者コミュニティ
+- Summary: コメント数がスコアをわずかに上回る状態が継続（365 > 364）。本日最長持続の激論スレッド。LLM拒否のOSSコミュニティ象徴として定着。
+- Implication: LLM生成コードへの強い反発が持続。品質・透明性の訴求が不可欠。
+
+#### 🟡 Medium Priority
+
+**[300pts, 315comments] Yann LeCun raises $1B** *(継続: 274→300pts 300pts達成)*
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI大型資金調達、物理理解AI、LLM以外のアーキテクチャ
+- Summary: 300pts達成。コメント315件。LLM批判派のLeCunが物理世界AI構築に$1B調達。HNでの継続議論が示す関心の高さ。
+
+**[265pts, 207comments] Debian decides not to decide on AI-generated contributions** *(継続: 257→265pts)*
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: OSS、AI生成コード、コミュニティポリシー
+- Summary: スコア+8pts、コメント+4。Redox（強硬禁止）vs Debian（保留）の対比が引き続き議論を呼ぶ。
+
+**[265pts, 81comments] How I Topped HuggingFace Open LLM Leaderboard on Two Gaming GPUs** *(継続: 247→265pts)*
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM、コンシューマーGPU、Infra Agent LLM参考
+- Summary: スコア継続上昇（+18pts）。ゲーミングGPU2枚でのSOTA達成。民主化されたLLM推論の実例。
+
+**[194pts, 142comments] Agents that run while I sleep** *(継続: 175→194pts)*
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: 自律エージェント、Fuyajo直結
+- Summary: スコア+19pts。「眠っている間に動くエージェント」需要が継続実証中。本日一日で194ptまで成長。Fuyajo（不夜城）のコンセプトと完全一致する市場ニーズ。
+
+**[175pts, 81comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon** *(継続: 168→175pts)*
+- URL: https://github.com/RunanywhereAI/rcli
+- Relevance: AI推論最適化、YCスタートアップ
+- Summary: YC W26バッチ。Apple SiliconでのAI推論高速化CLIツール。スコア継続上昇。
+
+#### 🔵 注目新着
+
+**[108pts, 63comments] Levels of Agentic Engineering**
+- URL: https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+- Relevance: **AIエージェント設計、Falcon Platform設計参考**
+- Summary: エージェント工学のレベル分類フレームワーク。108pts、63comments。エージェントを「レベル」で分類する視点がHNで共感を集める。
+- Implication: Falcon Platformのエージェント機能設計の参考。どのレベルを対象とするかの差別化軸になりうる。
+
+**[73pts, 27comments] Open Weights isn't Open Training**
+- URL: https://www.workshoplabs.ai/blog/open-weights-open-training
+- Relevance: オープンソースAI、LLMの透明性、ポリシー議論
+- Summary: 「オープンウェイト」と「オープントレーニング」は別物という主張。OSSコミュニティでのAI透明性への関心が高まっている証拠。
+- Implication: Infra Agent LLMでのトレーニングデータ・プロセスの透明性が信頼構築に重要。
+
+#### 📌 継続記録
+
+**[1415pts, 191comments] Tony Hoare has died** *(1273→1415pts 継続トップ)*
+- 本日のHN全体トップを独走継続。CS界全体の追悼が持続。AI/Falcon直接関連なし。
+
