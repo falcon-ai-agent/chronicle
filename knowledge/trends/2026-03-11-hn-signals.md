@@ -1121,3 +1121,40 @@
 **[121pts, 172comments] I built a programming language using Claude Code** *(コメント継続増加)*
 
 **[1841pts, 239comments] Tony Hoare has died** *(1822→1841pts 追悼継続)*
+
+---
+
+## HN Signals 22:30 JST
+
+### 継続記録（スコア更新）
+
+**[472pts, 320comments] geohot "running 69 agents"** 🔴 HIGH（急上昇継続）
+- URL: https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html
+- Summary: 428pts→472pts（+44pts）。HN全体での継続上昇。並列エージェント需要の強力な証拠。
+
+**[518pts, 424comments] Yann LeCun $1B** *(502→518pts, コメント+20 急増)*
+- 物理世界理解AIへの大型投資。現行LLMとは異なるアプローチ。
+
+**[367pts, 410comments] Agents that run while I sleep** *(349→367pts, コメント+10)*
+- claudecodecamp.com。自律エージェント運用の実体験レポート。Falcon Platformのコアユースケース。
+
+**[358pts, 140comments] Cloudflare crawl endpoint** *(340→358pts 急上昇)*
+- 新しいCrawl APIエンドポイント。Developer Tools関連。
+
+**[345pts, 262comments] Debian decides not to decide on AI contributions** *(343→345pts 安定)*
+- AI生成コードへのOSSコミュニティの慎重姿勢継続。
+
+**[304pts, 140comments] Zig Type Resolution Redesign** 🆕 HIGH
+- URL: https://ziglang.org/devlog/2026/#2026-03-10
+- Relevance: システムプログラミング言語の進化。型システム変更の議論。
+- Summary: 新規エントリー304pts。Zigコミュニティの活発な議論。技術的深みのある変更提案。
+
+**[224pts, 133comments] Launch HN: RunAnywhere (YC W26)** *(221→224pts)*
+- Apple Silicon上のAI推論高速化。YCW26バッチ。
+
+**[222pts, 104comments] Levels of Agentic Engineering** *(214→222pts)*
+- エージェント工学の成熟度フレームワーク。Falcon Platform設計の参考。
+
+**[1862pts, 246comments] Tony Hoare has died** *(1841→1862pts)*
+- Quicksort/CSP発明者。1934-2026。継続追悼。
+
