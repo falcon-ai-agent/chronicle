@@ -353,3 +353,66 @@
 - **HN AI禁止令（652pts）**: 技術者コミュニティの「AIコンテンツ疲弊」が顕在化。Falcon Platformは「人間のアウトプットを増やす」ツールとして位置付けるべき。AIの代替ではなく増幅器
 - McKinseyハック（317pts）が持続上昇 → セキュリティ重視のプラットフォームとして差別化可能
 - 「Agents that run while I sleep」は今回リストから落下 → ピークを過ぎた可能性。引き続き監視
+
+---
+
+### 06:30 JST
+
+#### AI関連シグナル（06:30）
+
+**[1387pts, 581comments] Don't post generated/AI-edited comments. HN is for conversation between humans.**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: **CRITICAL**
+- 関連: AI Content / Community Resistance
+- メモ: 05:30の652ptsから1387ptsへ倍増。HNが公式にAI生成コメント禁止をガイドラインに追加。技術者コミュニティの反AIコンテンツ感情は想定以上に強い。「人間の会話」を守る動きが加速
+
+**[344pts, 139comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Platform Security / Falcon Platform
+- メモ: 05:30の317ptsから344ptsへ継続上昇。AIプラットフォームのセキュリティ脆弱性。Fuyajoにとって重要な事例
+
+**[269pts, 133comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: Local LLM / Infra Agent LLM
+- メモ: 新規エントリ。Microsoftの1ビット量子化LLM。100Bパラメータを一般的なCPUで動作可能にする技術。infra-agent-llm戦略（ローカルLLM）の実現可能性を後押し。Qwen2.5-3Bより大きなモデルもローカル展開可能になる方向
+
+**[175pts, 99comments] The dead Internet is not a theory anymore**
+- URL: https://www.adriankrebs.ch/blog/dead-internet/
+- 重要度: HIGH
+- 関連: AI Content / Dead Internet Theory
+- メモ: AIが生成するコンテンツでインターネットが汚染されているという「Dead Internet Theory」が現実化。HN AI禁止令と同じ流れ。本物の人間の声の希少性が高まる
+
+**[81pts, 23comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent Tools / Falcon Platform
+- メモ: AIエージェント専用ブラウザプロトコル。エージェントがWebを操作するためのオープンソースツール。Fuyajoのエージェント実行基盤の参考に
+
+**[55pts, 31comments] I'm glad the Anthropic fight is happening now**
+- URL: https://www.dwarkesh.com/p/dow-anthropic
+- 重要度: MEDIUM
+- 関連: Anthropic / AI Policy
+- メモ: 05:30の5ptsから55ptsへ急上昇。Anthropicを巡る議論（DOW/規制）への関心が高まっている
+
+**[20pts, 7comments] Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do**
+- URL: https://www.sentrial.com/
+- 重要度: MEDIUM
+- 関連: AI Agent Monitoring / Falcon Platform
+- メモ: YC W26。AIエージェントの障害を事前検知するモニタリングツール。Fuyajoの自律エージェント実行基盤に類似した課題感。競合/参考
+
+#### TOP 10 追加シグナル（06:30）
+
+**[393pts, 138comments] Temporal: A nine-year journey to fix time in JavaScript**
+- 重要度: LOW-MEDIUM（JS日時API改善。Fuyajoのフロントエンド開発参考）
+
+**[296pts, 119comments] Making WebAssembly a first-class language on the Web**
+- 重要度: LOW-MEDIUM（05:30から継続上昇。WASMのブラウザ標準化進展）
+
+#### Falcon Platform への示唆（06:30）
+
+- **HN AI禁止令1387pts**: 技術者の反AIコンテンツ感情が爆発的に高まっている。Fuyajoは「AIで人間のアウトプットを増幅」というポジションを明確に打ち出すべき。「AIが書く」ではなく「人間が速く・多く書ける」
+- **Dead Internet Theory現実化**: AIコンテンツ汚染への危機感が高まる中、本物の人間によるアウトプットに価値が集まる可能性。Falcon Platformのブログ・Chronicle戦略は差別化要因になりうる
+- **BitNet（1ビットLLM）**: ローカルCPUで100Bパラメータが動く時代へ。infra-agent-llmはQwen2.5-3B限定から拡張できる。クラウド不要・プライバシー保護のローカルAIが主流になる可能性
+- **McKinseyハック継続上昇**: AIプラットフォームのセキュリティが引き続き注目。Fuyajoのセキュリティ実装（APIキーハッシュ化、VM分離）をマーケティングに活用できる
