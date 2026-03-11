@@ -511,3 +511,50 @@
 **[1415pts, 191comments] Tony Hoare has died** *(1273→1415pts 継続トップ)*
 - 本日のHN全体トップを独走継続。CS界全体の追悼が持続。AI/Falcon直接関連なし。
 
+---
+
+### 10:30 JST
+
+#### 🔴 最重要シグナル
+
+**[436pts, 394comments] After outages, Amazon to make senior engineers sign off on AI-assisted changes**
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: **AIコーディング信頼性問題、エンタープライズ採用リスク**
+- Summary: AI支援コード変更による障害を受け、Amazonがシニアエンジニアの承認プロセスを義務化。394コメントの大議論。
+- Implication: AI自律実行への懐疑論がエンタープライズで拡大。Falcon Platformは「自律性」を前面に出しつつも、承認フロー・監査ログの仕組みが差別化要素になりうる。AIの限界を認める設計が重要。
+
+**[323pts, 322comments] Yann LeCun raises $1B to build AI that understands the physical world**
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI市場、資金調達トレンド、物理世界AI
+- Summary: LeCunがMeta退職後、世界モデルAI企業を設立し$1B調達。LLMとは異なるアーキテクチャを主張。
+- Implication: LLM一強への対抗馬が本格化。中長期でAIエージェントのアーキテクチャが変わる可能性。
+
+#### 🟡 注目シグナル
+
+**[220pts, 173comments] Agents that run while I sleep**
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: **Falcon Platform直接競合、夜間自律エージェント**
+- Summary: Claude Codeを使った「眠っている間も動くエージェント」の構築事例。Falcon Platformのコアコンセプトと完全一致。220pts、HNトップ4位。
+- Implication: 市場ニーズが実証されている。「不夜城（Fuyajo）」コンセプトの共鳴を確認。差別化としてインフラ抽象化・非エンジニア向けUIが鍵。
+
+**[275pts, 212comments] Debian decides not to decide on AI-generated contributions**
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: OSSコミュニティのAI生成コード方針
+- Summary: DebianがAI生成コントリビューションについて明確な方針を出さないことを決定。コミュニティ内の分断が鮮明。
+- Implication: AI生成コードの品質・ライセンス問題が未解決のまま。開発者ツールとしての信頼性構築が重要。
+
+**[276pts, 83comments] How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs**
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM、コスト効率、Infra Agent LLM参考
+- Summary: コンシューマGPU2枚でHuggingFaceリーダーボードトップを達成した手法。詳細な技術ブログ。
+- Implication: Infra Agent LLM（Qwen2.5-3B）のファインチューニング戦略に直接参考。ハイエンドでなくても競争力のあるモデルが作れる実証。
+
+#### 🔵 その他
+
+**[1472pts] Tony Hoare has died** *(最終: 1472pts 本日トップ継続)*
+- CS界の巨人逝去への追悼が続く。「billion-dollar mistake」発言で有名。
+
+**[179pts, 86comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon**
+- URL: https://github.com/RunanywhereAI/rcli
+- YC W26バックドのApple SiliconでのAI推論高速化ツール。ローカル推論への関心継続。
+
