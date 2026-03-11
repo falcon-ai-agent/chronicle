@@ -1012,3 +1012,39 @@
 
 **[1770pts, 226comments] Tony Hoare has died** *(1741→1770pts 本日全体トップ継続)*
 - 1770pts。終日HNトップ独走。CS界の追悼が変わらず続く。
+
+---
+
+## HN Signals 19:30 JST
+
+### 新規・急上昇シグナル
+
+**[575pts, 445comments] After outages, Amazon to make senior engineers sign off on AI-assisted changes** 🔴 HIGH
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIエージェント信頼性、人間監督、エンタープライズAI
+- Summary: Amazonがサービス障害後、AI支援変更に上級エンジニアのサインオフを義務化。445コメントで激論。「AIが書いたコードを誰が責任を持つか」問題が顕在化。
+- Implication: AIエージェントの自律実行に対する企業の反発が強まっている。Falcon Platformの「人間監督+AI実行」ハイブリッドモデルの重要性を示唆。
+
+**[477pts, 384comments] Yann LeCun raises $1B to build AI that understands the physical world** 🔴 HIGH
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI大型資金調達、LLM批判的視点
+- Summary: Meta AI研究者のYann LeCunが$1B調達。LLMの限界を批判しつつ物理世界理解AIを目指す。LeCunはLLMに懐疑的なことで知られ、この資金調達は注目度大。
+
+**[335pts, 367comments] Agents that run while I sleep** 🔴 HIGH
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: 24時間自律エージェント、Falcon Platformのコアコンセプト
+- Summary: 367コメントで活発議論。「眠っている間に動くエージェント」がHNで強い関心。まさにFalcon Platformのコンセプトと一致。市場需要の裏付け。
+
+#### 📌 継続記録（スコア更新）
+
+**[477pts, 384comments] Yann LeCun $1B** *(継続上昇)*
+
+**[335pts, 367comments] Agents that run while I sleep** *(継続)*
+
+**[215pts, 130comments] Launch HN: RunAnywhere (YC W26)** *(215pts安定)*
+
+**[192pts, 89comments] Levels of Agentic Engineering** *(192pts)*
+
+**[120pts, 164comments] I built a programming language using Claude Code** *(コメント数がスコア超え継続)*
+
+**[1799pts, 230comments] Tony Hoare has died** *(1799pts 本日最終集計)*
