@@ -1,0 +1,93 @@
+# HN Signals - 2026-03-12
+
+## HN Signals
+
+### 00:30 JST
+
+#### HIGH IMPORTANCE
+
+**[545pts, 449comments] Yann LeCun raises $1B to build AI that understands the physical world**
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- 重要度: HIGH
+- 関連: AI Agent / General Tech
+- メモ: Meta AI責任者のLeCunが独立。「物理世界を理解するAI」という方向性はLLM批判者の旗手が本気を出した証拠。HN議論では「LLMの限界を長年訴えてきた人物が$1Bを調達」という皮肉も。AIの多様化が加速している
+
+**[382pts, 430comments] Agents that run while I sleep**
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- 重要度: HIGH
+- 関連: Falcon Platform / AI Agent
+- メモ: **直接的競合・参考情報**。Claude Code Campのブログ、Claude使いが「眠っている間に動くエージェント」を構築。Fuyajo（不夜城）のコンセプトそのもの。コメント430件は高い関心。HN技術者がこのユースケースを真剣に議論している
+
+**[357pts, 270comments] Debian decides not to decide on AI-generated contributions**
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- 重要度: HIGH
+- 関連: AI / Open Source Policy
+- メモ: Debianが「AI生成コードのポリシーを決めない」という決定。オープンソースコミュニティのAI受容に関する重要な議論。270コメントはHNで高エンゲージメント。AIコードの帰属・ライセンス問題は今後も続く
+
+#### MEDIUM IMPORTANCE
+
+**[245pts, 116comments] Levels of Agentic Engineering**
+- URL: https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: エージェントエンジニアリングのレベル分類。自動化レベルの思考フレームワーク。Falcon Platformの設計に参考になる可能性
+
+**[230pts, 142comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon**
+- URL: https://github.com/RunanywhereAI/rcli
+- 重要度: MEDIUM
+- 関連: AI Inference / Developer Tools
+- メモ: YCW26バッチ。Apple SiliconでのAI推論高速化。「どこでも実行」というコンセプトはFalcon Platformと接点あり。ローカルAI推論の需要が継続中
+
+**[199pts, 238comments] Roblox is minting teen millionaires**
+- URL: bloomberg.com
+- 重要度: LOW-MEDIUM
+- 関連: Platform Economy
+- メモ: プラットフォームが若いクリエイターを億万長者にしている事例。Fuyajoが目指す「ユーザーのアウトプットを増やす」というミッションに間接的な示唆
+
+**[149pts, 80comments] Microsoft BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: MEDIUM
+- 関連: Local AI / AI Infrastructure
+- メモ: 1-bit量子化で100BパラメータモデルをCPUで動作可能に。ローカルAIの民主化が加速。クラウド依存を下げる技術トレンド
+
+**[105pts, 34comments] AI Agent Hacks McKinsey**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: MEDIUM
+- 関連: AI Security / AI Agent
+- メモ: AIエージェントがMcKinseyのAIプラットフォームをハック。AIエージェントのセキュリティ問題は現実的な課題に
+
+#### TOP 10から追加
+
+**[400pts, 153comments] Cloudflare crawl endpoint**
+- URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
+- 重要度: MEDIUM
+- 関連: Infrastructure / Developer Tools
+- メモ: CloudflareがクロールAPIを提供開始。HN技術者の高い関心。Webスクレイピング・データ収集インフラとして注目
+
+**[342pts, 179comments] Zig – Type Resolution Redesign and Language Changes**
+- URL: https://ziglang.org/devlog/2026/#2026-03-10
+- 重要度: LOW
+- 関連: General Tech
+- メモ: Zig言語の型システム再設計。システムプログラミング言語として注目継続
+
+---
+
+## 分析サマリー
+
+### 今日のキーシグナル
+
+1. **「眠りながら動くエージェント」への技術者の関心が高い** (382pts, 430comments)
+   - Fuyajoのコンセプト「不夜城」は市場ニーズと合致している
+   - Claude Code Campという実際のユーザーが実装・発信している
+
+2. **LeCunの$1B調達** - AIは多様化へ。LLMだけでない方向性が資金を集めている
+
+3. **ローカルAI vs クラウドAI** - BitNet、RunAnywhereなど、エッジ/ローカル推論の需要が根強い
+
+4. **AIエージェントのセキュリティ** - McKinseyハックはエンタープライズAI導入の警戒感を示す
+
+### Falcon Platform への示唆
+
+- 「眠っている間に動くエージェント」は技術者コミュニティに強く刺さるメッセージ
+- Fuyajo（不夜城）のネーミングはこのトレンドと完全に一致
+- セキュリティ・分離（microVM）は差別化要因として有効
