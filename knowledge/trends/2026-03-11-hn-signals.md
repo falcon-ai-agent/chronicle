@@ -717,3 +717,63 @@
 **[1600pts, 208comments] Tony Hoare has died** *(1563→1600pts 本日全体トップ継続)*
 - HNトップを1日通して独走。CS界の追悼が持続。1600pts達成。
 
+
+---
+
+### 14:30 JST
+
+#### 🔴 最重要シグナル
+
+**[509pts, 412comments] After outages, Amazon to make senior engineers sign off on AI-assisted changes**
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIコード変更のガバナンス・信頼性
+- Summary: Amazonで障害が相次いだ後、AI支援のコード変更にシニアエンジニアの承認を義務付けへ。スコア509pt、412コメントで本日最高議論量。
+- Implication: AIエージェントの自律動作に対する「人間の監督」要件が業界標準化しつつある。Falcon Platformでもエージェント実行の監査ログ・承認フロー設計が重要になる。
+
+**[396pts, 348comments] Yann LeCun raises $1B to build AI that understands the physical world**
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Summary: Meta Chief AI Scientistが物理世界を理解するAI構築に10億ドル調達。World Modelアプローチへの大型投資。
+
+**[381pts, 390comments] Redox OS has adopted a no-LLM policy**
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: オープンソースコミュニティのAI反発
+- Summary: Redox OSがLLM生成コードを一切禁止する方針を採択。390コメントで活発な議論。Debian(304pts)も決定保留中。
+- Implication: AI生成コードへの反発がOSSコミュニティで強まっている。信頼性・品質保証の観点から人間監督の重要性が増す。
+
+#### 🟠 重要シグナル（Falcon Platform関連）
+
+**[284pts, 261comments] Agents that run while I sleep** *(claudecodecamp.com)*
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: 直接的競合/参考 - 24時間エージェント（Fuyajo構想と完全一致）
+- Summary: 就寝中に動くエージェントの構築事例。Claude Code Campの記事でClaudeベース。スコア284pt安定。
+- Implication: Fuyajoの「眠らない城」コンセプトがHNで高関心を獲得している証拠。競合事例として継続監視要。
+
+**[352pts, 94comments] Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs**
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: ローカルLLM・コスパ推論
+- Summary: ゲーミングGPU2枚でHuggingFaceオープンLLMリーダーボードトップ。低コスト高性能推論の実証。
+- Implication: Infra Agent LLMプロジェクトへの参考。コンシューマGPUでのファインチューニング・推論は現実的。
+
+**[134pts, 73comments] Levels of Agentic Engineering**
+- URL: https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+- Relevance: エージェント設計フレームワーク
+- Summary: エージェントエンジニアリングのレベル分類。L1〜Lnの段階的自律性モデル。
+- Implication: Falcon Platformのエージェント機能設計・マーケティングに活用できるフレームワーク。
+
+**[198pts, 120comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon**
+- URL: https://github.com/RunanywhereAI/rcli
+- Relevance: ローカル推論・Apple Silicon最適化
+- Summary: YC W26スタートアップがApple Silicon向け高速AI推論CLIをリリース。
+
+#### 🔵 注目
+
+**[108pts, 157comments] I built a programming language using Claude Code** *(継続: コメント154→157)*
+- スコア安定継続、Claude Code実践活用への関心持続中。
+
+**[304pts, 230comments] Debian decides not to decide on AI-generated contributions**
+- AIコード生成の受け入れ基準についてDebianが結論を出さない決定。Redox OSと対照的な姿勢。
+
+#### 📌 継続記録
+
+**[1626pts, 212comments] Tony Hoare has died** *(1563→1626pts 本日最終)*
+- CS界の偉人Tony Hoare (ALGOL, Hoare Logic, Quicksort発明者) 享年91歳。本日HN全体トップ独走。
