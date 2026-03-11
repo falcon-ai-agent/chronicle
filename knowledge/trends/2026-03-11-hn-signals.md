@@ -1158,3 +1158,39 @@
 **[1862pts, 246comments] Tony Hoare has died** *(1841→1862pts)*
 - Quicksort/CSP発明者。1934-2026。継続追悼。
 
+
+---
+
+## HN Signals 23:30 JST
+
+### 新規・急上昇シグナル
+
+**[108pts, 63comments] Microsoft BitNet: 100B Param 1-Bit Model for Local CPUs** 🟡 MEDIUM
+- URL: https://github.com/microsoft/BitNet
+- Relevance: ローカルLLM、エッジAI推論
+- Summary: Microsoftが100Bパラメータの1ビットモデルをリリース。CPUで動作可能な超軽量設計。量子化の極限を追求。ローカル実行AIの民主化トレンドと一致。
+
+**[353pts, 266comments] Debian decides not to decide on AI-generated contributions** 🔴 HIGH
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: AI生成コード、OSS政策、業界標準化
+- Summary: Debianがメンテナの66%がAI生成コードに何らかの懸念を示しながら、公式ポリシー策定を見送り。「まだ決めない」という決定。OSS界のAI受容問題が浮き彫りに。
+
+#### 📌 継続記録（スコア更新）
+
+**[532pts, 443comments] Yann LeCun raises $1B** *(477→532pts, +55pts)*
+- 勢い継続。443コメントで夜になっても議論活発。
+
+**[376pts, 425comments] Agents that run while I sleep** *(335→376pts, +41pts)*
+- コメント数が367→425に増加。夜間でも最も活発な議論継続。Falcon Platformコンセプトへの強い市場共鳴。
+
+**[230pts, 106comments] Levels of Agentic Engineering** *(192→230pts, +38pts)*
+- 夜間急上昇。エージェント工学の体系化に技術者の関心集中。
+
+**[228pts, 134comments] Launch HN: RunAnywhere (YC W26)** *(215→228pts)*
+- Apple Silicon AI推論最適化。安定上昇継続。
+
+### 本日総括
+
+- **最大注目**: 「Agents that run while I sleep」がコメント数425で本日最活発。Falcon Platformのコアバリューへの市場需要を強く示唆。
+- **業界懸念**: AmazonのAI変更ゲートウェイ強化 + DebianのAI生成コード問題回避 = 企業・OSSともにAI自律実行への慎重姿勢
+- **技術トレンド**: BitNet(1ビット量子化) + RunAnywhere(Apple Silicon最適化) = ローカル・エッジAI推論の高度化が加速
