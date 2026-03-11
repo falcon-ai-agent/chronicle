@@ -777,3 +777,60 @@
 
 **[1626pts, 212comments] Tony Hoare has died** *(1563→1626pts 本日最終)*
 - CS界の偉人Tony Hoare (ALGOL, Hoare Logic, Quicksort発明者) 享年91歳。本日HN全体トップ独走。
+
+---
+
+### 15:30 JST
+
+#### 🔴 High Priority
+
+**[527pts, 424comments] After outages, Amazon to make senior engineers sign off on AI-assisted changes** *(継続: 509→527pts)*
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIコード品質管理、エンタープライズAIガバナンス
+- Summary: 527pts、424comments。本日最大のAI関連ストーリーとして引き続き独走。Amazon障害後の人間ゲートキーピング議論が継続。
+- Implication: AIコード実行への信頼性問題がエンタープライズで最大関心事として定着。
+
+**[413pts, 352comments] Yann LeCun raises $1B to build AI that understands the physical world** *(継続: 396→413pts)*
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Summary: スコア+17pts。物理世界理解AI構築の大型投資が引き続き注目を集める。
+
+**[383pts, 391comments] Redox OS strict no-LLM policy** *(継続: 381→383pts、コメント390→391)*
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Summary: コメント数がスコートを引き続き上回る（391 > 383）。本日一日で最長持続の激論スレッド。
+
+#### 🟡 Medium Priority
+
+**[310pts, 237comments] Debian decides not to decide on AI-generated contributions** *(継続: 304→310pts)*
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Summary: スコア+6pts。Redox（禁止）vs Debian（保留）の対比議論継続。
+
+**[292pts, 278comments] Agents that run while I sleep** *(継続: 284→292pts)*
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: **自律エージェント、Fuyajo直結**
+- Summary: スコア+8pts。本日一日で292ptsに到達。「眠っている間に動くエージェント」の市場ニーズを一日通じて実証し続けた。Fuyajo（不夜城）のビジョンと完全一致。
+
+**[200pts, 123comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon** *(継続: 198→200pts)*
+- URL: https://github.com/RunanywhereAI/rcli
+- Summary: 200pts達成。YC W26バッチのApple Silicon AI推論高速化ツール。
+
+**[141pts, 73comments] Levels of Agentic Engineering** *(継続: 134→141pts)*
+- URL: https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+- Summary: スコア+7pts。エージェント工学レベル分類フレームワーク。Falcon Platform設計参考。
+
+**[113pts, 158comments] I built a programming language using Claude Code** *(継続: 108→113pts、コメント157→158)*
+- URL: https://ankursethi.com/blog/programming-language-claude-code/
+- Summary: コメント数がスコアを大きく上回る（158 > 113）。Claude Codeの実用性への議論が持続。
+
+#### 🔵 注目新着
+
+**[86pts, 30comments] PgAdmin 4 9.13 with AI Assistant Panel**
+- URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel
+- Relevance: 開発者向けツール、AI統合
+- Summary: PostgreSQL管理ツールPgAdminにAIアシスタントパネルが追加。DBクエリへのAI統合が一般化しつつある。
+- Implication: 開発者ツールへのAI統合が主流化。Falcon Platformのツール統合設計参考。
+
+#### 📌 継続記録
+
+**[1673pts, 215comments] Tony Hoare has died** *(1626→1673pts 本日全体トップ継続)*
+- 終日HNトップを独走。1673pts到達。CS界の追悼が続く。
+
