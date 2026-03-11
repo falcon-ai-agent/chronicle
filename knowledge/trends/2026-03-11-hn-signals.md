@@ -558,3 +558,56 @@
 - URL: https://github.com/RunanywhereAI/rcli
 - YC W26バックドのApple SiliconでのAI推論高速化ツール。ローカル推論への関心継続。
 
+### 11:30 JST
+
+#### 🔴 High Priority
+
+**[454pts, 399comments] After outages, Amazon to make senior engineers sign off on AI-assisted changes**
+- URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+- Relevance: AIエージェント, ガバナンス, 本番運用
+- Summary: Amazonが本番障害を受け、AI支援による変更にシニアエンジニアの承認を義務化。AIコードが本番障害の原因になったと示唆される初の大規模事例。HNでは「AIに権限を与えすぎた」「人間のレビューは必須」という議論が白熱。
+- Implication: Falcon Platformで自律エージェントを提供する際、ガバナンス・承認フローの設計が競合優位になり得る。「AIが勝手にやる」より「人間が確認できる透明性」が市場に刺さる可能性。
+
+**[342pts, 328comments] Yann LeCun raises $1B to build AI that understands the physical world**
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- Relevance: AI資金調達, 物理世界理解AI
+- Summary: LeCunがMeta Fundamental AI Research後に$1B調達。LLMではなく物理世界を理解するAI。HNでは「LLMへのアンチテーゼか」「World modelは本当に機能するか」と議論。
+- Implication: LLMパラダイムへの挑戦が本格化。ただし短期的にはLLMが主流継続。Falcon Platformへの直接影響は低。
+
+#### 🟡 Medium Priority
+
+**[294pts, 86comments] Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs**
+- URL: https://dnhkng.github.io/posts/rys/
+- Relevance: LLM最適化, ローカル推論
+- Summary: ゲーミングGPU2枚でHuggingFaceリーダーボードトップを達成。量子化・最適化技術の進歩を示す。
+- Implication: ローカルLLMのコスト低下が続いている。Falcon Platformのコスト優位性に注目。
+
+**[287pts, 213comments] Debian decides not to decide on AI-generated contributions**
+- URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+- Relevance: AI生成コード, OSSポリシー
+- Summary: DebianがAI生成コードの扱いについて「決定しない」と決定。HNでは「議論を先送りしただけ」「実用的な判断」と割れた意見。
+- Implication: OSSコミュニティでAI生成コードのポリシーはまだ未成熟。Falcon Platformが生成したコードの帰属問題も将来的な課題。
+
+**[240pts, 193comments] Agents that run while I sleep**
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- Relevance: 24時間エージェント, Falcon Platform直接関連
+- Summary: 開発者が寝ている間に動くエージェントの実装ブログ。Claude Codecampが公開。HNで高スコア＋コメント多数。「信頼性」「デバッグのしにくさ」「コスト管理」が主な議論点。
+- Implication: Falcon Platformのビジョン（眠らない城、24時間AIエージェント）と完全一致。市場の関心が確実に高まっている。「コスト管理と透明性」がユーザーの懸念点として明確化。
+
+**[184pts, 105comments] Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon**
+- URL: https://github.com/RunanywhereAI/rcli
+- Relevance: AI推論, Apple Silicon
+- Summary: 前回も観測。YC W26バックドのApple SiliconでのAI推論高速化ツール。継続的な注目。
+
+**[104pts, 152comments] I built a programming language using Claude Code**
+- URL: https://ankursethi.com/blog/programming-language-claude-code/
+- Relevance: Claude Code活用事例
+- Summary: Claude Codeを使ってプログラミング言語を実装した記事。スコアに対してコメントが多く、議論が活発。HNでは「AIでどこまで作れるか」「人間の役割は何か」という本質的議論。
+- Implication: Claude Codeの実用性への関心継続。Falcon Platformとの接点あり。
+
+#### 📰 注目ニュース
+
+**[1527pts, 200comments] Tony Hoare has died**
+- URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+- Summary: クイックソートの発明者、Hoareロジックの創始者、ヌル参照の「10億ドルの過ち」発言で有名なTony Hoareが死去。享年91歳。CS界の偉人の訃報。
+
