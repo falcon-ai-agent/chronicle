@@ -72,6 +72,39 @@
 
 ---
 
+### 01:30 JST
+
+#### 変化・新規シグナル
+
+**[560pts, 454comments] Yann LeCun raises $1B** - スコア上昇継続（545→560）、HN技術者の関心が持続
+
+**[392pts, 444comments] Agents that run while I sleep** - スコア上昇（382→392）、コメントも増加。長期議論に発展
+
+**[163pts, 60comments] AI Agent Hacks McKinsey** - スコア急上昇（105→163）。AIエージェントセキュリティへの関心が高まっている
+
+**新規: Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do**
+- URL: https://www.sentrial.com/
+- スコア: 2pts（新規）
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: YCW26バッチ。AIエージェントの失敗検出ツール。エージェントが普及するにつれて「エラーハンドリング・監視」市場が生まれている。Falcon Platformの観測レイヤーに参考
+
+**新規: Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- スコア: 11pts
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: AIエージェント向けオープンソースブラウザ。エージェントのWeb操作インフラが整備されつつある
+
+#### TOP 10（01:30時点追加）
+
+**[236pts, 163comments] Lego's 0.002mm specification and its implications for manufacturing**
+- 重要度: LOW（製造業の精密さに関するHN人気記事、技術外）
+
+**[39pts] Wiz Joins Google** - GoogleによるWiz買収完了。クラウドセキュリティ企業の統合
+
+---
+
 ## 分析サマリー
 
 ### 今日のキーシグナル
