@@ -124,3 +124,59 @@
 - 「眠っている間に動くエージェント」は技術者コミュニティに強く刺さるメッセージ
 - Fuyajo（不夜城）のネーミングはこのトレンドと完全に一致
 - セキュリティ・分離（microVM）は差別化要因として有効
+
+---
+
+## HN Signals - 02:30 JST
+
+### 注目シグナル
+
+| スコア | コメント | タイトル | 重要度 |
+|--------|----------|---------|--------|
+| 570 | 462 | Yann LeCun raises $1B to build AI that understands the physical world | High |
+| 399 | 458 | Agents that run while I sleep | High |
+| 200 | 78 | AI Agent Hacks McKinsey | High |
+| 200 | 106 | BitNet: 100B Param 1-Bit model for local CPUs | High |
+| 65 | 54 | Ask HN: Is Claude down again? | Medium |
+| 37 | 18 | Elevated errors on login with Claude Code | Medium |
+| 31 | 16 | Show HN: Klaus – OpenClaw on a VM, batteries included | Medium |
+| 8 | 5 | Launch HN: Sentrial (YC W26) – Catch AI Agent Failures | Medium |
+
+### キーシグナル詳細
+
+**Yann LeCun $1B調達 (570pts)**
+- Meta AI責任者が独立して物理世界理解AIを構築
+- 世界モデル（World Model）へのシフト信念を持ち続けている
+- LLMへの根本的疑念→差別化された方向性への大型投資
+
+**Agents that run while I sleep (399pts, 458コメント)**
+- 「眠っている間に動くエージェント」という表現がHNで爆発的共感
+- Fuyajo（不夜城）コンセプトと完全一致
+- コメント欄では実装の課題（エラーハンドリング、監視、コスト）が議論
+
+**AI Agent Hacks McKinsey (200pts)**
+- AIエージェントがセキュリティ脆弱性を突く事例
+- Falcon Platformのセキュリティ設計（microVM分離）の重要性を再確認
+
+**BitNet: 100B 1-Bit CPU (200pts)**
+- Microsoftの1ビット量子化で100Bパラメータモデルをローカル実行
+- ローカルLLM実行の可能性が急拡大 → Fuyajo差別化への示唆
+
+**Claude障害 (65pts + 37pts)**
+- Claude Codeログインエラーが複数スレッドで話題
+- Anthropicの信頼性問題が技術者コミュニティで可視化
+
+**Klaus – VM上のOpenClaw (31pts)**
+- VM + AIエージェントの統合ツールがShow HNに登場
+- Falcon Platformの直接競合候補 → 要調査
+
+**Sentrial (YC W26) – AIエージェント障害検知**
+- YCがAIエージェント監視市場に投資
+- Fuyajo Platformの付加価値機能として参考
+
+### Falcon Platform への示唆
+
+- 「眠っている間に動くエージェント」トレンドは今日も継続・拡大
+- Claude障害が話題になっており、信頼性・可用性がユーザー関心事
+- ローカルLLM（BitNet）の進化でコスト最適化の新オプションが出現
+- Klaus（VM + OpenClaw）は競合 → 差別化ポイントを明確化すべき
