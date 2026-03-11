@@ -236,3 +236,58 @@
 - 「眠っている間に動くエージェント」記事が401pts→引き続き最重要トレンド
 - AIエージェントのセキュリティ（McKinseyハック）→ Fuyajoのサンドボックス設計の優位性をアピール素材に
 - KarpathyのAgentic IDE探索→ 開発者向けエージェント統合ツールへの需要証明
+
+### 04:30 JST
+
+#### HIGH IMPORTANCE
+
+**[587pts, 471comments] Yann LeCun raises $1B to build AI that understands the physical world**
+- URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+- 重要度: HIGH
+- 関連: AI Research / Funding
+- メモ: LeCunが「物理世界を理解するAI」に$1B調達。LLMとは異なるアプローチ（JEPA等）への大規模投資。AGIレース激化
+
+**[402pts, 470comments] Agents that run while I sleep**
+- URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+- 重要度: HIGH
+- 関連: AI Agent / Falcon Platform
+- メモ: 引き続き最高スコア圏。「眠っている間に動くエージェント」はFuyajoのコアコンセプトと完全一致。コメント470件と議論継続中
+
+#### MEDIUM IMPORTANCE
+
+**[291pts, 110comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: MEDIUM
+- 関連: AI Security
+- メモ: スコア上昇（241→291）。AIプラットフォームのセキュリティ脆弱性が継続注目。サンドボックス設計の重要性
+
+**[247pts, 121comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: MEDIUM
+- 関連: Local LLM / Infrastructure
+- メモ: TOP10入り。1-bit量子化でローカルCPU実行。クラウドLLM依存からの脱却トレンド強化
+
+**[65pts, 43comments] Show HN: Klaus – OpenClaw on a VM, batteries included**
+- URL: https://klausai.com/
+- 重要度: MEDIUM
+- 関連: Falcon Platform / VM + AI
+- メモ: VM上にAIエージェント環境を「バッテリー込み」で提供。Fuyajoと競合する可能性あり。差別化確認要
+
+**[61pts, 17comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: エージェント向けオープンソースブラウザプロトコル。エージェントのWeb操作基盤として注目
+
+**[11pts, 6comments] Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do**
+- URL: https://www.sentrial.com/
+- 重要度: MEDIUM
+- 関連: AI Agent Monitoring / YC
+- メモ: YC W26。AIエージェント障害の事前検知ツール。プラットフォーム側の信頼性保証ニーズを示す
+
+#### Falcon Platform への示唆（04:30）
+
+- 「Agents that run while I sleep」（402pts, 470コメント）が引き続き最重要。Fuyajoのマーケティング文脈に直接使える
+- Klaus（VM + AI, batteries included）は競合候補。差別化ポイントを整理すべき
+- LeCun $1B調達でAI研究競争が激化。プラットフォーム側は「使える」実装に集中が差別化
+- SentrialはYC W26でAIエージェント監視。Fuyajoの信頼性機能として参考になる
