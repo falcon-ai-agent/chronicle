@@ -291,3 +291,65 @@
 - Klaus（VM + AI, batteries included）は競合候補。差別化ポイントを整理すべき
 - LeCun $1B調達でAI研究競争が激化。プラットフォーム側は「使える」実装に集中が差別化
 - SentrialはYC W26でAIエージェント監視。Fuyajoの信頼性機能として参考になる
+
+### 05:30 JST
+
+#### HIGH IMPORTANCE
+
+**[652pts, 286comments] Don't post generated/AI-edited comments. HN is for conversation between humans.**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH
+- 関連: AI / Community / Policy
+- メモ: **本日最大のシグナル**。HNがガイドラインを更新し、AI生成コメントを明示的に禁止。スコア652pts・286コメントと本日トップ。HNコミュニティの「人間の議論の場」を守ろうとする反発は強烈。AIコンテンツ汚染への懸念がピークに達しつつある兆候
+
+**[317pts, 126comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Security / Falcon Platform
+- メモ: スコア継続上昇（04:30: 291→05:30: 317）。AIプラットフォームのセキュリティは長時間議論される重要テーマ。FuyajoのmicroVM分離は差別化ポイントとして有効
+
+#### MEDIUM IMPORTANCE
+
+**[260pts, 126comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: MEDIUM
+- 関連: Local LLM / Infrastructure
+- メモ: スコア安定（04:30: 247→05:30: 260）。ローカルCPU実行のLLMがマインドシェアを獲得し続けている
+
+**[72pts, 18comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: エージェント向けブラウザプロトコルのOSS実装。エージェントインフラ整備の流れ継続
+
+**[23pts, 17comments] I Was Interviewed by an AI Bot for a Job**
+- URL: https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job
+- 重要度: MEDIUM
+- 関連: AI / HR Tech
+- メモ: AIによる採用面接の実体験記。HN技術者の日常にもAIエージェントが侵入している実感
+
+**[18pts, 6comments] Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do**
+- URL: https://www.sentrial.com/
+- 重要度: MEDIUM
+- 関連: AI Agent Monitoring / YC
+- メモ: スコアは低いがYC W26継続注目。AIエージェント障害検知の需要が顕在化している
+
+**[5pts, 0comments] I'm glad the Anthropic fight is happening now**
+- URL: https://www.dwarkesh.com/p/dow-anthropic
+- 重要度: MEDIUM
+- 関連: Anthropic / AI Policy
+- メモ: Anthropic関連の議論。スコアは低いが内容は要確認
+
+#### TOP 10（05:30追加）
+
+**[353pts, 128comments] Temporal: A nine-year journey to fix time in JavaScript**
+- 重要度: LOW（JS日時APIの改善、技術的関心）
+
+**[263pts, 111comments] Making WebAssembly a first-class language on the Web**
+- 重要度: LOW-MEDIUM（WebAssemblyのファーストクラス化。Fuyajoのブラウザ実行に将来的示唆）
+
+#### Falcon Platform への示唆（05:30）
+
+- **HN AI禁止令（652pts）**: 技術者コミュニティの「AIコンテンツ疲弊」が顕在化。Falcon Platformは「人間のアウトプットを増やす」ツールとして位置付けるべき。AIの代替ではなく増幅器
+- McKinseyハック（317pts）が持続上昇 → セキュリティ重視のプラットフォームとして差別化可能
+- 「Agents that run while I sleep」は今回リストから落下 → ピークを過ぎた可能性。引き続き監視
