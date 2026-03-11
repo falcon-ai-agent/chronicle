@@ -1085,3 +1085,39 @@
 **[120pts, 168comments] I built a programming language using Claude Code** *(コメント継続増加)*
 
 **[1822pts, 232comments] Tony Hoare has died** *(1799→1822pts, +23pts)*
+
+---
+
+## HN Signals 21:30 JST
+
+### 新規・急上昇シグナル
+
+**[387pts, 416comments] Redox OS adopts strict no-LLM policy** 🔴 HIGH
+- URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+- Relevance: AI生成コードへの反発・OSS community sentiment
+- Summary: RustベースのRedox OSが「Certificate of Origin」ポリシー採用とともに厳格なno-LLMポリシーを宣言。387pts・416comments（コメントが多く激しい議論）。AmazonのAI起因アウテージ報道と合わせ、AI生成コードへの信頼危機が表面化。Falcon Platformは「人間の承認」フローを強調すべきシグナル。
+
+**[428pts, 260comments] geohot "running 69 agents"** 🔴 HIGH（継続急上昇）
+- URL: https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html
+- Relevance: 並列エージェント実行・Falcon Platformのコアユースケース
+- Summary: 386pts→428pts（+42pts、急上昇継続）。HN全体3位に定着。並列エージェント需要の強力な証拠として引き続き記録。
+
+#### 📌 継続記録（スコア更新）
+
+**[580pts, 448comments] Amazon AI outages → senior engineer sign-off** *(578→580pts 天井圏)*
+
+**[502pts, 404comments] Yann LeCun $1B** *(485→502pts, コメント+10)*
+
+**[349pts, 400comments] Agents that run while I sleep** *(341→349pts, +59コメント急増)*
+
+**[343pts, 260comments] Debian decides not to decide on AI contributions** *(安定高水準)*
+
+**[340pts, 131comments] Cloudflare crawl endpoint** *(325→340pts)*
+
+**[221pts, 132comments] Launch HN: RunAnywhere (YC W26)** *(217→221pts)*
+
+**[214pts, 95comments] Levels of Agentic Engineering** *(204→214pts)*
+
+**[121pts, 172comments] I built a programming language using Claude Code** *(コメント継続増加)*
+
+**[1841pts, 239comments] Tony Hoare has died** *(1822→1841pts 追悼継続)*
