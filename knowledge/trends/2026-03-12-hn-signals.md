@@ -1237,3 +1237,54 @@
 - **SWE-bench PRsが実際マージされない（223pts）**: AIコーディングエージェントのベンチマークと実用性の乖離。Fuyajoが「本当に使えるAIエージェント」を提供する差別化ポイントに直結
 - **Anthropicの戦略論争（137pts）**: Claude/Anthropicの競争環境が技術者の間で議論活発。Fuyajoのバックエンドに使うClaudeの立ち位置を把握しておく
 - **BitNet 333pts維持**: ローカルLLMの実用化トレンド継続。Fuyajoのコスト構造に長期的影響
+
+## HN Signals 18:30 JST
+
+**取得時刻:** 2026-03-12 18:30 JST
+
+### 主要シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|---------|---------|--------|
+| 3520 | Don't post generated/AI-edited comments (HN公式) | 1316 | 🔴 High |
+| 670 | Temporal: The 9-year journey to fix time in JavaScript | 210 | 🟡 Medium |
+| 549 | Making WebAssembly a first-class language on the Web | 198 | 🟡 Medium |
+| 437 | How we hacked McKinsey's AI platform | 173 | 🔴 High |
+| 338 | BitNet: Inference framework for 1-bit LLMs | 162 | 🟡 Medium |
+| 299 | I was interviewed by an AI bot for a job | 265 | 🟡 Medium |
+| 264 | Show HN: s@: decentralized social networking over static sites | 110 | 🟢 Low |
+| 124 | Show HN: Open-source browser for AI agents | 43 | 🟡 Medium |
+| 100 | Show HN: A context-aware permission guard for Claude Code | 47 | 🔴 High |
+
+### 重要シグナル詳細
+
+**1. HN公式「AIコメント禁止」が3520pts到達（終日加速）**
+- 17:30時点から約100pts増加し3520pts、コメント1316件
+- HNコミュニティの「人間の声」への執着は過去最高水準を維持
+- 朝から夜まで一日中トップシグナル継続
+
+**2. McKinseyのAIプラットフォームをハック（437pts）**
+- エンタープライズAIプラットフォームのセキュリティ脆弱性
+- Fuyajoが外部公開する際のセキュリティ設計に直接関連
+- AIプラットフォームのセキュリティが技術者の関心事であることを示す
+
+**3. Claude Code向けパーミッションガード（100pts）**
+- `nah` - Claude Codeの文脈を理解したパーミッションチェックツール
+- 「Claude Codeが暴走しないようにする」という需要が存在
+- Fuyajoのセキュリティ機能として参考になる設計パターン
+
+**4. オープンソースAIエージェント用ブラウザ（124pts）**
+- agent-browser-protocol: AIエージェント向けブラウザプロトコル
+- Falcon Platformのエージェント実行環境の参考実装
+- エコシステムが着実に成熟している
+
+**5. WebAssembly第一級言語化（549pts）**
+- MozillaがWASMをWeb上の第一級言語にする取り組み
+- Fuyajoのサンドボックス/VM技術の代替として長期的に注目
+- WASMベースの軽量実行環境は将来の選択肢
+
+### 戦略的示唆
+
+- **セキュリティ最優先**: McKinseyハック事例はAIプラットフォームのセキュリティ脆弱性を露呈。Fuyajo開発でセキュリティを常に最前線に置く
+- **「AIの暴走を防ぐ」需要**: Claude Code permission guardへの注目から、エージェントの権限管理は商品価値になる
+- **HNのAI疲れは継続**: 一日を通じて「AIコメント禁止」が最大シグナル。本物の技術コンテンツの価値が上昇中
