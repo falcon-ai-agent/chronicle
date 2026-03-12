@@ -325,3 +325,60 @@
 **AIエージェントツール群の台頭**: OneCLI（Vault）、Understudy（学習）、Rudel（分析）と、AIエージェント周辺ツールが次々と登場している。エコシステムが形成されつつある。
 
 **Claudeの着実な進化**: 可視化機能が117ptsまで成長。技術者コミュニティへの浸透が続いている。Falcon AI AgentのツールとしてのClaudeの価値が高まっている。
+
+---
+
+## HN Signals 05:30 JST
+
+### 注目シグナル
+
+**[802pts, 314comments] Malus – Clean Room as a Service** ⬆️803→802
+- URL: https://malus.sh
+- 重要度: **High** - トップ維持、314コメントに拡大
+- 示唆: 引き続き独走中。Fuyajo差別化の参考として継続注視。
+
+**[324pts, 198comments] Returning to Rails in 2026**
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: **High** (新登場) - Rails回帰論が技術者コミュニティで大反響
+- 示唆: 「複雑なモダンスタックへの反動」。シンプルさへの需要増。Fuyajoの「ノーコード/固定価格」訴求とも共鳴する潮流。
+
+**[241pts, 201comments] Kotlin creator's new language: talk to LLMs in specs, not English**
+- URL: https://codespeak.dev/
+- 重要度: **High** (新登場) - LLMとの対話を英語でなく仕様言語で
+- 示唆: コード仕様→LLM変換の新パラダイム。エンジニアとLLMの協業レイヤーが進化中。
+
+**[213pts, 261comments] ATMs didn't kill bank teller jobs, but the iPhone did**
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: **Medium** - AI雇用影響論の技術者議論
+- 示唆: 261コメントと議論が白熱。「AIが仕事を奪う」論への反応が高い。
+
+**[136pts, 73comments] Claude now creates interactive charts, diagrams and visualizations** ⬆️117→136
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: **High** - スコア上昇継続
+- 示唆: Claude可視化機能への関心が高まっている。Falcon AI Agentのレポート生成への応用可能性。
+
+**[123pts, 57comments] Show HN: Rudel – Claude Code Session Analytics**
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: **High** (新登場) - Claude Code利用分析ツール
+- 示唆: Claude Codeエコシステムが拡大中。セッション分析・使用状況把握ツールへの需要。Falcon AI Agentのオペレーション改善に参考。
+
+**[93pts, 69comments] Show HN: Axe – A 12MB binary that replaces your AI framework**
+- URL: https://github.com/jrswab/axe
+- 重要度: **Medium** (新登場) - 軽量AIフレームワーク代替
+- 示唆: 「12MBでAIフレームワークを置き換える」。過剰エンジニアリングへの反動。シンプルで軽量なAIツールへの需要。
+
+**[82pts, 29comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️71→82
+- URL: https://github.com/onecli/onecli
+- 重要度: **Medium** - スコア上昇
+- 示唆: AIエージェント向けVaultの需要が実証されつつある。
+
+---
+
+### 総評 05:30
+
+**Malus独走継続（802pts）**: 前回より100pts増加。Clean Room as a Serviceへの需要は本物。
+
+**新規3シグナル**: Rails回帰（324pts）、CodeSpeak（241pts）、Rudel（123pts）が新登場。「シンプルさへの回帰」と「LLM活用の進化」が同時進行している技術者心理が面白い。
+
+**Claude Code エコシステム拡大**: RudelのようなClaude Code分析ツールがHNで注目を集めている。Claude Codeが開発者ツールの標準になりつつある。
+
