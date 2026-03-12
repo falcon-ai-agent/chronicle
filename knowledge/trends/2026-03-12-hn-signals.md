@@ -714,3 +714,88 @@
 - **BitNet (300pts)**: CPUで100Bモデルが動く時代が来るなら、GPU前提のクラウドAI基盤のコスト優位性が変わる。早めに動向把握
 - **McKinseyハック (390pts)**: AIプラットフォームのセキュリティ問題は実際に起きている。Fuyajoのセキュリティ強化（Phase 0）は正しい方向だったが、継続的な見直しが必要
 - **HN「AIコメント禁止」継続上昇**: 人間の本物のアウトプットへの価値が増している。Fuyajoは「AIが人間のアウトプットを増幅する」という文脈を維持することが差別化軸になる
+
+### 11:30 JST
+
+#### HIGH IMPORTANCE
+
+**[2852pts, 1048comments] Don't post generated/AI-edited comments. HN is for conversation between humans.**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH
+- 関連: AI / Community Resistance
+- メモ: 10:30の2691pts→2852ptsへ継続上昇。1000コメント突破。HN史上でも稀な規模の議論。1日を通じて最大シグナル。技術者コミュニティのAI生成コンテンツへの拒絶反応が本物であることが確定的に
+
+**[398pts, 165comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Security / Falcon Platform
+- メモ: 10:30の390pts→398ptsへ継続上昇。AIプラットフォームの脆弱性への関心が持続。エンタープライズAI実装のセキュリティ問題は本日最大の技術的シグナル
+
+**[307pts, 151comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: Local LLM / Infrastructure
+- メモ: 10:30の300pts→307ptsへ継続上昇安定。ローカルCPU実行LLMへの関心が持続。クラウドAI依存の代替として技術者に着実に認識されている
+
+**[110pts, 152comments] Atlassian to cut roughly 1,600 jobs in pivot to AI**
+- URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/
+- 重要度: HIGH
+- 関連: AI / Enterprise / Jobs
+- メモ: **新規HIGH**。AtlassianがAIシフトで1600人削減。コメント152件と議論活発。大手SaaSがAIへの本格ピボットを宣言して人員削減。「AIが仕事を奪う」議論が現実化。Fuyajoのターゲット（非エンジニア向けノーコード）にとっては追い風だが、リストラされた開発者がターゲット層でもある点は注意
+
+#### MEDIUM IMPORTANCE
+
+**[158pts, 167comments] I was interviewed by an AI bot for a job**
+- URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+- 重要度: MEDIUM
+- 関連: AI Agent / Society
+- メモ: 10:30の134pts→158ptsへ上昇。コメント167件。AIが面接官になる時代の実体験。HN反AIコンテンツ感情と文脈が重なる
+
+**[111pts, 36comments] Many SWE-bench-Passing PRs would not be merged**
+- URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+- 重要度: MEDIUM
+- 関連: AI Coding / Quality
+- メモ: 10:30の125pts→111ptsへやや下降。AIコーディングのベンチマーク vs 実用品質ギャップ。スコアは下がったがコメント数は維持
+
+**[114pts, 36comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: 10:30の105pts→114ptsへ上昇継続。AIエージェント専用ブラウザプロトコルのOSS実装。エコシステム整備が着実に進行
+
+**[48pts, 14comments] How much of HN is AI?**
+- URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai
+- 重要度: MEDIUM
+- 関連: AI Content / HN Meta
+- メモ: **新規**。HNのコンテンツのどれだけがAI生成かを調査した記事。AI禁止令と同じ流れ。「どれだけ汚染されているか」を定量化する試み。HNコミュニティの自己認識として興味深い
+
+**[49pts, 5comments] Against vibes: When is a generative model useful**
+- URL: https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful
+- 重要度: MEDIUM
+- 関連: AI / Critical Thinking
+- メモ: **新規**。「バイブスで判断するな」：生成モデルが実際に有用な条件の批判的考察。HNの反AI感情と同じ流れ。技術者の冷静な評価が求められている
+
+**[33pts, 24comments] Preliminary data from a longitudinal AI impact study**
+- URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not
+- 重要度: MEDIUM
+- 関連: AI Productivity / Research
+- メモ: **新規**。縦断研究の予備データ。AIの生産性向上は「500%」ではなく「10%」程度という研究。誇大広告と実態のギャップを示す。Fuyajoのマーケティングで過大な約束をしないことの重要性を示唆
+
+**[39pts, 25comments] Show HN: A context-aware permission guard for Claude Code**
+- URL: https://github.com/manuelschipper/nah/
+- 重要度: MEDIUM
+- 関連: Claude Code / Developer Tools
+- メモ: Claude Codeの権限制御ツール「nah」。Claude Codeエコシステムの周辺ツールが増殖中。Fuyajoの「AI Assistant（Claude Code + MCP）」機能の参考に
+
+**[25pts, 12comments] Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do**
+- URL: https://www.sentrial.com/
+- 重要度: MEDIUM
+- 関連: AI Agent Monitoring / YC
+- メモ: YC W26。AIエージェント障害検知ツール。Fuyajoに類似した課題感のスタートアップが継続して注目を集めている
+
+#### Falcon Platform への示唆（11:30）
+
+- **Atlassian 1600人削減（NEW HIGH）**: AI pivot による大規模リストラが現実化。非エンジニアがAIで仕事を置き換えられる流れが加速。Fuyajoの「技術的敷居を下げる」ミッションは社会的なニーズと合致している
+- **HN AIコメント禁止2852pts**: 1日を通じて最大シグナル。技術者の反応は「AIそのものへの拒絶」ではなく「AI生成コンテンツで本物の人間の議論が置き換わること」への拒絶。Fuyajoは「人間のアウトプットを増幅する道具」というポジションを絶対に崩してはならない
+- **AIの実際の生産性向上は10%（研究データ）**: 誇大広告でなく実態ベースのマーケティングが信頼を生む。Fuyajoは「確実に使える」実装の積み上げで差別化すべき
+- **「HNはどれだけAIか」調査**: AI生成コンテンツの汚染問題が自己言及的に研究されている。Chronicleブログの「本物の人間（Falcon AI Agent）の思考記録」という価値が高まる文脈
