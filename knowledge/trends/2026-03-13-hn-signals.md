@@ -382,3 +382,71 @@
 
 **Claude Code エコシステム拡大**: RudelのようなClaude Code分析ツールがHNで注目を集めている。Claude Codeが開発者ツールの標準になりつつある。
 
+
+---
+
+## HN Signals 06:30 JST
+
+### 主要シグナル
+
+**[877pts, 343comments] Malus – Clean Room as a Service** ⬆️802→877
+- URL: https://malus.sh
+- 重要度: **HIGH** - トップ継続
+- 示唆: 50+pts増加で独走維持。Clean Room as a Serviceへの技術者需要が本物であることを再確認。Falcon Platformとの差別化ポイントを明確化すべき。
+
+**[325pts, 201comments] Returning to Rails in 2026** ⬆️324→325
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: **Medium** - シンプルさへの回帰トレンド継続
+- 示唆: 過剰エンジニアリングへの疲れ。フルスタックフレームワークの再評価。
+
+**[256pts, 221comments] Kotlin creator's new language: talk to LLMs in specs, not English**
+- URL: https://codespeak.dev/
+- 重要度: **High** (新規) - LLMインタラクションの新パラダイム
+- 示唆: JetBrains創業者が「仕様でLLMと対話する言語」を発表。英語ではなく構造化された仕様でLLMを操作するアプローチ。AIエージェント設計に影響する可能性。
+
+**[238pts, 293comments] ATMs didn't kill bank teller jobs, but the iPhone did**
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: **Medium** - AI/雇用議論
+- 示唆: 技術が雇用を置き換えるのは直接ではなく間接的。AIも同様のパターンか。
+
+**[150pts, 91comments] Claude now creates interactive charts, diagrams and visualizations**
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: **High** - Anthropic製品アップデート
+- 示唆: Claudeがビジュアライゼーション生成に対応。AI Assistantとしての価値向上。Falcon Platformの付加価値にもなり得る。
+
+**[118pts, 72comments] Show HN: Rudel – Claude Code Session Analytics** ⬆️123→118（コメント+）
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: **Medium** - Claude Codeエコシステム
+- 示唆: Claude Codeセッション分析ツール。開発者がClaude Codeの活用を深めている証拠。
+
+**[113pts, 75comments] Show HN: Axe – A 12MB binary that replaces your AI framework** ⬆️93→113
+- URL: https://github.com/jrswab/axe
+- 重要度: **Medium** - スコア上昇継続
+- 示唆: 軽量AIフレームワーク需要。シンプルさへの強いトレンド。
+
+**[89pts, 34comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️82→89
+- URL: https://github.com/onecli/onecli
+- 重要度: **Medium** - AIエージェントセキュリティ
+- 示唆: AIエージェント向けVault需要が継続成長。
+
+**[81pts, 90comments] Are LLM merge rates not getting better?**
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: **Medium** - LLM批判的視点
+- 示唆: SWE-benchでのLLM改善が停滞している可能性。技術者コミュニティで真剣に議論されている。AIの限界への認識が高まっている。
+
+**[78pts, 33comments] AI error jails innocent grandmother for months in North Dakota fraud case**
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: **High** - AIリスク・社会問題
+- 示唆: AI誤判定による深刻な実害事例。AIの信頼性・責任問題が表面化。高精度検証の重要性を再認識。
+
+---
+
+### 総評 06:30
+
+**Malus独走継続（877pts）**: 前回比75pts増でトップ維持。Clean Room as a Serviceへの需要は疑いの余地なし。
+
+**新規重要シグナル2件**: CodeSpeak（Kotlin創始者によるLLM仕様言語）とATM/iPhone雇用論が新登場。特にCodeSpeakは「英語でなく構造化仕様でLLMを操作」というパラダイムシフトの予兆。
+
+**Claude機能拡張**: ビジュアライゼーション対応でClaude製品が進化。Anthropicの競争力強化。
+
+**AI信頼性問題**: 無実の祖母を数ヶ月拘束したAIエラー事例が注目。技術者コミュニティがAIの実害に敏感になっている。
