@@ -270,6 +270,189 @@
 
 ---
 
+### 04:30 JST
+
+#### High Importance
+
+**[703pts, 272comments] Malus – Clean Room as a Service** ← HN #1独走
+- URL: https://malus.sh
+- 重要度: **最高** - 467pts→703ptsへ急伸。HN史上でもトップクラスのスコアで完全に#1
+- 示唆: Fuyajoと直接競合するコンセプトがHN史上最高クラスの注目を集めている。「クリーンルームをサービスとして」という需要は本物。AIエージェント特化・24時間自律実行による差別化を急ぐ必要あり。
+
+**[110pts, 68comments] Show HN: Rudel – Claude Code Session Analytics**
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: **High** - 99pts→110pts。Claude Code分析ツールとして定着
+- 示唆: AIエージェントの動作を可視化・分析する需要が確認された。Falcon AI Agentの行動ログ分析にも応用できる。
+
+#### Medium Importance
+
+**[320pts, 197comments] Returning to Rails in 2026**
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: **Medium** - 285pts→320ptsへ上昇継続
+- 示唆: フレームワーク複雑化への疲弊、シンプルさ回帰のトレンド継続。Fuyajoの「シンプルに使える」訴求は正しい方向性。
+
+**[219pts, 175comments] Kotlin creator's new language: a formal way to talk to LLMs instead of English**
+- URL: https://codespeak.dev/
+- 重要度: **Medium** - 149pts→219ptsへ上昇継続。LLM形式言語への関心が高まっている
+- 示唆: 自然言語プロンプトの限界を形式言語で突破しようとするアプローチ。プロンプトエンジニアリングの次段階として注視。
+
+**[220pts, 236comments] Iran-backed hackers claim wiper attack on medtech firm Stryker**
+- URL: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/
+- 重要度: **Medium** - 国家支援型ハッカーによるワイパー攻撃
+- 示唆: インフラへのサイバー攻撃が活発化。FuyajoのVM分離・データ保護は単なる機能ではなく、セキュリティ訴求点として強調できる。
+
+**[117pts, 61comments] Claude now creates interactive charts, diagrams and visualizations**
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: **Medium** - 53pts→117ptsへ上昇。Anthropic製品アップデート
+- 示唆: Claudeの可視化機能強化が技術者に届いてきた。AIエージェントの出力表現力がさらに向上。
+
+**[71pts, 26comments] Show HN: OneCLI – Vault for AI Agents in Rust**
+- URL: https://github.com/onecli/onecli
+- 重要度: **Medium** - AIエージェント向けの認証情報管理ツール
+- 示唆: AIエージェントの認証情報管理（Vault）への需要。Fuyajoでのエージェント実行基盤に参考となるアーキテクチャ。
+
+**[42pts, 10comments] Show HN: Understudy – Teach a desktop agent by demonstrating a task once**
+- URL: https://github.com/understudy-ai/understudy
+- 重要度: **Medium** - デモベースのデスクトップエージェント学習
+- 示唆: 「一度見せるだけでタスクを学習するエージェント」。GUIエージェントの学習手法として注目。
+
+---
+
+### 総評 04:30
+
+**Malus完全独走（703pts）**: Clean Room as a ServiceがHN史上最高クラスに達した。この需要の強さは「安全な実行環境をサービスとして提供する」市場が本物であることを証明している。Fuyajoは差別化を急ぐ必要があるが、逆に言えばこの巨大な需要を取りに行くチャンスでもある。AIエージェント特化・日本市場・固定価格という軸で差別化する。
+
+**AIエージェントツール群の台頭**: OneCLI（Vault）、Understudy（学習）、Rudel（分析）と、AIエージェント周辺ツールが次々と登場している。エコシステムが形成されつつある。
+
+**Claudeの着実な進化**: 可視化機能が117ptsまで成長。技術者コミュニティへの浸透が続いている。Falcon AI AgentのツールとしてのClaudeの価値が高まっている。
+
+---
+
+## HN Signals 05:30 JST
+
+### 注目シグナル
+
+**[802pts, 314comments] Malus – Clean Room as a Service** ⬆️803→802
+- URL: https://malus.sh
+- 重要度: **High** - トップ維持、314コメントに拡大
+- 示唆: 引き続き独走中。Fuyajo差別化の参考として継続注視。
+
+**[324pts, 198comments] Returning to Rails in 2026**
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: **High** (新登場) - Rails回帰論が技術者コミュニティで大反響
+- 示唆: 「複雑なモダンスタックへの反動」。シンプルさへの需要増。Fuyajoの「ノーコード/固定価格」訴求とも共鳴する潮流。
+
+**[241pts, 201comments] Kotlin creator's new language: talk to LLMs in specs, not English**
+- URL: https://codespeak.dev/
+- 重要度: **High** (新登場) - LLMとの対話を英語でなく仕様言語で
+- 示唆: コード仕様→LLM変換の新パラダイム。エンジニアとLLMの協業レイヤーが進化中。
+
+**[213pts, 261comments] ATMs didn't kill bank teller jobs, but the iPhone did**
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: **Medium** - AI雇用影響論の技術者議論
+- 示唆: 261コメントと議論が白熱。「AIが仕事を奪う」論への反応が高い。
+
+**[136pts, 73comments] Claude now creates interactive charts, diagrams and visualizations** ⬆️117→136
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: **High** - スコア上昇継続
+- 示唆: Claude可視化機能への関心が高まっている。Falcon AI Agentのレポート生成への応用可能性。
+
+**[123pts, 57comments] Show HN: Rudel – Claude Code Session Analytics**
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: **High** (新登場) - Claude Code利用分析ツール
+- 示唆: Claude Codeエコシステムが拡大中。セッション分析・使用状況把握ツールへの需要。Falcon AI Agentのオペレーション改善に参考。
+
+**[93pts, 69comments] Show HN: Axe – A 12MB binary that replaces your AI framework**
+- URL: https://github.com/jrswab/axe
+- 重要度: **Medium** (新登場) - 軽量AIフレームワーク代替
+- 示唆: 「12MBでAIフレームワークを置き換える」。過剰エンジニアリングへの反動。シンプルで軽量なAIツールへの需要。
+
+**[82pts, 29comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️71→82
+- URL: https://github.com/onecli/onecli
+- 重要度: **Medium** - スコア上昇
+- 示唆: AIエージェント向けVaultの需要が実証されつつある。
+
+---
+
+### 総評 05:30
+
+**Malus独走継続（802pts）**: 前回より100pts増加。Clean Room as a Serviceへの需要は本物。
+
+**新規3シグナル**: Rails回帰（324pts）、CodeSpeak（241pts）、Rudel（123pts）が新登場。「シンプルさへの回帰」と「LLM活用の進化」が同時進行している技術者心理が面白い。
+
+**Claude Code エコシステム拡大**: RudelのようなClaude Code分析ツールがHNで注目を集めている。Claude Codeが開発者ツールの標準になりつつある。
+
+
+---
+
+## HN Signals 06:30 JST
+
+### 主要シグナル
+
+**[877pts, 343comments] Malus – Clean Room as a Service** ⬆️802→877
+- URL: https://malus.sh
+- 重要度: **HIGH** - トップ継続
+- 示唆: 50+pts増加で独走維持。Clean Room as a Serviceへの技術者需要が本物であることを再確認。Falcon Platformとの差別化ポイントを明確化すべき。
+
+**[325pts, 201comments] Returning to Rails in 2026** ⬆️324→325
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: **Medium** - シンプルさへの回帰トレンド継続
+- 示唆: 過剰エンジニアリングへの疲れ。フルスタックフレームワークの再評価。
+
+**[256pts, 221comments] Kotlin creator's new language: talk to LLMs in specs, not English**
+- URL: https://codespeak.dev/
+- 重要度: **High** (新規) - LLMインタラクションの新パラダイム
+- 示唆: JetBrains創業者が「仕様でLLMと対話する言語」を発表。英語ではなく構造化された仕様でLLMを操作するアプローチ。AIエージェント設計に影響する可能性。
+
+**[238pts, 293comments] ATMs didn't kill bank teller jobs, but the iPhone did**
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: **Medium** - AI/雇用議論
+- 示唆: 技術が雇用を置き換えるのは直接ではなく間接的。AIも同様のパターンか。
+
+**[150pts, 91comments] Claude now creates interactive charts, diagrams and visualizations**
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: **High** - Anthropic製品アップデート
+- 示唆: Claudeがビジュアライゼーション生成に対応。AI Assistantとしての価値向上。Falcon Platformの付加価値にもなり得る。
+
+**[118pts, 72comments] Show HN: Rudel – Claude Code Session Analytics** ⬆️123→118（コメント+）
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: **Medium** - Claude Codeエコシステム
+- 示唆: Claude Codeセッション分析ツール。開発者がClaude Codeの活用を深めている証拠。
+
+**[113pts, 75comments] Show HN: Axe – A 12MB binary that replaces your AI framework** ⬆️93→113
+- URL: https://github.com/jrswab/axe
+- 重要度: **Medium** - スコア上昇継続
+- 示唆: 軽量AIフレームワーク需要。シンプルさへの強いトレンド。
+
+**[89pts, 34comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️82→89
+- URL: https://github.com/onecli/onecli
+- 重要度: **Medium** - AIエージェントセキュリティ
+- 示唆: AIエージェント向けVault需要が継続成長。
+
+**[81pts, 90comments] Are LLM merge rates not getting better?**
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: **Medium** - LLM批判的視点
+- 示唆: SWE-benchでのLLM改善が停滞している可能性。技術者コミュニティで真剣に議論されている。AIの限界への認識が高まっている。
+
+**[78pts, 33comments] AI error jails innocent grandmother for months in North Dakota fraud case**
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: **High** - AIリスク・社会問題
+- 示唆: AI誤判定による深刻な実害事例。AIの信頼性・責任問題が表面化。高精度検証の重要性を再認識。
+
+---
+
+### 総評 06:30
+
+**Malus独走継続（877pts）**: 前回比75pts増でトップ維持。Clean Room as a Serviceへの需要は疑いの余地なし。
+
+**新規重要シグナル2件**: CodeSpeak（Kotlin創始者によるLLM仕様言語）とATM/iPhone雇用論が新登場。特にCodeSpeakは「英語でなく構造化仕様でLLMを操作」というパラダイムシフトの予兆。
+
+**Claude機能拡張**: ビジュアライゼーション対応でClaude製品が進化。Anthropicの競争力強化。
+
+**AI信頼性問題**: 無実の祖母を数ヶ月拘束したAIエラー事例が注目。技術者コミュニティがAIの実害に敏感になっている。
+
+---
+
 ### 07:30 JST
 
 #### HIGH IMPORTANCE
@@ -278,19 +461,19 @@
 - URL: https://malus.sh
 - 重要度: HIGH
 - 関連: Clean Room / Sandbox / Falcon Platform 直接競合
-- メモ: 03:30時点594pts → 07:30で915pts。HN本日の圧倒的No.1。4時間で300pt以上増加という異常な伸び。「隔離された実行環境をサービスとして」というFuyajoのコアコンセプトと完全一致。技術者コミュニティの強力な支持は市場ニーズの証明。今すぐMalusの詳細を調査して差別化ポイントを明確にする必要がある。
+- メモ: 06:30時点877pts → 07:30で915pts。HN本日の圧倒的No.1。「隔離された実行環境をサービスとして」というFuyajoのコアコンセプトと完全一致。技術者コミュニティの強力な支持は市場ニーズの証明。今すぐMalusの詳細を調査して差別化ポイントを明確にする必要がある。
 
 **[328pts, 123comments] Shall I implement it? No**
 - URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
 - 重要度: HIGH
 - 関連: AI Coding / Developer Judgment / LLM Limits
-- メモ: タイトルから「AIが実装すべきか判断する」ことへの議論。LLMやAIコーディングアシスタントが「何でも実装する」問題への技術者の反応。開発者の判断力とAI活用の境界線という本質的な問いを提起している。
+- メモ: 「AIが実装すべきか判断する」ことへの議論。LLMやAIコーディングアシスタントが「何でも実装する」問題への技術者の反応。開発者の判断力とAI活用の境界線という本質的な問いを提起している。
 
 **[261pts, 228comments] Kotlin creator's new language: talk to LLMs in specs, not English**
 - URL: https://codespeak.dev/
 - 重要度: HIGH
 - 関連: LLM / Programming Languages / AI Interface
-- メモ: 190pts→261ptsへ上昇継続、コメント数も増加。「英語の代わりに仕様で話す」というアプローチ。LLMとの対話を形式化するトレンドが加速している。
+- メモ: 256pts→261ptsへ上昇継続、コメント数も増加。「英語の代わりに仕様で話す」というアプローチ。LLMとの対話を形式化するトレンドが加速している。
 
 **[200pts, 103comments] Innocent woman jailed after being misidentified using AI facial recognition**
 - URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
@@ -302,49 +485,38 @@
 - URL: https://claude.com/blog/claude-builds-visuals
 - 重要度: HIGH
 - 関連: Claude / Anthropic / AI Capabilities
-- メモ: 92pts→154ptsへ上昇継続。Claudeのインタラクティブ可視化機能強化。Falcon AI AgentがClaudeを使う上での機能向上。Fuyajoのアウトプット品質向上にも活用可能。
+- メモ: 150pts→154ptsへ上昇継続。Claudeのインタラクティブ可視化機能強化。Falcon AI AgentがClaudeを使う上での機能向上。
 
 #### MEDIUM IMPORTANCE
 
 **[325pts, 203comments] Returning to Rails in 2026**
 - URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
 - 重要度: MEDIUM
-- 関連: Developer Tools / Framework Simplicity
-- メモ: 318pts→325ptsへ微増。Railsトレンドは継続。シンプルさ回帰という技術者心理の定着。
+- メモ: 325pts維持。シンプルさ回帰トレンド継続。
 
 **[118pts, 72comments] Show HN: Rudel – Claude Code Session Analytics**
 - URL: https://github.com/obsessiondb/rudel
 - 重要度: MEDIUM
-- 関連: Claude Code / AI Agent Analysis
-- メモ: 105pts→118pts成長継続。Claude Codeセッション分析ツール。AIエージェントの動作パターン可視化への需要が続いている。
+- メモ: 118pts安定。Claude Codeセッション分析ツール継続注目。
 
 **[88pts, 95comments] Are LLM merge rates not getting better?**
 - URL: https://entropicthoughts.com/no-swe-bench-improvement
 - 重要度: MEDIUM
-- 関連: LLM Performance / SWE-bench / AI Coding
-- メモ: SWE-benchでのLLMコーディング性能が頭打ちという分析。コメント95件と議論活発。「AIコーディングの限界」というテーマへの技術者の関心が高い。
+- メモ: 81→88pts。SWE-bench停滞論が活発に議論。「LLMは全てを解決しない」という現実認識が広がりつつある。
 
 **[122pts, 85comments] Show HN: Axe – A 12MB binary that replaces your AI framework**
 - URL: https://github.com/jrswab/axe
 - 重要度: MEDIUM
-- 関連: AI Tools / Lightweight Framework
-- メモ: 61pts→122ptsへ倍増。軽量AIフレームワーク需要が拡大。「依存なし・シングルバイナリ」という価値観が支持されている。
+- メモ: 113→122ptsへ倍増傾向継続。軽量AIフレームワーク需要拡大。
 
 **[105pts, 37comments] Show HN: OneCLI – Vault for AI Agents in Rust**
 - URL: https://github.com/onecli/onecli
 - 重要度: MEDIUM
-- 関連: AI Agents / Security / Secret Management
-- メモ: 52pts→105ptsへ倍増。AIエージェント向けRust製Vault。エージェントが増えるに従い秘密情報管理ツールの需要も増加している。
-
-**[67pts, 19comments] Show HN: Understudy – Teach a desktop agent by demonstrating a task once**
-- URL: https://github.com/understudy-ai/understudy
-- 重要度: MEDIUM
-- 関連: AI Agent / Desktop Automation / Learning
-- メモ: 25pts→67ptsへ成長。「一度デモすれば学習する」デスクトップエージェント。模倣学習型エージェントへの関心の高まり。
+- メモ: 89→105ptsへ上昇。AIエージェント向けRust製Vault。秘密情報管理ツール需要増。
 
 #### INSIGHTS 07:30
 
-- **Malus 915pts、もはや圧倒的**: Clean Room as a ServiceがHN歴史的レベルで支持されている。このコンセプトの需要は本物。FuyajoはMalusの詳細調査（価格・技術スタック・ターゲット）を最優先で実施すべき。
+- **Malus 915pts、圧倒的**: 一日を通じてトップを独走。Clean Room as a Serviceへの需要は本物。Fuyajoの差別化ポイント（AIエージェント特化・日本市場・固定価格）を明確にすべき。
 - **「Shall I implement it? No」**: AIコーディングツールへの反省と境界線の議論。「何でも実装するAI」への疲弊感が技術者に広がっている。Falcon Agentは判断力と選択性を重視すべき。
-- **LLM性能頭打ち論**: SWE-bench停滞記事が活発に議論されている。「LLMは全てを解決しない」という現実認識が広がりつつある。
-- **軽量化トレンドが加速**: Axe（61→122pts）、OneCLI（52→105pts）など軽量ツールが軒並み倍増。「重い依存を排除」というニーズが強まっている。
+- **LLM性能頭打ち論**: SWE-bench停滞記事が活発に議論。「LLMは全てを解決しない」という現実認識が広がりつつある。
+- **軽量化トレンドが加速**: Axe（61→122pts）、OneCLI（89→105pts）など軽量ツールが軒並み成長。「重い依存を排除」というニーズが強まっている。
