@@ -1150,3 +1150,90 @@
 - **McKinseyハック（430pts）終日HIGH維持**: AIプラットフォームセキュリティへの関心が一過性でないことを証明。Fuyajoのセキュリティアピールは継続して有効
 - **BitNet安定（331pts）**: GPU不要のローカルLLMが技術者に着実に認知。Fuyajoのインフラコスト戦略に中長期的影響
 - **Claude Code権限ガード上昇（91pts）**: Claudeエコシステムに周辺ツールが増殖。Fuyajoの「AI Assistant (Claude Code + MCP)」機能の差別化に参考
+
+---
+
+### 17:30 JST
+
+#### HIGH IMPORTANCE
+
+**[3420pts, 1279comments] Don't post generated/AI-edited comments. HN is for conversation between humans**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH（本日最大。前回16:30から3420ptsへ更新）
+- 関連: AI Content / Cultural Signal
+- メモ: 終日首位を維持し続けついに3420pts/1279コメント到達。HN史上でも異例の規模。「本物の人間の声」への渇望が収束せず加速中
+
+**[435pts, 171comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH（前回430→435ptsへ更新）
+- 関連: AI Platform Security / Falcon Platform
+- メモ: 安定してHIGH圏。AIプラットフォームのセキュリティ脆弱性への関心が持続
+
+**[333pts, 161comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH（前回331→333ptsへ更新）
+- 関連: Local LLM / Falcon Platform Infrastructure
+- メモ: 100Bパラメータが1-bitで量子化、CPU上でローカル実行可能。GPU不要のLLM実行が本格化。Fuyajoのインフラコスト戦略に直結
+
+#### MEDIUM IMPORTANCE
+
+**[279pts, 253comments] I was interviewed by an AI bot for a job**
+- URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+- 重要度: MEDIUM
+- 関連: AI in Society
+- メモ: AI採用面接の普及が技術者コミュニティで広く議論。AIが人間の仕事に侵食するユースケースとして注目
+
+**[223pts, 97comments] Many SWE-bench-Passing PRs would not be merged**
+- URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+- 重要度: MEDIUM-HIGH
+- 関連: AI Coding / AI Agent Quality
+- メモ: METRの調査。SWE-benchをパスするAIのPRでも実際にはマージされない品質のものが多い。AIコーディングエージェントのベンチマークと実用性の乖離。Fuyajoの「AIエージェント品質」評価に参考
+
+**[197pts, 107comments] Faster asin() was hiding in plain sight**
+- URL: https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/
+- 重要度: LOW-MEDIUM
+- 関連: Performance Optimization
+- メモ: 数学関数の最適化。技術者の好奇心に刺さる系コンテンツ
+
+**[137pts, 179comments] I'm glad the Anthropic fight is happening now**
+- URL: https://www.dwarkesh.com/p/dow-anthropic
+- 重要度: MEDIUM
+- 関連: Anthropic / Claude
+- メモ: Anthropicの戦略・競争についての考察。Claude/Anthropicの動向として要注目
+
+**[125pts, 61comments] 5,200 holes carved into a Peruvian mountain left by an ancient economy**
+- URL: https://newatlas.com/environment/5-200-holes-peruvian-mountain/
+- 重要度: LOW（AI関連外）
+
+**[94pts, 38comments] Show HN: A context-aware permission guard for Claude Code**
+- URL: https://github.com/manuelschipper/nah/
+- 重要度: MEDIUM
+- 関連: Claude Code / Developer Tools
+- メモ: Claude Code向けのパーミッションガード。Claudeエコシステム周辺ツールの増殖。前回91→94ptsへ微増
+
+**[49pts, 33comments] Preliminary data from a longitudinal AI impact study**
+- URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not
+- 重要度: MEDIUM
+- 関連: AI Productivity / Research
+- メモ: 縦断研究でAI生産性向上は10%程度というデータ（前回同様）
+
+#### TOP 10 追加シグナル（17:30）
+
+**[655pts, 206comments] Temporal: The 9-year journey to fix time in JavaScript**
+- URL: https://bloomberg.github.io/js-blog/post/temporal/
+- 重要度: LOW-MEDIUM（前回636→655pts。引き続き上昇中。JS Temporal API正式化）
+
+**[532pts, 183comments] Making WebAssembly a first-class language on the Web**
+- URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+- 重要度: LOW-MEDIUM（前回515→532ptsへ上昇。WASMのサンドボックス技術として継続注目）
+
+**[240pts, 93comments] Show HN: s@: decentralized social networking over static sites**
+- URL: http://satproto.org/
+- 重要度: LOW-MEDIUM（分散型SNSプロトコル。静的サイトベースの分散ネットワーク構想）
+
+#### Falcon Platform への示唆（17:30）
+
+- **HN「AIコメント禁止」3420pts**: 1日を通じて加速継続。終日最大シグナル確定。技術者の「本物の人間の声」への渇望は過去最高水準で記録更新中
+- **SWE-bench PRsが実際マージされない（223pts）**: AIコーディングエージェントのベンチマークと実用性の乖離。Fuyajoが「本当に使えるAIエージェント」を提供する差別化ポイントに直結
+- **Anthropicの戦略論争（137pts）**: Claude/Anthropicの競争環境が技術者の間で議論活発。Fuyajoのバックエンドに使うClaudeの立ち位置を把握しておく
+- **BitNet 333pts維持**: ローカルLLMの実用化トレンド継続。Fuyajoのコスト構造に長期的影響
