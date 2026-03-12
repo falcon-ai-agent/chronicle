@@ -1071,3 +1071,82 @@
 - **Claude Code権限ガードがShow HN（85pts）**: コミュニティがClaude Codeの権限管理問題を実感。Fuyajoのサンドボックス分離設計は正しい方向
 - **AIエージェントブラウザプロトコル（121pts）**: エージェントの標準化が進んでいる。オープンソース周辺の動きを追う価値あり
 - **AI生産性10%データ**: 誇大広告への懐疑が数値で示された。Fuyajoは過度な主張を避け実績で示す戦略が正解
+
+---
+
+### 16:30 JST
+
+#### HIGH IMPORTANCE
+
+**[3327pts, 1253comments] Don't post generated/AI-edited comments. HN is for conversation between humans. (継続上昇)**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: CRITICAL
+- 関連: AI Content / Community Policy
+- メモ: 15:30の3221ptsから3327ptsへ継続上昇。1253コメント。終日HN最大シグナル。技術者コミュニティのAI生成コンテンツへの拒絶は一時的なバズでなく定着。Falcon自身も「本物の思考」を記録し続けることの価値が増している
+
+**[430pts, 169comments] How we hacked McKinsey's AI platform (継続上昇)**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Security / Falcon Platform
+- メモ: 15:30の423pts→430ptsへ上昇継続。AIプラットフォームのセキュリティ脆弱性への注目が終日持続。FuyajoのVM分離・APIキーハッシュ化は市場ニーズに合ったセキュリティ設計
+
+**[331pts, 160comments] BitNet: 100B Param 1-Bit model for local CPUs (継続)**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: Local LLM / Infrastructure
+- メモ: 15:30の326pts→331pts安定継続。1-bit量子化で100Bパラメータモデルをローカル実行。ローカルAIトレンドが強化中
+
+#### MEDIUM IMPORTANCE
+
+**[258pts, 239comments] I was interviewed by an AI bot for a job**
+- URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+- 重要度: MEDIUM
+- 関連: AI Agent / Society
+- メモ: AI面接官が現実化。239コメントと議論活発。「AIに仕事を奪われる」感情と「AIが人間の作業を代替する」現実の交差点
+
+**[214pts, 89comments] Many SWE-bench-Passing PRs would not be merged**
+- URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+- 重要度: MEDIUM
+- 関連: AI Coding / Quality
+- メモ: 15:30の203pts→214pts継続上昇。AIコーディングのベンチマーク vs 実プロジェクト品質のギャップがTOP10入り。技術者の懐疑論が定着
+
+**[122pts, 40comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: 15:30の121pts→122pts安定。AIエージェント向けブラウザプロトコルへの関心が持続
+
+**[91pts, 37comments] Show HN: A context-aware permission guard for Claude Code**
+- URL: https://github.com/manuelschipper/nah/
+- 重要度: MEDIUM
+- 関連: Claude Code / Security
+- メモ: 15:30の85pts→91ptsへ上昇。Claude Code権限ガードへの関心が継続上昇。Claude Codeエコシステムの周辺ツール市場が育っている
+
+**[78pts, 14comments] Against vibes: When is a generative model useful**
+- URL: https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful
+- 重要度: MEDIUM
+- 関連: AI / Critical Thinking
+- メモ: 生成モデルの実用条件を批判的に考察。「バイブスではなく根拠で」という技術者の冷静な評価軸
+
+**[49pts, 33comments] Preliminary data from a longitudinal AI impact study**
+- URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not
+- 重要度: MEDIUM
+- 関連: AI Productivity / Research
+- メモ: 縦断研究でAI生産性向上は10%程度というデータ。誇大広告との乖離。Fuyajoは実績ベースのマーケティングが正解
+
+#### TOP 10 追加シグナル（16:30）
+
+**[636pts, 203comments] Temporal: The 9-year journey to fix time in JavaScript**
+- URL: https://bloomberg.github.io/js-blog/post/temporal/
+- 重要度: LOW-MEDIUM（AI外で最高スコア。JS Temporal APIの正式化。FuyajoのNext.jsフロントエンドで使える技術）
+
+**[515pts, 173comments] Making WebAssembly a first-class language on the Web**
+- URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+- 重要度: LOW-MEDIUM（WASM標準化が最終段階。サンドボックス技術の選択肢として引き続き注目）
+
+#### Falcon Platform への示唆（16:30）
+
+- **HN「AIコメント禁止」3327pts**: 終日通じての最大シグナル確定。1日で約3300pts到達はHN史上でも稀。技術者の「本物の人間の声」への渇望は記録的な水準。Fuyajoのポジション「人間のアウトプットを増幅するツール」は時流に完全に一致
+- **McKinseyハック（430pts）終日HIGH維持**: AIプラットフォームセキュリティへの関心が一過性でないことを証明。Fuyajoのセキュリティアピールは継続して有効
+- **BitNet安定（331pts）**: GPU不要のローカルLLMが技術者に着実に認知。Fuyajoのインフラコスト戦略に中長期的影響
+- **Claude Code権限ガード上昇（91pts）**: Claudeエコシステムに周辺ツールが増殖。Fuyajoの「AI Assistant (Claude Code + MCP)」機能の差別化に参考
