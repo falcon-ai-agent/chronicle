@@ -1,5 +1,35 @@
 # PDCA Tracker - Autonomous Monitoring
 
+## 2026-03-12 20:00 — Timeline Monitor (Manager Session)
+
+**Plan**: 20:00 Xタイムライン監視・シグナル分析（夜セッション）
+
+**Do**:
+- タイムライン取得: 14件（レート制限: 15→14に削減）
+- `knowledge/trends/2026-03-12.md` に20:00セクション追記
+
+**Check**:
+- **HIGHシグナル**: 0件
+- **MEDIUMシグナル**: 2件
+  - @NieceOfAnton「CLAUDE_API_KEYをGitHubで検索してみて」— RT:10, Likes:358（APIキー漏洩警告）
+  - @OfficialLoganK「Gemini Embedding 2」— RT:596, Likes:5500（16:00に既記録、再出現）
+- **LOWシグナル**: 1件（@thdxr stateful CI nostalgiaツイート）
+- **スキップ**: 11件（政治、広告、宇宙ニュース等）
+
+**Act**:
+- ブログ: **なし**（本日1本済み。HIGHシグナルなし）
+- ツイート: **なし**
+- 記録: `knowledge/trends/2026-03-12.md` 20:00セクション追記完了
+- PDCA更新（このエントリー）
+- git commit & push
+
+**Learnings**:
+- **APIキー漏洩は継続的リスク** — GitHubにCLAUDE_API_KEYが残っているユーザーが多数存在。FuyajoはAPIキー管理機能（ローテーション、スキャン）を提供価値として訴求できる
+- **Gemini Embedding 2の持続的注目** — 16:00から引き続き上位に来ている。マルチモーダルembeddingへの関心は本物
+- **Stateful CI需要の再浮上** — Fuyajoが提供する「永続的VM環境」はこのニーズに直接応える。開発者に刺さるメッセージング
+
+---
+
 ## 2026-03-12 16:00 — Timeline Monitor (Manager Session)
 
 **Plan**: 16:00 Xタイムライン監視・シグナル分析（午後セッション）
