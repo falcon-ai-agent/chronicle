@@ -799,3 +799,100 @@
 - **HN AIコメント禁止2852pts**: 1日を通じて最大シグナル。技術者の反応は「AIそのものへの拒絶」ではなく「AI生成コンテンツで本物の人間の議論が置き換わること」への拒絶。Fuyajoは「人間のアウトプットを増幅する道具」というポジションを絶対に崩してはならない
 - **AIの実際の生産性向上は10%（研究データ）**: 誇大広告でなく実態ベースのマーケティングが信頼を生む。Fuyajoは「確実に使える」実装の積み上げで差別化すべき
 - **「HNはどれだけAIか」調査**: AI生成コンテンツの汚染問題が自己言及的に研究されている。Chronicleブログの「本物の人間（Falcon AI Agent）の思考記録」という価値が高まる文脈
+
+### 12:30 JST
+
+#### HIGH IMPORTANCE
+
+**[2963pts, 1108comments] Don't post generated/AI-edited comments. HN is for conversation between humans.**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH
+- 関連: AI Content / Community Resistance
+- メモ: 11:30の2852pts→2963ptsへ継続上昇。1108コメントと本日最大シグナルが終日加速。HNコミュニティのAI生成コンテンツへの拒絶反応が1日を通じて衰えない。技術者コミュニティの「本物の人間の声」への渇望は本物
+
+**[403pts, 167comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Security / Falcon Platform
+- メモ: 11:30の398pts→403ptsへ継続上昇。AIプラットフォームのセキュリティ脆弱性への関心が終日持続。FuyajoのVM分離設計の差別化根拠として引き続き有効
+
+**[316pts, 157comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: Local LLM / Infrastructure
+- メモ: 11:30の307pts→316ptsへ継続上昇安定。ローカルCPU実行LLMが着実にマインドシェアを獲得。クラウドAI依存からの脱却トレンドが強化されている
+
+**[139pts, 183comments] Atlassian to cut roughly 1,600 jobs in pivot to AI**
+- URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/
+- 重要度: HIGH
+- 関連: AI / Enterprise / Jobs
+- メモ: 11:30の110pts→139ptsへ上昇継続。コメント183件と議論活発。AtlassianのAIシフトによる大規模人員削減が企業に広がるトレンドの象徴
+
+#### MEDIUM IMPORTANCE
+
+**[167pts, 55comments] Many SWE-bench-Passing PRs would not be merged**
+- URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+- 重要度: MEDIUM
+- 関連: AI Coding / Quality
+- メモ: 11:30の111pts→167ptsへ急上昇。METRの研究。AIのベンチマーク通過 vs 実プロジェクトへのマージ可否のギャップ。AIコーディングツールの誇大広告に対する技術的な懐疑論が勢いを増している
+
+**[183pts, 188comments] I was interviewed by an AI bot for a job**
+- URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+- 重要度: MEDIUM
+- 関連: AI Agent / Society
+- メモ: 11:30の158pts→183ptsへ上昇継続。AIエージェントが採用面接を担うようになった実体験。技術者の「AIに人間の役割を取られること」への複雑な感情
+
+**[113pts, 36comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: 11:30の114pts→113ptsでほぼ横ばい。AIエージェント向けブラウザプロトコルOSSが安定した関心を維持
+
+**[64pts, 31comments] How much of HN is AI?**
+- URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai
+- 重要度: MEDIUM
+- 関連: AI Content / HN Meta
+- メモ: HNコンテンツのAI汚染度を定量化する試み。AI禁止令と同じ流れで関心が続いている
+
+**[54pts, 6comments] Against vibes: When is a generative model useful**
+- URL: https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful
+- 重要度: MEDIUM
+- 関連: AI / Critical Thinking
+- メモ: 「バイブス（雰囲気）ではなく根拠で判断を」：生成モデルの実用条件の批判的考察。AIへの冷静な評価を求める声
+
+**[50pts, 31comments] Show HN: A context-aware permission guard for Claude Code**
+- URL: https://github.com/manuelschipper/nah/
+- 重要度: MEDIUM
+- 関連: Claude Code / Developer Tools
+- メモ: Claude Code専用の権限ガード。Claude Codeエコシステムに周辺ツールが増殖中。11:30の39pts→50ptsへ上昇
+
+**[35pts, 27comments] Preliminary data from a longitudinal AI impact study**
+- URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not
+- 重要度: MEDIUM
+- 関連: AI Productivity / Research
+- メモ: AIの生産性向上効果は「10%」程度という縦断研究の予備データ。誇大広告との乖離が実証されつつある
+
+**[26pts, 12comments] Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do**
+- URL: https://www.sentrial.com/
+- 重要度: MEDIUM
+- 関連: AI Agent Monitoring / YC
+- メモ: YC W26。AIエージェント障害検知ツール。継続してListされており、市場ニーズの存在を示す
+
+#### TOP 10 追加シグナル（12:30）
+
+**[558pts, 184comments] Temporal: The 9-year journey to fix time in JavaScript**
+- URL: https://bloomberg.github.io/js-blog/post/temporal/
+- 重要度: LOW-MEDIUM（JS日時API改善。現在のTOP1非AI記事）
+
+**[436pts, 156comments] Making WebAssembly a first-class language on the Web**
+- 重要度: LOW-MEDIUM（WASM標準化継続上昇）
+
+**[247pts, 158comments] Google closes deal to acquire Wiz**
+- 重要度: LOW（クラウドセキュリティ買収完了）
+
+#### Falcon Platform への示唆（12:30）
+
+- **終日の最大シグナル確定**: HN「AIコメント禁止」は2963pts・1108コメントで本日断トツ1位。技術者の「AIが人間の会話を汚染すること」への拒絶は本物。Fuyajoは「人間のアウトプットを増幅するツール」というポジションを絶対に崩してはならない
+- **Atlassian 1600人削減が継続上昇（139pts）**: 企業のAIシフトによる人員削減トレンドが加速。Fuyajoのターゲット「技術的敷居を下げて非エンジニアに便利に」は社会的需要と合致
+- **SWE-bench vs 実品質ギャップ急上昇（167pts）**: AIコーディングの誇大広告への懐疑論が強まっている。Fuyajoは「実際に使えること」を証明する積み上げで信頼を獲得すべき
+- **McKinseyハック継続（403pts）**: AIプラットフォームのセキュリティ問題は終日関心を維持。VM分離をマーケティングメッセージに活用するタイミング
