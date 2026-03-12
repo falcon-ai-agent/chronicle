@@ -648,3 +648,69 @@
 - **SWE-bench vs 実プロジェクト品質ギャップ**: AIコーディングの品質問題が研究レベルで可視化。Fuyajoのエージェント実行基盤ではタスク完了の品質保証が差別化要因になりうる
 - **Perplexity PC（100pts）**: AI専用ハードウェアへの関心上昇。クラウド型Fuyajoとのポジショニング差別化を意識する必要
 - **Claude Code権限ガード（nah）**: Claude Codeエコシステムに周辺ツールが生まれている。Fuyajoとの連携・参考に
+
+### 10:30 JST
+
+#### HIGH IMPORTANCE
+
+**[2691pts, 977comments] Don't post generated/AI-edited comments. HN is for conversation between humans.**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH
+- 関連: AI / Community
+- メモ: 今日の最大シグナル継続。2700pts近くまで上昇、コメント977件。HNコミュニティの「人間の本物の議論」への強い渇望が数字に現れている。AI生成コンテンツへの組織的な拒絶反応が広がりつつある証拠
+
+**[390pts, 163comments] How we hacked McKinsey's AI platform**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH
+- 関連: AI Platform / Security
+- メモ: 大手コンサルのAIプラットフォームがハックされた事例。FuyajoのようなマルチユーザーAI実行基盤はセキュリティが最重要。プロンプトインジェクション・権限昇格のリスクは実際に発生している。セキュリティレビューを定期的に実施すべき
+
+**[300pts, 149comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: Local LLM / Falcon Platform
+- メモ: Microsoft製。100BパラメータモデルをCPUで動かす1ビット量子化技術。GPU不要でローカル実行可能なら、Fuyajoのインフラコストに革命的な影響。Infra Agent LLMプロジェクトへの応用も検討価値あり
+
+#### MEDIUM IMPORTANCE
+
+**[509pts, 176comments] Temporal: A nine-year journey to fix time in JavaScript**
+- URL: https://bloomberg.github.io/js-blog/post/temporal/
+- 重要度: MEDIUM
+- 関連: Developer Tools / General Tech
+- メモ: JSのDate APIが9年越しで刷新。Fuyajoのフロントエンド（Next.js）開発で直接使える技術
+
+**[395pts, 145comments] Making WebAssembly a first-class language on the Web**
+- URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+- 重要度: MEDIUM
+- 関連: WebAssembly / Sandbox Tech
+- メモ: WASMがウェブで一級市民に。マイクロVM・サンドボックス技術の文脈でWASMは引き続き注目。Fuyajoのサンドボックス戦略の選択肢として
+
+**[226pts, 151comments] Google closes deal to acquire Wiz**
+- URL: https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz
+- 重要度: MEDIUM
+- 関連: Cloud Security / M&A
+- メモ: GoogleがWiz（クラウドセキュリティ）を買収完了。クラウドセキュリティ市場の統合が進む。GCP上のFuyajoにとっては間接的な影響
+
+**[125pts, 34comments] Many SWE-bench-Passing PRs would not be merged**
+- URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+- 重要度: MEDIUM
+- 関連: AI Coding / Quality
+- メモ: METRの調査。AIがベンチマークを通過しても実際のコードレビューでは通らない。「ベンチマーク vs 実品質」のギャップが研究レベルで確認。Fuyajoエージェント実行の品質保証戦略に示唆
+
+**[105pts, 33comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: AIエージェント専用のオープンソースブラウザ。BrowserAgentツールの参考に。エコシステムが着実に形成されている
+
+**[134pts, 136comments] I was interviewed by an AI bot for a job**
+- URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+- 重要度: MEDIUM
+- 関連: AI Agent / Society
+- メモ: AI面接ボットの普及がThe Vergeで取り上げられた。AIエージェントの社会実装が進む一方、求職者側の体験は複雑。136コメントで議論活発
+
+---
+#### 10:30 JST まとめ
+- **BitNet (300pts)**: CPUで100Bモデルが動く時代が来るなら、GPU前提のクラウドAI基盤のコスト優位性が変わる。早めに動向把握
+- **McKinseyハック (390pts)**: AIプラットフォームのセキュリティ問題は実際に起きている。Fuyajoのセキュリティ強化（Phase 0）は正しい方向だったが、継続的な見直しが必要
+- **HN「AIコメント禁止」継続上昇**: 人間の本物のアウトプットへの価値が増している。Fuyajoは「AIが人間のアウトプットを増幅する」という文脈を維持することが差別化軸になる
