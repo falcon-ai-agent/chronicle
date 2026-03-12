@@ -896,6 +896,9 @@
 - **Atlassian 1600人削減が継続上昇（139pts）**: 企業のAIシフトによる人員削減トレンドが加速。Fuyajoのターゲット「技術的敷居を下げて非エンジニアに便利に」は社会的需要と合致
 - **SWE-bench vs 実品質ギャップ急上昇（167pts）**: AIコーディングの誇大広告への懐疑論が強まっている。Fuyajoは「実際に使えること」を証明する積み上げで信頼を獲得すべき
 - **McKinseyハック継続（403pts）**: AIプラットフォームのセキュリティ問題は終日関心を維持。VM分離をマーケティングメッセージに活用するタイミング
+
+---
+
 ### 13:30 JST
 
 #### HIGH IMPORTANCE
@@ -1011,3 +1014,60 @@
 - **BitNet 323pts安定**: ローカルLLMトレンドが継続。クラウドAIへの依存を減らす方向性は強い
 - **AI採用面接ストーリー220pts**: AI by jobが現実化。Fuyajoのターゲット「非エンジニア向け」がAI就職市場に接続する可能性
 - **SWE-bench品質問題185pts**: AIコーディングの「実用性」への懐疑が高まる。「動くことを見せる」Fuyajoのアプローチが有効
+
+---
+
+### 15:30 JST
+
+#### HIGH IMPORTANCE
+
+**[3221pts, 1229comments] Don't post generated/AI-edited comments (継続上昇)**
+- URL: https://news.ycombinator.com/newsguidelines.html#generated
+- 重要度: HIGH（本日最大シグナル・継続更新）
+- 関連: AI Policy / Community
+- メモ: 朝から終日トップ。スコアが2963→3221に上昇継続。HNコミュニティのAI生成コンテンツへの拒絶感は一時的なバズではなく定着しつつある
+
+**[326pts, 160comments] BitNet: 100B Param 1-Bit model for local CPUs**
+- URL: https://github.com/microsoft/BitNet
+- 重要度: HIGH
+- 関連: AI Infrastructure / Falcon Platform
+- メモ: Microsoftが1bit量子化で100Bパラメータモデルをローカルで動作させる技術。CPU推論が現実的になるなら、Fuyajoでのオンデバイス処理の可能性が開ける。HNで技術者が実際に試している議論あり。「GPUなしでLLMを動かす」パラダイムシフトの可能性
+
+**[423pts, 168comments] How we hacked McKinsey's AI platform (継続上昇)**
+- URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+- 重要度: HIGH（403pts→423pts）
+- 関連: AI Security / Falcon Platform
+- メモ: 終日関心を維持。AIプラットフォームのセキュリティ問題への注目は持続している
+
+#### MEDIUM IMPORTANCE
+
+**[121pts, 40comments] Show HN: Open-source browser for AI agents**
+- URL: https://github.com/theredsix/agent-browser-protocol
+- 重要度: MEDIUM
+- 関連: AI Agent / Developer Tools
+- メモ: AIエージェント向けオープンソースブラウザプロトコル。エージェントがブラウザを操作するための標準化の動き。Fuyajoのエージェント実行環境に関連する技術動向
+
+**[85pts, 33comments] Show HN: A context-aware permission guard for Claude Code**
+- URL: https://github.com/manuelschipper/nah/
+- 重要度: MEDIUM
+- 関連: Claude / Developer Tools
+- メモ: Claude Code向けの権限ガード。「nah」というプロジェクト名。Claude Codeの権限管理に課題があることをコミュニティが認識しており、サードパーティツールが生まれている。Falcon Platformのセキュリティ設計の参考に
+
+**[203pts, 80comments] Many SWE-bench-Passing PRs would not be merged (継続)**
+- URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+- 重要度: MEDIUM（167pts→203pts）
+- 関連: AI Coding / Quality
+- メモ: スコア上昇継続。AIコーディングのベンチマーク vs 実品質のギャップ議論が拡大
+
+**[45pts, 33comments] Preliminary data from a longitudinal AI impact study**
+- URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not
+- 重要度: MEDIUM
+- 関連: AI Productivity
+- メモ: AI生産性向上は「10%程度」というデータ。誇大広告（50%+）との乖離。実際の生産性データとして重要。Fuyajoはリアルな価値提供を訴求すべき
+
+#### 15:30 JST サマリー
+
+- **BitNetが新たに浮上（326pts）**: ローカルCPU推論の実現は「クラウドに依存しないAI」の流れ。Fuyajoの方向性（VM上でのAI実行）と一致するが競合にもなりうる
+- **Claude Code権限ガードがShow HN（85pts）**: コミュニティがClaude Codeの権限管理問題を実感。Fuyajoのサンドボックス分離設計は正しい方向
+- **AIエージェントブラウザプロトコル（121pts）**: エージェントの標準化が進んでいる。オープンソース周辺の動きを追う価値あり
+- **AI生産性10%データ**: 誇大広告への懐疑が数値で示された。Fuyajoは過度な主張を避け実績で示す戦略が正解
