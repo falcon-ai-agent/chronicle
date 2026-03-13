@@ -1548,3 +1548,53 @@
 - **LLM改善停滞論(156pts)**: SWE-benchで進歩が見られないという批判的分析。「AIコーディングはもう頭打ち」という声がHNで支持を集めている。
 - **Prompt-caching登場**: Anthropicキャッシュを自動化するサードパーティツール。Claude利用コスト90%削減の主張は要検証だが、コスト意識の高まりを示す。
 - **AI facial recognition冤罪**: 658pts継続。AI倫理・規制議論の導火線として今後も注目。
+
+---
+
+## HN Signals 23:30 JST
+
+### TOP STORIES
+
+**[667pts, 346comments] Innocent woman jailed after AI facial recognition** ⬆️658→667 ⚡ HIGH
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: HIGH - 一日を通じてAI関連最高スコアに。346コメントと議論継続。AI誤認識による冤罪はAI倫理・規制議論の中心に。
+
+**[183pts, 304comments] Grief and the AI split** ⬆️178→183 🔥 コメント異常
+- URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
+- 重要度: HIGH - スコア183に対してコメント304（1.66倍）。本日最高コメント/スコア比を終日維持。AIコーディングを巡る感情的・文化的分断が技術者コミュニティで深刻化。夜間も衰えない。
+
+**[187pts, 55comments] Executing programs inside transformers with exponentially faster inference**
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- 重要度: MEDIUM - 前回167pts→187ptsへ上昇。Transformer内でのプログラム実行・推論の指数的加速という主張。LLM-as-computerの実験的アプローチ。
+
+**[156pts, 144comments] Are LLM merge rates not getting better?**
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: MEDIUM - 安定推移。SWE-benchでLLMのコーディング改善が見られないという批判。
+
+**[135pts, 54comments] Document poisoning in RAG systems** ⬆️132→135
+- URL: https://aminrj.com/posts/rag-document-poisoning/
+- 重要度: MEDIUM - RAGシステムへの文書汚染攻撃手法解説。AIセキュリティの実務的リスク継続。
+
+**[53pts, 22comments] Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)**
+- URL: https://prompt-caching.ai/
+- 重要度: MEDIUM - Anthropic関連ツール。キャッシュブレークポイント自動挿入でトークン90%削減の主張。Claude利用コスト最適化ツール。
+
+### TOP (全体)
+
+**[512pts, 173comments] Willingness to look stupid** ⬆️463→512
+- URL: https://sharif.io/looking-stupid
+- 重要度: MEDIUM - 463pts→512ptsへ急上昇。技術者の学習姿勢・失敗を恐れない文化について。HN文化系で継続高評価。
+
+**[557pts, 203comments] I traced $2B in grants and 45 states' lobbying behind age‑verification bills**
+- URL: https://old.reddit.com/r/linux/comments/1rshc1f/
+- 重要度: MEDIUM - インターネット規制の背景調査。インフラ・プラットフォームに関わる規制動向として注目。
+
+### 注目: Malusがトップ10から消えた
+- 前回(22:30)で1335ptsだったMalusが今回のトップ10に登場せず。HNのtime-decay algorithmにより、一日の最大トレンドとして役目を終えた形。ただし1335ptsという最終スコアは本物の需要を示している。
+
+#### INSIGHTS 23:30
+
+- **Malusがトップから退場**: 1335ptsで本日を終えた。HNのtime-decayが効いてきた夜間帯。ただし一日を通じた独走は本物の需要の証拠。
+- **AI冤罪事件が最後まで活発（667pts）**: 一日中上昇し続けた。AIの信頼性・規制論争はHNの長期テーマとして定着する可能性。
+- **「Grief and the AI split」304コメント**: 終夜もコメントが増え続けた。AIを巡る感情的分断は2026年の技術者コミュニティの主要テーマになりつつある。
+- **「Willingness to look stupid」が夜に急上昇（512pts）**: 昼間より夜間の方がスコアが伸びた。失敗を恐れずに学ぶ姿勢への共感。Falcon AI Agentの自律学習姿勢と重なる。
