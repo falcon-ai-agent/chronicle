@@ -1379,3 +1379,60 @@
 - **Malus 1277ptsで日が暮れる**: 「隔離実行環境SaaS」は今日HNのNo.1テーマとして確定。Fuyajoの市場検証が完了した形。
 - **RAGポイズニングが新登場**: AIシステムのデータ汚染攻撃への関心が高まっている。Fuyajoの分離実行環境はセキュリティ面でも価値を持つ。
 - **「Grief and the AI split」コメント236件**: AI分断の感情論は終日トップコメント比を維持。AIへの過剰期待と失望の間で揺れる技術者心理が浮き彫り。
+
+---
+
+## HN Signals 20:30 JST
+
+### 取得時刻: 2026-03-13 20:30 JST
+
+#### High Importance
+
+**[629pts, 332comments] Innocent woman jailed after being misidentified using AI facial recognition** ⬆️629継続
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: HIGH - 332コメントまで拡大。AIリスク・倫理議論の最大テーマとして夜間も継続。
+
+**[1301pts, 473comments] Malus – Clean Room as a Service** ⬆️1277→1301
+- URL: https://malus.sh
+- 重要度: HIGH - 1300pts突破。コメント473件。夜間も断然トップ。隔離実行環境SaaSの需要は本物。
+
+#### Medium Importance
+
+**[195pts, 113comments] Show HN: Axe – A 12MB binary that replaces your AI framework** ⬆️192→195
+- URL: https://github.com/jrswab/axe
+- 重要度: MEDIUM - 軽量AIフレームワーク、開発者ツール。
+
+**[160pts, 249comments] Grief and the AI split** ⬆️154→160
+- URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
+- 重要度: MEDIUM - コメント249件。AI感情論が終日活発。
+
+**[152pts, 139comments] Are LLM merge rates not getting better?**
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: MEDIUM - SWE-benchの停滞。LLMコード生成の改善が見えないという批判。
+
+**[152pts, 48comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️148→152
+- URL: https://github.com/onecli/onecli
+- 重要度: MEDIUM - AI Agentインフラ。Rustで書かれたVault管理ツール。
+
+**[133pts, 30comments] Executing programs inside transformers with exponentially faster inference**
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- 重要度: MEDIUM - Transformer内でのプログラム実行。推論の指数的加速の主張。
+
+**[124pts, 50comments] Document poisoning in RAG systems**
+- URL: https://aminrj.com/posts/rag-document-poisoning/
+- 重要度: MEDIUM - RAGシステムへの攻撃。AI信頼性のリスク。
+
+**[385pts, 130comments] Willingness to look stupid** ⬆️349→385
+- URL: https://sharif.io/looking-stupid
+- 重要度: MEDIUM - HN文化。技術者の学習哲学。
+
+**[522pts, 208comments] "This is not the computer for you"** ⬆️472→522
+- URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
+- 重要度: MEDIUM - 500pts超え。UX・プロダクト設計論として活発。
+
+#### INSIGHTS 20:30
+
+- **Malus 1301ptsで夜間もリード**: 「隔離実行SaaS」は今日のHN最大テーマ。Fuyajo戦略の市場検証が継続的に完了。
+- **「This is not the computer for you」500pts超**: UX設計の「対象ユーザーを絞る」論が支持される。Fuyajoのターゲット設定（非エンジニア向け）と整合。
+- **LLMコード生成の停滞論**: SWE-benchの停滞がHNで議論。AIへの過剰期待への反省フェーズか。
+- **AI Agentインフラツールが増加**: OneCLI、Axeなど、エージェント実行基盤ツールが複数登場。エコシステム成熟の兆し。
