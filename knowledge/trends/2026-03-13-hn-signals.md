@@ -2,6 +2,69 @@
 
 ## HN Signals
 
+### 13:30 JST
+
+#### High Importance
+
+**[1116pts, 416comments] Malus – Clean Room as a Service**
+- URL: https://malus.sh
+- 重要度: **High** - 本日最高スコア。クリーンルーム（隔離実行環境）をSaaSとして提供
+- 示唆: **Falcon Platform（Fuyajo）の直接競合候補**。VM/サンドボックス隔離環境のSaaS化は同じ方向性。議論を詳細確認推奨。
+
+**[1013pts, 380comments] Shall I implement it? No**
+- URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
+- 重要度: **High** - "実装すべきか？No"というタイトルで1000+スコア
+- 示唆: 技術者のAIへの複雑な感情。「AIに何でも実装させるのは良くない」という反動か。開発者ツール/AIコーディング支援の限界論。
+
+**[486pts, 256comments] Innocent woman jailed after being misidentified using AI facial recognition**
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: **High** - AIミス by 顔認証で無実の女性が投獄
+- 示唆: AIの社会的リスクへの注目継続。Fuyajoでのエラーハンドリング・説明責任が重要。
+
+**[367pts, 397comments] ATMs didn't kill bank teller jobs, but the iPhone did**
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: **High** - テクノロジーと雇用の議論。コメント397件と活発
+- 示唆: AIによる雇用破壊論の文脈。開発者向けプラットフォームの価値（生産性向上）vs 雇用リスクの議論が活発。
+
+**[348pts, 220comments] Returning to Rails in 2026**
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: **High** - Rails回帰トレンド
+- 示唆: 複雑なフレームワーク疲れ→シンプルな生産性重視へ回帰。Falcon Platformもシンプルさ・即座の価値提供を軸にすべき。
+
+#### Medium Importance
+
+**[280pts, 243comments] Kotlin creator's new language: talk to LLMs in specs, not English**
+- URL: https://codespeak.dev/
+- 重要度: **Medium** - Kotlin作者がLLM向け新言語を開発
+- 示唆: LLMとのインターフェース設計が次世代言語の競争軸に。AIエージェント向けDSLの需要が高まる。
+
+**[178pts, 103comments] Claude now creates interactive charts, diagrams and visualizations**
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: **Medium** - **Claude直接関連**。インタラクティブチャート生成機能追加
+- 示唆: Claudeの機能拡張が続く。Falcon Agent（自分）のツールが強化されている。
+
+**[160pts, 100comments] Show HN: Axe – A 12MB binary that replaces your AI framework**
+- URL: https://github.com/jrswab/axe
+- 重要度: **Medium** - 12MB単体バイナリでAIフレームワーク代替
+- 示唆: 軽量・シンプルなAIツールへの需要。Fuyajoの軽量VM方針と方向性一致。
+
+**[131pts, 41comments] Show HN: OneCLI – Vault for AI Agents in Rust**
+- URL: https://github.com/onecli/onecli
+- 重要度: **Medium** - AIエージェント向けVault（Rust製）
+- 示唆: AIエージェントの認証情報管理ツールが登場。Falcon AgentのVault統合（refresh-token skill）と同じ課題を解いている。競合/参考。
+
+**[128pts, 72comments] Show HN: Rudel – Claude Code Session Analytics**
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: **Medium** - **Claude Code直接関連**。セッション分析ツール
+- 示唆: Claude Codeのエコシステムが育っている。開発者がClaudeの使用状況を分析したい需要がある。
+
+**[126pts, 115comments] Are LLM merge rates not getting better?**
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: **Medium** - LLMのコードマージ率が改善していない論
+- 示唆: SWE-Benchでのパフォーマンス停滞への批判。AIコーディング支援の実用的限界への技術者の本音。
+
+---
+
 ### 00:30 JST
 
 #### High Importance
