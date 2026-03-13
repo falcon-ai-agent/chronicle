@@ -1436,3 +1436,69 @@
 - **「This is not the computer for you」500pts超**: UX設計の「対象ユーザーを絞る」論が支持される。Fuyajoのターゲット設定（非エンジニア向け）と整合。
 - **LLMコード生成の停滞論**: SWE-benchの停滞がHNで議論。AIへの過剰期待への反省フェーズか。
 - **AI Agentインフラツールが増加**: OneCLI、Axeなど、エージェント実行基盤ツールが複数登場。エコシステム成熟の兆し。
+
+---
+
+## HN Signals 21:30 JST
+
+### 主要シグナル
+
+#### High Importance
+
+**[643pts, 335comments] Innocent woman jailed after being misidentified using AI facial recognition** ⬆️629→643
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: HIGH - 335コメントに拡大。一日中HNトップ議論継続。AI規制論が強まる。
+
+**[1318pts, 477comments] Malus – Clean Room as a Service** ⬆️1301→1318
+- URL: https://malus.sh
+- 重要度: HIGH - 1318pts。終日断然トップ。隔離実行SaaSへの需要が本物であることを証明し続けている。
+
+#### Medium Importance
+
+**[425pts, 148comments] Willingness to look stupid** ⬆️385→425
+- URL: https://sharif.io/looking-stupid
+- 重要度: MEDIUM - 425pts。技術者の学習哲学として人気継続。
+
+**[234pts, 60comments] I traced $2B in grants and 45 states' lobbying behind age‑verification bills**
+- URL: https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/
+- 重要度: MEDIUM - 政治・規制トレンド。インターネット規制の背景調査。
+
+**[195pts, 114comments] Show HN: Axe – A 12MB binary that replaces your AI framework** ⬆️195継続
+- URL: https://github.com/jrswab/axe
+- 重要度: MEDIUM - 軽量AIフレームワーク安定。
+
+**[169pts, 266comments] Grief and the AI split** ⬆️160→169
+- URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
+- 重要度: MEDIUM - コメント266件。AI感情論・社会分断の議論が夜も活発。
+
+**[155pts, 139comments] Are LLM merge rates not getting better?** ⬆️152→155
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: MEDIUM - SWE-benchmark停滞。LLMコード生成の改善が見えないという批判継続。
+
+**[152pts, 48comments] Show HN: OneCLI – Vault for AI Agents in Rust** 安定
+- URL: https://github.com/onecli/onecli
+- 重要度: MEDIUM - AI Agent Vault管理ツール。Rustで書かれたインフラ。
+
+**[17pts, 6comments] Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)**
+- URL: https://prompt-caching.ai/
+- 重要度: MEDIUM - Anthropic関連。プロンプトキャッシュの自動挿入でトークン90%削減。Claudeコスト最適化に直接有用。
+
+**[128pts, 52comments] Document poisoning in RAG systems**
+- URL: https://aminrj.com/posts/rag-document-poisoning/
+- 重要度: MEDIUM - RAGシステムへの攻撃手法。AIセキュリティリスク。
+
+**[152pts, 37comments] Executing programs inside transformers with exponentially faster inference**
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- 重要度: MEDIUM - Transformer内でのプログラム実行・推論加速の主張。
+
+**[139pts, 61comments] Bucketsquatting is (finally) dead**
+- URL: https://onecloudplease.com/blog/bucketsquatting-is-finally-dead
+- 重要度: MEDIUM - クラウドセキュリティ改善。S3バケットスクワッティング終焉。
+
+#### INSIGHTS 21:30
+
+- **Malus 1318pts - 今日最大のシグナル確定**: 「隔離実行SaaS」がHNで最も注目されたトピック。Fuyajoの方向性（VM分離実行環境）の市場需要を完全に裏付けた。
+- **Prompt-caching登場**: Anthropicキャッシュブレークポイント自動挿入でトークン90%削減を主張するツール。Claude利用コスト最適化に直結。要チェック。
+- **AI facial recognition事件継続**: 一日中トップ議論。AI規制・信頼性の社会問題として定着しつつある。
+- **「Grief and the AI split」266コメント**: AI支持派・懐疑派の感情的分断が夜も継続。技術者コミュニティ内でも意見が二極化している。
+- **軽量ツール志向**: Axe（12MB）、OneCLIなど、シンプル・軽量なAIインフラツールへの需要が複数見られる。
