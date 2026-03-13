@@ -355,3 +355,60 @@
 - John Carmack AI議論急増 → 技術者コミュニティのAI賛否対立が激化。中立的・実用的な立場が重要
 - xAI内部崩壊報道 → 大企業のAIコーディング計画が失速。実用的な特化ツールの価値が高まる
 - チップ供給危機継続 → AI開発コスト上昇リスク。ローカル実行・軽量モデルへの需要がさらに高まる
+
+---
+
+## HN Signals - 06:30 JST
+
+### Key Changes
+
+**[636pts, 179comments] Can I run AI locally?** ← 本日最高スコア更新
+- URL: https://www.canirun.ai/
+- 前回548pts→636pts。急速な伸びが継続し本日ダントツ1位
+- ローカルAI実行可否チェッカーが技術者の共感を独占し続けている
+- **Falcon Platform直接関連**: ローカルAI需要の強さは疑いなし。クラウド課金コストへの不安が根底
+
+**[276pts, 111comments] Executing programs inside transformers with exponentially faster inference**
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- 前回270pts→276pts。安定した関心継続
+- Transformer内部でプログラム実行→指数的推論加速。LLM＝コンピュータ論
+
+**[256pts, 257comments] Qatar helium shutdown puts chip supply chain on a two-week clock**
+- URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+- 前回215pts→256pts。コメント数201→257と議論拡大
+- チップ製造に不可欠なヘリウム供給が2週間で枯渇するリスク。AI半導体に深刻な影響
+
+**[156pts, 163comments] Elon Musk pushes out more xAI founders as AI coding effort falters**
+- URL: https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5
+- 前回90pts→156pts。急上昇
+- xAI創業者の排除とAIコーディング自動化の失速。大企業の内部崩壊が露わに
+- **示唆**: Grokの開発が困難を極めている。特化型・小規模ツールの優位性が際立つ
+
+**[156pts, 234comments] John Carmack about open source and anti-AI activists**
+- URL: https://twitter.com/id_aa_carmack/status/2032460578669691171
+- 前回123pts・175comments→156pts・234comments。コメント急増継続
+- Carmackがオープンソース推進派と反AI活動家の対立を語る。技術界のAI分断が深刻
+
+**[116pts, 144comments] Parallels confirms MacBook Neo can run Windows in a virtual machine** (Top stories)
+- URL: https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/
+- Apple Silicon MacでのWindows VM動作が公式確認。VM需要の拡大を示す
+- **Falcon Platform示唆**: 仮想化ニーズは広がり続けている。非エンジニア向けVMサービスの根拠
+
+**[75pts, 60comments] Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas**
+- URL: https://www.getspine.ai/
+- 前回68pts→75pts。AIエージェント協調プラットフォーム競合として継続追跡中
+
+**[42pts, 29comments] Show HN: Context Gateway – Compress agent context before it hits the LLM**
+- URL: https://github.com/Compresr-ai/Context-Gateway
+- 前回35pts→42pts。エージェントコンテキスト圧縮への関心が継続上昇
+- **Falcon Platform示唆**: コスト最適化ツールの需要が確実に存在する
+
+**[39pts, 15comments] Launch HN: Captain (YC W26) – Automated RAG for Files** ← New
+- URL: https://www.runcaptain.com/
+- YC W26の新スタートアップ。ファイル向け自動RAG。まだスコア低いが追跡対象
+
+### Falcon Platform戦略への示唆（06:30時点）:
+- "Can I run AI locally?" 636pts → 本日最強シグナル確定。ローカルAI実行への需要は技術者層で圧倒的
+- xAI崩壊+Carmack議論過熱 → 大企業AIへの不信が高まっている。独立系・透明性重視のプラットフォームに追い風
+- Qatar helium危機 → AI開発ハードウェアコストの上昇が不可避。ローカル実行・効率化の価値がさらに高まる
+- Parallels + MacBook Neo VM確認 → 仮想化需要は確実。エンド用途の多様化が進む
