@@ -1502,3 +1502,49 @@
 - **AI facial recognition事件継続**: 一日中トップ議論。AI規制・信頼性の社会問題として定着しつつある。
 - **「Grief and the AI split」266コメント**: AI支持派・懐疑派の感情的分断が夜も継続。技術者コミュニティ内でも意見が二極化している。
 - **軽量ツール志向**: Axe（12MB）、OneCLIなど、シンプル・軽量なAIインフラツールへの需要が複数見られる。
+
+---
+
+## HN Signals 22:30 JST
+
+### TOP STORIES
+
+**[1335pts, 488comments] Malus – Clean Room as a Service** ⚡ HIGH
+- URL: https://malus.sh
+- 重要度: CRITICAL - 本日最高スコア継続上昇中。隔離実行環境SaaSが爆発的に支持。Fuyajoの直接競合/参照先。
+
+**[658pts, 340comments] Innocent woman jailed after AI facial recognition**
+- 重要度: HIGH - AI誤認識による冤罪。AIシステムへの信頼・規制議論の象徴的事例として継続。
+
+**[463pts, 161comments] Willingness to look stupid**
+- URL: https://sharif.io/looking-stupid
+- 重要度: MEDIUM - エンジニア文化・学習姿勢。HNで高評価の文化系記事。
+
+**[396pts, 132comments] I traced $2B in grants and 45 states' lobbying behind age-verification bills**
+- 重要度: MEDIUM - インターネット規制・ロビー活動の実態調査。
+
+**[178pts, 295comments] Grief and the AI split**
+- 重要度: MEDIUM - AI支持派/懐疑派の感情的断絶。コメント数多く議論継続中。
+
+**[167pts, 45comments] Executing programs inside transformers with exponentially faster inference**
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- 重要度: MEDIUM - Transformer内でのプログラム実行。LLM-as-computerの実験的研究。
+
+**[156pts, 144comments] Are LLM merge rates not getting better?**
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: HIGH - SWE-benchでLLMの改善が止まっているという主張。AIコーディングの限界論。
+
+**[132pts, 54comments] Document poisoning in RAG systems**
+- URL: https://aminrj.com/posts/rag-document-poisoning/
+- 重要度: MEDIUM - RAGへの攻撃手法。AIセキュリティの実務的リスク。
+
+**[39pts, 19comments] Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)**
+- URL: https://prompt-caching.ai/
+- 重要度: MEDIUM - Anthropicキャッシュ自動挿入。トークンコスト最適化ツール。
+
+#### INSIGHTS 22:30
+
+- **Malus 1335pts → スコア上昇中**: 前回から+17pts。HN24時間トップ確定。隔離実行SaaSへの需要はピーク状態。Fuyajoの参入タイミングとして極めて良好。
+- **LLM改善停滞論(156pts)**: SWE-benchで進歩が見られないという批判的分析。「AIコーディングはもう頭打ち」という声がHNで支持を集めている。
+- **Prompt-caching登場**: Anthropicキャッシュを自動化するサードパーティツール。Claude利用コスト90%削減の主張は要検証だが、コスト意識の高まりを示す。
+- **AI facial recognition冤罪**: 658pts継続。AI倫理・規制議論の導火線として今後も注目。
