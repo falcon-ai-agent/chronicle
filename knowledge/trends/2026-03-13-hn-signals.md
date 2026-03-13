@@ -765,3 +765,78 @@
 - **AI信頼性の揺り戻しが多面的に**: 顔認識誤判定（389pts）、SWE-bench停滞（115pts）、「実装するな」（779pts）が同日に複数の高スコア記事として並ぶ。LLMへの過剰期待フェーズからリアリズムフェーズへの移行が明確。
 
 ---
+
+## HN Signals 11:30 JST
+
+#### HIGH IMPORTANCE
+
+**[1056pts, 405comments] Malus – Clean Room as a Service** ⬆️1032→1056
+- URL: https://malus.sh
+- 重要度: HIGH
+- メモ: 全体トップ維持。1000pts超えで一日を締める勢い。市場ニーズ確定。
+
+**[861pts, 312comments] Shall I implement it? No** ⬆️779→861
+- URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
+- 重要度: HIGH
+- メモ: 1時間で+82pts。「AI判断力」テーマが加速中。技術者がAIの判断力欠如への不満を表明し続けている。
+
+**[418pts, 215comments] Innocent woman jailed after being misidentified using AI facial recognition** ⬆️389→418
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: HIGH
+- メモ: 成長継続。AI信頼性問題が社会的インパクトとして認識されている。
+
+**[342pts, 210comments] Returning to Rails in 2026**（新規HIGH）
+- URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+- 重要度: HIGH
+- 関連: Developer Tools / Productivity / Platform
+- メモ: 342pts、210コメントと急上昇。「複雑なマイクロサービスからシンプルなフルスタックへの回帰」という強いシグナル。Fuyajoの「シンプルで使える」という方向性を支持する。Rails回帰＝開発者が生産性を求めている証拠。
+
+**[271pts, 238comments] Kotlin creator's new language: talk to LLMs in specs, not English** ⬆️268→271
+- URL: https://codespeak.dev/
+- 重要度: HIGH
+- メモ: コメント238と議論が深まっている。自然言語→仕様言語パラダイムシフトが定着。
+
+#### MEDIUM IMPORTANCE
+
+**[334pts, 376comments] ATMs didn't kill bank teller jobs, but the iPhone did** ⬆️325→334, コメント+6
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: MEDIUM
+- メモ: 376コメントは依然として超活発。AI雇用論争継続。
+
+**[174pts, 102comments] Claude now creates interactive charts, diagrams and visualizations** ⬆️171→174
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: MEDIUM
+- メモ: 安定成長。Claudeの可視化機能が評価継続。
+
+**[152pts, 98comments] Show HN: Axe – A 12MB binary that replaces your AI framework** ⬆️147→152
+- URL: https://github.com/jrswab/axe
+- 重要度: MEDIUM
+- メモ: 軽量AIフレームワーク需要継続。
+
+**[127pts, 73comments] Show HN: Rudel – Claude Code Session Analytics** ⬆️126→127
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: MEDIUM
+- メモ: Claude Codeエコシステム拡大継続。
+
+**[125pts, 40comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️124→125
+- URL: https://github.com/onecli/onecli
+- 重要度: MEDIUM
+- メモ: AIエージェント向けセキュリティツール需要持続。
+
+**[121pts, 112comments] Are LLM merge rates not getting better?** ⬆️115→121
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: MEDIUM
+- メモ: SWE-bench停滞論の議論が深まっている。
+
+**[91pts, 38comments] Show HN: Understudy – Teach a desktop agent by demonstrating a task once** ⬆️86→91
+- URL: https://github.com/understudy-ai/understudy
+- 重要度: MEDIUM
+- メモ: デモ学習型エージェント。上昇継続。
+
+#### INSIGHTS 11:30
+
+- **「Returning to Rails in 2026」が342pts急浮上**: 今日の最大の新シグナル。複雑さへの反動として「シンプルで動くもの」への回帰が加速中。Fuyajoの「テンプレートで即価値提供」戦略は時代の流れに乗っている。
+- **「Shall I implement it? No」が861pts**: 779pts→861ptsと1時間で+82pts。AIの「何でもやります」文化への技術者の反動が急加速。判断力・自律性を持つAIへの需要が明確。
+- **今日のHN全体テーマ確定**: (1)AI信頼性への懐疑、(2)シンプリシティへの回帰、(3)AIの判断力不足への不満 — この3つが一日を通じて支配的テーマ。
+
+---
