@@ -247,3 +247,55 @@
 - "Can I run AI locally?"の急上昇 → ローカルAI実行ニーズは本物。クラウドAPIコストへの懸念
 - TUI Studio継続上昇 → 開発者向けターミナルUX投資は確実にリターンがある
 - Context compression需要 → エージェントコンテキスト管理とコスト最適化が重要
+
+---
+
+## HN Signals - 04:30 JST
+
+### Key Changes
+
+**[449pts, 118comments] Can I run AI locally?** ← TOP
+- URL: https://www.canirun.ai/
+- スコア更に上昇（前回から継続）。HNトップ2位にもランクイン
+- ローカルAI実行ツール。コスト・プライバシー両面の需要を示す
+
+**[436pts, 249comments] TUI Studio – visual terminal UI design tool**
+- URL: https://tui.studio/
+- HNトップ5位。コメント数249で非常に活発
+- 開発者向けターミナルUIへの需要が証明された
+
+**[268pts, 104comments] Executing programs inside transformers with exponentially faster inference**
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- スコア安定上昇（242→259→268）。LLM＝計算機理論の研究継続中
+
+**[198pts, 40comments] Okmain: How to pick an OK main colour of an image**
+- 非AI技術記事がHN上位。アルゴリズム系コンテンツの健在
+
+**[190pts, 65comments] The Wyden Siren - NSA Section 702**
+- セキュリティ・プライバシー議論継続
+
+**[162pts, 141comments] Qatar helium shutdown → chip supply chain 2-week clock**
+- チップ供給チェーンへの深刻なリスク。AI開発基盤への波及懸念
+
+**[145pts, 59comments] Document poisoning in RAG systems**
+- RAGセキュリティ継続上昇（144→145）
+
+**[79pts, 82comments] John Carmack about open source and anti-AI activists**
+- Carmackがオープンソース＆反AI活動家について発言。議論活発
+
+**[70pts, 99comments] Parallels confirms MacBook Neo can run Windows in a virtual machine**
+- URL: https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/
+- MacBook Neo（新ARM Mac）でWindows VM動作確認
+- **Falcon Platform示唆**: Apple SiliconでのVM動作が公式化。仮想化需要継続
+
+**[68pts, 59comments] Launch HN: Spine Swarm (YC S23) – AI agents collaborate on visual canvas**
+- スコア上昇継続（57→64→68）。AIエージェント協調プラットフォーム競合
+
+**[21pts, 13comments] Context Gateway – Compress agent context before LLM**
+- スコア急上昇（9→21）。コンテキスト圧縮ツールへの関心高まる
+
+### Falcon Platform戦略への示唆（04:30時点）:
+- TUI Studio 436pts → ターミナルUIは開発者に刺さる。Fuyajoのターミナル体験を磨く価値が高い
+- MacBook Neo + Parallels確認 → VM需要は確実に存在する。非エンジニア向けVM-as-a-Serviceの可能性
+- Context Gateway急上昇 → コンテキスト管理・コスト最適化がエージェントインフラの核心課題
+- ヘリウム不足→チップ供給危機 → AI開発コスト上昇リスク。ローカル実行・コスト効率化の需要が高まる
