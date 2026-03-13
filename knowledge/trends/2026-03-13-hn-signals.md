@@ -1118,3 +1118,84 @@
 - **今日のHN総括**: 2026年3月13日は「AI信頼性への懐疑、サンドボックス環境への需要、AI判断力不足への反発」が技術者コミュニティを支配した歴史的な一日。Falconはこの文脈でいかに存在感を示すか。
 
 ---
+
+## HN Signals 16:30 JST
+
+### HIGH IMPORTANCE
+
+**[561pts, 289comments] Innocent woman jailed after AI facial recognition error** ⬆️539→561
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: HIGH - 関連: AI Ethics / Risk / Societal Impact
+- メモ: 本日最高AI関連スコア。一日を通じて上昇継続。AI規制議論の触媒として機能中。
+
+**[189pts, 105comments] Claude now creates interactive charts, diagrams and visualizations** ★NEW
+- URL: https://claude.com/blog/claude-builds-visuals
+- 重要度: HIGH - 関連: Claude / Anthropic / AI Capabilities
+- メモ: Anthropic直接関連。インタラクティブビジュアライゼーション機能追加。HNで189pts到達。Claude Codeエコシステムの拡大が続く。Fuyajoの「AIが出力を可視化する」方向性との一致。
+
+**[1194pts, 433comments] Malus – Clean Room as a Service** ⬆️1163→1194
+- URL: https://malus.sh
+- 重要度: HIGH - 関連: Sandbox / Platform / Fuyajo競合
+- メモ: 本日のHN絶対王者。終日1000pts超維持。Clean Room as a Serviceの需要が証明された一日。
+
+**[1170pts, 443comments] Shall I implement it? No** ⬆️1119→1170
+- URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
+- 重要度: HIGH - 関連: AI / Software Development / Judgment
+- メモ: コメント443（本日全体最高）。「AIは実装を判断できない」という本質論への深い議論継続。
+
+**[393pts, 421comments] ATMs didn't kill bank teller jobs, but the iPhone did** ⬆️386→393
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: HIGH - 関連: AI / Labor Disruption / Tech History
+- メモ: コメント421で本日AIスレッド最高水準。雇用論争が午後も活発。
+
+### MEDIUM IMPORTANCE
+
+**[289pts, 248comments] Kotlin creator's new language: talk to LLMs in specs** ⬆️288→289
+- URL: https://codespeak.dev/
+- 重要度: MEDIUM - 関連: LLM / Programming Languages
+- メモ: コメント248まで増加。LLMとの通信インターフェース設計への関心継続。
+
+**[313pts, 95comments] Bubble Sorted Amen Break** ★NEW TOP
+- URL: https://parametricavocado.itch.io/amen-sorting
+- 重要度: MEDIUM - 関連: Creative Tech / General
+- メモ: トップ3入り。技術と創造性の融合。直接関連なし。
+
+**[140pts, 125comments] Are LLM merge rates not getting better?** ⬆️135→140
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+- 重要度: MEDIUM - 関連: LLM Performance / AI Limitations
+- メモ: コメント125に増加。LLM性能停滞論の議論が深化中。
+
+**[139pts, 41comments] Show HN: OneCLI – Vault for AI Agents in Rust** stable
+- URL: https://github.com/onecli/onecli
+- 重要度: MEDIUM - 関連: AI Agents / Security / Rust
+- メモ: 安定維持。AIエージェント向けVault需要継続。
+
+**[129pts, 72comments] Show HN: Rudel – Claude Code Session Analytics** stable
+- URL: https://github.com/obsessiondb/rudel
+- 重要度: MEDIUM - 関連: Claude Code / Developer Tools
+- メモ: Claude Codeエコシステム製品として安定。
+
+**[123pts, 192comments] Grief and the AI split** ⬆️115→123
+- URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
+- 重要度: MEDIUM - 関連: AI / Human Emotion / Society
+- メモ: コメント192（スコアの1.56倍）という異常比率。感情的AI議論が依然活発。
+
+**[109pts, 41comments] Document poisoning in RAG systems** ★NEW
+- URL: https://aminrj.com/posts/rag-document-poisoning/
+- 重要度: MEDIUM - 関連: AI Security / RAG / Attack Vectors
+- メモ: RAGシステムへの攻撃手法解説。AIセキュリティ関連として注目。
+
+**[97pts, 41comments] Show HN: Understudy – Teach a desktop agent by demonstrating once** ★NEW
+- URL: https://github.com/understudy-ai/understudy
+- 重要度: MEDIUM - 関連: AI Agents / Desktop Automation / Demonstration Learning
+- メモ: 「1回のデモでエージェントに教える」という新アプローチ。AIエージェントUI/UXの革新方向として注目。
+
+### INSIGHTS 16:30
+
+- **Claudeがビジュアライゼーション機能追加**: インタラクティブチャート・図・ビジュアル生成。Anthropicが継続的にClaude Codeエコシステムを拡大。189pts/105commentsは健全な関心。Fuyajoの「AIが出力を視覚化する」方向性との一致を確認。
+- **Malusが1194ptsで本日終了確定**: Clean Room as a Serviceの概念実証が完了した一日。「安全な実行環境」は2026年3月13日を境にHNコミュニティに完全に認知された。
+- **Understu dyの「1回デモで学習」アプローチ**: Few-shot demonstration learningをデスクトップエージェントに適用。技術的には興味深い。エンドユーザーにとっての使いやすさへの需要。
+- **RAGポイズニングが新たに浮上**: AIシステムのセキュリティ脆弱性への関心。FuyajoでRAGを使う場合は要注意。
+- **今日のHN総括（16:30時点）**: Malus独走・「AI判断力不足」・「AI誤認識の実害」の3テーマが終日支配。ClaudeビジュアライゼーションとUnderStudyが16:30の新鮮な情報。Fuyajoにとって最も重要なシグナルはMalus（市場ニーズ証明）とClaude機能拡張（競合/参考）の2点。
+
+---
