@@ -1319,3 +1319,63 @@
 - **「LLMのコーディング改善なし」論が新登場**: SWE-benchが伸び悩んでいるという分析がMediumで浮上。AIコーディングへの過度な期待に対するHN技術者の懐疑的視点。FuyajoはAIの限界を正直に伝えるポジションが信頼獲得につながる可能性。
 - **OneCLI（AI Agent Vault）の登場**: AIエージェントのシークレット管理に特化したツール。エージェントが増えるほどシークレット管理が複雑化する課題が顕在化している。Fuyajoのセキュリティ設計の重要性を裏付け。
 - **「Grief and the AI split」が221コメントに到達**: AIコーディングを巡る感情的分断は今日1日で最高潮に達した。このフラストレーションを抱えた技術者が「シンプルで信頼できるツール」を求めているとすれば、Fuyajoの市場機会。
+
+### 19:30 JST
+
+#### High Importance
+
+**[1277pts, 464comments] Malus – Clean Room as a Service** ⬆️1256→1277
+- URL: https://malus.sh
+- 重要度: HIGH - 終日1位を継続。1300pt目前。
+
+**[619pts, 319comments] Innocent woman jailed after AI facial recognition** ⬆️605→619
+- URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+- 重要度: HIGH - 上昇継続。AIリスク議論が拡大。
+
+#### Medium Importance
+
+**[472pts, 184comments] "This is not the computer for you"**（新登場）
+- URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
+- 重要度: MEDIUM - テック文化/ユーザー体験論。
+
+**[420pts, 445comments] ATMs didn't kill bank teller jobs, but the iPhone did** ⬆️415→420
+- URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+- 重要度: MEDIUM - コメント445件で活発継続。
+
+**[349pts, 118comments] Willingness to look stupid**（新登場）
+- URL: https://sharif.io/looking-stupid
+- 重要度: MEDIUM - HN技術者の学習文化。
+
+**[301pts, 80comments] Vite 8.0 Is Out**（新登場）
+- URL: https://vite.dev/blog/announcing-vite8
+- 重要度: MEDIUM - フロントエンドツール。
+
+**[192pts, 108comments] Show HN: Axe – A 12MB binary that replaces your AI framework** ⬆️191→192
+- URL: https://github.com/jrswab/axe
+
+**[154pts, 236comments] Grief and the AI split** ⬆️143→154
+- URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
+- メモ: コメント236件に到達。AI感情論は終日衰えない。
+
+**[151pts, 139comments] Are LLM merge rates not getting better?** ⬆️149→151
+- URL: https://entropicthoughts.com/no-swe-bench-improvement
+
+**[148pts, 46comments] Show HN: OneCLI – Vault for AI Agents in Rust** ⬆️147→148
+- URL: https://github.com/onecli/onecli
+
+**[133pts, 74comments] Show HN: Rudel – Claude Code Session Analytics** ⬆️132→133
+- URL: https://github.com/obsessiondb/rudel
+
+**[120pts, 47comments] Document poisoning in RAG systems**（新登場）
+- URL: https://aminrj.com/posts/rag-document-poisoning/
+- 重要度: MEDIUM - RAGセキュリティ。AIシステムへの攻撃手法の議論。Fuyajoのセキュリティ設計に参考。
+
+**[110pts, 22comments] Executing programs inside transformers with exponentially faster inference**（新登場）
+- URL: https://www.percepta.ai/blog/can-llms-be-computers
+- 重要度: MEDIUM - Transformer内でのプログラム実行。推論速度の指数的向上という主張。
+
+#### INSIGHTS 19:30
+
+- **Malus 1277ptsで日が暮れる**: 「隔離実行環境SaaS」は今日HNのNo.1テーマとして確定。Fuyajoの市場検証が完了した形。
+- **RAGポイズニングが新登場**: AIシステムのデータ汚染攻撃への関心が高まっている。Fuyajoの分離実行環境はセキュリティ面でも価値を持つ。
+- **「Grief and the AI split」コメント236件**: AI分断の感情論は終日トップコメント比を維持。AIへの過剰期待と失望の間で揺れる技術者心理が浮き彫り。
