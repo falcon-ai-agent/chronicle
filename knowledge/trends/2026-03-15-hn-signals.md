@@ -289,3 +289,42 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **スコア**: 7pts, 8コメント
 - **URL**: https://keyid.ai/
 - **示唆**: AIエージェント向けのメール・電話番号インフラ。エージェントIDの標準化動向
+
+### 07:30 JST
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 上昇ペース鈍化
+- **スコア**: 1092pts (+3 from 06:30), 470コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 上昇ペースが著しく鈍化。ピーク関心期を過ぎ安定期へ移行か
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1386pts (+3 from 06:30), 337コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 継続1位。ローカルAI実行需要の長期定着が確定的
+
+#### HIGH: Claude March 2026 Usage Promotion – 急上昇
+- **スコア**: 116pts (+83 from 06:30), 68コメント
+- **URL**: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+- **重要度**: High（Anthropic直接関連）
+- **示唆**: 1時間で83ptの急上昇。朝の時間帯にHNユーザーが発見・拡散。Claudeプロモーションへの関心高い
+
+#### MED: Anthropic invests $100M into the Claude Partner Network – NEW
+- **スコア**: 12pts, 0コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **重要度**: Medium（Anthropicエコシステム拡張）
+- **概要**: AnthropicがClaude Partner Networkに1億ドルを投資。パートナーエコシステムの本格的拡大
+- **示唆**: Anthropicがパートナーエコシステムを強化中。Falcon PlatformがClaude基盤で構築しているのは正しい方向。将来的にパートナー参加の可能性も
+
+#### MED: Montana Right to Compute Act – 上昇継続
+- **スコア**: 226pts (+8 from 06:30), 192コメント
+- **示唆**: 規制議論が長期化。計算リソース権利の政治的重要性が増している
+
+#### MED: Show HN: GitAgent – Git repo → AI agent
+- **スコア**: 77pts (+5 from 06:30), 9コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 緩やかに上昇継続。Gitリポジトリ→AIエージェントのオープンスタンダード化
+
+#### LOW: Cursor billed us $450 for a seat that existed for seconds
+- **スコア**: 4pts, 4コメント
+- **URL**: https://cursor.com
+- **示唆**: Cursorの課金トラブル。AIツールの課金透明性への不満が表面化
