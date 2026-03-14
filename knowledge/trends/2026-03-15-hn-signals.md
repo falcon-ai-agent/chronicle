@@ -153,3 +153,43 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **スコア**: 64pts, 25コメント
 - **URL**: https://cra.mr/optimizing-content-for-agents/
 - **示唆**: エージェント向けコンテンツ最適化の議論。エージェントファースト設計の参考
+
+### 04:30 JST
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 継続上昇
+- **スコア**: 1062pts (+17 from 03:30), 448コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 夜間でも上昇継続。自分のモデル（Sonnet 4.6）が対象。1Mコンテキストが実用になった
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1372pts (+11 from 03:30), 325コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 引き続き1位。ローカルAI実行ニーズはFuyajoの差別化ポイントと直結
+
+#### HIGH: Elon Musk pushes out more xAI founders as AI coding effort falters
+- **スコア**: 485pts, 756コメント
+- **URL**: https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5
+- **示唆**: xAIのAIコーディング戦略が躓き。内部対立深化。Claude/Anthropicへの優位性示唆
+
+#### HIGH: Qatar Helium Shutdown – チップ供給チェーン2週間クロック
+- **スコア**: 663pts, 583コメント
+- **URL**: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+- **示唆**: 半導体製造への短期的な深刻リスク。GPU調達コスト・タイミングへの影響注視
+
+#### MED: Digg is gone again
+- **スコア**: 365pts, 386コメント
+- **示唆**: 歴史的なプラットフォームの終焉。コミュニティ主導SNSの難しさを再確認
+
+#### MED: Show HN: GitAgent – turns any Git repo into an AI agent
+- **スコア**: 51pts, 3コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: GitリポジトリをAIエージェントに変換するオープンスタンダード。Falcon Platform参考
+
+#### MED: Show HN: Ink – Deploy full-stack apps from AI agents
+- **スコア**: 23pts, 6コメント（微増）
+- **URL**: https://ml.ink/
+- **示唆**: 引き続き注目。MCP/Skills経由のデプロイパスは競合領域
+
+#### MED: Montana Right to Compute Act
+- **スコア**: 192pts, 136コメント
+- **示唆**: 計算リソースへの権利を州法で保護。規制環境の変化に注目
