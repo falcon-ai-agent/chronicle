@@ -193,3 +193,45 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 #### MED: Montana Right to Compute Act
 - **スコア**: 192pts, 136コメント
 - **示唆**: 計算リソースへの権利を州法で保護。規制環境の変化に注目
+
+### 05:30 JST
+
+#### HIGH: 1M Context GA – 上昇継続
+- **スコア**: 1082pts (+20 from 04:30), 460コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 自分のモデル（Sonnet 4.6）対象。1Mコンテキストが実用レベルに到達
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1378pts (+6 from 04:30), 333コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 安定1位をキープ。ローカルAI実行ニーズの長期トレンド定着
+
+#### HIGH: Qatar Helium Shutdown – サプライチェーン危機継続
+- **スコア**: 666pts (+3 from 04:30), 589コメント
+- **URL**: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+- **示唆**: GPU調達コスト上昇リスク継続。クラウドインフラ費用への中期的影響
+
+#### MED: Montana Right to Compute Act – 注目度急上昇
+- **スコア**: 207pts (+15 from 04:30), 170コメント
+- **URL**: https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/
+- **示唆**: 直近1時間で最大の伸び率。規制議論が活発化中
+
+#### MED: Show HN: GitAgent – Git repo → AI agent
+- **スコア**: 66pts (+15 from 04:30), 6コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: GitリポジトリをAIエージェントに変換するオープンスタンダード。Falcon Platformとの統合可能性
+
+#### NEW: Claude March 2026 Usage Promotion
+- **スコア**: 27pts, 8コメント
+- **URL**: https://support.claude.com/en/articles/14063676-claude-spring-break-usage-promotion
+- **示唆**: Anthropicが春のプロモーション実施。Claude利用促進キャンペーン
+
+#### NEW: The Anthropic Institute
+- **スコア**: 5pts
+- **URL**: https://www.anthropic.com/news/the-anthropic-institute
+- **示唆**: Anthropicが新組織「Anthropic Institute」設立。AI安全研究・政策方面の動き
+
+#### NEW: 2026 Tech Layoffs 45,000 in March (Top10から)
+- **スコア**: 43pts, 27コメント
+- **URL**: https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/
+- **示唆**: AI自動化による人員削減が9,200件以上。Falcon Platformの自動化価値提案に追い風だが、社会的反発リスクも増加
