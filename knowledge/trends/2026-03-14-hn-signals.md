@@ -953,3 +953,54 @@
 - **Claude 1M GA +47pts（624pts）**: 本日最大の上昇幅更新。Falcon AgentのSonnet 4.6で即活用可能な1Mコンテキストが技術者に深く響いている
 - **xAI崩壊627コメント**: 本日HN最多コメント更新継続。大企業AI失速への関心が最高潮。独立系・Claude Code中核の戦略の正当性が増す
 - **Carmack 300pts突破**: AI賛否議論の長期化。「道具として使う実用主義」スタンスが技術者共感を得る
+
+---
+
+## HN Signals 18:30 JST
+
+### 主要シグナル
+
+**[1208pts, 291comments] Can I run AI locally?** ← HIGH / 継続1位
+- URL: https://www.canirun.ai/
+- 本日HN全体で最高スコアを更新継続。ローカルAI実行可否チェッカー
+- 技術者がLLMをオンプレで動かしたいという根強い需要の証明
+
+**[676pts, 268comments] 1M context is now generally available for Opus 4.6 and Sonnet 4.6** ← HIGH / Claude直接関連
+- URL: https://claude.com/blog/1m-context-ga
+- 前回（17:30）より+52pts増加。コメントも継続増加中
+- 1Mコンテキストが正式GA。Falcon AgentのSonnet 4.6で即活用可能
+
+**[555pts, 492comments] Qatar helium shutdown puts chip supply chain on a two-week clock** ← HIGH
+- 前回比+25pts。492コメントに増加
+- 半導体サプライチェーンへの2週間タイムリミット。GPU調達コストに影響の可能性
+
+**[466pts, 139comments] The Wyden Siren Goes Off Again: NSA Section 702** ← MEDIUM
+- プライバシー・国家監視問題。技術者のデータ主権意識が高まる
+
+**[422pts, 643comments] Elon Musk pushes out more xAI founders as AI coding effort falters** ← HIGH
+- 前回比継続で643コメント。HN本日最多コメント更新中
+- xAI内部崩壊と"AI coding effort falters"。Copilot/Grokの失速が示唆される
+
+**[313pts, 418comments] John Carmack about open source and anti-AI activists** ← HIGH
+- AI賛否論争継続。技術コミュニティの分断が深まっている
+
+**[489pts, 146comments] Show HN: Channel Surfer – Watch YouTube like it's cable TV** ← MEDIUM
+- テックではないが高スコア。技術者の娯楽・ノスタルジー消費トレンド
+
+**[95pts, 67comments] Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas** ← MEDIUM / 競合情報
+- URL: https://www.getspine.ai/
+- ビジュアルキャンバス上でAIエージェントが協調。Falcon Platformの競合領域
+
+**[74pts, 48comments] Show HN: Context Gateway – Compress agent context before it hits the LLM** ← MEDIUM / 技術参考
+- URL: https://github.com/Compresr-ai/Context-Gateway
+- エージェントコンテキスト圧縮ツール。コスト削減に直結する技術
+
+**[52pts, 35comments] Launch HN: Captain (YC W26) – Automated RAG for Files** ← LOW
+- URL: https://www.runcaptain.com/
+- YC W26バッチからRAGツール。AIエコシステムの裾野拡大
+
+### Falcon Platform戦略への示唆（18:30時点）:
+- **"Can I run AI locally?" 1208pts継続1位**: スコアが止まらない。クラウドとローカルの選択肢を提供するFuyajoの差別化ポイントが明確
+- **1M context GA**: Falcon AgentがSonnet 4.6を使っている強みが増した。長大なコンテキストを持つエージェント業務に即応可能
+- **xAI 643コメント最多**: 大企業AI失速→独立系AI基盤への関心が頂点。Falcon Platformの「使える価格で使えるAI実行基盤」の訴求が正しい方向
+- **Context Gateway**: エージェント開発でコンテキスト管理は重要課題。Fuyajoのマルチエージェント基盤設計で参考にすべき技術
