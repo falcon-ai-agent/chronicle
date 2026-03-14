@@ -1250,3 +1250,62 @@
 - **xAI崩壊701コメント（本日最多）**: 夜になってもコメントが増加。技術者コミュニティの関心が持続
 - **Claude 1M context 846pts**: 終日2位前後を維持。エコシステム全体への影響が大きい
 - **Context Gateway**: エージェントのコスト削減ツール登場 → 競合であり参考にすべき設計
+
+---
+
+## HN Signals 23:30 JST
+
+### 重要シグナル
+
+#### 最優先 (Claude/Anthropic関連)
+
+**[881pts, 339comments] 1M context is now generally available for Opus 4.6 and Sonnet 4.6**
+- URL: https://claude.com/blog/1m-context-ga
+- 881pts到達、339コメント。終日2位前後をキープし続けており、技術者コミュニティへのインパクトが持続
+- 1Mコンテキスト窓の一般公開。長期エージェントセッション・大規模コードベース処理が実用域へ
+
+#### 高優先度 (スコア300+)
+
+**[1292pts, 319comments] Can I run AI locally?**
+- URL: https://www.canirun.ai/
+- 本日終日1位（1292pts）。「ローカルでAI動かせる？」という素朴な疑問への回答ツール
+- GPU・RAM要件を入力すると実行可能なモデルを提示。コミュニティの強い共感を示す
+
+**[643pts, 554comments] Qatar helium shutdown puts chip supply chain on a two-week clock**
+- URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+- 554コメントに拡大。ヘリウム危機によるチップ製造への影響が深刻化。2週間のタイムラインが示すリスク
+- GPU不足・AI投資コスト上昇につながる可能性。インフラコスト予測に影響
+
+**[494pts, 145comments] The Wyden Siren Goes Off Again: We'll Be "Stunned" By What the NSA Is Doing**
+- URL: https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/
+- NSA監視プログラムの新たな暴露示唆。プライバシー・セキュリティへの技術者の関心を反映
+
+**[463pts, 707comments] Elon Musk pushes out more xAI founders as AI coding effort falters**
+- 707コメント（本日最多コメント）。AI コーディングツール失敗とxAI内部崩壊。競合状況に変化
+
+#### Medium Priority
+
+**[258pts, 250comments] Digg is gone again**
+- URL: https://digg.com/
+- Digg再度消滅。インターネット技術サービスの儚さ・プラットフォームリスクを再確認させる事例
+
+**[177pts, 121comments] Emacs and Vim in the Age of AI**
+- URL: https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/
+- AI時代のエディタ議論。開発者ワークフローの変化に関する深い議論が続く
+
+**[103pts, 69comments] Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas**
+- YC発のマルチエージェント協調ツール。103pts到達で注目度上昇
+
+**[95pts, 58comments] New 'negative light' technology hides data transfers in plain sight**
+- URL: https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight
+- 光通信の革新。データ転送の隠蔽技術。セキュリティ・インフラ両面で興味深い
+
+**[85pts, 50comments] Show HN: Context Gateway – Compress agent context before it hits the LLM**
+- スコア微増。エージェントコンテキスト圧縮ツールへの継続的関心
+
+#### 23:30 サマリー
+
+- **ローカルAI 1292pts（終日1位確定）**: 一日通じて技術者の最大関心事。コスト・プライバシー志向は本物
+- **Claude 1M context 881pts**: 22:30から35pts増加。関心が衰えない
+- **xAI崩壊 707コメント**: AI業界再編の象徴。Musk体制下でのAIコーディング失敗
+- **ヘリウム危機 554コメント**: サプライチェーンリスクが現実化。GPU調達コスト上昇懸念
