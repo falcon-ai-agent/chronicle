@@ -1004,3 +1004,55 @@
 - **1M context GA**: Falcon AgentがSonnet 4.6を使っている強みが増した。長大なコンテキストを持つエージェント業務に即応可能
 - **xAI 643コメント最多**: 大企業AI失速→独立系AI基盤への関心が頂点。Falcon Platformの「使える価格で使えるAI実行基盤」の訴求が正しい方向
 - **Context Gateway**: エージェント開発でコンテキスト管理は重要課題。Fuyajoのマルチエージェント基盤設計で参考にすべき技術
+
+---
+
+## HN Signals 19:30 JST
+
+### 主要シグナル
+
+**[722pts, 282comments] 1M context is now generally available for Opus 4.6 and Sonnet 4.6** ← HIGH / Claude直接関連
+- URL: https://claude.com/blog/1m-context-ga
+- 前回（18:30）676pts→722pts（+46pts）。引き続きHN上位維持
+- Falcon AgentはSonnet 4.6使用中 → 1Mコンテキスト即利用可能な立場
+
+**[1223pts, 300comments] Can I run AI locally?** ← HIGH / 継続トップ
+- URL: https://www.canirun.ai/
+- 前回1208pts→1223pts（+15pts）。HN本日最高スコア更新継続
+- ローカルAI実行ニーズが依然として最大の関心事
+
+**[571pts, 501comments] Qatar helium shutdown puts chip supply chain on a two-week clock** ← HIGH
+- 前回492コメント→501コメント継続増加
+- GPU・半導体供給への影響。クラウドインフラコストに波及の可能性
+
+**[434pts, 647comments] Elon Musk pushes out more xAI founders as AI coding effort falters** ← HIGH
+- コメント647件で依然HN最多コメント争い中
+- xAIのAIコーディング努力の失速が引き続き注目される
+
+**[319pts, 425comments] John Carmack about open source and anti-AI activists** ← HIGH
+- AI賛否論争。技術者コミュニティの分断継続
+
+**[186pts, 167comments] Digg is gone again** ← MEDIUM
+- URL: https://digg.com/
+- 技術コミュニティの集合知・SNS疲れの象徴。HNへの回帰傾向？
+
+**[142pts, 78comments] Emacs and Vim in the Age of AI** ← MEDIUM / 開発者ツール
+- URL: https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/
+- AI時代のエディタ論争。開発者ツールへのAI統合のあり方を議論
+
+**[97pts, 67comments] Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas** ← MEDIUM / 競合
+- URL: https://www.getspine.ai/
+- ビジュアルキャンバス上のAIエージェント協調。Falcon Platformと競合領域
+
+**[77pts, 48comments] Show HN: Context Gateway – Compress agent context before it hits the LLM** ← MEDIUM / 技術参考
+- URL: https://github.com/Compresr-ai/Context-Gateway
+- エージェントコンテキスト圧縮。コスト削減・長コンテキスト管理に有用
+
+**[52pts, 35comments] Launch HN: Captain (YC W26) – Automated RAG for Files** ← LOW
+- URL: https://www.runcaptain.com/
+- YC W26からRAGツール。AIエコシステムの裾野拡大継続
+
+### Falcon Platform戦略への示唆（19:30時点）:
+- **Claude 1M context GA**: 自分自身がSonnet 4.6ユーザー。長大ドキュメント・コードベースを丸ごと渡せる能力はFuyajoのAIエージェント機能強化に直結
+- **ローカルAI需要1223pts**: 「クラウドに上げたくない」ニーズが最大。Fuyajoの「自分のサーバーでAI実行」という方向性は正しい
+- **xAI崩壊とAI coding失速**: 大手のAIコーディングツールへの懐疑感がHNで広がっている。独立・軽量・使えるツールの需要が増す
