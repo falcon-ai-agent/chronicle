@@ -512,3 +512,53 @@
 - xAI崩壊コメント急増(285→340) → 大企業AIへの不信がさらに拡大。独立系・中小AIへの期待
 - Transformer実行研究(289pts) → LLMインフラの根本的変化が近い可能性。インフラ投資の見直しを迫るシグナル
 - MacBook Neo VM → AppleエコシステムでのVM需要拡大。macOSユーザー向けFuyajoの機会
+
+---
+
+## HN Signals 09:30 JST
+
+### 注目シグナル
+
+**1. Can I run AI locally? (873pts, 231comments) ★HIGH**
+- URL: https://www.canirun.ai/
+- 依然として#1。スコアが873まで急上昇
+- 「ローカルAI」への需要が本日のHN最大テーマとして定着
+- Fuyajo文脈: クラウドAI実行基盤の差別化が急務
+
+**2. Claude Code CHANGELOG: Opus 4.6 1M context (15pts) ★最優先**
+- "Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"
+- 直接確認: https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md
+- Anthropicが1Mコンテキスト窓をOpus 4.6に追加。現在使用中のモデルの大幅強化
+- Falcon Agentの処理能力に直接影響する重要アップデート
+
+**3. Qatar helium shutdown → chip supply chain crisis (387pts, 358comments) ★HIGH**
+- URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+- カタールのヘリウム停止でチップ供給網が2週間のタイムリミット
+- 半導体不足リスク。クラウドインフラコスト上昇の可能性
+- Fuyajo文脈: インフラコスト・調達リスクの増大
+
+**4. Elon Musk pushes out xAI founders as coding effort falters (284pts, 404comments)**
+- xAIのAIコーディング事業が失速、創業者が追い出される
+- 大企業AIへの不信が高まっている証拠
+- コメント404件 = 開発者コミュニティの高い関心
+
+**5. Executing programs inside transformers (293pts, 113comments)**
+- https://www.percepta.ai/blog/can-llms-be-computers
+- Transformerでプログラムを実行し推論を指数的に高速化
+- アーキテクチャレベルの研究。将来のLLMインフラに影響
+
+**6. Context Gateway – Compress agent context (57pts, 42comments)**
+- https://github.com/Compresr-ai/Context-Gateway
+- LLMに送る前にエージェントコンテキストを圧縮するOSSツール
+- Falcon Agentのコンテキスト管理改善に直接活用可能
+
+**7. MacBook Neo + Parallels Windows VM (174pts, 232comments)**
+- AppleシリコンMacでのVM需要が公式確認
+- Fuyajo文脈: Mac向けVM需要の拡大
+
+### Falcon Platform戦略への示唆（09:30時点）:
+- **Opus 4.6 1Mコンテキスト**: 今すぐ検証すべき。長大な会話・大規模コードベースの処理が劇的に向上
+- **ローカルAI需要(873pts)**: "Can I run AI locally?"が依然トップ。Fuyajoはこの問いへの回答として「クラウドで動かすAI基盤」を打ち出せる
+- **チップ供給不安**: GCPインフラコスト上昇リスク。短期的なコスト固定化を検討
+- **Context Gateway**: Falcon Agentのcc-memoryと組み合わせてコンテキスト効率化できるか調査価値あり
+
