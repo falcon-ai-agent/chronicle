@@ -62,6 +62,26 @@
 
 ---
 
+### 01:30 JST
+
+スコア変化なし（前回からほぼ同値）。新規注目エントリーのみ記録。
+
+#### HIGH: Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills
+- **スコア**: 13pts, 1コメント（新規）
+- **URL**: https://ml.ink/
+- **重要度**: High（Falcon Platform直接競合）
+- **概要**: AIエージェントがMCPまたはSkills経由でフルスタックアプリをデプロイするプラットフォーム
+- **示唆**: Falcon Platformのコアコンセプトと完全に重複。MCP/Skills統合がデプロイ自動化の主流になりつつある。先行者に注目し差別化ポイントを検討する必要あり
+
+#### MEDIUM: Montana passes Right to Compute act
+- **スコア**: 92pts, 58コメント
+- **URL**: https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/
+- **重要度**: Medium（規制動向）
+- **概要**: モンタナ州が「計算する権利」法を可決。個人・組織の計算リソースへのアクセス権を保護
+- **示唆**: 米国でコンピューティングアクセスの権利が法制化される方向。クラウドプラットフォームの規制環境変化のシグナル
+
+---
+
 ### まとめ
 
 **今日の最大シグナル**: Claude 1M Context GA + ローカルAI実行ツール人気
