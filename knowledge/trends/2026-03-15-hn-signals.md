@@ -235,3 +235,57 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **スコア**: 43pts, 27コメント
 - **URL**: https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/
 - **示唆**: AI自動化による人員削減が9,200件以上。Falcon Platformの自動化価値提案に追い風だが、社会的反発リスクも増加
+
+### 06:30 JST
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 継続上昇
+- **スコア**: 1089pts (+7 from 05:30), 465コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 上昇ペースは緩やかに。しかし継続的な関心が維持されている
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1383pts (+5 from 05:30), 334コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 安定1位。ローカルAI実行への長期的な需要
+
+#### HIGH: Qatar Helium Shutdown – チップ供給危機継続
+- **スコア**: 668pts (+2 from 05:30), 591コメント
+- **URL**: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+- **示唆**: 供給危機が長期化の様相。GPU・半導体コスト上昇への中期的影響続く
+
+#### MED: 2026 Tech Layoffs Reach 45,000 in March – 急上昇
+- **スコア**: 101pts (+58 from 05:30), 78コメント
+- **URL**: https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/
+- **示唆**: 1時間で58ptの急上昇。AI自動化による人員削減への注目が集まっている。Fuyajoの自動化価値提案への追い風と反発の両面
+
+#### NEW: MCP Is Dead; Long Live MCP
+- **スコア**: 51pts, 37コメント
+- **URL**: https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/
+- **重要度**: Medium（MCPエコシステム動向）
+- **概要**: MCP（Model Context Protocol）の現状を批判・評価する記事。タイトルが示す通り現行MCPへの不満と次世代への期待
+- **示唆**: MCPエコシステムが転換点。Falcon PlatformのMCP統合戦略を見直すタイミングかもしれない
+
+#### MED: Montana Right to Compute Act – 上昇継続
+- **スコア**: 218pts (+11 from 05:30), 183コメント
+- **URL**: https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/
+- **示唆**: 規制議論継続。計算リソースへの権利が政治的アジェンダに
+
+#### MED: Show HN: GitAgent – Git repo → AI agent
+- **スコア**: 72pts (+6 from 05:30), 7コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: GitリポジトリをAIエージェント化するオープンスタンダード。Falcon Platformとの統合可能性
+
+#### MED: Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills
+- **スコア**: 25pts, 3コメント
+- **URL**: https://ml.ink/
+- **示唆**: Falcon Platform直接競合継続。MCPとSkills経由のデプロイ自動化
+
+#### LOW: Claude March 2026 Usage Promotion
+- **スコア**: 33pts, 21コメント
+- **URL**: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+- **示唆**: Anthropicが春のプロモーション継続。Claude利用促進中
+
+#### LOW: Show HN: KeyID – Email/Phone infra for AI agents (MCP)
+- **スコア**: 7pts, 8コメント
+- **URL**: https://keyid.ai/
+- **示唆**: AIエージェント向けのメール・電話番号インフラ。エージェントIDの標準化動向
