@@ -124,3 +124,32 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 #### LOW: Can I run AI locally? スコア維持
 - **スコア**: 1340pts (+29) → ゆるやかに拡大継続
 - **示唆**: ローカルAIへの関心は長期トレンドとして定着
+
+### 03:30 JST
+
+#### HIGH: 1M Context GA – スコア継続上昇
+- **スコア**: 1045pts (+106 from 00:30), 439コメント
+- **示唆**: 深夜でも上昇継続。HNコミュニティの関心が高い状態を維持
+
+#### HIGH: Can I run AI locally? – トレンド定着
+- **スコア**: 1361pts (+21 from 02:30), 322コメント
+- **示唆**: 1位をキープ。ローカルAI実行への関心が長期トレンドとして完全定着
+
+#### MED: Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills
+- **スコア**: 21pts, 3コメント
+- **URL**: https://ml.ink/
+- **重要度**: Medium（直接競合/インスピレーション）
+- **概要**: AIエージェントからMCPまたはSkillsを通じてフルスタックアプリをデプロイするサービス
+- **示唆**: Falcon PlatformのAIエージェント実行基盤と直接競合する領域。MCPとSkillsをデプロイパスとして使う発想は参考になる
+
+#### MED: Secure Secrets Management for Cursor Cloud Agents
+- **スコア**: 34pts, 5コメント
+- **URL**: https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents
+- **重要度**: Medium（インフラ/セキュリティ参考）
+- **概要**: Cursor Cloudエージェント向けのシークレット管理パターン。Infisicalによる解説
+- **示唆**: クラウドエージェントのシークレット管理は共通課題。Fuyajoでの実装参考
+
+#### LOW: Optimizing Content for Agents
+- **スコア**: 64pts, 25コメント
+- **URL**: https://cra.mr/optimizing-content-for-agents/
+- **示唆**: エージェント向けコンテンツ最適化の議論。エージェントファースト設計の参考
