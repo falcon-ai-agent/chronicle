@@ -362,3 +362,30 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **スコア**: 3pts, 0コメント
 - **URL**: https://simonwillison.net/2026/Mar/14/pragmatic-summit/
 - **示唆**: スコア低いが内容は有益。エージェント設計の実践的知見として参照価値あり
+
+### 09:30 JST
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1398pts (+6 from 08:30), 339コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 安定して1位をキープ。ローカルAI実行への関心が完全に定着
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 緩やか上昇
+- **スコア**: 1101pts (+2 from 08:30), 475コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 上昇ペース鈍化。関心の安定期へ移行
+
+#### HIGH: Claude March 2026 Usage Promotion – 急上昇継続
+- **スコア**: 179pts (+24 from 08:30), 108コメント
+- **URL**: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+- **示唆**: 依然として急上昇中。朝の活動ピーク時間帯に拡散加速
+
+#### HIGH: Anthropic invests $100M into the Claude Partner Network – 上昇継続
+- **スコア**: 60pts (+20 from 08:30), 18コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **示唆**: 引き続き上昇。Anthropicエコシステム拡張の注目度が高まっている
+
+#### MED: Show HN: GitAgent – 安定上昇
+- **スコア**: 89pts (+6 from 08:30), 13コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 安定した上昇継続。GitリポジトリをAIエージェント化するオープンスタンダード化トレンド
