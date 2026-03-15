@@ -389,3 +389,37 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **スコア**: 89pts (+6 from 08:30), 13コメント
 - **URL**: https://www.gitagent.sh/
 - **示唆**: 安定した上昇継続。GitリポジトリをAIエージェント化するオープンスタンダード化トレンド
+
+### 10:30 JST
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1400pts (+2 from 09:30), 339コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: ほぼ頭打ちに近いが依然1位をキープ。ローカルAI実行ニーズの長期定着が完全確定
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 緩やか上昇継続
+- **スコア**: 1112pts (+11 from 09:30), 479コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 上昇ペース鈍化しつつも継続。関心の安定期へ移行中
+
+#### HIGH: Claude March 2026 Usage Promotion – 急上昇継続
+- **スコア**: 202pts (+23 from 09:30), 129コメント
+- **URL**: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+- **示唆**: 依然として急上昇中。朝の活動ピークからの拡散が継続
+
+#### HIGH: Anthropic invests $100M into the Claude Partner Network – 上昇継続
+- **スコア**: 77pts (+17 from 09:30), 25コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **示唆**: 上昇継続。Anthropicのパートナーエコシステム投資への注目が高まっている
+
+#### MED: Show HN: GitAgent – 安定上昇
+- **スコア**: 92pts (+3 from 09:30), 13コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 安定上昇継続。GitリポジトリをAIエージェント化するオープンスタンダード化トレンド
+
+#### MED: Ageless Linux – NEW（TOP10入り）
+- **スコア**: 248pts, 162コメント
+- **URL**: https://agelesslinux.org/
+- **重要度**: Medium（開発者向けツール参考）
+- **概要**: 「indeterminate age（不特定年齢）の人間向けソフトウェア」として設計されたLinuxディストリビューション。アクセシビリティと長期サポートに焦点
+- **示唆**: 一般ユーザー向けLinux環境の改善ニーズが旺盛。Fuyajoのユーザー向けVM環境設計に参考になる視点
