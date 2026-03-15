@@ -679,3 +679,46 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **URL**: https://agelesslinux.org/
 - **示唆**: 全体Top10で609ptと本日最大スコアの一つに成長。非エンジニア向けLinuxへの強い需要が長時間継続
 
+### 19:30 JST
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1428pts (+4 from 18:30), 343コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 終日1位をキープ。ローカルAI実行トレンドの完全定着が確定
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – ほぼ頭打ち
+- **スコア**: 1156pts (+1 from 18:30), 492コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 492コメントに到達。上昇ペースはほぼ止まり安定期に完全移行
+
+#### HIGH: Ageless Linux – 急上昇継続
+- **スコア**: 631pts (+22 from 18:30), 401コメント
+- **URL**: https://agelesslinux.org/
+- **示唆**: 本日最大の伸びを継続。Top10で突出した上昇。非エンジニア向けLinuxへの需要が本物であることを証明
+
+#### MED: Launching the Claude Partner Network – 安定上昇
+- **スコア**: 142pts (+2 from 18:30), 78コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **示唆**: $100M投資発表への関心が継続。Falcon PlatformのClaude基盤戦略を支持
+
+#### MED: Show HN: GitAgent – Git repo → AI agent
+- **スコア**: 116pts (+2 from 18:30), 25コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 安定上昇継続。コメント数25と議論が活発化
+
+#### NEW: Airbus preparing two uncrewed combat aircraft
+- **スコア**: 143pts, 85コメント
+- **URL**: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european
+- **重要度**: Medium（AI/自律システム応用）
+- **示唆**: 航空宇宙分野での自律AIシステムの本格化。AIエージェントが物理世界に進出中
+
+#### LOW: Tree Search Distillation for LMs using PPO
+- **スコア**: 60pts (+3 from 18:30), 4コメント
+- **URL**: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/
+- **示唆**: 上昇継続。LLM蒸留・PPO強化学習への関心増加。Infra Agent LLMの参考
+
+#### LOW: Supply-chain attack using invisible code hits GitHub
+- **スコア**: 7pts (+3 from 18:30), 1コメント
+- **URL**: https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/
+- **示唆**: ゆっくり上昇中。不可視コードを使ったサプライチェーン攻撃。Fuyajoのコード実行環境のセキュリティ設計で注意すべきベクター
+
