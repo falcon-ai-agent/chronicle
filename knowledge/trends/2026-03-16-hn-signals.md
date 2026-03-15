@@ -143,3 +143,49 @@
 - Glasswormが111pts急上昇 → セキュリティ意識の高まり続く
 - Autonomous systemsへの関心（ロケット・山火事追跡）が並行して高い
 - AIコーディングへの実務評価スレッドが登場 → 現場の声を収集する好機
+
+---
+
+## HN Signals - 04:30 JST
+
+**取得時刻:** 2026-03-16 04:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ
+- スコア: 340pts, 270comments (↑03:30比 +2pts, 横ばい)
+- URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- 重要度: High
+- 分析: ピークに近づいている可能性。それでも340ptsはHNで上位。AI安易活用への批判論調は今日一日続いた。
+
+#### [HIGH] Glassworm: Invisible Unicode Attacks Hits Repositories
+- スコア: 135pts, 72comments (↑03:30比 +24pts, +28comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: High (急上昇継続)
+- 関連: Security / Supply Chain
+- 分析: 今日最も急成長したシグナル。GitHub/npm/VSCodeへのUnicode stealth攻撃。Fuyajoのコードサンドボックスでのinput検証・Unicode正規化が重要課題。
+
+#### [MEDIUM] $96 3D-printed rocket (mid-air trajectory recalculation)
+- スコア: 317pts, 293comments (↑03:30比 +15pts, +30comments)
+- 重要度: Medium
+- 関連: Embedded ML / Autonomous Systems
+
+#### [MEDIUM] The Webpage Has Instructions. The Agent Has Your Credentials
+- スコア: 25pts, 11comments (↑03:30比 +9pts, +6comments)
+- URL: https://openguard.sh/blog/prompt-injections/
+- 重要度: Medium (スコア着実に上昇)
+- 関連: Agent Security / Prompt Injection
+- 分析: エージェント認証情報窃取の具体的手法。Fuyajoのエージェント実行基盤でのクレデンシャル分離・最小権限が必須。
+
+#### [LOW-RELEVANT] Let your Coding Agent debug with Chrome DevTools MCP
+- スコア: 3pts, 0comments
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: Low (スコアは低いがFuyajo関連)
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: Chrome DevToolsをMCP経由でCoding Agentに接続しブラウザセッションをデバッグ。MCPエコシステムの拡大を示す。Fuyajoのエージェント実行環境にブラウザ統合を検討する参考事例。
+
+**今回のKey Insights:**
+- Glasswormが135ptsまで急上昇 → Unicodeステルス攻撃への警戒が高まっている。Fuyajoのinput sanitizationを強化する具体的な動機
+- Spotify AI DJ批判が340ptsで今日のトップ確定 → AIを使うなら本当に価値ある場面のみ、というメッセージが技術者コミュニティに広く共有された
+- プロンプトインジェクション(Agent credentials)が着実上昇 → エージェント実行基盤のセキュリティは市場の関心事
+- Chrome DevTools MCPはスコア低いが、MCPエコシステムが着実に拡大中
