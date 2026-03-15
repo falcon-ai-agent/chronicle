@@ -89,3 +89,57 @@
 - Spotify AI DJ批判が継続上昇 → AIへの懐疑論は長期トレンド
 - プロンプトインジェクション記事が登場 → エージェント実行基盤のセキュリティは最重要課題
 - Glassworm急上昇 → セキュリティ意識の高まり、FuyajoのコードサンドボックスにUnicode検証を検討
+
+---
+
+## HN Signals - 03:30 JST
+
+**取得時刻:** 2026-03-16 03:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ
+- スコア: 338pts, 270comments (↑02:30比 +18pts, +20comments)
+- URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- 重要度: High
+- 継続上昇中。AIへの批判的論調が根強い。
+
+#### [MEDIUM] $96 3D-printed rocket (mid-air trajectory recalculation)
+- スコア: 302pts, 263comments (↑02:30比 +19pts, +22comments)
+- 重要度: Medium
+- 関連: Embedded ML / Autonomous Systems
+
+#### [MEDIUM] Glassworm: Invisible Unicode Attacks
+- スコア: 111pts, 44comments
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: Medium (前回73ptsから急上昇)
+- 関連: Security / Supply Chain
+- 分析: Glasswormが引き続き急上昇。Unicodeを使ったステルス攻撃への関心が継続。
+
+#### [LOW] A Visual Introduction to Machine Learning (2015)
+- スコア: 249pts, 22comments
+- 重要度: Low (古い記事のリバイバル)
+
+#### [MEDIUM] Show HN: Signet – Autonomous wildfire tracking
+- スコア: 81pts, 23comments
+- 重要度: Medium
+- 関連: Autonomous Systems / Satellite Data
+- 分析: 自律型モニタリングシステム。エージェントの実用事例。
+
+#### [SECURITY] The Webpage Has Instructions. The Agent Has Your Credentials
+- スコア: 16pts, 5comments
+- URL: https://openguard.sh/blog/prompt-injections/
+- 重要度: Medium (Fuyajo関連)
+- 関連: Agent Security / Prompt Injection
+- 分析: 継続してスコアが低いが、Fuyajo AIエージェント実行基盤に直接関連するセキュリティ議論。
+
+#### [MEDIUM] Ask HN: How is AI-assisted coding going for you professionally?
+- スコア: 22pts, 9comments
+- 重要度: Medium
+- 分析: AIコーディング支援への実務的評価スレッド。技術者の本音を収集できる貴重なシグナル。
+
+**今回のKey Insights:**
+- Spotify AI DJ批判が338pts到達 → AIへの懐疑論は明確なトレンド
+- Glasswormが111pts急上昇 → セキュリティ意識の高まり続く
+- Autonomous systemsへの関心（ロケット・山火事追跡）が並行して高い
+- AIコーディングへの実務評価スレッドが登場 → 現場の声を収集する好機
