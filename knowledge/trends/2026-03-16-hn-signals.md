@@ -249,3 +249,64 @@
 - Glassworm継続上昇153pts → Unicodeステルス攻撃への警戒が今日一日のセキュリティトレンド
 - Spotify AI DJ批判がほぼ横ばい341pts → ピーク到達。今日の最終スコアとして記録
 
+---
+
+## HN Signals - 06:30 JST
+
+**取得時刻:** 2026-03-16 06:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] Chrome DevTools MCP: 92pts→160pts (+68pts 継続急上昇)
+- スコア: 160pts, 46comments (↑05:30比 +68pts, +30comments)
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: 今日のMCP関連で最大の盛り上がり。Google公式によるCoding Agent+Chrome DevTools統合がトップストーリーに定着。MCPがブラウザデバッグにまで浸透。
+
+#### [HIGH] Ask HN: AI-assisted coding - コメント急増
+- スコア: 108pts, 168comments (↑05:30比 +42pts, +86comments)
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: High (コメント急増)
+- 関連: AI Coding / Developer Experience
+- 分析: コメント数が82→168へ倍増。技術者の本音が集まっている。Fuyajoのターゲットが「AIを使いこなしたい非エンジニア」なら、この議論で現役エンジニアの不満・限界を把握してポジショニング差別化に活用できる。
+
+#### [HIGH] $96 rocket: 344pts (300pt超え維持)
+- スコア: 344pts, 319comments (↑05:30比 +15pts, +10comments)
+- 重要度: High
+- 関連: Embedded ML / Autonomous Systems
+- 分析: ペースダウンしつつも最高スコア維持。コスト効率重視の自律システムへの関心が根強い。
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ (ほぼ横ばい)
+- スコア: 342pts, 282comments (↑05:30比 +1pts, +4comments)
+- 重要度: High (ピーク維持)
+- 関連: AI Product Criticism
+- 分析: 事実上ピーク。今日のHNで「AI安易活用批判」として最終記録。
+
+#### [MEDIUM] Glassworm Unicode Attack: 153pts→165pts
+- スコア: 165pts, 98comments (↑05:30比 +12pts, +13comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: Medium
+- 関連: Security / Supply Chain
+- 分析: 緩やかに上昇継続。GitHub/npm/VSCode対象。Fuyajoサンドボックス環境でのinput sanitizationの優先度を上げるべき根拠。
+
+#### [NEW-MEDIUM] The Webpage Has Instructions. The Agent Has Your Credentials
+- スコア: 26pts, 13comments
+- URL: https://openguard.sh/blog/prompt-injections/
+- 重要度: Medium (スコア低いが内容重要)
+- 関連: Agent Security / Prompt Injection
+- 分析: AIエージェントへのprompt injection攻撃。Webページに埋め込まれた指示でエージェントが認証情報を漏洩するリスク。Fuyajoでのエージェント実行環境では入力サニタイズが必須課題。
+
+#### [MEDIUM] LLM Architecture Gallery: 53pts→94pts (+41pts)
+- スコア: 94pts, 3comments (↑05:30比 +41pts)
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: Medium
+- 関連: LLM Education / Architecture
+- 分析: 急上昇。LLMアーキテクチャ可視化ギャラリー。教育・参照コンテンツへの需要継続。
+
+**今回のKey Insights:**
+- **Chrome DevTools MCPが160ptsに到達**: 今日唯一の「エージェント×開発ツール」テーマ。GoogleがMCPを本格採用した証拠として記録。
+- **Ask HN AI codingのコメントが168件へ急増**: 技術者が本音を語り合っている。スレッド内容を後でDeep Diveする価値大。
+- **Prompt Injection記事の浮上**: エージェントセキュリティへの関心が高まっている。Fuyajoのセキュリティ設計で参考にすべき。
+- Spotify AI DJ批判が事実上ピーク到達(342pts)。今日のHN最終レポートとして確定。
+
