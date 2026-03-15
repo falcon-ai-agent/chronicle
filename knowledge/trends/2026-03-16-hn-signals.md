@@ -146,6 +146,173 @@
 
 ---
 
+## HN Signals - 04:30 JST
+
+**取得時刻:** 2026-03-16 04:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ
+- スコア: 340pts, 270comments (↑03:30比 +2pts, 横ばい)
+- URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- 重要度: High
+- 分析: ピークに近づいている可能性。それでも340ptsはHNで上位。AI安易活用への批判論調は今日一日続いた。
+
+#### [HIGH] Glassworm: Invisible Unicode Attacks Hits Repositories
+- スコア: 135pts, 72comments (↑03:30比 +24pts, +28comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: High (急上昇継続)
+- 関連: Security / Supply Chain
+- 分析: 今日最も急成長したシグナル。GitHub/npm/VSCodeへのUnicode stealth攻撃。Fuyajoのコードサンドボックスでのinput検証・Unicode正規化が重要課題。
+
+#### [MEDIUM] $96 3D-printed rocket (mid-air trajectory recalculation)
+- スコア: 317pts, 293comments (↑03:30比 +15pts, +30comments)
+- 重要度: Medium
+- 関連: Embedded ML / Autonomous Systems
+
+#### [MEDIUM] The Webpage Has Instructions. The Agent Has Your Credentials
+- スコア: 25pts, 11comments (↑03:30比 +9pts, +6comments)
+- URL: https://openguard.sh/blog/prompt-injections/
+- 重要度: Medium (スコア着実に上昇)
+- 関連: Agent Security / Prompt Injection
+- 分析: エージェント認証情報窃取の具体的手法。Fuyajoのエージェント実行基盤でのクレデンシャル分離・最小権限が必須。
+
+#### [LOW-RELEVANT] Let your Coding Agent debug with Chrome DevTools MCP
+- スコア: 3pts, 0comments
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: Low (スコアは低いがFuyajo関連)
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: Chrome DevToolsをMCP経由でCoding Agentに接続しブラウザセッションをデバッグ。MCPエコシステムの拡大を示す。Fuyajoのエージェント実行環境にブラウザ統合を検討する参考事例。
+
+**今回のKey Insights:**
+- Glasswormが135ptsまで急上昇 → Unicodeステルス攻撃への警戒が高まっている。Fuyajoのinput sanitizationを強化する具体的な動機
+- Spotify AI DJ批判が340ptsで今日のトップ確定 → AIを使うなら本当に価値ある場面のみ、というメッセージが技術者コミュニティに広く共有された
+- プロンプトインジェクション(Agent credentials)が着実上昇 → エージェント実行基盤のセキュリティは市場の関心事
+- Chrome DevTools MCPはスコア低いが、MCPエコシステムが着実に拡大中
+
+---
+
+## HN Signals - 05:30 JST
+
+**取得時刻:** 2026-03-16 05:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ
+- スコア: 341pts, 278comments (↑04:30比 +1pts, ほぼ横ばい)
+- URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- 重要度: High
+- 分析: ほぼピーク。今日のHN最大トピックとして定着。AI安易活用批判が一日を通じて最大スコアを維持。
+
+#### [HIGH] $96 3D-printed rocket (mid-air trajectory recalculation)
+- スコア: 329pts, 309comments (↑04:30比 +12pts, +16comments)
+- 重要度: High (300pt超え継続)
+- 関連: Embedded ML / Autonomous Systems
+- 分析: 低コスト自律システムへの関心が継続。Spotify AI DJ批判を追い越す勢い。
+
+#### [HIGH] Glassworm: Invisible Unicode Attacks Hits Repositories
+- スコア: 153pts, 85comments (↑04:30比 +18pts, +13comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: High
+- 関連: Security / Supply Chain
+- 分析: 継続上昇中。GitHub/npm/VSCode対象のUnicodeステルス攻撃。Fuyajoのサンドボックス環境でのinput sanitization強化が喫緊の課題。
+
+#### [HIGH-NEW] Let your Coding Agent debug with Chrome DevTools MCP
+- スコア: 92pts, 16comments (↑04:30比 +89pts! 急上昇)
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High (急上昇)
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: 前回3ptsから92ptsへ急上昇。Chrome公式ブログがMCPでCoding Agentのブラウザデバッグを可能にすると発表。MCPエコシステムがGoogleも動かすレベルに成熟。Fuyajoのエージェント実行基盤でMCP統合を検討する具体的な根拠。
+
+#### [MEDIUM] Ask HN: How is AI-assisted coding going for you professionally?
+- スコア: 66pts, 82comments (↑03:30比 +44pts, +73comments)
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: Medium (コメント数/スコア比が高い = 活発な議論)
+- 関連: AI Coding / Developer Experience
+- 分析: スコア66に対してコメント82は異常に高い比率。技術者が実務でのAIコーディング体験を本音で語っている。Fuyajoのターゲットユーザー層の現状把握に価値あり。
+
+#### [MEDIUM] A Visual Introduction to Machine Learning (2015)
+- スコア: 278pts, 25comments
+- 重要度: Medium (古い記事のリバイバル継続)
+- 関連: ML Education
+
+#### [MEDIUM] LLM Architecture Gallery
+- スコア: 53pts, 2comments
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: Medium
+- 関連: LLM Education / Architecture
+- 分析: LLMアーキテクチャを視覚的にまとめたギャラリー。教育コンテンツへの需要が継続。
+
+**今回のKey Insights:**
+- **Chrome DevTools MCPが3pts→92ptsに急上昇**: GoogleがMCP統合を公式サポート。MCPエコシステムが主要プレイヤーを巻き込む段階へ。Fuyajoでのエージェント実行基盤にMCP対応を優先検討すべき
+- **Ask HN: AI coding**のコメント/スコア比が異常に高い → 技術者が実務での本音を語り合っている。スレッドを精読して現場の課題を把握する価値あり
+- Glassworm継続上昇153pts → Unicodeステルス攻撃への警戒が今日一日のセキュリティトレンド
+- Spotify AI DJ批判がほぼ横ばい341pts → ピーク到達。今日の最終スコアとして記録
+
+---
+
+## HN Signals - 06:30 JST
+
+**取得時刻:** 2026-03-16 06:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] Chrome DevTools MCP: 92pts→160pts (+68pts 継続急上昇)
+- スコア: 160pts, 46comments (↑05:30比 +68pts, +30comments)
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: 今日のMCP関連で最大の盛り上がり。Google公式によるCoding Agent+Chrome DevTools統合がトップストーリーに定着。MCPがブラウザデバッグにまで浸透。
+
+#### [HIGH] Ask HN: AI-assisted coding - コメント急増
+- スコア: 108pts, 168comments (↑05:30比 +42pts, +86comments)
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: High (コメント急増)
+- 関連: AI Coding / Developer Experience
+- 分析: コメント数が82→168へ倍増。技術者の本音が集まっている。Fuyajoのターゲットが「AIを使いこなしたい非エンジニア」なら、この議論で現役エンジニアの不満・限界を把握してポジショニング差別化に活用できる。
+
+#### [HIGH] $96 rocket: 344pts (300pt超え維持)
+- スコア: 344pts, 319comments (↑05:30比 +15pts, +10comments)
+- 重要度: High
+- 関連: Embedded ML / Autonomous Systems
+- 分析: ペースダウンしつつも最高スコア維持。コスト効率重視の自律システムへの関心が根強い。
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ (ほぼ横ばい)
+- スコア: 342pts, 282comments (↑05:30比 +1pts, +4comments)
+- 重要度: High (ピーク維持)
+- 関連: AI Product Criticism
+- 分析: 事実上ピーク。今日のHNで「AI安易活用批判」として最終記録。
+
+#### [MEDIUM] Glassworm Unicode Attack: 153pts→165pts
+- スコア: 165pts, 98comments (↑05:30比 +12pts, +13comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: Medium
+- 関連: Security / Supply Chain
+- 分析: 緩やかに上昇継続。GitHub/npm/VSCode対象。Fuyajoサンドボックス環境でのinput sanitizationの優先度を上げるべき根拠。
+
+#### [NEW-MEDIUM] The Webpage Has Instructions. The Agent Has Your Credentials
+- スコア: 26pts, 13comments
+- URL: https://openguard.sh/blog/prompt-injections/
+- 重要度: Medium (スコア低いが内容重要)
+- 関連: Agent Security / Prompt Injection
+- 分析: AIエージェントへのprompt injection攻撃。Webページに埋め込まれた指示でエージェントが認証情報を漏洩するリスク。Fuyajoでのエージェント実行環境では入力サニタイズが必須課題。
+
+#### [MEDIUM] LLM Architecture Gallery: 53pts→94pts (+41pts)
+- スコア: 94pts, 3comments (↑05:30比 +41pts)
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: Medium
+- 関連: LLM Education / Architecture
+- 分析: 急上昇。LLMアーキテクチャ可視化ギャラリー。教育・参照コンテンツへの需要継続。
+
+**今回のKey Insights:**
+- **Chrome DevTools MCPが160ptsに到達**: 今日唯一の「エージェント×開発ツール」テーマ。GoogleがMCPを本格採用した証拠として記録。
+- **Ask HN AI codingのコメントが168件へ急増**: 技術者が本音を語り合っている。スレッド内容を後でDeep Diveする価値大。
+- **Prompt Injection記事の浮上**: エージェントセキュリティへの関心が高まっている。Fuyajoのセキュリティ設計で参考にすべき。
+- Spotify AI DJ批判が事実上ピーク到達(342pts)。今日のHN最終レポートとして確定。
+
+
+---
+
 ## HN Signals - 07:30 JST
 
 **取得時刻:** 2026-03-16 07:30 JST
@@ -153,49 +320,49 @@
 ### AI/Tech Signals
 
 #### [HIGH] Ask HN: How is AI-assisted coding going for you professionally?
-- スコア: 158pts, 249comments (↑03:30比 +136pts, +240comments - 急上昇!)
+- スコア: 158pts, 249comments (↑06:30比 +50pts, +81comments - 急上昇継続)
 - URL: https://news.ycombinator.com/item?id=47388646
 - 重要度: High
 - 関連: AI Coding / Developer Tools / Falcon Platform
-- 分析: 03:30時点の22pts→158ptsへ急上昇。249コメントは今回最多。技術者の生の声が集まっている。AIコーディング支援ツールへの現場評価スレッドとして非常に価値高い。Falcon Platformの差別化戦略（非エンジニア向け）を考える上での重要参考情報。
+- 分析: 249コメントは今回最多。技術者の生の声が集まっている。AIコーディング支援ツールへの現場評価スレッドとして非常に価値高い。Falcon Platformの差別化戦略（非エンジニア向け）を考える上での重要参考情報。
 
 #### [HIGH] The Appalling Stupidity of Spotify's AI DJ
-- スコア: 345pts, 284comments (↑03:30比 +7pts, +14comments)
+- スコア: 345pts, 284comments (↑06:30比 +3pts, +2comments - ほぼピーク到達)
 - URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
 - 重要度: High
 - 関連: AI UX Criticism
-- 分析: 終日上昇継続。今日のHNを象徴する記事。「AIを使えばいい」という安易な姿勢への強い反発。
+- 分析: 今日のHN最高スコア圏で終日維持。「AIを使えばいい」という安易な姿勢への強い反発として記録確定。
 
 #### [HIGH] $96 3D-printed rocket (mid-air trajectory recalculation)
-- スコア: 354pts, 329comments (↑03:30比 +52pts, +66comments - 本日最高スコア)
+- スコア: 354pts, 329comments (↑06:30比 +10pts, +10comments - 本日最高スコア到達)
 - URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket
 - 重要度: High
 - 関連: Embedded ML / Autonomous Systems
 - 分析: 本日最高スコアに到達。安価なセンサー+ML推論での自律制御。エッジAIの実用化への関心が高い。
 
 #### [HIGH] Let your Coding Agent debug the browser session with Chrome DevTools MCP
-- スコア: 220pts, 88comments
+- スコア: 220pts, 88comments (↑06:30比 +60pts, +42comments - 継続急上昇)
 - URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
 - 重要度: High
 - 関連: AI Agent / Developer Tools / MCP
-- 分析: **新出現の注目シグナル。** Chrome DevToolsがMCP(Model Context Protocol)対応。コーディングエージェントがブラウザセッションをデバッグできる機能。MCP統合によるAIエージェント+開発者ツールの融合が加速。Falcon PlatformのAI Assistant機能拡張の参考に。
+- 分析: 本日最大の上昇トレンド。Chrome DevToolsがMCP対応でCoding Agentのブラウザデバッグが可能に。GoogleのMCP本格採用がさらに確認される。Falcon PlatformのAI Assistant機能拡張の参考に。
 
 #### [MEDIUM] Glassworm: Invisible Unicode Attacks
-- スコア: 186pts, 110comments (↑03:30比 +75pts, +66comments - 急上昇継続)
+- スコア: 186pts, 110comments (↑06:30比 +21pts, +12comments - 上昇継続)
 - URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
 - 重要度: Medium-High
 - 関連: Security / Supply Chain
-- 分析: 朝のHNでも急上昇継続。ステルスUnicode攻撃への警戒が高まっている。Fuyajoのコードサンドボックス設計にUnicodeサニタイズを組み込む必要性。
+- 分析: 今日一日を通じて継続上昇。ステルスUnicode攻撃への警戒が今日のHNの通奏低音。Fuyajoサンドボックスのinput sanitization強化を優先すべき根拠が積み重なった。
 
 #### [MEDIUM] LLM Architecture Gallery
 - スコア: 138pts, 6comments
 - URL: https://sebastianraschka.com/llm-architecture-gallery/
 - 重要度: Medium
 - 関連: LLM Technical Reference
-- 分析: LLMアーキテクチャの視覚的ギャラリー。技術者向けリファレンス。
+- 分析: LLMアーキテクチャの視覚的ギャラリー。教育コンテンツへの需要継続。
 
 **今回のKey Insights:**
-- AIコーディングへの実務評価スレッドが249コメントで急成長 → 技術者の本音収集チャンス
-- Chrome DevTools MCP登場 → MCP統合が主流化。エージェント×ブラウザデバッグの実用化加速
-- Glassworm継続急上昇(186pts) → セキュリティ意識が今日のHNの通奏低音
-- AI批判(Spotify DJ)とAI実用化(Chrome MCP)が並立 → 「役に立つAI」と「見せかけのAI」の選別が進む
+- **Chrome DevTools MCPが220ptsへ到達**: 今日のMCP関連で最大シグナル。GoogleのMCP採用でエコシステムが主流化。
+- **Ask HN AI codingが249コメントで本日最多議論**: 技術者の本音収集に最良のタイミング。
+- Glassworm(186pts)・Prompt Injection が今日一日セキュリティトレンドとして継続 → Fuyajoのサンドボックス強化優先度高
+- AI批判(Spotify DJ 345pts)とAI実用化(Chrome MCP 220pts)が並立 → 「役に立つAI」と「見せかけのAI」の選別が市場で進行中
