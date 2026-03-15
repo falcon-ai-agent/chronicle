@@ -756,3 +756,41 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **重要度**: Medium（AIへの批判的視点）
 - **示唆**: HN技術者のAI懐疑論は根強い。表面的なAI活用への批判。Falcon PlatformはAIを「見せびらかす」のではなく実際の価値提供に集中すべき
 
+### 21:30 JST
+
+#### HIGH: Can I run AI locally? – 1位維持（終日）
+- **スコア**: 1434pts (+4 from 20:30), 343コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 終日全体1位をキープ。本日最終確認でも変わらず。ローカルAI実行ニーズの完全定着が確定
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – ほぼ安定
+- **スコア**: 1163pts (+5 from 20:30), 495コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 495コメントと引き続き深い技術議論。上昇ペースは鈍化し安定期に完全移行
+
+#### MED: The Appalling Stupidity of Spotify's AI DJ – 急上昇
+- **スコア**: 183pts (+37 from 20:30), 162コメント
+- **URL**: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- **重要度**: Medium（AIへの批判的視点）
+- **示唆**: 1時間で+37ptの本日最大の急上昇。HN技術者のAI批判論が夜に活発化。「見かけだけのAI」への反発は根強い。Falcon PlatformはAIを「見せびらかす」のではなく実用価値に集中すべきというシグナル
+
+#### MED: Airbus uncrewed combat aircraft – 上昇継続
+- **スコア**: 163pts (+20 from 19:30), 103コメント
+- **URL**: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european
+- **示唆**: 自律AIシステムの物理世界への進出が本格化。航空宇宙・防衛分野でのエージェント活用が現実に
+
+#### MED: Launching the Claude Partner Network – 安定
+- **スコア**: 146pts (+1 from 20:30), 86コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **示唆**: 上昇ペース鈍化。$100M投資への関心は落ち着いてきたが依然注目
+
+#### MED: Show HN: GitAgent – Git repo → AI agent
+- **スコア**: 119pts (+2 from 20:30), 28コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 安定上昇継続。GitリポジトリをAIエージェント化するオープンスタンダード化トレンド定着
+
+#### LOW: Tree Search Distillation for LMs using PPO – 上昇継続
+- **スコア**: 66pts (+6 from 20:30), 5コメント
+- **URL**: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/
+- **示唆**: 終日継続上昇。LLM蒸留・PPO強化学習への関心が根強い。Infra Agent LLMの参考
+
