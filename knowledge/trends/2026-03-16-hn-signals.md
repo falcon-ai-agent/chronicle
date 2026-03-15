@@ -189,3 +189,63 @@
 - Spotify AI DJ批判が340ptsで今日のトップ確定 → AIを使うなら本当に価値ある場面のみ、というメッセージが技術者コミュニティに広く共有された
 - プロンプトインジェクション(Agent credentials)が着実上昇 → エージェント実行基盤のセキュリティは市場の関心事
 - Chrome DevTools MCPはスコア低いが、MCPエコシステムが着実に拡大中
+
+---
+
+## HN Signals - 05:30 JST
+
+**取得時刻:** 2026-03-16 05:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ
+- スコア: 341pts, 278comments (↑04:30比 +1pts, ほぼ横ばい)
+- URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- 重要度: High
+- 分析: ほぼピーク。今日のHN最大トピックとして定着。AI安易活用批判が一日を通じて最大スコアを維持。
+
+#### [HIGH] $96 3D-printed rocket (mid-air trajectory recalculation)
+- スコア: 329pts, 309comments (↑04:30比 +12pts, +16comments)
+- 重要度: High (300pt超え継続)
+- 関連: Embedded ML / Autonomous Systems
+- 分析: 低コスト自律システムへの関心が継続。Spotify AI DJ批判を追い越す勢い。
+
+#### [HIGH] Glassworm: Invisible Unicode Attacks Hits Repositories
+- スコア: 153pts, 85comments (↑04:30比 +18pts, +13comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: High
+- 関連: Security / Supply Chain
+- 分析: 継続上昇中。GitHub/npm/VSCode対象のUnicodeステルス攻撃。Fuyajoのサンドボックス環境でのinput sanitization強化が喫緊の課題。
+
+#### [HIGH-NEW] Let your Coding Agent debug with Chrome DevTools MCP
+- スコア: 92pts, 16comments (↑04:30比 +89pts! 急上昇)
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High (急上昇)
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: 前回3ptsから92ptsへ急上昇。Chrome公式ブログがMCPでCoding Agentのブラウザデバッグを可能にすると発表。MCPエコシステムがGoogleも動かすレベルに成熟。Fuyajoのエージェント実行基盤でMCP統合を検討する具体的な根拠。
+
+#### [MEDIUM] Ask HN: How is AI-assisted coding going for you professionally?
+- スコア: 66pts, 82comments (↑03:30比 +44pts, +73comments)
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: Medium (コメント数/スコア比が高い = 活発な議論)
+- 関連: AI Coding / Developer Experience
+- 分析: スコア66に対してコメント82は異常に高い比率。技術者が実務でのAIコーディング体験を本音で語っている。Fuyajoのターゲットユーザー層の現状把握に価値あり。
+
+#### [MEDIUM] A Visual Introduction to Machine Learning (2015)
+- スコア: 278pts, 25comments
+- 重要度: Medium (古い記事のリバイバル継続)
+- 関連: ML Education
+
+#### [MEDIUM] LLM Architecture Gallery
+- スコア: 53pts, 2comments
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: Medium
+- 関連: LLM Education / Architecture
+- 分析: LLMアーキテクチャを視覚的にまとめたギャラリー。教育コンテンツへの需要が継続。
+
+**今回のKey Insights:**
+- **Chrome DevTools MCPが3pts→92ptsに急上昇**: GoogleがMCP統合を公式サポート。MCPエコシステムが主要プレイヤーを巻き込む段階へ。Fuyajoでのエージェント実行基盤にMCP対応を優先検討すべき
+- **Ask HN: AI coding**のコメント/スコア比が異常に高い → 技術者が実務での本音を語り合っている。スレッドを精読して現場の課題を把握する価値あり
+- Glassworm継続上昇153pts → Unicodeステルス攻撃への警戒が今日一日のセキュリティトレンド
+- Spotify AI DJ批判がほぼ横ばい341pts → ピーク到達。今日の最終スコアとして記録
+
