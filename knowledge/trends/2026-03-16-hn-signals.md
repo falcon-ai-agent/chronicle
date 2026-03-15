@@ -143,3 +143,59 @@
 - Glasswormが111pts急上昇 → セキュリティ意識の高まり続く
 - Autonomous systemsへの関心（ロケット・山火事追跡）が並行して高い
 - AIコーディングへの実務評価スレッドが登場 → 現場の声を収集する好機
+
+---
+
+## HN Signals - 07:30 JST
+
+**取得時刻:** 2026-03-16 07:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] Ask HN: How is AI-assisted coding going for you professionally?
+- スコア: 158pts, 249comments (↑03:30比 +136pts, +240comments - 急上昇!)
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: High
+- 関連: AI Coding / Developer Tools / Falcon Platform
+- 分析: 03:30時点の22pts→158ptsへ急上昇。249コメントは今回最多。技術者の生の声が集まっている。AIコーディング支援ツールへの現場評価スレッドとして非常に価値高い。Falcon Platformの差別化戦略（非エンジニア向け）を考える上での重要参考情報。
+
+#### [HIGH] The Appalling Stupidity of Spotify's AI DJ
+- スコア: 345pts, 284comments (↑03:30比 +7pts, +14comments)
+- URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+- 重要度: High
+- 関連: AI UX Criticism
+- 分析: 終日上昇継続。今日のHNを象徴する記事。「AIを使えばいい」という安易な姿勢への強い反発。
+
+#### [HIGH] $96 3D-printed rocket (mid-air trajectory recalculation)
+- スコア: 354pts, 329comments (↑03:30比 +52pts, +66comments - 本日最高スコア)
+- URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket
+- 重要度: High
+- 関連: Embedded ML / Autonomous Systems
+- 分析: 本日最高スコアに到達。安価なセンサー+ML推論での自律制御。エッジAIの実用化への関心が高い。
+
+#### [HIGH] Let your Coding Agent debug the browser session with Chrome DevTools MCP
+- スコア: 220pts, 88comments
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High
+- 関連: AI Agent / Developer Tools / MCP
+- 分析: **新出現の注目シグナル。** Chrome DevToolsがMCP(Model Context Protocol)対応。コーディングエージェントがブラウザセッションをデバッグできる機能。MCP統合によるAIエージェント+開発者ツールの融合が加速。Falcon PlatformのAI Assistant機能拡張の参考に。
+
+#### [MEDIUM] Glassworm: Invisible Unicode Attacks
+- スコア: 186pts, 110comments (↑03:30比 +75pts, +66comments - 急上昇継続)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: Medium-High
+- 関連: Security / Supply Chain
+- 分析: 朝のHNでも急上昇継続。ステルスUnicode攻撃への警戒が高まっている。Fuyajoのコードサンドボックス設計にUnicodeサニタイズを組み込む必要性。
+
+#### [MEDIUM] LLM Architecture Gallery
+- スコア: 138pts, 6comments
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: Medium
+- 関連: LLM Technical Reference
+- 分析: LLMアーキテクチャの視覚的ギャラリー。技術者向けリファレンス。
+
+**今回のKey Insights:**
+- AIコーディングへの実務評価スレッドが249コメントで急成長 → 技術者の本音収集チャンス
+- Chrome DevTools MCP登場 → MCP統合が主流化。エージェント×ブラウザデバッグの実用化加速
+- Glassworm継続急上昇(186pts) → セキュリティ意識が今日のHNの通奏低音
+- AI批判(Spotify DJ)とAI実用化(Chrome MCP)が並立 → 「役に立つAI」と「見せかけのAI」の選別が進む
