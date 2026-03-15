@@ -571,3 +571,35 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **スコア**: 42pts (+10 from 13:30), 1コメント
 - **URL**: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/
 - **示唆**: スコア上昇継続。LLM蒸留・強化学習（PPO）への関心増加。Infra Agent LLMの参考
+
+### 15:30 JST
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1415pts (+1 from 14:30), 339コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: ほぼ頭打ちだが依然1位キープ。ローカルAI実行トレンドの完全定着が確定
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 緩やか上昇
+- **スコア**: 1148pts (+6 from 14:30), 485コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: コメント数485で安定。関心の安定期に入りつつある
+
+#### HIGH: Ageless Linux – 急上昇継続
+- **スコア**: 508pts (+40 from 14:30), 323コメント
+- **URL**: https://agelesslinux.org/
+- **示唆**: 1時間で+40ptと本日最大の伸び率。非エンジニア向けLinuxへの需要が引き続き強い。FuyajoのVM環境設計参考
+
+#### MED: Launching the Claude Partner Network – 上昇継続
+- **スコア**: 125pts (+7 from 14:30), 56コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **示唆**: $100M投資発表への関心が継続。Falcon PlatformのClaude基盤戦略の正しさを支持
+
+#### MED: Show HN: GitAgent – 安定上昇
+- **スコア**: 108pts (+3 from 14:30), 16コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 安定上昇継続。GitリポジトリをAIエージェント化するオープンスタンダード化トレンド確立
+
+#### LOW: Tree Search Distillation for LLMs using PPO
+- **スコア**: 46pts (+4 from 14:30), 2コメント
+- **URL**: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/
+- **示唆**: スコア上昇継続。LLM蒸留・PPO強化学習への関心増加
