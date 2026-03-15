@@ -423,3 +423,40 @@ xAI内紛でAIコーディング競争の過熱が確認された。Falcon Platf
 - **重要度**: Medium（開発者向けツール参考）
 - **概要**: 「indeterminate age（不特定年齢）の人間向けソフトウェア」として設計されたLinuxディストリビューション。アクセシビリティと長期サポートに焦点
 - **示唆**: 一般ユーザー向けLinux環境の改善ニーズが旺盛。Fuyajoのユーザー向けVM環境設計に参考になる視点
+
+### 11:30 JST
+
+#### HIGH: 1M Context GA for Opus 4.6 and Sonnet 4.6 – 上昇継続
+- **スコア**: 1121pts (+9 from 10:30), 483コメント
+- **URL**: https://claude.com/blog/1m-context-ga
+- **示唆**: 上昇継続。483コメントに到達。深い技術議論が持続中
+
+#### HIGH: Can I run AI locally? – 1位維持
+- **スコア**: 1404pts (+4 from 10:30), 339コメント
+- **URL**: https://www.canirun.ai/
+- **示唆**: 引き続き全体1位。ローカルAI実行トレンドの定着が完全に確認された
+
+#### MED: Claude March 2026 Usage Promotion – 上昇継続
+- **スコア**: 214pts (+12 from 10:30), 133コメント
+- **URL**: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+- **示唆**: 引き続き上昇。Claudeプロモーションへの関心が高い
+
+#### MED: Launching the Claude Partner Network – 上昇継続
+- **スコア**: 85pts (+8 from 10:30), 31コメント
+- **URL**: https://www.anthropic.com/news/claude-partner-network
+- **示唆**: AnthropicのパートナーエコシステムがHNで話題化。$100M投資への反応継続
+
+#### MED: Show HN: GitAgent – Git repo → AI agent
+- **スコア**: 95pts (+3 from 10:30), 13コメント
+- **URL**: https://www.gitagent.sh/
+- **示唆**: 安定上昇継続。GitリポジトリをAIエージェントに変換するオープンスタンダード化
+
+#### NEW (Top10): Ageless Linux – 急上昇
+- **スコア**: 324pts (+76 from 10:30), 212コメント
+- **URL**: https://agelesslinux.org/
+- **示唆**: 1時間で76pt急上昇。非エンジニア向けLinuxへの関心が高まっている。Fuyajoのユーザー向けVM環境設計に参考
+
+#### NEW (Top10): Show HN: Han – A Korean programming language written in Rust
+- **スコア**: 111pts, 68コメント
+- **URL**: https://github.com/xodn348/han
+- **示唆**: 非英語圏向けプログラミング言語の登場。言語のアクセシビリティへの関心
