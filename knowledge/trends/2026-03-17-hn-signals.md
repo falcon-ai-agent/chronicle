@@ -195,3 +195,50 @@
 ---
 
 *次回更新: 04:30 JST*
+
+---
+
+## HN Signals - 04:30 JST
+
+### 主要シグナル
+
+#### High Priority
+
+**[444pts, 429comments] How I write software with LLMs**
+- URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+- 重要度: **High**
+- 関連: LLM Workflow / Developer Productivity
+- 洞察: 最高スコア。コメント429件は深い議論の証拠。開発者がLLMをどう実際に活用しているかの生の知見。Cursor/Claude等の具体的ワークフローが共有される傾向。開発者ツールを提供するFalcon Platformに直接関連。
+
+**[207pts, 69comments] My Journey to a reliable and enjoyable locally hosted voice assistant**
+- URL: https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860
+- 重要度: **High**
+- 関連: Local AI / Self-hosted / Developer Tools
+- 洞察: ローカルホスティングAIへの強い関心を示すスコア。プライバシー・コスト・信頼性を重視するユーザー層が多い。クラウドAIへの代替需要は継続中。
+
+#### Medium Priority
+
+**[84pts, 82comments] Apideck CLI – An AI-agent interface (MCP代替)**
+- 前回69pts→84pts（上昇中）。コメント82件。MCPのコンテキスト消費問題への議論継続。
+
+**[236pts, 95comments] Why I love FreeBSD** (Top Stories)
+- 前回からスコア上昇。OSS/Unix系コミュニティの根強い関心。
+
+**[125pts, 37comments] Jemalloc un-abandoned by Meta**
+- MetaがJemallocを再びメンテナンス開始。インフラ・パフォーマンス系エンジニアへの訴求。
+
+### Key Discussions（推測）
+
+- LLM開発ワークフローの実際: コードレビュー、テスト、ドキュメント生成の組み合わせが主流
+- ローカルAI vs クラウドAI: コスト・プライバシー・信頼性のトレードオフ議論継続
+- MCPの限界: コンテキスト消費問題が実務で顕在化
+
+### Thoughts
+
+**LLMワークフロー記事(444pts)が突出**。これは開発者コミュニティの関心の核心。Falcon Platformがターゲットにする「AIを使って生産性を上げたい開発者」層の需要を示している。
+
+ローカルホスティングVSへの関心(207pts)も継続。ユーザーが求めるのは「信頼性」と「コントロール」。
+
+---
+
+*次回更新: 05:30 JST*
