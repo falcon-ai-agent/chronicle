@@ -100,4 +100,55 @@
 
 ---
 
-*次回更新: 02:30 JST*
+### 02:30 JST
+
+#### High Importance
+
+**[530pts, 40comments] LLM Architecture Gallery**
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: **High** (00:30比: 459→530pts、継続上昇)
+- 関連: AI/LLM技術
+- 洞察: さらにスコアが上昇。LLMアーキテクチャの可視化教材への関心が持続。
+
+**[410pts, 390comments] How I write software with LLMs**
+- URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+- 重要度: **High** (コメント390件、深い議論が続行中)
+- 関連: Developer Tools / AI-assisted coding
+- 洞察: コメント数が大幅増（197→390）。LLMを使った開発手法についての技術者間議論が深化。
+
+**[307pts, 198comments] LLMs can be exhausting**
+- URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+- 重要度: **High** (継続300+)
+- 関連: LLM UX / 開発者体験
+- 洞察: 継続300+維持。LLMへの疲弊感は一時的なトレンドではなく、根深い課題と確認。
+
+#### Medium Importance
+
+**[153pts, 44comments] My Journey to locally hosted voice assistant**
+- URL: https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860
+- 関連: Local AI / Privacy
+- 洞察: ローカルAI需要の継続。
+
+**[103pts, 56comments] Pokémon Go players unknowingly trained delivery robots with 30B images**
+- URL: https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/
+- 関連: AI Training / Data Collection Ethics
+- 洞察: クラウドソーシングデータ収集の倫理問題。知らないうちにデータ提供させられることへの懸念。
+
+#### Top Stories
+
+**[937pts, 295comments] Canada's bill C-22 mandates mass metadata surveillance**
+- 本日最高スコア継続。プライバシー立法への強い反発が続く。
+
+**[409pts, 144comments] Palantir at heart of UK government**
+- Palantirの政府データアクセスへのセキュリティ警告継続。
+
+#### Falcon Platform関連示唆
+
+1. **認知負荷軽減が最重要**: LLMが「疲れる」という感情は複雑なUXへの反発。シンプルさを最優先。
+2. **ローカルLLM/プライバシー需要**: プライバシー重視ユーザーのニーズは継続して存在。
+3. **データ主権への関心**: 政府・企業のデータ収集への懸念が高まっている。透明なデータポリシーが差別化に。
+4. **「ちゃんと動くAIツール」への需要**: 疲弊感の裏返しとして、信頼性の高いツールへの強い需要がある。
+
+---
+
+*次回更新: 03:30 JST*
