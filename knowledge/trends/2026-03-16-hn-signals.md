@@ -430,3 +430,72 @@
 - **Glasswormが196ptsで本日セキュリティトップ**: Unicode stealth攻撃が今日一日のセキュリティトレンド。Fuyajoでの対策を具体的に実装すべき。
 - **The 49MB web page(213pts)新登場**: Web bloatへの批判。軽量UI設計の重要性を再確認。
 - Spotify AI DJ批判(345pts)と実用AI(Chrome MCP 252pts)の対比が今日のHNの本質 → 「実用的なAI統合」のみが支持される時代。
+
+---
+
+## HN Signals - 09:30 JST
+
+**取得時刻:** 2026-03-16 09:30 JST
+
+### AI/Tech Signals
+
+#### [HIGH] $96 3D-printed rocket - ピーク到達
+- スコア: 375pts, 340comments (↑08:30比 +2pts, +7comments - ほぼ横ばい、ピーク確定)
+- URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket
+- 重要度: High
+- 分析: 本日の最終最高スコアとして確定。低コスト自律制御がHN今日のトップ。
+
+#### [HIGH] Chrome DevTools MCP - 継続上昇
+- スコア: 287pts, 131comments (↑08:30比 +35pts, +15comments)
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High
+- 関連: MCP / Coding Agent / Developer Tools
+- 分析: 引き続き上昇中。HNトップ2位に到達。Google公式MCPサポートが今日最大のAI×開発ツールシグナルとして確定へ。
+
+#### [HIGH] Ask HN: How is AI-assisted coding going for you professionally? - コメント急増継続
+- スコア: 218pts, 365comments (↑08:30比 +22pts, +43comments)
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: High
+- 関連: AI Coding / Developer Experience / Falcon Platform
+- 分析: コメントが322→365へさらに増加。コメント/スコア比(1.67倍)が引き続き異常に高い。技術者の本音議論が最も活発なスレッド。Fuyajoの非エンジニア向け差別化戦略の裏付けとなる現場の不満・限界を収集するための最重要スレッド。
+
+#### [HIGH] Glassworm: Invisible Unicode Attacks - 上昇継続
+- スコア: 211pts, 126comments (↑08:30比 +15pts, +11comments)
+- URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+- 重要度: High
+- 関連: Security / Supply Chain
+- 分析: 今日一日通じて安定上昇。GitHub/npm/VSCodeを標的とするUnicodeステルス攻撃が今日のHNセキュリティトップとして確定。
+
+#### [HIGH] The 49MB web page - 上昇継続
+- スコア: 250pts, 144comments (↑08:30比 +37pts, +14comments)
+- URL: https://thatshubham.com/blog/news-audit
+- 重要度: High
+- 関連: Web Performance / Frontend
+- 分析: 急上昇継続。ニュースサイトのbloat批判。Fuyajoのフロントエンド軽量化の重要性を再確認。
+
+#### [MEDIUM] LLM Architecture Gallery - 上昇継続
+- スコア: 203pts, 14comments (↑08:30比 +32pts, +5comments)
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: Medium
+- 関連: LLM Technical Reference
+- 分析: 200pts超え到達。LLMアーキテクチャ可視化への需要が根強い。
+
+#### [NEW-MEDIUM] LLMs can be exhausting
+- スコア: 41pts, 25comments (新規)
+- URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+- 重要度: Medium
+- 関連: AI UX / Developer Experience / AI Criticism
+- 分析: 新登場。LLMを使い続けることの疲労感・認知負荷を扱った記事。Spotify DJ批判(345pts)と同系統のAI疲れ・批判論調。技術者の「AIを使わされている感」への共感が集まっている可能性。Fuyajoは「使う必要がある時にだけAIを使う」設計が重要。
+
+#### [NEW-SECURITY] Show HN: Open-source playground to red-team AI agents with exploits
+- スコア: 13pts, 1comment (新規)
+- URL: https://github.com/fabraix/playground
+- 重要度: Medium (セキュリティ/Fuyajo関連)
+- 関連: AI Agent Security / Red-teaming
+- 分析: AIエージェントに対するエクスプロイトを試験するオープンソースplayground。公開されたエクスプロイト手法を使ったred-teaming環境。Fuyajoのエージェント実行基盤のセキュリティテストに参考になる可能性。
+
+**今回のKey Insights (09:30 JST):**
+- **Ask HN AI coding: 365コメントで今日最多議論確定**: 技術者の「AIコーディング疲れ」「限界感」「本音」が集約されたスレッドとして今日一日の最重要シグナル
+- **「LLMs can be exhausting」登場**: Spotify AI DJ批判(345pts)に続くAI疲れ系シグナル。HNコミュニティはAIに対して批判的・疲労感を持つ層が一定数いる
+- **Chrome DevTools MCPが287ptsに到達**: 今日のMCP最大シグナル更新中。エコシステム主流化の証拠が積み重なった
+- **AI Agent red-team playgroundが公開**: エージェントセキュリティのエクスプロイト手法が公開化されている。Fuyajoのサンドボックス設計で参照すべき
