@@ -151,4 +151,47 @@
 
 ---
 
-*次回更新: 03:30 JST*
+### 03:30 JST
+
+#### High Priority
+
+**[434pts, 414comments] How I write software with LLMs**
+- URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+- 重要度: **High** (00:30→01:30→02:30→03:30: 299→391→410→434pts、継続上昇)
+- 関連: Developer Tools / AI-assisted coding
+- 洞察: 本日最も持続的に伸びているAI記事。実践的なLLM開発ワークフローへの需要が強い。414コメントも増加中。
+
+**[309pts, 198comments] LLMs can be exhausting**
+- URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+- 重要度: **High** (307→309pts、横ばい傾向)
+- 関連: LLM UX / 開発者体験
+- 洞察: 上昇ペースが鈍化。ピークに近い可能性。LLMの疲弊感への共感は広く確認済み。
+
+#### Medium Priority
+
+**[69pts, 74comments] Apideck CLI – An AI-agent interface with much lower context consumption than MCP**
+- URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative
+- 重要度: **Medium**
+- 関連: AI Agent / MCP代替 / Context Efficiency
+- 洞察: MCPのコンテキスト消費問題を解決するCLIアプローチ。エージェントのコンテキスト効率化は重要課題。Falcon Platformのエージェント設計に参考になる視点。コメント数(74)がスコア(69)より多いのは活発な議論の証拠。
+
+**[35pts, 14comments] Speed at the cost of quality: Study of use of Cursor AI in open source projects**
+- URL: https://arxiv.org/abs/2511.04427
+- 重要度: **Medium**
+- 関連: AI Coding Quality / Developer Tools
+- 洞察: Cursor AIの品質vs速度トレードオフを学術的に検証。「速いが品質が落ちる」という批判的視点。AIコーディングツールの限界を示す研究。
+
+**[127pts, 71comments] Pokémon Go players unknowingly trained delivery robots with 30B images**
+- URL: https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/
+- 重要度: **Low-Medium**
+- 関連: Data Crowdsourcing / AI Training
+- 洞察: ゲームユーザーが知らずにAI訓練データを提供していた事例。データ収集の倫理・透明性への問題提起。
+
+#### Top Stories 追加観察
+
+- **[552pts, 263comments] Corruption erodes social trust more in democracies** - 政治・社会系で最高スコア。技術外だが社会的関心の高さを示す。
+- **[211pts, 75comments] I Love FreeBSD** - OSS/システム系で注目。Linuxへの反動か。
+
+---
+
+*次回更新: 04:30 JST*
