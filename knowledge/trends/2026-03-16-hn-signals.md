@@ -1186,3 +1186,75 @@
 - **AI coding本音スレッドが516コメントで一日を締め**: HNの技術者が一日かけて語り合った最大規模のAI議論。「プロとしてAI補助コーディングをどう評価するか」への答えがここに集積している
 - **LLM Architecture Galleryが446pts**: ビジュアル学習リソースへの高需要。技術者はLLMの内部構造を理解したいという欲求が強い
 - **21:30総括**: How I write(276)→AI疲れ(249)→エージェント工学(141)のAI関連3トップが夜間も共存。「使いこなす」「疲れる」「設計する」という3つの視点が技術者コミュニティを席巻した一日
+
+---
+
+## HN Signals 22:30 JST
+
+### スコア更新
+
+#### [HIGH] Ask HN: How is AI-assisted coding going for you professionally? - 328pts, 522comments (↑21:30比 +12pts, +6comments)
+- スコア: 328pts, 522comments
+- URL: https://news.ycombinator.com/item?id=47388646
+- 重要度: High
+- 関連: AI Coding / Developer Experience / Falcon Platform
+- 分析: 522コメントで本日最大の議論スレッドを維持。深夜に入っても継続上昇。プロとしてのAI補助コーディング体験談が蓄積し続けている。
+
+#### [HIGH] How I write software with LLMs - 299pts, 243comments (↑21:30比 +23pts)
+- スコア: 299pts, 243comments
+- URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+- 重要度: High
+- 関連: LLM Workflow / Developer Tools
+- 分析: 本日最大の急伸を継続。300pts目前。「LLMをどう使うか」の実践ノウハウへの需要が夜間も衰えない。
+
+#### [HIGH] LLM Architecture Gallery - 459pts, 34comments (↑21:30比 +13pts)
+- スコア: 459pts, 34comments
+- URL: https://sebastianraschka.com/llm-architecture-gallery/
+- 重要度: High
+- 関連: LLM Education / Architecture
+- 分析: 本日の最高スコア。コメントは少ないがブックマーク・拡散型コンテンツとして機能。ビジュアルリソースの需要は変わらず高い。
+
+#### [MEDIUM] LLMs can be exhausting - 256pts, 171comments (↑21:30比 +7pts)
+- スコア: 256pts, 171comments
+- URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+- 重要度: Medium
+- 関連: AI Fatigue / Developer Experience
+- 分析: 上昇ペース鈍化。深夜に入り落ち着きつつある。
+
+#### [MEDIUM] A Visual Introduction to Machine Learning (2015) - 374pts, 31comments (新規エントリー)
+- スコア: 374pts, 31comments
+- URL: https://r2d3.us/visual-intro-to-machine-learning-part-1/
+- 重要度: Medium
+- 関連: ML Education / Visualization
+- 分析: 2015年の古典コンテンツが高スコアで再浮上。教育リソースへの需要は時代を超える。
+
+### トップストーリー新規発見
+
+#### [HIGH] Canada's bill C-22 mandates mass metadata surveillance - 814pts, 240comments
+- スコア: 814pts, 240comments
+- URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-remains/
+- 重要度: High
+- 関連: Privacy / Surveillance / Tech Policy
+- 分析: 本日のHN総合1位。カナダの大規模メタデータ監視法案。バックドアサーベイランスリスクが残存。プライバシー重視の技術者コミュニティに大きな反響。FuyajoのデータプライバシーポリシーへのI示唆。
+
+#### [HIGH] The 49MB web page - 647pts, 290comments
+- スコア: 647pts, 290comments
+- URL: https://thatshubham.com/blog/news-audit
+- 重要度: High
+- 関連: Web Performance / DX
+- 分析: ニュースサイトの肥大化を検証。649ptsで総合2位。開発者の「Webの劣化」への不満が集約。
+
+#### [HIGH] Chrome DevTools MCP - 522pts, 209comments
+- スコア: 522pts, 209comments
+- URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- 重要度: High
+- 関連: MCP / Developer Tools / Chrome
+- 分析: Chrome DevToolsにMCPが統合。521pts。FuyajoのMCP活用戦略を強く支持するシグナル。
+
+### 今回のKey Insights (22:30 JST)
+
+- **LLM Architecture Galleryが459ptsで本日の最終トップ**: ビジュアル＋教育コンテンツの圧倒的な需要。難しい概念を視覚化したコンテンツへの技術者コミュニティの飢え
+- **AI coding本音スレッドが522コメントに到達**: 一日を通して500+コメントの大議論。プロとしての実体験・本音・懸念が集積した歴史的なスレッドに
+- **プライバシー監視法案が814ptsで圧倒的トップ**: AI技術の急進とは対照的に、プライバシー・監視問題への反発が技術者の最大関心事に。Fuyajoのデータポリシー設計に参考
+- **「疲れながらも使いこなす」が2026-03-16の本質**: AI疲れ(256pts)とHowToLLM(299pts)が並走。批判しつつ実践を模索する技術者の姿が鮮明
+- **22:30総括**: 本日のHN総括完了。LLMアーキテクチャ(459)→49MB page(647)→Chrome MCP(522)→カナダ監視法(814)が上位を占め、AI技術とプライバシーの緊張関係が一日のテーマとなった
