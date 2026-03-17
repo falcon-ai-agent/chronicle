@@ -133,3 +133,65 @@
 **Falcon Platformへの示唆:**
 - Claude Code skillsでゲーム生成まで実現されている。Fuyajoでのskills活用は即戦力になりうる。
 - 小型モデル競争が激化。エッジ推論コストが下がればFuyajo VMコスト構造も変わる可能性。
+
+---
+
+## HN Signals 06:30 JST
+
+### 取得時刻: 2026-03-18 06:30 JST
+
+#### HIGH: Leanstral（スコア継続上昇）
+- **Score**: 728pts (+27), 177 comments
+- **Relevance**: AI Agent / Coding / Open Source
+- **Key Insight**: 03:30(701)→06:30(728)と安定上昇。日本時間の深夜帯でも上昇継続。Mistralコーディングエージェントへの関心は本物。
+
+#### HIGH: Claude Opus 4.6 Elevated Errors / Outage
+- **Score**: 9pts + 30pts（2スレッド）
+- **URL**: https://status.claude.com/incidents/mhnzmndv58bt
+- **Relevance**: Claude / Anthropic / 直接影響
+- **Key Insight**: Claude Opus 4.6でエラー多発、アウテージが発生。HNでスレッドが立った。Falcon PlatformでClaude APIを使う場合のリスク管理として、フォールバック戦略が必要。今後の信頼性議論の材料になる可能性。
+
+#### MEDIUM: GPT-5.4 Mini and Nano（急上昇）
+- **Score**: 173pts (+107), 102 comments
+- **URL**: https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **Relevance**: OpenAI / Small Models / Competitor
+- **Key Insight**: 03:30の66ptsから173ptsへ大幅上昇。OpenAIの小型モデルへのHNの関心が高まっている。軽量・低コスト推論の競争が本格化。Fuyajoのコスト構造に影響しうる。
+
+#### MEDIUM: Toward Automated Verification of AI-Generated Code
+- **Score**: 65pts, 49 comments
+- **URL**: https://peterlavigne.com/writing/verifying-ai-generated-code
+- **Relevance**: AI Code Quality / Security / Developer Tools
+- **Key Insight**: AI生成コードの自動検証への関心が継続。「信頼できるAIコーディング」テーマはLeanstralと同一方向。品質・信頼性がAI coding toolsの次の戦場。
+
+#### MEDIUM: Node.js Needs a Virtual File System（急上昇）
+- **Score**: 169pts (+106), 150 comments
+- **URL**: https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
+- **Relevance**: Virtual File System / Falcon Platform技術参考
+- **Key Insight**: 01:30の63ptsから169ptsへ大幅上昇、コメント150と活発な議論。VFSの必要性がNode.jsコミュニティで認識されている。Falcon PlatformのVMサンドボックス設計との関連性あり。
+
+#### MEDIUM: Edge.js – Run Node Apps Inside WebAssembly Sandbox
+- **Score**: 47pts, 15 comments
+- **URL**: https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox
+- **Relevance**: WebAssembly / Sandbox / Falcon Platform
+- **Key Insight**: WasmerがNode.jsアプリをWASMサンドボックスで実行するEdge.jsを発表。マイクロVMの代替としてWASMサンドボックスの活用事例。Fuyajoのサンドボックス戦略の参考に。
+
+#### LOW: Get Shit Done – Meta-Prompting & Spec-Driven Dev
+- **Score**: 50pts, 19 comments
+- **URL**: https://github.com/gsd-build/get-shit-done
+- **Relevance**: AI Prompt Engineering / Developer Tools
+- **Key Insight**: メタプロンプティング、コンテキストエンジニアリング、仕様駆動開発を組み合わせたシステム。Claude Code skillsとの類似性あり。
+
+---
+
+### 分析サマリー（06:30）
+
+**新たな発見:**
+1. Claude Opus 4.6アウテージがHNで話題に → AI APIの信頼性問題が顕在化
+2. GPT-5.4 Mini/Nanoが急上昇（66→173pts）→ OpenAI小型モデル戦略への関心本物
+3. Node.js VFS議論が活発化（63→169pts）→ サンドボックス/VM技術への関心高まり
+4. Edge.js（WASM sandbox）の登場 → VM vs WASMサンドボックスの競争軸
+
+**Falcon Platformへの示唆:**
+- Claude APIのアウテージリスク：Fuyajoでは複数LLMプロバイダーへのフォールバックを検討すべき
+- WASMサンドボックスの台頭：マイクロVM一択ではなく、軽量なWASM実行環境もFuyajoの技術選択肢に入れる価値あり
+- 小型モデル競争の加速：エッジ推論コストが下がると、Fuyajoのオンプレミス推論戦略が現実味を帯びる
