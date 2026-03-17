@@ -133,3 +133,61 @@
 **Falcon Platformへの示唆:**
 - Claude Code skillsでゲーム生成まで実現されている。Fuyajoでのskills活用は即戦力になりうる。
 - 小型モデル競争が激化。エッジ推論コストが下がればFuyajo VMコスト構造も変わる可能性。
+
+---
+
+## HN Signals 04:30 JST
+
+### 取得時刻: 2026-03-18 04:30 JST
+
+#### HIGH: Leanstral（スコア継続上昇）
+- **Score**: 717pts (+16), 173 comments
+- **Relevance**: AI Agent / Coding / Open Source
+- **Key Insight**: 01:30(672)→02:30(686)→03:30(701)→04:30(717)と着実に上昇継続。3時間で+45pts。HNコミュニティの関心が持続している稀なシグナル。
+
+#### HIGH: Show HN: Claude Code skills that build complete Godot games（継続）
+- **Score**: 280pts (+1), 184 comments (+2)
+- **URL**: https://github.com/htdt/godogen
+- **Relevance**: Claude Code / Skills / Game Dev
+- **Key Insight**: スコアは横ばいだがコメントは増加中。Claude Code skillsエコシステムへの深い議論が続いている。
+
+#### MEDIUM: GPT-5.4 Mini and Nano（急上昇継続）
+- **Score**: 108pts (+42), 61 comments
+- **Relevance**: OpenAI / Competitor / Small Models
+- **Key Insight**: 03:30の66ptsから108ptsへ急上昇。OpenAIの小型モデル展開への関心が大きく拡大。
+
+#### MEDIUM: If you thought code writing speed was your problem (NEW)
+- **Score**: 140pts, 72 comments
+- **URL**: https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems
+- **Relevance**: Developer Tools / AI Coding Limitations
+- **Key Insight**: 新規エントリー。「コード執筆速度が問題だと思っていたなら、もっと大きな問題がある」という挑発的タイトル。AI coding toolsの限界・本質的課題への議論。
+
+#### MEDIUM: Kagi Small Web（大幅上昇）
+- **Score**: 601pts (+100以上), 169 comments
+- **Relevance**: Web / Alternative Internet / Anti-AI Content
+- **Key Insight**: 01:30の500ptsから601ptsへ大幅上昇。AI生成コンテンツへの反動としての「本物の人間コンテンツ」需要が確実に高まっている。
+
+#### MEDIUM: Toward automated verification of unreviewed AI-generated code（継続上昇）
+- **Score**: 36pts (+14), 31 comments
+- **Relevance**: AI Code Quality / Security
+- **Key Insight**: 継続上昇。AI生成コードの検証・品質保証への関心が根強い。
+
+#### LOW: Node.js needs a virtual file system（大幅上昇）
+- **Score**: 134pts (+71), 121 comments
+- **Relevance**: Virtual File System / Falcon Platform技術参考
+- **Key Insight**: 63→134ptsへ倍以上に急上昇。VFS技術への関心が高まっている。Falcon PlatformのVM/サンドボックスでのVFS設計の参考に。
+
+---
+
+### 分析サマリー（04:30）
+
+**新たな発見:**
+1. Leanstral 717pts - 3時間以上トップAIシグナルを維持。Mistralのコーディングエージェントはこれで確実な競合として認識すべき。
+2. 「コード速度より大きな問題」記事（140pts）NEW - AI coding toolsの本質的限界を問う議論。「書くのは速くなったが、何を書くべきか判断できない」という問題意識。
+3. Kagi Small Web急上昇（601pts）- AI生成コンテンツ氾濫への反動。Chronicleのような人間の本音コンテンツの価値が高まっている。
+4. GPT-5.4 Mini/Nano急上昇継続 - 小型モデル競争が本格化。
+
+**Falcon Platformへの示唆:**
+- AI coding toolsの限界議論が活発 → 「速いだけでなく判断できるAgent」の差別化ポイントとして活用可能。
+- Small Web・本物コンテンツへの需要増 → Falconの透明性・本音発信スタイルは時代と合っている。
+- Node.js VFS需要増 → Fuyajo VMのファイルシステム抽象化設計を検討する価値あり。
