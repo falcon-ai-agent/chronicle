@@ -353,3 +353,63 @@
 - Claude安定性問題が継続 → API Key + フォールバックモデル戦略を本格検討する価値あり。
 - AI生成コード検証需要増 → Fuyajoのコードサンドボックス機能に「検証レポート」機能追加が差別化になる可能性。
 - Get Shit Doneのspec-driven approach → Fuyajoタスク定義にスペック先行型ワークフローを取り入れる参考に。
+
+---
+
+## HN Signals 08:30 JST
+
+### 新規・更新シグナル
+
+#### HIGH: Leanstral（更新）
+- **Score**: 735pts (+67), 179 comments (+26)
+- **URL**: https://mistral.ai/news/leanstral
+- **Relevance**: AI Coding Agent / 競合
+- **Key Insight**: 急速にスコア上昇中。形式証明＋コーディング特化エージェントとしてHNで最高評価。「信頼できるAIコード」の需要を象徴。
+
+#### HIGH: GPT-5.4 Mini and Nano
+- **Score**: 201pts, 123 comments
+- **URL**: https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **Relevance**: LLM競合モデル
+- **Key Insight**: OpenAIが小型高効率モデルをリリース。Falcon Platformがコスト最適化のためにどのモデルを選ぶかに影響。Mini/Nanoクラスのコストパフォーマンスが向上し続けている。
+
+#### MEDIUM: Claude Opus 4.6エラー（継続）
+- **Score**: 19pts, 7 comments
+- **URL**: https://status.claude.com/incidents/mhnzmndv58bt
+- **Relevance**: Anthropic安定性 / Falcon Agent可用性
+- **Key Insight**: 08:30時点でもHNに残存。朝方から継続するインシデント。Falcon AgentのAnthropicへの依存リスクが再確認される。
+
+#### MEDIUM: Edge.js - WebAssemblyサンドボックスでNode実行
+- **Score**: 76pts, 21 comments
+- **URL**: https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox
+- **Relevance**: サンドボックス技術 / Fuyajoアーキテクチャ
+- **Key Insight**: WASMサンドボックスでのNode.js実行。microVM（Firecracker）に代わるサンドボックスアプローチとして参考になる。軽量かつ安全な実行環境の技術選択肢。
+
+#### MEDIUM: Unsloth Studio
+- **Score**: 107pts, 27 comments
+- **URL**: https://unsloth.ai/docs/new/studio
+- **Relevance**: LLMファインチューニング / Infra-Agent-LLM
+- **Key Insight**: ローカルLLMファインチューニングのUIツール。infra-agent-llm プロジェクトのQLoRA/SFT作業に活用可能かを確認する価値あり。
+
+#### LOW: Mistral AI Releases Forge
+- **Score**: 30pts, 0 comments
+- **URL**: https://mistral.ai/news/forge
+- **Relevance**: MistralのAIツール展開
+- **Key Insight**: Mistralのプラットフォーム系ツール。詳細不明だが動向として記録。
+
+---
+
+### 分析サマリー（08:30）
+
+**新たな発見:**
+1. GPT-5.4 Mini/Nano登場（201pts） - OpenAIの小型モデル競争が加速。Falcon Platform向けコスト最適なLLM選定が再検討の余地あり。
+2. Edge.js / WASMサンドボックス（76pts） - microVM以外のサンドボックス選択肢として注目。FuyajoのVM代替技術として調査価値あり。
+3. Unsloth Studio（107pts） - infra-agent-llmプロジェクトのSFT作業に使えるUIツール。Google ColabとUnslothの組み合わせで効率化可能か。
+
+**継続監視:**
+- Leanstral: 735pts超えで依然上昇中。朝の最重要シグナル。
+- Claude Opus 4.6インシデント: 解決ステータスを確認すること。
+
+**Falcon Platformへの示唆:**
+- OpenAIのMini/Nanoモデル台頭 → Fuyajoがモデル選択の柔軟性（Claude/GPT/Mistral切り替え）を持つことが差別化要因になる。
+- WASM vs microVM論争 → Edge.jsのアプローチを技術選定の参考に。Firecrackerより軽量な可能性。
+- Unsloth Studio → infra-agent-llmのSFTを次のColabセッションでUnslothと組み合わせて実験する価値あり。
