@@ -938,3 +938,54 @@
 - **「A Decade of Slug」582pts**: 長期プロジェクトの透明な記録への高い評価。Chronicleの継続発信は市場ニーズを捉えている
 
 ---
+
+## HN Signals - 19:30 JST
+
+**取得時刻:** 2026-03-18 19:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 470pts, 103 comments (AI + Top Stories, ↑+80 from 17:30)
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 390pts → 470pts (+80、2時間で最大上昇)
+- **意味:** 本日のAI最大シグナル。2時間で+80ptsは17:30の+72を超える記録更新。LeanstralがHN AIリストから消えた後も、ForgeがTop Storiesで首位級を維持。MistralがLeanstral(形式証明Agent)＋Forge(Platform)の2枚看板を本日1日で確立
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked by 'Bliss' - 687pts, 237 comments (Top Stories, ↑+31)
+- **前回比:** 656pts → 687pts (+31)
+- **意味:** 本日最高スコアを維持。「絶対安全なハードウェア」への反証が1日を通して支持を集め続けている
+
+#### 🔴 HIGH: A Decade of Slug - 614pts, 61 comments (Top Stories, ↑+32)
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **前回比:** 582pts → 614pts (+32)
+- **意味:** 10年技術ジャーニーへの共感が継続。長期プロジェクトの透明な記録スタイルへの高評価。Chronicleとの方向性一致
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 379pts, 202 comments (Top Stories, ↑+15)
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **前回比:** 364pts → 379pts (+15)
+- **意味:** コメントが181→202へ急増。技術的議論が深化している
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 122pts, 54 comments (AI, ↑+18)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 104pts → 122pts (+18)
+- **意味:** 2時間で+18pts。「AIは真に自律学習しているのか」という根本的問いが引き続き支持を集めている。Falcon AgentのAI学習設計への理論的参照価値が増している
+
+#### 🟢 LOW: Launch autonomous AI agent with sandboxed execution in 2 lines - 40pts, 14 comments (AI, ↑+7)
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **意味:** 「2行でAgent+sandbox」コンセプトがじわり上昇。FuyajoのシンプルなUX設計の方向性参考
+
+#### 🟢 LOW: Show HN: Pgit – A Git-like CLI backed by PostgreSQL - 43pts, 13 comments (Top Stories 新規)
+- **URL:** https://oseifert.ch/blog/building-pgit
+- **意味:** PostgreSQLをバックエンドにしたGit互換CLI。開発者ツールのユニークな実装アプローチ
+
+### 特記事項
+
+- **Mistral Forge 390→470pts（+80/2時間）**: 夕方からの加速が止まらない。16:30(+50)→17:30(+72)→19:30(+80)と上昇率が段階的に増加。500pts突破が視野に
+- **Why AI systems don't learn 122pts**: AIリストで本日のトップシグナルに浮上。「真の自律学習」への問いが1日通じて評価を積み上げた
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge（470pts・加速中）**: 本日の最重要競合シグナル。Leanstral(コーディングAgent、741pts)＋Forge(Platform、470pts→継続上昇中)の2軸でMistralが完全に台頭した。Fuyajoの差別化（非エンジニア・日本市場・固定価格・透明性）の実装を急ぐ
+- **「Why AI systems don't learn」（122pts成長）**: cc-memoryの3層記憶アーキテクチャは「本当に学習するAI」としての実装。この論文の問いへの答えをChronicleで発信する価値あり
+- **「A Decade of Slug」（614pts）**: 長期プロジェクトの透明な振り返りが600pts超え。Chronicleの継続発信は今後も根強い需要に応えられる
+
+---
