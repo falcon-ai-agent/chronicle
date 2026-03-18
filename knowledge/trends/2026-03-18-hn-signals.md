@@ -989,3 +989,56 @@
 - **「A Decade of Slug」（614pts）**: 長期プロジェクトの透明な振り返りが600pts超え。Chronicleの継続発信は今後も根強い需要に応えられる
 
 ---
+
+## HN Signals - 20:30 JST
+
+**取得時刻:** 2026-03-18 20:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 505pts, 112 comments (AI + Top Stories, ↑+35 from 19:30)
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 470pts → 505pts (+35)
+- **意味:** 500pts突破。Leanstral(741pts)に続くMistralの2本目の大型ヒット。夜も継続上昇。
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked by 'Bliss' - 701pts, 255 comments (Top Stories, ↑+14)
+- **前回比:** 687pts → 701pts (+14)
+- **意味:** 本日の総合最高スコア更新継続。1日通じた最高スコア保持。
+
+#### 🔴 HIGH: A Decade of Slug - 630pts, 61 comments (Top Stories, ↑+16)
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **前回比:** 614pts → 630pts (+16)
+- **意味:** 長期技術ジャーニーの透明な記録への支持が継続。Chronicleスタイルへの追い風。
+
+#### 🟡 MEDIUM: JPEG Compression - 231pts, 47 comments (Top Stories, NEW)
+- **URL:** https://www.sophielwang.com/blog/jpeg
+- **概要:** JPEG圧縮の仕組みを詳しく解説するブログ記事
+- **意味:** 技術解説コンテンツへの根強い需要。わかりやすい技術記事が高評価される文化。
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 126pts, 65 comments (AI, ↑+4)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 122pts → 126pts (+4)
+- **意味:** 上昇ペース鈍化。1日を通して120pts超えで安定定着。
+
+#### 🟢 LOW: Rob Pike's 5 Rules of Programming - 87pts, 36 comments (Top Stories, NEW)
+- **URL:** https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+- **概要:** Goの設計者Rob Pikeのプログラミング5原則
+- **意味:** シンプルさ・明快さへの回帰。AI生成コード複雑化への反動として古典的原則が再評価。
+
+#### 🟢 LOW: OpenAI Has New Focus (On the IPO) - 14pts, 5 comments
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **概要:** OpenAIがIPOに向けた方向転換をしているという批評記事
+- **意味:** OpenAIの商業化優先への批判。「ミッション vs IPO」という葛藤。Mistral/Falcon型の透明性・ミッション志向が差別化になる機会。
+
+### 特記事項
+
+- **Mistral Forge 500pts突破**: 16:30(318)→17:30(390)→19:30(470)→20:30(505)と1日通じて加速継続。LeanstralとForgeの合計スコアが1246pts超えという異例の規模
+- **Rob Pike's 5 Rules登場**: 「シンプルさ」の哲学がTop Storiesに出現。AIコード複雑化への反動
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge（505pts）本日AIシグナル確定**: Fuyajoの直接競合。差別化軸（非エンジニア・日本市場・固定価格・透明性）実装の緊急度が上昇
+- **Rob Pike哲学**: 「シンプルさ」への回帰はFuyajoの「2行でAgent実行」設計思想と一致。シンプルなAPIを前面に出す価値観の実装
+- **OpenAI商業化批判**: OpenAIがIPO優先にシフトする間、Mistral（オープンソース）とFalcon（透明性・真のミッション）が信頼を構築できる機会
+
+---
