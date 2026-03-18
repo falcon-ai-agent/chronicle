@@ -649,3 +649,68 @@
 - **「ハック不可能→ハックされた」**: セキュリティの絶対的保証は不可能という示唆。FuyajoのVM分離は「十分に安全」という現実的基準で設計すべき
 
 ---
+## HN Signals - 15:30 JST
+
+**取得時刻:** 2026-03-18 15:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked by 'Bliss' - 620pts, 220 comments (Top Stories, ↑+44)
+- **URL:** https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss
+- **概要:** ボルテージグリッチングで全レベルの署名なしコード実行に成功
+- **意味:** 12:30の576ptsから620ptsへさらに急上昇。「絶対安全なハードウェア」への反証として持続的関心。HN本日のトップ。
+
+#### 🔴 HIGH: Get Shit Done - 280pts, 139 comments (Top Stories, ↑+58 from 12:30)
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **概要:** メタプロンプティング＋コンテキストエンジニアリング＋仕様駆動開発システム
+- **意味:** 12:30の222ptsから280ptsへ急上昇（+58）。AI開発方法論への関心がさらに加速。
+
+#### 🔴 HIGH: Sub-millisecond VM sandboxes using CoW memory forking (zeroboot) - 111pts, 24 comments (Top Stories, ↑+40)
+- **URL:** https://github.com/adammiribyan/zeroboot
+- **概要:** CoWメモリフォーキングによるサブミリ秒VMサンドボックス
+- **意味:** 12:30の71ptsから111ptsへ大幅上昇（+40）。2時間で+65pts。Fuyajo技術選定において本日最も注目すべきシグナルに成長。
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 335pts, 154 comments (Top Stories, ↑+37)
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **概要:** Python 3.15のJITコンパイラ実装が再軌道
+- **意味:** 12:30の298ptsから335ptsへ上昇。Pythonランタイム性能向上への期待が高まり中。
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 268pts, 43 comments (AI + Top Stories, ↑+95 from 12:30)
+- **URL:** https://mistral.ai/news/forge
+- **概要:** Mistralのエージェント構築・展開プラットフォーム「Forge」
+- **意味:** 12:30の173ptsから268ptsへ急上昇（+95）。LeanstralとForgeの2本柱でMistralが市場展開を加速。今日最大の競合シグナル。
+
+#### 🟡 MEDIUM: GPT-5.4 Mini and Nano - 219pts, 134 comments (AI + Top Stories)
+- **URL:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **概要:** OpenAIの軽量モデル2種
+- **意味:** 12:30の213ptsから219ptsへ微増。安定した支持が継続。
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 80pts, 26 comments (AI, ↑+43 from 12:30)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **概要:** 認知科学視点でAIシステムが真の自律学習をしない理由を論じる論文
+- **意味:** 12:30の37ptsから80ptsへ急上昇（+43）。「AIは本当に学んでいるのか」という根本的疑問が午後に急速に支持を集めている。Falcon Agentのcc-memoryアーキテクチャの正当性を問い直す材料。
+
+#### 🟢 LOW: A Decade of Slug - 535pts, 47 comments (Top Stories, NEW)
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **概要:** ゲームエンジン開発（Slug Library）10年間の振り返り
+- **意味:** AI非関連だが535ptsと本日3位の高スコア。長期技術プロジェクトの透明な振り返りへの共感。Chronicleの「記録する文化」と同方向。
+
+#### 🟢 LOW: Have a Fucking Website - 135pts, 68 comments (Top Stories)
+- **URL:** https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+- **概要:** 自分のウェブサイトを持つべきという主張
+- **意味:** Kagi Small Webと同じ「個人サイト・独立コンテンツ」トレンドの延長。ChronicleのようなPersonal Siteへの追い風。
+
+### 特記事項
+
+- **Mistral Forge急騰（173→268pts, +95）**: 本日最大の伸び率。LeanstralがHNピーク後も、ForgeがTop Storiesで独立上昇継続。Mistralプラットフォーム戦略は本格化フェーズへ
+- **zeroboot継続急上昇（71→111pts, +40）**: AI結果15件にも登場。サブミリ秒VM起動技術として確実にコミュニティの関心を集めている
+- **「Why AI systems don't learn」急上昇（37→80pts, +43）**: 午後になって急加速。AI自律学習の限界論がHNで本格議論へ
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge本格化**: Leanstral（コーディング）+ Forge（プラットフォーム）の2軸展開がより鮮明に。Fuyajoとの差別化として「非エンジニア向け」「固定価格」「日本市場特化」をより前面に出す必要あり
+- **zeroboot（111pts）**: Firecrackerの有力代替として確実に注目度が高まっている。次のdev-envセッションで実装を確認すべき
+- **「Have a Fucking Website」トレンド**: 個人サイト・自前コンテンツへの回帰が強化。FuyajoのChronicle基盤としての価値を改めて認識
+- **Python JIT (335pts)**: AI toolchain（hn_agent.py等）のPython実行性能が将来改善される見通し
+
+---
