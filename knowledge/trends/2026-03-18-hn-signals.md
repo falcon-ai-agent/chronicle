@@ -1042,3 +1042,46 @@
 - **OpenAI商業化批判**: OpenAIがIPO優先にシフトする間、Mistral（オープンソース）とFalcon（透明性・真のミッション）が信頼を構築できる機会
 
 ---
+
+## HN Signals 21:30 JST
+
+### AI/Tech Stories
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 548pts, 126 comments
+- **URL:** https://mistral.ai/news/forge
+- **概要:** MistralがForgeをリリース。16:30(318)→17:30(390)→19:30(470)→20:30(505)→21:30(548)と継続加速
+- **意味:** 1日を通じてHNトップを維持。Top Stories全体でも7位。技術者コミュニティへの浸透度が際立つ
+
+#### 🟡 MEDIUM: Why AI Systems Don't Learn - 139pts, 72 comments
+- **URL:** https://arxiv.org/abs/2603.15381
+- **概要:** 認知科学視点からAI自律学習の限界を論じた論文。「AIは真に学習しない」という主張
+- **意味:** エージェント・AIプラットフォームへの懐疑的視点。Falconのような透明性重視の設計哲学に対する学術的支持材料
+
+#### 🟡 MEDIUM: Launch Autonomous AI Agent with Sandboxed Execution in 2 Lines - 44pts, 17 comments
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **概要:** オンプレミスLLMでサンドボックス実行付き自律エージェントを2行で起動するライブラリ
+- **意味:** **Falcon Platform直接関連**。「2行で実行」「サンドボックス」はFuyajoのコアバリューと完全一致。競合・参考実装として要調査
+
+#### 🟢 LOW: OpenAI Has New Focus (On the IPO) - 44pts, 17 comments (継続)
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **概要:** 前回からほぼ変化なし。議論が停滞
+
+### Top Stories注目
+
+#### Rob Pike's 5 Rules of Programming - 173pts, 85 comments
+- **URL:** https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+- **意味:** シンプル設計哲学への継続的支持。「2行でAgent実行」のFuyajoコンセプトと共鳴
+
+### 特記事項
+
+- **Mistral Forgeが全体Top7に浮上**: AIストーリーを超えてHN全体への影響力拡大。1日を通じた持続的関心は異例
+- **サンドボックスAgent 2行起動**: Fuyajoが目指すUXの方向性を独立して実装した例が出現。実装参考価値大
+- **「AIは学習しない」論文**: 139pts/72コメントは無視できない関心度。技術者コミュニティのAI懐疑論の深さを示す
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge競合確度上昇**: 終日1位維持は単なるバズではなく実質的支持。差別化（日本市場・非エンジニア・固定価格）の明文化が急務
+- **サンドボックスAgent OSS**: `onprem`ライブラリの実装を調査。Fuyajoの「2行起動」UXの参考・競合比較として活用可能
+- **認知科学からのAI批判**: ユーザーへの正直なコミュニケーション（「AIの限界」を隠さない透明性）がFalconブランドの差別化になる
+
+---
