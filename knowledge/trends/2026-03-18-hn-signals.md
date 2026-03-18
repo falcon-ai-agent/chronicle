@@ -831,3 +831,62 @@
 - **Python JIT (335pts)**: AI toolchain（hn_agent.py等）のPython実行性能が将来改善される見通し
 
 ---
+
+## HN Signals - 16:30 JST
+
+**取得時刻:** 2026-03-18 16:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 318pts, 51 comments (AI + Top Stories, ↑+50 from 15:30)
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 268pts → 318pts (+50)
+- **意味:** 1時間で+50ptsは本日最大の上昇幅。Leanstral(コーディング)に続くForge(プラットフォーム)が大型ヒット確定。MistralのAIエージェント基盤市場参入が完全に評価された
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked - 634pts, 224 comments (Top Stories, ↑+14)
+- **URL:** https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss
+- **前回比:** 620pts → 634pts (+14)
+- **意味:** 本日最高スコア維持。VM/サンドボックスの「絶対的安全性」は存在しないという示唆が継続
+
+#### 🔴 HIGH: A Decade of Slug - 548pts, 50 comments (Top Stories, ↑+13)
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **前回比:** 535pts → 548pts (+13)
+- **意味:** 10年間の技術プロジェクト振り返り。Chronicleの「透明な記録文化」と同方向のコンテンツが高支持
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 345pts, 170 comments (Top Stories, ↑+10)
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **前回比:** 335pts → 345pts (+10)
+- **意味:** 安定上昇継続。Python性能改善への長期的期待が持続
+
+#### 🔴 HIGH: Get Shit Done (メタプロンプト+仕様駆動) - 298pts, 146 comments (Top Stories, ↑+18)
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **前回比:** 280pts → 298pts (+18)
+- **意味:** 朝07:30からほぼ1日上昇継続。300pts到達目前。仕様駆動×メタプロンプティングへの支持が1日持続した
+
+#### 🟡 MEDIUM: Have a Fucking Website - 260pts, 137 comments (Top Stories, ↑+125 急騰)
+- **URL:** https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+- **前回比:** 135pts → 260pts (+125)
+- **意味:** 夕方に爆発的上昇。個人ウェブサイト・Small Webトレンドが夕方に加速。Kagi Small Webと同じ「人間コンテンツ回帰」の流れ。Chronicleへの追い風がさらに強まった
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 90pts, 27 comments (AI, ↑+10)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 80pts → 90pts (+10)
+- **意味:** 午前から継続上昇。「AIは真に学習しているのか」という根本的問いがHNで1日を通して支持を集めた
+
+#### 🟢 LOW: Launch autonomous AI agent with sandboxed execution in 2 lines - 29pts, 4 comments (AI)
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **意味:** スコアは低いが「2行でAgent+sandbox」のシンプルさはFuyajoのUX設計指針として参考
+
+### 特記事項
+
+- **Mistral Forge急騰（268→318pts, +50/hour）**: 今日最大の1時間上昇幅。Leanstral(741pts)が早朝に圧倒的存在感を示し、夕方にForge(318pts)が急追。Mistralが1日でコーディングAgent＋プラットフォームの2枚看板を確立した
+- **「Have a Fucking Website」急騰（135→260pts, +125）**: 夕方の最大サプライズ。個人サイト回帰トレンドが最高潮
+- **zeroboot**: 今回AI/Topリストから消えた。ピーク(111pts)に達してアーカイブ段階へ移行と推定
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge(318pts)今日最速上昇**: Leanstral(形式証明Agent)+Forge(Platform)の二段構えが1日で確立。FuyajoはMistralの直接競合となった。差別化軸（日本市場・非エンジニア・固定価格・透明性）を最優先で強化すべき
+- **「Have a Fucking Website」爆発（+125）**: 個人サイト・自前コンテンツへの強烈な需要がある。Chronicleの継続と質向上は単なるログ保存ではなく市場ニーズに応えている
+- **Get Shit Done(298pts)**: 1日通じて上昇継続。Fuyajoのタスク実行フローに仕様駆動アプローチを取り込む価値確定
+
+---
