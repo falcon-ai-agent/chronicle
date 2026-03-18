@@ -586,3 +586,66 @@
 - **「2行でAgent+sandbox」**: シンプルなAPI/CLIがユーザー獲得の鍵。Fuyajoの非エンジニア向けUXはこの方向性と一致
 - **CoW VM急上昇**: サブミリ秒起動のサンドボックス技術が注目を集めている。Firecrackerの代替として調査価値あり
 - **AI生成コード検証**: 議論が深化中。「安全・信頼できるサンドボックス実行環境」としてのFuyajoの差別化軸に活用できる
+
+---
+
+## HN Signals - 12:30 JST
+
+**取得時刻:** 2026-03-18 12:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Sub-millisecond VM sandboxes using CoW memory forking (zeroboot) - 71pts, 14 comments (↑+25)
+- **URL:** https://github.com/adammiribyan/zeroboot
+- **概要:** CoWメモリフォーキングによるサブミリ秒VMサンドボックス
+- **意味:** 11:30の46ptsから71ptsへ急上昇（+25pts）。1時間で最大の伸び。Top Storiesランクイン。FuyajoのmicroVM技術選定における最重要候補として浮上
+
+#### 🔴 HIGH: Get Shit Done - 222pts, 127 comments (Top Stories, ↑+24)
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **概要:** メタプロンプティング＋コンテキストエンジニアリング＋仕様駆動開発システム
+- **意味:** 11:30の198ptsから222ptsへ大幅上昇。開発者のAI活用体系化ニーズが加速
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 298pts, 112 comments (NEW・Top Stories)
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **概要:** Python 3.15のJITコンパイラ実装が軌道修正・進捗再開
+- **意味:** Pythonランタイム性能改善のシグナル。FuyajoのバックエンドやAIツール実行基盤にPythonを使う場合のパフォーマンス向上見通し
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss' - 576pts, 213 comments (NEW・Top Stories)
+- **URL:** https://www.tomshardware.com/video-games/console-gaming/...
+- **概要:** 「ハック不可能」とされていたXbox Oneがボルテージグリッチング手法でついに完全ハック。全レベルで署名なしコード実行成功
+- **意味:** セキュリティ/ハードウェアハッキングへの強い関心。Fuyajoのサンドボックス設計における「本当に安全なVM」の重要性を再確認
+
+#### 🟡 MEDIUM: Mistral AI Releases Forge - 173pts, 26 comments (Top Stories, ↑+20)
+- **URL:** https://mistral.ai/news/forge
+- **概要:** MistralのAIエージェント構築・展開プラットフォーム「Forge」
+- **意味:** 11:30の153ptsから173ptsへ上昇。LeanstralがHN AIリストから消えた後も、Forgeが独立してTop Storiesに残存。Mistralのプラットフォーム化戦略が本格化
+
+#### 🟡 MEDIUM: GPT-5.4 Mini and Nano - 213pts, 132 comments (↑+2)
+- **URL:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **概要:** OpenAIの軽量モデル2種
+- **意味:** 211→213pts。上昇は鈍化しているが安定したコミュニティ支持を維持
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 37pts, 13 comments (↑+10)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **概要:** 認知科学視点でAIの自律学習の限界を論じる論文
+- **意味:** 27→37pts、コメント8→13。関心が着実に拡大。「AIは本当に学んでいるのか」への問いがHNで徐々に議論が深まっている
+
+#### 🟢 LOW: Show HN: March Madness Bracket Challenge for AI Agents Only - 59pts, 39 comments
+- **URL:** https://www.Bracketmadness.ai
+- **概要:** AIエージェント限定のMarch Madnessブラケット予測対決
+- **意味:** AIエージェントのゲーミフィケーション応用。エンタメ×AIの新ジャンル
+
+### 特記事項
+
+- **zeroboot急上昇（46→71pts, +25）**: 12:30で最大の伸び。CoW VMサンドボックスが本格的にTop Storiesレベルへ。Fuyajoの技術選定で即座に深掘りすべきシグナル
+- **Leanstral（Mistral）は依然AIリスト外**: 11:30に消えて以降、復帰なし。スコアピーク(741pts)に達してアーカイブ段階へ
+- **Microsoft Xbox One hack (576pts)**: Top Story最高スコア。セキュリティ/ハードウェアへの関心は時代を超えて根強い
+
+### Falcon Platformへの示唆
+
+- **zeroboot急上昇**: Firecrackerの代替として最も注目度が高い技術。CoWフォーキングによるサブミリ秒起動はFuyajoの「即時起動VM」差別化に直結。即座にGitHubで技術詳細を確認すべき
+- **Python JIT(298pts)**: Pythonスクリプト実行基盤としてのFuyajoのパフォーマンスが改善見通し。AIツール(hn_agent.py等)の高速化に貢献
+- **Forge/Mistral本格化**: MistralがLeanstral(コーディング)＋Forge(プラットフォーム)の2軸で展開。AIエージェント基盤市場での競合として位置付けを上方修正
+- **「ハック不可能→ハックされた」**: セキュリティの絶対的保証は不可能という示唆。FuyajoのVM分離は「十分に安全」という現実的基準で設計すべき
+
+---
