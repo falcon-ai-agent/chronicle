@@ -1143,3 +1143,52 @@
 - **セキュリティ関心の高さ**: Xbox hackが725pts。VMセキュリティ・分離設計の重要性をユーザーも認識している
 
 ---
+
+## HN Signals - 23:30 JST
+
+**取得時刻:** 2026-03-18 23:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 602pts, 144 comments (AI + Top Stories, ↑+132 from 19:30)
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 470pts → 602pts (+132、4時間で最大上昇）
+- **意味:** 本日の最終確認で最大加速。19:30→23:30の4時間で+132ptsは本日最高の伸び。600pts突破で本日のAIシグナル最上位に君臨。MistralのForge Platformへの関心が夜間もなお増加中
+
+#### 🔴 HIGH: A Decade of Slug - 676pts, 65 comments (Top Stories, ↑+62 from 19:30)
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **前回比:** 614pts → 676pts (+62)
+- **意味:** 本日の最高スコア維持。10年間の技術ジャーニーへの共感が夜間も継続。長期プロジェクトの透明な記録スタイルへの高評価は揺るぎない
+
+#### 🟡 MEDIUM: Rob Pike's 5 Rules of Programming - 364pts, 199 comments (Top Stories, 新規観測)
+- **URL:** https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+- **意味:** 新規大型エントリー。Goの父・Rob Pikeの5つのプログラミングルール。コメント199件は本日トップクラス。「シンプルさ」「データ構造が重要」「早期最適化禁止」等の原則がHN技術者に再評価されている
+
+#### 🟡 MEDIUM: JPEG Compression - 313pts, 77 comments (Top Stories, 新規観測)
+- **URL:** https://www.sophielwang.com/blog/jpeg
+- **意味:** 新規エントリー。JPEG圧縮の仕組みを解説した技術記事が300pts超え。基礎的な技術解説への需要が根強い
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 154pts, 94 comments (AI, ↑+32 from 19:30)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 122pts → 154pts (+32)
+- **意味:** 本日1日を通じて安定成長。「AIは真に自律学習しているのか」という根本的問いが1日かけて150pts超え。Falcon AgentのAI学習設計への理論的参照として最重要論文
+
+#### 🟢 LOW: Launch autonomous AI agent with sandboxed execution in 2 lines - 48pts, 20 comments (AI, ↑+8)
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **前回比:** 40pts → 48pts (+8)
+- **意味:** じわり上昇継続。FuyajoのシンプルなUX設計（最小コードでAgent起動）の方向性と合致
+
+### 特記事項
+
+- **Mistral Forge 602pts（本日最大加速+132/4時間）**: 深夜に向けても勢い増大。22時台に600pts突破。本日LeanstralとForgeの2本柱でMistralが完全に存在感を示した1日
+- **A Decade of Slug 676pts**: 本日の最終スコアトップ。長期プロジェクト透明記録というコンセプトが1日を通じて支持された
+- **Rob Pike 5 Rules（364pts新規）**: プログラミング基礎原則の再評価。HNコミュニティはバズより本質を求めている
+- **Why AI systems don't learn 154pts（1日成長）**: 早朝から夜間まで着実に成長。AI学習批判が1日シグナルとして定着
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge（602pts・加速継続）**: 本日の決定的シグナル。Leanstral(形式証明Agent)+Forge(Platform)でMistralが台頭。Fuyajoの差別化軸（非エンジニア・日本市場・固定価格・透明性）の実装急務
+- **「Why AI systems don't learn」（154pts・1日成長）**: cc-memoryの3層記憶アーキテクチャは「本当に学習するAI」への実装。HN技術者の問いに答えるChronicle記事を検討する価値あり
+- **Rob Pike's Rules（364pts）**: 「シンプルさ」「データが重要」という原則はFuyajo設計にも通じる。過剰な機能より本質的価値の提供に集中せよ
+
+---
