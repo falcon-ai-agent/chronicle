@@ -706,3 +706,61 @@
 - **zeroboot: 今日最大の技術シグナル** - 12:30(71pts)→13:30(83pts)と継続急上昇。サブミリ秒VMスナップショット起動はFuyajoの「即時起動」差別化に直結。リポジトリを読んでFirecracker/Cloud Hypervisorとのアーキテクチャ比較を行うべきタイミング
 - **Mistral Forge脅威度上昇:** 199pts到達でTop Stories入り確実。Leanstral(Agent)＋Forge(Platform)の二段構えはFuyajoと直接競合する構造。差別化軸（非エンジニア向け・固定価格・透明性）を強化する
 - **Get Shit Done参考:** 247ptsと高評価。「スペック先行」のFuyajoタスク実行フロー設計に採用価値あり
+
+---
+
+## HN Signals - 14:30 JST
+
+**取得時刻:** 2026-03-18 14:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Sub-millisecond VM sandboxes using CoW memory forking (zeroboot) - 97pts, 16 comments（Top 10入り・急上昇）
+- **URL:** https://github.com/adammiribyan/zeroboot
+- **前回比:** 83pts → 97pts (+14)
+- **意味:** Top 10入り確定。CoWフォーキングによるサブミリ秒VM起動が本格的にHNコミュニティ全体の注目を集めた。FuyajoのmicroVM技術選定の最優先調査対象として確定
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 232pts, 35 comments（急上昇）
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 199pts → 232pts (+33)
+- **意味:** 1時間で+33ptsは今日最大の上昇率。MistralのAIエージェント構築プラットフォームへの評価が急上昇。Leanstral(741pts)に続くMistralの大型ヒット候補
+
+#### 🔴 HIGH: Get Shit Done (メタプロンプト+仕様駆動) - 262pts, 132 comments（継続急上昇）
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **前回比:** 247pts → 262pts (+15)
+- **意味:** 朝から継続上昇が止まらない。仕様駆動×メタプロンプティングへの開発者支持が最高潮
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 319pts, 140 comments（継続上昇）
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **前回比:** 309pts → 319pts (+10)
+- **意味:** 300pts超えでTop Stories確定。Python性能改善への期待が持続
+
+#### 🟡 MEDIUM: GPT-5.4 Mini and Nano - 217pts, 133 comments（横ばい）
+- **URL:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **前回比:** 216pts → 217pts (+1)
+- **意味:** 上昇がほぼ止まった。議論が落ち着き段階へ
+
+#### 🟡 MEDIUM: Toward Automated Verification of AI-Generated Code - 84pts, 78 comments（微増）
+- **URL:** https://peterlavigne.com/writing/verifying-ai-generated-code
+- **意味:** 82→84pts。コメント活発。AI生成コード信頼性テーマは持続的関心
+
+#### 🟢 LOW: Why AI systems don't learn - 66pts, 19 comments（継続上昇）
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 51pts → 66pts (+15)
+- **意味:** 1時間で+15pts急上昇。「AIは本当に学習しているのか」という問いが午後に入り加速。cc-memoryアーキテクチャの設計根拠として参照価値が増している
+
+#### 🟢 LOW: Launch autonomous AI agent with sandboxed execution in 2 lines - 20pts, 4 comments
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **意味:** 小規模だが「2行でAgent+sandbox」コンセプトはFuyajoのUX設計指針
+
+### 特記事項
+
+- **zeroboot Top 10入り(97pts)**: 朝10:30の26ptsから7時間で97ptsへ4倍近い上昇。今日のFuyajo技術選定に最も直接影響するシグナル
+- **Mistral Forge急上昇(+33pts)**: 1時間で最大上昇幅。Leanstralと並ぶMistralの本日2本目の大型ヒット。「Mistralの日」と呼べる動向
+- **「AIは学習しない」論文（51→66pts）**: 午後に入って加速。HN技術者の深い問いかけが広がっている
+
+### Falcon Platformへの示唆
+
+- **zeroboot最優先**: Top 10入りでコミュニティ評価確定。CoWメモリフォーキングでサブミリ秒VM起動を実現する技術の詳細を調査し、Firecrackerとのアーキテクチャ比較を行うべき
+- **Mistral Forge(232pts)脅威度MAX**: Leanstral+Forgeの二軸でMistralがAIエージェントプラットフォーム市場を制圧しようとしている。Fuyajoの非エンジニア向け・固定価格・透明性という差別化は今すぐ強化が必要
+- **Get Shit Done(262pts)**: 朝から夕方まで継続急上昇。仕様駆動開発+メタプロンプティングがFuyajoのタスク実行フローに取り入れる価値確定
