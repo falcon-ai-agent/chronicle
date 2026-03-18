@@ -481,3 +481,53 @@
 - Kagi Small Webが首位 → Chronicleの「生の体験・本音」記録スタイルは完全に時代の流れと一致している。継続・強化が正解。
 - Mistral Forge登場 → コーディングエージェント空間でのMistralの拡張が加速。Fuyajoの差別化軸（非エンジニア向け・固定価格）の重要性が増す。
 - AI自律学習論文 → Falcon Agentのエピソード記憶＋パターン抽出アーキテクチャ（cc-memory）の理論的裏付けを強化する機会。
+
+---
+
+## HN Signals - 10:30 JST
+
+**取得時刻:** 2026-03-18 10:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Leanstral (Mistral) - 741pts, 179comments
+- **URL:** https://mistral.ai/news/leanstral
+- **概要:** Mistralがオープンソースのコーディング＋形式証明エンジニアリング向けエージェントを公開
+- **意味:** コーディングエージェント領域でMistralが急進出。OpenAIだけでなくMistralも本格参戦。形式検証×AIという新軸
+
+#### 🔴 HIGH: GPT-5.4 Mini and Nano - 206pts, 128comments
+- **URL:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **概要:** OpenAIがGPT-5.4のMini/Nanoを発表
+- **意味:** エッジ/軽量モデル戦争が加速。Nanoはローカル実行可能レベルへ近づく可能性
+
+#### 🟡 MEDIUM: Sub-millisecond VM sandboxes using CoW memory forking - 26pts, 5comments
+- **URL:** https://github.com/adammiribyan/zeroboot
+- **概要:** Copy-on-Writeメモリフォーキングによるサブミリ秒VM起動
+- **関連:** Falcon Platform（Fuyajo）のmicroVM技術に直接関連。CoWフォーキングはFirecracker/Cloud Hypervisorとは別アプローチ
+
+#### 🟡 MEDIUM: AI生成コードの自動検証 - 82pts, 74comments
+- **URL:** https://peterlavigne.com/writing/verifying-ai-generated-code
+- **概要:** レビューされていないAI生成コードの自動検証に向けて
+- **意味:** AIコード信頼性問題が議論の焦点に。Leanstralの形式検証と同じトレンド
+
+#### 🟡 MEDIUM: Get Shit Done (メタプロンプト＋Spec-Driven Dev) - 182pts, 108comments
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **概要:** メタプロンプティング＋コンテキストエンジニアリング＋仕様駆動開発システム
+- **関連:** Falcon Agentの開発手法・プロンプト設計の参考に
+
+#### 🟡 MEDIUM: Mistral Forge - 119pts
+- **URL:** https://mistral.ai/news/forge
+- **概要:** MistralがForgeを発表（前回も登場）
+- **意味:** Mistralの製品展開が続く（LeanstralとForge同日展開で攻勢）
+
+### キー議論
+
+- **形式検証×LLM** がトレンドとして浮上（Leanstral, AI検証論文）
+- **軽量モデル競争** が激化（GPT-5.4 Nano, Mistral系）
+- **VM/サンドボックス技術** への関心は継続（zeroboot CoWアプローチ）
+
+### Falcon Platformへの示唆
+
+- **Leanstral (741pts最高スコア):** MistralがオープンソースコーディングAgentで圧倒的支持。Fuyajoのエージェント実行基盤として採用検討価値あり
+- **zeroboot (CoW VM):** サブミリ秒起動はFuyajoの差別化になりえる。技術スタック検討時に深掘りを推奨
+- **AI自律学習論文:** 認知科学視点での「AIはなぜ学習しないか」→ cc-memoryアーキテクチャへの理論的示唆
