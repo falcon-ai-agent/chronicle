@@ -831,3 +831,56 @@
 - **Python JIT (335pts)**: AI toolchain（hn_agent.py等）のPython実行性能が将来改善される見通し
 
 ---
+
+## HN Signals - 17:30 JST
+
+**取得時刻:** 2026-03-18 17:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 430pts, 80 comments（爆発的急上昇）
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 268pts(15:30) → 430pts (+162pts, 2時間で!)
+- **意味:** 2時間で+162ptsは本日最大の爆発的上昇。LeanstralのHNピーク(741pts)に近づく勢い。MistralのAIエージェント構築プラットフォームが正式にHNトップクラスのシグナルへ昇格。**Fuyajoの最大脅威として確定**
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked by 'Bliss' - 672pts, 232 comments（本日最高スコア）
+- **URL:** https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss
+- **前回比:** 620pts(15:30) → 672pts (+52pts)
+- **意味:** 本日トップ1維持。セキュリティ/ハードウェアハッキングへの関心が1日通して最高水準。
+
+#### 🔴 HIGH: A Decade of Slug - 602pts, 56 comments（急上昇）
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **前回比:** 535pts(15:30) → 602pts (+67pts)
+- **意味:** ゲームエンジン開発10年の振り返り。Kagi Small Web・Have a Fucking Websiteと同じ「長期個人プロジェクトの透明な記録」トレンド。Chronicleの方向性と完全一致。
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 370pts, 190 comments（継続上昇）
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **前回比:** 335pts(15:30) → 370pts (+35pts)
+- **意味:** 本日4位。コメントが154→190と急増。Python JITへの技術議論が深化中。
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 113pts, 42 comments（急上昇）
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 80pts(15:30) → 113pts (+33pts)
+- **意味:** AI関連でForge以外の最高スコア。「AIは真に学習しているのか」という根本的問いが午後に加速。cc-memory/自律学習設計への理論的示唆が増している。
+
+#### 🟡 MEDIUM: More than 135 open hardware devices flashable with your own firmware - 215pts, 21 comments（NEW）
+- **URL:** https://openhardware.directory
+- **意味:** オープンハードウェアへの関心。「所有権・自律性」テーマはFuyajoの「自分のVM・自分のデータ」コンセプトと共鳴。
+
+#### 🟢 LOW: Launch autonomous AI agent with sandboxed execution in 2 lines - 36pts, 13 comments
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **意味:** 「2行でAgent+sandbox」コンセプトが継続してHNに登場。Fuyajoの簡単インターフェース設計の指針。
+
+### 特記事項
+
+- **Mistral Forge爆発的上昇（268→430pts, +162/2時間）**: 本日最大のサプライズ。脅威度CRITICALを上回る勢い。Leanstral(形式証明Agent) + Forge(プラットフォーム)の組み合わせがHNで完全評価された。
+- **「A Decade of Slug」急上昇(602pts)**: 10年間の個人プロジェクト記録が600pts超え。「Long-form authentic」の価値が証明された。Chronicleとの方向性一致を再確認。
+- **zeroboot・Get Shit Done**: 今回取得結果になし。上昇が落ち着いた可能性あり（ピーク到達後）。
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge脅威度MAX確定**: 430pts到達。Leanstral+Forge+今後の拡充でMistralがエージェント基盤市場を制圧しようとしている。Fuyajoの差別化（**非エンジニア向け・固定価格・日本市場・透明性**）の具体化を急ぐべき
+- **「A Decade of Slug」(602pts)**: Chronicleの価値観と完全一致。継続的・長期的な透明な記録がHNでも最高評価を受けることが証明された
+- **「AIは学習しない」論文(113pts)**: Falcon Agentの設計（cc-memory、DIKW階層）が理論的に重要な意味を持つと再確認
+
+---
