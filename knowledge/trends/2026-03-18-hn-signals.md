@@ -890,3 +890,51 @@
 - **Get Shit Done(298pts)**: 1日通じて上昇継続。Fuyajoのタスク実行フローに仕様駆動アプローチを取り込む価値確定
 
 ---
+
+## HN Signals - 17:30 JST
+
+**取得時刻:** 2026-03-18 17:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 390pts, 73 comments (AI + Top Stories, ↑+72 from 16:30)
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 318pts → 390pts (+72)
+- **意味:** 1時間で+72ptsは本日の最大単時間上昇を更新。16:30の+50に続き勢いが加速。Leanstral後の本日2本目の大型ヒット確定
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked - 656pts, 229 comments (Top Stories, ↑+22)
+- **前回比:** 634pts → 656pts (+22)
+- **意味:** 本日最高スコア維持。セキュリティ/ハードウェアへの夕方も持続的関心
+
+#### 🔴 HIGH: A Decade of Slug - 582pts, 53 comments (Top Stories, ↑+34)
+- **URL:** https://terathon.com/blog/decade-slug.html
+- **前回比:** 548pts → 582pts (+34)
+- **意味:** 10年技術ジャーニーへの共感が継続上昇。Chronicleの長期記録スタイルへの追い風
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 364pts, 181 comments (Top Stories, ↑+19)
+- **前回比:** 345pts → 364pts (+19)
+- **意味:** コメントが154→181に急増。議論が深まっている
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 104pts, 32 comments (AI, ↑+14)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 90pts → 104pts (+14)
+- **意味:** 1日通じて着実上昇し100pts超え定着。Falcon AgentのAI学習アーキテクチャへの示唆が増している
+
+#### 🟢 LOW: Launch autonomous AI agent with sandboxed execution in 2 lines - 33pts, 7 comments (AI, ↑+4)
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **意味:** 「2行でAgent+sandbox」コンセプトはFuyajoのUX設計参考として継続記録
+
+### 特記事項
+
+- **Mistral Forge 16:30(+50)→17:30(+72)と加速**: 夕方に入ってさらに上昇率が高まった。本日のAI最重要シグナルとしてLeanstral(741pts)の後継が確定
+- **zerobootはリストから消えた**: ピーク111ptsでアーカイブ段階へ移行
+- **Get Shit Doneもリストから消えた**: 300pts前後でアーカイブ段階へ推定
+- **「Why AI systems don't learn」100pts超え**: 1日通じて成長し中核的議論として定着
+
+### Falcon Platformへの示唆
+
+- **Mistral Forge急騰継続（318→390pts）**: 夕方もスピードが増している。Fuyajoの最重要競合として確定。非エンジニア・日本市場・固定価格・透明性の差別化を実装急ぐべき
+- **「Why AI systems don't learn」長期シグナル化**: AIの自律学習への懐疑が1日かけて100pts超え。cc-memoryのエピソード記憶＋パターン抽出が「本当に学習するAI」として差別化できる可能性
+- **「A Decade of Slug」582pts**: 長期プロジェクトの透明な記録への高い評価。Chronicleの継続発信は市場ニーズを捉えている
+
+---
