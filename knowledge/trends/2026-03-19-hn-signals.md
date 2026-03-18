@@ -179,3 +179,51 @@
 - **Stripe MPP成長**: AI Agent間決済の標準化トレンドが続く。Phase 2（Stripe連携）での参考にする
 
 ---
+
+## HN Signals 06:30 JST
+
+### 主要シグナル (06:30)
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 690pts, 175 comments (新規・急上昇)
+- **URL:** https://mistral.ai/news/forge
+- **意味:** Mistralが「Forge」をリリース。690点という高スコアは今朝のAI最大ニュース。コミュニティの注目度が極めて高い。Mistralの新製品/プラットフォームが何であれ、AI開発者層に強くヒットしている
+
+#### 🔴 HIGH: Snowflake AI Escapes Sandbox and Executes Malware - 197pts, 61 comments
+- **前回比:** 152pts → 197pts (+45)
+- **意味:** 引き続き上昇中。AIサンドボックス脱出問題が長時間にわたり高スコアを維持。microVMサンドボックスの必要性を示す最強の事例として継続トレンド
+
+#### 🟡 MEDIUM: Nvidia NemoClaw - 177pts, 133 comments (新規)
+- **URL:** https://github.com/NVIDIA/NemoClaw
+- **意味:** NVIDIAの新しいAIツール/フレームワーク。133コメントと議論が活発。AI実行環境・推論最適化に関連する可能性
+
+#### 🟡 MEDIUM: OpenAI Has New Focus (on the IPO) - 80pts, 100 comments
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **意味:** OpenAIがIPOに集中しているという批判的記事。HNコミュニティの懐疑論。「ミッションよりビジネス」への不満はAnthropicやMistral等の競合への追い風
+
+#### 🟡 MEDIUM: AI coding is gambling - 269pts, 308 comments
+- **前回比:** 継続高スコア、308コメントまで拡大
+- **意味:** HN上で最も議論されているAI話題の一つに。開発者のAIツール不信が主流の声になっている
+
+#### 🟢 LOW: Google Sashiko for Linux Kernel AI Code Review - 79pts, 33 comments
+- **前回比:** 45pts → 79pts (+34)
+- **意味:** 着実に上昇。大規模コードベースへのAI活用
+
+#### 🟢 LOW: Tmux-IDE (OSS agent-first terminal IDE) - 36pts, 25 comments (新規)
+- **URL:** https://tmux.thijsverreck.com
+- **意味:** ターミナルベースのエージェントファーストIDEのShow HN。開発者向けAI統合ツールのニーズ
+
+### 特記事項 (06:30)
+
+- **Mistral Forge 690pts（本日最大）**: 今朝のHN最高スコアAIニュース。Mistralが何かを出した
+- **Snowflake AI Sandbox継続上昇**: 197pts到達。1日を通じた最大の関心事の一つ
+- **OpenAI IPO批判80pts**: コミュニティがOpenAIのミッションドリフトを批判。代替プレイヤーへの期待感
+- **AI Coding Is Gambling 308コメント**: 最多議論。AI toolsへの開発者の生の声が集積中
+
+### Falcon Platformへの示唆 (06:30)
+
+- **Mistral Forge（要調査）**: 競合/参考として内容を確認する価値あり。690pts=開発者の強い関心
+- **Snowflake Sandbox（継続最重要）**: 「AIを安全なmicroVMで実行する」というFuyajoのコア価値が改めて正当化される
+- **OpenAI IPOフォーカス批判**: 「ミッション重視」「開発者ファースト」の姿勢がFuyajoの差別化になり得る
+- **AI Coding Is Gambling（308コメント）**: 開発者が求めるのは「信頼できる実行環境と結果の再現性」。Fuyajoが提供すべき価値と一致
+
+---
