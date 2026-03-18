@@ -531,3 +531,58 @@
 - **Leanstral (741pts最高スコア):** MistralがオープンソースコーディングAgentで圧倒的支持。Fuyajoのエージェント実行基盤として採用検討価値あり
 - **zeroboot (CoW VM):** サブミリ秒起動はFuyajoの差別化になりえる。技術スタック検討時に深掘りを推奨
 - **AI自律学習論文:** 認知科学視点での「AIはなぜ学習しないか」→ cc-memoryアーキテクチャへの理論的示唆
+
+---
+
+## HN Signals - 11:30 JST
+
+**取得時刻:** 2026-03-18 11:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: GPT-5.4 Mini and Nano - 211pts, 130 comments (↑5pts, +2comments)
+- **URL:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **概要:** 10:30の206ptsから211ptsへ。コメントは128→130と微増
+- **意味:** 安定上昇継続。OpenAIの小型モデル戦略への支持が根強い。コスト最適化・エッジ推論競争は長期トレンド
+
+#### 🟡 MEDIUM: Mistral AI Releases Forge - 153pts, 19 comments
+- **URL:** https://mistral.ai/news/forge
+- **概要:** Mistralのプラットフォーム型AIツール「Forge」。AIエージェント構築・展開基盤か
+- **意味:** Leanstralが今回AI結果から消えた一方、Forgeが単独でランクイン。Mistralの製品展開の深さを示す
+
+#### 🟡 MEDIUM: Toward Automated Verification of AI-Generated Code - 82pts, 77 comments (コメント急増)
+- **URL:** https://peterlavigne.com/writing/verifying-ai-generated-code
+- **概要:** AI生成コードの自動検証に向けた研究
+- **意味:** スコアは横ばいだがコメントが74→77へ増加。議論の深さが増している。「AI生成コードへの信頼性問題」は持続的なテーマ
+
+#### 🟡 MEDIUM: Get Shit Done - 198pts, 116 comments (Top Stories / 急上昇)
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **概要:** メタプロンプティング＋コンテキストエンジニアリング＋仕様駆動開発の統合システム
+- **意味:** 07:30の103ptsから198ptsへ大幅上昇。開発者の「AI活用の体系化」ニーズが高まっている
+
+#### 🟡 MEDIUM: Sub-millisecond VM sandboxes using CoW memory forking - 46pts, 13 comments (Top Stories)
+- **URL:** https://github.com/adammiribyan/zeroboot
+- **概要:** CoWメモリフォーキングによるサブミリ秒VMサンドボックス
+- **意味:** 10:30の26ptsから46ptsへ大幅上昇。VM/サンドボックス技術への関心が確実に拡大中。Fuyajoの技術選定に直接関連
+
+#### 🟢 LOW: Launch an autonomous AI agent with sandboxed execution in 2 lines - 8pts, 1 comment
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **概要:** サンドボックス実行付き自律AIエージェントを2行で起動するライブラリ
+- **意味:** スコアは低いが「2行でAgent+sandbox」というシンプルさが刺さる。Fuyajoのユーザー体験設計（シンプルさ重視）の参考事例
+
+#### 🟢 LOW: Why AI systems don't learn - 27pts, 8 comments
+- **URL:** https://arxiv.org/abs/2603.15381
+- **概要:** 認知科学の観点からAIが「真の自律学習」をしない理由を論じる論文
+- **意味:** 09:30の11ptsから27ptsへ上昇。「AIは本当に学習しているのか」という根本的問いが徐々に支持を集めている
+
+### 特記事項
+
+- **Leanstral（Mistral）が今回のAI結果から消えた**: 朝01:30から10:30まで9時間連続でトップを維持したが、11:30のAI結果15件に入らなかった。スコアは741ptsで達したと考えられ、HNのピーク・アーカイブ段階へ移行
+- **zeroboot急上昇（26→46pts）**: CoW VMサンドボックスへの関心が倍近く増加。FuyajoのmicroVM技術選定で深掘り価値が高まっている
+
+### Falcon Platformへの示唆
+
+- **Leanstral終息**: 9時間持続した最重要シグナル。形式証明×AIコーディングエージェントの市場需要は確かに存在する。Fuyajoにこのニーズを取り込む設計の検討価値あり
+- **「2行でAgent+sandbox」**: シンプルなAPI/CLIがユーザー獲得の鍵。Fuyajoの非エンジニア向けUXはこの方向性と一致
+- **CoW VM急上昇**: サブミリ秒起動のサンドボックス技術が注目を集めている。Firecrackerの代替として調査価値あり
+- **AI生成コード検証**: 議論が深化中。「安全・信頼できるサンドボックス実行環境」としてのFuyajoの差別化軸に活用できる
