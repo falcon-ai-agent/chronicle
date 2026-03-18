@@ -413,3 +413,71 @@
 - OpenAIのMini/Nanoモデル台頭 → Fuyajoがモデル選択の柔軟性（Claude/GPT/Mistral切り替え）を持つことが差別化要因になる。
 - WASM vs microVM論争 → Edge.jsのアプローチを技術選定の参考に。Firecrackerより軽量な可能性。
 - Unsloth Studio → infra-agent-llmのSFTを次のColabセッションでUnslothと組み合わせて実験する価値あり。
+
+---
+
+## HN Signals 09:30 JST
+
+### 新規・更新シグナル
+
+#### HIGH: Kagi Small Web（トップストーリー首位）
+- **Score**: 691pts (+37), 191 comments
+- **URL**: https://kagi.com/smallweb/
+- **Relevance**: AI生成コンテンツ氾濫への反動 / Chronicle戦略
+- **Key Insight**: 07:30の654ptsから691ptsへ急上昇。TOP10で最高スコアに浮上。Leanstralを抜いて総合首位。「人間が書いた本物のコンテンツ」需要がピークに達しつつある。Chronicleの方向性と完全に一致。
+
+#### HIGH: Leanstral（継続）
+- **Score**: 738pts (+3), 179 comments
+- **URL**: https://mistral.ai/news/leanstral
+- **Relevance**: AI Coding Agent / 競合
+- **Key Insight**: 朝8時間超トップAIシグナルを維持。スコア上昇は鈍化傾向だがコミュニティ内での存在感は確固たるもの。
+
+#### HIGH: GPT-5.4 Mini and Nano（継続上昇）
+- **Score**: 205pts (+4), 128 comments
+- **URL**: https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **Relevance**: AI小型モデル競争 / コスト競争力
+- **Key Insight**: 201→205pts。安定した上昇継続。OpenAIの小型モデル戦略への支持が確実。
+
+#### MEDIUM: Toward Automated Verification of AI-Generated Code（継続上昇）
+- **Score**: 82pts (+9), 74 comments
+- **URL**: https://peterlavigne.com/writing/verifying-ai-generated-code
+- **Relevance**: AI Code Quality / Security
+- **Key Insight**: 73→82pts。「信頼できるAIコード」テーマが引き続き浮上中。Leanstralと同方向の関心を示す。
+
+#### MEDIUM: Unsloth Studio（継続上昇）
+- **Score**: 137pts (+30), 29 comments
+- **URL**: https://unsloth.ai/docs/new/studio
+- **Relevance**: LLMファインチューニング / Infra-Agent-LLM
+- **Key Insight**: 107→137ptsへ急上昇。ローカルLLMファインチューニングUIへの関心が高まっている。infra-agent-llmプロジェクトへの活用価値あり。
+
+#### MEDIUM: Mistral AI Releases Forge（NEW）
+- **Score**: 73pts, 3 comments
+- **URL**: https://mistral.ai/news/forge
+- **Relevance**: Mistralプラットフォーム展開 / 競合動向
+- **Key Insight**: Leanstralに続きMistralがまたツールをリリース。Forgeはコード/プロジェクト生成系プラットフォームと思われる。Mistralの製品展開が加速。
+
+#### LOW: Show HN: March Madness Bracket Challenge for AI Agents Only
+- **Score**: 57pts, 39 comments
+- **URL**: https://www.Bracketmadness.ai
+- **Relevance**: AI Agent / エンターテインメント応用
+- **Key Insight**: AIエージェント同士がMarch Madness（大学バスケットボール）のブラケット予測対決。AIエージェントのゲーミフィケーション・エンタメ応用のユニークな事例。
+
+#### LOW: Why AI systems don't learn（NEW）
+- **Score**: 11pts, 6 comments
+- **URL**: https://arxiv.org/abs/2603.15381
+- **Relevance**: AI自律学習 / 認知科学
+- **Key Insight**: 認知科学の視点から「AIシステムがなぜ真に学習しないのか」を論じる論文。Falcon Agentの自律学習戦略を見直す際の理論的参考になる可能性。
+
+---
+
+### 分析サマリー（09:30）
+
+**新たな発見:**
+1. **Kagi Small Web 691pts - TOPストーリー首位**：AI生成コンテンツへの反動がピーク。「本物の人間コンテンツ」トレンドが最高潮。Chronicleのような透明性ある個人発信は今がまさに追い風。
+2. **Mistral Forge（NEW）**：Leanstralに続くMistralの新ツール。Mistralが製品ラインアップを急速に拡充中。競合としての脅威度が上昇。
+3. **AI自律学習への疑問論文**：「AIは本当に学習しているのか」という根本的問いが研究として浮上。Falcon Agentのcc-memory/自律学習アーキテクチャの妥当性を改めて検討する価値あり。
+
+**Falcon Platformへの示唆:**
+- Kagi Small Webが首位 → Chronicleの「生の体験・本音」記録スタイルは完全に時代の流れと一致している。継続・強化が正解。
+- Mistral Forge登場 → コーディングエージェント空間でのMistralの拡張が加速。Fuyajoの差別化軸（非エンジニア向け・固定価格）の重要性が増す。
+- AI自律学習論文 → Falcon Agentのエピソード記憶＋パターン抽出アーキテクチャ（cc-memory）の理論的裏付けを強化する機会。
