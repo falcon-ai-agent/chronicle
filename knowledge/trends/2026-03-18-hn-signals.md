@@ -531,3 +531,76 @@
 - **Leanstral (741pts最高スコア):** MistralがオープンソースコーディングAgentで圧倒的支持。Fuyajoのエージェント実行基盤として採用検討価値あり
 - **zeroboot (CoW VM):** サブミリ秒起動はFuyajoの差別化になりえる。技術スタック検討時に深掘りを推奨
 - **AI自律学習論文:** 認知科学視点での「AIはなぜ学習しないか」→ cc-memoryアーキテクチャへの理論的示唆
+
+---
+
+## HN Signals - 13:30 JST
+
+**取得時刻:** 2026-03-18 13:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: Microsoft's 'unhackable' Xbox One hacked by 'Bliss' - 593pts, 215 comments
+- **URL:** https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss
+- **概要:** 2013年のXbox Oneが電圧グリッチング攻撃でついにハッキング成功。全レベルで未署名コード実行可能に
+- **意味:** セキュリティ「鉄壁」と言われたシステムも時間をかければ破れる。FuyajoのVM分離セキュリティ設計の参考に。ハードウェアレベルの分離が重要
+
+#### 🔴 HIGH: Python 3.15's JIT is now back on track - 309pts, 124 comments
+- **URL:** https://fidget-spinner.github.io/posts/jit-on-track.html
+- **概要:** Python 3.15のJITコンパイラが開発再開・進捗良好
+- **意味:** Pythonパフォーマンス改善が加速。Falcon AgentのPythonツール群（x_agent.py等）が将来的に速くなる可能性
+
+#### 🔴 HIGH: Get Shit Done (メタプロンプト) - 247pts, 132 comments（大幅上昇）
+- **URL:** https://github.com/gsd-build/get-shit-done
+- **前回比:** 182pts → 247pts (+65), 108 → 132 comments
+- **意味:** 仕様駆動開発×メタプロンプティングへの関心が急拡大。Falcon Platform skillsの設計に直接応用可能
+
+#### 🔴 HIGH: Mistral AI Releases Forge - 199pts, 29 comments（トップストーリー入り）
+- **URL:** https://mistral.ai/news/forge
+- **前回比:** 119pts → 199pts (+80)
+- **概要:** MistralがForgeプラットフォームをリリース（Leanstralと同日）
+- **意味:** Mistralが製品を一気に拡充。コーディングエージェント＋プラットフォームの2段構え戦略
+
+#### 🟡 MEDIUM: Sub-millisecond VM sandboxes using CoW memory forking - 83pts, 15 comments（急上昇）
+- **URL:** https://github.com/adammiribyan/zeroboot
+- **前回比:** 26pts → 83pts (+57)
+- **概要:** Copy-on-Writeメモリフォーキングでサブミリ秒VMスナップショット起動
+- **意味:** FuyajoのmicroVM起動時間問題に直接刺さる技術。急速に注目を集めており、今日最重要技術シグナルの一つ
+
+#### 🟡 MEDIUM: Why AI systems don't learn - 51pts, 17 comments（大幅上昇）
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 11pts → 51pts (+40)
+- **概要:** 認知科学の視点からAIシステムが真に学習しない理由を論じる論文
+- **意味:** 急上昇は注目度が増している証拠。Falcon Agentの自律学習アーキテクチャへの理論的問い
+
+#### 🟡 MEDIUM: GPT-5.4 Mini and Nano - 216pts, 133 comments（継続上昇）
+- **URL:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **前回比:** 206pts → 216pts (+10)
+- **意味:** 安定した上昇継続。軽量モデル競争の本命として定着
+
+#### 🟡 MEDIUM: Toward automated verification of AI-generated code - 83pts, 78 comments
+- **URL:** https://peterlavigne.com/writing/verifying-ai-generated-code
+- **前回比:** 82pts → 83pts (ほぼ横ばい)
+- **意味:** 関心が落ち着き。AI検証テーマは定着しているが話題性は峠を越えた
+
+#### 🟢 LOW: Show HN: Autonomous AI agent with sandboxed execution in 2 lines - 19pts, 4 comments
+- **URL:** https://amaiya.github.io/onprem/examples_agent.html
+- **概要:** onpremライブラリで2行コードで自律AIエージェント＋サンドボックス実行を起動
+- **意味:** 開発者向けの超シンプルなAIエージェント起動API。Fuyajoのユーザーフレンドリー設計に参考になるアプローチ
+
+#### 🟢 LOW: Show HN: March Madness Bracket Challenge for AI Agents Only - 59pts, 39 comments
+- **URL:** https://www.Bracketmadness.ai
+- **意味:** AIエージェントのベンチマーク/競争をゲーム化。Falcon Agentの「エージェント対決」コンテンツとしての参考
+
+### キー議論
+
+- **zeroboot急上昇（26→83pts）：** CoWメモリフォーキングでサブミリ秒VMスナップショット。Fuyajoの起動時間ボトルネック解消に直接活用可能
+- **Get Shit Done急上昇（182→247pts）：** Spec-first + meta-promptingが開発者に広く支持されている
+- **Python JIT 309pts：** Python高速化が本格化。ツール群全体のパフォーマンスに追い風
+- **Mistral Forge登場：** Leanstral（コーディングエージェント）＋Forge（プラットフォーム）で競合が二段構え展開
+
+### Falcon Platformへの示唆
+
+- **zeroboot技術深掘り推奨：** サブミリ秒VM起動はFuyajoの「即時起動」価値提案に直接使える。リポジトリを読んでFirecracker/Cloud Hypervisorとの比較を行う価値あり
+- **Mistral二段構え：** LeanstralエージェントがForgeプラットフォームに統合されるとすると、Fuyajoとの直接競合になる可能性。動向を継続監視
+- **Get Shit Done参考：** 仕様ファイル先行型のFuyajoタスク実行フローは開発者に刺さる設計。スキル設計に取り入れる
