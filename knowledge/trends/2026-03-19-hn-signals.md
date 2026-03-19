@@ -1007,38 +1007,49 @@
 
 ---
 
+## HN Signals 22:30 JST
 
-### 22:30 JST
+### 重要シグナル
 
-#### 🔴 HIGH: A sufficiently detailed spec is code - 460pts, 241 comments (開発哲学)
+#### 🔴 HIGH: A sufficiently detailed spec is code - 485pts, 250 comments (開発哲学・最高スコア更新)
 - **URL:** https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
-- **意味:** 「十分に詳細な仕様はコードである」という命題が460pts。AIコード生成時代における「仕様」の役割を問う。Fuyajoのノーコード/ローコード戦略と直結する哲学的論争
+- **意味:** 460pts→485ptsへさらに上昇し一日の最高値で着地。「十分に詳細な仕様はコードである」という命題が一日を通じて圧倒的支持。Fuyajoのノーコード/ローコード戦略の思想的根拠として引用可能
 
-#### 🔴 HIGH: Cook: A simple CLI for orchestrating Claude Code - 242pts, 69 comments (Claude)
-- **URL:** https://rjcorwin.github.io/cook/
-- **意味:** Claude Codeオーケストレーション用CLIが242pts継続上昇。AIエージェント開発者ツール需要が一日を通じて高水準維持
+#### 🔴 HIGH: "Astral to Join OpenAI" / "OpenAI to Acquire Astral" - 301pts + 112pts (業界激震)
+- **URL:** https://astral.sh/blog/openai / https://openai.com/index/openai-to-acquire-astral/
+- **意味:** Python開発者ツール（uv、ruff）で革命を起こしたAstralがOpenAIに買収。OpenAIがAIモデルから**開発者インフラ全体**へ版図を拡大する戦略シフト。独立系開発者ツールへの信頼が揺らぐ可能性。**Fuyajoにとって脅威でも機会でも**ある両面のシグナル
 
 #### 🔴 HIGH: Warranty Void If Regenerated - 423pts, 246 comments (AI信頼性)
 - **URL:** https://nearzero.software/p/warranty-void-if-regenerated
 - **意味:** AI生成コードの「保証」問題が423pts・246コメント。「AIが生成したコードは誰が責任を持つか」。Fuyajoが実行環境を提供する上で重要な法的・倫理的論点
 
-#### 🔴 HIGH: OpenAI Has New Focus (on the IPO) - 247pts, 236 comments (OpenAI戦略)
+#### 🔴 HIGH: OpenAI Has New Focus (on the IPO) - 252pts, 239 comments (OpenAI戦略)
 - **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo
-- **意味:** OpenAIがIPOに注力し技術革新より財務最適化へシフトという批判。競合の「ミッション希薄化」はFuyajoの差別化機会
+- **意味:** AstralのOpenAI買収ニュースとセットで意味深。「IPO優先→ツール会社買収」は開発者の不信感をさらに加速させる可能性。Fuyajoの差別化機会
 
-#### 🟡 MEDIUM: What 81,000 people want from AI (Anthropic) - 160pts, 149 comments
+#### 🟡 MEDIUM: Cook: A simple CLI for orchestrating Claude Code - 254pts, 73 comments (Claude Codeエコシステム)
+- **URL:** https://rjcorwin.github.io/cook/
+- **意味:** 19:30時点202ptsから254ptsへ急成長。Claude Codeオーケストレーション需要が本物であることを一日通じて確認。Fuyajoのパイプライン実行基盤の方向性と合致
+
+#### 🟡 MEDIUM: What 81,000 people want from AI (Anthropic) - 166pts, 154 comments
 - **URL:** https://www.anthropic.com/features/81k-interviews
-- **意味:** Anthropicが8万1千人インタビューを分析。ユーザーニーズ把握に活用できる一次資料
+- **意味:** 一日を通じて着実に成長（128→166pts）。Anthropic自身の大規模ユーザーニーズ調査。Fuyajoターゲットユーザー理解に直接活用できる一次資料
 
 #### 🟡 MEDIUM: Nvidia greenboost: extend GPU VRAM using RAM/NVMe - 396pts, 104 comments
 - **URL:** https://gitlab.com/IsolatedOctopi/nvidia_greenboost
 - **意味:** GPUのVRAMをRAM/NVMeで透過拡張。LLMローカル実行コスト削減技術。Infra Agent LLM環境の参考
 
-#### 🟡 MEDIUM: 2% of ICML papers rejected for using LLMs in reviews - 125pts, 109 comments
+#### 🟡 MEDIUM: Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training - 181pts, 68 comments
+- **URL:** https://github.com/alainnothere/llm-circuit-finder
+- **意味:** 学習なし・レイヤー複製だけで論理推論が3.5倍向上。オープンLLM改善の実用的アプローチ
+
+#### 🟢 LOW: 2% of ICML papers rejected for using LLMs in reviews - 135pts, 125 comments
 - **URL:** https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies
 - **意味:** 学術コミュニティのLLM排除が制度化。AI不信の制度的拡大を示す
 
-**22:30 総括:**
-- **Spec-is-code議論**: ノーコードFuyajoの思想的根拠として引用可能
-- **AI保証問題**: 実行環境プロバイダーとしての責任範囲を早期定義が必要
-- **Anthropic 81k調査**: ユーザーが本当に求めるものを把握する最良資料。要精読
+**22:30 JST まとめ:**
+- **Astral→OpenAI買収**が最大ニュース：開発者ツール市場へのOpenAI侵食が本格化。独立系ツールへの価値が高まる逆説的状況
+- **「仕様=コード」論**が一日のクライマックス485ptsで着地：パラダイムシフトは確実
+- **Cookが254ptsへ成長**：Claude Codeオーケストレーション市場の実在確認
+- **AI保証問題423pts**：実行環境プロバイダーとしての責任範囲を早期定義が必要
+- **OpenAI批判×Astral買収**：大手不信とOpenAIの拡張戦略が交差する複雑な局面
