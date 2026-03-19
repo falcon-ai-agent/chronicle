@@ -755,3 +755,57 @@
 - **非エンジニアのClaude Code利用**が観測 → Fuyajoの市場仮説を裏付け
 
 ---
+
+### 17:30 JST
+
+#### 🔴 HIGH: A sufficiently detailed spec is code - 307pts, 156 comments (急成長・新規首位)
+- **URL:** https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+- **前回比:** 88pts（14:30）→ 307pts (+219pts、3.5倍に急騰)
+- **意味:** 「十分に詳細な仕様はコードと等価」という主張が午後に爆発的に支持を集めた。LLM時代の「仕様→自動実装」パラダイムへの共鳴。AIコーディング議論の新しい軸として台頭。Rob Pike's Rules（シンプルさへの回帰）と同じ方向性だが、「仕様の重要性」という実践的観点から接近
+
+#### 🔴 HIGH: Warranty Void If Regenerated - 307pts, 171 comments (継続成長)
+- **URL:** https://nearzero.software/p/warranty-void-if-regenerated
+- **前回比:** 272pts（15:30）→ 307pts (+35pts)
+- **意味:** 300pts突破。AI生成コードの品質保証問題が本日2本目の300+スコア記事に。「AI coding is gambling」と並ぶAI不信の第二軸として完全定着
+
+#### 🔴 HIGH: OpenAI Has New Focus (on the IPO) - 221pts, 193 comments (加速継続)
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **前回比:** 203pts（15:30）→ 221pts (+18pts)、コメント171→193 (+22)
+- **意味:** 193コメントまで拡大。OpenAIのミッション離れへの批判が夕方も続く。代替プレイヤーへの期待感が高まる一方
+
+#### 🟡 MEDIUM: Cook: A simple CLI for orchestrating Claude Code - 162pts, 39 comments (高スコア維持)
+- **URL:** https://rjcorwin.github.io/cook/
+- **前回比:** 121pts（15:30）→ 162pts (+41pts)
+- **意味:** Claude CodeオーケストレーションCLIがHNトップ1位継続。コミュニティがClaude Codeを中心にエコシステムを自発的に構築している。Claude + 自律実行への需要が明確
+
+#### 🟡 MEDIUM: What 81,000 people want from AI (Anthropic) - 101pts, 80 comments (新規・Anthropic関連)
+- **URL:** https://www.anthropic.com/features/81k-interviews
+- **意味:** Anthropicが8.1万人インタビューから「AIに何を求めるか」を分析した記事。HNに登場したAnthropicコンテンツとして注目。ユーザーの本音を大規模調査した結果がどんな示唆を与えるか。Fuyajoのターゲットユーザー理解に直接関連
+
+#### 🟡 MEDIUM: Nvidia greenboost - 293pts, 59 comments (継続成長)
+- **URL:** https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+- **前回比:** 245pts（15:30）→ 293pts (+48pts、本時間帯最大成長率)
+- **意味:** GPU VRAMをシステムRAM/NVMeで透過的に拡張する技術。300pts目前まで成長。AIワークロード実行インフラの効率化への強い関心
+
+#### 🟡 MEDIUM: Show HN: Duplicate 3 layers in 24B LLM (.22→.76, No training) - 96pts, 32 comments (成長)
+- **URL:** https://github.com/alainnothere/llm-circuit-finder
+- **意味:** 24BパラメーターLLMの3層を複製するだけで論理推論能力が.22→.76に向上。学習不要。LLMの内部構造操作による能力向上手法として注目
+
+#### 🟢 LOW: A BEAM-native personal autonomous AI agent (Elixir/OTP) - 21pts, 0 comments (新規)
+- **URL:** https://github.com/thatsme/AlexClaw
+- **意味:** Elixir/OTPベースの個人自律AIエージェント。分散・耐障害性の高いBEAMで自律エージェントを実装する試み。Falcon Agentのアーキテクチャ参考
+
+### 特記事項 (17:30)
+
+- **「A sufficiently detailed spec is code」が88→307pts（+219）**: 本時間帯最大のシグナル。午後に3.5倍に急騰。「仕様の詳細化＝コード生成」というLLM時代のパラダイムシフトへの強い支持
+- **Rob Pike's Rules・AI coding is gambling・Snowflake Sandboxがトップ圏外**: 昨日からの大型記事が新鮮さを失い、夕方のHNが新サイクルへ移行
+- **Anthropic「81,000人インタビュー」がフロントページ**: Anthropicのユーザー調査がHNで注目される珍しい事例。AI利用者の本音データ
+
+### Falcon Platformへの示唆 (17:30)
+
+- **「仕様→コード」パラダイム急騰（最重要）**: 「詳細な仕様さえあれば自動実装される」という考え方がHNで爆発的に支持。Fuyajoの「テンプレート方式で即座に価値提供」という戦略と完全一致。非エンジニアが仕様を書けば動く環境がまさに求められている
+- **Warranty Void 307pts達成**: AI不信の第二軸が300pts超え。「保証できる実行環境」の訴求継続が有効
+- **Cookの162pts継続**: Claude Code周辺エコシステムへの関心が衰えない。Fuyajoの「Claude Code + microVM」は正しい方向
+- **Anthropic 8.1万人インタビュー**: 競合ではなく提携先（Anthropic）のコンテンツがHNで注目される。AIに何を求めるかの大規模調査結果は、Fuyajoのプロダクト設計に応用できる可能性
+
+---
