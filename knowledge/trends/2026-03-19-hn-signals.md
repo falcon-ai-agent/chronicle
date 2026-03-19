@@ -905,47 +905,59 @@
 
 ---
 
-## HN Signals 19:30 JST
+### 20:30 JST
 
-### 重要シグナル
-
-#### 🔴 HIGH: "A sufficiently detailed spec is code" - 366pts, 198 comments (開発パラダイム)
+#### 🔴 HIGH: A sufficiently detailed spec is code - 403pts, 205 comments (本日AI首位・継続急成長)
 - **URL:** https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
-- **意味:** 「詳細な仕様=コード」論が366pts。今日3回目の観測で一日中トップを維持。LLM時代の開発パラダイムシフトの核心。Fuyajoのノーコード/ローコード戦略と完全一致
+- **前回比:** 342pts（18:30）→ 403pts (+61pts)
+- **意味:** 夜も加速継続。「十分に詳細な仕様はコードと同等」という主張が一日を通じてHNで最大AI支持を獲得
 
-#### 🔴 HIGH: "Warranty Void If Regenerated" - 348pts, 198 comments (AI生成コード品質)
+#### 🔴 HIGH: Warranty Void If Regenerated - 369pts, 216 comments (継続急成長)
 - **URL:** https://nearzero.software/p/warranty-void-if-regenerated
-- **意味:** AI生成コードへの保証・品質懸念。深い議論が継続。技術者のAI生成コード不信感が強い。Fuyajoでは品質担保の仕組みが重要
+- **前回比:** 325pts（18:30）→ 369pts (+44pts)
+- **意味:** AI生成コードへの品質保証懸念が370pts目前。AI不信第二軸として本日最高スコア水準
 
-#### 🔴 HIGH: "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe" - 333pts, 69 comments
+#### 🔴 HIGH: Nvidia greenboost - 357pts, 77 comments (継続成長)
 - **URL:** https://gitlab.com/IsolatedOctopi/nvidia_greenboost
-- **意味:** GPU VRAM不足をRAM/NVMeで透過的に拡張。LLM推論コスト削減に直結。自律AIインフラの構築コストに影響
+- **前回比:** 308pts（18:30）→ 357pts (+49pts)
+- **意味:** GPU VRAMをRAM/NVMeで透過的に拡張する技術が夜も急成長
 
-#### 🟡 MEDIUM: "OpenAI Has New Focus (on the IPO)" - 230pts, 206 comments (OpenAI批判)
-- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
-- **意味:** OpenAIのIPO集中批判が206コメントで継続。開発者の大手AI不信が深まる一方
-
-#### 🟡 MEDIUM: "Cook: A simple CLI for orchestrating Claude Code" - 202pts, 54 comments (Claudeエコシステム)
+#### 🔴 HIGH: Cook: A simple CLI for orchestrating Claude Code - 221pts, 58 comments (継続急成長)
 - **URL:** https://rjcorwin.github.io/cook/
-- **意味:** Claude Code CLIオーケストレーションツールが200pts超え。Claude Codeエコシステムが急速に成熟。Fuyajoのプラットフォーム戦略の参考に
+- **前回比:** 183pts（18:30）→ 221pts (+38pts)
+- **意味:** Claude CodeオーケストレーションCLIが夜も急成長継続
 
-#### 🟡 MEDIUM: "What 81,000 people want from AI" - 128pts, 105 comments (Anthropic)
+#### 🟡 MEDIUM: OpenAI Has New Focus (on the IPO) - 236pts, 216 comments (加速継続)
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **前回比:** 227pts（18:30）→ 236pts (+9pts), コメント 216件
+- **意味:** OpenAIのIPO優先批判が夜も広がっている
+
+#### 🟡 MEDIUM: What 81,000 people want from AI (Anthropic) - 148pts, 122 comments (急成長)
 - **URL:** https://www.anthropic.com/features/81k-interviews
-- **意味:** Anthropicの8.1万人インタビューが100pts超に成長。ユーザーニーズデータとして価値が高い
+- **前回比:** 119pts（18:30）→ 148pts (+29pts)
+- **意味:** Anthropicの大規模ユーザーインタビュー調査への関心が急成長。122コメントと議論も活発化
 
-#### 🟡 MEDIUM: "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training" - 119pts, 38 comments (LLM技術)
+#### 🟡 MEDIUM: Show HN: Duplicate 3 layers in 24B LLM (.22→.76, No training) - 134pts, 42 comments (成長)
 - **URL:** https://github.com/alainnothere/llm-circuit-finder
-- **意味:** 学習なしでLLM論理推論能力を大幅向上。オープンな技術革新が継続
+- **前回比:** 107pts（18:30）→ 134pts (+27pts)
+- **意味:** 学習不要でLLM論理推論能力を大幅向上させる研究が夜も成長継続
 
-#### 🟢 LOW: "A BEAM-native personal autonomous AI agent built on Elixir/OTP" - 23pts
-- **URL:** https://github.com/thatsme/AlexClaw
-- **意味:** Elixir/OTPで個人用自律AIエージェント。BEAM VMの耐障害性とAI agentの親和性を探求する実験的プロジェクト
+#### 🟢 LOW: 2% of ICML papers desk rejected (LLM review policy) - 65pts, 47 comments (新規)
+- **URL:** https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/
+- **意味:** ICMLが査読にLLMを使用した論文著者の2%を机上却下。学術界でのAI活用規制が本格化
 
-**19:30 JST まとめ:**
-- **「仕様=コード」論**が一日中トップ維持(366pts) → パラダイムシフトの確実なシグナル
-- **Nvidia GPU VRAM拡張**が333pts → ローカルLLM推論コスト削減の現実解
-- **AI生成コード品質懸念**348pts → 信頼性担保が次の課題
-- **Claude Codeエコシステム成熟**200pts → 競合だが市場検証として価値
-- **OpenAI批判**継続206コメント → 開発者の大手AI不信が定着
+### 特記事項 (20:30)
+
+- **「A sufficiently detailed spec is code」403pts**: 夜になっても加速。本日のAIカテゴリ最高スコアを更新
+- **Warranty Void 369pts**: AI生成コードへの不信が216コメントと夜も拡大
+- **Anthropic 81k interviews +29pts急成長**: AnthropicコンテンツがHNで好評
+- **ICML LLM査読禁止**: 学術界のAI規制が厳格化
+
+### Falcon Platformへの示唆 (20:30)
+
+- **「仕様=コード」論403pts（継続最重要）**: 一日を通じてHN最大AIシグナルとして定着。Fuyajoの「テンプレート→即実行」設計と完全一致
+- **Cook 221pts**: Claude Code周辺エコシステム需要が本物と確定。Fuyajoの「Claude Code + microVM」戦略を支持
+- **Warranty Void 369pts**: AI不信が本日最大規模に。「保証できる実行環境」の訴求が最も有効なメッセージ
+- **Anthropic 81k interviews**: この調査の洞察をFuyajoプロダクト方針に活用する価値あり
 
 ---
