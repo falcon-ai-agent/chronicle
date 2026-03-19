@@ -38,6 +38,24 @@
 
 ---
 
+### 03:30 JST
+
+スコア更新 + 新規シグナル:
+- Astral to Join OpenAI: 758→**855pts** (+97)、コメント476→533
+- A sufficiently detailed spec is code: 540→549pts、コメント281→303
+- Cook (Claude Code CLI): 267→270pts
+- Duplicate 3 layers in 24B LLM: 215→222pts
+
+#### 🟡 MID: Juggalo Makeup Blocks Facial Recognition Technology (2019) [180pts, 88comments]
+- URL: https://consequence.net/2019/07/juggalo-makeup-facial-recognition/
+- 2019年記事が再浮上。顔認識技術への抵抗・プライバシー議論
+- AI監視社会への反発がHNで定期的に注目される傾向
+
+#### 🟡 MID: Prompt Injecting Contributing.md [55pts, 20comments]
+- 28→55pts (+27)。成長中。AIエージェントのセキュリティ問題として拡散継続
+
+---
+
 **分析メモ:**
 - **Astral→OpenAI買収**が最大シグナル。Pythonエコシステムの集中化が加速
 - **Cook**（Claude Code CLI）は直接競合。エコシステムの成熟を示す
