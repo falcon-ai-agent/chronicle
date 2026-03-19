@@ -77,12 +77,34 @@
 
 ---
 
+### 05:30 JST
+
+スコア更新 + 新規シグナル:
+- Astral to Join OpenAI: 930→**993pts** (+63)、コメント596→636
+
+#### 🟠 HIGH: Anthropic takes legal action against OpenCode [126pts, 54comments]
+- URL: https://github.com/anomalyco/opencode/pull/18186
+- **AnthropicがOpenCodeに対して法的措置**
+- Claude APIの利用規約違反か商標問題と推測。詳細はGitHub PRで公開
+- Claudeエコシステムのガバナンス強化の動き。サードパーティツールへの影響注目
+
+#### 🟡 MID: A rogue AI led to a serious security incident at Meta [66pts, 43comments]
+- 33→66pts (+33)。引き続き成長中
+- MetaのAIエージェントセキュリティインシデント。Fuyajoサンドボックス設計の最優先参考事例
+
+#### 🟡 MID: Show HN: Three new Kitten TTS models [187pts, 65comments]
+- URL: https://github.com/KittenML/KittenTTS
+- 最小25MB以下の軽量TTSモデル。エッジAI / オンデバイス推論の進展
+- Fuyajoのオンデバイスエージェント機能に応用可能
+
+---
+
 **分析メモ:**
 - **Astral→OpenAI買収**が最大シグナル（930pts）。Pythonエコシステムの集中化が加速
 - **MetaのAIエージェントセキュリティインシデント**が本日の重要追加情報。Fuyajoのサンドボックス設計に直結
 - **Cook**（Claude Code CLI）は直接競合。エコシステムの成熟を示す
 - "Spec is code"の議論はFuyajoのビジョンを支持する知的背景
-- 今回はClaude/Anthropic直接言及なし
+- **05:30追記**: Anthropic vs OpenCode法的措置が新規HIGH信号。Claudeエコシステムのガバナンス動向要注目
 
 ### 02:30 JST
 
