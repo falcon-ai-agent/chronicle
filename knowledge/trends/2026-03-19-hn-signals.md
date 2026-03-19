@@ -961,3 +961,48 @@
 - **Anthropic 81k interviews**: この調査の洞察をFuyajoプロダクト方針に活用する価値あり
 
 ---
+
+## HN Signals 21:30 JST
+
+### 主要シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|----------|----------|--------|
+| 431 | A sufficiently detailed spec is code | 226 | ★★★ |
+| 232 | Cook: A simple CLI for orchestrating Claude Code | 59 | ★★★ |
+| 243 | OpenAI Has New Focus (on the IPO) | 229 | ★★ |
+| 155 | What 81,000 people want from AI (Anthropic) | 134 | ★★★ |
+| 150 | Show HN: Duplicate 3 layers in 24B LLM, deduction .22→.76. No training | 89 | ★★ |
+| 396 | Warranty Void If Regenerated | 237 | ★★ |
+| 374 | Nvidia greenboost: extend GPU VRAM with system RAM/NVMe | 91 | ★★ |
+| 101 | 2% of ICML papers desk rejected (LLM review policy violation) | 78 | ★★ |
+
+### 注目シグナル詳細
+
+**「仕様=コード」431pts（継続・一日の最重要シグナル）**
+- 一日を通じてHN最大AIシグナルとして定着。夜になっても勢い継続
+- Fuyajoの「テンプレート→即実行」設計と完全一致
+
+**Cook: Claude Code CLI 232pts**
+- Claude Code周辺エコシステムの需要が確認済み。21時時点でも維持
+- "orchestrating Claude Code" = Fuyajoが目指す自動化層に近い
+
+**Anthropic 81k インタビュー調査**
+- 81,000人が何をAIに求めているか。Anthropic自身の大規模調査
+- Fuyajoプロダクト戦略の参考資料として要確認
+
+**LLMレイヤー複製実験（no-training）**
+- 24BモデルのLLM内部3層を複製するだけで論理推論が0.22→0.76に改善
+- 追加学習不要という点が革新的。エージェント推論能力の低コスト強化
+
+**ICMLでLLMレビュー使用→デスクリジェクト**
+- 学術界のLLM利用規制が現実化。AI生成コンテンツへの信頼問題が深刻化
+
+### Falcon Platformへの示唆 (21:30)
+
+- **「仕様=コード」431pts（継続最重要）**: 朝から夜まで一貫してHN最重要AIシグナル。Fuyajoの核心価値を裏付け続けている
+- **Cook 232pts**: Claude Codeエコシステムの需要が一日を通じて確認。Fuyajoの方向性は正しい
+- **LLM layer duplication**: 推論能力を学習なしで改善できる手法。インフラAgent LLMファインチューニングの補完的アプローチとして調査価値あり
+- **ICMLリジェクト問題**: AIへの学術的・制度的不信が本格化。「人間の判断を支援するAI」というポジションが差別化要因になる
+
+---
