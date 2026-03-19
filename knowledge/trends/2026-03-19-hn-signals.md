@@ -450,3 +450,76 @@
 - **AI Coding不信の2軸確立**: 「gambling（不確実性）」と「warranty void（品質保証なし）」という2つの批判軸が出揃った。Fuyajoは「再現可能・保証可能な実行基盤」として両方の回答になれる
 - **Mistral Forge確定ベンチマーク（703pts）**: 競合の最終スコアが出た。Forgeとの差別化（非エンジニア・日本市場・固定価格・透明性）を急ぐ
 - **非エンジニア産業への浸透**: 配管業者がClaude Codeを使う時代。Fuyajoのノーコード/ローコード戦略は時代と合致している
+
+---
+
+### 11:30 JST
+
+#### 🔴 HIGH: AI Coding Is Gambling - 313pts, 384 comments (継続・本日最多議論)
+- **URL:** https://notes.visaint.space/ai-coding-is-gambling/
+- **前回比:** 309/379 → 313/384 (+4pts, +5コメント)
+- **意味:** 朝11時を超えても議論が続く。1日以上で累計384コメントに到達。AI codingへの構造的不信はHNの週次メガトピックとして定着しつつある
+
+#### 🔴 HIGH: Rob Pike's Rules of Programming (1989) - 849pts, 413 comments (Top Stories首位・加速継続)
+- **URL:** https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+- **前回比:** 839pts → 849pts (+10)
+- **意味:** 849ptsに到達。HN歴代上位確定。AI複雑性への反動として古典的シンプルさ原則が圧倒的支持を継続
+
+#### 🔴 HIGH: Snowflake AI Escapes Sandbox and Executes Malware - 230pts, 73 comments (緩やかな成長)
+- **URL:** https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware
+- **前回比:** 226pts → 230pts (+4)
+- **意味:** 成長が鈍化しつつも継続。AIサンドボックス脱出インシデントへの関心は長期トレンドとして定着
+
+#### 🟡 MEDIUM: Warranty Void If Regenerated - 207pts, 113 comments (急伸)
+- **URL:** https://nearzero.software/p/warranty-void-if-regenerated
+- **前回比:** 187/99 → 207/113 (+20pts, +14コメント)
+- **意味:** 本時間帯で最も成長。AI生成コードの品質保証問題への関心が「AI coding is gambling」と並んで台頭
+
+#### 🟡 MEDIUM: Nvidia NemoClaw - 244pts, 190 comments (成長継続)
+- **URL:** https://github.com/NVIDIA/NemoClaw
+- **前回比:** 235pts → 244pts (+9)
+- **意味:** NVIDIAのAIツールチェーン新作が安定成長。大手インフラプレイヤーの開発者ツール強化継続
+
+#### 🟡 MEDIUM: OpenAI Has New Focus (on the IPO) - 155pts, 150 comments (成長)
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **前回比:** 143pts → 155pts (+12)
+- **意味:** OpenAIのIPO優先批判が本時間帯で顕著に成長。コミュニティのOpenAI不信が高まっている
+
+#### 🟡 MEDIUM: Why AI Systems Don't Learn - 173pts, 107 comments (成長)
+- **URL:** https://arxiv.org/abs/2603.15381
+- **前回比:** 163pts → 173pts (+10)
+- **意味:** 認知科学観点のAI学習限界論文が再び成長。「AIは真に学習しない」という学術的批判が持続
+
+#### 🟡 MEDIUM: Google Sashiko for Agentic AI Code Review - 90pts, 41 comments (新規・成長)
+- **URL:** https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review
+- **意味:** GoogleエンジニアがLinuxカーネルのAIコードレビューエージェントを公開。本番インフラへのエージェント活用が現実化
+
+#### 🟢 LOW: Book: The Emerging Science of ML Benchmarks - 89pts, 4 comments (新規)
+- **URL:** https://mlbenchmarks.org/00-preface.html
+- **意味:** ML評価・ベンチマーク科学の体系化。AIシステムの信頼性評価手法への需要を反映
+
+#### 🟢 LOW: Show HN: Duplicate 3 layers in 24B LLM (.22→.76, No training) - 74pts, 20 comments (急成長)
+- **URL:** https://github.com/alainnothere/llm-circuit-finder
+- **前回比:** 44pts → 74pts (+30)
+- **意味:** 学習なしでLLM推論能力を大幅向上させる手法が急伸。LLMの内部回路理解が進んでいる
+
+#### 🟢 LOW: Show HN: Tmux-IDE, OSS agent-first terminal IDE - 66pts, 34 comments (成長)
+- **URL:** https://tmux.thijsverreck.com
+- **前回比:** 46pts → 66pts (+20)
+- **意味:** ターミナルベースのエージェントファーストIDEへの関心が継続成長
+
+### 特記事項 (11:30)
+
+- **Warranty Void If Regenerated +20pts（本時間帯最高伸び）**: AI生成コードの品質保証問題という第二の不信軸が台頭加速
+- **OpenAI IPO批判 +12pts**: 競合有利の追い風が継続。コミュニティが代替プレイヤーを探している
+- **Rob Pike's Rules 849pts**: HN歴代上位確定。2日以上で到達した最終水準として記録
+- **LLM Circuit Finder +30pts**: 学習なし能力向上という技術的ブレイクスルーへの関心急伸
+
+### Falcon Platformへの示唆 (11:30)
+
+- **「gambling」＋「warranty void」の2軸定着**: AI coding不信の2大テーマが確立。Fuyajoは「再現可能・信頼できる実行基盤」として両方の回答になれる訴求を具体化すべき
+- **OpenAI IPO批判加速**: 大手がビジネス優先に走る中、「開発者ファースト・ミッション重視」の姿勢でFuyajoが存在感を示す機会
+- **Google Sashiko（本番インフラへのエージェント）**: エージェント型AIの実用化が加速。Fuyajoのエージェント実行環境としての価値が高まる
+- **LLM Circuit Finder（学習なし能力向上）**: モデルの内部構造操作でコスト0の能力向上が可能になりつつある。将来のFuyajo AI実行コスト削減に関連する研究
+
+---
