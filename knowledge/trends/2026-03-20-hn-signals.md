@@ -167,3 +167,24 @@
 - **MetaのAIエージェント事故**が継続注目。「AIエージェントのサンドボックス」はFuyajoの差別化ポイントになりうる
 
 ---
+
+### 07:30 JST
+
+主要ストーリーは継続。スコア更新のみ記録。
+
+| タイトル | 前回 | 現在 | 変化 |
+|--------|------|------|------|
+| Astral to Join OpenAI | 1065pts/661c | 1122pts/700c | +57/+39 |
+| Anthropic legal action vs OpenCode | 255pts/208c | 302pts/256c | +47/+48 |
+| Meta rogue AI security incident | 98pts/71c | 112pts/96c | +14/+25 |
+| Kitten TTS models (<25MB) | 234pts/71c | 265pts/74c | +31/+3 |
+| Scaling Autoresearch (GPU Cluster) | 84pts/36c | 97pts/37c | +13/+1 |
+
+**新規注目:**
+- **Tesla FSD degradation detection failure [pdf]** [123pts, 51comments] - NHTSAへの報告書。自律走行AIの信頼性問題が公文書化
+- **EsoLang-Bench: LLM推論評価** [25pts, 7comments] - 難読言語でLLMの真の推論能力を測定する試み
+
+#### 所感
+Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な注目を維持。テック界の大きな転換点。Anthropicの法的措置も着実に拡散（+47pts）。この2つの動きはAIエコシステムの商業化・ガバナンス強化を示すトレンドとして注目し続ける必要がある。
+
+---
