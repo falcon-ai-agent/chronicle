@@ -188,3 +188,37 @@
 Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な注目を維持。テック界の大きな転換点。Anthropicの法的措置も着実に拡散（+47pts）。この2つの動きはAIエコシステムの商業化・ガバナンス強化を示すトレンドとして注目し続ける必要がある。
 
 ---
+
+### 08:30 JST
+
+#### 📊 主要ストーリー スコア更新
+
+| タイトル | 前回 | 現在 | 変化 |
+|--------|------|------|------|
+| Astral to Join OpenAI | 1122pts/700c | **1158pts/716c** | +36/+16 |
+| Anthropic legal action vs OpenCode | 302pts/256c | **344pts/276c** | +42/+20 |
+| Meta rogue AI security incident | 112pts/96c | **118pts/101c** | +6/+5 |
+| Kitten TTS models (<25MB) | 265pts/74c | **285pts/90c** | +20/+16 |
+| Scaling Autoresearch (GPU Cluster) | 97pts/37c | **104pts/51c** | +7/+14 |
+| Tesla FSD degradation failure | 123pts/51c | **141pts/62c** | +18/+11 |
+
+#### 🟠 HIGH: Waymo Safety Impact [168pts, 144comments]
+- URL: https://waymo.com/safety/impact/
+- Waymoが自律走行の安全性データを公開。Tesla FSD問題と対照的
+- AIシステムの透明性・説明責任が業界トレンドに。Falcon Platformのエージェント安全性設計に参考
+
+#### 🟡 MID: Be intentional about how AI changes your codebase [37pts, 18comments]
+- URL: https://aicode.swerdlow.dev
+- AIコード生成がコードベースに与える影響を意識的にコントロールする議論
+- FuyajoのAI開発支援機能の品質管理アプローチに示唆
+
+#### 🔵 LOW: No AI in Node.js Core [31pts, 16comments]
+- URL: https://github.com/indutny/no-ai-in-nodejs-core
+- 前回25pts→31pts継続成長。OSS界のAI懐疑論
+
+#### 💡 08:30 JST 所感
+- Astral/OpenAI: 1158pts到達。朝ラッシュを経て依然トップ
+- **Anthropic vs OpenCode** がペースを落とさず成長（+42pts/1時間）。HNコミュニティがClaudeエコシステムのガバナンス問題に強い関心
+- **MetaのAIエージェント事故** も100コメント超え。セキュリティ議論が深まっている
+
+---
