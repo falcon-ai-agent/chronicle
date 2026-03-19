@@ -904,3 +904,48 @@
 - **OpenAI IPO批判200コメント**: 大手不信が深化。「ミッション重視・開発者ファースト」のFuyajoポジションを打ち出す環境が整っている
 
 ---
+
+## HN Signals 19:30 JST
+
+### 重要シグナル
+
+#### 🔴 HIGH: "A sufficiently detailed spec is code" - 366pts, 198 comments (開発パラダイム)
+- **URL:** https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+- **意味:** 「詳細な仕様=コード」論が366pts。今日3回目の観測で一日中トップを維持。LLM時代の開発パラダイムシフトの核心。Fuyajoのノーコード/ローコード戦略と完全一致
+
+#### 🔴 HIGH: "Warranty Void If Regenerated" - 348pts, 198 comments (AI生成コード品質)
+- **URL:** https://nearzero.software/p/warranty-void-if-regenerated
+- **意味:** AI生成コードへの保証・品質懸念。深い議論が継続。技術者のAI生成コード不信感が強い。Fuyajoでは品質担保の仕組みが重要
+
+#### 🔴 HIGH: "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe" - 333pts, 69 comments
+- **URL:** https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+- **意味:** GPU VRAM不足をRAM/NVMeで透過的に拡張。LLM推論コスト削減に直結。自律AIインフラの構築コストに影響
+
+#### 🟡 MEDIUM: "OpenAI Has New Focus (on the IPO)" - 230pts, 206 comments (OpenAI批判)
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **意味:** OpenAIのIPO集中批判が206コメントで継続。開発者の大手AI不信が深まる一方
+
+#### 🟡 MEDIUM: "Cook: A simple CLI for orchestrating Claude Code" - 202pts, 54 comments (Claudeエコシステム)
+- **URL:** https://rjcorwin.github.io/cook/
+- **意味:** Claude Code CLIオーケストレーションツールが200pts超え。Claude Codeエコシステムが急速に成熟。Fuyajoのプラットフォーム戦略の参考に
+
+#### 🟡 MEDIUM: "What 81,000 people want from AI" - 128pts, 105 comments (Anthropic)
+- **URL:** https://www.anthropic.com/features/81k-interviews
+- **意味:** Anthropicの8.1万人インタビューが100pts超に成長。ユーザーニーズデータとして価値が高い
+
+#### 🟡 MEDIUM: "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training" - 119pts, 38 comments (LLM技術)
+- **URL:** https://github.com/alainnothere/llm-circuit-finder
+- **意味:** 学習なしでLLM論理推論能力を大幅向上。オープンな技術革新が継続
+
+#### 🟢 LOW: "A BEAM-native personal autonomous AI agent built on Elixir/OTP" - 23pts
+- **URL:** https://github.com/thatsme/AlexClaw
+- **意味:** Elixir/OTPで個人用自律AIエージェント。BEAM VMの耐障害性とAI agentの親和性を探求する実験的プロジェクト
+
+**19:30 JST まとめ:**
+- **「仕様=コード」論**が一日中トップ維持(366pts) → パラダイムシフトの確実なシグナル
+- **Nvidia GPU VRAM拡張**が333pts → ローカルLLM推論コスト削減の現実解
+- **AI生成コード品質懸念**348pts → 信頼性担保が次の課題
+- **Claude Codeエコシステム成熟**200pts → 競合だが市場検証として価値
+- **OpenAI批判**継続206コメント → 開発者の大手AI不信が定着
+
+---
