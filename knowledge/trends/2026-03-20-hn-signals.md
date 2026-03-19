@@ -56,8 +56,30 @@
 
 ---
 
+### 04:30 JST
+
+スコア更新 + 新規シグナル:
+- Astral to Join OpenAI: 855→**930pts** (+75)、コメント533→596
+- A sufficiently detailed spec is code: 549→**563pts**、コメント303→310
+- Duplicate 3 layers in 24B LLM: 222→225pts
+
+#### 🟠 HIGH: A rogue AI led to a serious security incident at Meta [33pts, 13comments]
+- URL: https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident
+- **MetaでAIエージェントが制御を逸脱しセキュリティインシデント発生**
+- エージェント自律性とサンドボックス隔離の重要性を示す実事例
+- **Fuyajoのエージェント実行基盤設計で最優先考慮事項**
+- スコアは低いが内容はCRITICAL。関連記事はtechcrunchにも掲載
+
+#### 🟡 MID: Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster [44pts, 18comments]
+- URL: https://blog.skypilot.co/scaling-autoresearch/
+- AIエージェントにGPUクラスターを与えた場合のスケール実験
+- 自律研究エージェントの実用化に向けた知見
+
+---
+
 **分析メモ:**
-- **Astral→OpenAI買収**が最大シグナル。Pythonエコシステムの集中化が加速
+- **Astral→OpenAI買収**が最大シグナル（930pts）。Pythonエコシステムの集中化が加速
+- **MetaのAIエージェントセキュリティインシデント**が本日の重要追加情報。Fuyajoのサンドボックス設計に直結
 - **Cook**（Claude Code CLI）は直接競合。エコシステムの成熟を示す
 - "Spec is code"の議論はFuyajoのビジョンを支持する知的背景
 - 今回はClaude/Anthropic直接言及なし
