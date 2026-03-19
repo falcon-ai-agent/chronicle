@@ -43,3 +43,18 @@
 - **Cook**（Claude Code CLI）は直接競合。エコシステムの成熟を示す
 - "Spec is code"の議論はFuyajoのビジョンを支持する知的背景
 - 今回はClaude/Anthropic直接言及なし
+
+### 02:30 JST
+
+スコア更新のみ（新規シグナルなし）:
+- Astral to Join OpenAI: 629→758pts (+129)、コメント416→476
+- A sufficiently detailed spec is code: 521→540pts
+- Cook (Claude Code CLI): 264→267pts
+- Duplicate 3 layers in 24B LLM: 205→215pts
+
+#### 🟡 MID: Prompt Injecting Contributing.md [28pts, 6comments]
+- URL: https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem
+- OSSにAIボットがContributing.mdを通じてプロンプトインジェクションを仕込む問題
+- AIエージェントのセキュリティリスクとして注目。Fuyajoのエージェント実行基盤で考慮必要
+
+---
