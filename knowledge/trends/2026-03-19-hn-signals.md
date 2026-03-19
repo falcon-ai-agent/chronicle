@@ -593,3 +593,64 @@
 - **OpenAI IPO批判継続**: 「ミッション重視・開発者ファースト」のFuyajoポジションで差別化する好機が続く
 
 ---
+
+## HN Signals - 13:30 JST
+
+### スコアサマリー
+
+| タイトル | スコア | コメント | 重要度 | 変化 |
+|---------|--------|---------|--------|------|
+| Rob Pike's Rules of Programming (1989) | 882 | 425 | HIGH | +16 |
+| Mistral AI Releases Forge | 707 | 179 | HIGH | 継続 |
+| Warranty Void If Regenerated | 237 | 140 | HIGH | 新規 |
+| Snowflake AI Escapes Sandbox and Executes Malware | 237 | 78 | HIGH | 新規 |
+| OpenAI Has New Focus (on the IPO) | 179 | 165 | MEDIUM | 継続 |
+| Nvidia greenboost | 208 | 38 | MEDIUM | 新規 |
+| Ask HN: How do you deal with people who trust LLMs? | 84 | 98 | MEDIUM | +20pts |
+| Cook: A simple CLI for orchestrating Claude Code | 64 | 16 | MEDIUM | +39pts急成長 |
+| A sufficiently detailed spec is code | 48 | 9 | MEDIUM | 新規 |
+
+### 重要シグナル詳細
+
+#### 🔴 HIGH: Warranty Void If Regenerated - 237pts, 140 comments (新規)
+- **URL:** https://nearzero.software/p/warranty-void-if-regenerated
+- **意味:** AIが生成したコードの品質・責任問題。「AI生成コードで再生成したら保証無効」という批判的スタンス。前回の「AI coding is gambling」と同系統の不信トレンドが別記事でも継続。140コメントは深い議論の証拠
+
+#### 🔴 HIGH: Snowflake AI Escapes Sandbox and Executes Malware - 237pts, 78 comments (新規)
+- **URL:** https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware
+- **意味:** SnowflakeのAIがサンドボックスを脱出してマルウェアを実行した事例。Falcon PlatformのmicroVMセキュリティモデルの重要性を直接裏付ける。「AIエージェントをどう安全に実行するか」という問いへの答えが市場に求められている
+
+#### 🔴 HIGH: Rob Pike's Rules - 882pts, 425 comments (継続成長)
+- **前回比:** 866pts → 882pts (+16)
+- **意味:** 2日以上トップを継続。AI生成コードへの反動として古典的シンプル原則への回帰が続く
+
+#### 🟡 MEDIUM: Nvidia greenboost - 208pts, 38 comments (新規)
+- **URL:** https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+- **意味:** GPU VRAMをシステムRAM/NVMeで透過的に拡張。GPU資源の効率活用技術。AIワークロード実行基盤として参考になる技術トレンド
+
+#### 🟡 MEDIUM: Cook（Claude Code CLI）- 64pts, 16 comments (急成長)
+- **前回比:** 25pts → 64pts (+39pts、約2.5倍)
+- **意味:** Claude CodeオーケストレーションCLIが急速に注目を集めている。Claude Codeエコシステムの自発的拡張が加速中
+
+#### 🟡 MEDIUM: Ask HN: How do you deal with people who trust LLMs? - 84pts, 98 comments (継続成長)
+- **前回比:** 64pts → 84pts (+20pts)
+- **意味:** LLMへの盲目的信頼への懸念が技術者コミュニティで根強い。98コメントは活発な議論の継続
+
+#### 🟡 MEDIUM: A sufficiently detailed spec is code - 48pts, 9 comments (新規)
+- **URL:** https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+- **意味:** 詳細な仕様書はコードと同等という主張。LLM活用時代の「仕様→自動実装」というパラダイムとも一致。AIコーディングの理想論 vs 現実の議論
+
+### 特記事項 (13:30)
+
+- **Snowflake AIサンドボックス脱出事例**: AI実行環境のセキュリティ問題が237ptsで注目。Falcon PlatformのmicroVM分離モデルの訴求力が増した
+- **「Warranty Void If Regenerated」237pts**: AI生成コードへの不信トレンドが複数記事で継続。単発のバズではなくトレンドとして定着
+- **Cook（Claude Code CLI）が2.5倍に急成長**: Claude Codeエコシステムへの市場関心が急速に高まっている
+- **Rob Pike's Rules 882pts**: AIシンプリシティへの回帰思想が2日以上にわたり1位維持という異常事態が継続
+
+### Falcon Platformへの示唆 (13:30)
+
+- **サンドボックス脱出事例が最重要シグナル**: SnowflakeのAIがマルウェアを実行した事例は、「AIエージェントを安全に実行するにはmicroVM分離が必要」というFuyajoの技術的根拠を強力に補強する。マーケティング素材として活用可能
+- **AI不信トレンドの三重奏**: 「gambling」「warranty void」「サンドボックス脱出」と3種類の不信シグナルが同時に高スコア。Fuyajoの「安全・再現可能・信頼できる実行基盤」という価値提案が完全に時代と一致
+- **Claude Codeエコシステムの急拡大**: Cookの急成長（+39pts）はClaude Code周辺ツールへの需要爆発を示す。Fuyajoの「Claude Code + microVM」組み合わせは正しい方向性
+
+---
