@@ -654,3 +654,68 @@
 - **Claude Codeエコシステムの急拡大**: Cookの急成長（+39pts）はClaude Code周辺ツールへの需要爆発を示す。Fuyajoの「Claude Code + microVM」組み合わせは正しい方向性
 
 ---
+
+## HN Signals - 14:30 JST
+
+### スコアサマリー
+
+| タイトル | スコア | コメント | 重要度 | 変化 |
+|---------|--------|---------|--------|------|
+| Rob Pike's Rules of Programming (1989) | 893 | 425 | HIGH | +11 |
+| Warranty Void If Regenerated | 255 | 148 | HIGH | +18 |
+| OpenAI Has New Focus (on the IPO) | 193 | 170 | MEDIUM | +14 |
+| Nvidia greenboost | 225 | 42 | MEDIUM | +17 |
+| Cook: A simple CLI for orchestrating Claude Code | 97 | 24 | HIGH | +33急成長 |
+| Ask HN: How do you deal with people who trust LLMs? | 94 | 103 | MEDIUM | +10 |
+| Why AI systems don't learn | 180 | 110 | MEDIUM | +5 |
+| A sufficiently detailed spec is code | 88 | 31 | MEDIUM | 新規 |
+| Tmux-IDE, OSS agent-first terminal IDE | 75 | 35 | LOW | 継続 |
+
+### 重要シグナル詳細
+
+#### 🔴 HIGH: Cook: A simple CLI for orchestrating Claude Code - 97pts, 24 comments (急成長)
+- **URL:** https://rjcorwin.github.io/cook/
+- **前回比:** 64pts → 97pts (+33pts、1時間で50%増)
+- **意味:** Claude CodeオーケストレーションCLIが13:30比で+33ptsという急激な伸び。HNフロントページトップ2入り。Claude Codeエコシステムへの関心が爆発的に高まっている証拠
+
+#### 🔴 HIGH: Warranty Void If Regenerated - 255pts, 148 comments (急伸継続)
+- **URL:** https://nearzero.software/p/warranty-void-if-regenerated
+- **前回比:** 237pts → 255pts (+18pts)
+- **意味:** AI生成コードの品質保証問題が加速継続。148コメントは活発な議論の証拠。AI不信トレンドの第二軸として完全定着
+
+#### 🔴 HIGH: Rob Pike's Rules of Programming (1989) - 893pts, 425 comments (継続成長)
+- **URL:** https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+- **前回比:** 882pts → 893pts (+11)
+- **意味:** 900pts目前。2日以上トップを維持したままHN歴代記録レベルに到達。AI複雑性への反動として古典的シンプルさへの渇望が止まらない
+
+#### 🟡 MEDIUM: OpenAI Has New Focus (on the IPO) - 193pts, 170 comments (継続成長)
+- **URL:** https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+- **前回比:** 179pts → 193pts (+14pts)
+- **意味:** OpenAIのIPO優先批判が継続成長。170コメントと議論も活発。代替プレイヤーへの期待感が高まっている
+
+#### 🟡 MEDIUM: Nvidia greenboost - 225pts, 42 comments (成長継続)
+- **URL:** https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+- **前回比:** 208pts → 225pts (+17pts)
+- **意味:** GPU VRAMをシステムRAM/NVMeで拡張する技術。AIワークロード実行コスト削減に関連
+
+#### 🟡 MEDIUM: A sufficiently detailed spec is code - 88pts, 31 comments (新規)
+- **URL:** https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+- **意味:** 詳細仕様はコードと等価という主張。LLM活用時代の「仕様→自動実装」パラダイムの理論的基盤
+
+#### 🟢 LOW: A BEAM-native personal autonomous AI agent (Elixir/OTP) - 11pts (新規)
+- **URL:** https://github.com/thatsme/AlexClaw
+- **意味:** Elixir/OTPベースの個人自律AIエージェント。Falcon Agentのアーキテクチャ参考情報
+
+### 特記事項 (14:30)
+
+- **Cook（Claude Code CLI）が1時間で+33pts（97pts）**: 13:30から50%増という急激な伸び。HNフロントページトップ2に浮上
+- **Warranty Void If Regenerated 255pts継続急伸**: AI不信第二軸の定着が明確
+- **Mistral Forge・AI coding is gambling・Snowflake Sandboxが圏外**: 前時間の高スコア記事が新鮮さを失い、新トレンドへ移行中
+
+### Falcon Platformへの示唆 (14:30)
+
+- **Cook急成長（最重要）**: Claude Code周辺エコシステムへの関心爆発。Fuyajoの「Claude Code + microVM実行基盤」という組み合わせは市場が求めているものに完全一致
+- **AI不信の長期定着**: 「gambling」「warranty void」のトレンドが1日以上維持。「信頼できる・再現可能・保証できる実行環境」の訴求は長期有効
+- **OpenAI IPO批判193pts**: 大手がビジネス化に走る中、「開発者ファースト・ミッション重視」のFuyajoポジションを確立する絶好機
+
+---
