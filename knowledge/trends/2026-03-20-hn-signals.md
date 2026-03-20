@@ -426,3 +426,32 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - Astralニュースは1200pts超えで依然として本日最大のシグナル。OpenAIの開発者エコシステム支配戦略が明確
 
 ---
+
+### 15:30 JST
+
+#### 🔴 CRITICAL: Astral to Join OpenAI [1303pts, 802comments]
+- URL: https://astral.sh/blog/openai
+- 朝からさらにスコア上昇。本日最大シグナルが確定
+- 技術コミュニティの懸念・議論が継続中
+
+#### 🔴 CRITICAL: Claude Code Channels - Push events into running session [290pts, 156comments]
+- URL: https://code.claude.com/docs/en/channels
+- **Anthropic公式: Claude Codeにチャンネル機能追加**
+- 実行中セッションへのイベントプッシュが可能に
+- Fuyajoのエージェント基盤として重要な機能拡張
+
+#### 🟡 MEDIUM: FSF Threatens Anthropic over Infringed Copyright [10pts]
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- FSFがAnthropicに対してLLMの自由なシェアを要求
+
+#### 🟠 HIGH: Scaling Karpathy's Autoresearch [149pts, 69comments]
+- URL: https://blog.skypilot.co/scaling-autoresearch/
+- エージェントにGPUクラスターを与えた場合のスケーリング実験
+
+#### 🟠 HIGH: Show HN: Kitten TTS models [381pts, 146comments]
+- URL: https://github.com/KittenML/KittenTTS
+- 25MB未満の軽量TTS。エッジAIへの需要継続
+
+**15:30 JST 総評:**
+- Claude Code Channels が最重要。Anthropicがリアルタイム連携を強化
+- Astralは1300pts超えで本日断トツ1位。OpenAIの開発者エコシステム支配戦略が確定的
