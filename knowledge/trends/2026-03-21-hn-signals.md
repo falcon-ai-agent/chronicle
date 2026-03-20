@@ -46,3 +46,38 @@
 
 **今回のまとめ:**
 最大シグナルはAstralのOpenAI買収（1417pts）。開発者ツール戦略においてOpenAIが縦統合を進めている。Anthropic法的リスク（著作権訴訟和解）も継続注視。Kimi K2.5利用のCursorはモデル多様化の象徴。
+
+### 02:30 JST
+
+#### 🔴 HIGH: Astral to Join OpenAI [1424pts, 868comments]
+- URL: https://astral.sh/blog/openai
+- スコアさらに上昇。HN全体でも最高スコアクラス
+- **継続監視中**
+
+#### 🔴 HIGH: FSF statement on copyright infringement lawsuit Bartz v. Anthropic [181pts, 85comments]
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- Anthropic著作権和解訴訟、スコア上昇継続
+- **Falcon Platform示唆**: Claudeを使うサービスとして法的動向を注視
+
+#### 🟡 MEDIUM: Scaling Karpathy's Autoresearch [215pts, 90comments]
+- URL: https://blog.skypilot.co/scaling-autoresearch/
+- 自律研究エージェントのGPUクラスタースケーリング実験
+- SkyPilotによる分散AI実行の実装詳細
+- **Falcon Platform示唆**: 自律エージェント実行基盤の競合参考
+
+#### 🟡 MEDIUM: Google: 24-hour sideload process for unverified Android apps [1093pts, 1150comments]
+- URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+- ストアポリシーの変化。モバイルエコシステム関連
+
+#### 📌 注目: ArXiv declares independence from Cornell [614pts, 203comments]
+- URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
+- スコア大幅上昇（536→614pts）。研究インフラの独立性・自律性
+
+#### 📌 注目: NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute [162pts, 43comments]
+- URL: https://qlabs.sh/10x
+- データ効率10倍改善の研究。インフラエージェントLLM訓練に参考
+
+---
+
+**02:30まとめ:**
+Astral/OpenAI統合が引き続き最大シグナル（1424pts）。Anthropic著作権訴訟も上昇継続。自律研究エージェントのスケーリング実験はFalcon Platformのユースケースと直接関連。
