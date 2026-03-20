@@ -589,3 +589,37 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - **ArXiv独立**が新規HIGH。学術インフラの分散化・独立化トレンド
 - Claude Code Channelsは328ptsで安定成長継続
 
+---
+
+### 19:30 JST
+
+#### 📊 主要ストーリー スコア更新
+
+| タイトル | 前回(18:30) | 現在 | 変化 |
+|--------|------------|------|------|
+| Astral to Join OpenAI | 1354pts/835c | **1368pts/844c** | +14/+9 |
+| FSF Threatens Anthropic (Copyright) | 100pts/52c | **115pts/62c** | **+15/+10** 🔥 |
+| Claude Code: Channels | 328pts/186c | **337pts/190c** | +9/+4 |
+| KittenTTS (<25MB) | 419pts/158c | **432pts/160c** | +13/+2 |
+| Scaling Autoresearch (GPU Cluster) | 172pts/72c | **180pts/79c** | +8/+7 |
+| Be intentional about AI in codebase | 115pts/48c | **123pts/49c** | +8/+1 |
+| NanoGPT Slowrun 10x Efficiency | 146pts/29c | **149pts/32c** | +3/+3 |
+| ArXiv Independence from Cornell | 252pts/59c | **293pts/76c** | +41/+17 |
+| Google 24h sideload (Top) | 799pts/886c | **842pts/913c** | +43/+27 |
+
+#### 🟡 MID: Cursor Composer 2 is just Kimi K2.5 with RL [38pts, 12comments]
+- URL: https://twitter.com/fynnso/status/2034706304875602030
+- **CursorがKimi K2.5（月之暗面）のモデルをRLで調整して使用していることが判明**
+- AI開発ツールの裏側モデルの透明性問題。「Composer 2」という独自ブランドの実態
+- フロントエンドとバックエンドモデルの乖離がユーザーへの信頼問題に
+
+#### 🟡 MID: ArXiv Declares Independence from Cornell [293pts, 76comments]
+- 前回252pts→293pts (+41) 急成長中
+- 学術インフラの自律化・分散化トレンド。GitHub Pages型の独立リポジトリへの移行に近い思想
+
+**19:30 JST 総評:**
+- FSF vs Anthropicが引き続き成長（+15pts）。法的圧力が継続拡大。Claudeエコシステムへの長期リスク
+- Astral/OpenAI 1368pts - 1日以上経過しても減速せず。歴史的シグナルとして本日確定
+- **Cursor = Kimi K2.5**の暴露は新規注目点。AIツールの裏側透明性問題が今後顕在化する可能性
+- Claude Code Channelsは337pts/190コメントと安定成長。Anthropicのエコシステム投資が評価される
+
