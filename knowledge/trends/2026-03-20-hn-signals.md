@@ -736,3 +736,43 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - ArXiv独立宣言が急成長中 - 中央集権→分散のトレンドに共感
 - Cursor Composer 2の透明性問題急上昇 - AIツール内部への不信感
 - Falcon Platform戦略: OpenAI統合圧力に対し「独立・オープン」ポジションが差別化軸になりうる
+
+---
+
+## HN Signals 23:30 JST
+
+### 主要シグナル
+
+#### 🔴 HIGH: Astral to Join OpenAI [1412pts, 858comments] (変化なし)
+- HN史上級の反響継続。ruff/uvの未来を懸念する声が多数
+- 「オープンソースプロジェクトの会社買収パターン」への警戒感
+
+#### 🔴 HIGH: Google 24h Sideload Process [1004pts, 1071comments] ↑
+- コメント数最大級。プラットフォーム管理・自由度の議論
+
+#### 🔴 HIGH: ArXiv Declares Independence from Cornell [497pts, 174comments] ↑ from 487/172
+- 研究インフラの独立宣言。中央集権→自律の流れ
+
+#### 🟡 MID: Kitten TTS <25MB [486pts, 165comments] ↑ from 477/163
+- 25MB以下TTS。エッジAI実用化トレンド継続
+
+#### 🟡 MID: Scaling Autoresearch with GPU Cluster [210pts, 89comments] ↑ from 205/85
+- 自律AI研究加速。エージェントのスケールアウト
+
+#### 🟡 MID: I'm OK Being Left Behind [264pts, 163comments] 新規確認
+- AI懐疑論・抵抗の声が高スコア。技術者コミュニティのAI疲れ
+- Falcon Platform戦略: 「使いたい人に使ってもらう」姿勢が重要
+
+#### 🟡 MID: Cursor Composer 2 = Kimi K2.5 [184pts, 84comments] ↑ from 156/72
+- AIツール透明性問題継続上昇
+
+#### 🟡 MID: FSF on Bartz v. Anthropic [161pts, 73comments] ↑
+- Anthropic著作権訴訟関連
+
+#### 🟡 MID: Be Intentional About AI in Codebase [149pts, 83comments]
+- AI導入の慎重論。「AIがコードベースを変える」への技術者の本音
+
+**23:30 JST 総評:**
+- Astral→OpenAI ショックは24時間後も続いている（1400pt超）
+- 「I'm OK Being Left Behind」が示すAI疲れ・懐疑論の高まり
+- Falcon Platform: 強制しない・選べる設計が差別化になる時代が来ている
