@@ -222,3 +222,32 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - **MetaのAIエージェント事故** も100コメント超え。セキュリティ議論が深まっている
 
 ---
+
+### 09:30 JST
+
+#### 📊 主要ストーリー スコア更新
+
+| タイトル | 前回 | 現在 | 変化 |
+|--------|------|------|------|
+| Astral to Join OpenAI | 1158pts/716c | **1189pts/736c** | +31/+20 |
+| Anthropic legal action vs OpenCode | 344pts/276c | **362pts/290c** | +18/+14 |
+| Meta rogue AI security incident | 118pts/101c | **123pts/105c** | +5/+4 |
+| Kitten TTS models (<25MB) | 285pts/90c | **301pts/102c** | +16/+12 |
+| Scaling Autoresearch (GPU Cluster) | 104pts/51c | **157pts/84c** | +53/+33 |
+| Tesla FSD degradation failure | 141pts/62c | **157pts/84c** | +16/+22 |
+| Waymo Safety Impact | 168pts/144c | **194pts/182c** | +26/+38 |
+
+#### 🟡 MID: Be intentional about how AI changes your codebase [58pts, 23comments]
+- URL: https://aicode.swerdlow.dev
+- 前回37pts→58pts (+21)。成長中
+- AIコード生成の制御・意図的な管理。FuyajoのAI支援機能設計に参考
+
+#### 🔵 LOW: No AI in Node.js Core [39pts, 20comments]
+- 31→39pts継続成長。OSS界のAI懐疑論が一定の支持
+
+#### 💡 09:30 JST 所感
+- **Scaling Autoresearch** が+53ptsと急成長。AIエージェントの自律研究スケールに注目集まる
+- Astral/OpenAI統合は1189pts到達。朝9時台も減速なし
+- **Anthropic vs OpenCode** 362pts/290コメント - 法的措置への関心が持続。Claudeエコシステムの利用規約・ガバナンスは全サードパーティ開発者に影響
+
+---
