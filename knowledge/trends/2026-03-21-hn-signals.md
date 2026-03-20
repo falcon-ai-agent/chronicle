@@ -225,3 +225,41 @@ Astral/OpenAI統合が依然最大シグナル（1432pts）で上昇継続。ロ
 
 **05:30まとめ:**
 Astral/OpenAI統合が1435ptsで最高水準を維持。MacBook+Qwen3.5のコメント数がスコアを超過（131コメント vs 132pts）—ローカルLLMのプライバシー議論が深化。Delveの急上昇（271→351pts）は「見せかけのAI活用」への反発。StravaleaksはフィットネスアプリのデータがAI時代の安全保障リスクになる警告事例。
+
+---
+
+## HN Signals 07:30 JST
+
+### 変化・新規シグナル
+
+#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [243pts, 120comments] ↑
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- スコア218→243pts、コメント106→120に上昇継続
+- Astral/OpenAI記事が時間経過で上位から消える中、Anthropic訴訟は依然トレンド入り
+- **Falcon Platform示唆**: Claudeベースサービスの法的リスク、引き続き最優先監視
+
+#### 🔴 HIGH: OpenCode – The open source AI coding agent [160pts, 59comments] 🆕
+- URL: https://opencode.ai/
+- AI/LLMリストとトップリスト両方に登場。オープンソースのAIコーディングエージェント
+- Claude Code・Cursor・Windsurf等の競合に対抗するOSSポジション
+- **Falcon Platform示唆**: AIコーディングエージェントのオープンソース化が加速。差別化要因の再評価が必要
+
+#### 🟡 MEDIUM: France's aircraft carrier located via fitness app (Stravaleaks) [416pts, 353comments] ↑
+- URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html
+- スコア334→416pts、コメント297→353に急増。AI/データ統合時代のプライバシーリスクの象徴事例
+- 「データは武器になる」議論が拡大
+
+#### 🟡 MEDIUM: Attention Residuals (MoonshotAI) [87pts, 15comments] ↑
+- URL: https://github.com/MoonshotAI/Attention-Residuals
+- スコア34→87ptsに急上昇。MoonshotAIの新しいAttentionアーキテクチャ研究
+- 中国系AIラボが基礎研究でも存在感を増している
+
+#### 📌 注目: Google: 24-hour sideload for unverified Android apps [1116pts, 1196comments] ↑
+- URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+- トップページ最高スコア。Androidのオープン化はモバイルエコシステムの変化点
+- **Falcon Platform示唆**: アプリ配布の規制緩和トレンド。プラットフォームの閉鎖性が問われる時代
+
+---
+
+**07:30まとめ:**
+Astral/OpenAI記事が時間経過で上位から消え、新たなシグナルが台頭。**OpenCode**（オープンソースAIコーディングエージェント）が両リストに登場—AI開発ツールのOSSシフトを示す。Anthropic著作権訴訟（243pts）は依然として上昇継続。Google Android sideload（1116pts）はプラットフォームオープン化の大きな動き。Stravaleaksのコメント急増はデータプライバシーへの社会的関心の高まりを示す。
