@@ -507,3 +507,45 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - Astralの勢いは衰えず816コメントに。HN技術者コミュニティの関心の高さが異常
 - Claude Code Channelsは310ptsに上昇。Anthropic製品への評価が高い
 - FSF vs Anthropicは注視が必要。法的インパクトがあれば業界全体に影響
+
+---
+
+### 17:30 JST
+
+#### 🔴 CRITICAL: Astral to Join OpenAI [1340pts, 828comments]
+- URL: https://astral.sh/blog/openai
+- 朝から継続上昇。1340ptsは今日最高スコア、828コメントと議論が止まらない
+- HNコミュニティの関心が異常なほど高い。技術者コミュニティへの衝撃の大きさを示す
+
+#### 🔴 CRITICAL: FSF Threatens Anthropic over Infringed Copyright [69pts, 39comments]
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- 朝の36ptsから69ptsへ急上昇。FSFがAnthropicにLLM公開を要求
+- **Anthropic直接影響**: Claude利用者・Falcon Platformにも波及リスク
+- オープンソースライセンス問題としてHN技術者が強い関心を示している
+
+#### 🟠 HIGH: Claude Code Channels - Push events into running session [319pts, 180comments]
+- URL: https://code.claude.com/docs/en/channels
+- Claude Code公式ドキュメントがHNトップ入り（16:30比+9pts）
+- リアルタイムイベントプッシュ機能 → Falcon Platform / Autopilot連携に直接活用可能
+- Claude Codeエコシステムが開発者から高評価
+
+#### 🟡 MID: KittenTTS - Three new models, smallest <25MB [413pts, 158comments]
+- URL: https://github.com/KittenML/KittenTTS
+- 25MB以下のTTSモデル。エッジAI・軽量化トレンド
+- Fuyajo VMでのローカルAI実行参考になる軽量化アプローチ
+
+#### 🟡 MID: Scaling Karpathy's Autoresearch on GPU Cluster [166pts, 70comments]
+- URL: https://blog.skypilot.co/scaling-autoresearch/
+- AIエージェントの自律研究をGPUクラスタでスケール
+- Infra Agent LLMやFuyajo AIエージェント基盤の将来像
+
+#### 🟡 MID: Be intentional about how AI changes your codebase [111pts, 45comments]
+- URL: https://aicode.swerdlow.dev
+- AIコード生成の影響を意識的に管理する論考
+- Falcon Platform利用ユーザーへの啓発コンテンツとして参考
+
+**17:30 JST 総評:**
+- Astral→OpenAI買収は1340ptsに達し今日最大のシグナル。技術者コミュニティの動揺が続く
+- FSF vs Anthropicが急上昇中。法的・ライセンス的影響を継続監視が必要
+- Claude Code Channelsへの関心が継続。Anthropicのエコシステム戦略が支持されている
+- 軽量AI（KittenTTS）トレンドはエッジ/ローカル実行の需要を示す
