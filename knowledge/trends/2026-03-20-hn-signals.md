@@ -659,3 +659,43 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - Claude Code Channels 344pts - Anthropicのエコシステム強化が技術者に評価される
 - Cursor = Kimi暴露が急成長（+57pts）- AIツール透明性問題が今後の重要テーマに
 - Falcon Platform観点: エージェントへのリアルタイムイベント注入（Channels）は実装価値高い
+
+---
+
+## HN Signals - 21:30 JST
+
+### 主要シグナル
+
+#### 🔴 HIGH: Astral to Join OpenAI [1395pts, 851comments]
+- **前回から継続** ↑ 1377→1395pts (+18). トップシグナル確定
+- OpenAIがAstral（Ruff/uv/開発者ツール）を買収。技術者コミュニティへの影響甚大
+- HNコメントは850+と爆発的議論継続
+
+#### 🔴 HIGH: Google 24h Sideload Process [921pts, 988comments]
+- **新規** Androidアプリのサイドロード検証プロセス変更
+- コメント数988はHN史上最高クラス。プラットフォーム管理・セキュリティの大問題
+
+#### 🟡 MID: ArXiv Declares Independence from Cornell [394pts, 120comments]
+- **新規** 学術インフラの独立宣言。研究コミュニティへの影響大
+- AI研究の発信基盤に変化の可能性
+
+#### 🟡 MID: FSF on Bartz v. Anthropic [140pts, 68comments] ↑ from 127/64
+- Anthropic関連法的問題継続。OSS界とLLMの著作権問題
+
+#### 🟡 MID: Cursor Composer 2 = Kimi K2.5 with RL [122pts, 57comments] ↑ from 95/46
+- 継続上昇。AIツールの中身透明性問題がコミュニティで議論継続
+
+#### 🟡 MID: Kitten TTS <25MB [465pts, 163comments] ↑ from 448/163
+- 小幅上昇。小型TTS実用化トレンド継続
+
+#### 🟢 LOW: Scaling Autoresearch with GPU Cluster [195pts, 83comments]
+- 自律AIエージェント研究加速。Falcon Platform方向性を支持
+
+#### 🟢 LOW: Azure Sign-In Log Bypass [180pts, 48comments]
+- **新規** Azure 4件目のログバイパス脆弱性。クラウドセキュリティ問題
+
+**21:30 JST 総評:**
+- Astral/OpenAI 継続1位。開発ツールエコシステムへのOpenAI浸透が加速
+- Androidサイドロード問題が爆発的コメント（988）- プラットフォーム管理の難しさは普遍的
+- ArXiv独立宣言 - 技術インフラの非中央集権化トレンド
+- Falcon Platform観点: OpenAIが開発ツールに進出するほど、独立プラットフォームの差別化が重要に
