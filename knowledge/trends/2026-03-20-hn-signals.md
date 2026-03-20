@@ -328,6 +328,42 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 
 ---
 
+### 13:30 JST
+
+#### 📊 主要ストーリー スコア更新
+
+| タイトル | 前回 | 現在 | 変化 |
+|--------|------|------|------|
+| Astral to Join OpenAI | 1253pts/774c | **1280pts/784c** | +27/+10 |
+| Anthropic legal action vs OpenCode | 391pts/318c | **400pts/323c** | +9/+5 |
+| Kitten TTS models (<25MB) | 343pts/123c | **358pts/138c** | +15/+15 |
+| **Claude Code: Channels** | 198pts/112c | **232pts/128c** | **+34/+16** 🔥 |
+| Tesla FSD degradation failure | 166pts/95c | **172pts/97c** | +6/+2 |
+| Scaling Autoresearch (GPU Cluster) | 132pts/61c | **135pts/62c** | +3/+1 |
+| Be intentional about AI in codebase | 70pts/28c | **86pts/29c** | +16/+1 |
+| Google 24h sideload process | - | **606pts/685c** | 継続トップ |
+
+#### 🟡 MID: EsoLang-Bench: Evaluating Genuine Reasoning in LLMs [76pts, 37comments]
+- URL: https://esolang-bench.vercel.app/
+- 前回72pts→76pts。難読言語でLLMの真の推論能力を測定
+- LLMの「暗記vs推論」の境界を明確化するアプローチ
+
+#### 🟡 MID: NanoGPT Slowrun: 10x Data Efficiency [113pts, 22comments]
+- URL: https://qlabs.sh/10x
+- 107→113pts継続成長。Infra Agent LLM開発に参考
+
+#### 🔵 LOW: Thoughts on OpenAI acquiring Astral [32pts, 12comments]
+- URL: https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/
+- Simon Willisonによる考察。OSSの独立性とOpenAI傘下化への懸念
+- Astral本体の記事（1280pts）への補足的視点
+
+#### 💡 13:30 JST 所感
+- **Claude Code Channels** が+34ptsで急成長継続（232pts/128コメント）。TOP10に入り依然加速中。Anthropicのマルチエージェント基盤強化が本日の重要テーマ
+- **Anthropic vs OpenCode** は400pts到達。ただし成長は鈍化（+9pts）。法的措置への初期の驚きが落ち着きつつある
+- **Google 24h sideload** が606pts/685コメントでHN上位に。プラットフォームガバナンス強化はAI・モバイル・OSS全域で同時進行
+
+---
+
 ## 11:30 JST Update
 
 ### スコア推移（継続追跡）
