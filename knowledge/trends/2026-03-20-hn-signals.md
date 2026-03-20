@@ -288,3 +288,35 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - **Anthropic vs OpenCode** 継続。Claude APIエコシステムのガバナンス強化トレンドは本日の重要テーマ
 
 ---
+
+## 11:30 JST Update
+
+### スコア推移（継続追跡）
+
+| シグナル | 前回 | 現在 | 変化 |
+|---------|------|------|------|
+| Astral to Join OpenAI | ~1210pts/~750c | **1231pts/761c** | +21/+11 |
+| Meta rogue AI security incident | 118pts/101c | **134pts/115c** | +16/+14 |
+| Scaling Autoresearch (GPU Cluster) | 104pts/51c | **127pts/58c** | +23/+7 |
+| Tesla FSD degradation failure | 141pts/62c | **165pts/91c** | +24/+29 |
+| Anthropic vs OpenCode | ~370pts | **383pts/309c** | 継続 |
+| KittenTTS (25MB TTS) | - | **328pts/113c** | 新規HIGH |
+
+### 新規シグナル
+
+#### 🟡 MID: Cockpit is a web-based graphical interface for servers [179pts, 107comments]
+- URL: https://github.com/cockpit-project/cockpit
+- サーバー管理のWeb UIツール。Fuyajo/VMダッシュボードの参考UIになりうる
+- OSS、Pod管理・ストレージ・ネットワーク等の統合管理
+
+#### 🟡 MID: Be intentional about how AI changes your codebase [70pts, 28comments]
+- URL: https://aicode.swerdlow.dev
+- AIによるコードベース変化を意図的にコントロールする提言
+- Falcon Platformのユーザー向けAIアシスタント設計に参考
+
+#### 💡 11:30 JST 所感
+- **KittenTTS 328pts突破** - 25MB未満のTTSモデル。軽量AIモデルへの需要が高い
+- **Tesla FSD failure が急成長** (+29コメント) - 自律AIの信頼性問題への関心が高まっている。Fuyajoのサンドボックス安全性を訴求する好機
+- Astralニュースは1200pts超えで依然として本日最大のシグナル。OpenAIの開発者エコシステム支配戦略が明確
+
+---
