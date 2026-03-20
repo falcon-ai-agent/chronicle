@@ -82,23 +82,19 @@
 **02:30まとめ:**
 Astral/OpenAI統合が引き続き最大シグナル（1424pts）。Anthropic著作権訴訟も上昇継続。自律研究エージェントのスケーリング実験はFalcon Platformのユースケースと直接関連。
 
----
+### 03:30 JST
 
-## HN Signals 03:30 JST
-
-### 変化・新規シグナル
-
-#### 🔴 HIGH: Astral to Join OpenAI [1427pts, 870comments] ↑
+#### 🔴 HIGH: Astral to Join OpenAI [1427pts, 870comments]
 - URL: https://astral.sh/blog/openai
 - スコア1427pts、前回比でさらに上昇。HN史上最高クラスの反応継続
 - **Falcon Platform示唆**: Pythonツールチェーン（uv/ruff）がOpenAIエコシステムに統合
 
-#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [187pts, 93comments] ↑
+#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [187pts, 93comments]
 - URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
 - スコア上昇継続（181→187pts）。著作権和解訴訟への注目続く
 - **Falcon Platform示唆**: Claudeサービス展開における法的リスク注視
 
-#### 🟡 MEDIUM: Scaling Karpathy's Autoresearch (GPU cluster) [216pts, 91comments] ↑
+#### 🟡 MEDIUM: Scaling Karpathy's Autoresearch (GPU cluster) [216pts, 91comments]
 - URL: https://blog.skypilot.co/scaling-autoresearch/
 - 自律研究エージェントのスケーリング。スコア216ptsに上昇
 - **Falcon Platform示唆**: 自律エージェント実行基盤の実装参考
@@ -108,17 +104,9 @@ Astral/OpenAI統合が引き続き最大シグナル（1424pts）。Anthropic著
 - ローカルLLMを使ったセキュリティシステム。コメント多め（プライバシー・コスト議論）
 - **Falcon Platform示唆**: ローカルLLM活用ユースケースの一例
 
-#### 🟡 MEDIUM: Google Search using AI to replace headlines [31pts, 8comments]
-- URL: https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment
-- Googleがニュース見出しをAI生成に置き換えるテスト。メディア業界への影響
-
-#### 📌 注目: ArXiv declares independence from Cornell [634pts, 214comments] ↑
+#### 📌 注目: ArXiv declares independence from Cornell [634pts, 214comments]
 - URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
 - 急上昇（614→634pts）。研究インフラの自律化・独立性への注目
-
-#### 📌 注目: NanoGPT Slowrun: 10x Data Efficiency [163pts, 44comments] ↑
-- URL: https://qlabs.sh/10x
-- データ効率10倍。Infra Agent LLM訓練に参考
 
 #### 📌 注目: Super Micro Shares Plunge 25% ($2.5B AI chip smuggling) [166pts, 79comments]
 - URL: https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/
@@ -129,99 +117,101 @@ Astral/OpenAI統合が引き続き最大シグナル（1424pts）。Anthropic著
 **03:30まとめ:**
 Astral/OpenAI統合が依然として最大シグナル（1427pts）。ArXivの独立宣言も急上昇中（634pts）。ローカルLLMセキュリティ活用、AI見出し生成など実用事例も増加。Anthropic著作権訴訟は継続監視。
 
----
+### 04:30 JST
 
-## HN Signals 04:30 JST
-
-### 変化・新規シグナル
-
-#### 🔴 HIGH: Astral to Join OpenAI [1432pts, 871comments] ↑
+#### 🔴 HIGH: Astral to Join OpenAI [1432pts, 871comments]
 - URL: https://astral.sh/blog/openai
 - スコア1432ptsに到達。HN史上最高クラスの継続的反応
 - **Falcon Platform示唆**: 開発者ツールのOpenAIへの垂直統合が加速
 
-#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [198pts, 102comments] ↑
+#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [198pts, 102comments]
 - URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
 - スコア187→198pts、コメント93→102に上昇
 - **Falcon Platform示唆**: Claudeベースサービスの法的リスク継続監視
 
-#### 🟡 MEDIUM: Scaling Karpathy's Autoresearch (GPU cluster) [219pts, 91comments] ↑
-- URL: https://blog.skypilot.co/scaling-autoresearch/
-- 216→219ptsに微増。自律エージェント実行基盤の実装参考
-
-#### 🟡 MEDIUM: MacBook M5 Pro + Qwen3.5 = Local AI Security System [103pts, 104comments] ↑
+#### 🟡 MEDIUM: MacBook M5 Pro + Qwen3.5 = Local AI Security System [103pts, 104comments]
 - URL: https://www.sharpai.org/benchmark/
 - スコア75→103pts、コメント91→104に急増
 - プライバシーを重視したローカルLLM活用の議論が活発化
 
-#### 🟡 MEDIUM: NanoGPT Slowrun: 10x Data Efficiency [164pts, 44comments] ↑
-- URL: https://qlabs.sh/10x
-- 163→164ptsに微増。Infra Agent LLM訓練の参考
-
-#### 📌 注目: ArXiv declares independence from Cornell [650pts, 221comments] ↑
-- URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
-- 634→650ptsに上昇。研究インフラ自律化への関心継続
-
-#### 📌 注目: Delve – Fake Compliance as a Service [271pts, 92comments] 🆕
+#### 📌 注目: Delve – Fake Compliance as a Service [271pts, 92comments]
 - URL: https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service
 - コンプライアンス形式主義を批判する記事。AIツール導入時の形式的対応への皮肉
 - **Falcon Platform示唆**: ユーザーが真に価値を得るプロダクト設計が重要
 
-#### 📌 注目: Wikipedia RFC on banning LLM contributions [8pts, 0comments] 🆕
+#### 📌 注目: Wikipedia RFC on banning LLM contributions
 - URL: https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models/RfC
-- スコアは低いがLLMコンテンツの信頼性問題の象徴的動き
-- 知識コモンズへのAI影響についての議論が本格化
+- LLMコンテンツの信頼性問題。知識コモンズへのAI影響についての議論が本格化
 
 ---
 
 **04:30まとめ:**
-Astral/OpenAI統合が依然最大シグナル（1432pts）で上昇継続。ローカルLLM（MacBook + Qwen3.5）のコメント急増はプライバシー重視ユーザー層の関心を示す。WikipediaのLLMコンテンツ禁止RFC（スコア低いが）は知識信頼性問題の先端。Anthropic著作権訴訟も上昇継続。
+Astral/OpenAI統合が依然最大シグナル（1432pts）で上昇継続。ローカルLLM（MacBook + Qwen3.5）のコメント急増はプライバシー重視ユーザー層の関心を示す。WikipediaのLLMコンテンツ禁止RFCは知識信頼性問題の先端。
 
----
+### 05:30 JST
 
-## HN Signals 05:30 JST
-
-### 変化・新規シグナル
-
-#### 🔴 HIGH: Astral to Join OpenAI [1435pts, 873comments] ↑
+#### 🔴 HIGH: Astral to Join OpenAI [1435pts, 873comments]
 - URL: https://astral.sh/blog/openai
 - スコア1435ptsに到達。24時間以上にわたり最高スコアを維持
 - **Falcon Platform示唆**: 開発者ツールのOpenAI垂直統合は加速する一方
 
-#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [218pts, 106comments] ↑
+#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [218pts, 106comments]
 - URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
-- スコア198→218pts、コメント102→106に上昇継続
+- スコア198→218pts。Anthropic著作権訴訟への関心継続
 - **Falcon Platform示唆**: Claudeベースサービスの法的リスク継続監視
 
-#### 🟡 MEDIUM: Scaling Karpathy's Autoresearch (GPU cluster) [221pts, 93comments] ↑
-- URL: https://blog.skypilot.co/scaling-autoresearch/
-- 219→221ptsに微増。自律エージェント+GPU分散実行の参考
-
-#### 🟡 MEDIUM: MacBook M5 Pro + Qwen3.5 = Local AI Security System [132pts, 131comments] ↑
+#### 🟡 MEDIUM: MacBook M5 Pro + Qwen3.5 = Local AI Security System [132pts, 131comments]
 - URL: https://www.sharpai.org/benchmark/
-- コメント104→131に急増（コメント数がスコアを上回る）
-- プライバシーとセキュリティをめぐる議論が活発化
+- コメント数がスコアを上回る（131コメント vs 132pts）
+- プライバシーとセキュリティをめぐる議論が深化
 
-#### 🟡 MEDIUM: Delve – Fake Compliance as a Service [351pts, 119comments] ↑
+#### 🟡 MEDIUM: Delve – Fake Compliance as a Service [351pts, 119comments]
 - URL: https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service
 - 271→351ptsに急上昇。形式的コンプライアンスへの批判が共感を呼ぶ
 - **Falcon Platform示唆**: ユーザーに真の価値を提供する設計が競合優位に
 
-#### 📌 注目: Wikipedia RFC on banning LLM contributions [18pts, 0comments] ↑
-- URL: https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models/RfC
-- スコア8→18pts。LLMコンテンツの信頼性・知識汚染問題が注目され始めた
-
-#### 📌 注目: France's aircraft carrier located via fitness app [334pts, 297comments] 🆕
+#### 📌 注目: France's aircraft carrier located via fitness app [334pts, 297comments]
 - URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html
-- フィットネスアプリ（Strava）経由で空母の位置が特定される「Stravaleaks」
-- AI・データ集約時代のプライバシーリスクの象徴的事例
-
-#### 📌 注目: Attention Residuals (MoonshotAI) [34pts, 7comments] 🆕
-- URL: https://github.com/MoonshotAI/Attention-Residuals
-- MoonshotAIによる新しいAttentionアーキテクチャ研究
-- LLMアーキテクチャの改善研究が継続
+- Strava経由で空母の位置が特定される「Stravaleaks」。AI時代のプライバシーリスクの象徴
 
 ---
 
 **05:30まとめ:**
-Astral/OpenAI統合が1435ptsで最高水準を維持。MacBook+Qwen3.5のコメント数がスコアを超過（131コメント vs 132pts）—ローカルLLMのプライバシー議論が深化。Delveの急上昇（271→351pts）は「見せかけのAI活用」への反発。StravaleaksはフィットネスアプリのデータがAI時代の安全保障リスクになる警告事例。
+Astral/OpenAI統合が1435ptsで最高水準を維持。MacBook+Qwen3.5のコメント数がスコアを超過—ローカルLLMのプライバシー議論が深化。Delveの急上昇（271→351pts）は「見せかけのAI活用」への反発。
+
+### 06:30 JST
+
+#### 🔴 HIGH: Astral to Join OpenAI [1437pts, 873comments]
+- URL: https://astral.sh/blog/openai
+- 終日トップ。スコアは1437まで上昇し安定
+- HNコミュニティの関心が持続していることを確認
+
+#### 🔴 HIGH: FSF statement on copyright infringement lawsuit Bartz v. Anthropic [231pts, 110comments]
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- スコア継続上昇（181→231pts）。コミュニティの関心が高い
+- **Falcon Platform示唆**: Anthropicの法的リスクは中長期で注視
+
+#### 🔴 HIGH: Google details new 24-hour process to sideload unverified Android apps [1114pts, 1189comments]
+- URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+- スコア高止まり。プラットフォーム管理・配布の議論継続
+
+#### 🟡 MEDIUM: MacBook M5 Pro and Qwen3.5 = Local AI Security System [143pts, 138comments]
+- URL: https://www.sharpai.org/benchmark/
+- M5 Pro + Qwen3.5でローカルAIセキュリティカメラシステム
+- エッジAIの実用化事例。LLMのローカル推論コスト低下が実感できる
+- **Falcon Platform示唆**: ローカルLLM活用の具体例。インフラエージェントLLM研究と関連
+
+#### 🟡 MEDIUM: HP trialed mandatory 15-minute support call wait times [289pts, 184comments]
+- URL: https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/
+- 意図的な不便さでユーザーを諦めさせるダークパターン
+- AIサポート代替を正当化する事例
+
+#### 📌 注目: OpenCode – The open source AI coding agent [10pts, 1comments]
+- URL: https://opencode.ai/
+- オープンソースAIコーディングエージェント。まだ初期段階
+- **Falcon Platform示唆**: AI coding agent市場の競合動向
+
+---
+
+**06:30まとめ:**
+Astral/OpenAI（1437pts）とGoogle Android sideload（1114pts）が2大シグナル。Anthropic著作権訴訟は231ptsまで上昇し関心継続。ローカルAI（Qwen3.5+M5 Pro）の実用事例は、インフラエージェントLLM研究（Qwen2.5-3Bベース）と合致するトレンド。
