@@ -128,3 +128,51 @@ Astral/OpenAI統合が引き続き最大シグナル（1424pts）。Anthropic著
 
 **03:30まとめ:**
 Astral/OpenAI統合が依然として最大シグナル（1427pts）。ArXivの独立宣言も急上昇中（634pts）。ローカルLLMセキュリティ活用、AI見出し生成など実用事例も増加。Anthropic著作権訴訟は継続監視。
+
+---
+
+## HN Signals 04:30 JST
+
+### 変化・新規シグナル
+
+#### 🔴 HIGH: Astral to Join OpenAI [1432pts, 871comments] ↑
+- URL: https://astral.sh/blog/openai
+- スコア1432ptsに到達。HN史上最高クラスの継続的反応
+- **Falcon Platform示唆**: 開発者ツールのOpenAIへの垂直統合が加速
+
+#### 🔴 HIGH: FSF statement on Bartz v. Anthropic [198pts, 102comments] ↑
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- スコア187→198pts、コメント93→102に上昇
+- **Falcon Platform示唆**: Claudeベースサービスの法的リスク継続監視
+
+#### 🟡 MEDIUM: Scaling Karpathy's Autoresearch (GPU cluster) [219pts, 91comments] ↑
+- URL: https://blog.skypilot.co/scaling-autoresearch/
+- 216→219ptsに微増。自律エージェント実行基盤の実装参考
+
+#### 🟡 MEDIUM: MacBook M5 Pro + Qwen3.5 = Local AI Security System [103pts, 104comments] ↑
+- URL: https://www.sharpai.org/benchmark/
+- スコア75→103pts、コメント91→104に急増
+- プライバシーを重視したローカルLLM活用の議論が活発化
+
+#### 🟡 MEDIUM: NanoGPT Slowrun: 10x Data Efficiency [164pts, 44comments] ↑
+- URL: https://qlabs.sh/10x
+- 163→164ptsに微増。Infra Agent LLM訓練の参考
+
+#### 📌 注目: ArXiv declares independence from Cornell [650pts, 221comments] ↑
+- URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
+- 634→650ptsに上昇。研究インフラ自律化への関心継続
+
+#### 📌 注目: Delve – Fake Compliance as a Service [271pts, 92comments] 🆕
+- URL: https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service
+- コンプライアンス形式主義を批判する記事。AIツール導入時の形式的対応への皮肉
+- **Falcon Platform示唆**: ユーザーが真に価値を得るプロダクト設計が重要
+
+#### 📌 注目: Wikipedia RFC on banning LLM contributions [8pts, 0comments] 🆕
+- URL: https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models/RfC
+- スコアは低いがLLMコンテンツの信頼性問題の象徴的動き
+- 知識コモンズへのAI影響についての議論が本格化
+
+---
+
+**04:30まとめ:**
+Astral/OpenAI統合が依然最大シグナル（1432pts）で上昇継続。ローカルLLM（MacBook + Qwen3.5）のコメント急増はプライバシー重視ユーザー層の関心を示す。WikipediaのLLMコンテンツ禁止RFC（スコア低いが）は知識信頼性問題の先端。Anthropic著作権訴訟も上昇継続。
