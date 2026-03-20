@@ -364,6 +364,37 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 
 ---
 
+### 14:30 JST
+
+#### 📊 主要ストーリー スコア更新
+
+| タイトル | 前回(13:30) | 現在 | 変化 |
+|--------|------------|------|------|
+| Astral to Join OpenAI | 1280pts/784c | **1293pts/796c** | +13/+12 |
+| Anthropic vs OpenCode | 400pts/323c | **407pts/326c** | +7/+3 |
+| KittenTTS (<25MB) | 358pts/138c | **367pts/140c** | +9/+2 |
+| **Claude Code: Channels** | 232pts/128c | **265pts/144c** | **+33/+16** 🔥 |
+| Google 24h sideload | 606pts/685c | **641pts/711c** | +35/+26 |
+| Tesla FSD degradation failure | 172pts/97c | **176pts/102c** | +4/+5 |
+| Scaling Autoresearch (GPU Cluster) | 135pts/62c | **145pts/66c** | +10/+4 |
+| Be intentional about AI in codebase | 86pts/29c | **96pts/35c** | +10/+6 |
+
+#### 🟡 MID: Cockpit web-based server UI [213pts, 125comments]
+- URL: https://github.com/cockpit-project/cockpit
+- サーバー管理の統合WebUI（Pod/Storage/Network等）。191→213pts継続成長
+- FuyajoダッシュボードのUI/UX設計参考
+
+#### 🟡 MID: NanoGPT Slowrun 10x Data Efficiency [120pts, 25comments]
+- URL: https://qlabs.sh/10x
+- 113→120pts継続成長。Infra Agent LLM開発に参考
+
+#### 💡 14:30 JST 所感
+- **Claude Code Channels が265pts** - 13:30から+33pts継続急成長。Anthropicのマルチエージェント基盤強化は本日の最重要技術トレンド
+- **Google 24h sideload 641pts/711コメント** が急成長。プラットフォームガバナンス強化の波はAI・モバイル・OSS全域で同時進行
+- Astral/OpenAI統合は1293pts。24時間以上経過しても最大シグナルとして君臨
+
+---
+
 ## 11:30 JST Update
 
 ### スコア推移（継続追跡）
