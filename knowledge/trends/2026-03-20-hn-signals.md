@@ -455,3 +455,55 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 **15:30 JST 総評:**
 - Claude Code Channels が最重要。Anthropicがリアルタイム連携を強化
 - Astralは1300pts超えで本日断トツ1位。OpenAIの開発者エコシステム支配戦略が確定的
+
+---
+
+## HN Signals 16:30 JST
+
+### High Priority
+
+**1. Astral to Join OpenAI** [1321pts, 816comments]
+- URL: https://astral.sh/blog/openai
+- 引き続き本日トップ。コメント816件と議論継続中
+- Falconへの示唆: OpenAIの開発者ツール囲い込みが加速。uv/ruffユーザーがOpenAI寄りになる可能性
+
+**2. Push events into a running session with channels** [310pts, 171comments]
+- URL: https://code.claude.com/docs/en/channels
+- Claude Codeのchannels機能が引き続き注目。スコア310に上昇
+- Falconへの示唆: Claude Codeがリアルタイム双方向通信を実現。エージェント連携の新パターン
+
+**3. Show HN: Three new Kitten TTS models – smallest less than 25MB** [398pts, 153comments]
+- URL: https://github.com/KittenML/KittenTTS
+- 軽量TTS。エッジ/ローカルAI推論のトレンド継続
+
+### Medium Priority
+
+**4. Be intentional about how AI changes your codebase** [105pts, 42comments]
+- URL: https://aicode.swerdlow.dev
+- AI導入によるコードベース変化への意図的な管理。開発者の現実的な悩み
+
+**5. Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster** [159pts, 69comments]
+- URL: https://blog.skypilot.co/scaling-autoresearch/
+- AIエージェントに計算資源を与えたときのスケーリング研究
+
+**6. Cockpit: web-based graphical interface for servers** [240pts, 135comments]
+- URL: https://github.com/cockpit-project/cockpit
+- サーバーWeb UI。Fuyajo appアプリの参考になりうる
+
+**7. FSF Threatens Anthropic over Infringed Copyright** [36pts, 42comments]
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- FSFがAnthropicに著作権侵害でLLM公開を要求。法的リスク注視
+
+### Low Priority
+
+**8. ArXiv Declares Independence from Cornell** [161pts, 33comments]
+- プレプリントサーバーの独立。学術界の変化
+
+**9. NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute** [135pts, 28comments]
+- URL: https://qlabs.sh/10x
+- 計算効率化研究
+
+**16:30 JST 総評:**
+- Astralの勢いは衰えず816コメントに。HN技術者コミュニティの関心の高さが異常
+- Claude Code Channelsは310ptsに上昇。Anthropic製品への評価が高い
+- FSF vs Anthropicは注視が必要。法的インパクトがあれば業界全体に影響
