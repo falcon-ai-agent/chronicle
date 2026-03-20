@@ -549,3 +549,43 @@ Astral/OpenAI統合は24時間経過しても1122pts/700コメントと異常な
 - FSF vs Anthropicが急上昇中。法的・ライセンス的影響を継続監視が必要
 - Claude Code Channelsへの関心が継続。Anthropicのエコシステム戦略が支持されている
 - 軽量AI（KittenTTS）トレンドはエッジ/ローカル実行の需要を示す
+
+---
+
+### 18:30 JST
+
+#### 📊 主要ストーリー スコア更新
+
+| タイトル | 前回(17:30) | 現在 | 変化 |
+|--------|------------|------|------|
+| Astral to Join OpenAI | 1340pts/828c | **1354pts/835c** | +14/+7 |
+| FSF Threatens Anthropic (Copyright) | 69pts/39c | **100pts/52c** | **+31/+13** 🔥 |
+| Claude Code: Channels | 319pts/180c | **328pts/186c** | +9/+6 |
+| KittenTTS (<25MB) | 413pts/158c | **419pts/158c** | +6/0 |
+| Scaling Autoresearch (GPU Cluster) | 166pts/70c | **172pts/72c** | +6/+2 |
+| Be intentional about AI in codebase | 111pts/45c | **115pts/48c** | +4/+3 |
+| NanoGPT Slowrun 10x Efficiency | 135pts/28c | **146pts/29c** | +11/+1 |
+| Google 24h sideload (Top) | - | **799pts/886c** | トップ継続 |
+
+#### 🟠 HIGH: ArXiv Declares Independence from Cornell [252pts, 59comments]
+- URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
+- **arXivがCornell大学から独立**。学術プレプリントサーバーのガバナンス転換
+- 学術インフラの集権→分散化の流れ。OSSコミュニティへの影響注目
+
+#### 🟠 HIGH: FSF Threatens Anthropic 急成長 [100pts, 52comments]
+- URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+- 17:30から+31ptsと急成長。100pts突破
+- FSFがAnthropicに著作権侵害としてLLMの自由なシェアを要求
+- **Anthropic直接影響**: Claude利用者・Falcon Platformにも法的リスク波及の可能性
+- オープンソースコミュニティの反応が拡大中
+
+#### 🔵 LOW: Canary (YC W26) – AI QA that understands your code [53pts, 20comments]
+- コードを理解するAI QAツール（YC W26）
+- Fuyajoのコード品質機能の競合・参考事例
+
+**18:30 JST 総評:**
+- **FSF vs Anthropic** が100pts突破・急成長。Claude/Anthropicへの法的圧力が拡大中。Falcon PlatformのClaude依存リスクとして注視必要
+- Astral/OpenAIは1354pts。ペースは落ちたが依然本日最大シグナル
+- **ArXiv独立**が新規HIGH。学術インフラの分散化・独立化トレンド
+- Claude Code Channelsは328ptsで安定成長継続
+
