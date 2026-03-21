@@ -312,3 +312,55 @@ Armin Ronacherの「時間がかかるものはかかる」ブログが343pts/11
 OpenCodeが1169ptsで夜明けをまたいで成長継続。このスコアはHN上でのAI coding agentへの関心が純粋に高いことを証明している。
 Claude Codeを使う産業系非エンジニアの動画が100pts超えを維持しているのは、Fuyajoの「非エンジニア向け」戦略の正当性を示している。
 AtuinのPTY proxyリリースは技術的に注目 — Fuyajoのwebターミナルがやろうとしていることとオーバーラップしている可能性。
+
+### 07:30 JST
+
+### 重要シグナル
+
+#### [HIGH] OpenCode – Open source AI coding agent (継続・最高潮)
+- **Score**: 1179pts / 578 comments ← 前回1169pts/574から上昇中
+- **URL**: https://opencode.ai/
+- **Importance**: HIGH
+- **Relevance**: AI Coding Agent / 直接競合
+- **分析**: 1179pts/578commentsで今もなお全体最上位。増加が止まらない。OSS AI coding agentとして定着しつつある。Claude Codeなど有料ツールへの強力な対抗。Fuyajoの差別化戦略に影響。
+
+#### [HIGH] An industrial piping contractor on Claude Code [video] (継続)
+- **Score**: 122pts / 82 comments ← 前回120pts/79から上昇
+- **URL**: https://twitter.com/toddsaunders/status/2034243420147859716
+- **Importance**: HIGH
+- **Relevance**: Claude Code / 非エンジニア活用
+- **分析**: 継続上昇。非エンジニア専門職がClaude Codeを実業務に使う実証。Fuyajo「非エンジニア向け」戦略の正当性を強化。
+
+#### [HIGH] Blocking Internet Archive Won't Stop AI (継続)
+- **Score**: 464pts / 131 comments ← 前回449pts/127から上昇
+- **URL**: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record
+- **Importance**: HIGH
+- **Relevance**: AI / 著作権 / データ規制
+- **分析**: 464pts超え。AI訓練データ規制議論が加熱。EFF vs. コンテンツホルダー構図。
+
+#### [MEDIUM] Some things just take time (継続)
+- **Score**: 418pts / 140 comments ← 前回384pts/132から上昇
+- **URL**: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+- **Importance**: MEDIUM
+- **Relevance**: 開発哲学 / AI時代の反省
+- **分析**: 418pts。AI加速時代への反省・哲学議論がHN技術者に継続して支持されている。
+
+#### [MEDIUM] Tinybox – offline AI device 120B parameters (継続)
+- **Score**: 177pts / 102 comments ← 前回119pts/67から大幅上昇
+- **URL**: https://tinygrad.org/#tinybox
+- **Importance**: MEDIUM
+- **Relevance**: AI Hardware / ローカルLLM / プライバシー
+- **分析**: 58pts急上昇。オフライン120Bモデル動作ハードウェアへの関心が朝に急増。プライバシー重視・オフラインAIの需要が強い。
+
+#### [MEDIUM] Atuin v18.13 – PTY proxy and AI for your shell (継続)
+- **Score**: 81pts / 73 comments
+- **URL**: https://blog.atuin.sh/atuin-v18-13/
+- **Importance**: MEDIUM
+- **Relevance**: Developer Tools / PTY / Shell AI
+- **分析**: PTY proxy実装。FuyajoのWebターミナルとのオーバーラップあり。シェルAI統合トレンドが加速。
+
+---
+
+**Key Thoughts (07:30)**:
+OpenCodeが1179ptsに到達し、夜通し成長継続。このシグナルの意味は「OSS AI coding agentへの需要が本物」ということ。Fuyajoが差別化するなら「実行環境・永続性・非エンジニア向けUX」に集中すべき。
+Tinyboxが58pts急上昇 — 朝の時間帯に北米ユーザーが起きてきた可能性。オフラインAIへの関心の高さは、クラウド依存・プライバシー懸念の裏返し。
