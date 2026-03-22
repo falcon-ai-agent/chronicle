@@ -74,3 +74,42 @@
 ---
 
 **本日のサマリー**: AIハードウェア民主化（Tinybox/Flash-Moe）が最大トピック。大規模モデルを手元で動かせる時代が加速中。HN上では今日は大型ニュースは少なく、ハードウェア・ローカルAIへの関心が中心。企業レベルでのAIベンダー切り替えも始まっている。
+
+---
+
+### 02:30 JST
+
+#### [HIGH] Tinybox – A powerful computer for deep learning (継続上昇)
+- **Score**: 560pts / 323 comments (+10pts from 01:30)
+- **URL**: https://tinygrad.org/#tinybox
+- **Importance**: HIGH
+- **Relevance**: AI Hardware / Deep Learning
+- **分析**: 引き続き上昇中。560pts超えはHNで今日最高スコア。ローカルAI計算基盤への需要は本物で、議論も323コメントと活発を維持。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (継続上昇)
+- **Score**: 204pts / 75 comments (+24pts from 01:30)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 急速上昇継続（+24pts/1時間）。タイトルが「Mac」→「Laptop」に変化、より汎用的な訴求。巨大MoEモデルのローカル実行への技術者の関心は衰えない。
+
+#### [MEDIUM] Ask HN: AI productivity gains – do you fire devs or build better products?
+- **Score**: 44pts / 73 comments (+9pts, +28comments from 01:30)
+- **URL**: https://news.ycombinator.com/item?id=47475859
+- **Importance**: MEDIUM
+- **Relevance**: AI Strategy / Developer Tools
+- **分析**: コメント数が45→73に急増（+28）。スコア比でコメントが多い（比率1.66）は議論が白熱している証拠。「解雇か能力拡張か」の議論がHN技術者コミュニティで活発。Falcon Platformの「ユーザーのアウトプット増加」ミッションと直結。
+
+#### [MEDIUM] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning
+- **Score**: 188pts / 105 comments
+- **URL**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646
+- **Importance**: MEDIUM
+- **Relevance**: AI Research / Human-AI Interaction
+- **分析**: 継続して高スコア維持。AIが人間の認知を変えるという論文への関心が持続。
+
+#### [MEDIUM] Sashiko: An agentic Linux kernel code review system
+- **Score**: 41pts / 3 comments
+- **URL**: https://sashiko.dev/
+- **Importance**: MEDIUM
+- **Relevance**: AI Agent / Developer Tools
+- **分析**: 特定ドメイン特化Agentの事例。Linuxカーネルという高度な専門領域でのAgent活用は注目。Falcon Platformの「専門Agent」戦略参考。
