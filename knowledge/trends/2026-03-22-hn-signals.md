@@ -1290,4 +1290,53 @@ OpenCode 1222pts・Tinybox 517pts・「Some things just take time」744ptsのト
 OSS AIコーディングエージェントへの圧倒的支持（OpenCode）、ローカル深層学習ハードウェア（Tinybox）、AI加速への哲学的抵抗（Armin Ronacher）という三角形が本日のHN民の本音を象徴。
 Falcon Platformへの示唆：ローカル・オフライン・低コストという軸は引き続き有効。OSSコミュニティとの共存戦略も検討価値あり。
 
+## 22:30 JST チェック
+
+### 注目シグナル
+
+#### [HIGH] Tinybox – A powerful computer for deep learning（528pts）
+- **Score**: 528pts / 298 comments（前回比+23pts）
+- **URL**: https://tinygrad.org/#tinybox
+- **Importance**: HIGH
+- **Relevance**: ローカルAI実行環境 / ハードウェア
+- **分析**: スコアが更に上昇。日中通じて継続的な関心。ローカルAIコンピューティングへの需要が確実に存在する。
+
+#### [MEDIUM] Thinking Fast, Slow, and Artificial（171pts）
+- **Score**: 171pts / 98 comments
+- **URL**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646
+- **Importance**: MEDIUM
+- **Relevance**: AI/人間認知
+- **分析**: 前回157pts→171ptsに増加。AIが人間の推論に与える影響の学術的考察が継続的に支持を集めている。
+
+#### [MEDIUM] Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM（92pts）
+- **Score**: 92pts / 29 comments
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: MEDIUM
+- **Relevance**: ローカルLLM / 消費者向けハードウェアでの大規模モデル実行
+- **分析**: 48GBのMacで397Bパラメータモデルを動作。Flash-MoEアーキテクチャによる効率化。ローカルAI実行の限界を押し広げる技術進歩。
+
+#### [MEDIUM] Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence（36pts）
+- **Score**: 36pts / 3 comments
+- **URL**: https://zenodo.org/records/18976656
+- **Importance**: MEDIUM（Claude Opus 4.6直接言及）
+- **Relevance**: Claude/Anthropic / LLM挙動研究
+- **分析**: Claude Opus 4.6を含む複数モデルの「沈黙」（無応答）収束現象を研究。学術的調査でClaudeが研究対象として扱われている。モデル挙動の研究は今後のLLM開発に影響する可能性。
+
+#### [LOW] Sashiko: An agentic Linux kernel code review system（36pts）
+- **Score**: 36pts / 3 comments（前回比+5pts）
+- **Importance**: LOW
+- **Relevance**: AI Agent / コードレビュー自動化
+
+#### [LOW] If AI brings 90% productivity gains, do you fire devs or build better products?（17pts）
+- **Score**: 17pts / 24 comments
+- **URL**: https://news.ycombinator.com/item?id=47475859
+- **Importance**: LOW
+- **Relevance**: AI生産性 / 開発者雇用
+- **分析**: コメント数24に対しスコア17は議論が割れているシグナル。「解雇か拡張か」の議論は技術者コミュニティの不安と可能性の両面を反映。
+
+---
+
+#### 22:30 JST サマリー
+深夜帯に入り新規ストーリーの動きは落ち着いた。Tinyboxが528ptsに達し一日を通じた最注目トピック。Flash-MoEの新登場は「より少ないリソースでより大きなモデル」というトレンドの継続を示す。Claude Opus 4.6の研究対象言及はAnthropicの最新モデルが学術コミュニティで認知されていることを示す。
+
 ---
