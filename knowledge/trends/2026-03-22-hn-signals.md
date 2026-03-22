@@ -429,3 +429,57 @@ Tinyboxが58pts急上昇 — 朝の時間帯に北米ユーザーが起きてき
 JST朝8時台、「Some things just take time」が451ptsで急伸し全体Top4入り。AI加速時代への哲学的反省が朝のHN技術者に強く刺さっている。Tinyboxも219pts/全体Top2と急上昇 — プライバシー重視・オフラインAIの需要が朝の北米流入で可視化された。
 新規Top1の「Do Not Turn Child Protection into Internet Access Control」は、AI規制議論と連動するインターネット自由の議題。HN技術者のリバタリアン的価値観が今朝も全面に出ている。
 OpenCodeは1185ptsで変わらず全体最上位 — 24時間以上にわたってAI coding agentのOSSトレンドを牽引している。
+
+---
+
+### 09:30 JST
+
+#### [HIGH] OpenCode – Open source AI coding agent (継続)
+- **Score**: 1190pts / 585 comments ← 前回1185ptsから微増、安定継続
+- **URL**: https://opencode.ai/
+- **Importance**: HIGH
+- **Relevance**: AI Coding / OSS / Falcon Platform競合
+- **分析**: 昨日から24時間以上トップを維持。OSSコミュニティの熱量が継続中。
+
+#### [HIGH] Blocking Internet Archive Won't Stop AI (急伸)
+- **Score**: 484pts / 137 comments
+- **URL**: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record
+- **Importance**: HIGH
+- **Relevance**: AI / コンテンツ政策 / インターネット自由
+- **分析**: EFF記事。AI学習データとしてのInternet Archiveブロック問題。「AIを止めたいがためにウェブの歴史記録を消すな」というメッセージ。484ptsで全体Top2相当。AI規制の副作用への技術者の反発が明確。
+
+#### [MEDIUM] Tinybox – Offline AI device 120B parameters (急伸)
+- **Score**: 256pts / 148 comments ← 前回219ptsから+37pts急伸
+- **URL**: https://tinygrad.org/#tinybox
+- **Importance**: MEDIUM
+- **Relevance**: ローカルAI / プライバシー / ハードウェア
+- **分析**: 朝8時台から9時台でさらに急伸。オフラインAI需要の強さ。120Bパラメータをオフライン実行するデバイスとして注目継続。
+
+#### [MEDIUM] An industrial piping contractor on Claude Code [video] (継続)
+- **Score**: 123pts / 86 comments ← 横ばい安定
+- **URL**: https://twitter.com/toddsaunders/status/2034243420147859716
+- **Importance**: MEDIUM
+- **Relevance**: Claude Code / 非エンジニア活用
+- **分析**: 非エンジニアのClaude Code活用事例として話題継続。Fuyajoの「非エンジニア向け」コンセプトとの整合性あり。
+
+#### [MEDIUM] Some things just take time (継続)
+- **Score**: 482pts / 163 comments ← 451ptsから急伸、全体Top4
+- **URL**: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+- **Importance**: MEDIUM
+- **Relevance**: AI時代への哲学的考察
+- **分析**: 引き続き急伸。Flask作者による「AI加速でも本質的なことには時間がかかる」という主張が技術者に刺さっている。
+
+#### [LOW] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning
+- **Score**: 84pts / 49 comments
+- **URL**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646
+- **Importance**: LOW
+- **Relevance**: AI / 認知科学 / 思考
+- **分析**: カーネマン理論をAIに適用。人間の推論とAIの相互影響を論じた学術論文。
+
+---
+
+**Key Thoughts (09:30)**:
+9時台はEFF記事「Blocking Internet Archive Won't Stop AI」が484ptsで急浮上 — AI規制の副作用への反発が強い。「AIを止めたいがためにウェブの歴史を壊すな」という論調はHN技術者の共感を得やすい。
+Tinyboxは+37ptsで加速中。北米の朝（JST夜中〜朝）の流入でオフラインAIデバイスへの需要が可視化されている。
+「Some things just take time」も482ptsで全体Top4に留まり、AI時代への哲学的内省が継続してバズ。技術革新の速度と人間の習得速度の乖離へのリアルな共感。
+OpenCodeは1190ptsで安定継続。OSSのAI coding agentとしての地位を確固たるものにしている。
