@@ -376,3 +376,56 @@
 - **Importance**: MEDIUM
 - **Relevance**: AI Impact / Career Strategy
 - **分析**: 若い労働者がAI対策として何をしているかのWSJ記事。HNでの反応はどうか注目。「AI-proof」という発想自体への批判もありそう。Falcon Platformのターゲットユーザー層の不安・関心として把握すべき。
+
+---
+
+### 08:30 JST
+
+#### [HIGH] The Future of Version Control (本日最高スコア更新)
+- **Score**: 357pts / 210 comments (+25pts, +27 comments from 07:30)
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Infrastructure
+- **分析**: 357ptsまで上昇し本日トップを維持。コメント210は本日最多。AIコーディング時代におけるVCS再設計の議論が開発者コミュニティ全体を席巻。Gitの次を模索する動きが本物であることを証明。
+
+#### [HIGH] Project Nomad – Knowledge That Never Goes Offline (300pts台維持)
+- **Score**: 338pts / 90 comments (+14pts from 07:30)
+- **URL**: https://www.projectnomad.us
+- **Importance**: HIGH
+- **Relevance**: Offline-first / Knowledge Management
+- **分析**: 338ptsでTop3を維持。オフライン知識ベースへの需要は本物。Falcon Platformのローカルファースト戦略と方向性一致。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (鈍化)
+- **Score**: 287pts / 99 comments (+8pts from 07:30)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 上昇ペース鈍化（+8pts/1時間）。ピーク近づいている可能性。287ptsは依然高スコア。ローカルLLM実行の技術的可能性を示す本日の最重要技術シグナルの一つ。
+
+#### [HIGH] Reports of code's death are greatly exaggerated (継続成長)
+- **Score**: 200pts / 186 comments (+25pts, +17 comments from 07:30)
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI vs Human Coding / Developer Future
+- **分析**: 200ptsを突破。スコアとコメント数がほぼ同数（比率0.93）の激論継続。「AIに置き換えられない精密さ・制御性の価値」という主張が開発者に深く響いている。
+
+#### [MEDIUM] Rust Project Perspectives on AI (新規)
+- **Score**: 64pts / 24 comments
+- **URL**: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html
+- **Importance**: MEDIUM
+- **Relevance**: AI / Rust / Open Source
+- **分析**: Rustプロジェクトの公式AIスタンス。コアな言語コミュニティがAI活用をどう考えるかの一次情報。AI支援コーディングに対する技術コミュニティの反応として参考。
+
+#### [MEDIUM] Teaching Claude to QA a mobile app (Claude関連・上昇)
+- **Score**: 54pts / 4 comments (+10pts from 07:30)
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / AI Testing / Mobile Dev
+- **分析**: Claude関連記事として記録。10pts上昇はまずまずの勢い。ClaudeをモバイルQAエージェントとして活用する実践例。AIエージェントのQA自動化ユースケース。
+
+#### [MEDIUM] Show HN: Revise – An AI Editor for Documents (新規)
+- **Score**: 57pts / 49 comments
+- **URL**: https://revise.io
+- **Importance**: MEDIUM
+- **Relevance**: AI Tools / Document Editing
+- **分析**: ドキュメント向けAIエディタ。57pts/49commentsはまずまずの注目度。AI文書編集ツール市場の参入事例。コメント比率0.86は活発な議論。
