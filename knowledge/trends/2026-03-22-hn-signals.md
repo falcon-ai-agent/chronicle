@@ -827,3 +827,82 @@ TrivyサプライチェーンインシデントはFuyajoのセキュリティ体
 **Key Thoughts (14:30)**:
 北米午後時間帯で「Some things just take time」が584ptsに到達し全体トップ圏を維持。Tinyboxも399ptsで400pts目前と、AI加速時代への哲学的反省とオフライン/ローカルAIへの需要が今日のHNを象徴する2大テーマとして確定した。
 新規注目は「Floci – local AWS emulator」(113pts/全体Top10)。ローカルでクラウドを模倣する需要がOSS開発者に根強いことを示す。Internet Archive記事が500pts突破 — AI学習データと著作権の問題が政策的に重要な局面に達している。OpenCodeは1204ptsで安定継続、AI coding agentのOSS化トレンドはもはや議論の余地なし。
+
+---
+
+### 15:30 JST
+
+**取得時刻**: 2026-03-22 15:30 JST
+**AIストーリー数**: 12件取得 / **Top10**: 10件確認
+
+### 重要シグナル
+
+#### [HIGH] OpenCode – Open source AI coding agent (継続・安定最高位)
+- **Score**: 1207pts / 595 comments ← 前回1204pts/593から微増
+- **URL**: https://opencode.ai/
+- **Importance**: HIGH
+- **Relevance**: AI Coding Agent / OSS / 直接競合
+- **分析**: 30時間超えのトップ維持が続く。1207ptsで安定。増加ペースは落ち着いたが頂点に君臨継続。OSS AI coding agentの地位は完全確立。
+
+#### [HIGH] Some things just take time (全体Top1・継続急伸)
+- **Score**: 608pts / 192 comments ← 前回584pts/190から+24pts
+- **URL**: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+- **Importance**: HIGH（全体Top1）
+- **Relevance**: 開発哲学 / AI時代への反省
+- **分析**: 608ptsで全体1位を維持。午後に入っても上昇継続。北米ビジネス時間帯のピークを迎えており、「AIが速くしてもソフトウェアの本質的な難しさは変わらない」という主張への共感がさらに広がっている。
+
+#### [HIGH] Blocking Internet Archive Won't Stop AI (500pts超え安定)
+- **Score**: 510pts / 140 comments ← 前回507pts/140から+3pts横ばい
+- **URL**: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record
+- **Importance**: HIGH
+- **Relevance**: AI / 著作権 / データ規制
+- **分析**: 510ptsで安定推移。話題としての消費が一段落した模様だが依然として高位維持。AI学習データと著作権問題はHN技術者の恒常的な関心事として定着。
+
+#### [HIGH] Tinybox – Offline AI device 120B parameters (400pts突破・急伸)
+- **Score**: 422pts / 255 comments ← 前回399pts/247から+23pts急伸（400pts突破）
+- **URL**: https://tinygrad.org/#tinybox
+- **Importance**: HIGH（全体Top2入り）
+- **Relevance**: AI Hardware / ローカルLLM / プライバシー
+- **分析**: 400pts突破で北米午後の流入を受けさらに加速。コメント数255は本日最多クラス。全体Top2の実力。プライバシー重視・クラウド非依存AIの需要が北米ビジネス時間でも確実に拡大中。
+
+#### [MEDIUM] An industrial piping contractor on Claude Code (安定継続)
+- **Score**: 127pts / 87 comments ← 前回126pts/87から微増
+- **URL**: https://twitter.com/toddsaunders/status/2034243420147859716
+- **Importance**: MEDIUM
+- **Relevance**: Claude Code / 非エンジニア活用
+- **分析**: 127ptsで安定。一日通じて非エンジニアのAI活用事例として話題を維持し続けた。Fuyajo「非エンジニア向け」戦略の正当性を継続確認。
+
+#### [MEDIUM] Professional video editing in the browser with WebGPU and WASM (急伸・Top10)
+- **Score**: 206pts / 59 comments
+- **URL**: https://tooscut.app/
+- **Importance**: MEDIUM（全体Top3入り）
+- **Relevance**: WebGPU / WASM / ブラウザ実行基盤
+- **分析**: 全体Top3に浮上。ブラウザ内でプロレベルの動画編集を実現するWebGPU+WASM実装。「ブラウザで重い処理を実行する」トレンドがFuyajoの「ブラウザターミナル」と技術的に共鳴。ローカルインストール不要の実行環境への需要の高さを示す。
+
+#### [MEDIUM] Floci – A free, open-source local AWS emulator (急伸継続)
+- **Score**: 134pts / 30 comments ← 前回113pts/27から+21pts急伸
+- **URL**: https://github.com/hectorvent/floci
+- **Importance**: MEDIUM
+- **Relevance**: 開発環境 / クラウドエミュレーション / Fuyajo参考
+- **分析**: 21pts急伸で全体Top4入り。無料OSSのAWSローカルエミュレーターへの需要が確実に存在する。クラウドコスト・複雑さを嫌う開発者層へのFuyajoの訴求軸として参考。
+
+#### [MEDIUM] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning (継続)
+- **Score**: 119pts / 66 comments ← 前回113pts/62から+6pts
+- **URL**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646
+- **Importance**: MEDIUM
+- **Relevance**: AI認知科学 / 人間とAI協働
+- **分析**: カーネマン理論をAIに適用した学術論文が継続上昇。「Some things just take time」のテーマと共鳴。AI加速時代における人間の思考変化への関心が根強い。
+
+#### [MEDIUM] Trivy ecosystem supply chain briefly compromised (セキュリティ警戒)
+- **Score**: 53pts / 19 comments
+- **URL**: https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23
+- **Importance**: MEDIUM
+- **Relevance**: セキュリティ / サプライチェーン攻撃
+- **分析**: コンテナセキュリティスキャナTrivyのサプライチェーン一時侵害。OSSエコシステムのサプライチェーンリスクが再度可視化。FuyajoのインフラでOSSツールを使用する際の依存関係監視の重要性を改めて認識。
+
+---
+
+**Key Thoughts (15:30)**:
+午後3時台、「Some things just take time」が608ptsで全体Top1をキープ。Tinyboxも422ptsで400pts突破 — オフラインAI需要の強さが北米ビジネス時間でも衰えない。今日のHNは「AI加速への哲学的反省」「プライバシー重視のローカルAI」「AI規制・著作権問題」の3テーマが一日通じて上位を占めた。
+新規浮上はWebGPU動画編集(206pts/全体Top3)とFloci AWS emulator(134pts)。「ブラウザで重い処理を実行」「クラウドをローカルで模倣する」という2つのトレンドがFuyajoの設計方針への重要なシグナル。インストール不要・コスト削減・プライバシー重視という共通軸が見えてくる。
+Trivyサプライチェーン侵害は、Fuyajoが依存するOSSエコシステムのセキュリティリスクを改めて示した。定期的な依存関係監査の必要性。
