@@ -852,3 +852,74 @@
 - **Relevance**: Infrastructure / Reproducibility / DevOps
 - **分析**: 285pts/197comments。NixOSの再現可能インフラへの支持が持続。コメント比率0.69で活発な議論継続。環境の一貫性・再現性へのニーズはFalcon PlatformのVM環境提供と方向性一致。
 
+---
+
+### 17:30 JST
+
+#### [HIGH] The Future of Version Control (512pts・500pts突破・本日最高更新)
+- **Score**: 512pts / 285 comments (+16pts from 16:00)
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Version Control
+- **分析**: 496→512ptsへ急騰、ついに500pts突破。14時間以上トップを維持し続けた本日最大シグナルが更なる高みへ。コメント285は本日最多を更新。PC Gamerの576ptsに次ぐ総合2位。AIコーディング時代のVCS再設計議論はHN技術者コミュニティで歴史的な共感を集めた。
+
+#### [HIGH] Reports of Code's Death Are Greatly Exaggerated (388pts・急騰)
+- **Score**: 388pts / 286 comments (+20pts from 16:00)
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI vs Human Coding / Developer Future
+- **分析**: 368→388ptsへ急騰。コメント286は本日最多更新（比率0.74）。「コードは死なない、精密さと制御性の価値は増す」への共感が夕方に更に拡大。The Future of VCSと合わせ、開発者ツールへの強いシグナルが2本揃った。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (347pts・継続)
+- **Score**: 347pts / 114 comments (+7pts from 16:00)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 340→347ptsへ。上昇ペースは鈍化しているが347ptsに到達。本日通算+190pts（157→347）。一日を通してローカルLLM実行の技術的可能性を示し続けた本日最大技術シグナル。
+
+#### [HIGH] GrapheneOS privacy announcement (387pts・急騰)
+- **Score**: 387pts / 102 comments (+38pts from 16:00)
+- **URL**: https://grapheneos.social/@GrapheneOS/116261301913660830
+- **Importance**: HIGH
+- **Relevance**: Privacy / Security / OS
+- **分析**: 349→387ptsへ急騰（+38pts/1.5時間）。個人情報不要で使い続けられるというプライバシー宣言が夕方に爆発的な支持を集めた。ローカルファースト・プライバシーファーストのプラットフォームへの需要がAIと別文脈でも証明されている。
+
+#### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves (コメント爆発)
+- **Score**: 126pts / 209 comments (+6pts, +16 comments from 16:00)
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: MEDIUM
+- **Relevance**: AI Impact / Career Strategy
+- **分析**: コメント比率1.66（コメント数がスコアを大幅超過）。コメントが193→209に増加継続。若い労働者のAI対策への批判的議論が衰えない。
+
+#### [MEDIUM] How to Attract AI Bots to Your Open Source Project (123pts・安定)
+- **Score**: 123pts / 19 comments (+4pts from 16:00)
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: MEDIUM
+- **Relevance**: AI / OSS / Developer Tools
+- **分析**: 119→123ptsへ微増。「AI可読性」の新概念が安定した支持を継続。Falcon PlatformのOSS公開戦略に参考。
+
+#### [MEDIUM] Teaching Claude to QA a Mobile App (Claude関連)
+- **Score**: 94pts / 11 comments
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / AI Testing / Mobile Dev
+- **分析**: 91→94ptsへ微増。ClaudeをモバイルQAエージェントとして実用化する実践記。本日を通じて継続上昇し94ptsに到達。Claude関連記事として記録完結。
+
+#### [MEDIUM] Why I Love NixOS (300pts突破)
+- **Score**: 301pts / 210 comments (+16pts from 16:00)
+- **URL**: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+- **Importance**: MEDIUM
+- **Relevance**: Infrastructure / Reproducibility / DevOps
+- **分析**: 285→301ptsへ、300pts突破。Top10入り確認。NixOSの再現可能インフラへの根強い支持。
+
+#### [MEDIUM] Walmart: ChatGPT Checkout Converted 3x Worse (AI失敗事例)
+- **Score**: 5pts / 1 comment
+- **URL**: https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
+- **Importance**: MEDIUM
+- **Relevance**: AI UX / Ecommerce / Failure Case
+- **分析**: スコアは低いが内容は重要。WalmartがChatGPTチェックアウトを試したところ、通常のウェブサイトの3倍コンバージョンが悪化。「AIで何でも解決」という楽観論への現実的な反証。ユーザー体験の本質を問う事例。Falcon Platformが非エンジニア向けに設計する際の警告——AIはUXを悪化させることもある。
+
+---
+
+**17:30 JST サマリー**: The Future of Version Control が500ptsを突破し本日の歴史的シグナルとして確定。Reports of Code's Deathも388ptsまで急騰し、開発者コミュニティの「コードの価値」への強い信念を示した。GrapheneOSのプライバシー宣言が予想外の急騰。ローカルファースト・プライバシーファーストへの需要は技術者コミュニティで本物。WalmartのAI失敗事例は低スコアながら「AIはUXを悪化させることもある」という冷静な現実を示した重要シグナル。
+
