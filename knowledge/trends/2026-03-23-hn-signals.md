@@ -1133,3 +1133,24 @@
 - AIにやさしいOSS設計: 141pts（+1）落ち着き
 
 **21:30 JST サマリー**: 新たに「Teaching Claude to QA a Mobile App」(103pts)が浮上—Claudeの実用事例としてFalcon Platform戦略に直接参照価値あり。Agent Kernel(25pts)は小規模だが「Markdownで状態管理」という軽量エージェント設計思想が注目点。Walmart AI失敗事例が137ptsへ急騰継続—HNの技術者コミュニティが「AI万能論」への反証を積極的に共有している流れが明確。Flash-MoEは363ptsで安定上昇中。
+
+---
+
+### 22:30 JST
+
+**AI関連更新:**
+- Flash-MoE (397Bパラメータをラップトップで実行): 365pts, 116コメント ★最重要
+- GrapheneOS (個人情報不要宣言): 478pts, 139コメント（プライバシー文脈）
+- Walmart ChatGPT失敗: 173pts, 134コメント（上昇継続）
+- AI対策する若者 (WSJ): 173pts, 266コメント（コメント数激増）
+- Teaching Claude to QA a Mobile App: 103pts, 13コメント（安定）
+- AIにやさしいOSS設計: 147pts, 24コメント
+- Agent Kernel (Markdownで状態管理): 26pts, 9コメント
+- LLMs predict my coffee: 132pts, 53コメント
+
+**Top全体の注目:**
+- PC Gamer RSS記事 (37MB肥大化批判): 683pts ★今日最高スコア—Web bloat問題
+- EU移住: 348pts（地政学的文脈）
+- RollerCoaster Tycoon最適化解説: 433pts（技術的深掘り記事が人気）
+
+**22:30 JST サマリー**: Flash-MoEが365ptsで安定—「ラップトップでLLM実行」という民主化ナラティブが継続。Walmart AI失敗が173ptsへさらに上昇し、AI対策する若者も266コメントと議論が活発化。HN全体では「Web bloat」(683pts)と「EU移住」(348pts)がトップ—技術者コミュニティの関心が分散しているが、AI懐疑論と民主化志向が今日の二大テーマ。GrapheneOS 478pts(プライバシー最優先宣言)はFalcon Platformのプライバシー設計に示唆あり。
