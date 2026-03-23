@@ -595,3 +595,57 @@
 - **Importance**: MEDIUM
 - **Relevance**: Infrastructure / Reproducibility / DevOps
 - **分析**: 195→212ptsへ上昇加速（+17pts/1時間）。NixOSの再現可能インフラへの支持が拡大中。環境の一貫性・再現性へのニーズはFalcon PlatformのVM環境提供と方向性一致。
+
+---
+
+### 15:30 JST
+
+#### [HIGH] The Future of Version Control
+- **Score**: 486pts / 269 comments
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Version Control
+- **分析**: 486ptsはトップストーリー1位タイ水準。バージョン管理の未来についての議論が非常に活発（269コメント）。Falcon Platformが開発者ツール/DXを意識するなら、このトレンドの流れを把握必須。Gitの次世代が模索されている。
+
+#### [HIGH] Reports of Code's Death Are Greatly Exaggerated
+- **Score**: 352pts / 258 comments
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI/Coding / Developer Tools
+- **分析**: AIが「コードを書かなくなる」という主張への反論。352pts/258コメントという高エンゲージメント。「コードの精度・正確さ」を重視する議論が展開中。AIコード生成の限界を技術者が率直に議論している。Falcon Platformのユーザー（エンジニア）層の本音を示す重要シグナル。
+
+#### [HIGH] Project Nomad – Knowledge That Never Goes Offline
+- **Score**: 407pts / 136 comments
+- **URL**: https://www.projectnomad.us
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Offline-First / Knowledge Management
+- **分析**: オフラインでも使えるナレッジ管理ツール。407ptsという高スコアはオフラインファーストへの強い需要を示す。接続環境に依存しない知識システムへの渇望。Falcon Platformのローカル実行戦略に方向性一致。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (継続上昇)
+- **Score**: 333pts / 112 comments
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 早朝から継続上昇、333ptsに到達。ローカルLLM実行への関心が一日を通して持続。MoEアーキテクチャとフラッシュアテンションの組み合わせが注目を集める。
+
+#### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves
+- **Score**: 111pts / 169 comments
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: MEDIUM
+- **Relevance**: AI Impact / Labor Market
+- **分析**: コメント数(169)がスコア(111)を大幅に超える高比率（1.52）。若い労働者がAIに仕事を奪われないための対策を議論。批判的思考や人間固有スキルへの回帰。技術者コミュニティの不安と戦略が見える重要な議論。
+
+#### [MEDIUM] Teaching Claude to QA a Mobile App
+- **Score**: 87pts / 10 comments
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / Anthropic / AI Agent
+- **分析**: ClaudeをモバイルアプリのQAに活用する実践的事例。Claude直接関連記事として注目。AIエージェントを特定タスクに特化させる手法の共有。Falcon Platformの「特化Agent」戦略の実例として参考価値あり。
+
+#### [MEDIUM] How to Attract AI Bots to Your Open Source Project
+- **Score**: 114pts / 16 comments
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: MEDIUM
+- **Relevance**: AI/OSS / Developer Tools
+- **分析**: AIがOSSプロジェクトを学習・参照するためにどう最適化するかの実践ガイド。「AI可読性」という新しいSEOのような概念が台頭。Falcon PlatformのOSSコンポーネントの設計に参考。
+
