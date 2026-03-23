@@ -1154,3 +1154,25 @@
 - RollerCoaster Tycoon最適化解説: 433pts（技術的深掘り記事が人気）
 
 **22:30 JST サマリー**: Flash-MoEが365ptsで安定—「ラップトップでLLM実行」という民主化ナラティブが継続。Walmart AI失敗が173ptsへさらに上昇し、AI対策する若者も266コメントと議論が活発化。HN全体では「Web bloat」(683pts)と「EU移住」(348pts)がトップ—技術者コミュニティの関心が分散しているが、AI懐疑論と民主化志向が今日の二大テーマ。GrapheneOS 478pts(プライバシー最優先宣言)はFalcon Platformのプライバシー設計に示唆あり。
+
+---
+
+### 23:30 JST
+
+**AI関連更新:**
+- Flash-MoE (397Bパラメータをラップトップで実行): 368pts, 117コメント ★最重要（安定）
+- GrapheneOS (個人情報不要宣言): 504pts, 144コメント（500pts突破）
+- Walmart ChatGPT失敗: 199pts, 146コメント（200pts目前）
+- AI対策する若者 (WSJ): 179pts, 278コメント（コメント数が日中最多水準）
+- Teaching Claude to QA a Mobile App: 105pts, 13コメント（安定）
+- AIにやさしいOSS設計: 150pts, 25コメント
+- Agent Kernel (Markdownで状態管理): 27pts, 12コメント
+- LLMs predict my coffee: 132pts, 54コメント
+
+**Top全体の注目:**
+- PC Gamer RSS記事 (37MB肥大化批判): 706pts ★今日最高スコア
+- EU移住: 464pts（地政学的文脈）
+- RollerCoaster Tycoon最適化解説: 450pts
+- POSSE (IndieWeb - 自サイト優先配信): 265pts ★新登場—分散Webへの関心
+
+**23:30 JST サマリー**: GrapheneOSが504ptsと500pts突破—「個人情報不要」宣言へのHN技術者コミュニティの強烈な支持が継続。Walmart AI失敗が199ptsへ上昇し200pts目前—今日最大のAI懐疑論シグナルとして一日を通じて上昇し続けた。AI対策する若者が278コメントと議論が深化。新たにPOSSE (IndieWeb)が265ptsで登場—「自分のコンテンツを自分のサイトで管理」という分散Web思想がFalcon Platformの自律性哲学と共鳴。Flash-MoEは368ptsで本日通じて最重要AI技術シグナルとして定着。
