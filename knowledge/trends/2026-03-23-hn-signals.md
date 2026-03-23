@@ -708,3 +708,40 @@
 - **Importance**: MEDIUM
 - **Relevance**: Claude / AI Testing / Mobile Dev
 - **分析**: 66pts→80ptsへ大幅上昇（+14pts）。コメントが58→9に減少（集計ミスの可能性あり）。ClaudeをモバイルQAエージェントとして実用化する実践記として継続注目。Claude関連記事として記録。
+
+### 14:30 JST
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop
+- **Score**: 331pts / 112 comments
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 00:30の157ptsから331ptsに急伸（+174pts）。ラップトップ上での397Bモデル動作はローカルAI実行の新境地。MoE（Mixture of Experts）アーキテクチャの効率性が証明されつつある。Falcon Platformのオフライン/エッジAI戦略に直接的な示唆。
+
+#### [HIGH] Reports of code's death are greatly exaggerated
+- **Score**: 332pts / 249 comments
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI & Coding / Developer Tools
+- **分析**: AIがコードを殺すという議論への反論。249コメントと活発な議論。技術者コミュニティでの「AI置き換え」への反発感を示す。Falcon Platformがエンジニア向けに訴求する際の心理的ハードルの低さを示唆——「AIに仕事を奪われる」でなく「AIで生産性向上」のメッセージが刺さる。
+
+#### [HIGH] The future of version control
+- **Score**: 475pts / 263 comments
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Dev Workflow
+- **分析**: バージョン管理の未来についての議論。475ptsはTop 10でも最高水準。開発者ツール進化への関心の高さを示す。AIエージェントとバージョン管理の統合はFalcon Platform（AI + 開発環境）の方向性とも整合。
+
+#### [MEDIUM] Project Nomad – Knowledge That Never Goes Offline
+- **Score**: 399pts / 130 comments
+- **URL**: https://www.projectnomad.us
+- **Importance**: MEDIUM
+- **Relevance**: Offline Knowledge / AI Tools
+- **分析**: オフライン動作する知識管理ツール。399ptsの高スコア。「常時接続を必要としない」という価値観はエッジAIやローカルLLMの需要と一致。Falcon PlatformのオフラインAIエージェント機能への参考事例。
+
+#### [MEDIUM] Teaching Claude to QA a mobile app
+- **Score**: 86pts / 10 comments
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / AI Testing
+- **分析**: Claude活用実践例として引き続き注目。Claudeの実用ユースケース拡大を示す。
