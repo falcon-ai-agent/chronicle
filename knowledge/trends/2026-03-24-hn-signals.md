@@ -504,3 +504,76 @@ Falcon Platformへの示唆（追加）:
 - **Claude Code記事が急伸**（27→64pts）→ Claude Codeの具体的活用法への関心が高まっている。Falcon Platformとの連携訴求に活用できる
 - **Autoresearch急伸**（169→202pts）→ AI自律調査エージェントへの関心が高まっている
 - **LocalStack問題**が大きく浮上 → 開発ツールのOSS→商業化トレンドへの反発。Falcon Platformのオープン性を差別化軸にできる
+
+---
+
+## HN Signals - 08:30 JST
+
+### 新規・急伸シグナル
+
+#### High Importance
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [442pts, 229comments] ★NEW HIGH
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- Relevance: Edge AI / On-Device LLM
+- 今日最高スコア。iPhoneで400Bパラメータモデルが動作という衝撃的デモ。エッジAIの限界が急速に拡大しているシグナル。クラウド依存モデルへの疑問が強まる可能性あり。
+
+**Walmart: ChatGPT checkout converted 3x worse than website** [394pts, 260comments] ★NEW HIGH
+- URL: https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
+- Relevance: AI UX / Conversational Commerce
+- 07:30時点では370ptsだったものが394ptsへ続伸。会話型チェックアウトがウェブサイト比3倍悪化。「AIを使えばいい」という安易な発想への強烈な反論データ。UI設計とユーザー導線の重要性を再確認。
+
+**GitHub appears to be struggling with measly three nines availability** [427pts, 220comments] ↑
+- URL: https://www.theregister.com/2026/02/10/github_outages/
+- Relevance: Infrastructure Reliability / Developer Tools
+- 417→427ptsへ続伸。GitHub可用性問題が今日最も持続したシグナル。
+
+#### Medium Importance
+
+**I built an AI receptionist for a mechanic shop** [193pts, 213comments] ↑
+- URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/
+- Relevance: AI Agent / SMB Use Case
+- 181→193pts。コメント200超え継続。小規模ビジネスへのAI実装事例として依然活発。
+
+**How I'm Productive with Claude Code** [88pts, 64comments] ↑↑ ★Claude直接関連
+- URL: https://neilkakkar.com/productive-with-claude-code.html
+- Relevance: Claude Code / Developer Workflow
+- 64→88ptsへ続伸。Claude Code具体的活用法への技術者の関心が持続的に高まっている。
+
+**Autoresearch on an old research idea** [233pts, 63comments] ↑
+- URL: https://ykumar.me/blog/eclip-autoresearch/
+- Relevance: AI Research Automation
+- 202→233ptsへ続伸。AI自律リサーチへの関心が今日一日で継続上昇。
+
+**Claude Code Cheat Sheet** [58pts, 18comments] ★NEW Claude直接関連
+- URL: https://cc.storyfox.cz
+- Relevance: Claude Code / Developer Tools
+- 新規。Claude Codeのチートシート。スコアは控えめだがトップストーリー入り。Claude Codeの実用活用ニーズの高まり。
+
+**Local Stack Archived their GitHub repo** [130pts, 60comments] ↑
+- URL: https://github.com/localstack/localstack
+- Relevance: OSS商業化 / Developer Tools
+- 112→130pts。OSSクローズド化への反発継続。
+
+**Finding all regex matches has always been O(n²)** [137pts, 32comments] ★NEW
+- URL: https://iev.ee/blog/the-quadratic-problem-nobody-fixed/
+- Relevance: Computer Science / Performance
+- 技術系で急浮上。誰も修正しなかったO(n²)問題。深い技術議論が展開されている。
+
+**Trivy under attack again** [137pts, 52comments] ↑
+- URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+- Relevance: Security / Supply Chain
+- 127→137pts。GitHub Actionsサプライチェーン攻撃継続。
+
+#### まとめ（08:30 JST）
+
+08:30時点での主要変化:
+1. **iPhone 17 Proで400B LLM動作（442pts）** - 今日最大の新規シグナル。エッジAI革命が現実化
+2. **Walmart ChatGPT失敗事例（394pts）** - AI UXの失敗データが技術者コミュニティで強く共鳴
+3. **Claude Code関連が2記事同時浮上** - 活用法(88pts)＋チートシート(58pts)。Claude Codeエコシステムの成熟
+4. **GitHub可用性問題（427pts）** - 今日一日の最大持続シグナル。インフラ信頼性への関心
+
+Falcon Platform示唆:
+- **ChatGPT 3x worse問題** → 「AIだから良い」ではなくUX設計が決定的。対話型インターフェースの設計に慎重さが必要
+- **エッジAI急進展** → クラウドAI一辺倒の戦略リスク。将来的なオンデバイス実行も視野に
+- **Claude Codeエコシステム拡大** → 開発者向けAIツール市場が成熟中。連携機会が増える
