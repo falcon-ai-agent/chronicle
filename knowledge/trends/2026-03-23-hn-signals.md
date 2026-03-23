@@ -598,54 +598,190 @@
 
 ---
 
+### 12:30 JST
+
+#### [HIGH] The Future of Version Control (442pts・本日最高更新)
+- **Score**: 442pts / 253 comments (+21pts, +12 comments from 11:30)
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Infrastructure
+- **分析**: 421→442ptsへ上昇継続。9時間以上トップを維持する圧倒的な持久力。コメント253は本日最多を更新。AIコーディング時代のVCS再設計議論が終日HN技術者コミュニティを席巻した本日最大シグナル。
+
+#### [HIGH] Project Nomad – Knowledge That Never Goes Offline (381pts・急騰)
+- **Score**: 381pts / 115 comments (+13pts from 11:30)
+- **URL**: https://www.projectnomad.us
+- **Importance**: HIGH
+- **Relevance**: Offline-first / Knowledge Management
+- **分析**: 368→381ptsへ上昇継続。本日を通じてTop3を維持。オフライン動作する知識ベースへの需要が本物であることを終日証明し続けた。
+
+#### [HIGH] Reports of code's death are greatly exaggerated (294pts・急騰)
+- **Score**: 294pts / 228 comments (+25pts, +13 comments from 11:30)
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI vs Human Coding / Developer Future
+- **分析**: 269→294ptsへ急騰。コメント228はこの記事の最多更新。「コードは死なない、精密さと制御性の価値は増す」への共感が午後に入っても拡大継続。Falcon Platformの「開発者能力拡張」設計思想と一致。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (317pts・鈍化)
+- **Score**: 317pts / 108 comments (+7pts from 11:30)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 310→317ptsへ（+7pts/1時間）。上昇ペースは鈍化しているが317ptsに到達。本日最大の技術シグナルとして記録確定。ラップトップで397Bパラメータ動作という実績はローカルLLMブームの新しいマイルストーン。
+
+#### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves (急成長)
+- **Score**: 88pts / 114 comments
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: MEDIUM
+- **Relevance**: AI Impact / Career Strategy
+- **分析**: コメント比率1.30でスコアを上回るコメント数。「AI-proof」なキャリアを模索する若者へのHN技術者の反応（批判・共感）が活発。Falcon Platformのターゲットユーザー層の不安・関心として把握。
+
+#### [MEDIUM] Why I Love NixOS (231pts・継続成長)
+- **Score**: 231pts / 154 comments (+19pts from 11:30)
+- **URL**: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+- **Importance**: MEDIUM
+- **Relevance**: Infrastructure / Reproducibility / DevOps
+- **分析**: 212→231ptsへ上昇加速（+19pts/1時間）。NixOSの再現可能インフラへの支持が拡大。環境の一貫性・再現性へのニーズはFalcon PlatformのVM環境提供と方向性一致を継続確認。
+
+#### [MEDIUM] How to Attract AI Bots to Your Open Source Project (新規)
+- **Score**: 92pts / 13 comments
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: MEDIUM
+- **Relevance**: AI / Open Source / Developer Tools
+- **分析**: AIボット（クローラー、エージェント）をOSSプロジェクトに引き寄せるためのベストプラクティス記事。AIエージェントがコードを発見・理解しやすくする設計は、Falcon PlatformのOSS公開戦略に示唆。
+
+---
+
+### 13:30 JST
+
+#### [HIGH] The Future of Version Control (458pts・本日最高更新継続)
+- **Score**: 458pts / 255 comments (+16pts, +2 comments from 12:30)
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Infrastructure
+- **分析**: 442→458ptsへ上昇継続。10時間以上トップを維持し続ける本日最大シグナル。コメント255は本日最多を更新。AIコーディング時代のVCS再設計議論が終日HN技術者コミュニティを席巻した。
+
+#### [HIGH] Project Nomad – Knowledge That Never Goes Offline (391pts・上昇)
+- **Score**: 391pts / 124 comments (+10pts from 12:30)
+- **URL**: https://www.projectnomad.us
+- **Importance**: HIGH
+- **Relevance**: Offline-first / Knowledge Management
+- **分析**: 381→391ptsへ。本日を通じてTop3を維持する安定した強さ。オフライン動作する知識ベースへの需要が終日証明された。ローカルファーストAIへの市場ニーズはFalcon Platformの方向性と完全一致。
+
+#### [HIGH] Reports of code's death are greatly exaggerated (311pts・300pts突破)
+- **Score**: 311pts / 242 comments (+17pts from 12:30)
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI vs Human Coding / Developer Future
+- **分析**: 294→311ptsへ、300pts突破。コメント242はこの記事の最多更新。スコアとコメントの比率0.78で激論継続。「コードは死なない、精密さと制御性の価値は増す」への共感が終日拡大。Falcon Platformの「開発者能力拡張」設計思想と完全一致。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (327pts・継続)
+- **Score**: 327pts / 108 comments (+10pts from 12:30)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 317→327ptsへ（+10pts/1時間）。上昇ペースがやや回復。本日最大の技術シグナルとして終日上昇を維持。ラップトップで397Bパラメータ動作はローカルLLMブームの新しいマイルストーンとして記録確定。
+
+#### [MEDIUM] Why I Love NixOS (247pts・継続成長)
+- **Score**: 247pts / 160 comments (+16pts from 12:30)
+- **URL**: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+- **Importance**: MEDIUM
+- **Relevance**: Infrastructure / Reproducibility / DevOps
+- **分析**: 231→247ptsへ上昇継続（+16pts/1時間）。NixOSの再現可能インフラへの支持が拡大中。環境の一貫性・再現性へのニーズはFalcon PlatformのVM環境提供と方向性一致。
+
+#### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves (91pts・コメント最多)
+- **Score**: 91pts / 117 comments
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: MEDIUM
+- **Relevance**: AI Impact / Career Strategy
+- **分析**: コメント比率1.29でスコアを上回るコメント数。「AI-proof」なキャリアを模索する若者へのHN技術者の反応が活発。Falcon Platformのターゲットユーザー層の不安・関心として把握継続。
+
+#### [MEDIUM] How to Attract AI Bots to Your Open Source Project (98pts)
+- **Score**: 98pts / 13 comments
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: MEDIUM
+- **Relevance**: AI / Open Source / Developer Tools
+- **分析**: 92→98ptsへ上昇。AIエージェントがコードを発見・理解しやすくする設計のベストプラクティス。Falcon PlatformのOSS公開戦略に示唆。
+
+#### [MEDIUM] Teaching Claude to QA a Mobile App (Claude関連)
+- **Score**: 80pts / 9 comments
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / AI Testing / Mobile Dev
+- **分析**: 66pts→80ptsへ大幅上昇（+14pts）。コメントが58→9に減少（集計ミスの可能性あり）。ClaudeをモバイルQAエージェントとして実用化する実践記として継続注目。Claude関連記事として記録。
+
+### 14:30 JST
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop
+- **Score**: 331pts / 112 comments
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 00:30の157ptsから331ptsに急伸（+174pts）。ラップトップ上での397Bモデル動作はローカルAI実行の新境地。MoE（Mixture of Experts）アーキテクチャの効率性が証明されつつある。Falcon Platformのオフライン/エッジAI戦略に直接的な示唆。
+
+#### [HIGH] Reports of code's death are greatly exaggerated
+- **Score**: 332pts / 249 comments
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI & Coding / Developer Tools
+- **分析**: AIがコードを殺すという議論への反論。249コメントと活発な議論。技術者コミュニティでの「AI置き換え」への反発感を示す。Falcon Platformがエンジニア向けに訴求する際の心理的ハードルの低さを示唆——「AIに仕事を奪われる」でなく「AIで生産性向上」のメッセージが刺さる。
+
+#### [HIGH] The future of version control
+- **Score**: 475pts / 263 comments
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Dev Workflow
+- **分析**: バージョン管理の未来についての議論。475ptsはTop 10でも最高水準。開発者ツール進化への関心の高さを示す。AIエージェントとバージョン管理の統合はFalcon Platform（AI + 開発環境）の方向性とも整合。
+
+#### [MEDIUM] Project Nomad – Knowledge That Never Goes Offline
+- **Score**: 399pts / 130 comments
+- **URL**: https://www.projectnomad.us
+- **Importance**: MEDIUM
+- **Relevance**: Offline Knowledge / AI Tools
+- **分析**: オフライン動作する知識管理ツール。399ptsの高スコア。「常時接続を必要としない」という価値観はエッジAIやローカルLLMの需要と一致。Falcon PlatformのオフラインAIエージェント機能への参考事例。
+
+#### [MEDIUM] Teaching Claude to QA a mobile app
+- **Score**: 86pts / 10 comments
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / AI Testing
+- **分析**: Claude活用実践例として引き続き注目。Claudeの実用ユースケース拡大を示す。
+
+---
+
 ### 15:30 JST
 
-#### [HIGH] The Future of Version Control
+#### [HIGH] The Future of Version Control (486pts・本日最高)
 - **Score**: 486pts / 269 comments
 - **URL**: https://bramcohen.com/p/manyana
 - **Importance**: HIGH
 - **Relevance**: Developer Tools / Version Control
-- **分析**: 486ptsはトップストーリー1位タイ水準。バージョン管理の未来についての議論が非常に活発（269コメント）。Falcon Platformが開発者ツール/DXを意識するなら、このトレンドの流れを把握必須。Gitの次世代が模索されている。
+- **分析**: 本日のトップ1位タイ水準。バージョン管理の未来について非常に活発な議論（269コメント）。Gitの次世代が技術者コミュニティで真剣に模索されている。Falcon Platformが開発者ツール/DXを意識するなら見逃せないトレンド。
 
 #### [HIGH] Reports of Code's Death Are Greatly Exaggerated
 - **Score**: 352pts / 258 comments
 - **URL**: https://stevekrouse.com/precision
 - **Importance**: HIGH
 - **Relevance**: AI/Coding / Developer Tools
-- **分析**: AIが「コードを書かなくなる」という主張への反論。352pts/258コメントという高エンゲージメント。「コードの精度・正確さ」を重視する議論が展開中。AIコード生成の限界を技術者が率直に議論している。Falcon Platformのユーザー（エンジニア）層の本音を示す重要シグナル。
+- **分析**: AIが「コードを書かなくなる」という主張への強い反論。352pts/258コメントの高エンゲージメント。「コードの精度・正確さ」を重視する議論が展開中。AIコード生成の限界を技術者が率直に議論。Falcon Platformのエンジニアユーザー層の本音を示す重要シグナル。
 
-#### [HIGH] Project Nomad – Knowledge That Never Goes Offline
-- **Score**: 407pts / 136 comments
-- **URL**: https://www.projectnomad.us
-- **Importance**: HIGH
-- **Relevance**: Developer Tools / Offline-First / Knowledge Management
-- **分析**: オフラインでも使えるナレッジ管理ツール。407ptsという高スコアはオフラインファーストへの強い需要を示す。接続環境に依存しない知識システムへの渇望。Falcon Platformのローカル実行戦略に方向性一致。
-
-#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (継続上昇)
-- **Score**: 333pts / 112 comments
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (333pts・継続上昇)
+- **Score**: 333pts / 112 comments (+121pts from 01:30)
 - **URL**: https://github.com/danveloper/flash-moe
 - **Importance**: HIGH
 - **Relevance**: Local LLM / Consumer Hardware AI
-- **分析**: 早朝から継続上昇、333ptsに到達。ローカルLLM実行への関心が一日を通して持続。MoEアーキテクチャとフラッシュアテンションの組み合わせが注目を集める。
+- **分析**: 早朝の180ptsから333ptsへ大幅上昇。一日を通して関心が持続・拡大。ローカル巨大LLM実行は一過性のバズではなく継続的なトレンドと確認。
 
 #### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves
 - **Score**: 111pts / 169 comments
 - **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
 - **Importance**: MEDIUM
 - **Relevance**: AI Impact / Labor Market
-- **分析**: コメント数(169)がスコア(111)を大幅に超える高比率（1.52）。若い労働者がAIに仕事を奪われないための対策を議論。批判的思考や人間固有スキルへの回帰。技術者コミュニティの不安と戦略が見える重要な議論。
-
-#### [MEDIUM] Teaching Claude to QA a Mobile App
-- **Score**: 87pts / 10 comments
-- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
-- **Importance**: MEDIUM
-- **Relevance**: Claude / Anthropic / AI Agent
-- **分析**: ClaudeをモバイルアプリのQAに活用する実践的事例。Claude直接関連記事として注目。AIエージェントを特定タスクに特化させる手法の共有。Falcon Platformの「特化Agent」戦略の実例として参考価値あり。
+- **分析**: コメント比率1.52（コメント数がスコアを超過）は活発な議論の証拠。若い労働者がAIに仕事を奪われないための戦略を議論。批判的思考・人間固有スキルへの回帰傾向。技術者コミュニティの不安と戦略が見える。
 
 #### [MEDIUM] How to Attract AI Bots to Your Open Source Project
 - **Score**: 114pts / 16 comments
 - **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
 - **Importance**: MEDIUM
 - **Relevance**: AI/OSS / Developer Tools
-- **分析**: AIがOSSプロジェクトを学習・参照するためにどう最適化するかの実践ガイド。「AI可読性」という新しいSEOのような概念が台頭。Falcon PlatformのOSSコンポーネントの設計に参考。
+- **分析**: AIがOSSプロジェクトを学習・参照するための最適化手法。「AI可読性」という新しいSEOのような概念の台頭。Falcon PlatformのOSSコンポーネント設計に参考。
 
