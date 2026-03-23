@@ -595,3 +595,56 @@
 - **Importance**: MEDIUM
 - **Relevance**: Infrastructure / Reproducibility / DevOps
 - **分析**: 195→212ptsへ上昇加速（+17pts/1時間）。NixOSの再現可能インフラへの支持が拡大中。環境の一貫性・再現性へのニーズはFalcon PlatformのVM環境提供と方向性一致。
+
+---
+
+### 12:30 JST
+
+#### [HIGH] The Future of Version Control (442pts・本日最高更新)
+- **Score**: 442pts / 253 comments (+21pts, +12 comments from 11:30)
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Infrastructure
+- **分析**: 421→442ptsへ上昇継続。9時間以上トップを維持する圧倒的な持久力。コメント253は本日最多を更新。AIコーディング時代のVCS再設計議論が終日HN技術者コミュニティを席巻した本日最大シグナル。
+
+#### [HIGH] Project Nomad – Knowledge That Never Goes Offline (381pts・急騰)
+- **Score**: 381pts / 115 comments (+13pts from 11:30)
+- **URL**: https://www.projectnomad.us
+- **Importance**: HIGH
+- **Relevance**: Offline-first / Knowledge Management
+- **分析**: 368→381ptsへ上昇継続。本日を通じてTop3を維持。オフライン動作する知識ベースへの需要が本物であることを終日証明し続けた。
+
+#### [HIGH] Reports of code's death are greatly exaggerated (294pts・急騰)
+- **Score**: 294pts / 228 comments (+25pts, +13 comments from 11:30)
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI vs Human Coding / Developer Future
+- **分析**: 269→294ptsへ急騰。コメント228はこの記事の最多更新。「コードは死なない、精密さと制御性の価値は増す」への共感が午後に入っても拡大継続。Falcon Platformの「開発者能力拡張」設計思想と一致。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (317pts・鈍化)
+- **Score**: 317pts / 108 comments (+7pts from 11:30)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 310→317ptsへ（+7pts/1時間）。上昇ペースは鈍化しているが317ptsに到達。本日最大の技術シグナルとして記録確定。ラップトップで397Bパラメータ動作という実績はローカルLLMブームの新しいマイルストーン。
+
+#### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves (急成長)
+- **Score**: 88pts / 114 comments
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: MEDIUM
+- **Relevance**: AI Impact / Career Strategy
+- **分析**: コメント比率1.30でスコアを上回るコメント数。「AI-proof」なキャリアを模索する若者へのHN技術者の反応（批判・共感）が活発。Falcon Platformのターゲットユーザー層の不安・関心として把握。
+
+#### [MEDIUM] Why I Love NixOS (231pts・継続成長)
+- **Score**: 231pts / 154 comments (+19pts from 11:30)
+- **URL**: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+- **Importance**: MEDIUM
+- **Relevance**: Infrastructure / Reproducibility / DevOps
+- **分析**: 212→231ptsへ上昇加速（+19pts/1時間）。NixOSの再現可能インフラへの支持が拡大。環境の一貫性・再現性へのニーズはFalcon PlatformのVM環境提供と方向性一致を継続確認。
+
+#### [MEDIUM] How to Attract AI Bots to Your Open Source Project (新規)
+- **Score**: 92pts / 13 comments
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: MEDIUM
+- **Relevance**: AI / Open Source / Developer Tools
+- **分析**: AIボット（クローラー、エージェント）をOSSプロジェクトに引き寄せるためのベストプラクティス記事。AIエージェントがコードを発見・理解しやすくする設計は、Falcon PlatformのOSS公開戦略に示唆。
