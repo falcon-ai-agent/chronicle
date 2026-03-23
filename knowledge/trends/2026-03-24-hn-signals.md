@@ -110,16 +110,64 @@
 
 ---
 
+### 03:30 JST
+
+#### High Importance
+
+**Flash-MoE: Running a 397B Parameter Model on a Laptop** [386pts, 120comments]
+- URL: https://github.com/danveloper/flash-moe
+- Relevance: AI Agent / Edge LLM
+- 01:30から引き続き上昇中（380→386）。勢いが持続しており、HNコミュニティの関心度の高さが確認できる。
+
+**GitHub appears to be struggling with measly three nines availability** [354pts, 185comments]
+- URL: https://www.theregister.com/2026/02/10/github_outages/
+- Relevance: Infrastructure / Developer Tools
+- 304→354ptに急伸。コメントも155→185に増加。開発者のインフラ信頼性への不満が増大中。Falcon Platformの差別化ポイントとして強く意識すべきシグナル。
+
+**Walmart: ChatGPT checkout converted 3x worse than website** [309pts, 210comments]
+- URL: https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
+- Relevance: AI Product / UX
+- 258→309pt。コメントも184→210に増加。「AI統合=ビジネス成果向上」の幻想を崩すデータが拡散し続けている。
+
+#### Medium Importance
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [261pts, 153comments]
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- Relevance: Edge AI
+- 94→261ptへ急伸。モバイルデバイスでの400Bモデル実行デモ。Flash-MoEと同じエッジAIトレンド。量子化技術の進歩を示す。
+
+**I built an AI receptionist for a mechanic shop** [94pts, 114comments]
+- URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/
+- Relevance: AI Agent / Practical Use Case
+- 新規。コメント数(114)がスコア(94)を超える珍しいパターン。実際のビジネス（自動車修理店）へのAI導入事例。「AIエージェントの実装詳細」を求めるHNの議論が活発。
+
+**Diverse perspectives on AI from Rust contributors and maintainers** [144pts, 79comments]
+- URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html
+- Relevance: Developer Community / AI adoption
+- 新規。Rustコミュニティ（技術的に保守的な集団）のAIに対する多様な視点まとめ。批判的・肯定的両面が収録されており、技術者コミュニティの本音が凝縮されている。
+
+**If DSPy is so great, why isn't anyone using it?** [153pts, 97comments]
+- URL: https://skylarbpayne.com/posts/dspy-engineering-patterns/
+- Relevance: AI Framework
+- 105→153ptへ上昇。「優れたフレームワークでも採用されない」問題を掘り下げる。DX（開発者体験）の重要性を示唆。
+
+#### Low Importance
+
+**Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO** [16pts, 11comments]
+- ザッカーバーグ個人用AIエージェント構築。Big Techの内部でもAIエージェント活用が進んでいる。
+
+---
+
 ### まとめ
 
 今日の最大シグナル:
-1. **エッジLLMの急速な進化** - Flash-MoEで397Bがラップトップ動作。ローカル実行の限界が消えつつある
-2. **AIチャットUIへの反動** - WalmartのChatGPT失敗事例が示す「AIが常に答えではない」現実
-3. **欧州移住トレンド** - 技術者の地政学的移動。市場拡大の観点で要注目
+1. **エッジLLMの急速な進化** - Flash-MoEで397Bがラップトップ動作。iPhoneでも400B。ローカル実行の限界が消えつつある
+2. **AIチャットUIへの反動** - WalmartのChatGPT失敗事例が示す「AIが常に答えではない」現実（309pts, 210comments）
+3. **インフラ信頼性への不満** - GitHub可用性問題が354ptsへ急伸。技術者コミュニティの怒りが高まっている
 
 Falcon Platformへの示唆:
 - VM + AI統合のUXはチャット一辺倒にするな（Walmart教訓）
-- ローカルLLM統合の技術的ハードルが急低下中（Flash-MoE）
+- ローカルLLM統合の技術的ハードルが急低下中（Flash-MoE + iPhone 400B）
 - プライバシーファーストの姿勢が差別化要因になる（GrapheneOS支持）
 - GitHub不満を差別化ポイントに（可用性・信頼性重視）
 
@@ -173,3 +221,4 @@ Falcon Platformへの示唆:
 新規シグナル:
 - DSPyの「使われない問題」→ AIツールの普及と実用性のギャップは Falcon Platform 設計で避けるべき落とし穴
 - Rustコミュニティの慎重なAI観 → 技術者向けツールでは「AIを隠す」より「制御を与える」姿勢が支持される
+- AIレセプショニスト事例：小規模ビジネスへのAI導入需要は実在する
