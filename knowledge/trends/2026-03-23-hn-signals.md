@@ -898,6 +898,73 @@
 - **Relevance**: AI / OSS / Developer Tools
 - **分析**: 119→123ptsへ微増。「AI可読性」の新概念が安定した支持を継続。Falcon PlatformのOSS公開戦略に参考。
 
+---
+
+### 18:30 JST
+
+#### [HIGH] The Future of Version Control (525pts・急騰継続)
+- **Score**: 525pts / 290 comments (+13pts from 17:30)
+- **URL**: https://bramcohen.com/p/manyana
+- **Importance**: HIGH
+- **Relevance**: Developer Tools / Version Control
+- **分析**: 512→525ptsへ更に上昇。トップを独走し本日通算500pts超を維持。コメント290は本日最多水準。AIコーディング時代のVCS再設計が14時間以上にわたってHN技術者コミュニティを掌握し続ける。
+
+#### [HIGH] Reports of Code's Death Are Greatly Exaggerated (405pts・急騰)
+- **Score**: 405pts / 295 comments (+17pts from 17:30)
+- **URL**: https://stevekrouse.com/precision
+- **Importance**: HIGH
+- **Relevance**: AI vs Human Coding / Developer Future
+- **分析**: 388→405ptsへ急騰、400pts突破。コメント295は本日最多更新（比率0.73）。「コードは死なない」への夕方以降の共感が更に拡大。AIコーディングツールの普及を受けた開発者コミュニティの反発・再定義が本日最重要の議論テーマ。
+
+#### [HIGH] GrapheneOS privacy announcement (411pts・急騰)
+- **Score**: 411pts / 112 comments (+24pts from 17:30)
+- **URL**: https://grapheneos.social/@GrapheneOS/116261301913660830
+- **Importance**: HIGH
+- **Relevance**: Privacy / Security / OS
+- **分析**: 387→411ptsへ急騰（+24pts/1時間）。400pts突破で本日Top3に入った。プライバシーファーストプラットフォームへの技術者支持が夕方も拡大継続。個人情報不要のサービス設計はFalcon Platformに直接的な示唆。
+
+#### [HIGH] Flash-MoE: Running a 397B Parameter Model on a Laptop (353pts・継続)
+- **Score**: 353pts / 114 comments (+6pts from 17:30)
+- **URL**: https://github.com/danveloper/flash-moe
+- **Importance**: HIGH
+- **Relevance**: Local LLM / Consumer Hardware AI
+- **分析**: 347→353ptsへ微増。上昇ペースは鈍化（夜間へ移行）。本日通算+196pts（157→353）でローカルLLMの技術的可能性を一日通じて示し続けた。
+
+#### [MEDIUM] What Young Workers Are Doing to AI-Proof Themselves (コメント爆発継続)
+- **Score**: 135pts / 217 comments (+9pts, +8 comments from 17:30)
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: MEDIUM
+- **Relevance**: AI Impact / Career Strategy
+- **分析**: コメント比率1.61継続。コメント217で「スコアを超えるコメント」現象が持続。若者のAI対策への批判的議論が衰えない。
+
+#### [MEDIUM] How to Attract AI Bots to Your Open Source Project (133pts・微増)
+- **Score**: 133pts / 21 comments (+10pts from 17:30)
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: MEDIUM
+- **Relevance**: AI / OSS / Developer Tools
+- **分析**: 123→133ptsへ急増（+10pts）。「AI可読性」のOSS戦略が夕方に再び伸びた。Falcon PlatformのOSS公開・AI Agent連携戦略に参考。
+
+#### [MEDIUM] Teaching Claude to QA a Mobile App (98pts・Claude関連)
+- **Score**: 98pts / 11 comments
+- **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+- **Importance**: MEDIUM
+- **Relevance**: Claude / AI Testing / Mobile Dev
+- **分析**: ClaudeをモバイルQAエージェントとして実用化する実践記。100pts前で安定。Claude活用の実例として本日の継続シグナル。
+
+#### [MEDIUM] Walmart: ChatGPT Checkout Converted 3x Worse Than Website (34pts)
+- **Score**: 34pts / 17 comments
+- **URL**: https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
+- **Importance**: MEDIUM
+- **Relevance**: AI UX / E-commerce / Conversational AI
+- **分析**: WalmartのChatGPT導入チェックアウトが通常サイトより3倍悪いコンバージョン。AIチャット型UIの実用的な失敗事例。「AIが全ての問題を解決する」への反証データ。Falcon Platformの設計においてUX最優先の重要性を再確認。
+
+#### [LOW] White-Collar AI Apocalypse Narrative Is Just Another Bullshit (33pts)
+- **Score**: 33pts / 19 comments
+- **URL**: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/
+- **Importance**: LOW
+- **Relevance**: AI Hype / Labor Market
+- **分析**: AIによるホワイトカラー終焉論への批判記事。スコアは低いがタイトルが象徴的。HN技術者の現実的・懐疑的視点を代表する記事。バズワードへの反発としてメモ。
+
 #### [MEDIUM] Teaching Claude to QA a Mobile App (Claude関連)
 - **Score**: 94pts / 11 comments
 - **URL**: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
