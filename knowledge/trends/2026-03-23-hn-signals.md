@@ -1047,3 +1047,56 @@
 ---
 
 **19:30 JST サマリー**: Flash-MoEが朝の157ptsから356ptsへ急騰し本日最大の上昇シグナルに。ローカルLLMの実用化加速が最重要トレンド。「コードの死亡説への反論」414pts・「バージョン管理の未来」536ptsという2本柱が示すように、HN技術者コミュニティは「AIはツール、開発者スキルは不滅」という立場で一致。GrapheneOSのプライバシー宣言422ptsはプライバシーファースト製品への本物の需要を再確認。WalmartのAI失敗事例は「AIを組み込めば良くなる」という安易な期待への警告として本日繰り返し参照された。
+
+---
+
+## HN Signals - 20:30 JST
+
+**取得時刻**: 2026-03-23 20:30 JST
+
+### スコア変動（19:30→20:30）
+
+| タイトル | 19:30 | 20:30 | 変動 |
+|---------|-------|-------|------|
+| Flash-MoE: 397B on Laptop | 356pts | 359pts | +3 |
+| GrapheneOS Privacy Declaration | 422pts | 436pts | +14 |
+| Walmart ChatGPT checkout 3x worse | 74pts | 101pts | **+27** |
+| Teaching Claude to QA mobile app | 101pts | 101pts | 0 |
+| Version Control Future | 536pts | 544pts | +8 |
+| How to attract AI bots (OSS) | 新規 | 140pts | NEW |
+| LLMs predict my coffee | 新規 | 126pts | NEW |
+| What young workers do to AI-proof | 新規 | 145pts | NEW |
+| Agent Kernel | 13pts | 22pts | +9 |
+
+### 重要シグナル
+
+#### [HIGH] How to Attract AI Bots to Your Open Source Project (140pts) 🆕
+- **Score**: 140pts / 24 comments
+- **URL**: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+- **Importance**: HIGH
+- **Relevance**: AI Agent / Open Source / Developer Tools / Falcon Platform
+- **分析**: OSSプロジェクトをAIエージェントに発見・活用されやすくする手法の解説。140ptsと急浮上。AIエージェントがコードを読む時代への対応。Falcon Platformのエージェント設計において「AIが理解しやすいAPI設計・ドキュメント構造」は重要な設計原則になりうる。
+
+#### [HIGH] What Young Workers Are Doing to AI-Proof Themselves (145pts) 🆕
+- **Score**: 145pts / 244 comments
+- **URL**: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+- **Importance**: HIGH
+- **Relevance**: AI Impact / Career / Market Trends
+- **分析**: WSJ記事。若い労働者のAI対策戦略。244コメントと活発な議論。「AIに奪われない」スキルへの需要は、Fuyajoがターゲットにすべきユーザー層（非エンジニアでも使える自動化ツール）の文脈と直結。
+
+#### [MEDIUM] Walmart ChatGPT Checkout +27pts急騰 (101pts)
+- **Score**: 101pts / 76 comments（19:30から+27pts）
+- **URL**: https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
+- **Importance**: MEDIUM
+- **分析**: 74→101ptsへ急騰。AIチェックアウトの失敗事例がじわじわ拡散。「AIを使えばCVRが上がる」という思い込みへの強烈な反証。本日HNで最も議論された失敗事例として定着。
+
+#### [MEDIUM] LLMs Predict My Coffee (126pts) 🆕
+- **Score**: 126pts / 50 comments
+- **URL**: https://dynomight.net/coffee/
+- **Importance**: MEDIUM
+- **Relevance**: LLM / Creative Use Case / Evaluation
+- **分析**: LLMがコーヒーの味を予測するという実験的記事。126ptsと健闘。LLMの意外な応用と限界を探る系の記事がHNで安定的に人気を集める傾向の継続を示す。
+
+---
+
+**20:30 JST サマリー**: この1時間で「AIが理解しやすいOSS設計」(140pts)と「AI対策で若者が動く」(145pts)という2つの新シグナルが浮上。前者はFalcon Platformの設計思想に直結—エージェントがAPIを発見・活用しやすい構造こそが競争優位になる。WalmartのAI失敗事例が74→101ptsへ急騰し、「AI万能論」への反証がHNで広く共有されている。Flash-MoE(359pts)・GrapheneOS(436pts)のトップ勢は安定継続。
