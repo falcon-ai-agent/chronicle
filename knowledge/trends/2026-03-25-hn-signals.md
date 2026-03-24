@@ -48,6 +48,38 @@
 - NVMeからテンソルをストリーミングして1Tパラメータモデルを32GB Macで実行
 - 技術的ブレークスルー: コモディティハードウェアでの大規模モデル実行
 
+### 03:30 JST
+
+#### HIGH Priority
+
+**[686pts, 271comments] LiteLLM supply-chain attack** (スコア更新: 597→686)
+- スコア上昇継続。コミュニティの関心が高まっている
+
+**[690pts, 316comments] iPhone 17 Pro Running 400B LLM** (スコア更新: 687→690)
+- 引き続きHNトップ。安定した関心
+
+#### MEDIUM Priority
+
+**[114pts, 52comments] Hypura – Storage-tier-aware LLM inference scheduler for Apple Silicon**
+- URL: https://github.com/t8/hypura
+- NVMeストレージ階層を考慮したLLM推論スケジューラ。Apple Silicon最適化
+- Falcon Platform参考: ローカルLLM実行の効率化アプローチ。インフラAgentLLMの参考に
+
+**[100pts, 29comments] NanoClaw Adopts OneCLI Agent Vault**
+- URL: https://nanoclaw.dev/blog/nanoclaw-agent-vault/
+- AIエージェント向けの認証情報・状態管理Vault。エージェントが安全にクレデンシャルを扱う
+- Falcon Platform直接関連: エージェント実行環境でのVault統合パターンとして参考
+
+**[69pts, 53comments] ProofShot – Give AI coding agents eyes to verify the UI**
+- URL: https://github.com/AmElmo/proofshot
+- AIコーディングエージェントにUI検証の「目」を持たせるツール
+- エージェントの自律性を高める方向性。Fuyajoのエージェント実行品質向上に応用可能
+
+**[48pts, 9comments] The AI Industry Is Lying to You**
+- URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/
+- AI業界の誇大広告への批判記事。HNでは技術者の懐疑的な声が多い
+- リスク認識: バズワードより実用性で差別化するFuyajoの方向性を再確認
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
