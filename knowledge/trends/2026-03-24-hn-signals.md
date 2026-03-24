@@ -895,3 +895,69 @@ Falcon Platform示唆（13:30追加）:
 - **Walmart ChatGPT失敗** → AIは「チャット化」するのではなく、既存UXに組み込む形が成功する。Fuyajoでもチャットを主体UIにするより、タスク実行・自動化に注力すべき
 - **GitHub可用性問題** → 技術者は信頼性を最重視する。99.9%以下は許容されない時代。プラットフォームのSLA設計に反映
 - **SMB向けAI receptionist** → 非エンジニア向けAI応用のニーズは実在する。Fuyajoの非エンジニアターゲット戦略の裏付け
+
+---
+
+## HN Signals 14:30 JST
+
+### 継続シグナル（スコア変化）
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [539pts, 252comments] ↑↑ ★今日最高値更新
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- Relevance: On-Device AI / Hardware
+- 527→539ptsへ続伸。今日一日継続して最大シグナル。オンデバイス400B LLM動作が技術者コミュニティで最大の話題。
+
+**Walmart: ChatGPT checkout 3x worse** [417pts, 266comments] ↑
+- 416→417pts、コメント266と今日最多継続。AI UX失敗の代表事例として議論が終日続く。
+
+**GitHub 3 nines availability** [446pts, 229comments] ↑
+- 444→446pts。インフラ信頼性への不満が継続。
+
+**Claude Code Cheat Sheet** [263pts, 86comments] ↑↑ ★Claude直接関連
+- 237→263pts。+26ptsの急伸継続。Claude Codeのリファレンス需要が加速中。
+
+**Autoresearch on an old research idea** [320pts, 71comments] ↑
+- 310→320pts。AI自律リサーチへの関心が引き続き上昇。HNトップ4位に浮上。
+
+**How I'm Productive with Claude Code** [153pts, 97comments] ↑ ★Claude直接関連
+- 147→153pts。コメント97と活発。Claude Code活用法の需要継続。
+
+**I built an AI receptionist for a mechanic shop** [241pts, 265comments] ↑
+- 237→241pts。コメント265と今日最多クラス。SMB向けAI事例として依然活発。
+
+**Trivy under attack again** [181pts, 65comments] ↑
+- 177→181pts。GitHub Actionsサプライチェーン攻撃継続。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [103pts, 30comments] ↑
+- 85→103pts。AIエージェント向け知識共有インフラが100pts超え。
+
+### 注目シグナル（14:30時点）
+
+**Epoch confirms GPT5.4 Pro solved a frontier math open problem** [199pts, 95comments] ↑↑ ★急伸
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- Relevance: AI Capability / Frontier Research
+- 141→199ptsへ急伸（+58pts）。Ramseyハイパーグラフという未解決数学問題をGPT5.4 Proが初解決。AIの数学的推論能力が研究者水準に到達した可能性。歴史的なマイルストーン。
+
+**FCC updates covered list to include foreign-made consumer routers** [259pts, 170comments] ↑
+- URL: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+- Relevance: Security / Geopolitics
+- 213→259ptsへ続伸。中国製ルーター規制強化への技術者の関心が高い。
+
+**I created my first AI-assisted pull request and I feel like a fraud** [66pts, 69comments] ↑
+- URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/
+- Relevance: AI Ethics / Developer Psychology
+- 52→66pts。コメント数がスコアを上回り続ける（コメント率 > 1）。AI活用への罪悪感・詐欺師症候群への共感が強い。
+
+### まとめ（14:30 JST）
+
+14:30時点での主要動向:
+1. **iPhone 17 Pro 400B LLM（539pts）** - 今日最高値更新継続。エッジAI時代の象徴
+2. **GPT5.4 Frontier Math突破（199pts）急伸** - AIの数学的推論が研究者水準に。歴史的マイルストーン
+3. **Claude Code関連2本（263pts + 153pts）** - Claude Codeエコシステム需要が終日加速
+4. **Walmart AI失敗（417pts）+ GitHub可用性（446pts）** - AI UX限界とインフラ信頼性への不満が400pts台で定着
+
+Falcon Platform示唆（14:30追加）:
+- **GPT5.4数学突破** → 推論型AIの能力が急伸。エージェントに高度な分析・推論タスクを委ねられる時代が近い
+- **Claude Code Cheat Sheet急伸継続** → Claude Code活用ドキュメントへの需要が今日一日最大の伸びを示している。Fuyajoとの統合訴求タイミング
+- **AI詐欺師症候群** → 透明性・説明可能性の提供がユーザーの心理的障壁を下げる。Falcon Platformの設計原則に組み込むべき
+
