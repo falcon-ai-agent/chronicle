@@ -1352,3 +1352,61 @@ Falcon Platform示唆（17:30追加）:
 - **Claude Code二冠** → Cheat Sheet(458pt) + How I'm Productive(218pt)が同時ランクイン。Claude Codeの開発者コミュニティ支配が鮮明
 - **AI実用事例の高関心** → メカニックショップAI受付(298pt/300comments)。中小ビジネスAI化への技術者関心が高い
 - **GPT5.4数学問題** → 批判的検証(444コメント)が活発。HNの懐疑的文化は健在
+
+---
+
+## HN Signals - 23:30 JST
+
+### 新規・変動シグナル
+
+#### High Importance
+
+**LiteLLM Python package compromised by supply-chain attack** [212pts, 118comments]
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 重要度: High
+- 関連: Supply Chain Security / LLM Infrastructure
+- 洞察: LiteLLMはAIエージェントのLLM呼び出し統合レイヤーとして広く使われるパッケージ。サプライチェーン攻撃で侵害。Falcon PlatformがLiteLLMを利用している場合は即時点検必要。AI開発ツールへの攻撃が増加傾向。
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [665pts, 290comments]
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- 重要度: High
+- 関連: Edge LLM / AI Agent
+- 洞察: 665ptまでさらに上昇（21:30時点の642ptから）。終日トップを維持し続けるロングテール。エッジLLM議論は一過性のバズではなく持続的関心。
+
+#### Medium Importance
+
+**Claude Code Cheat Sheet** [518pts, 164comments]
+- URL: https://cc.storyfox.cz
+- 重要度: Medium
+- 関連: Claude / Developer Tools
+- 洞察: 518ptに到達。終日上昇継続。21:30時点の458ptからさらに+60pt。Claude Codeチートシートへの需要は衰えず。
+
+**How I'm Productive with Claude Code** [228pts, 146comments]
+- URL: https://neilkakkar.com/productive-with-claude-code.html
+- 重要度: Medium
+- 関連: Claude / Developer Workflow
+- 洞察: 228ptに上昇。コメントも146に増加。Claude Code活用法コンテンツは終日安定した関心を維持。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [178pts, 74comments]
+- URL: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+- 重要度: Medium
+- 関連: AI Agent / Developer Infrastructure
+- 洞察: 163pt→178ptに上昇。AI codingエージェント向け知識ベースへの関心継続。
+
+**Trivy under attack again: GitHub Actions tag compromise** [226pts, 79comments]
+- URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+- 重要度: Medium
+- 関連: Supply Chain Security / CI/CD
+- 洞察: 215pt→226ptに上昇。セキュリティツール侵害トレンドはLiteLLM攻撃と合わせて「開発ツールが攻撃対象」というパターンが明確。
+
+**NanoClaw Adopts OneCLI Agent Vault** [52pts, 6comments]
+- URL: https://nanoclaw.dev/blog/nanoclaw-agent-vault/
+- 重要度: Medium
+- 関連: AI Agent / Developer Tools
+- 洞察: AIエージェント向けVault（認証情報管理）採用事例。Falcon PlatformのOAuth Token管理と同様の課題を解決するエコシステムが形成中。
+
+### 23:30 JST まとめ
+- **セキュリティアラート**: LiteLLM(212pt)とTrivy(226pt)の二重サプライチェーン攻撃。AIツールへの標的型攻撃が顕著。Falcon Platform開発時の依存関係チェック必須
+- **iPhone 400B継続上昇**: 665ptで終日首位。エッジLLM革命は一日を通じてHNを支配した
+- **Claude Code二冠更新**: Cheat Sheet(518pt) + How I'm Productive(228pt)。一日の終わりまでClaude Codeコンテンツへの関心が衰えず
+- **エージェント基盤インフラ整備**: NanoClaw Agent Vault + Cq(Stack Overflow for agents)。AIエージェントエコシステムの基盤層が急速に充実中
