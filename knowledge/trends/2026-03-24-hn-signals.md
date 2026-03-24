@@ -659,3 +659,55 @@ Falcon Platform示唆:
 Falcon Platform示唆（09:30追加）:
 - Claude Code活用法への関心が急伸→Falcon PlatformにClaude Code統合を訴求する好機
 - AI向け知識共有インフラ（Cq）の登場 → エージェント間の知識共有の重要性が高まっている
+
+---
+
+## HN Signals 10:30 JST
+
+### 継続シグナル（スコア変化）
+
+**iPhone 17 Pro Running 400B LLM** [476pts, 238comments] ↑↑ ★最重要
+- 461→476pts。コメント238と活発。エッジAI推論の限界突破を示す今日最大のシグナル継続。
+
+**GitHub 3 nines availability** [435pts, 223comments] ↑
+- 431→435pts。インフラ信頼性への不満がコミュニティで根強く続いている。
+
+**Walmart: ChatGPT checkout 3x worse** [408pts, 262comments] ↑ ★重要
+- 405→408pts。コメント262と最多クラス。AI UX失敗の代表事例として議論が続く。
+
+**Claude Code Cheat Sheet** [137pts, 43comments] ↑↑ ★Claude直接関連
+- 100→137pts。伸び幅最大クラス。Claude Codeへの実用ニーズが加速中。
+
+**How I'm Productive with Claude Code** [110pts, 79comments] ↑ ★Claude直接関連
+- 99→110pts。コメント79と活発。Claude Code活用法コンテンツへの需要が高い。
+
+**I built an AI receptionist for a mechanic shop** [210pts, 233comments] ↑
+- 203→210pts。SMB向けAIエージェント実装事例として議論継続。
+
+**LocalStack Archived their GitHub repo** [153pts, 80comments] ↑
+- 148→153pts。OSSクローズド化への反発継続。
+
+### 新規シグナル（10:30時点）
+
+**Autoresearch on an old research idea** [263pts, 66comments] ★新規・High
+- URL: https://ykumar.me/blog/eclip-autoresearch/
+- Relevance: AI Research / Autonomous Agents
+- 自律リサーチエージェントが古い研究アイデアを自動深堀り。スコア263と高水準で登場。AIが自律的に研究サイクルを回す実例。Falcon PlatformのAutopilot機能と高い親和性。
+
+**FCC Updates Covered List: Foreign-Made Consumer Routers** [157pts, 97comments] ★新規・Medium
+- URL: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+- Relevance: Security / Infrastructure
+- コメント97と活発。中国製ルーター規制強化。セキュリティ・サプライチェーンへの懸念が高まっている。
+
+### まとめ（10:30 JST）
+
+10:30時点での状況:
+1. **iPhone 17 Pro 400B LLM（476pts）** - 引き続き今日最大のシグナル。エッジAI推論の新時代
+2. **Claude Code関連2記事が加速**（137pts + 110pts）- 30分で大きく伸長。Claude Codeエコシステムへの関心が実用フェーズに入った
+3. **Autoresearch（263pts）** - 自律リサーチエージェントの実例として新規登場。Autopilotとの親和性高い
+4. **Walmart AI失敗（408pts）** - AI UX設計の反面教師として議論継続
+
+Falcon Platform示唆（10:30追加）:
+- Claude Code活用法コンテンツの急伸 → Falcon PlatformとClaude Code統合の訴求タイミング
+- Autoresearchの登場 → 自律リサーチループ（OODA + 知識蓄積）の市場ニーズが可視化された
+- Walmart失敗事例 → AI UX設計において「人間の既存フロー」を尊重することの重要性
