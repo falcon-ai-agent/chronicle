@@ -227,6 +227,41 @@
 - MCPサーバーの高速化フレームワーク。エージェントツール統合に直接関連
 - Fuyajo参考: AI Assistant (MCP連携)の応答速度向上に応用可能
 
+### 08:30 JST
+
+#### HIGH Priority
+
+**[397pts, 305comments] Is anybody else bored of talking about AI?** (スコア更新: 338→397)
+- AI倦怠感記事がさらに急上昇。本日通じて最も急速に伸びているストーリー
+- 技術者の「AIバズ疲れ」が確実なトレンドに。批判的だが現実を認める声が多数
+
+**[390pts, 566comments] Epoch confirms GPT5.4 Pro solved frontier math open problem** (NEW)
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- コメント566件は本日最多。フロンティア数学問題をLLMが解いた - 能力的マイルストーン
+- HN議論: 「本当の理解 vs パターンマッチング」論争が再燃。技術者の懐疑論も強い
+- Falcon Platform観点: フロンティアAI能力の実証はAIエージェント価値の裏付けに
+
+**[432pts, 354comments] LiteLLM supply-chain attack** (スコア更新: 370→432)
+- セキュリティ議論がさらに拡大。コメント354件で活発継続
+
+**[464pts, 300comments] Apple Business** (スコア更新: 423→464、本日トップ確定)
+- 非エンジニア向けオールインワンプラットフォームがHNで最高スコアに到達
+- 競合観点: Appleの本格参入で非エンジニア市場の競争激化が確実
+
+#### MEDIUM Priority
+
+**[242pts, 197comments] Arm AGI CPU** (スコア更新: 221→242)
+- AI推論専用ハードウェアへの関心継続。AGI対応CPUアーキテクチャが現実化
+
+**[217pts, 63comments] Gemini native video search** (スコア更新: 196→217)
+- GeminiのネイティブVideo埋め込みでサブ秒検索。マルチモーダルAI実用化加速
+
+**[182pts, 73comments] Hypura – LLM inference scheduler** (スコア更新: 174→182)
+- Apple Silicon向けLLM推論最適化が継続安定
+
+**[146pts, 138comments] We're saying goodbye to Sora** (CONFIRMED)
+- SoraのX公式アカウントが廃止を正式発表。大型AIプロダクト撤退が確定
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
@@ -234,3 +269,7 @@
 **オンデバイスAIの加速**: iPhone 17 Pro 400Bは象徴的。クラウドAPIへの依存が下がる方向。Falcon Platformのクラウド実行バリューをどう維持するか考える必要あり。
 
 **AIアプリ普及の壁**: "So where are all the AI apps?"の議論は重要。技術は揃っているのにアプリが少ない→ユーザー体験の問題。Fuyajoの非エンジニア向け設計が正しい方向性を示唆している。
+
+**フロンティアAI能力の実証**: GPT5.4 Pro が数学未解決問題を解いた。コメント566件の大議論。AIが「理解」しているのかどうかの本質的議論が再燃。Fuyajoはこの能力を活用するプラットフォームとして位置づけが重要。
+
+**AI倦怠感のピーク**: "Bored of AI"記事が本日最速で伸びている。技術者は「AIの話題」ではなく「AIで何ができるか」を求めている。FuyajoのコミュニケーションはAIバズを避け実用価値に集中すべき。
