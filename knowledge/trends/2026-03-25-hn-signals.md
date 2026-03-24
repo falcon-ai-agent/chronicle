@@ -187,6 +187,46 @@
 - URL: https://www.hollywoodreporter.com/business/digital/openai-shuttering-sora-ai-video-app-1236546187/
 - ディズニーがOpenAIとの契約を解除。Sora廃止の波及効果
 
+### 07:30 JST
+
+#### HIGH Priority
+
+**[338pts, 268comments] Is anybody else bored of talking about AI?** (スコア更新: 241→338)
+- AI倦怠感記事がさらに急上昇。1時間で97pts増加 - 本日最大の伸び
+- 技術者コミュニティのAIバズ疲れが加速している
+- Fuyajo示唆: 「AIを使っている」ではなく「何ができるか」で訴求すべき
+
+**[423pts, 273comments] Apple Business** (スコア更新: 354→423, トップに浮上)
+- 中小企業向けオールインワンプラットフォームが本日のHNトップ
+- 非エンジニア市場への大手参入が最大の関心事
+
+**[370pts, 345comments] LiteLLM supply-chain attack** (スコア更新: 279→370)
+- セキュリティ議論は依然継続。コメント345件で活発
+
+#### MEDIUM Priority
+
+**[221pts, 176comments] Arm AGI CPU** (スコア更新: 193→221)
+- AGI向けCPUへの関心安定継続
+
+**[196pts, 59comments] Gemini native video embedding** (NEW)
+- URL: https://github.com/ssrajadh/sentrysearch
+- GeminiのネイティブVideo埋め込みでサブ秒の動画検索を実現
+- マルチモーダルAI実用化の加速。Fuyajoのエージェント機能拡張の参考に
+
+**[174pts, 73comments] Hypura – LLM inference scheduler** (スコア更新: 166→174)
+- Apple Silicon向けLLM推論最適化が安定した関心を継続
+
+**[103pts, 69comments] ProofShot** (スコア更新: 69→103)
+- AIコーディングエージェントにUI検証機能。エージェント品質向上ツール
+
+**[82pts, 16comments] Disney exits OpenAI deal after Sora shutdown** (スコア更新: 13→82)
+- Sora廃止の波及が加速。ディズニーが契約解除
+
+**[57pts, 38comments] FastMCP** (NEW)
+- URL: https://gofastmcp.com/getting-started/welcome
+- MCPサーバーの高速化フレームワーク。エージェントツール統合に直接関連
+- Fuyajo参考: AI Assistant (MCP連携)の応答速度向上に応用可能
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
