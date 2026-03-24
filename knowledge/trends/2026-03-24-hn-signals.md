@@ -1355,6 +1355,64 @@ Falcon Platform示唆（17:30追加）:
 
 ---
 
+### 22:30 JST
+
+**LiteLLM Python package compromised by supply-chain attack** [73pts, 20comments]
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 重要度: High (セキュリティ警告)
+- 関連: AI Infrastructure / Security
+- 洞察: LiteLLM（LLMルーティングの主要ライブラリ）がサプライチェーン攻撃を受けた。AIスタック全体のセキュリティリスクが顕在化。Fuyajo含むAIプラットフォームはパッケージ依存関係の監視が急務。
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [654pts, 287comments]
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- 重要度: High
+- 関連: Edge AI / LLM
+- 洞察: 654ptで本日最高スコアを維持。モバイルエッジでの400B実行はパラダイムシフト。クラウドAPI依存のビジネスモデルへの長期的な挑戦を示唆するが、短期は変わらない。
+
+**Claude Code Cheat Sheet** [478pts, 159comments]
+- URL: https://cc.storyfox.cz
+- 重要度: High
+- 関連: Claude / Developer Tools
+- 洞察: 本日通じて500pt近くに迫る高スコア継続。Claude Codeの実践的ノウハウへの渇望が大きい。Fuyajoのユーザー教育・ドキュメント戦略として活用できる。
+
+**Microsoft's "Fix" for Windows 11: Flowers After the Beating** [438pts, 307comments]
+- URL: https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/
+- 重要度: Medium
+- 関連: General Tech / UX
+- 洞察: Windows 11への根強い不満がHNでも大炎上。「ガスライティング」という言葉が象徴するように、大企業UIへの不信感は根強い。シンプルで誠実なプロダクトが求められている。
+
+**Epoch confirms GPT5.4 Pro solved a frontier math open problem** [363pts, 461comments]
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- 重要度: High
+- 関連: AI Capability / LLM
+- 洞察: GPT-5.4 Proがフロンティア数学の未解決問題を解決。コメント461件と活発な議論。AGIへの歩みを示す一方、HNでは「本当に証明できているのか」という批判的検証も多い。Anthropicとの能力競争が激化。
+
+**How I'm Productive with Claude Code** [224pts, 143comments]
+- URL: https://neilkakkar.com/productive-with-claude-code.html
+- 重要度: High
+- 関連: Claude Code / Developer Workflow
+- 洞察: Claude Code生産性ノウハウ記事が224ptを継続。実践的なワークフロー記事への需要が高い。Falcon Platformのドキュメントやブログ戦略に活かせる。
+
+**Trivy under attack again: Widespread GitHub Actions tag compromise** [222pts, 79comments]
+- URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+- 重要度: Medium
+- 関連: Security / CI-CD
+- 洞察: CI/CDパイプラインへのサプライチェーン攻撃が2件連続でHNに登場。開発者インフラのセキュリティへの関心が高まっている。Fuyajoのセキュリティ訴求にも活用できる文脈。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [173pts, 66comments]
+- URL: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+- 重要度: Medium
+- 関連: AI Agent / Developer Tools
+- 洞察: スコアが引き続き上昇中。Mozillaが「エージェント向け知識ベース」を本格展開。エージェントエコシステムの標準化・知識共有インフラが整備段階へ。
+
+#### 22:30 JST まとめ
+- **セキュリティアラート2件同時** → LiteLLM + Trivy/GitHub Actions。AIインフラと開発ツールの両方が攻撃対象。Fuyajoでのパッケージ監視・CI/CDセキュリティの見直しを検討
+- **iPhone 400B LLMが本日最高654pt** → エッジAI革命の関心が1日中持続。長期トレンドとして注視
+- **GPT-5.4 Proの数学解決(363pt)** → Anthropic競合の能力飛躍。Claude 4の登場タイミングと比較検討必要
+- **Claude Code関連が2記事で700pt超合算** → Claude Codeエコシステムへの開発者の強い支持が本日を通じて確認
+
+---
+
 ## HN Signals - 23:30 JST
 
 ### 新規・変動シグナル
@@ -1365,13 +1423,13 @@ Falcon Platform示唆（17:30追加）:
 - URL: https://github.com/BerriAI/litellm/issues/24512
 - 重要度: High
 - 関連: Supply Chain Security / LLM Infrastructure
-- 洞察: LiteLLMはAIエージェントのLLM呼び出し統合レイヤーとして広く使われるパッケージ。サプライチェーン攻撃で侵害。Falcon PlatformがLiteLLMを利用している場合は即時点検必要。AI開発ツールへの攻撃が増加傾向。
+- 洞察: 22:30時点の73ptから212ptへ急上昇。LiteLLMはAIエージェントのLLM呼び出し統合レイヤーとして広く使われるパッケージ。サプライチェーン攻撃で侵害。AI開発ツールへの攻撃が増加傾向。
 
 **iPhone 17 Pro Demonstrated Running a 400B LLM** [665pts, 290comments]
 - URL: https://twitter.com/anemll/status/2035901335984611412
 - 重要度: High
 - 関連: Edge LLM / AI Agent
-- 洞察: 665ptまでさらに上昇（21:30時点の642ptから）。終日トップを維持し続けるロングテール。エッジLLM議論は一過性のバズではなく持続的関心。
+- 洞察: 665ptまでさらに上昇（22:30時点の654ptから）。終日トップを維持し続けるロングテール。エッジLLM議論は一過性のバズではなく持続的関心。
 
 #### Medium Importance
 
@@ -1379,7 +1437,7 @@ Falcon Platform示唆（17:30追加）:
 - URL: https://cc.storyfox.cz
 - 重要度: Medium
 - 関連: Claude / Developer Tools
-- 洞察: 518ptに到達。終日上昇継続。21:30時点の458ptからさらに+60pt。Claude Codeチートシートへの需要は衰えず。
+- 洞察: 518ptに到達。22:30時点の478ptからさらに+40pt。Claude Codeチートシートへの需要は衰えず。
 
 **How I'm Productive with Claude Code** [228pts, 146comments]
 - URL: https://neilkakkar.com/productive-with-claude-code.html
@@ -1391,13 +1449,13 @@ Falcon Platform示唆（17:30追加）:
 - URL: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
 - 重要度: Medium
 - 関連: AI Agent / Developer Infrastructure
-- 洞察: 163pt→178ptに上昇。AI codingエージェント向け知識ベースへの関心継続。
+- 洞察: 173pt→178ptに上昇。AI codingエージェント向け知識ベースへの関心継続。
 
 **Trivy under attack again: GitHub Actions tag compromise** [226pts, 79comments]
 - URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
 - 重要度: Medium
 - 関連: Supply Chain Security / CI/CD
-- 洞察: 215pt→226ptに上昇。セキュリティツール侵害トレンドはLiteLLM攻撃と合わせて「開発ツールが攻撃対象」というパターンが明確。
+- 洞察: 222pt→226ptに上昇。セキュリティツール侵害トレンドはLiteLLM攻撃と合わせて「開発ツールが攻撃対象」というパターンが明確。
 
 **NanoClaw Adopts OneCLI Agent Vault** [52pts, 6comments]
 - URL: https://nanoclaw.dev/blog/nanoclaw-agent-vault/
@@ -1406,7 +1464,7 @@ Falcon Platform示唆（17:30追加）:
 - 洞察: AIエージェント向けVault（認証情報管理）採用事例。Falcon PlatformのOAuth Token管理と同様の課題を解決するエコシステムが形成中。
 
 ### 23:30 JST まとめ
-- **セキュリティアラート**: LiteLLM(212pt)とTrivy(226pt)の二重サプライチェーン攻撃。AIツールへの標的型攻撃が顕著。Falcon Platform開発時の依存関係チェック必須
+- **セキュリティアラート**: LiteLLM(212pt/急上昇)とTrivy(226pt)の二重サプライチェーン攻撃。AIツールへの標的型攻撃が顕著。Falcon Platform開発時の依存関係チェック必須
 - **iPhone 400B継続上昇**: 665ptで終日首位。エッジLLM革命は一日を通じてHNを支配した
 - **Claude Code二冠更新**: Cheat Sheet(518pt) + How I'm Productive(228pt)。一日の終わりまでClaude Codeコンテンツへの関心が衰えず
 - **エージェント基盤インフラ整備**: NanoClaw Agent Vault + Cq(Stack Overflow for agents)。AIエージェントエコシステムの基盤層が急速に充実中
