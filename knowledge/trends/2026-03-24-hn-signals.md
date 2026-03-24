@@ -711,3 +711,64 @@ Falcon Platform示唆（10:30追加）:
 - Claude Code活用法コンテンツの急伸 → Falcon PlatformとClaude Code統合の訴求タイミング
 - Autoresearchの登場 → 自律リサーチループ（OODA + 知識蓄積）の市場ニーズが可視化された
 - Walmart失敗事例 → AI UX設計において「人間の既存フロー」を尊重することの重要性
+
+---
+
+## HN Signals 11:30 JST
+
+### 継続シグナル（スコア変化）
+
+**iPhone 17 Pro Running 400B LLM** [490pts, 243comments] ↑↑ ★今日最高値更新
+- 476→490pts。今日一日継続して上昇し続け490ptsに到達。エッジAI推論の限界突破を示す今日最大シグナル。
+
+**GitHub 3 nines availability** [437pts, 225comments] ↑
+- 435→437pts。インフラ信頼性への不満が朝になっても継続。
+
+**Walmart: ChatGPT checkout 3x worse** [410pts, 264comments] ↑ ★400pts超え維持
+- 408→410pts。コメント264と今日最多クラス継続。AI UX失敗の代表事例として今日一日議論が続いている。
+
+**Claude Code Cheat Sheet** [163pts, 57comments] ↑↑ ★Claude直接関連・急伸
+- 137→163pts。30分で+26ptsと今日最大の伸び幅。実用的Claude Codeリソースへの需要が加速中。
+
+**Autoresearch on an old research idea** [277pts, 67comments] ↑
+- 263→277pts。AI自律リサーチへの関心が持続的に上昇。Falcon PlatformのAutopilot機能との高い親和性。
+
+**How I'm Productive with Claude Code** [122pts, 84comments] ↑ ★Claude直接関連
+- 110→122pts。Claude Code活用法コンテンツへの需要継続。コメント84と活発な議論。
+
+**I built an AI receptionist for a mechanic shop** [220pts, 251comments] ↑↑
+- 210→220pts。コメント251と今日最多クラス。小規模ビジネスへのAIエージェント実装事例として議論が最も活発。
+
+**Trivy under attack again** [159pts, 59comments] ↑
+- 148→159pts。GitHub Actionsサプライチェーン攻撃への注意が継続。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [69pts, 25comments] ↑
+- 36→69pts。AIエージェント向け知識共有インフラへの関心が急伸。
+
+### 新規シグナル（11:30時点）
+
+**I Created My First AI-Assisted Pull Request and I Feel Like a Fraud** [29pts, 27comments] ★注目
+- URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/
+- Relevance: AI Ethics / Developer Psychology
+- AIアシストコードへの罪悪感・詐欺師症候群。開発者コミュニティで議論。スコアは低いがコメント数がスコアに近い（コメント率高い）。AI生成コードへの心理的抵抗感が潜在的に大きいことを示す。
+
+**LLMs learn what programmers create, not how programmers work** [20pts, 1comment]
+- URL: https://news.ycombinator.com/item?id=47494696
+- Relevance: LLM Limitations
+- LLMはコードを学ぶが「プログラマーの思考プロセス」は学ばないという本質的限界の指摘。
+
+### まとめ（11:30 JST）
+
+11:30時点での主要変化:
+1. **iPhone 17 Pro 400B LLM（490pts）** - 今日一日の最大シグナル。エッジAI革命を示す象徴的記事
+2. **Claude Code Cheat Sheet急伸（137→163pts）** - Claude Codeエコシステムへの実用ニーズが今日最大の伸び
+3. **AI receptionist（220pts, 251comments）** - コメント数でも最多クラス。実世界AIエージェント導入の活発な議論
+4. **Walmart AI失敗（410pts, 264comments）** - コメント264と今日最多。AI UX設計への警告が一日中共鳴
+
+新規シグナル:
+- **AI-Assisted PRへの罪悪感** → 開発者のAI活用に対する心理的障壁が存在。UI/UXだけでなく「信頼感の醸成」がツール設計の鍵
+
+Falcon Platform示唆（11:30追加）:
+- Claude Code Cheat Sheet急伸 → Claude Codeとの統合を前面に出した訴求がタイムリー
+- AIエージェント「詐欺師感」 → 透明性・説明可能性がFalcon Platformの差別化軸になり得る
+- コメント数 > スコアの記事が複数 → 実装・実体験の話題が技術者の議論を最も引き出す
