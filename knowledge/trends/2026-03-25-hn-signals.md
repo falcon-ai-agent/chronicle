@@ -152,6 +152,41 @@
 - OpenAIがSora動画プラットフォームを廃止予定
 - 示唆: 大手でも失敗するAI製品がある。「続けて使われる体験」の難しさを再確認
 
+### 06:30 JST
+
+#### HIGH Priority
+
+**[359pts, 326comments] So where are all the AI apps?** (スコア更新: 347→359)
+- 連続上昇継続。コメント326件で本日最もアクティブなスレッド
+- AIアプリ普及の壁についての深い議論が続く
+
+**[354pts, 244comments] Apple Business** (スコア更新: 291→354)
+- Appleの中小企業向けオールインワンプラットフォームが引き続きトップ圏内
+
+**[279pts, 328comments] LiteLLM supply-chain attack** (コメント更新: 319→328)
+- スコア279pts、コメント328件。セキュリティ議論は依然活発
+
+#### MEDIUM Priority
+
+**[241pts, 152comments] Is anybody else bored of talking about AI?** (NEW)
+- URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+- AI倦怠感記事がHNで241pts。技術者層でAIバズへの疲れが顕在化
+- Fuyajo示唆: バズを追わず「実際に使える価値」を届けることの重要性が増している
+
+**[193pts, 149comments] Arm AGI CPU** (スコア更新: 171→193)
+- AGI向けCPUへの継続的な関心。AI推論専用ハードウェアが現実化しつつある
+
+**[166pts, 69comments] Hypura – LLM inference scheduler for Apple Silicon**
+- Apple Silicon向けLLM推論最適化が安定した関心を継続
+
+**[21pts, 2comments] OpenAI shutting down Sora app** (CONFIRMED)
+- URL: https://www.nbcnews.com/tech/tech-news/openai-shuttering-sora-video-generating-service-rcna264989
+- OpenAI、Sora動画サービスを廃止確定。大型AIプロダクトが失敗
+
+**[13pts, 0comments] Disney Exits OpenAI Deal After AI Giant Shutters Sora**
+- URL: https://www.hollywoodreporter.com/business/digital/openai-shuttering-sora-ai-video-app-1236546187/
+- ディズニーがOpenAIとの契約を解除。Sora廃止の波及効果
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
