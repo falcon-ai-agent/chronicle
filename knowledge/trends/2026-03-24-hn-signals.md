@@ -577,3 +577,85 @@ Falcon Platform示唆:
 - **ChatGPT 3x worse問題** → 「AIだから良い」ではなくUX設計が決定的。対話型インターフェースの設計に慎重さが必要
 - **エッジAI急進展** → クラウドAI一辺倒の戦略リスク。将来的なオンデバイス実行も視野に
 - **Claude Codeエコシステム拡大** → 開発者向けAIツール市場が成熟中。連携機会が増える
+
+---
+
+## HN Signals - 09:30 JST
+
+### 主要シグナル（継続上昇）
+
+#### High Importance
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [461pts, 234comments] ★今日最高値
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- Relevance: Edge AI / On-Device LLM
+- 442→461ptsへ更新。今日のHNトップ。iPhoneで400Bモデルが動作するデモへの関心が一日中上昇し続けている。エッジAI革命の象徴的シグナル。
+
+**GitHub appears to be struggling with measly three nines availability** [431pts, 223comments] ↑
+- URL: https://www.theregister.com/2026/02/10/github_outages/
+- Relevance: Infrastructure Reliability / Developer Tools
+- 427→431pts。今日一日継続上昇。インフラ信頼性への技術者の不満が朝になっても衰えない。
+
+**Walmart: ChatGPT checkout converted 3x worse than website** [405pts, 262comments] ↑
+- URL: https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
+- Relevance: AI UX / Product Strategy
+- 394→405pts、コメント260→262。400pts超え。AI対話UIの失敗事例が今日最大の議論を維持。
+
+#### Medium Importance
+
+**Autoresearch on an old research idea** [253pts, 65comments] ↑
+- URL: https://ykumar.me/blog/eclip-autoresearch/
+- Relevance: AI Research Automation / Autonomous Agents
+- 233→253ptsへ続伸。AI自律リサーチ事例への関心が一日通じて上昇。
+
+**Claude Code Cheat Sheet** [100pts, 25comments] ↑↑ ★Claude直接関連
+- URL: https://cc.storyfox.cz
+- Relevance: Claude Code / Developer Tools
+- 58→100ptsへ急伸。Claude Codeのチートシートが100pts超え。実用的なClaudeツール活用ニーズの高まりを示す。
+
+**How I'm Productive with Claude Code** [99pts, 73comments] ↑ ★Claude直接関連
+- URL: https://neilkakkar.com/productive-with-claude-code.html
+- Relevance: Claude Code / Developer Workflow
+- 88→99pts。Claude Code活用法の2記事が同時に100pt圏に。Claude Codeエコシステムの成熟を示す。
+
+**I built an AI receptionist for a mechanic shop** [203pts, 225comments] ↑
+- URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-broker/
+- Relevance: AI Agent / SMB Use Case
+- 193→203pts。コメント225と活発。小規模ビジネスへのAIエージェント実装事例として今日一日議論が続いている。
+
+**Trivy under attack again** [148pts, 54comments] ↑
+- URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+- Relevance: Security / Supply Chain
+- 137→148pts。GitHubアクションのサプライチェーン攻撃継続。
+
+**Local Stack Archived their GitHub repo** [148pts, 69comments] ↑
+- URL: https://github.com/localstack/localstack
+- Relevance: OSS商業化 / Developer Tools
+- 130→148pts。OSSクローズド化への反発継続。
+
+#### 新規シグナル
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [36pts, 17comments] ★新規
+- URL: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+- Relevance: AI Agent / Developer Tools
+- Mozillaが開発。AIエージェント向けの「スタックオーバーフロー」。エージェントが問題を投稿・解決できる共有知識ベース。AIエージェントが自律的に知識を検索・活用するインフラが整備されつつある。
+
+**LLMs learn what programmers create, not how programmers work** [16pts, 1comment] ★新規
+- URL: https://news.ycombinator.com/item?id=47494696
+- Relevance: LLM Limitations / Developer Tools
+- スコアは低いが洞察に富む。LLMはプログラマーの成果物（コード）を学習するが、プログラマーの思考プロセスは学習しない。AIコード生成の本質的な限界への指摘。
+
+### まとめ（09:30 JST）
+
+09:30時点での状況:
+1. **iPhone 17 Proで400B LLM（461pts）** - 今日一日で最高値更新継続。エッジAI革命のシグナル
+2. **GitHub可用性問題（431pts）** + **Walmart AI失敗（405pts）** - インフラ信頼性とAI UX限界への不満が400pts超え
+3. **Claude Code関連2記事が100pts圏に**（100pts+99pts）- Claude Codeエコシステムが技術者コミュニティで確立
+
+新規シグナル:
+- **Cq（AI向けStack Overflow）** → AIエージェントの自律知識検索インフラが登場。Falcon Platformのエージェント機能拡張に参考
+- **LLMはプログラマーの思考を学ばない** → AI補助コーディングの本質的限界。開発者ツール設計の示唆
+
+Falcon Platform示唆（09:30追加）:
+- Claude Code活用法への関心が急伸→Falcon PlatformにClaude Code統合を訴求する好機
+- AI向け知識共有インフラ（Cq）の登場 → エージェント間の知識共有の重要性が高まっている
