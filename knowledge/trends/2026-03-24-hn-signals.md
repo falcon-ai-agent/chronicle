@@ -1013,3 +1013,44 @@ Falcon Platform示唆（15:30追加）:
 - **エッジLLM本日最大テーマ** → 400B on iPhone 17 + 397B on laptop = クラウド依存モデルへの疑問が高まる週。Fuyajoのクラウド価値訴求を再検討する必要あり
 - **Walmart AI失敗事例** → AIチェックアウト3倍低コンバージョン。「AIだから良い」は通用しない。UXファーストの設計が必須
 - **GitHub可用性問題** → 開発者が依存するインフラの信頼性に懸念。高可用性インフラとしてのFuyajoポジショニングのチャンス
+
+---
+
+## HN Signals 16:30 JST
+
+### 更新シグナル
+
+**Epoch confirms GPT5.4 Pro solved a frontier math open problem** [282pts, 222comments] ↑継続上昇
+- 朝から継続して上昇中。GPTが数学難問を解決という事実が技術コミュニティで広く議論されている
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [577pts, 264comments] ← 本日最高得点
+- 577ptでHNトップ。400BパラメーターモデルをiPhone上で動作させた事例が爆発的に支持される
+- エッジAIの本格化が今日の主要テーマとして確定
+
+**Claude Code Cheat Sheet** [327pts, 103comments] ↑300pt超え
+- 300pt超え確認。Claude Code関連コンテンツへの持続的需要が裏付けられた
+
+**How I'm Productive with Claude Code** [182pts, 104comments]
+- 重要度: Medium
+- 関連: Claude Code / Developer Productivity
+- 洞察: Claude Code実践的使い方のブログが高評価。「How I'm Productive」系コンテンツが人気。実務での具体的ワークフローへの需要。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [124pts, 37comments]
+- 重要度: Medium
+- 関連: AI Agent / Developer Tools
+- 洞察: Mozilla.aiがAIエージェント向けのQ&Aプラットフォームを開発。コーディングエージェント同士が知識を共有するインフラ。エージェントエコシステムの成熟を示す。
+
+**Outworked – An Open Source Office UI for Claude Code Agents** [32pts, 4comments]
+- 重要度: Low-Medium
+- 関連: Claude Code / Agent UI
+- 洞察: Claude Codeエージェント向けオープンソースUIが登場。エージェントのGUI管理ツールへの需要が出始めている。
+
+**Autoresearch on an old research idea** [344pts, 72comments] ↑トップ5入り
+- 344ptでHNトップ5。AI自律リサーチの具体的事例が高く評価される。
+
+---
+
+Falcon Platform示唆（16:30追加）:
+- **Claude Code周辺エコシステム爆発** → Cheat Sheet(327pt)、How I'm Productive(182pt)、Agent UI(Outworked)と複数コンテンツが同日に上昇。Claude Codeユーザーコミュニティが急拡大中
+- **エッジLLM vs クラウドの構図** → iPhone 17で400Bモデルが動く時代。「クラウドでしかできないこと」の差別化が急務。Fuyajoは何を提供できるか再考
+- **エージェント向けインフラ需要** → CqはエージェントのためのStack Overflow。エージェントが情報検索・学習するためのインフラが次の戦場
