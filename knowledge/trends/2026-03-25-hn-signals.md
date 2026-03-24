@@ -117,6 +117,41 @@
 **[103pts, 29comments] NanoClaw Adopts OneCLI Agent Vault**
 - エージェント向けVault統合パターンが引き続き注目
 
+### 05:30 JST
+
+#### HIGH Priority
+
+**[347pts, 317comments] So where are all the AI apps?** (スコア更新: 324→347)
+- HNで最も熱い議論が継続。スコア・コメント共に上昇
+- 主要議論: 「技術は揃っているのに使い続けるアプリがない」「配信・UXの問題」
+- Fuyajo示唆: 非エンジニア向け「すぐ使えるテンプレート」アプローチが正解に近い
+
+**[291pts, 207comments] Apple Business** (スコア更新: 218→291)
+- Appleの中小企業向けオールインワンプラットフォームがさらに注目上昇
+- 競合観点: 非エンジニア市場にAppleが本格参入。差別化はAIエージェント統合で
+
+#### MEDIUM Priority
+
+**[233pts, 319comments] LiteLLM supply-chain attack** (コメント継続増加)
+- スコアは時間減衰も、コメント319件で議論が最も活発なスレッドの一つ
+- コミュニティが修正パッチを積極的に検証中
+
+**[171pts, 119comments] Arm AGI CPU** (スコア更新: 117→171)
+- ArmのAGI向けCPUへの関心継続上昇。AI推論専用ハードウェアの流れが加速
+
+**[159pts, 66comments] Hypura – LLM inference scheduler for Apple Silicon** (スコア更新: 143→159)
+- ローカルLLM推論の効率化技術として安定した注目継続
+
+**[107pts, 33comments] LLM Neuroanatomy II: Modern LLM Hacking** (NEW)
+- URL: https://dnhkng.github.io/posts/rys-ii/
+- LLMの内部構造解析と「ユニバーサル言語」の兆候。技術者向け深い内容
+- AI理解の深化: LLMの振る舞いを内側から理解するアプローチ
+
+**[13pts, 3comments] OpenAI set to discontinue Sora video platform** (NEW)
+- URL: https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e
+- OpenAIがSora動画プラットフォームを廃止予定
+- 示唆: 大手でも失敗するAI製品がある。「続けて使われる体験」の難しさを再確認
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
