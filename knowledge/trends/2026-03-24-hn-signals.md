@@ -1118,3 +1118,59 @@ Falcon Platform示唆（17:30追加）:
 - **AI UXの失敗事例が普及** → Walmart事例(420pt)が1日かけて上昇。「AIだから良い」という時代の終わり
 - **GitHubへの不満** → 451ptの高スコア。開発者インフラへの信頼性要求が高まっている
 
+---
+
+### 18:30 JST
+
+#### High Importance
+
+**iPhone 17 Pro Demonstrated Running a 400B LLM** [604pts, 273comments]
+- URL: https://twitter.com/anemll/status/2035901335984611412
+- 重要度: High
+- 関連: Edge LLM / AI Agent
+- 洞察: 604ptはHN本日最高スコア。iPhone上で400Bモデルが動作。エッジAIの進化が加速。Falcon Platformがクラウド依存モデルなら、オンデバイス移行のトレンドを無視できない。
+
+**Epoch confirms GPT5.4 Pro solved a frontier math open problem** [330pts, 348comments]
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- 重要度: High
+- 関連: Frontier AI / LLM Capability
+- 洞察: フロンティア数学の未解決問題をLLMが解決。コメント数(348)がスコア(330)を上回る活発な議論。能力の限界に関する技術者の懐疑的見方と興奮が混在。
+
+**Claude Code Cheat Sheet** [384pts, 114comments]
+- URL: https://cc.storyfox.cz
+- 重要度: High
+- 関連: Claude / Developer Tools
+- 洞察: 384ptと高スコアを維持。Claude Codeのチートシートがこれだけ需要があるということは、ユーザーが機能を把握しきれていない証拠。UXの改善余地あり。
+
+#### Medium Importance
+
+**Autoresearch on an old research idea** [355pts, 73comments]
+- URL: https://ykumar.me/blog/eclip-autoresearch/
+- 重要度: Medium
+- 関連: AI Agent / Research Automation
+- 洞察: AI自律研究の実例。エージェントが独自に調査・実験を回す事例が増加中。Falcon Platformのユースケースとして参考。
+
+**I built an AI receptionist for a mechanic shop** [275pts, 282comments]
+- URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/
+- 重要度: Medium
+- 関連: AI Agent / Practical Use Case
+- 洞察: コメント数(282)がスコア(275)を超える活発な議論。非エンジニア向けAIエージェントの実用事例。Fuyajoのターゲット層（非エンジニア向け）への示唆大。
+
+**How I'm Productive with Claude Code** [200pts, 119comments]
+- URL: https://neilkakkar.com/productive-with-claude-code.html
+- 重要度: Medium
+- 関連: Claude / Developer Workflow
+- 洞察: 朝から継続して高スコアを維持。Claude Codeの実践的ノウハウへの需要が持続。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [140pts, 51comments]
+- URL: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+- 重要度: Medium
+- 関連: AI Agent / Developer Tools
+- 洞察: Mozillaが「AIエージェント向けStack Overflow」を構築。エージェントがデバッグ情報を参照するための知識ベース。エージェントエコシステムの成熟を示す。
+
+#### 18:30 JST まとめ
+- **エッジLLM加速** → iPhone 400B(604pt)が本日最高。クラウド vs エッジの議論が続く
+- **Claude Code需要継続** → Cheat Sheet(384pt)、How I'm Productive(200pt)が高水準維持
+- **AIエージェント実用化** → レセプショニスト(275pt)など具体的ユースケースが議論を呼ぶ
+- **フロンティアAI能力** → GPT5.4が数学難問解決(330pt)、LLMの可能性と限界の議論継続
+
