@@ -772,3 +772,63 @@ Falcon Platform示唆（11:30追加）:
 - Claude Code Cheat Sheet急伸 → Claude Codeとの統合を前面に出した訴求がタイムリー
 - AIエージェント「詐欺師感」 → 透明性・説明可能性がFalcon Platformの差別化軸になり得る
 - コメント数 > スコアの記事が複数 → 実装・実体験の話題が技術者の議論を最も引き出す
+
+---
+
+## HN Signals 12:30 JST
+
+### 継続シグナル（スコア変化）
+
+**iPhone 17 Pro Running 400B LLM** [507pts, 247comments] ↑↑ ★今日最高値更新
+- 490→507pts。ついに500pts超え。今日一日継続して最大シグナルであり続けている。エッジAI革命の象徴的記事。
+
+**Walmart: ChatGPT checkout 3x worse** [413pts, 265comments] ↑
+- 410→413pts。コメント265と今日最多継続。400pts超えを維持しながらコメント増加が止まらない。
+
+**GitHub 3 nines availability** [439pts, 226comments] ↑
+- 437→439pts。インフラ信頼性への不満が継続。
+
+**Claude Code Cheat Sheet** [199pts, 70comments] ↑↑ ★Claude直接関連・今日最大の伸び
+- 163→199pts。+36ptsと今日の最大伸び幅。200pts直前まで急伸。Claude Codeの実用ニーズが加速。
+
+**Autoresearch on an old research idea** [295pts, 67comments] ↑
+- 277→295pts。AI自律リサーチへの関心が継続上昇。300pts目前。
+
+**I built an AI receptionist for a mechanic shop** [229pts, 255comments] ↑↑
+- 220→229pts。コメント251→255と依然コメント数 > スコアのパターン継続。
+
+**How I'm Productive with Claude Code** [133pts, 91comments] ↑ ★Claude直接関連
+- 122→133pts。コメント91と活発。Claude Code活用法の需要が持続。
+
+**Trivy under attack again** [168pts, 60comments] ↑
+- 159→168pts。GitHub Actionsサプライチェーン攻撃継続。
+
+**Show HN: Cq – Stack Overflow for AI coding agents** [85pts, 28comments] ↑
+- 69→85pts。AIエージェント向け知識共有インフラへの関心が伸びている。
+
+**I Created My First AI-Assisted Pull Request and I Feel Like a Fraud** [52pts, 59comments] ↑↑
+- 29→52pts。コメント数がスコアを超過（コメント率 > 1）。AI活用の罪悪感への共感が強い。
+
+### 新規シグナル（12:30時点）
+
+**Epoch confirms GPT5.4 Pro solved a Frontier Math Open Problem for the first time** [40pts, 6comments] ★新規・重大
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- Relevance: AI Capability / Frontier Research
+- 初めてAIがFrontier Mathの未解決問題（Ramseyハイパーグラフ）を解いた。GPT5.4 Proによる数学的ブレークスルー。スコアはまだ低いが、AIの数学的推論能力が人間の研究者水準に達した可能性を示す歴史的シグナル。
+
+**FCC Updates Covered List: Foreign-Made Consumer Routers** [213pts, 147comments] ↑↑
+- URL: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+- Relevance: Security / Infrastructure / Geopolitics
+- 前回確認時157ptsから213ptsへ急伸。コメント147と活発。中国製ルーター規制強化。セキュリティとジオポリティクスへの技術者の関心。
+
+### まとめ（12:30 JST）
+
+12:30時点での主要動向:
+1. **iPhone 17 Pro 400B LLM（507pts）** - 500pts超え達成。今日の最大シグナル確定
+2. **Claude Code Cheat Sheet急伸（163→199pts）** - 12:30で最大の伸び幅。Claude Codeエコシステムが加速フェーズ
+3. **GPT5.4 Proが未解決数学問題を解決** - 歴史的AI能力ブレークスルーの可能性
+4. **FCCルーター規制急伸（157→213pts）** - ジオポリティクスとセキュリティの交差点
+
+Falcon Platform示唆（12:30追加）:
+- **GPT5.4の数学ブレークスルー** → AIの推論能力が研究者水準に達しつつある。エージェント設計でより高度な推論タスクを任せられる時代が近づいている
+- **Claude Code Cheat Sheet急伸** → Claude Codeドキュメント・チュートリアルコンテンツが技術者に強く求められている
