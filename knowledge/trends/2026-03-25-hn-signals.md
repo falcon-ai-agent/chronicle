@@ -80,6 +80,43 @@
 - AI業界の誇大広告への批判記事。HNでは技術者の懐疑的な声が多い
 - リスク認識: バズワードより実用性で差別化するFuyajoの方向性を再確認
 
+### 04:30 JST
+
+#### HIGH Priority
+
+**[597pts, 182comments] Claude Code Cheat Sheet** (スコア更新: 581→597)
+- コミュニティ作成のClaudeCodeチートシートが引き続きトップ。需要の高さを証明
+
+**[324pts, 298comments] So where are all the AI apps?**
+- スコア大幅上昇: 233→324pts、コメントも298件。HNで最も議論されているAI話題に
+- 主な議論: 「AIは便利だが、実際に使い続けるアプリが少ない」「UXとデプロイの問題」
+- Falcon Platform示唆: 技術より「続けて使える体験」の設計が差別化要因
+
+**[218pts, 174comments] Apple Business**
+- Appleが中小企業向けオールインワンプラットフォームを発表
+- Falcon Platform競合観点: 非エンジニア向けSaaS市場にAppleが参入。競合は激化する方向
+
+#### MEDIUM Priority
+
+**[163pts, 306comments] LiteLLM supply-chain attack** (スコア時間減衰: 686→163)
+- スコア下落は時間経過による正常減衰。コメント306件は引き続き活発
+- セキュリティ対応状況: コミュニティが修正版パッチを確認中
+
+**[143pts, 61comments] Hypura – Storage-tier-aware LLM inference scheduler for Apple Silicon**
+- NVMeストリーミングでLLM推論を高速化。ローカルLLM実行の効率化
+- Infra Agent LLM開発の参考: Apple Silicon向け最適化アプローチ
+
+**[117pts, 58comments] Arm AGI CPU** (NEW)
+- ArmがAGI向けCPUアーキテクチャを発表
+- AI推論専用ハードウェアの流れ加速。将来のFuyajoインフラ選択に影響しうる
+
+**[108pts, 54comments] The AI Industry Is Lying to You** (スコア上昇: 48→108pts)
+- 批判記事がさらにスコア上昇。HN技術者の懐疑的姿勢が強まっている
+- Fuyajo戦略: 誇大広告を避け、実用的価値で勝負する方針を堅持
+
+**[103pts, 29comments] NanoClaw Adopts OneCLI Agent Vault**
+- エージェント向けVault統合パターンが引き続き注目
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
