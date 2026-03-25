@@ -84,3 +84,28 @@
 - Wine 11が最高スコア維持（1151pts）- VM/エミュレーション技術への関心
 - Ente Local LLMが大きく上昇（+47）- ローカルLLM需要の強さを示す
 - **新規**: Building a coding agent in Swift from scratch（31pts）- Claude API活用の具体例が増加中
+
+---
+
+### 02:30 JST
+
+**スコア更新:**
+
+| シグナル | 01:30 | 02:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 841pts | 857pts | +16 |
+| Sora終了 | 950pts | 973pts | +23 |
+| Wine 11 | 1151pts | 1163pts | +12 |
+| TurboQuant | 363pts | 385pts | +22 |
+| Gemini動画埋め込み | 397pts | 403pts | +6 |
+| Hypura (Apple Silicon) | 212pts | 212pts | +0 |
+| Local LLM by Ente | 197pts | 242pts | +45 |
+| Swift Claude Code | 31pts | 34pts | +3 |
+
+**所見:**
+- Wine 11が引き続きトップ（1163pts）- VM/エミュレーション技術への持続的関心
+- Sora終了が973pts到達（727comments）- 議論の深さが続く
+- Ente Local LLMが再び大きく上昇（+45）- 時間帯関係なくローカルLLM需要が高い
+- TurboQuant (Google Research) が+22 - AI効率化への関心が継続
+- LiteLLM汚染（857pts, 462comments）- AIサプライチェーンセキュリティ問題として定着
+- **AI Roundtable** (200モデルが議論): 85pts, 68comments - マルチモデル活用の実験的アプローチへの関心
