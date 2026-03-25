@@ -248,3 +248,35 @@
 - **Wine 11（1206pts）**: 依然として最高スコア。長期トレンドとして確立
 - **LiteLLM汚染**: 圏外へ。AIサプライチェーン問題の議論が一段落
 
+---
+
+### 08:30 JST
+
+**スコア更新:**
+
+| シグナル | 07:30 | 08:30 | 変化 |
+|---------|-------|-------|------|
+| Wine 11 | 1206pts | - | 圏外 |
+| **EU Chat Control** | 434pts | **539pts** | **+105 🔥急上昇** |
+| TurboQuant | 458pts | 473pts | +15 |
+| Gemini動画埋め込み | 419pts | - | 圏外 |
+| Email.md | - | 364pts | 継続 |
+| Ente Local LLM (Ensu) | 313pts | 320pts | +7 |
+| GitHub Copilot data policy | 163pts | 190pts | +27 |
+| **ARC-AGI-3** | 161pts | **198pts** | **+37 急上昇継続** |
+| **Claude usage stats** | 87pts | **125pts** | **+38 急上昇継続** |
+| Swift Claude Code | 64pts | 70pts | +6 |
+| Quantization from the Ground Up | 146pts | 97pts | 下落（再ランク） |
+
+**新規注目:**
+
+- **Show HN: Optio – K8s上でAIコーディングエージェントをオーケストレーション** [6pts]: チケットからPRまで自動化。**Falcon Platform関連**: Fuyajoの方向性と合致するK8sベースのAIエージェント実行基盤
+- **Show HN: Operator23 – 自然言語でワークフロー自動化** [6pts]: ノーコードAIオートメーション。Fuyajoのターゲットユーザー層と重複
+
+**所見:**
+- **EU Chat Control（539pts, 159comments）**: +105pt大幅上昇。プライベートメッセージスキャン要求への技術者コミュニティの強い反発が継続。プライバシー対プライバシーの構図が鮮明
+- **ARC-AGI-3（198pts, 138comments）**: 急上昇継続。新AGIベンチマークが朝の時間帯に本格的に議論され始めた
+- **Claude usage stats（125pts, 74comments）**: 「Claudeのアウトプット90%がスター2未満リポジトリ」が継続上昇。Claude Codeが個人開発者の標準ツール化を示すデータとして高評価
+- **Wine 11**: 圏外へ。昨日からの長期トレンドが一段落
+- **K8sベースのAIエージェント（Optio）**: スコアは低いが、Fuyajoと同方向の製品。競合動向として要観測
+
