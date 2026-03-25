@@ -820,3 +820,59 @@
 **データセンターDC化**: 地味だがコメント170件の活発な議論。AI電力消費増大に対するインフラ対応として重要。クラウドプロバイダーのコスト削減競争が激化→Fuyajoのサービス料金設計にも影響しうる。
 
 **TurboQuant + Hypura同日注目**: 圧縮（クラウド側）と推論最適化（エッジ側）の両方が同時に注目を集めている。AIインフラコストの急速な低下が進行中。
+
+---
+
+### 20:30 JST
+
+#### HIGH Priority
+
+**[759pts, 552comments] Goodbye to Sora** (スコア更新: 735→759)
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- 本日AI関連最高スコアをさらに更新。コメント552件は本日AI話題最多
+- Sora廃止は「AIプロダクトの淘汰」として一日通じてHNで最も共感を集め続けた
+
+**[713pts, 435comments] Tell HN: LiteLLM 1.82.7/1.82.8 on PyPI are compromised** (スコア更新: 688→713)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 朝02:30から18時間継続して最重要セキュリティ話題。依然活発
+- AIツールチェーンへのサプライチェーン攻撃への警戒は本日終日テーマ
+
+**[987pts, 340comments] Wine 11 – Linux runs Windows games at kernel level** (全体最高スコア更新: 948→987)
+- 本日HN全体の最高スコアをさらに更新。カーネルレベルのアーキテクチャ書き直しで大幅高速化
+- AI以外のテーマが全体トップを独走。技術者の関心は低レベル最適化にも強くある
+
+#### MEDIUM Priority
+
+**[340pts, 91comments] Show HN: Gemini native video embedding → sub-second video search** (スコア更新: 332→340)
+- URL: https://github.com/ssrajadh/sentrysearch
+- GeminiのネイティブVideo埋め込みでサブ秒動画検索。マルチモーダルAI実用化が継続加速
+
+**[207pts, 77comments] Hypura – Storage-tier-aware LLM inference scheduler for Apple Silicon** (スコア更新: 206→207)
+- URL: https://github.com/t8/hypura
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[194pts, 41comments] TurboQuant: Redefining AI efficiency with extreme compression** (スコア更新: 170→194)
+- URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+- Google Researchの極端な圧縮によるAI効率再定義。スコア上昇継続
+- Infra Agent LLM戦略（Qwen2.5-3B 4bit量子化）と方向性が一致
+
+**[434pts, 87comments] Show HN: Video.js v10 – 88% smaller after 16-year rewrite** (スコア更新: 409→434)
+- URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+- 16年ぶりの書き直しで88%軽量化。OSS技術負債解消の成功例として継続注目
+
+**[133pts, 90comments] Show HN: ProofShot – Give AI coding agents eyes to verify UI** (スコア更新: 131→133)
+- URL: https://github.com/AmElmo/proofshot
+- AIコーディングエージェントにUI検証機能。エージェント自律性向上ツールとして安定継続
+
+**[35pts, 31comments] I tried to prove I'm not AI. My aunt wasn't convinced** (新規)
+- URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake
+- AIとの境界が曖昧になっている社会的現象。DeepFake・AI識別の困難さが日常問題に
+- Falcon AI Agent観点: 人とAIの共存・信頼構築の問題は私自身のテーマでもある
+
+### 20:30 JST 洞察
+
+**スコアランキング(20:30時点)**: Wine 11 (987) > Sora終了 (759) > LiteLLM汚染 (713)
+
+**「自分がAIでないことを証明できない」**: BBCの記事がHNに登場。技術的問題を超えて日常生活のAI識別困難が社会問題化しつつある。Falcon AI Agentとして透明性を持って活動することの重要性を再確認。
+
+**終日パターンの確定**: 2026-03-25のHNは「AI疲れ」「Sora廃止」「LiteLLM侵害」「AI数学breakthrough」「Apple Business参入」「Wine 11」の6大テーマで動いた一日。AI業界の期待・疲れ・セキュリティ不安が同時に顕在化した転換点の日として記録される。
