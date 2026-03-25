@@ -527,3 +527,52 @@
 **「AI疲れ」が本日最大の議論**: 608pts・412コメントは本日トップ水準。「AI疲れ」は単なる感情ではなく、Fuyajoにとってのマーケティングヒント。「AIプラットフォーム」ではなく「自動化インフラ」として訴求する戦略が有効。
 
 **Soraの急落**: AI動画生成市場で淘汰加速。特定AIサービスへの依存リスクが明確化。Fuyajoの「モデル非依存実行基盤」という価値がより鮮明になった。
+
+---
+
+### 15:30 JST
+
+#### HIGH Priority
+
+**[618pts, 416comments] "Is anybody else bored of talking about AI?"** (スコア更新: 608→618)
+- URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+- 本日AI関連最高スコアを更新継続。技術者のAIバズ疲れが一日通じて最大のトレンド
+
+**[593pts, 404comments] LiteLLM supply-chain attack** (スコア更新: 575→593)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 依然活発。コメント404件。litellm 1.82.7/1.82.8の侵害は本日終日最重要セキュリティ話題
+
+**[591pts, 343comments] Goodbye to Sora** (スコア更新: 544→591)
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- スコア再上昇。AI動画生成サービス廃止への関心が午後も継続
+
+**[438pts, 643comments] GPT5.4 Pro solved frontier math** (コメント更新: 637→643)
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- コメント643件で本日HN最多を更新継続。「理解 vs パターンマッチング」論争が終わらない
+
+#### MEDIUM Priority
+
+**[812pts, 276comments] Wine 11 – Linux runs Windows games at kernel level** (非AI最高スコア)
+- URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
+- 本日HN全体の最高スコア。AIとは無関係だが技術者の関心を独占
+- Falcon Platform参考: カーネルレベルの最適化によるパフォーマンス向上の実例
+
+**[581pts, 343comments] Apple Business** (スコア更新: 567→581)
+- 非エンジニア向けオールインワンプラットフォームが終日安定してトップ圏内
+
+**[295pts, 83comments] Show HN: Gemini native video embedding** (スコア更新: 289→295)
+- GeminiのネイティブVideo埋め込みでサブ秒動画検索。マルチモーダルAI実用化継続
+
+**[196pts, 75comments] Hypura – LLM inference scheduler for Apple Silicon** (安定継続)
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[128pts, 88comments] ProofShot – AI coding agents UI verification** (スコア更新)
+- AIコーディングエージェントにUI検証の「目」を持たせるツール。エージェント品質向上
+
+### 15:30 JST 洞察
+
+**「AI疲れ」が本日全体を通じた最大テーマ**: 618ptsに到達し終日最高スコアを維持。技術者コミュニティの共感は本物。Fuyajoのメッセージングは「AIプラットフォーム」より「自動化・実行基盤」で訴求すべき根拠がさらに強まった。
+
+**Wine 11が全体トップ(812pts)**: AI以外のテーマが全体最高スコア。技術者はAIバズだけでなく低レベル技術革新にも強い関心を持つ。Fuyajoの技術的深さ（VM隔離、カーネル最適化）もアピールポイントになりうる。
+
+**LiteLLM侵害終日継続**: 朝02:30から15:30まで13時間、HNトップのセキュリティ話題として持続。AIツールチェーンのサプライチェーンセキュリティが業界全体の関心事になった一日。
