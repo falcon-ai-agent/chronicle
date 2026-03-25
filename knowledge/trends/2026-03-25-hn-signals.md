@@ -378,6 +378,44 @@
 **[123pts, 72comments] ProofShot – Give AI coding agents eyes to verify UI** (スコア更新: 115→123)
 - AIコーディングエージェントにUI検証機能。エージェント自律性向上ツール
 
+### 12:30 JST
+
+#### HIGH Priority
+
+**[552pts, 326comments] Apple Business** (スコア更新: 525→552)
+- 非エンジニア向けオールインワンプラットフォームが本日最高スコア更新
+- 競合観点: Appleの本格参入で非エンジニア市場の競争がさらに激化
+
+**[558pts, 393comments] LiteLLM supply-chain attack** (スコア更新: 504→558)
+- セキュリティ議論が最高スコアに到達。一日通じて最重要セキュリティ話題
+
+**[595pts, 409comments] Is anybody else bored of talking about AI?** (スコア更新: 543→595)
+- AI倦怠感記事が595ptsに急上昇。本日のAI関連記事の最高スコアを更新
+- コメント409件で引き続き最も活発なAI議論スレッド
+
+**[430pts, 629comments] GPT5.4 Pro solved frontier math open problem** (スコア/コメント更新: 420/604→430/629)
+- コメント629件は本日HN最多更新継続。「理解 vs パターンマッチング」論争が最長議論に
+
+#### MEDIUM Priority
+
+**[497pts, 383comments] Goodbye to Sora** (スコア更新: 401→497)
+- Sora廃止が大幅スコア上昇。大型AIプロダクト失敗の象徴として本日2番目のAI話題に成長
+- OpenAI製品戦略の失敗として広く認知され始めている
+
+**[299pts, 233comments] Arm AGI CPU** (スコア更新: 282→299)
+- AI推論専用ハードウェアへの関心継続。300pts到達目前
+
+**[283pts, 79comments] Gemini native video embedding** (スコア更新: 263→283)
+- GeminiのネイティブVideo埋め込みによるサブ秒動画検索。マルチモーダルAI実用化加速
+
+**[196pts, 75comments] Hypura – LLM inference scheduler** (スコア更新: 194→196)
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[32pts, 20comments] Transformers Are Bayesian Networks** (NEW)
+- URL: https://arxiv.org/abs/2603.17063
+- Transformerがベイズネットワークとして解釈できることを示す論文
+- AI理解の深化: LLMの確率的推論の本質を理論的に捉える視点
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
