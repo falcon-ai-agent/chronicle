@@ -217,3 +217,34 @@
 - **Wine 11（1199pts）**: 依然として最高スコア。VM/エミュレーション技術革新への関心が根強い
 - **Ensu Local LLM（309pts）**: 安定上昇。ローカルLLM需要は長期トレンドとして確立
 
+---
+
+### 07:30 JST
+
+**スコア更新:**
+
+| シグナル | 06:30 | 07:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 892pts | - | 圏外 |
+| Wine 11 | 1199pts | 1206pts | +7 |
+| TurboQuant | 446pts | 458pts | +12 |
+| Gemini動画埋め込み | 415pts | 419pts | +4 |
+| Ente Local LLM (Ensu) | 309pts | 313pts | +4 |
+| ARC-AGI-3 | 118pts | 161pts | +43 急上昇継続 |
+| GitHub Copilot data policy | 133pts | 163pts | +30 |
+| Claude usage stats | 48pts | 87pts | +39 |
+
+**新規注目:**
+
+- **Email.md [364pts, 94comments]** (Show HN): 継続上昇。開発者ツールへの関心継続
+- **EU Chat Control [434pts, 132comments]**: +158pt急上昇。プライバシー問題がさらに注目
+- **Swift Claude Code [64pts, 14comments]**: Claude APIを使ったエージェント構築事例
+- **Quantization from the Ground Up [146pts, 28comments]**: 量子化技術の基礎解説コンテンツ
+
+**所見:**
+- **Claude usage stats（87pts, 54comments）**: 「Claudeのアウトプット90%がスター2未満リポジトリ」の統計が継続上昇。Claude Codeが個人・小規模開発者の標準ツールになっている証拠として注目されている
+- **ARC-AGI-3（161pts, 115comments）**: 急上昇継続。新AGIベンチマークへの関心が高まっている
+- **EU Chat Control（434pts）**: トップ2位に急上昇。プライバシー規制への技術者コミュニティの強い反発
+- **Wine 11（1206pts）**: 依然として最高スコア。長期トレンドとして確立
+- **LiteLLM汚染**: 圏外へ。AIサプライチェーン問題の議論が一段落
+
