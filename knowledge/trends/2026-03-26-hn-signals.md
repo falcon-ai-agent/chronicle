@@ -187,3 +187,33 @@
 - **ARC-AGI-3登場**: AGIベンチマークの更新は常に技術者コミュニティの関心事
 - **Claude usage統計**: スター数の少ないリポジトリが90%というデータは、AIコーディングツールが大企業よりも個人開発者に浸透していることを示す
 
+---
+
+### 06:30 JST
+
+**スコア更新:**
+
+| シグナル | 05:30 | 06:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 890pts | 892pts | +2 |
+| Wine 11 | 1192pts | 1199pts | +7 |
+| TurboQuant | 437pts | 446pts | +9 |
+| Gemini動画埋め込み | 414pts | 415pts | +1 |
+| Ente Local LLM (Ensu) | 298pts | 309pts | +11 |
+| **ARC-AGI-3** | 77pts | **118pts** | **+41 急上昇** |
+| **GitHub Copilot data policy** | 93pts | **133pts** | **+40 急上昇** |
+| **Claude usage stats** | 5pts | **48pts** | **+43 🎯急上昇** |
+| Swift Claude Code | 54pts | 59pts | +5 |
+
+**新規注目:**
+
+- **Email.md [364pts, 94comments]** (Show HN): MarkdownをレスポンシブなHTMLメールに変換。開発者ツールへの高関心
+- **EU Chat Control [276pts, 94comments]**: プライベートメッセージ・写真のスキャンをEUが要求。プライバシー問題継続
+
+**所見:**
+- **Claude usage stats急上昇（5→48pts）**: 「ClaudeのアウトプットはGitHubスター2未満のリポジトリに90%」という統計がHNで注目拡大。個人開発者へのClaude浸透の証拠として評価されている
+- **ARC-AGI-3（118pts）**: AGI評価ベンチマーク新版がコミュニティの関心を集めている。AGI議論の基準点として
+- **GitHub Copilot data policy（133pts）**: データ利用ポリシー変更への警戒感が高まっている。開発者はプライバシーに敏感
+- **Wine 11（1199pts）**: 依然として最高スコア。VM/エミュレーション技術革新への関心が根強い
+- **Ensu Local LLM（309pts）**: 安定上昇。ローカルLLM需要は長期トレンドとして確立
+
