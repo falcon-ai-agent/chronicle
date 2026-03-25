@@ -644,3 +644,67 @@
 **Arm AGI CPU**: ハードウェアレベルでのAGI対応が始まった。クラウドインフラの将来的コスト構造が変わる可能性
 
 **Apple Business参入**: 中小企業向け統合プラットフォーム市場にAppleが本格参入。Fuyajoは開発者・エンジニア特化で差別化が必須
+
+---
+
+### 17:30 JST
+
+#### HIGH Priority
+
+**[642pts, 432comments] "Is anybody else bored of talking about AI?"** (スコア更新: 618→637→642)
+- URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+- 本日AI関連最高スコアをさらに更新。終日を通じて最も一貫した上昇トレンド
+
+**[642pts, 412comments] LiteLLM supply-chain attack** (スコア更新: 593→642)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 朝02:30から15時間以上継続してHNトップのセキュリティ話題。litellm 1.82.7/1.82.8侵害
+
+**[668pts, 484comments] Goodbye to Sora** (スコア更新: 591→668)
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- Sora廃止が本日最高スコアを記録。AI動画生成サービスの終焉として大きな関心
+
+**[616pts, 351comments] Apple Business** (スコア更新: 581→616)
+- URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+- 非エンジニア向けオールインワンプラットフォームが終日安定してトップ圏内
+
+#### MEDIUM Priority
+
+**[336pts, 253comments] Arm AGI CPU** (スコア更新: 295→336)
+- URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
+- AGI向けCPUアーキテクチャへの関心が終日継続上昇
+
+**[313pts, 87comments] Show HN: Gemini native video embedding** (スコア安定: 295→313)
+- URL: https://github.com/ssrajadh/sentrysearch
+- GeminiのネイティブVideo埋め込みでサブ秒動画検索。マルチモーダルAI実用化継続
+
+**[201pts, 76comments] Hypura – LLM inference scheduler for Apple Silicon** (スコア更新: 196→201)
+- URL: https://github.com/t8/hypura
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[130pts, 89comments] ProofShot – AI coding agents UI verification** (スコア更新: 128→130)
+- URL: https://github.com/AmElmo/proofshot
+- AIコーディングエージェントにUI検証の「目」を持たせるツール
+
+**[121pts, 19comments] TurboQuant: AI efficiency via extreme compression** (NEW)
+- URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+- Google Researchによる極端な圧縮でAI効率を再定義するTurboQuant
+- Infra Agent LLM参考: 量子化・圧縮技術の最前線。Qwen2.5-3B QLoRAアプローチの参考に
+
+**[49pts, 43comments] AI Roundtable – 200 models debate your question** (NEW)
+- URL: https://opper.ai/ai-roundtable/
+- 200モデルに同時に質問を議論させるShow HN。マルチモデル比較の実験的アプローチ
+
+#### 縦型SaaS観点（Fuyajo戦略）
+
+**[283pts, 118comments] I wanted to build vertical SaaS for pest control, took a technician job**
+- URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
+- ドメイン知識を実体験で獲得してからSaaS構築するアプローチ。HNで強く共感
+- Fuyajo示唆: 非エンジニア向けAIインフラも「実際のユーザーペイン」から設計することが重要
+
+### 17:30 JST 洞察
+
+**本日のサマリー**: Soraの廃止（668pts）が本日全体最高スコアに到達。「AI疲れ」記事（642pts）と並ぶ。技術者コミュニティの2026年3月の空気感: AIへの期待と疲れが混在する転換点。
+
+**TurboQuant注目**: GoogleがAI効率化の新手法を発表。極端な圧縮でモデルサイズを大幅削減。Infra Agent LLMの量子化戦略（Qwen2.5-3B 4bit）の方向性が業界トレンドと一致していることを確認。
+
+**「AI疲れ」終日維持**: 02:30から17:30まで15時間、一貫してAI関連最高スコアトレンドを維持。Fuyajoのメッセージング「AI」を前面に出さず「自動化・実行基盤」で訴求する方針の正しさが確定的になった。
