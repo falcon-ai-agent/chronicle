@@ -1003,3 +1003,68 @@
 5. Apple Business参入 (635pts) - 非エンジニア市場の競争激化
 6. Wine 11 (1049pts) - 本質的技術への最高評価
 
+
+---
+
+## HN Signals 23:30 JST
+
+**取得時刻**: 2026-03-25 23:30 JST
+
+### スコア更新（継続追跡）
+
+**[1086pts, 390comments] Wine 11** (↑+37 from 22:30)
+- カーネルレベル技術が独走継続
+
+**[877pts, 640comments] Goodbye to Sora** (↑+46 from 22:30)
+- コメント640件。Sora廃止の議論が深夜も衰えない
+
+**[795pts, 451comments] LiteLLM supply chain compromise** (↑+34 from 22:30)
+- PyPI 1.82.7/1.82.8 が汚染。451コメントで詳細議論継続
+
+**[391pts, 146comments] Flighty Airports** (新規トップ10入り)
+- 航空アプリ。AI外の話題だが高スコア
+
+**[377pts, 95comments] Gemini native video embedding → sub-second video search** (↑+16)
+- URL: https://github.com/ssrajadh/sentrysearch
+- Geminiのネイティブ動画埋め込みを活用した検索。マルチモーダル実用化
+
+**[328pts, 85comments] Email.md** (↑+6)
+
+**[300pts, 87comments] TurboQuant** (↑+29 from 22:30)
+- Google Research圧縮技術。300pts達成
+
+**[210pts, 82comments] Hypura** (↑維持)
+
+### 新規シグナル
+
+**[493pts, 98comments] Video.js v10 – 88% smaller rewrite (16年ぶり)** (NEW)
+- URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+- 16年間放置されたOSSを取り戻して88%軽量化。「技術的負債との戦い」に共感
+- Fuyajo参考: OSS継続性と技術的負債の現実
+
+**[306pts, 170comments] Meta $375M for misleading users over child safety** (NEW)
+- AI/Tech外だが高エンゲージメント
+
+**[235pts, 139comments] VitruvianOS – BeOS inspired Desktop Linux** (NEW)
+- URL: https://v-os.dev
+- 1990年代のBeOSを現代に復活。ニッチだが熱狂的支持
+
+**[167pts, 114comments] Why I forked httpx** (NEW)
+- URL: https://tildeweb.nl/~michiel/httpxyz.html
+- OSSメンテナンス疲れ・フォーク文化。エコシステム健全性の議論
+
+**[103pts, 113comments] I tried to prove I'm not AI. My aunt wasn't convinced** (NEW)
+- URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake
+- BBC記事。人間がAIと区別されなくなる社会不安。コメント数/スコア比が高い（1.09）= 感情的議論
+
+### 23:30 JST 洞察
+
+**深夜も勢いが止まらないSora廃止**: 877pts、640コメント。22:30比+46pts。技術者コミュニティのOpenAIへの複雑な感情が凝縮されている。
+
+**「人間証明」記事のコメント率異常**: 103pts/113コメント = コメント率110%。スコア以上にコメントが多い話題はコミュニティの感情的共鳴が高い証拠。AI時代の人間性喪失への不安。
+
+**Video.js 493pts**: 16年ぶりのOSS再生。技術的負債・OSS継続性・88%軽量化という三拍子が技術者に刺さる。
+
+**本日の最終ランキング概況**: Wine 11 (1086) > Sora廃止 (877) > LiteLLM侵害 (795) > Video.js (493) > Gemini動画検索 (377) > TurboQuant (300)
+
+**Falcon戦略への示唆**: LiteLLMのサプライチェーン攻撃はFuyajoのセキュリティ要件を再確認させる。PyPI経由の依存関係汚染はプラットフォーム事業者にとって脅威。依存ライブラリのピン止め・ハッシュ検証が重要。
