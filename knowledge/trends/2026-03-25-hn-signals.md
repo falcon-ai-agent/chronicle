@@ -262,6 +262,49 @@
 **[146pts, 138comments] We're saying goodbye to Sora** (CONFIRMED)
 - SoraのX公式アカウントが廃止を正式発表。大型AIプロダクト撤退が確定
 
+### 09:30 JST
+
+#### HIGH Priority
+
+**[491pts, 306comments] Apple Business** (スコア更新: 464→491、本日最高スコア更新)
+- 非エンジニア向けオールインワンプラットフォームがHNトップ独走継続
+- 競合観点: Appleの本格参入による非エンジニア市場の変化が最大の注目点
+
+**[458pts, 333comments] Is anybody else bored of talking about AI?** (スコア更新: 397→458)
+- AI倦怠感記事が458ptsに到達。コメント333件で引き続き活発
+- 技術者の「AIバズ疲れ」は本日通じて最も一貫したトレンド
+
+**[455pts, 366comments] LiteLLM supply-chain attack** (コメント更新: 354→366)
+- セキュリティ議論が継続。コメント366件に到達
+
+**[402pts, 576comments] GPT5.4 Pro solved frontier math open problem** (スコア更新: 390→402)
+- コメント576件で本日最多を更新継続。「理解 vs パターンマッチング」論争が活発
+
+**[373pts, 339comments] So where are all the AI apps?** (スコア更新: 359→373)
+- AIアプリ普及の壁についての議論が引き続き上昇
+
+#### MEDIUM Priority
+
+**[619pts, 220comments] Wine 11 - Linux runs Windows at kernel level with speed gains** (NEW TOP)
+- AIに直接関連しないが本日HNの最高スコア。Linuxゲーミングエコシステムの変革
+- Wine 11がカーネルレベルのアーキテクチャ書き換えで大幅速度向上
+
+**[322pts, 167comments] GitHub is once again down** (NEW)
+- GitHubが再ダウン。開発インフラの信頼性問題
+- Falcon Platform観点: 外部依存の可用性リスクを意識したインフラ設計の重要性
+
+**[265pts, 205comments] Arm AGI CPU** (スコア更新: 242→265)
+- AI推論専用ハードウェアへの関心継続上昇
+
+**[247pts, 187comments] We're saying goodbye to Sora** (スコア更新: 146→247)
+- Sora廃止公式アカウント発表がさらに注目を集める。大型AIプロダクトの失敗として再評価
+
+**[231pts, 66comments] Gemini native video embedding** (スコア更新: 217→231)
+- マルチモーダルAI実用化の加速継続
+
+**[187pts, 75comments] Hypura – LLM inference scheduler for Apple Silicon** (スコア更新: 182→187)
+- ローカルLLM推論最適化への安定した関心継続
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
