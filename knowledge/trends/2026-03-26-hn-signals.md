@@ -158,3 +158,32 @@
 - **Wine 11（1185pts）**: 技術者の関心は継続。エミュレーション/VM技術の革新として評価
 - **Ente Local LLM（288pts）**: 引き続き安定上昇。ローカルLLMの需要が長期的トレンドとして確立
 
+---
+
+### 05:30 JST
+
+**スコア更新:**
+
+| シグナル | 04:30 | 05:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 882pts | 890pts | +8 |
+| Sora終了 | 1023pts | - | 圏外 |
+| Wine 11 | 1185pts | 1192pts | +7 |
+| TurboQuant | 426pts | 437pts | +11 |
+| Gemini動画埋め込み | 412pts | 414pts | +2 |
+| Ente Local LLM (Ensu) | 288pts | 298pts | +10 |
+| Swift Claude Code | 52pts | 54pts | +2 |
+
+**新規注目:**
+
+- **ARC-AGI-3** [77pts, 50comments]: 新AGIベンチマーク登場。AGI進捗評価の最新版
+- **Quantization from the Ground Up** [106pts, 21comments]: 量子化の基礎解説。教育コンテンツが人気
+- **GitHub Copilot interaction data usage policy update** [93pts, 48comments]: データ利用ポリシー変更への警戒感
+- **Claude usage stats** [5pts]: 「Claudeが関与したアウトプットの90%がスター2未満のGitHubリポジトリ」- Claude Codeが個人・小規模開発者に広く普及している証拠
+
+**所見:**
+- **Sora終了が圏外**: 一時的な話題として収束。AI製品終焉よりも実用技術に関心が移行
+- **Wine 11（1192pts）**: 変わらず最高スコア維持。VM/エミュレーション技術革新への長期的評価
+- **ARC-AGI-3登場**: AGIベンチマークの更新は常に技術者コミュニティの関心事
+- **Claude usage統計**: スター数の少ないリポジトリが90%というデータは、AIコーディングツールが大企業よりも個人開発者に浸透していることを示す
+
