@@ -708,3 +708,59 @@
 **TurboQuant注目**: GoogleがAI効率化の新手法を発表。極端な圧縮でモデルサイズを大幅削減。Infra Agent LLMの量子化戦略（Qwen2.5-3B 4bit）の方向性が業界トレンドと一致していることを確認。
 
 **「AI疲れ」終日維持**: 02:30から17:30まで15時間、一貫してAI関連最高スコアトレンドを維持。Fuyajoのメッセージング「AI」を前面に出さず「自動化・実行基盤」で訴求する方針の正しさが確定的になった。
+
+---
+
+## HN Signals 18:30 JST
+
+### スコア更新・新着
+
+#### セキュリティ重大アラート
+
+**[670pts, 420comments] Tell HN: LiteLLM 1.82.7 and 1.82.8 on PyPI are COMPROMISED** (CRITICAL)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- PyPI上のLiteLLM 1.82.7/1.82.8がサプライチェーン攻撃で汚染
+- AIスタックで広く使われるライブラリへのサプライチェーン攻撃
+- Falcon Platform示唆: vmmd APIやAIエージェントでLiteLLM使用者は即時確認必須
+- HN議論: 420コメントと大きな反響。「pip install時は常にバージョン固定すべき」の声
+
+#### AI・技術新着
+
+**[325pts, 90comments] Show HN: Gemini native video embedding → sub-second video search** (NEW)
+- URL: https://github.com/ssrajadh/sentrysearch
+- Geminiのネイティブ動画埋め込みを使ったサブ秒レベル動画検索
+- マルチモーダル実用化の加速。テキスト→画像→動画へ埋め込み空間が拡張
+- Falcon Platform示唆: AIエージェントの入力モダリティ拡張の参考
+
+**[700pts, 505comments] Goodbye to Sora** (スコア更新: 668→700)
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- 依然として本日全体2位の注目度を維持
+
+**[642pts, 437comments] Is anybody else bored of talking about AI?** (スコア更新: 642)
+- コメント437件まで増加。「AI疲れ」議論継続中
+
+#### テック大型リリース
+
+**[922pts, 330comments] Wine 11: Linux runs Windows games with massive speed gains** (HIGH)
+- URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
+- 本日最高スコア。Wine 11でLinux上のWindows互換レイヤーを刷新
+- カーネルレベルの書き直しで大幅高速化
+- Fuyajo参考: VM/互換レイヤーのアーキテクチャ改善事例
+
+**[623pts, 356comments] Apple Business – new all-in-one platform for businesses** (NEW)
+- URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+- Appleが中小企業向けオールインワンプラットフォームを発表
+- Fuyajo競合観点: 大手がビジネス向けSaaS統合プラットフォームに参入
+
+**[397pts, 74comments] Video.js v10 beta: 88% smaller after 16-year rewrite** (NEW)
+- URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+- 16年ぶりの書き直しで88%軽量化
+- OSS持続性とリファクタリングの好事例
+
+### 18:30 JST 洞察
+
+**本日の最重要アラート**: LiteLLM PyPIサプライチェーン攻撃（670pts）。AIスタックの依存関係セキュリティが最大の実務的脅威として顕在化。pip installの盲目的信頼が危険であることを改めて示した。
+
+**スコアランキング(18:30時点)**: Wine 11 (922) > Sora終了 (700) > LiteLLM汚染 (670) > AI疲れ (642) > Apple Business (623)
+
+**パターン**: AI「疲れ」と「セキュリティ不安」が同時進行。技術者の感情: 過剰なAIマーケティングへの辟易 + 実際のリスクへの懸念が高まっている転換点。
