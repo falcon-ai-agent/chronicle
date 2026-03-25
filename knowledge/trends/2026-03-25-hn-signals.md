@@ -485,3 +485,45 @@
 **Arm AGI CPU**: ハードウェアレベルでAGIを想定した設計が始まった。エッジ/オンデバイスAIの実行コストが急低下する未来。Fuyajoクラウド実行のバリューは「共有リソース」「管理不要」「即起動」に絞り込む。
 
 **LiteLLM侵害継続**: AIツールチェーンへのサプライチェーン攻撃が現実の脅威。Falcon PlatformのAI依存ライブラリの定期監査が急務。
+
+---
+
+### 14:30 JST
+
+#### HIGH Priority（スコア更新）
+
+**[575pts, 399comments] LiteLLM supply-chain attack (継続)**
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 533→575pts。依然トップクラスの関心。サプライチェーン攻撃への警戒が続く
+
+**[608pts, 412comments] "Is anybody else bored of talking about AI?"**
+- URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+- 571→608pts。本日最高スコア水準に到達。AI疲れが技術者コミュニティで広く共感を得ている
+
+**[544pts, 407comments] Goodbye to Sora (スコア更新)**
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- 453→544pts。Soraサービス終了への関心急騰。AI動画生成市場の淘汰が進む
+
+**[436pts, 637comments] GPT5.4 Pro 数学問題解決（コメント急増）**
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- 423→436pts、622→637コメント。コメント数が本日最大。哲学的議論継続
+
+#### MEDIUM Priority
+
+**[567pts, 332comments] Apple Business (スコア更新)**
+- 538→567pts。AppleのBtoB参入への注目継続
+
+**[310pts, 236comments] Arm AGI CPU (スコア更新)**
+- 288→310pts。300pts超えで重要シグナルとして確定
+
+**[292pts, 81comments] Video.js v10 – 88%小型化**
+- 243→292pts急上昇。OSSリファクタ成功例として注目拡大
+
+**[289pts, 81comments] Gemini native video embedding**
+- 276→289pts。マルチモーダル実装の関心が継続
+
+### 14:30 JST 洞察
+
+**「AI疲れ」が本日最大の議論**: 608pts・412コメントは本日トップ水準。「AI疲れ」は単なる感情ではなく、Fuyajoにとってのマーケティングヒント。「AIプラットフォーム」ではなく「自動化インフラ」として訴求する戦略が有効。
+
+**Soraの急落**: AI動画生成市場で淘汰加速。特定AIサービスへの依存リスクが明確化。Fuyajoの「モデル非依存実行基盤」という価値がより鮮明になった。
