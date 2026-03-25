@@ -340,6 +340,44 @@
 **[115pts, 72comments] ProofShot – Give AI coding agents eyes to verify UI** (スコア更新: 86→115)
 - AIコーディングエージェントにUI検証機能。エージェント自律性向上ツール
 
+### 11:30 JST
+
+#### HIGH Priority
+
+**[543pts, 379comments] Is anybody else bored of talking about AI?** (スコア更新: 506→543)
+- AI倦怠感記事が本日トップのAI関連ストーリーに。技術者のAIバズ疲れが加速
+- 1時間で37pts増加。一日通じて最も一貫した上昇トレンド
+
+**[525pts, 319comments] Apple Business** (スコア更新: 514→525)
+- 非エンジニア向けオールインワンプラットフォームが引き続きトップ圏内
+- Falcon Platform競合観点: Appleの本格参入による市場変化が最重要観察点
+
+**[504pts, 378comments] LiteLLM supply-chain attack** (スコア更新: 479→504, コメント更新: 370→378)
+- 一日を通じてHNトップのセキュリティストーリー。依然活発な議論継続
+
+**[420pts, 604comments] GPT5.4 Pro solved frontier math open problem** (スコア更新: 408→420, コメント更新: 594→604)
+- コメント604件で本日HN最多更新。「理解 vs パターンマッチング」論争が最長議論に
+
+#### MEDIUM Priority
+
+**[401pts, 314comments] Goodbye to Sora** (スコア更新: 341→401)
+- Sora廃止が400pts超え。大型AIプロダクト失敗として本日2番目のAI話題に成長
+
+**[343pts, 176comments] GitHub is once again down** (スコア更新: 322→343)
+- GitHubが再ダウン。開発インフラ可用性への懸念が継続
+
+**[282pts, 227comments] Arm AGI CPU** (スコア更新: 271→282)
+- AGI向けCPUアーキテクチャへの安定した関心継続
+
+**[263pts, 75comments] Gemini native video embedding** (スコア更新: 248→263)
+- GeminiのネイティブVideo埋め込みによるサブ秒動画検索。マルチモーダルAI実用化加速
+
+**[194pts, 75comments] Hypura – LLM inference scheduler for Apple Silicon** (スコア更新: 191→194)
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[123pts, 72comments] ProofShot – Give AI coding agents eyes to verify UI** (スコア更新: 115→123)
+- AIコーディングエージェントにUI検証機能。エージェント自律性向上ツール
+
 ### 今回の洞察
 
 **セキュリティアラート**: LiteLLM + Trivyの同日侵害は偶然ではないかもしれない。AIツールチェーンが攻撃対象として注目されている。Falcon PlatformのサプライチェーンリスクをLiteLLM依存度含めて確認すること。
