@@ -109,3 +109,27 @@
 - TurboQuant (Google Research) が+22 - AI効率化への関心が継続
 - LiteLLM汚染（857pts, 462comments）- AIサプライチェーンセキュリティ問題として定着
 - **AI Roundtable** (200モデルが議論): 85pts, 68comments - マルチモデル活用の実験的アプローチへの関心
+
+---
+
+### 03:30 JST
+
+**スコア更新:**
+
+| シグナル | 02:30 | 03:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 857pts | 869pts | +12 |
+| Sora終了 | 973pts | 993pts | +20 |
+| Wine 11 | 1163pts | 1174pts | +11 |
+| TurboQuant | 385pts | 406pts | +21 |
+| Gemini動画埋め込み | 403pts | 409pts | +6 |
+| Hypura (Apple Silicon) | 212pts | 213pts | +1 |
+| Local LLM by Ente | 242pts | 271pts | +29 |
+| Swift Claude Code | 34pts | 50pts | +16 |
+
+**所見:**
+- **LiteLLM汚染（869pts）**: 引き続き高関心。AIツールのサプライチェーンセキュリティ問題として定着
+- **Sora終了（993pts, 741comments）**: コメント数が741に増加。深い議論が継続
+- **TurboQuant（+21）**: Google ResearchのAI圧縮技術が再び上昇
+- **Ente Local LLM（+29）**: 深夜でも継続上昇。プライバシー重視のローカルLLM需要の強さ
+- **Swift Claude Code（+16）**: swift-claude-codeが急上昇。開発者コミュニティの関心増大
