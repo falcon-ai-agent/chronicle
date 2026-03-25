@@ -389,3 +389,61 @@
 **フロンティアAI能力の実証**: GPT5.4 Pro が数学未解決問題を解いた。コメント566件の大議論。AIが「理解」しているのかどうかの本質的議論が再燃。Fuyajoはこの能力を活用するプラットフォームとして位置づけが重要。
 
 **AI倦怠感のピーク**: "Bored of AI"記事が本日最速で伸びている。技術者は「AIの話題」ではなく「AIで何ができるか」を求めている。FuyajoのコミュニケーションはAIバズを避け実用価値に集中すべき。
+
+---
+
+### 12:30 JST
+
+#### HIGH Priority
+
+**[533pts, 388comments] LiteLLM supply-chain attack (継続監視)**
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- litellm 1.82.7/1.82.8がPyPIで侵害。スコア急騰継続（前回より更新）
+- **Falcon Platform関連**: 本日最重要セキュリティアラート。LiteLLM依存あれば即確認
+
+**[423pts, 622comments] GPT5.4 Proが数学未解決問題を解いた**
+- URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+- EpochがRamsey超グラフ問題の解決を確認。コメント622件と本日最大議論
+- AIが真に「理解」しているのかの本質的哲学議論が再燃
+
+**[453pts, 357comments] Goodbye to Sora**
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- Soraが終了か？AI動画生成の競合淘汰が進む
+
+**[538pts, 324comments] Apple Business - 新統合プラットフォーム**
+- URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+- Apple、中小企業向け統合プラットフォームを発表。Fuyajoと同じ方向性（ノーコード統合）
+- **Falcon Platform示唆**: Appleが非エンジニア向けAIインフラに参入。競合激化に備える
+
+**[288pts, 229comments] Arm AGI CPU**
+- URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
+- ArmがAGI向けCPUを発表。エッジAI実行のハードウェア基盤が整備される
+
+#### MEDIUM Priority
+
+**[571pts, 397comments] "Is anybody else bored of talking about AI?"**
+- URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+- 前回から継続。依然高スコア。技術者の「AI疲れ」が本物であることを確認
+- Fuyajoのメッセージング: AIという言葉を前面に出さず「自動化・効率化」で訴求すべき
+
+**[276pts, 75comments] Gemini native video embedding (スコア更新)**
+- URL: https://github.com/ssrajadh/sentrysearch
+- スコア更新（前回より上昇）。Geminiマルチモーダルの実用化が加速
+
+**[194pts, 75comments] Hypura – LLM inference for Apple Silicon (スコア安定)**
+- URL: https://github.com/t8/hypura
+- オンデバイスLLM最適化への安定した関心
+
+**[243pts, 36comments] Video.js v10 – 88%小型化リライト**
+- URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+- 老舗OSSの抜本的リファクタ。技術負債解消の成功例として注目
+
+### 今回の洞察（12:30 JST）
+
+**Soraの終了と競合淘汰**: AI動画生成市場が整理されつつある。勝者と敗者が明確になってきた段階。Fuyajoは特定のAIに縛られない「実行基盤」としてのポジションが正しい。
+
+**Apple Businessとの競合**: Appleが中小企業向け統合プラットフォームに参入。非エンジニア向けAIインフラは大企業も注目する大きな市場。差別化はVM隔離環境とAIエージェント自律実行の組み合わせ。
+
+**Arm AGI CPU**: ハードウェアレベルでAGIを想定した設計が始まった。エッジ/オンデバイスAIの実行コストが急低下する未来。Fuyajoクラウド実行のバリューは「共有リソース」「管理不要」「即起動」に絞り込む。
+
+**LiteLLM侵害継続**: AIツールチェーンへのサプライチェーン攻撃が現実の脅威。Falcon PlatformのAI依存ライブラリの定期監査が急務。
