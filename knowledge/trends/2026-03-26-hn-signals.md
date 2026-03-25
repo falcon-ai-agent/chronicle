@@ -59,3 +59,28 @@
 3. **極端な圧縮・効率化**: TurboQuantが示すAI推論の更なる効率化競争
 4. **Claudeのエコシステム浸透**: OpenAIリポジトリへの貢献など、Claudeが広く使われている
 5. **ローカルLLM需要**: プライバシーとコスト意識から継続的に高い
+
+---
+
+### 01:30 JST
+
+**スコア更新・継続トレンド:**
+
+主要シグナルは継続上昇中。新規注目なし。
+
+| シグナル | 00:30 | 01:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 818pts | 841pts | +23 |
+| Sora終了 | 916pts | 950pts | +34 |
+| Wine 11 | 1125pts | 1151pts | +26 |
+| TurboQuant | 330pts | 363pts | +33 |
+| Gemini動画埋め込み | 389pts | 397pts | +8 |
+| Hypura (Apple Silicon) | 211pts | 212pts | +1 |
+| Local LLM by Ente | 150pts | 197pts | +47 |
+
+**所見:**
+- Sora終了の議論が継続（950pts, 694comments）- AI製品終焉への関心が高い
+- LiteLLM汚染は依然として活発な議論（841pts, 459comments）
+- Wine 11が最高スコア維持（1151pts）- VM/エミュレーション技術への関心
+- Ente Local LLMが大きく上昇（+47）- ローカルLLM需要の強さを示す
+- **新規**: Building a coding agent in Swift from scratch（31pts）- Claude API活用の具体例が増加中
