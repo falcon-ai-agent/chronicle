@@ -935,3 +935,71 @@
 **LiteLLMサプライチェーン攻撃**: 18時間以上TOP維持。AIツールの依存関係管理・セキュリティ検証の重要性を示す長期シグナル。Falcon Platformでの依存ライブラリ管理に教訓。
 
 **Sora廃止の余韻が続く**: 終日最多コメント数。「AIプロダクトの淘汰」という現実が技術者コミュニティに深く刺さっている。差別化できないAI製品は生き残れないというメッセージ。
+
+---
+
+## HN Signals - 22:30 JST
+
+### 22:30 JST スキャン
+
+**[1049pts, 370comments] Wine 11 – Linux runs Windows games at kernel level** (全体最高スコア更新: 1014→1049)
+- 本日HN全体最高スコアをさらに更新。1000pts突破から継続上昇
+- カーネルレベル書き直しによる大幅高速化への技術者の関心が終日衰えず
+
+**[831pts, 609comments] Goodbye to Sora** (スコア更新: 793→831, コメント更新: 582→609)
+- 本日AI関連最高スコアをさらに更新。コメント609件も本日AI話題最多更新継続
+- OpenAIのSora廃止への反応は22時を過ぎても加速中。終日AIニュース最大の話題
+
+**[761pts, 443comments] Tell HN: LiteLLM 1.82.7/1.82.8 on PyPI are compromised** (スコア更新: 738→761)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 朝02:30から20時間継続して最重要セキュリティ話題。AIツールチェーン攻撃への警戒継続
+
+#### HIGH Priority
+
+**[361pts, 92comments] Show HN: Gemini native video embedding → sub-second video search** (スコア更新: 349→361)
+- URL: https://github.com/ssrajadh/sentrysearch
+- GeminiのネイティブVideo埋め込みでサブ秒動画検索。終日安定した高い関心継続
+- Falcon Platform示唆: マルチモーダルAIエージェントのユースケース拡大の参考
+
+**[322pts, 83comments] Show HN: Email.md – Markdown to responsive email-safe HTML** (スコア更新: 316→322)
+- URL: https://www.emailmd.dev/
+- DX改善・開発者ツールとして高い評価。シンプルで実用的なツールへの需要継続
+
+#### MEDIUM Priority
+
+**[271pts, 67comments] TurboQuant: Redefining AI efficiency with extreme compression** (スコア更新: 225→271)
+- URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+- Google Researchによる極端な圧縮でAI推論効率を再定義。スコア急上昇継続
+- Infra Agent LLM示唆: Qwen2.5-3B 4bit量子化アプローチと方向性一致。業界トレンド確認
+
+**[210pts, 81comments] Hypura – Storage-tier-aware LLM inference scheduler for Apple Silicon** (スコア更新: 209→210)
+- URL: https://github.com/t8/hypura
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[134pts, 91comments] Show HN: ProofShot – Give AI coding agents eyes to verify UI** (スコア更新: 134)
+- URL: https://github.com/AmElmo/proofshot
+- AIコーディングエージェントにUI検証機能。エージェント自律性向上ツール継続注目
+
+**[76pts, 60comments] Show HN: AI Roundtable – Let 200 models debate your question** (NEW)
+- URL: https://opper.ai/ai-roundtable/
+- 200モデルに同時に質問を議論させる実験的プロダクト
+- Fuyajo参考: マルチモデル比較・オーケストレーションのユースケース
+
+### 22:30 JST 洞察
+
+**スコアランキング(22:30時点)**: Wine 11 (1049) > Sora終了 (831) > LiteLLM汚染 (761) > Gemini動画検索 (361) > Email.md (322)
+
+**Sora廃止が831ptsに急加速**: 793→831の38pts増は本時間帯最大の伸び。夜になっても加速している。コメント609件はAI話題で終日最多を更新し続けている。「OpenAIも失敗する」という現実が技術者の心に刺さっている。
+
+**TurboQuant急上昇(225→271pts)**: Google Researchの圧縮技術が夕方から夜にかけて注目が急加速。AI効率化・量子化トレンドの本流として認知され始めている。
+
+**Wine 11の独走**: 1049pts。AI話題の最高スコア831(Sora)と比較して218ptsもリード。カーネルレベルの本質的技術改善が最も評価される。Fuyajoも実行基盤の技術的深さを示すことが重要。
+
+**2026-03-25の日総括**: 本日HNの6大テーマ確定
+1. Sora廃止 (831pts) - AIプロダクト淘汰の象徴
+2. AI疲れ (642pts) - 技術者の感情の正直な吐露
+3. LiteLLM侵害 (761pts) - AIツールチェーンセキュリティ危機
+4. GPT-5.4 数学breakthrough (436pts, 637コメント) - AI能力の哲学的議論
+5. Apple Business参入 (635pts) - 非エンジニア市場の競争激化
+6. Wine 11 (1049pts) - 本質的技術への最高評価
+
