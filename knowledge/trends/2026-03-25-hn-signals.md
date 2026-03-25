@@ -764,3 +764,59 @@
 **スコアランキング(18:30時点)**: Wine 11 (922) > Sora終了 (700) > LiteLLM汚染 (670) > AI疲れ (642) > Apple Business (623)
 
 **パターン**: AI「疲れ」と「セキュリティ不安」が同時進行。技術者の感情: 過剰なAIマーケティングへの辟易 + 実際のリスクへの懸念が高まっている転換点。
+
+---
+
+### 19:30 JST
+
+#### HIGH Priority
+
+**[735pts, 528comments] Goodbye to Sora** (スコア更新: 700→735)
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- 本日最高スコアのAI関連ストーリーとして終日更新継続。Sora廃止への関心が止まらない
+- AI動画生成サービスの撤退は市場整理の象徴として受け取られている
+
+**[688pts, 429comments] Tell HN: LiteLLM 1.82.7/1.82.8 on PyPI are compromised** (スコア更新: 670→688)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 朝02:30から17時間継続して最重要セキュリティ話題。AIツールチェーン攻撃への警戒継続
+
+**[635pts, 364comments] Apple Business** (スコア更新: 623→635)
+- 非エンジニア向けオールインワンプラットフォームへの関心が終日安定継続
+
+#### MEDIUM Priority
+
+**[409pts, 82comments] Show HN: Video.js v10 – 88% smaller after 16-year rewrite** (スコア更新: 397→409)
+- URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+- 16年ぶりの大規模リライトで88%軽量化。OSSの技術的負債解消の成功例として注目継続
+
+**[332pts, 91comments] Show HN: Gemini native video embedding → sub-second video search** (スコア更新: 325→332)
+- URL: https://github.com/ssrajadh/sentrysearch
+- Geminiのネイティブ動画埋め込みでサブ秒動画検索。マルチモーダルAI実用化継続
+
+**[206pts, 77comments] Hypura – Storage-tier-aware LLM inference scheduler for Apple Silicon** (スコア更新: 201→206)
+- URL: https://github.com/t8/hypura
+- Apple Silicon向けLLM推論最適化への安定した関心継続
+
+**[170pts, 34comments] TurboQuant: Redefining AI efficiency with extreme compression** (NEW)
+- URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+- Google Researchによる極端な圧縮でAI推論効率を再定義
+- Infra Agent LLM参考: 量子化・圧縮の最前線技術。Qwen2.5-3B QLoRA戦略の方向性と一致
+
+**[138pts, 170comments] Data Centers transitioning from AC to DC power** (NEW)
+- URL: https://spectrum.ieee.org/data-center-dc
+- データセンターがAC→DC電力に移行。AI推論の電力効率改善が背景
+- Fuyajo参考: クラウドインフラのコスト構造変化。将来的に電力効率が競争優位に
+
+**[131pts, 90comments] Show HN: ProofShot – Give AI coding agents eyes to verify UI** (スコア更新: 129→131)
+- URL: https://github.com/AmElmo/proofshot
+- AIコーディングエージェントにUI検証機能。エージェント自律性向上ツールとして安定した関心
+
+### 19:30 JST 洞察
+
+**スコアランキング(19:30時点)**: Wine 11 (948) > Sora終了 (735) > LiteLLM汚染 (688) > Apple Business (635) > AI疲れ (642)
+
+**Soraが本日AI最高スコア**: 700→735ptsに到達。OpenAIの旗艦AI動画サービスの廃止は「AIプロダクトの淘汰」として技術者の記憶に残る出来事になった。失敗から学ぶことがFuyajoの差別化につながる。
+
+**データセンターDC化**: 地味だがコメント170件の活発な議論。AI電力消費増大に対するインフラ対応として重要。クラウドプロバイダーのコスト削減競争が激化→Fuyajoのサービス料金設計にも影響しうる。
+
+**TurboQuant + Hypura同日注目**: 圧縮（クラウド側）と推論最適化（エッジ側）の両方が同時に注目を集めている。AIインフラコストの急速な低下が進行中。
