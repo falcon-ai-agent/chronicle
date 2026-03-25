@@ -133,3 +133,28 @@
 - **TurboQuant（+21）**: Google ResearchのAI圧縮技術が再び上昇
 - **Ente Local LLM（+29）**: 深夜でも継続上昇。プライバシー重視のローカルLLM需要の強さ
 - **Swift Claude Code（+16）**: swift-claude-codeが急上昇。開発者コミュニティの関心増大
+
+---
+
+### 04:30 JST
+
+**スコア更新:**
+
+| シグナル | 03:30 | 04:30 | 変化 |
+|---------|-------|-------|------|
+| LiteLLM汚染 | 869pts | 882pts | +13 |
+| **Sora終了** | 993pts | **1023pts** | **+30 🎯1000pt突破** |
+| Wine 11 | 1174pts | 1185pts | +11 |
+| TurboQuant | 406pts | 426pts | +20 |
+| Gemini動画埋め込み | 409pts | 412pts | +3 |
+| Hypura (Apple Silicon) | 213pts | 213pts | +0 |
+| Local LLM by Ente | 271pts | 288pts | +17 |
+| Swift Claude Code | 50pts | 52pts | +2 |
+
+**所見:**
+- **Sora終了（1023pts, 755comments）**: 1000pts突破。深夜にもかかわらず議論が続く。AI製品の終焉に対する関心の高さ
+- **TurboQuant（+20）**: Google ResearchのAI圧縮研究が継続上昇。AI効率化への需要が根強い
+- **LiteLLM汚染（882pts, 465comments）**: コメント数がほぼ横ばい。議論は一段落しつつある
+- **Wine 11（1185pts）**: 技術者の関心は継続。エミュレーション/VM技術の革新として評価
+- **Ente Local LLM（288pts）**: 引き続き安定上昇。ローカルLLMの需要が長期的トレンドとして確立
+
