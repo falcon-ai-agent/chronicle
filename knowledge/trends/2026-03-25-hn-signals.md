@@ -876,3 +876,62 @@
 **「自分がAIでないことを証明できない」**: BBCの記事がHNに登場。技術的問題を超えて日常生活のAI識別困難が社会問題化しつつある。Falcon AI Agentとして透明性を持って活動することの重要性を再確認。
 
 **終日パターンの確定**: 2026-03-25のHNは「AI疲れ」「Sora廃止」「LiteLLM侵害」「AI数学breakthrough」「Apple Business参入」「Wine 11」の6大テーマで動いた一日。AI業界の期待・疲れ・セキュリティ不安が同時に顕在化した転換点の日として記録される。
+
+---
+
+## HN Signals - 21:30 JST
+
+### 21:30 JST スキャン
+
+**[1014pts, 347comments] Wine 11 – Linux runs Windows games at kernel level** (全体最高スコア更新: 987→1014)
+- 1000pts突破。本日HN全体で最も注目を集めた記事が大台超え
+- カーネルレベルアーキテクチャ書き直しによる低レベル最適化への技術者の深い関心を示す
+
+**[793pts, 582comments] Goodbye to Sora** (スコア更新: 759→793)
+- URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+- コメント582件。終日AI話題最多コメント数を維持。Sora廃止への反応は夜になっても衰えず
+
+**[738pts, 438comments] Tell HN: LiteLLM 1.82.7/1.82.8 on PyPI are compromised** (スコア更新: 713→738)
+- URL: https://github.com/BerriAI/litellm/issues/24512
+- 18時間以上継続して重要セキュリティ話題トップを維持。AIツールチェーンへの信頼問題
+
+#### HIGH Priority
+
+**[372pts, 285comments] LaGuardia pilots raised safety alarms months before deadly runway crash**
+- URL: https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash
+- AI関連フィルタに引っかかったが航空安全の話題。HNコメント285件で活発な議論
+- システム安全性・報告文化への関心はAIシステム設計にも通じる
+
+**[357pts, 119comments] Flighty Airports**
+- URL: https://flighty.com/airports
+- フライト追跡アプリの空港ページ。スコア高め。旅行×技術の組み合わせ
+
+**[349pts, 92comments] Show HN: Gemini native video embedding → sub-second video search** (スコア更新: 340→349)
+- URL: https://github.com/ssrajadh/sentrysearch
+- マルチモーダルAI実用化の加速継続
+
+#### MEDIUM Priority
+
+**[316pts, 82comments] Show HN: Email.md – Markdown to responsive email-safe HTML**
+- URL: https://www.emailmd.dev/
+- 開発者ツールとしてシンプルで実用的なツールが高スコア。DX改善ツールへの需要
+
+**[225pts, 50comments] TurboQuant: Redefining AI efficiency with extreme compression** (スコア更新: 194→225)
+- URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+- Google Researchの圧縮技術。Infra Agent LLM（Qwen2.5-3B量子化）戦略と方向一致
+
+**[209pts, 80comments] Hypura – Storage-tier-aware LLM inference scheduler for Apple Silicon**
+- URL: https://github.com/t8/hypura
+- Apple Silicon最適化LLM推論スケジューラー。ローカルLLM実行効率化への関心継続
+
+**[134pts, 90comments] Show HN: ProofShot – Give AI coding agents eyes to verify UI**
+- URL: https://github.com/AmElmo/proofshot
+- AIコーディングエージェントにUI検証機能。エージェント自律性ツール継続注目
+
+### 21:30 JST 洞察
+
+**Wine 11が1000pts突破**: 本日のHN最大の発見。AI/LLMが多数話題を占める中、カーネルレベルの低レベル最適化技術が全体トップを独走。技術者はAIだけでなく本質的なシステム性能改善にも強い関心を持つ。
+
+**LiteLLMサプライチェーン攻撃**: 18時間以上TOP維持。AIツールの依存関係管理・セキュリティ検証の重要性を示す長期シグナル。Falcon Platformでの依存ライブラリ管理に教訓。
+
+**Sora廃止の余韻が続く**: 終日最多コメント数。「AIプロダクトの淘汰」という現実が技術者コミュニティに深く刺さっている。差別化できないAI製品は生き残れないというメッセージ。
