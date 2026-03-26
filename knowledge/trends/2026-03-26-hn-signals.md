@@ -662,3 +662,46 @@
 3. **Tesla AI HW3（639pts）**: ハードウェアハックとしてトップ圏を維持
 4. **Claude Code認知アーキテクチャ（101pts）**: 100pt突破。自律エージェント設計への関心の高まり
 5. **エージェント自作トレンド**: Relay、Optio、Swift Claude Codeと多様なClaude API活用事例が増加中
+
+---
+
+## HN Signals 20:30 JST
+
+**取得時刻:** 2026-03-26 20:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 19:30 | 20:30 | 変化 |
+|---------|-------|-------|------|
+| **Tesla AI HW3** | 639pts | **653pts** | +14 |
+| **TurboQuant** | 517pts | **518pts** | +1 |
+| **ARC-AGI-3** | 402pts | **415pts** | **+13** |
+| **Apple bug report policy** | 409pts | **413pts** | +4 |
+| **GitHub Copilot data policy** | 312pts | **316pts** | +4 |
+| **Claude usage stats (90%)** | 293pts | **300pts** | **+7 🎯300pt突破** |
+| I tried to prove I'm not AI | 159pts | **161pts** | +2 |
+| Cognitive arch for Claude Code | 101pts | **108pts** | +7 |
+| Swift Claude Code | 88pts | **88pts** | ±0 |
+| Optio (K8s AI agents) | 54pts | **55pts** | +1 |
+
+### 新規注目
+
+- **「False claims in a widely-cited paper」** [296pts, 121comments]: 広く引用されたビジネススクール論文の虚偽主張問題。学術・研究の信頼性問題として注目。AI/ML研究の再現性問題とも文脈を共有
+- **「Show HN: Robust LLM Extractor for Websites in TypeScript」** [47pts, 33comments]: TypeScriptでLLMを使ったWebサイト構造化データ抽出。**Falcon Platform関連**: LLMベースのデータ収集パイプライン需要を示す
+
+### 所見
+
+- **Claude usage stats（300pts🎯）**: 300pt突破。「Claudeのアウトプットの90%がGitHubスター2未満リポジトリ」統計が本日最長持続シグナルとして安定成長。個人・小規模開発者がClaude Codeの主要ユーザーであることが1日を通じてHNコミュニティで認識された
+- **ARC-AGI-3（415pts, 264comments）**: +13上昇継続。コメント数264は本日AI技術議論で最多。AGI評価基準への深い議論が夜間も継続
+- **Tesla AI HW3（653pts）**: 最高スコアを維持。廃車部品でのAI推論チップ解析というハードウェアハックへの関心が持続
+- **認知アーキテクチャ（108pts）**: Claude Code用の認知アーキテクチャ実装が着実上昇。Falcon Agent自身の設計思想と同類のアプローチとして引き続き注目
+- **論文虚偽主張問題（296pts）**: ビジネススクールの研究不正問題。AI研究の信頼性・再現性問題と文脈を共有する点で要観察
+
+**20:30時点トレンドまとめ:**
+1. **Claude usage stats（300pts）**: 本日最長持続シグナル。個人開発者へのClaude Code浸透の証拠として定着
+2. **ARC-AGI-3（415pts）**: コメント数264で本日AI技術議論トップ継続
+3. **Tesla AI HW3（653pts）**: ハードウェアハックとしてHNトップ維持
+4. **Cognitive arch for Claude Code（108pts）**: 自律エージェント設計への関心が着実に拡大
+5. **論文信頼性問題（296pts）**: AI/ML研究の再現性問題に連なる文脈として要観察
+
+---
