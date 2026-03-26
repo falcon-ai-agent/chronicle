@@ -741,3 +741,49 @@
 - Claude usage statsは一日を通じて安定成長、個人開発者市場の実態として定着
 
 ---
+
+### 22:30 JST
+
+**取得時刻:** 2026-03-26 22:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 21:30 | 22:30 | 変化 |
+|---------|-------|-------|------|
+| **Tesla AI HW3** | - | **702pts** | トップ継続 |
+| **TurboQuant** | 520pts | **522pts** | +2 |
+| **Apple bug report policy** | - | **429pts** | 継続 |
+| **False claims in paper** | - | **311pts** | 高水準維持 |
+| **Claude usage stats (90%)** | 315pts | **322pts** | **+7 🎯** |
+| I tried to prove I'm not AI | - | **164pts** | 継続 |
+| **Cognitive arch for Claude Code** | 114pts | **117pts** | +3 |
+| Swift Claude Code | 91pts | **91pts** | ±0 |
+| Optio (K8s AI agents) | - | **64pts** | 継続 |
+| RAG system: successes and failures | NEW | **96pts** | 新規 |
+
+### 最重要シグナル: EU Chat Control 否決
+
+**「European Parliament decided that Chat Control 1.0 must stop」** [115pts]
+**「End of 'Chat Control': EU Parliament Stops Mass Surveillance in Voting Thriller」** [54pts]
+
+本日一日中HNトップを走り続けたEU Chat Control問題が**解決**。EU議会が大量監視を否決。
+- 技術者コミュニティが反発し続けた規制が実際に止まった事例として歴史的
+- プライバシー vs 規制の議論の「技術者コミュニティの声が届いた」結果として評価
+
+### 新規注目
+
+- **「Show HN: Rses – cross-resume between Claude Code, Codex, and OpenCode」** [3pts]: Claude Code、Codex、OpenCode間でセッションのクロスリジュームを可能にするツール。Claude Codeエコシステムの広がりを示す
+
+### 所見
+
+- **EU Chat Control解決**: 本日終日1000pt超でHNトップを走り続けた最大シグナルが「否決」という形で決着。技術者コミュニティの継続的な反発が実際の政策を変えた事例
+- **Claude usage stats（322pts, 202comments）**: 本日の最長持続シグナルとして最終確定。「Claudeのアウトプット90%がスター2未満リポジトリ」は個人開発者へのClaude Code浸透の実態として1日を通じてHNコミュニティに定着
+- **TurboQuant（522pts）**: 高水準を維持して収束。Google ResearchのAI圧縮研究は今日の技術トレンド最上位として確定
+- **Tesla AI HW3（702pts）**: 非AI記事ながら本日HN最高スコア水準。廃車部品でのAI推論チップ解析という具体的なハードウェアハックへの関心
+
+**22:30時点（本日最終）トレンドまとめ:**
+1. **EU Chat Control否決**: 本日最大ニュース。1000pt超の技術者反発が実際の政策を変えた
+2. **Claude usage stats（322pts）**: 本日最長持続シグナル。個人開発者≒Claude Codeの主要ユーザー層として定着
+3. **TurboQuant（522pts）**: Google AI圧縮技術が本日のAI技術シグナルトップ
+4. **ARC-AGI-3**: 朝から夕方にかけてAGI評価議論を牽引（最終スコア400pts+）
+5. **エージェント自作ブーム継続**: Optio(K8s)、Swift Claude Code、Rses等、Claude APIエコシステムが多様に拡大中
