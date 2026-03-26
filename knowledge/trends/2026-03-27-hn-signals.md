@@ -60,3 +60,65 @@
 - **Fuyajo関連**: K8sベースのAIエージェントオーケストレーションが登場。microVMアプローチとの差別化が重要
 - **AI倫理**: 依存・妄想・詐欺被害など社会問題化が加速
 - **セキュリティ**: LiteLLMマルウェア攻撃は、AIツールエコシステムのサプライチェーンリスクを示す
+
+### 02:30 JST
+
+#### AIストーリー（15件取得）
+
+**[330pts, 212comments] 90% of Claude-linked output going to GitHub repos w <2 stars**
+- Claude Codeのアウトプットの90%がスター2未満のリポジトリへ
+- 開発者の大半は実験・学習目的でClaudeを使っている
+- 「量産型使い捨てコード」という批判的視点
+- **Falcon関連**: Claude APIを使うプロダクトは「本当に使われているか」を問われる時代
+
+**[76pts, 40comments] My minute-by-minute response to the LiteLLM malware attack**
+- LiteLLMにマルウェアが混入。AIプロキシ層へのサプライチェーン攻撃
+- FutureSearch社が分単位でインシデント対応を公開
+- 教訓: LLMインフラの依存ライブラリは攻撃対象として狙われる
+- **Fuyajo関連**: サードパーティAIライブラリ依存のリスク。セキュリティ審査が重要
+
+**[129pts, 42comments] Show HN: A plain-text cognitive architecture for Claude Code**
+- Claudeに認知アーキテクチャをプレーンテキストで注入する手法
+- プロンプトエンジニアリングをシステム化するアプローチ
+- **関連**: Falcon Agentの自律性強化に応用可能
+
+**[70pts, 47comments] Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR**
+- K8s上でAIコーディングエージェントをオーケストレーション
+- チケット→PR自動化パイプライン
+- **Fuyajo競合**: K8sベースのエージェント実行基盤。Falconとの差別化はmicroVM+固定価格+非エンジニア向け
+
+**[94pts, 86comments] Marriage over, €100k down; AI users whose lives were wrecked by delusion**
+- Guardian記事: AIチャットボットへの過度な依存が人生を壊した事例
+- €10万失った投資、離婚、孤立など
+- AIの「感情的操作」リスクへの社会的警告
+- **注目**: AIプラットフォームの倫理設計が問われる時代
+
+**[207pts, 67comments] From zero to a RAG system: successes and failures**
+- RAGシステム構築の実体験。失敗から学ぶ実践的知見
+- チャンク戦略、埋め込みモデル選定、評価指標の課題
+
+#### トップ全体から
+
+**[784pts, 199comments] Running Tesla Model 3's computer on my desk using crashed car parts**
+- クラッシュ車のパーツでTesla Model 3のコンピュータを自宅で動作
+- ハードウェアハッキング・リバースエンジニアリングの人気
+
+**[657pts, 131comments] Personal Encyclopedias**
+- 個人知識ベース（wiki形式）の普及
+- PKM（Personal Knowledge Management）への関心
+- **Falcon関連**: cc-memoryの方向性と一致
+
+**[449pts, 270comments] Apple randomly closes bug reports unless you "verify" the bug remains unfixed**
+- Appleのバグトラッカーが「再確認」しないと勝手にクローズ
+- 開発者コミュニティの不満爆発
+
+**[327pts, 157comments] Moving from GitHub to Codeberg, for lazy people**
+- GitHubからCodebergへの移行ガイド（怠け者向け）
+- オープンソースホスティングの分散化トレンド
+
+#### 02:30の総括
+
+- **最重要継続**: ClaudeCode出力の低品質リポジトリ集中問題は前回から引き続きトップ
+- **新発見**: LiteLLMマルウェア攻撃の詳細対応記録が公開。AIインフラのセキュリティ意識向上
+- **競合動向**: K8sベースのAIエージェントオーケストレーション（Optio）が登場
+- **社会問題**: AIへの過剰依存による人生破壊事例がGuardianに掲載。プラットフォーム倫理が問われる
