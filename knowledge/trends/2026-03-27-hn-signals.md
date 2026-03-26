@@ -281,6 +281,67 @@
 
 ---
 
+## HN Signals 07:30 JST
+
+### AI/LLM関連（07:30取得）
+
+**[250pts, 114comments] My minute-by-minute response to the LiteLLM malware attack**
+- 重要度: HIGH | スコア継続上昇（225→250pts）
+- AIサプライチェーン攻撃の実録。1日を通じて最重要AIセキュリティシグナル
+- **Falcon Platform**: サードパーティAIライブラリの依存管理は必須課題
+
+**[264pts, 78comments] From zero to a RAG system: successes and failures**
+- 重要度: HIGH | 252→264ptsに上昇、本日最高AIスコア
+- RAG構築の実践的失敗談。「動く」と「使える」のギャップが共感を呼ぶ
+
+**[98pts, 43comments] HyperAgents: Self-referential self-improving agents (Facebook Research)**
+- 重要度: HIGH | 81→98ptsに上昇中
+- Meta発の自己参照・自己改善エージェント研究
+- **Falcon自律化**: エージェントが自分自身を改善するアーキテクチャ。長期的な自律化方向と一致
+
+**[127pts, 41comments] New York City hospitals drop Palantir as controversial AI firm expands in UK**
+- 重要度: MEDIUM | AI信頼・倫理問題
+- NYCの病院がPalantirを契約終了。AIプロバイダーへの反発・選別が本格化
+- **市場動向**: AI企業のレピュテーションリスクが具体的な採用判断に影響
+
+**[17pts, 1comments] $500 GPU outperforms Claude Sonnet on coding benchmarks (ATLAS)**
+- 重要度: MEDIUM | 9→17ptsに上昇中
+- ローカルLLMとクラウドLLMの性能差縮小。コスト重視ユーザーへの影響
+- **Fuyajo戦略**: ローカルモデル活用の選択肢も視野に
+
+**[12pts, 4comments] Anthropic Update on Session Limits**
+- 重要度: MEDIUM | 4→12ptsに上昇
+- Claudeのセッション制限アップデート。OAuth Token問題との関連あり
+
+**[5pts, 5comments] Anthropic Subprocessor Changes**
+- 重要度: MEDIUM | 直接Anthropic関連
+- Anthropicのサブプロセッサ変更（trust.anthropic.com）
+- プライバシー・データ処理の変更。Fuyajoでのデータ保護設計に注意
+
+#### トップ全体から（07:30）
+
+**[471pts, 241comments] Moving from GitHub to Codeberg, for lazy people**
+- 本日トップクラスのスコア。GitHub離れトレンドが強烈
+- 開発者インフラの脱中央集権化。Fuyajoの独立プラットフォーム戦略と方向性一致
+
+**[438pts, 74comments] Why so many control rooms were seafoam green (2025)**
+- 非技術記事が継続高スコア。HNエンジニアの知的多様性
+
+**[159pts, 47comments] DOOM Over DNS**
+- DNSレコードでDoomを動作。技術的悪ふざけが高評価。HNコミュニティの遊び心
+
+**[83pts, 20comments] Turbolite – SQLite VFS sub-250ms cold JOIN queries from S3**
+- SQLiteをS3上で高速動作させるVFS。エッジ/サーバーレスDBの需要継続
+
+#### 07:30の総括
+
+- **LiteLLM攻撃が本日最大シグナル**: 1日を通じて上昇継続（31→201→225→250pts）。AIインフラセキュリティは今後最重要課題
+- **GitHub離れ加速**: Codeberg記事が471ptsに到達。開発者インフラの分散化は本物のトレンド
+- **AI採用の反動**: NYC病院がPalantir切り。AIプロバイダーの信頼性・透明性が採用の鍵に
+- **ローカルLLM台頭**: $500 GPUでSonnet超えのクレームが上昇中。クラウドLLM前提の見直し時期が来る可能性
+
+---
+
 ## HN Signals 06:30 JST
 
 ### AI/LLM関連（06:30取得）
