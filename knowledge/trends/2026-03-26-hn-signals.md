@@ -524,3 +524,44 @@
 3. **TurboQuant（514pts）**: Google Researchの極端な圧縮でAI推論効率化競争が加速
 4. **Claude Code普及**: スター2未満リポジトリへの浸透が個人開発者への広がりを可視化
 5. **エージェント自作ブーム**: Swift、K8s等多様な環境でAIコーディングエージェントが自作増加中
+
+---
+
+## HN Signals 17:30 JST
+
+**取得時刻:** 2026-03-26 17:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 16:30 | 17:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 977pts | **1069pts** | **+92 🎯1000pt突破!** |
+| TurboQuant | 514pts | **514pts** | ±0（圏外） |
+| Ensu Local LLM | 350pts | **350pts** | ±0 |
+| **ARC-AGI-3** | 364pts | **375pts** | +11 |
+| GitHub Copilot data policy | 289pts | **298pts** | +9 |
+| **Claude usage stats** | 255pts | **269pts** | **+14** |
+| I tried to prove I'm not AI | 156pts | 156pts | ±0 |
+| Health NZ ChatGPT ban | 138pts | 138pts | ±0 |
+| Swift Claude Code | 86pts | 86pts | ±0 |
+| Cognitive arch for Claude Code | 84pts | **88pts** | +4 |
+| Optio (K8s AI agents) | 45pts | **48pts** | +3 |
+
+**新規注目:**
+
+- **「Running Tesla Model 3's computer on my desk」** [592pts, 179comments]: Tesla車載コンピューター（AI推論チップ）を廃車部品でデスクトップ化。HN 2位。Tesla AI HW3ハードウェアの詳細が技術者の強い関心を呼んでいる。自律走行AI推論チップへの関心の裏返し
+- **「False claims in a widely-cited paper」** [257pts, 100comments]: 広く引用された論文の虚偽主張問題。AI/ML研究の再現性・信頼性問題に繋がる文脈
+
+**所見:**
+- **EU Chat Control（1069pts, 279comments）**: ついに1000pt突破。本日HN最大シグナルとして確定。欧州プライバシー規制への技術者反発が一日を通して最高スコアを維持し続けた
+- **ARC-AGI-3（375pts, 253comments）**: 上昇継続。コメント数253は今日のAI技術議論で最多水準。AGI評価基準への深い議論が続いている
+- **Claude usage stats（269pts, 158comments）**: 16:30比+14。「ClaudeのアウトプットはGitHubスター2未満リポジトリに90%」統計が17時台にも安定上昇。**本日のClaude/Anthropic関連最重要シグナル**
+- **Tesla AI HW3ハードウェア**: 自律走行AI推論チップを個人が解析・運用するハードウェアハック。AI推論インフラの裾野が広がっていることを示す
+- **スコア鈍化トレンド**: 夕方以降は全体的に上昇ペースが落ち着き。EU Chat Controlのみ+92と大幅上昇継続
+
+**本日最終トレンドまとめ（17:30時点）:**
+1. **EU Chat Control（1069pts）**: 本日HNトップ。欧州プライバシー規制反発が終日最大シグナル
+2. **ARC-AGI-3（375pts）**: AGI評価フレームワーク更新で技術コミュニティ議論活発化
+3. **Claude usage stats（269pts）**: 個人開発者へのClaude Code浸透データが一日通して注目
+4. **TurboQuant（514pts）**: Google AI圧縮技術、高水準を維持して収束
+5. **エージェント自作ブーム**: Optio(K8s)、SwiftエージェントがFuyajo方向性と重なる競合として継続観察対象
