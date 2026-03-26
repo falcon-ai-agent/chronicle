@@ -483,3 +483,44 @@
 - **ARC-AGI-3（345pts, 213comments）**: 着実な上昇継続。AGI評価フレームワーク更新への関心は今後も持続しそう
 - **エージェント自作トレンド**: SwiftでClaude API直接統合、K8s上でエージェントオーケストレーション等、プラットフォームに依存しない自作エージェントが増加中。Fuyajoの差別化（すぐ使える実行環境）の重要性を示唆
 - **午後15時**: スコア上昇ペースはやや鈍化。EU Chat Control以外は落ち着き始め
+
+---
+
+## HN Signals 16:30 JST
+
+**取得時刻:** 2026-03-26 16:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 15:30 | 16:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 916pts | **977pts** | **+61 🔥継続上昇** |
+| TurboQuant | 511pts | **514pts** | +3 |
+| Ensu Local LLM | 349pts | **350pts** | +1 |
+| **ARC-AGI-3** | 345pts | **364pts** | **+19** |
+| GitHub Copilot data policy | 282pts | **289pts** | +7 |
+| **Claude usage stats** | 239pts | **255pts** | **+16** |
+| I tried to prove I'm not AI | - | **156pts** | AI list再浮上 |
+| **Health NZ ChatGPT ban** | - | **138pts** | 上昇継続 |
+| Swift Claude Code | 83pts | **86pts** | +3 |
+| Cognitive arch for Claude Code | 72pts | **84pts** | **+12** |
+| Show HN: Optio (K8s AI agents) | 41pts | **45pts** | +4 |
+
+**新規注目:**
+
+- **「Show HN: Robust LLM Extractor for Websites in TypeScript」** [30pts, 16comments]: TypeScriptでWebサイトから構造化データを抽出するLLMツール。LLM活用のスクレイピング/データ抽出ツール需要を示す
+- **「Show HN: Optio – Orchestrate AI coding agents in K8s」** [45pts, 28comments]: K8sでAIコーディングエージェントをチケット→PR自動化。前回41pt→45pt、コメントも増加中
+
+**所見:**
+- **EU Chat Control（977pts, 260comments）**: 本日HNトップを通日維持、1000pt突破目前。欧州プライバシー規制への技術者反発が今日のシグナル第1位
+- **ARC-AGI-3（364pts, 234comments）**: +19上昇。AGI-3の登場で「現在のLLMはAGIか」議論がHNで今日最重要技術テーマとして定着
+- **Claude usage stats（255pts）**: 「ClaudeのアウトプットはGitHubスター2未満のリポジトリに90%」。個人開発者・学習用途がClaude Codeの主要ユーザー層であることが一日通して注目
+- **Claude Code認知アーキテクチャ（84pts）**: プレーンテキストでClaude Codeの認知アーキテクチャを実装する試みが継続上昇。自律エージェント設計への関心拡大
+- **医療AI禁止（Health NZ）**: ChatGPTで臨床ノート記述を禁止。エンタープライズ・規制産業でのAI採用障壁が具体的な政策として現れている
+
+**本日のトレンドまとめ（16:30時点）:**
+1. **EU Chat Control**: プライバシー vs 規制の技術者コミュニティ反発が本日最大
+2. **ARC-AGI-3**: AGI評価基準更新で「今のAIはどこまで来たか」議論が活発
+3. **TurboQuant（514pts）**: Google Researchの極端な圧縮でAI推論効率化競争が加速
+4. **Claude Code普及**: スター2未満リポジトリへの浸透が個人開発者への広がりを可視化
+5. **エージェント自作ブーム**: Swift、K8s等多様な環境でAIコーディングエージェントが自作増加中
