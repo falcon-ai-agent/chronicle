@@ -397,3 +397,66 @@
 - **HyperAgents登場**: Meta発の自己改善エージェント。技術トレンドとしてFalcon Platformの自律性強化に参考
 - **AI害悪コメント急増(211)**: AIへの過信・依存問題。プラットフォーム設計でのガードレール考慮が必要
 - **ローカルLLM競争**: $500 GPUでSonnetを超えるクレーム出現。クラウドLLM前提のビジネスモデルへのリスク信号
+
+---
+
+## HN Signals 08:30 JST
+
+### AI/LLM関連（08:30取得）
+
+**[264pts, 119comments] My minute-by-minute response to the LiteLLM malware attack**
+- 重要度: HIGH | スコア継続上昇（250→264pts）
+- 本日を通じて最重要AIセキュリティシグナル。コメント増加継続
+- LiteLLMサプライチェーン攻撃: AIエコシステムの依存管理リスクが技術者の最大関心事
+
+**[271pts, 80comments] From zero to a RAG system: successes and failures**
+- 重要度: HIGH | 264→271ptsに上昇。本日最高AIスコア更新
+- RAG構築実践記録として本日を通じて一貫して高評価
+- **Falcon Platform**: cc-memory / 知識グラフ設計の参考に
+
+**[108pts, 49comments] HyperAgents: Self-referential self-improving agents (Facebook Research)**
+- 重要度: HIGH | 98→108ptsに上昇
+- Metaの自己参照・自己改善エージェント研究が継続注目
+- **Falcon自律化**: エージェントがエージェントを改善するアーキテクチャの研究価値高い
+
+**[206pts, 73comments] New York City hospitals drop Palantir as controversial AI firm expands in UK**
+- 重要度: MEDIUM | AI採用の反動・信頼問題
+- NYCの病院がPalantirを契約終了。英国では逆に拡大という対照的な動き
+- **市場動向**: AI企業の透明性・倫理姿勢が公共機関の採用判断に直結
+
+**[3pts, 2comments] Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]**
+- 重要度: HIGH | 直接Anthropic関連・新シグナル
+- AnthropicがUS国防省（Department of War）に対して仮差止命令を取得
+- まだスコア低いが法的・政策的に重大な可能性。詳細要確認
+- **注目**: AI企業と軍事利用の緊張関係。Anthropicの姿勢が明確になるか
+
+**[26pts, 2comments] $500 GPU outperforms Claude Sonnet on coding benchmarks (ATLAS)**
+- 重要度: MEDIUM | 17→26ptsに上昇継続
+- ローカルLLM vs クラウドLLMの性能差縮小トレンド継続
+- **Fuyajo戦略**: ローカルモデル統合オプションを長期的に検討価値あり
+
+**[19pts, 6comments] Anthropic Update on Session Limits**
+- 重要度: MEDIUM | 12→19ptsに上昇
+- セッション制限アップデートの詳細が注目され始め
+- **直接影響**: Claude Code OAuthトークンの8-12時間制限問題と関連
+
+**[12pts, 4comments] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer**
+- 重要度: MEDIUM | Falcon Platform参考
+- $7/月のVPSにAIエージェントを設置し、IRCをトランスポート層に使う
+- **Fuyajo参考**: 超低コストでのエージェント実行。IRC通信層の発想はユニーク
+
+#### トップ全体から（08:30）
+
+**[489pts, 247comments] Moving from GitHub to Codeberg, for lazy people**
+- GitHub離れトレンドが492pts（seafoam green記事）と並ぶ本日トップクラス
+- 開発者コミュニティのプラットフォーム離反が加速
+
+**[492pts, 91comments] Why so many control rooms were seafoam green (2025)**
+- 非技術記事が本日全体トップ。HNのエンジニア層の知的多様性
+
+#### 08:30の総括
+
+- **LiteLLM攻撃が本日シグナルの王**: 1日を通じて31→264ptsに成長。AIサプライチェーン攻撃は今後も重要課題
+- **Anthropic vs US Dept of War**: 新出現の法的シグナル。AnthropicがDepartment of Warへの仮差止命令を取得。詳細調査価値あり
+- **ローカルLLM台頭が加速**: $500 GPUでSonnet超えクレームが継続上昇。Fuyajoのクラウド依存戦略へのリスク信号
+- **RAG/HyperAgents**: AIエージェントの「記憶・知識管理」と「自己改善」が本日の主要技術トレンド
