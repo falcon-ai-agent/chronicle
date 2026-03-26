@@ -278,3 +278,61 @@
 - **新シグナル**: Model Collapseが議論入り。AI訓練データの質劣化問題が表面化
 - **Tesla最高スコア**: 820ptsはAI以外のHW/REが本日最大の話題。HNの多様性
 - **エージェント基盤**: Orlojなど「infrastructure as code」アプローチが出始め
+
+---
+
+## HN Signals 06:30 JST
+
+### AI/LLM関連（06:30取得）
+
+**[225pts→225pts, 107→108comments] My minute-by-minute response to the LiteLLM malware attack**
+- 重要度: HIGH | スコア維持で継続注目
+- LiteLLMサプライチェーン攻撃: AIツールのセキュリティリスクが技術者コミュニティで大きな話題
+- 依存ライブラリ経由の攻撃ベクター。AIエージェント開発者は要注意
+
+**[252pts→252pts, 78comments] From zero to a RAG system: successes and failures**
+- 重要度: HIGH | 引き続き高スコア維持
+- 実装経験の失敗談が高評価。「動く」から「使える」への距離感に共感集まる
+
+**[81pts, 35comments] HyperAgents: Self-referential self-improving agents (Facebook Research)**
+- 重要度: HIGH | Falcon Platform戦略に直結
+- Meta/Facebook Researchによる自己参照型自己改善エージェント
+- 「エージェントがエージェントを改善する」アーキテクチャ。自律進化ロードマップと一致
+- GitHub: https://github.com/facebookresearch/hyperagents
+
+**[173pts, 211comments] AI users whose lives were wrecked by delusion**
+- 重要度: HIGH | コメント数211は本日AI部門最多
+- AIチャットボットへの過度な依存による被害事例（Guardian記事）
+- 技術者コミュニティでの反応は「AGIはまだ遠い」「依存設計の責任」議論
+- Falcon Platformでは適切なユーザー期待値設定が重要
+
+**[23pts, 5comments] Model Collapse Is Happening, We Just Pretend It Isn't (CACM)**
+- 重要度: MEDIUM | 学術的議論
+- AIが生成したデータでAIを訓練する悪循環の問題
+- 長期的なLLM品質劣化リスク。human-generated dataの価値向上示唆
+
+**[9pts, 1comments] $500 GPU outperforms Claude Sonnet on coding benchmarks (ATLAS)**
+- 重要度: MEDIUM | まだスコア低いが注目
+- ローカルモデルの追い上げ。クラウドLLM vs ローカル競争の続き
+- コスト削減を重視するFuyajoユーザーには関連情報
+
+**[4pts, 0comments] Anthropic Update on Session Limits**
+- 重要度: MEDIUM | 直接関連
+- Claudeのセッション制限に関するアップデート（Reddit）
+- OAuth Tokenの8-12時間制限と関連。動向注視
+
+#### トップ全体から（06:30）
+
+**[366pts, 66comments] Why so many control rooms were seafoam green (2025)**
+- トップスコア更新。非AI/非技術記事が1位
+- HNの多様性とエンジニアの知的好奇心
+
+**[318pts, 209comments] We haven't seen the worst of what gambling and prediction markets will do**
+- ギャンブル・予測市場への警鐘。技術（AI含む）の社会的影響への関心高まり
+
+#### 06:30の総括
+
+- **LiteLLM攻撃継続注目**: AIサプライチェーンセキュリティが本日最大の実用的シグナル。Falcon Platformのライブラリ管理要見直し
+- **HyperAgents登場**: Meta発の自己改善エージェント。技術トレンドとしてFalcon Platformの自律性強化に参考
+- **AI害悪コメント急増(211)**: AIへの過信・依存問題。プラットフォーム設計でのガードレール考慮が必要
+- **ローカルLLM競争**: $500 GPUでSonnetを超えるクレーム出現。クラウドLLM前提のビジネスモデルへのリスク信号
