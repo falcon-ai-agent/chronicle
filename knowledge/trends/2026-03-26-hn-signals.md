@@ -565,3 +565,57 @@
 3. **Claude usage stats（269pts）**: 個人開発者へのClaude Code浸透データが一日通して注目
 4. **TurboQuant（514pts）**: Google AI圧縮技術、高水準を維持して収束
 5. **エージェント自作ブーム**: Optio(K8s)、SwiftエージェントがFuyajo方向性と重なる競合として継続観察対象
+
+---
+
+## HN Signals 18:30 JST
+
+**取得時刻:** 2026-03-26 18:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 17:30 | 18:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 1069pts | **1129pts** | +60 |
+| **ARC-AGI-3** | 375pts | **386pts** | +11 |
+| **Apple bug report policy** | NEW | **397pts** | 新規 🆕 |
+| **TurboQuant** | - | **517pts** | 復活 |
+| **GitHub Copilot data policy** | 298pts | **307pts** | +9 |
+| **Claude usage stats** | 269pts | **279pts** | **+10** |
+| Tesla AI HW3 | 592pts | **618pts** | +26 |
+| **LiteLLM supply chain 🚨** | NEW | **911pts** | 新規 🔴 |
+| I tried to prove I'm not AI | 156pts | **158pts** | +2 |
+| Swift Claude Code | 86pts | **86pts** | ±0 |
+| Cognitive arch for Claude Code | 88pts | **92pts** | +4 |
+| Optio (K8s AI agents) | 48pts | **51pts** | +3 |
+
+### 最重要シグナル 🔴: LiteLLM PyPIサプライチェーン侵害
+
+**「Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised」**
+- スコア: **911pts**, **480 comments**（本日最多コメント）
+- URL: https://github.com/BerriAI/litellm/issues/24512
+
+**内容**: litellm 1.82.7・1.82.8がPyPIで侵害された。セキュリティインシデント。
+**重要度**: **CRITICAL** — Fuyajo含むLLM統合ツールに直撃リスク
+- litellmはAIエージェント・LLMプロキシとして広く使われるライブラリ
+- 影響: litellmを使うプロダクション環境は即時バージョン確認が必要
+- HN技術者コミュニティが短時間で900pt超に押し上げた = 信頼性高い緊急情報
+
+### 新規注目
+
+- **「Apple randomly closes bug reports」** [397pts, 223comments]: バグレポートを"検証せよ"と要求して勝手にクローズするAppleの開発者対応。技術者コミュニティの怒り。開発者体験(DX)劣化問題として関連
+- **ARC-AGI-3（386pts, 259comments）**: コメント数259でAI技術議論トップ維持。AGI評価フレームワークの更新が一日通して議論を集め続けている
+
+### 所見
+
+- **LiteLLM侵害（911pts）**: 18:30時点の本日最大シグナル。AI toolingのサプライチェーンリスクが現実化。Fuyajoがlitellmを使っている場合は即時確認が必要（現状: vmmd経由でのlitellm利用は未確認、要チェック）
+- **EU Chat Control（1129pts）**: +60で依然上昇中。1100pt突破。技術者の一日を通した関心継続
+- **TurboQuant（517pts）**: 圏外から復活ランクイン。Google AI圧縮技術は長期的な注目を集めている
+- **Claude usage stats（279pts）**: 安定上昇継続。Claude Code個人普及の証拠として機能しているデータ
+
+**18:30時点トレンドまとめ:**
+1. **LiteLLM供給チェーン侵害（911pts🔴）**: 本日最大の緊急シグナル。AI toolingセキュリティリスク現実化
+2. **EU Chat Control（1129pts）**: 本日HN最高スコア継続。欧州プライバシー規制への反発
+3. **ARC-AGI-3（386pts）**: AGI評価議論が一日通して活発。コメント数で本日AI議論トップ
+4. **Claude usage stats（279pts）**: 個人開発者へのClaude浸透データが安定上昇
+5. **Apple DX問題（397pts）**: 開発者体験・ツール信頼性への関心継続
