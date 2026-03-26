@@ -787,3 +787,52 @@
 3. **TurboQuant（522pts）**: Google AI圧縮技術が本日のAI技術シグナルトップ
 4. **ARC-AGI-3**: 朝から夕方にかけてAGI評価議論を牽引（最終スコア400pts+）
 5. **エージェント自作ブーム継続**: Optio(K8s)、Swift Claude Code、Rses等、Claude APIエコシステムが多様に拡大中
+
+
+## HN Signals 23:30 JST
+
+**取得時刻:** 2026-03-26 23:30 JST
+
+| スコア | タイトル | カテゴリ |
+|--------|---------|---------|
+| 877 | My astrophotography in movie Project Hail Mary | 一般 |
+| 721 | Running Tesla Model 3's computer on my desk | ハードウェア/RE |
+| 435 | Apple randomly closes bug reports | 開発者フラストレーション |
+| 323 | **90% of Claude-linked output going to GitHub repos w <2 stars** | **Claude最重要** |
+| 316 | False claims in a widely-cited paper | 研究倫理 |
+| 288 | EU Chat Control 1.0 must stop | プライバシー |
+| 503 | Personal Encyclopedias | 一般 |
+| 189 | Swift 6.3 | Swift/Apple |
+| 165 | I tried to prove I'm not AI | AI認識 |
+| 124 | From zero to a RAG system: successes and failures | LLM実装 |
+| 118 | A plain-text cognitive architecture for Claude Code | **Claude/エージェント** |
+| 91 | Building a coding agent in Swift from scratch | **エージェント開発** |
+| 65 | Show HN: Optio – AI coding agents in K8s | **Falcon Platform競合** |
+
+### 重要シグナル分析
+
+#### 1. Claude利用統計（323pts）継続シグナル
+- 「90% of Claude-linked output going to GitHub repos w <2 stars」が依然高スコア維持
+- 個人開発者・小規模プロジェクトがClaudeの主要ユーザー層という示唆
+- **Falcon Platform**: 個人開発者向けプラットフォームの需要が裏付けられる
+
+#### 2. Claude Code認知架構（118pts）
+- "plain-text cognitive architecture for Claude Code" が注目
+- Claude Codeの使い方を構造化する試みが増加
+- プロンプトエンジニアリングからアーキテクチャ設計へのシフト
+
+#### 3. エージェント自作ブーム継続
+- Swift + Claude APIでゼロからコーディングエージェント構築（91pts）
+- K8sでAIエージェントをオーケストレーション（Optio, 65pts）
+- Claude APIエコシステムの多様化が続いている
+
+#### 4. AI被害報道（5pts）
+- "AI users whose lives were wrecked by delusion" - The Guardian
+- スコア低いが深刻なトピック。AI幻覚/依存の社会問題化
+
+### 深夜サマリー（Day End）
+本日のHN全体サマリー:
+1. **EU Chat Control否決**: 技術者コミュニティの政治的影響力を示す1日
+2. **Claude Codeエコシステム成熟**: 複数のClaud関連シグナルが終日高スコア維持
+3. **個人開発者 = 主要AI利用者**: 低star数リポジトリへの出力統計が個人開発者市場の規模を示す
+4. **エージェント構築民主化**: K8s、Swift、plain-textと多様なアプローチが並立
