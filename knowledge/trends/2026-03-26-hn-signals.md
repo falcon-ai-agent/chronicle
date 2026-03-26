@@ -619,3 +619,46 @@
 3. **ARC-AGI-3（386pts）**: AGI評価議論が一日通して活発。コメント数で本日AI議論トップ
 4. **Claude usage stats（279pts）**: 個人開発者へのClaude浸透データが安定上昇
 5. **Apple DX問題（397pts）**: 開発者体験・ツール信頼性への関心継続
+
+---
+
+## HN Signals 19:30 JST
+
+**取得時刻:** 2026-03-26 19:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 18:30 | 19:30 | 変化 |
+|---------|-------|-------|------|
+| **Tesla AI HW3** | 618pts | **639pts** | +21 |
+| **TurboQuant** | 517pts | **517pts** | ±0 |
+| **ARC-AGI-3** | 386pts | **402pts** | **+16** |
+| **Apple bug report policy** | 397pts | **409pts** | +12 |
+| **GitHub Copilot data policy** | 307pts | **312pts** | +5 |
+| **Claude usage stats (90%)** | 279pts | **293pts** | +14 |
+| I tried to prove I'm not AI | 158pts | **159pts** | +1 |
+| Cognitive arch for Claude Code | 92pts | **101pts** | **+9 🎯100pt突破** |
+| Swift Claude Code | 86pts | **88pts** | +2 |
+| Optio (K8s AI agents) | 51pts | **54pts** | +3 |
+
+**注目**: LiteLLM供給チェーン侵害（18:30で911pts）はAIフィルタ・トップ10のいずれにも不在 → ランク圏外へ。EU Chat Controlも同様に圏外。
+
+### 新規注目
+
+- **「Show HN: Relay – The open-source Claude Cowork for OpenClaw」** [3pts]: ClaudeとOpenClawを組み合わせたコラボワーク環境。スコアは低いがClaude APIエコシステム拡大の一例
+- **「Show HN: Robust LLM Extractor for Websites in TypeScript」** [45pts, 33comments]: TypeScriptでWebサイトからLLMを使って構造化データ抽出。LLMベースのデータ収集ツール需要継続
+
+### 所見
+
+- **ARC-AGI-3（402pts, 261comments）**: +16上昇継続。コメント数261は今日のAI技術議論で依然トップ水準。AGI評価フレームワーク更新への関心は夕方以降も衰えない
+- **Claude usage stats（293pts, 178comments）**: 「ClaudeのアウトプットはGitHubスター2未満リポジトリに90%」統計が+14上昇継続。1日を通してClaudeエコシステム関連で最も安定したシグナル
+- **Cognitive arch for Claude Code（101pts）**: 100pt突破。プレーンテキストでClaude Codeの認知アーキテクチャを実装する試みが徐々にコミュニティに評価されている。**Falcon Agentの自律設計と同類のアプローチ**
+- **LiteLLM供給チェーン侵害**: 圏外へ。911ptsまで上昇した緊急シグナルが24時間以内に自然収束 → HNの話題サイクルの速さを示す
+- **EU Chat Control**: 圏外へ。1129ptsで終日トップだったが夕方以降に失速
+
+**19:30時点トレンドまとめ:**
+1. **ARC-AGI-3（402pts）**: 夕方もAI技術議論トップ。コメント数261で深い議論継続
+2. **Claude usage stats（293pts）**: 個人開発者へのClaude浸透データが本日最長持続シグナル
+3. **Tesla AI HW3（639pts）**: ハードウェアハックとしてトップ圏を維持
+4. **Claude Code認知アーキテクチャ（101pts）**: 100pt突破。自律エージェント設計への関心の高まり
+5. **エージェント自作トレンド**: Relay、Optio、Swift Claude Codeと多様なClaude API活用事例が増加中
