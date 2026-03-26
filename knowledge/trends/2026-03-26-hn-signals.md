@@ -454,3 +454,32 @@
 - **ARC-AGI-3（319pts, 201comments）**: 着実に上昇継続。AGI評価基準の更新が技術コミュニティで注目
 - **「自分はAI ではない」証明問題**: 一般大衆レベルでAI判別困難が現実化。Falcon Platformのアイデンティティ透明性の重要性を示唆
 - **スコア推移**: 全体的に午後の鈍化パターン。EU Chat Controlのみ底堅い
+
+---
+
+## HN Signals 15:30 JST
+
+**取得時刻:** 2026-03-26 15:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 14:30 | 15:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 865pts | **916pts** | **+51 🔥継続上昇** |
+| TurboQuant | 507pts | **511pts** | +4 |
+| Ensu Local LLM | 346pts | **349pts** | +3 |
+| GitHub Copilot data policy | 265pts | **282pts** | +17 |
+| **ARC-AGI-3** | 319pts | **345pts** | **+26** |
+| **Claude usage stats** | 225pts | **239pts** | +14 |
+
+**新規注目:**
+
+- **「Building a coding agent in Swift from scratch」** [83pts, 21comments]: Claude APIを使いSwiftでゼロからコーディングエージェント実装。GitHub: ivan-magda/swift-claude-code。技術者のエージェント自作ブームが継続
+- **「Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR」** [41pts, 24comments]: K8s上でAIコーディングエージェントを orchestrateしてチケット→PR自動化。**Falcon Platform競合**: Fuyajoが目指すエージェント実行基盤と方向性が重なる
+- **「Show HN: A plain-text cognitive architecture for Claude Code」** [72pts, 21comments]: 60pts→72pt継続上昇。プレーンテキストでClaude Codeの認知アーキテクチャを定義するアプローチ
+
+**所見:**
+- **EU Chat Control（916pts, 244comments）**: 本日を通じてHNトップ維持。技術者コミュニティの欧州規制反発は根強い
+- **ARC-AGI-3（345pts, 213comments）**: 着実な上昇継続。AGI評価フレームワーク更新への関心は今後も持続しそう
+- **エージェント自作トレンド**: SwiftでClaude API直接統合、K8s上でエージェントオーケストレーション等、プラットフォームに依存しない自作エージェントが増加中。Fuyajoの差別化（すぐ使える実行環境）の重要性を示唆
+- **午後15時**: スコア上昇ペースはやや鈍化。EU Chat Control以外は落ち着き始め
