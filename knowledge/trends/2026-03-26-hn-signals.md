@@ -318,3 +318,31 @@
 - **Quantization from the Ground Up（176pts）**: 技術解説記事が午前中に急浮上。量子化技術の教育コンテンツへの需要
 - **EU Chat Control（611pts）**: 最高スコアに近い水準。プライバシー問題が欧州技術者コミュニティを動員
 - **TurboQuant（485pts）**: Googleの極端な量子化技術。エッジデバイス向けAI圧縮の方向性を示す
+
+---
+
+### 10:30 JST
+
+**スコア更新:**
+
+| シグナル | 09:30 | 10:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 611pts | **687pts** | **+76 🔥急上昇** |
+| TurboQuant | 485pts | 495pts | +10 |
+| Ensu Local LLM | 325pts | 328pts | +3 |
+| GitHub Copilot data policy | 213pts | 228pts | +15 |
+| **ARC-AGI-3** | 230pts | **248pts** | +18 |
+| **Claude usage stats** | 158pts | **181pts** | **+23 急上昇継続** |
+| Swift Claude Code | 72pts | 74pts | +2 |
+| Cognitive arch for Claude Code | 8pts | 18pts | +10 |
+
+**新規注目:**
+
+- **Health NZ staff told to stop using ChatGPT** [82pts, 27comments]: ニュージーランドの公衆衛生機関がChatGPTで臨床ノート記述を禁止。AI×医療のリスク管理が政策化されている事例
+
+**所見:**
+- **EU Chat Control（687pts, 203comments）**: +76pt大幅上昇。プライバシー問題が欧州以外にも波及し最高スコア水準を維持
+- **Claude usage stats（181pts, 100comments）**: 「Claudeのアウトプット90%がスター2未満リポジトリ」の統計が一日中上昇継続。個人開発者がClaude Codeの主要ユーザー層であることが広く認識されている
+- **ARC-AGI-3（248pts）**: 安定上昇。AGI評価基準の更新がHNコミュニティで今日最重要な技術議論のひとつ
+- **医療AI禁止事例**: HN技術者コミュニティがAIの実用化リスクとして注目。エンタープライズでの採用障壁を示す
+- **TurboQuant（495pts）**: 高水準を維持。AI推論効率化への継続的関心
