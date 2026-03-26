@@ -346,3 +346,30 @@
 - **ARC-AGI-3（248pts）**: 安定上昇。AGI評価基準の更新がHNコミュニティで今日最重要な技術議論のひとつ
 - **医療AI禁止事例**: HN技術者コミュニティがAIの実用化リスクとして注目。エンタープライズでの採用障壁を示す
 - **TurboQuant（495pts）**: 高水準を維持。AI推論効率化への継続的関心
+
+---
+
+### 11:30 JST
+
+**スコア更新:**
+
+| シグナル | 10:30 | 11:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 687pts | **743pts** | **+56 🔥急上昇継続** |
+| TurboQuant | 495pts | 499pts | +4 |
+| Ensu Local LLM | 328pts | 336pts | +8 |
+| GitHub Copilot data policy | 228pts | 236pts | +8 |
+| **ARC-AGI-3** | 248pts | **268pts** | +20 |
+| **Claude usage stats** | 181pts | **198pts** | +17 |
+
+**新規注目:**
+
+- **「I tried to prove I'm not AI. My aunt wasn't convinced」** [134pts, 153comments]: BBC記事。AI偽装検出の社会的現実。技術的証明より感情的疑念が勝る事例 → AI信頼問題が個人レベルで拡大している
+- **Supreme Court Sides with Cox in Copyright Fight** [280pts, 239comments]: ISPのコピーライト責任に関する最高裁判決。AI学習データのコピーライト問題にも影響する判例として注目
+
+**所見:**
+- **EU Chat Control（743pts, 211comments）**: プライバシー問題が一日中トップを維持。欧州規制問題への技術者コミュニティの継続的反発
+- **ARC-AGI-3（268pts, 186comments）**: 着実に上昇継続。AGI評価ベンチマークとして今日のHN最重要技術議論
+- **Claude usage stats（198pts, 112comments）**: 「90%がスター2未満リポジトリへ」の統計が安定上昇継続。個人開発者のClaude Code普及の実態データとして定着
+- **著作権判決**: AI学習データの著作権問題と接続する可能性のある司法判断。今後の展開を要観察
+- **AI存在証明問題**: AI偽装を人間に証明できないという個人の体験談がBBC掲載 → AI識別問題が技術を超えた社会問題化
