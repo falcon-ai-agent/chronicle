@@ -222,3 +222,59 @@
 - **AIエージェント実用化**: Optio（K8s）、HyperAgents（Meta）と実装レベルの話題が増加
 - **AI依存問題**: Guardian記事への反響大、社会的課題として認知され始め
 - **RAG実践**: 具体的な成功・失敗談への需要が高い
+
+### 05:30 JST
+
+#### AIストーリー（9件取得）
+
+**[244pts, 77comments] From zero to a RAG system: successes and failures**
+- URL: https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/
+- 本日継続してスコア上昇（195→207→225→236→244pts）
+- チャンク戦略・埋め込みモデル・評価指標など実践的知見
+- **Falcon Platform**: cc-memoryの設計参考に
+
+**[201pts, 91comments] My minute-by-minute response to the LiteLLM malware attack**
+- URL: https://futuresearch.ai/blog/litellm-attack-transcript/
+- スコア上昇継続（176→201pts）、コメント増加
+- AIサプライチェーン攻撃の詳細インシデント対応記録
+- **セキュリティ警告**: vmmd/Fuyajoのサードパーティライブラリ管理に要注意
+
+**[168pts, 189comments] AI users whose lives were wrecked by delusion**
+- URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion
+- コメント数189に膨らむ（156→168pts）。深い議論継続中
+- **AI倫理**: プラットフォーム設計での責任ある対話設計が重要
+
+**[66pts, 21comments] HyperAgents: Self-referential self-improving agents**
+- URL: https://github.com/facebookresearch/hyperagents
+- Meta Research発。自己参照・自己改善エージェントの研究
+- **Falcon自律化**: 将来的なFalcon AI Agent進化方向と一致
+
+**[13pts, 3comments] Model Collapse Is Happening, We Just Pretend It Isn't**
+- URL: https://cacm.acm.org/blogcacm/model-collapse-is-already-happening-we-just-pretend-it-isnt/
+- AIが生成したデータで訓練された次世代モデルの性能劣化問題
+- まだスコア低いが重要な技術議論。今後拡大する可能性あり
+
+**[12pts, 8comments] Show HN: Orloj – agent infrastructure as code (YAML and GitOps)**
+- URL: https://github.com/OrlojHQ/orloj
+- YAMLとGitOpsでエージェントインフラを定義
+- **参考**: Fuyajoのエージェント管理にYAML定義アプローチ参考可能
+
+#### トップ全体から（05:30）
+
+**[820pts, 286comments] Running Tesla Model 3's computer on my desk using crashed car parts**
+- 本日最高スコア（非AI）。ハードウェアリバースエンジニアリング人気
+- エンジニアコミュニティの好奇心の旺盛さを示す
+
+**[312pts, 53comments] Why so many control rooms were seafoam green (2025)**
+- 2位のスコア。非技術的トリビアがHNで高人気
+
+**[112pts, 26comments] Doom entirely from DNS records**
+- DNS TXTレコードでDoomを動かす技術的悪ふざけ
+- エンジニアの遊び心が反映
+
+#### 05:30の総括
+
+- **継続注目**: LiteLLM攻撃(201pts)・RAG構築記事(244pts)が本日を通じて上位維持
+- **新シグナル**: Model Collapseが議論入り。AI訓練データの質劣化問題が表面化
+- **Tesla最高スコア**: 820ptsはAI以外のHW/REが本日最大の話題。HNの多様性
+- **エージェント基盤**: Orlojなど「infrastructure as code」アプローチが出始め
