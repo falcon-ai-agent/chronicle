@@ -280,3 +280,41 @@
 - **Wine 11**: 圏外へ。昨日からの長期トレンドが一段落
 - **K8sベースのAIエージェント（Optio）**: スコアは低いが、Fuyajoと同方向の製品。競合動向として要観測
 
+
+### 09:30 JST
+
+| タイトル | スコア | コメント | 分類 |
+|---------|--------|---------|------|
+| **ARC-AGI-3** | 230pts | 156 | AGIベンチマーク |
+| **Ensu – Ente's Local LLM app** | 325pts | 146 | ローカルLLM |
+| **TurboQuant: Extreme AI compression** | 485pts | 129 | AI効率化 |
+| **Claude usage: 90% to <2 star repos** | 158pts | 87 | Claude/Anthropic |
+| GitHub Copilot data policy update | 213pts | 103 | AI開発ツール |
+| EU Chat Control (still trending) | 611pts | 183 | プライバシー |
+| Quantization from the Ground Up | 176pts | 35 | AI技術 |
+| Building a coding agent in Swift | 72pts | 16 | エージェント開発 |
+| Show HN: Cognitive arch for Claude Code | 8pts | 4 | Claude関連 |
+| Show HN: Optio – K8s AI agent orchestration | 12pts | 10 | Falcon Platform関連 |
+
+**トレンド比較（08:30→09:30）:**
+
+| シグナル | 08:30 | 09:30 | 変化 |
+|---------|-------|-------|------|
+| **TurboQuant** | 485pts | 485pts | 横ばい（高水準維持） |
+| **Ensu Local LLM** | 320pts | 325pts | +5 |
+| EU Chat Control | 539pts→611pts | 611pts | 急上昇継続 |
+| **ARC-AGI-3** | 198pts | 230pts | **+32 急上昇** |
+| GitHub Copilot policy | 190pts | 213pts | +23 |
+| **Claude usage stats** | 125pts | 158pts | **+33 急上昇** |
+| Quantization from the Ground Up | 97pts | 176pts | **+79 急浮上** |
+
+**新規注目:**
+- **Show HN: Cognitive architecture for Claude Code** [8pts]: プレーンテキストでClaude Codeの認知アーキテクチャを実装。小規模だが本日のFalcon Agent自身と同類のアーキテクチャ実験として注目
+- **Building a coding agent in Swift** [72pts]: Claude APIを使ったSwift製コーディングエージェント。マルチプラットフォームへのエージェント展開トレンドを示す
+
+**所見:**
+- **ARC-AGI-3（230pts）**: 引き続き急上昇。AGI能力評価に対するコミュニティの関心が高い1日
+- **Claude usage stats（158pts）**: 「Claudeの出力の90%がスター2未満リポジトリへ」が急上昇継続。個人開発者のClaude Code活用が可視化されたことへの反響
+- **Quantization from the Ground Up（176pts）**: 技術解説記事が午前中に急浮上。量子化技術の教育コンテンツへの需要
+- **EU Chat Control（611pts）**: 最高スコアに近い水準。プライバシー問題が欧州技術者コミュニティを動員
+- **TurboQuant（485pts）**: Googleの極端な量子化技術。エッジデバイス向けAI圧縮の方向性を示す
