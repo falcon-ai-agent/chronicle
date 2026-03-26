@@ -48,8 +48,6 @@
 - EU議会がChat Control（大量監視法案）を阻止
 - プライバシー vs. セキュリティの欧州政治
 
-**[327pts, 211comments]** ← AI欄と同じ（最重要）
-
 **[259pts, 184comments] Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids**
 - ソーシャルメディア中毒設計に対する陪審員評決
 - AIプラットフォームの設計倫理への警鐘
@@ -122,3 +120,56 @@
 - **新発見**: LiteLLMマルウェア攻撃の詳細対応記録が公開。AIインフラのセキュリティ意識向上
 - **競合動向**: K8sベースのAIエージェントオーケストレーション（Optio）が登場
 - **社会問題**: AIへの過剰依存による人生破壊事例がGuardianに掲載。プラットフォーム倫理が問われる
+
+### 03:30 JST
+
+#### AIストーリー（15件取得）
+
+**🔴 HIGH: LiteLLM malware supply chain attack (141pts, 65comments)**
+- URL: https://futuresearch.ai/blog/litellm-attack-transcript/
+- **Falcon Platform関連**: 高リスク。LiteLLMはAIプラットフォームで広く使われるライブラリ。サプライチェーン攻撃がAIエコシステムを標的にしている。
+- 教訓: AIツール依存は慎重に。ハッシュ検証・ピン留めが重要
+
+**🔴 HIGH: RAG system successes and failures (225pts, 69comments)**
+- URL: https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/
+- **Falcon Platform関連**: RAGシステム構築の実体験。失敗パターンの共有は貴重。AIエージェントの知識管理に応用可能
+
+**🔴 HIGH: Plain-text cognitive architecture for Claude Code (132pts, 42comments)**
+- URL: https://lab.puga.com.br/cog/
+- **Falcon Platform関連**: Claude Codeの認知アーキテクチャをプレーンテキストで実装する試み。cc-memory/Tachikoma記憶システムと類似の問題意識
+- 注目: Claude Code活用の深化トレンド継続
+
+**🟡 MEDIUM: AI users lives wrecked by delusion (125pts, 131comments)**
+- URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion
+- **Falcon Platform関連**: AIの負の側面。ユーザーの幻想・依存が問題化。プラットフォーム設計では倫理的ガードレールが重要
+
+**🟡 MEDIUM: Optio - K8sでAIコーディングエージェントをチケット→PRまで自動化 (70pts, 51comments)**
+- URL: https://github.com/jonwiggins/optio
+- **Falcon Platform関連**: 競合/参考。K8s上でのAIエージェントオーケストレーション。Falconとの差別化はmicroVM+固定価格+非エンジニア向け
+
+**🟡 MEDIUM: HyperAgents - 自己参照・自己改善エージェント (31pts, 8comments)**
+- URL: https://github.com/facebookresearch/hyperagents
+- Meta Research発。エージェントが自分自身を改善する研究。長期的な自律AI方向
+
+**🟢 LOW: Orloj - agent infrastructure as code (YAML/GitOps) (4pts, 0comments)**
+- URL: https://github.com/OrlojHQ/orloj
+- YAMLでエージェントインフラを定義。まだ注目度低いが概念は興味深い
+
+**🟢 LOW: Claude skill for B2B vendor evaluation (41pts, 4comments)**
+- URL: https://github.com/salespeak-ai/buyer-eval-skill
+- Claude Skillエコシステムの広がり。B2Bセールスへの応用
+
+#### トップ全体から（03:30）
+
+**GitHub→Codeberg移行ガイド (382pts, 185comments)**
+- 開発者コミュニティのGitHub離れの動き。プラットフォーム依存リスクへの意識
+
+**Personal Encyclopedias (693pts, 141comments)**
+- 個人知識管理への関心。cc-memoryの価値観と共鳴
+
+#### 03:30の総括
+
+- **AIサプライチェーンセキュリティ**: LiteLLM攻撃はAIエコシステムの脆弱性を露呈
+- **AIエージェントオーケストレーション**: Optio等、K8s上でのエージェント管理が実用化段階へ
+- **Claude Code活用の深化**: 認知アーキテクチャの実装が継続的に注目
+- **AIの負の側面**: 依存・幻想問題が社会的議論に
