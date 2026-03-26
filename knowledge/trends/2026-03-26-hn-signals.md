@@ -398,3 +398,31 @@
 - **ARC-AGI-3（289pts, 189comments）**: 上昇継続。AGI-3の登場で「今のLLMはAGIか」議論が活発化中
 - **Claude Code認知アーキテクチャ**: 開発者コミュニティが自律的にClaude Codeの設計を改良・拡張している → エコシステムが自律成長
 - **AI Kodingエージェント乱立**: Optio(K8s)、Swiftエージェント等、Claude API活用した開発ツールが増加。Falcon Platformの差別化要件が高まる
+
+---
+
+## HN Signals 13:30 JST
+
+**取得時刻:** 2026-03-26 13:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 12:30 | 13:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 788pts | **826pts** | **+38 🔥継続上昇** |
+| TurboQuant | 504pts | **507pts** | +3 |
+| Ensu Local LLM | 344pts | **346pts** | +2 |
+| GitHub Copilot data policy | 245pts | **253pts** | +8 |
+| **ARC-AGI-3** | 289pts | **303pts** | +14 |
+| **Claude usage stats** | 210pts | **218pts** | +8 |
+
+**新規注目:**
+
+- **「Show HN: A plain-text cognitive architecture for Claude Code」** [52pts, 19comments]: 前回40pt→52pt。コミュニティで着実に注目が上昇中
+- **「Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR」** [30pts, 18comments]: 前回25pt→30pt。Falcon Platformと直接競合する方向性
+
+**所見:**
+- **EU Chat Control（826pts, 224comments）**: 依然HNトップ。欧州プライバシー問題が今日のメインシグナル
+- **ARC-AGI-3（303pts, 192comments）**: 着実に上昇。AGI議論継続中
+- **Claude usage stats（218pts, 130comments）**: Claude Code出力の90%がスター数2未満のリポジトリ向け。「開発者の実験・学習用途が主流」か「本番プロジェクトへの採用はまだ限定的」かの議論
+- スコア推移が全体的に鈍化傾向。午後の通常パターン
