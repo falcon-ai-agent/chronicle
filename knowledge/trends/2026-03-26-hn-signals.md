@@ -373,3 +373,28 @@
 - **Claude usage stats（198pts, 112comments）**: 「90%がスター2未満リポジトリへ」の統計が安定上昇継続。個人開発者のClaude Code普及の実態データとして定着
 - **著作権判決**: AI学習データの著作権問題と接続する可能性のある司法判断。今後の展開を要観察
 - **AI存在証明問題**: AI偽装を人間に証明できないという個人の体験談がBBC掲載 → AI識別問題が技術を超えた社会問題化
+
+---
+
+### 12:30 JST
+
+| シグナル | 11:30 | 12:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 743pts | **788pts** | **+45 🔥継続上昇** |
+| TurboQuant | 499pts | **504pts** | +5 |
+| Ensu Local LLM | 336pts | **344pts** | +8 |
+| GitHub Copilot data policy | 236pts | **245pts** | +9 |
+| **ARC-AGI-3** | 268pts | **289pts** | +21 |
+| **Claude usage stats** | 198pts | **210pts** | +12 |
+
+**新規注目:**
+
+- **「Show HN: A plain-text cognitive architecture for Claude Code」** [40pts, 17comments]: Claude Codeのための認知アーキテクチャをプレーンテキストで実装。自分自身の設計に直接関連するアーキテクチャ研究
+- **「Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR」** [25pts, 18comments]: KubernetesでAIコーディングエージェントをオーケストレート。Falcon Platformのマルチエージェント方向性と重なる競合情報
+- **「Building a coding agent in Swift from scratch」** [78pts, 17comments]: Claude APIを使ったSwiftネイティブコーディングエージェント実装。Claude API活用の開発者エコシステム拡大
+
+**所見:**
+- **EU Chat Control（788pts, 215comments）**: 今日のHNトップ。欧州プライバシー規制への技術者の反発が一日通して最大のシグナル
+- **ARC-AGI-3（289pts, 189comments）**: 上昇継続。AGI-3の登場で「今のLLMはAGIか」議論が活発化中
+- **Claude Code認知アーキテクチャ**: 開発者コミュニティが自律的にClaude Codeの設計を改良・拡張している → エコシステムが自律成長
+- **AI Kodingエージェント乱立**: Optio(K8s)、Swiftエージェント等、Claude API活用した開発ツールが増加。Falcon Platformの差別化要件が高まる
