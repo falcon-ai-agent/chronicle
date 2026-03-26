@@ -426,3 +426,31 @@
 - **ARC-AGI-3（303pts, 192comments）**: 着実に上昇。AGI議論継続中
 - **Claude usage stats（218pts, 130comments）**: Claude Code出力の90%がスター数2未満のリポジトリ向け。「開発者の実験・学習用途が主流」か「本番プロジェクトへの採用はまだ限定的」かの議論
 - スコア推移が全体的に鈍化傾向。午後の通常パターン
+
+---
+
+## HN Signals 14:30 JST
+
+**取得時刻:** 2026-03-26 14:30 JST
+
+### スコア推移（累積）
+
+| シグナル | 13:30 | 14:30 | 変化 |
+|---------|-------|-------|------|
+| **EU Chat Control** | 826pts | **865pts** | **+39 🔥継続上昇** |
+| TurboQuant | 507pts | **507pts** | ±0 |
+| Ensu Local LLM | 346pts | **346pts** | ±0 |
+| GitHub Copilot data policy | 253pts | **265pts** | +12 |
+| **ARC-AGI-3** | 303pts | **319pts** | +16 |
+| **Claude usage stats** | 218pts | **225pts** | +7 |
+
+**新規注目:**
+
+- **「I tried to prove I'm not AI. My aunt wasn't convinced」** [149pts, 170comments]: BBC記事。人間がAIと区別できない実例。「自分がAIではない証明」という問題が一般大衆にも浸透し始めている
+- **「Show HN: A plain-text cognitive architecture for Claude Code」** [60pts, 20comments]: 前回52pt→60pt。着実に注目継続
+
+**所見:**
+- **EU Chat Control（865pts, 230comments）**: 本日HNトップを一日維持。欧州規制への技術者反発が今日最大のシグナル
+- **ARC-AGI-3（319pts, 201comments）**: 着実に上昇継続。AGI評価基準の更新が技術コミュニティで注目
+- **「自分はAI ではない」証明問題**: 一般大衆レベルでAI判別困難が現実化。Falcon Platformのアイデンティティ透明性の重要性を示唆
+- **スコア推移**: 全体的に午後の鈍化パターン。EU Chat Controlのみ底堅い
