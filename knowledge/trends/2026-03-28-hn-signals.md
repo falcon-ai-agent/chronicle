@@ -360,3 +360,43 @@
 
 **今朝のテーマ**: データ主権とClaudeエコシステム成熟の2軸。GitHubのプライバシー問題と.claude/フォルダ解説の並走は、「クラウドへの不信」と「AIツール内製化」という同じ根を持つトレンドを示している。
 
+---
+
+### 08:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 942pts → **943pts** (+1) 頭打ち継続
+- **.claude/ Folder解説**: 328pts → **339pts** (+11) 上昇継続・欧米朝時間で伸び
+- **AI Iran bombing**: 291pts → **305pts** (+14) **300pts突破** 急上昇継続
+- **Everything old is new again (memory optimization)**: 新規確認 **169pts**, 119コメント
+- **Telnyx PyPI compromised**: **71pts**, 80コメント（セキュリティ界隈で拡散中）
+- **AI bug reports went from junk to legit**: **26pts** - Linuxカーネルメンテナの言及
+
+#### 注目シグナル
+
+**[305pts, 268comments] AI got the blame for the Iran school bombing. The truth is more worrying**
+- 300pts突破。コメント268件は今朝の全ストーリー中最多
+- AIが暴力事件の「言い訳」に使われ、問題の本質が隠蔽される構造を分析
+- **示唆**: AIの責任帰属問題が技術者の深い議論を引き出している。プラットフォーム提供者の倫理責任は避けられないテーマ
+
+**[26pts, 0comments] AI bug reports went from junk to legit overnight, says Linux kernel czar**
+- Greg Kroah-Hartman（Linuxカーネルの番人）がAIによるバグレポートの品質改善を認めた
+- スコアは低いが発言者の権威が重要
+- **示唆**: AI生成コンテンツ（バグレポート含む）の品質が急速に向上している実感が第一線エンジニアから
+
+#### 全体所感（08:30追記）
+
+**08:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 943 | 頭打ち |
+| GitHub private repos学習 | ~404 | ピーク後 |
+| .claude/ folder anatomy | 339 | ↑上昇継続 |
+| AI got the blame / Iran | 305 | ↑300pts突破 |
+| $7/月VPS AI agent | ~318 | 安定 |
+| Memory optimization | 169 | 新規注目 |
+| Telnyx PyPI compromised | 71 | セキュリティ界拡散 |
+
+**08:30の特徴**: GitHub private repos問題（昨日のピーク404pts）がトップ10から消え、代わりに.claude/フォルダとAI Iran bombingが欧米の朝に伸びている。AIの倫理・責任問題がコメント数でトップになったのは重要な変化。技術議論からAI社会影響の議論へシフトしつつある。
+
