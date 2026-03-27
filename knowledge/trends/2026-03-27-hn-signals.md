@@ -893,3 +893,57 @@
 - **ローカルLLM急加速+27pt**: 131→158ptsへ。$500 GPUでSonnet超えクレームが加速。クラウドLLM前提ビジネスモデルへのリスク信号が本物になってきた
 - **Claude CodeがWebスケジュール機能を追加**: code.claude.comでWebからのタスクスケジューリングが公式提供開始。Fuyajoとの競合・参考領域
 - **LiteLLM31→340ptsの1日**: AIサプライチェーン攻撃は2026年の最重要セキュリティトレンドとして確定
+
+#### AIストーリー（17:30）
+
+**[891pts, 305comments] Running Tesla Model 3's computer on my desk**
+- 884→891pts。本日最高スコア継続更新。HWリバースエンジニアリングの強さ
+
+**[367pts, 194comments] Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label** ⚡ HIGH
+- URL: https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk
+- **最重要**: 国防総省がAnthropicに「サプライチェーンリスク」ラベルを付けようとした→連邦判事が差し止め
+- Anthropic vs. 米国防省の法廷闘争。AIの国家安全保障政策との関係が本格化
+- **Claudeユーザーへの影響**: 政府契約・調達での使用制限リスクが背景にある
+
+**[354pts, 136comments] LiteLLM malware attack (17:30更新)**
+- 354pts継続。AIインフラのサプライチェーン攻撃事例として定着
+
+**[221pts, 68comments] $7/month VPS AI agent** ⚡ HIGH
+- 221pts。低コストAIエージェントデプロイの需要は本物
+
+**[214pts, 82comments] $500 GPU outperforms Claude Sonnet on coding benchmarks** ⚡ HIGH
+- URL: https://github.com/itigges22/ATLAS
+- ローカル$500 GPUでClaude Sonnetをコーディングベンチマークで超えるとのクレーム
+- **Falcon Platform戦略への影響**: ローカルLLM台頭が加速中。クラウドLLM前提モデルへの根本的リスク
+
+**[174pts, 64comments] HyperAgents: Self-referential self-improving agents** ⚡ MEDIUM
+- URL: https://github.com/facebookresearch/hyperagents
+- Meta FBのResearch: 自己参照・自己改善エージェント
+- **AI Agent戦略**: 自己改善エージェントアーキテクチャの研究最前線
+
+**[143pts, 130comments] We rewrote JSONata with AI in a day, saved $500k/year**
+- AI活用コードリライト成功事例。実務活用が加速
+
+**[143pts, 22comments] Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War** ⚡ HIGH
+- 上記Anthropic vs. Pentagon訴訟の裁判所文書
+- 政府vs.AI企業の法廷闘争の一次資料
+
+**[115pts, 76comments] Schedule tasks on the web（code.claude.com）**
+- 継続注目。Claude Code公式Webスケジュールタスク
+
+#### トップ全体から（17:30）
+
+**[777pts, 148comments] Why so many control rooms were seafoam green**
+- 継続高スコア。非技術記事の強さ
+
+**[324pts, 250comments] Apple discontinues the Mac Pro**
+- 継続。プロ向けハード廃止論争続く
+
+**[262pts, 80comments] DOOM Over DNS**
+- 継続。技術的悪ふざけ人気
+
+**17:30 JST まとめ:**
+- **Anthropic vs. 国防総省が急浮上（367pts）**: 最重要ニュース。AIの地政学リスクが顕在化。Claudeユーザーへの政府規制リスクを意味する
+- **$500 GPU vs Sonnet**: ローカルLLMがクラウドLLMを性能面で脅かすシグナルが強化継続
+- **HyperAgents（Meta Research）**: 自己改善エージェントの研究が本格化。Fuyajoのロードマップへの参考
+- **LiteLLMサプライチェーン攻撃**: 354pts定着。AIインフラセキュリティが2026年最重要トピック
