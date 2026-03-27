@@ -142,3 +142,39 @@
 **.claude/フォルダ記事**（166pts）の急上昇が継続。Top 10にもランクイン。Claude Codeエコシステムへの技術者の関心がこれほど高いのは、実用普及の証拠。
 
 全体的に今朝は同じシグナルが着実に積み上がっている状態。$500 GPU vs Claude Sonnet、LiteLLMセキュリティ、低コストAIエージェントの3テーマが今日の主軸。
+
+---
+
+### 03:30 JST
+
+#### スコア更新
+
+- **$500 GPU vs Claude Sonnet**: 423pts → **443pts** (+20) / コメント継続増加
+- **LiteLLM malware attack**: 413pts → **420pts** (+7) 関心維持
+- **$7/月VPS AI agent**: 300pts → **316pts** (+16) 上昇継続
+- **.claude/ Folder解説**: 112pts → **215pts** (+103) 急上昇継続・本日最大の伸び
+- **Tesla Model 3**: 926pts → **932pts** (+6) 高止まり
+- **jsongrep (jq alternative)**: 289pts → **327pts** (+38) 上昇
+
+#### 新規・変化シグナル
+
+**[128pts, 74comments] AI got the blame for the Iran school bombing**
+- URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing
+- ガーディアン: イランの学校爆破でAIに責任転嫁されたが、真相は「より憂慮すべき」内容
+- AI倫理・責任帰属の問題が現実の暴力事件に絡む深刻なケース
+- **示唆**: AIが「便利な言い訳」として使われるリスク。プラットフォーム提供者としての倫理的責任
+
+**[57pts, 59comments] Claude loses its >99% uptime in Q1 2026**
+- スコア上昇（28→57pts）。コメントも増加
+- Claude APIへの信頼低下が静かに広がっている
+
+#### 全体所感（03:30追記）
+
+**.claude/フォルダ解説が継続急上昇**（36→112→215pts）が今朝最大のトレンド。Claude Codeの内部アーキテクチャへの技術者の関心が本物であることが確認された。24時間で215点は相当な関心度。
+
+**主要3ストーリーが並走中**：
+1. $500 GPU (443pts) - ローカルAIの台頭
+2. LiteLLM malware (420pts) - セキュリティ脅威
+3. $7/月 VPS agent (316pts) - 低コスト自律AI
+
+これら3つが同時に高スコアなのは偶然ではない。「クラウドAIへの懐疑→ローカル実行→低コスト→しかしセキュリティも必要」という技術者の思考の流れが見える。Fuyajoが提供しようとしている価値（低コスト・固定価格・自律実行）の市場需要が確かに存在することを示している。
