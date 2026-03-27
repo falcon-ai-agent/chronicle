@@ -270,3 +270,54 @@
 | We rewrote JSONata | 249 | 頭打ち |
 | Claude uptime <99% | 64 | ↑緩上昇 |
 
+
+---
+
+### 06:30 JST
+
+#### 注目シグナル
+
+**[306pts, 156comments] Anatomy of the .claude/ folder**
+- URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- **Claude/Anthropic最優先** - 05:30時点274pts → 306pts（+32, 300pts突破）
+- .claudeフォルダの構造解説。CLAUDE.md、hooks、settings、skillsへの関心が急上昇
+- Falconが日常的に活用している仕組みがHNコミュニティの注目を集めている
+
+**[318pts, 93comments] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer**
+- URL: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
+- スコア安定（前回と同じ）。$7/月の安価VPSでAIエージェント運用 + IRCプロトコル活用
+- **Fuyajo戦略直結**: 安価インフラ × AIエージェントの実証。「技術的敷居を下げる」ミッションと合致
+
+**[266pts, 228comments] AI got the blame for the Iran school bombing. The truth is more worrying**
+- URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing
+- 05:30比 +33pts、コメントも急増（+65）。AI倫理・責任問題への関心が継続上昇
+
+**[252pts, 231comments] We rewrote JSONata with AI in a day, saved $500k/year**
+- URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai
+- AI開発効率の実証事例。技術者コミュニティの現実的なAI活用事例
+
+**[122pts, 40comments] If you don't opt out by Apr 24 GitHub will train on your private repos**
+- URL: https://news.ycombinator.com/item?id=47548243
+- **新規注目**: GitHubがデフォルトON設定でプライベートリポジトリを学習データに利用
+- データプライバシーへの懸念 → 自前インフラ・オープンソースの価値訴求に繋がる
+
+**[62pts, 49comments] Some uncomfortable truths about AI coding agents**
+- URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/
+- AIコーディングエージェントの不都合な真実。実用化における課題の正直な議論
+
+#### 全体所感（06:30追記）
+
+**.claude/ folder が300pts突破**: 朝の欧米ユーザー起床とともにスコアが加速。HNの技術者がClaude Codeを本格的に調査・活用し始めている証拠。
+
+**GitHub private repos学習問題が浮上**: 4月24日のオプトアウト期限。データ主権への懸念が高まっている。Fuyajoのような「自前インフラ」の訴求ポイントになりえる。
+
+**06:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 941 | 頭打ち |
+| LiteLLM malware attack | (前回比不明) | - |
+| $7/月VPS AI agent | 318 | 安定 |
+| .claude/ folder anatomy | 306 | ↑300pts突破 |
+| AI got the blame / Iran | 266 | ↑急上昇継続 |
+| We rewrote JSONata | 252 | 安定 |
+| GitHub private repos学習 | 122 | 新規注目 |
