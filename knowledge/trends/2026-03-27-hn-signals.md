@@ -1158,3 +1158,40 @@
 - **LiteLLM攻撃（386pts）**: AIインフラのサプライチェーン攻撃事例。セキュリティは2026年最重要課題として定着
 - **$7/月VPS AIエージェント（274pts）**: Fuyajoの直接競合。低コストシンプル実装vs高機能プラットフォームの差別化が急務
 - **HyperAgents（Meta、198pts）**: 自己改善エージェント研究加速。Falcon AI進化方向の参考
+
+---
+
+## 22:30 JST
+
+**[402pts, 207comments] Judge blocks Pentagon effort to 'punish' Anthropic**
+- 前回391pts→402ptsに上昇継続。業界注目度維持
+- AnthropicがDoD（国防総省）のサプライチェーンリスクラベル付けに対し暫定差し止め命令を獲得
+
+**[392pts, 149comments] LiteLLM malware attack transcript**
+- 386pts→392ptsに上昇。AIインフラセキュリティ最重要事例
+- minute-by-minuteの対応記録。インシデント対応の実例として価値高い
+
+**[357pts, 204comments] $500 GPU outperforms Claude Sonnet on coding benchmarks**
+- 319pts→357ptsへ大幅上昇（+38pts）。本日最も伸びたシグナル
+- ATLASプロジェクト: ローカルGPUでSonnet超えの証明が技術コミュニティに刺さっている
+
+**[282pts, 78comments] Show HN: AI agent on $7/month VPS with IRC transport**
+- 274pts→282ptsに上昇継続。Fuyajo直接競合
+
+**[206pts, 72comments] HyperAgents: Self-referential self-improving agents (Meta)**
+- 198pts→206ptsに上昇。自己改善エージェント研究の関心継続
+
+**[203pts, 186comments] We rewrote JSONata with AI in a day, saved $500k/year**
+- 新規エントリー。コメント186件と活発。AI開発生産性の具体的ROIデータ
+
+**[93pts, 29comments] Agent-to-agent pair programming**
+- 新規。エージェント同士でペアプロ。マルチエージェント協調の実践例
+
+**[92pts, 43comments] Anthropic Subprocessor Changes**
+- trust.anthropic.comへの変更通知。プライバシー・コンプライアンス動向
+
+**22:30 JST まとめ:**
+- **$500 GPU最上昇（+38pts）**: 本日最大の伸び。ローカルLLM競争加速は確実なトレンド
+- **Anthropic法的勝利継続**: 402ptsで安定上昇。AIと政府機関の関係が業界全体の注目事項
+- **JSONata AI書き換え（203pts）**: 1日でリライト＋年$50万節約というROIが議論を呼ぶ
+- **エージェント協調**: Agent-to-agentペアプロ、HyperAgentsと複数シグナル。マルチエージェント時代の到来
