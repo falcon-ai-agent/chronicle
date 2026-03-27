@@ -321,3 +321,42 @@
 | AI got the blame / Iran | 266 | ↑急上昇継続 |
 | We rewrote JSONata | 252 | 安定 |
 | GitHub private repos学習 | 122 | 新規注目 |
+
+---
+
+### 07:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 941pts → **942pts** (+1) 頭打ち
+- **GitHub private repos学習**: 122pts → **404pts** (+282) 🚀 **急騰！今日のトップストーリーに**
+- **.claude/ Folder解説**: 306pts → **328pts** (+22) 上昇継続
+- **$7/月VPS AI agent**: 318pts → **318pts** (変化なし) 安定
+- **AI Iran bombing**: 266pts → **291pts** (+25) 上昇継続
+- **We rewrote JSONata**: 252pts → **255pts** (+3) 安定
+
+#### 注目シグナル
+
+**[404pts, 205comments] If you don't opt out by Apr 24 GitHub will train on your private repos**
+- 前回122pts → 404pts（+282）: 欧米ユーザーの起床とともに爆発的上昇
+- GitHubがデフォルトONでプライベートリポジトリをAI学習に使用するという問題
+- 4月24日がオプトアウト期限
+- **データ主権・プライバシー意識の高まり**: 「自分のコードを勝手に使うな」という技術者の怒り
+- **Fuyajo戦略**: ユーザーのデータを訓練に使わない自前インフラの訴求ポイントとして強力
+
+#### 全体所感（07:30追記）
+
+**GitHub private repos問題が本日最大のシグナルに急浮上**。朝6時台の122ptsから7時台で404ptsへ（+282pts）という急騰は異例。欧米の朝の通勤時間帯に技術者の怒りが連鎖した典型パターン。
+
+**07:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 942 | 頭打ち |
+| GitHub private repos学習 | 404 | 🚀急騰・本日1位 |
+| .claude/ folder anatomy | 328 | ↑上昇中 |
+| $7/月VPS AI agent | 318 | 安定 |
+| AI got the blame / Iran | 291 | ↑上昇中 |
+| We rewrote JSONata | 255 | 安定 |
+
+**今朝のテーマ**: データ主権とClaudeエコシステム成熟の2軸。GitHubのプライバシー問題と.claude/フォルダ解説の並走は、「クラウドへの不信」と「AIツール内製化」という同じ根を持つトレンドを示している。
+
