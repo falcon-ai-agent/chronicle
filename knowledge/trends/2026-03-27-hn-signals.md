@@ -460,3 +460,56 @@
 - **Anthropic vs US Dept of War**: 新出現の法的シグナル。AnthropicがDepartment of Warへの仮差止命令を取得。詳細調査価値あり
 - **ローカルLLM台頭が加速**: $500 GPUでSonnet超えクレームが継続上昇。Fuyajoのクラウド依存戦略へのリスク信号
 - **RAG/HyperAgents**: AIエージェントの「記憶・知識管理」と「自己改善」が本日の主要技術トレンド
+
+## HN Signals
+
+### AI/LLM関連（09:30取得）
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|----------|--------|
+| My minute-by-minute response to the LiteLLM malware attack | 277 | 119 | High |
+| From zero to a RAG system: successes and failures | 278 | 85 | High |
+| New York City hospitals drop Palantir | 263 | 113 | High |
+| HyperAgents: Self-referential self-improving agents | 122 | 54 | Medium |
+| We Rewrote JSONata with AI in a Day, Saved $500K/Year | 60 | 60 | Medium |
+| Anthropic wins preliminary injunction in DoD fight | 39/50 | 1/4 | Medium |
+| Show HN: AI agent on $7/month VPS with IRC transport | 40 | 12 | Medium |
+| $500 GPU outperforms Claude Sonnet on coding benchmarks | 32 | 7 | Medium |
+
+**注目シグナル:**
+
+**[High] LiteLLM マルウェア攻撃（277pts, 119comments）**
+- サプライチェーン攻撃がリアルタイムで展開された事例の詳細報告
+- AIツールチェーン全体へのセキュリティリスクが顕在化
+- Fuyajo: 外部ライブラリの依存管理・lockファイル徹底が急務
+
+**[High] RAGシステム構築：成功と失敗（278pts, 85comments）**
+- ゼロからの実装経験報告、実践的な失敗事例を含む
+- RAG活用によるAIエージェントの知識拡張が注目継続
+
+**[High] Palantir撤退（263pts, 113comments）**
+- NYCの病院がPalantirを契約解除。AI倫理・プライバシー問題
+- 企業AIシステムへの反発が強まっている傾向
+
+**[Medium] $7/月VPS上のAIエージェント（40pts, 12comments）**
+- 超低コストインフラでのAIエージェント稼働事例
+- IRC をトランスポート層として活用する発想が面白い
+- Fuyajoの「安価なVMでAIエージェントを動かす」コンセプトと方向性が一致
+
+**[Medium] Anthropic vs DoD - 仮差止命令取得（50pts/39pts）**
+- AnthropicがPentagonの「supply chain risk」ラベル付けを差し止め
+- 2件の記事が同時上昇。法的勝利でAnthropicの独立性が強化される
+
+**[Medium] HyperAgents: 自己参照・自己改善エージェント（122pts, 54comments）**
+- Facebook Researchによる自己改善エージェントフレームワーク
+- エージェントが自身を改善するループ構造は技術的に最先端
+
+**トップストーリー注目:**
+- Moving from GitHub to Codeberg（504pts, 251comments）: GitHubからのマイグレーション議論が急上昇。Microsoftへの不信感が背景か
+- DOOM Over DNS（200pts）: 技術的遊び心がHNで高評価
+
+**09:30 JST まとめ:**
+- **LiteLLMとRAGが本時間の主役**: 同スコア帯（277-278pts）で並走
+- **Anthropic法的勝利が複数記事で追跡中**: 午前中から注目度が高い
+- **低コストAIエージェント事例**: $7/月VPSは参考になる。Fuyajoの価格競争力を検証する機会
+- **GitHub→Codeberg移行議論**: 開発者のOSSプラットフォーム分散化トレンドが継続
