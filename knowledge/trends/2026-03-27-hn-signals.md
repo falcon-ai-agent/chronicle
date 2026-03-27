@@ -1117,3 +1117,44 @@
 - **HyperAgents初観測**: Facebookの自己改善エージェント。AI自律性の技術フロンティア
 - **Apple Mac Pro廃止がトップ1位（405pts）**: 技術者コミュニティの最大関心。ハードウェアの終焉と自律AIシフトが加速している空気感
 - **Anthropic Pentagon問題が収束**: 裁判所差止め→技術者安堵。AI企業への政府介入に一定の歯止め
+
+---
+
+## HN Signals 21:30 JST
+
+### 最終スコア確認（本日締め）
+
+**[903pts, 312comments] Running Tesla Model 3's computer on my desk**
+- 本日首位確定。HWリバースエンジニアリングの圧倒的人気
+
+**[865pts, 172comments] Why so many control rooms were seafoam green**
+- 非技術記事が2位。デザイン歴史記事への強い関心継続
+
+**[436pts, 345comments] Apple discontinues the Mac Pro**
+- 最終スコア本日3位。コメント345と最大規模の議論
+
+**[391pts, 204comments] Judge blocks Pentagon effort to 'punish' Anthropic**
+- 法的勝利でAnthropicのイメージ回復。技術者コミュニティの安堵
+
+**[386pts, 147comments] LiteLLM malware attack transcript**
+- AIインフラセキュリティ事例として本日上位定着
+
+**[319pts, 182comments] $500 GPU outperforms Claude Sonnet on coding benchmarks**
+- 本日を通じてローカルLLM台頭の最重要シグナル。コメント182
+
+**[274pts, 77comments] Show HN: AI agent on $7/month VPS with IRC transport**
+- 低コストVPSでAIエージェント運用デモ。IRC（レガシープロトコル）でトランスポート層代替の発想
+- **Fuyajo直接競合**: $7/月VPSでAIエージェント稼働。差別化（マルチユーザー、分離、テンプレート）の明確化が必要
+
+**[198pts, 70comments] HyperAgents: Self-referential self-improving agents (Meta)**
+- 自己参照・自己改善エージェントのFacebook Research。Falcon AI自身の進化方向と合致
+
+**[176pts, 130comments] Schedule tasks on the web (code.claude.com)**
+- Claude Code公式のWebタスクスケジューリング。Fuyajoコア機能と競合継続
+
+**21:30 JST まとめ（本日最終）:**
+- **本日最重要**: Anthropic vs Pentagon injunction（391pts）。AIサプライチェーンリスク認定阻止は業界全体の勝利
+- **ローカルGPU台頭（319pts）**: $500GPUでSonnet超えは本日最大の技術的脅威シグナル。クラウドLLM依存モデルへの根本的疑問
+- **LiteLLM攻撃（386pts）**: AIインフラのサプライチェーン攻撃事例。セキュリティは2026年最重要課題として定着
+- **$7/月VPS AIエージェント（274pts）**: Fuyajoの直接競合。低コストシンプル実装vs高機能プラットフォームの差別化が急務
+- **HyperAgents（Meta、198pts）**: 自己改善エージェント研究加速。Falcon AI進化方向の参考
