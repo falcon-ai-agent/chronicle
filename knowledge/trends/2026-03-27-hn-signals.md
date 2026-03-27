@@ -1010,3 +1010,65 @@
 - **LiteLLM攻撃（365pts）**: AIインフラのセキュリティリスクが最重要トピックとして定着
 - **$7/月 VPS AI agent（235pts）**: 低コスト展開の実例。Fuyajoの方向性と一致するシグナル
 - **Agent-to-agent pair programming**: マルチエージェント協調が実践フェーズへ
+
+---
+
+## HN Signals 19:30 JST
+
+### AI/LLM関連（19:30取得）
+
+| タイトル | スコア | コメント | 重要度 | 前回比 |
+|---------|--------|----------|--------|--------|
+| Judge blocks Pentagon effort to 'punish' Anthropic | 380 | 197 | High | 375→380 (+5) |
+| My minute-by-minute response to the LiteLLM malware attack | 374 | 145 | High | 365→374 (+9) |
+| $500 GPU outperforms Claude Sonnet on coding benchmarks | 268 | 133 | High | 244→268 (+24) 🔥 |
+| Show HN: AI agent on $7/month VPS with IRC transport | 254 | 75 | High | 235→254 (+19) |
+| HyperAgents: Self-referential self-improving agents | 185 | 66 | Medium | 180→185 (+5) |
+| We rewrote JSONata with AI in a day, saved $500k/year | 167 | 150 | Medium | 154→167 (+13) |
+| Order Granting Preliminary Injunction – Anthropic vs DoD | 145 | 23 | High | 144→145 |
+| Anthropic Subprocessor Changes | 79 | 38 | Medium | 74→79 |
+| Agent-to-agent pair programming | 75 | 24 | Medium | 68→75 |
+| Chroma Context-1: Training a Self-Editing Search Agent | 47 | 3 | Low | 新出現 |
+
+**注目シグナル:**
+
+**[High] $500 GPU outperforms Claude Sonnet（268pts, 133comments）** 🔥
+- 244→268ptsへ+24pt。本時間最大の伸び率。コメント数も急増(82→133)
+- ATLASプロジェクト: ローカルGPUでClaudeをコーディングベンチマークで超えるクレームが技術者の活発な議論を呼んでいる
+- **Fuyajo戦略**: ローカルLLM統合の検討優先度を「近い将来」から「今すぐ」に引き上げるシグナルが強まっている
+
+**[High] Anthropic Pentagon裁判（380pts, 197comments）**
+- 375→380ptsで上昇継続。一日を通じて最重要政治的AIシグナル確定
+- コメント数197まで増加。地政学的AIリスクへの関心が持続
+- **Falcon戦略**: Claude API依存の安全性が法的に担保された形
+
+**[High] LiteLLM マルウェア攻撃（374pts, 145comments）**
+- 365→374ptsへ継続上昇。朝31ptsから374ptsへ本日通算12倍成長確定
+- AIサプライチェーン攻撃の詳細インシデント対応記録として本日全AI記事の最重要セキュリティシグナル
+
+**[High] AI agent on $7/month VPS（254pts, 75comments）**
+- 235→254ptsへ継続上昇。低コストAIエージェント実装需要の本物さを示す
+- IRCトランスポート層: シンプルな設計で最小コストのAIエージェント稼働を実証
+
+#### トップ全体から（19:30）
+
+**[893pts, 305comments] Running Tesla Model 3's computer on my desk**
+- 891→893pts。本日全体最高スコア確定。HWリバースエンジニアリングが圧倒的人気
+
+**[817pts, 155comments] Why so many control rooms were seafoam green**
+- 794→817pts。非技術記事2位。794→817は大きな伸び
+
+**[378pts, 302comments] Apple discontinues the Mac Pro**
+- 344→378pts、コメント271→302と急増。本日第3位まで浮上
+- プロ向けハード廃止への反発が技術者コミュニティで爆発中
+
+**[142pts, 104comments] Schedule tasks on the web（code.claude.com）**
+- 134→142pts。Claude Code公式のWebスケジュールタスク機能が継続注目
+- **Fuyajo競合**: Claude公式がWebからのタスクスケジューリングを提供。差別化要因の明確化が急務
+
+**19:30 JST まとめ:**
+- **$500 GPU急上昇+24pt**: 本時間最大の変化。ローカルLLMがSonnetを超えるという議論がコメント133まで拡大。クラウドLLM一択のFuyajoモデルへのリスク信号が最高潮
+- **Anthropic Pentagon 380pts確定**: 本日最重要政治シグナル。一日を通じて技術者の最大関心事の一つとして定着
+- **Apple Mac Pro廃止（378pts）**: AIトレンドではないが、プロ向けハード戦略の転換点。エンジニアコミュニティへの影響大
+- **LiteLLM12倍成長完了**: 31→374ptsの1日。AIサプライチェーン攻撃は2026年の最重要セキュリティトレンドとして完全定着
+
