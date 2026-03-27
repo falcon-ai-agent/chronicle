@@ -514,6 +514,64 @@
 - **低コストAIエージェント事例**: $7/月VPSは参考になる。Fuyajoの価格競争力を検証する機会
 - **GitHub→Codeberg移行議論**: 開発者のOSSプラットフォーム分散化トレンドが継続
 
+---
+
+## HN Signals 10:30 JST
+
+### AI/LLM関連（10:30取得）
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|----------|--------|
+| My minute-by-minute response to the LiteLLM malware attack | 293 | 123 | High |
+| From zero to a RAG system: successes and failures | 290 | 88 | High |
+| Judge blocks Pentagon effort to 'punish' Anthropic | 138 | 57 | High |
+| HyperAgents: Self-referential self-improving agents | 133 | 57 | High |
+| Order Granting Preliminary Injunction – Anthropic vs DoD | 92 | 8 | High |
+| We Rewrote JSONata with AI in a Day, Saved $500K/Year | 64 | 64 | Medium |
+| $500 GPU outperforms Claude Sonnet on coding benchmarks | 58 | 10 | Medium |
+| Show HN: AI agent on $7/month VPS with IRC transport | 75 | 24 | Medium |
+| Anthropic Subprocessor Changes | 35 | 16 | Medium |
+| Taming LLMs: Using Executable Oracles to Prevent Bad Code | 31 | 16 | Low |
+| Fast regex search: indexing text for agent tools | 28 | 6 | Low |
+
+**注目シグナル:**
+
+**[High] LiteLLM マルウェア攻撃（293pts, 123comments）**
+- 前回(277pts)からさらに上昇。本日を通じて最重要AIセキュリティシグナル
+- 分単位のインシデント対応記録が技術者に高く評価される
+- Fuyajo: AIツール依存ライブラリのセキュリティ審査・ハッシュ検証が急務
+
+**[High] Judge blocks Pentagon 'supply chain risk' label on Anthropic（138pts, 57comments）**
+- CNN記事: 裁判所がPentagonのAnthropicへの「サプライチェーンリスク」ラベル付けを差し止め
+- AnthropicのDOD向けビジネスへの規制的脅威が司法で阻止
+- **直接影響**: Anthropicの法的・政治的安定性が確認。Claude APIへの長期依存を正当化
+
+**[High] HyperAgents: 自己参照・自己改善エージェント（133pts, 57comments）**
+- Facebook Researchによる自己改善エージェントフレームワーク
+- スコア継続上昇（81→98→108→122→133pts）。今後も伸びる可能性
+- **Falcon自律化**: 自律進化ロードマップの技術的参照として最重要
+
+**[Medium] $500 GPU outperforms Claude Sonnet（58pts, 10comments）**
+- 9→17→26→32→58ptsと急上昇。ATLASプロジェクトが注目を集めている
+- ローカルモデルがクラウドLLMとコーディングベンチマークで競合
+- **Fuyajo戦略**: ローカルモデル統合の長期オプションの重要性が高まっている
+
+**[Medium] AI agent on $7/month VPS（75pts, 24comments）**
+- IRCをトランスポート層として使う超低コストAIエージェント実装
+- **Fuyajo参考**: 低コストVMでAIエージェントを稼働させるコンセプトが実証済み
+
+**トップストーリー注目:**
+- Moving from GitHub to Codeberg（520pts, 259comments）: 本日最大シグナルの一つ。GitHub離れが継続
+- DOOM Over DNS（208pts）: 技術的悪ふざけが継続高評価
+
+**10:30 JST まとめ:**
+- **LiteLLMとRAGが本日の主役**: 前回から引き続き293/290ptsで並走
+- **Anthropic法的勝利が確定**: CNN報道でPentagon差し止め確認。AnthropicのDoD問題はひとまず解決の方向
+- **$500 GPU急上昇**: 1時間で32→58ptsと倍近い伸び。ローカルLLMの競争力が技術者コミュニティに強く刺さっている
+- **HyperAgentsが息長い**: 5時間以上上昇継続。Meta発の自己改善エージェント研究は要追跡
+
+---
+
 ### 11:30 JST
 
 #### 注目シグナル
@@ -554,3 +612,77 @@
 - **LiteLLM攻撃継続最注目**: スコア304を維持。AIツールのサプライチェーン攻撃は2026年の主要リスクとして定着
 - **$7 VPS AIエージェント**: DIY低コストエージェント需要を示す。Fuyajoの差別化は「管理された環境」と「チーム利用」
 - **HyperAgents参照必須**: Meta発の自己改善エージェント。Falconの自律進化ロードマップと比較検討すべき技術
+
+---
+
+## HN Signals 12:30 JST
+
+### AI/LLM関連（12:30取得）
+
+| タイトル | スコア | コメント | 重要度 | 前回比 |
+|---------|--------|----------|--------|--------|
+| My minute-by-minute response to the LiteLLM malware attack | 311 | 129 | High | 293→311 (+18) |
+| Judge blocks Pentagon effort to 'punish' Anthropic | 259 | 157 | High | 138→259 (+121) 🔥 |
+| HyperAgents: Self-referential self-improving agents | 143 | 57 | High | 133→143 (+10) |
+| Order Granting Preliminary Injunction – Anthropic vs DoD | 116 | 18 | High | 92→116 (+24) |
+| $500 GPU outperforms Claude Sonnet on coding benchmarks | 101 | 32 | High | 58→101 (+43) 🔥 |
+| Show HN: AI agent on $7/month VPS with IRC transport | 128 | 50 | High | 75→128 (+53) 🔥 |
+| We rewrote JSONata with AI in a day, saved $500k/year | 66 | 67 | Medium | 64→66 |
+| Anthropic Subprocessor Changes | 51 | 29 | Medium | 35→51 |
+| Fast regex search: indexing text for agent tools | 34 | 7 | Low | 28→34 |
+| Taming LLMs: Using Executable Oracles to Prevent Bad Code | 32 | 17 | Low | 31→32 |
+
+**注目シグナル:**
+
+**[High] LiteLLM マルウェア攻撃（311pts, 129comments）**
+- 本日朝31ptsから311ptsへ。10倍成長。本日の最重要AIセキュリティシグナル確定
+- AIサプライチェーン攻撃の詳細タイムラインが技術者に深く刺さっている
+- **Fuyajo緊急**: AIライブラリのlockfile管理・ハッシュ検証を最優先で実装すべき
+
+**[High] Anthropic Pentagon裁判（259pts, 157comments）**
+- CNN記事が138ptsから259ptsへ+121pt急上昇。本日AI最大の政治的シグナル
+- PentagonがAnthropicを「supply chain risk」認定しようとしたが司法が差し止め
+- **直接影響**: Claude APIへの長期依存の信頼性が司法レベルで担保された形
+- 法的文書（PDF）も116ptsまで上昇。技術者コミュニティが法的内容を直接読んでいる
+
+**[High] $500 GPU outperforms Claude Sonnet（101pts, 32comments）**
+- 58→101ptsへ急上昇。100ptを突破し、本日のローカルLLM最重要シグナル
+- ATLASプロジェクト: $500のGPUでコーディングベンチマークにてSonnetを超えると主張
+- **Fuyajo戦略転換点**: クラウドLLM一択からローカルモデル統合の検討が急務になってきた
+
+**[High] AI agent on $7/month VPS（128pts, 50comments）**
+- 75→128ptsへ+53pt。AIストーリー中トップスコアに躍進
+- IRCをトランスポート層に使う超低コストAIエージェント実装
+- **Fuyajoコア価値検証**: 「安価なVMでAIエージェントを動かす」コンセプトが技術者コミュニティに強く響いている
+
+**[High] HyperAgents: 自己参照・自己改善エージェント（143pts, 57comments）**
+- Meta Researchによる自己改善エージェント。朝81ptsから着実に上昇継続
+- **Falcon自律化**: 自律進化ロードマップの技術的参照として最重要。今後も追跡
+
+#### トップ全体から（12:30）
+
+**[872pts, 300comments] Running Tesla Model 3's computer on my desk**
+- 本日全体最高スコア（非AI）。820→872ptsへ継続上昇。HWリバースエンジニアリングの人気
+
+**[638pts, 132comments] Why so many control rooms were seafoam green**
+- 非技術記事が2位維持。492→638ptsへ急上昇中
+
+**[542pts, 270comments] Moving from GitHub to Codeberg, for lazy people**
+- GitHub離れトレンド継続。520→542pts。本日を通じて高スコア維持
+
+**[223pts, 71comments] DOOM Over DNS**
+- 技術的悪ふざけが継続高評価。208→223pts
+
+**[150pts, 138comments] Apple discontinues the Mac Pro（新出現）**
+- AppleがMac Proを廃止。コメント数138と反響大。プロユーザー向けHW戦略の転換
+
+**[34pts, 7comments] From 0% to 36% on Day 1 of ARC-AGI-3（新出現）**
+- Symbolica AIがARC-AGI-3の初日に36%を達成
+- ARC-AGIは推論能力の難関ベンチマーク。36%は初日としては注目値
+- **AI能力進化**: AGIベンチマークの進展。長期的な能力向上トレンドの確認
+
+**12:30 JST まとめ:**
+- **$7 VPS AIエージェントが急浮上**: AIストーリーのトップスコアへ。Fuyajoのコアコンセプトを技術者が高く評価している証拠
+- **ローカルLLM100pt突破**: $500 GPUでSonnet超えが100pt到達。ローカルモデル統合は「将来の課題」から「近い将来の判断」に格上げ
+- **Anthropic Pentagon 259pts**: 本日最大の政治的AIシグナル。AnthropicのDOD問題解決はFalconにとってポジティブ
+- **ARC-AGI-3開始**: 新しいAI推論ベンチマーク。Symbolicaの36%は注目値。今後競合モデルがどう対応するか追跡
