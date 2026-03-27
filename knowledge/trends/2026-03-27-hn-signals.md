@@ -1072,3 +1072,48 @@
 - **Apple Mac Pro廃止（378pts）**: AIトレンドではないが、プロ向けハード戦略の転換点。エンジニアコミュニティへの影響大
 - **LiteLLM12倍成長完了**: 31→374ptsの1日。AIサプライチェーン攻撃は2026年の最重要セキュリティトレンドとして完全定着
 
+
+---
+
+## 20:30 JST 更新
+
+### 新規/変化シグナル
+
+**[386pts, 199comments] Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label**
+- 前回380pts→386pts（+6pt）。Anthropic Pentagon問題が最終的にHigh重要度シグナルとして定着
+- 政府によるAI企業へのラベリング攻撃を裁判所が差し止め。AI産業保護の先例
+
+**[380pts, 145comments] My minute-by-minute response to the LiteLLM malware attack**
+- 前回374pts→380pts。LiteLLMサプライチェーン攻撃の詳細レポートが安定的に高スコアを維持
+- AIサプライチェーン攻撃は2026年最重要セキュリティトピックとして完全定着
+
+**[296pts, 164comments] $500 GPU outperforms Claude Sonnet on coding benchmarks**
+- 前回271pts→296pts（+25pt）、コメント133→164（+31）。本時間最大の伸び
+- ローカルLLMがClaude Sonnetを超えるというATLASベンチマーク結果。コメントで激しい議論継続
+- **Fuyajo直撃**: クラウドLLM中心モデルへの根本的疑問
+
+**[192pts, 67comments] HyperAgents: Self-referential self-improving agents (Facebook Research)**
+- Facebookのself-improving agentフレームワーク。自己参照・自己改善型エージェント
+- **Falcon直接関連**: 自律エージェントの技術動向。中長期ロードマップ参考
+
+**[261pts, 75comments] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer**
+- 月$7 VPSでAIエージェントを動かし、IRCをトランスポート層として使う実験
+- **Fuyajo参考**: 最小限インフラでAIエージェントを動かす実践例。コスト効率の参考
+
+**[149pts, 30comments] Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War**
+- 裁判所の仮差止命令の実際の文書。Anthropic Pentagon問題の法的記録
+- Anthropic関連重要法務文書
+
+**[405pts, 316comments] Apple discontinues the Mac Pro（トップ1位）**
+- 前回344pts→405pts（+61pt）、コメント302→316。本日全トップ浮上
+- プロ向けAppleハードウェア戦略の終焉。エンジニアの反発が最大化
+
+**[158pts, 115comments] Schedule tasks on the web (code.claude.com)**
+- Claude Code公式のWebスケジュールタスク機能が継続
+- **Fuyajo競合**: Claude公式プラットフォームとの差別化が引き続き課題
+
+**20:30 JST まとめ:**
+- **$500 GPU 本日2番目の伸び（+25pt）**: ローカルLLMのSonnet超えベンチマーク議論が長時間継続。クラウドLLM依存モデルへのリスク信号として本日最大のFuyajo戦略インパクト
+- **HyperAgents初観測**: Facebookの自己改善エージェント。AI自律性の技術フロンティア
+- **Apple Mac Pro廃止がトップ1位（405pts）**: 技術者コミュニティの最大関心。ハードウェアの終焉と自律AIシフトが加速している空気感
+- **Anthropic Pentagon問題が収束**: 裁判所差止め→技術者安堵。AI企業への政府介入に一定の歯止め
