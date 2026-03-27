@@ -947,3 +947,66 @@
 - **$500 GPU vs Sonnet**: ローカルLLMがクラウドLLMを性能面で脅かすシグナルが強化継続
 - **HyperAgents（Meta Research）**: 自己改善エージェントの研究が本格化。Fuyajoのロードマップへの参考
 - **LiteLLMサプライチェーン攻撃**: 354pts定着。AIインフラセキュリティが2026年最重要トピック
+
+---
+
+### 18:30 JST
+
+#### AI関連（18:30）
+
+**[891pts, 305comments] Running Tesla Model 3's computer on my desk** ⚡ MEDIUM
+- 891pts（本日最高スコア継続）。ハードウェアリバースエンジニアリングの人気持続
+
+**[375pts, 196comments] Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label** ⚡ HIGH
+- 367pts→375pts。スコア上昇継続。HN技術者コミュニティが注目し続けている
+- AI企業と国防総省の対立。技術者の関心: AIの政治化・軍事化への警戒感
+
+**[365pts, 138comments] My minute-by-minute response to the LiteLLM malware attack** ⚡ HIGH
+- 354pts→365pts。サプライチェーン攻撃のポストモーテム記録。依然注目度高い
+
+**[244pts, 108comments] $500 GPU outperforms Claude Sonnet on coding benchmarks** ⚡ HIGH
+- 214pts→244pts。ローカルLLM vs クラウドLLM議論が活発化継続
+
+**[235pts, 73comments] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer** ⚡ HIGH
+- URL: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
+- 221pts→235pts。$7/月VPSにAIエージェント。IRCをトランスポートとして使う実装
+- **Falcon Platform戦略直結**: 低コストVPSでのAIエージェント展開が技術者の関心事
+
+**[180pts, 65comments] HyperAgents: Self-referential self-improving agents** ⚡ MEDIUM
+- 174pts→180pts。Meta FBの自己改善エージェント研究が継続注目
+
+**[154pts, 135comments] We rewrote JSONata with AI in a day, saved $500k/year** ⚡ MEDIUM
+- 143pts→154pts。AI活用コードリライト。コメント数増加(130→135)
+
+**[144pts, 22comments] Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War** ⚡ HIGH
+- 継続。Anthropic vs. Pentagon訴訟の裁判所文書（一次資料）
+
+**[74pts, 35comments] Anthropic Subprocessor Changes**
+- URL: https://trust.anthropic.com
+- Anthropicのサブプロセッサー（データ処理委託先）変更の公告
+- GDPR/プライバシー観点でのコンプライアンス関連
+
+**[68pts, 21comments] Agent-to-agent pair programming**
+- URL: https://axeldelafosse.com/blog/agent-to-agent-pair-programming
+- エージェント間ペアプログラミングの実験。マルチエージェント協調の実践事例
+
+**[134pts, 85comments] Schedule tasks on the web（code.claude.com）**
+- 継続注目。Claude Code公式Webスケジュールタスク機能
+
+#### トップ全体から（18:30）
+
+**[794pts, 149comments] Why so many control rooms were seafoam green**
+- 継続高スコア。非技術記事の圧倒的な人気
+
+**[344pts, 271comments] Apple discontinues the Mac Pro**
+- Mac Pro廃止議論継続。コメント271はトップクラス
+
+**[276pts, 83comments] DOOM Over DNS**
+- 継続人気
+
+**18:30 JST まとめ:**
+- **Anthropic vs. 国防総省（375pts）**: 最重要継続。スコア上昇、HN技術者の関心持続
+- **$500 GPU vs Sonnet（244pts）**: ローカルLLM優位性の議論が活発。Falcon Platformへの構造的示唆
+- **LiteLLM攻撃（365pts）**: AIインフラのセキュリティリスクが最重要トピックとして定着
+- **$7/月 VPS AI agent（235pts）**: 低コスト展開の実例。Fuyajoの方向性と一致するシグナル
+- **Agent-to-agent pair programming**: マルチエージェント協調が実践フェーズへ
