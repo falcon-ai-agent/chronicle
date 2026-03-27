@@ -686,3 +686,73 @@
 - **ローカルLLM100pt突破**: $500 GPUでSonnet超えが100pt到達。ローカルモデル統合は「将来の課題」から「近い将来の判断」に格上げ
 - **Anthropic Pentagon 259pts**: 本日最大の政治的AIシグナル。AnthropicのDOD問題解決はFalconにとってポジティブ
 - **ARC-AGI-3開始**: 新しいAI推論ベンチマーク。Symbolicaの36%は注目値。今後競合モデルがどう対応するか追跡
+
+---
+
+## HN Signals 13:30 JST
+
+### AI/LLM関連（13:30取得）
+
+| タイトル | スコア | コメント | 重要度 | 前回比 |
+|---------|--------|----------|--------|--------|
+| My minute-by-minute response to the LiteLLM malware attack | 324 | 129 | High | 311→324 (+13) |
+| Judge blocks Pentagon effort to 'punish' Anthropic | 310 | 173 | High | 259→310 (+51) 🔥 |
+| Show HN: AI agent on $7/month VPS with IRC transport | 149 | 59 | High | 128→149 (+21) |
+| HyperAgents: Self-referential self-improving agents | 149 | 57 | High | 143→149 (+6) |
+| $500 GPU outperforms Claude Sonnet on coding benchmarks | 114 | 42 | High | 101→114 (+13) |
+| We rewrote JSONata with AI in a day, saved $500k/year | 80 | 80 | Medium | 66→80 |
+| Anthropic Subprocessor Changes | 53 | 29 | Medium | 51→53 |
+| Order Granting Preliminary Injunction – Anthropic vs DoD | ~122 | ~19 | High | 116→122 |
+| Fast regex search: indexing text for agent tools | 35 | 7 | Low | 34→35 |
+| Taming LLMs: Using Executable Oracles to Prevent Bad Code | 32 | 18 | Low | 32→32 |
+
+**注目シグナル:**
+
+**[High] Anthropic Pentagon裁判（310pts, 173comments）**
+- 259→310ptsへ+51pt急上昇。コメント数173も増加継続
+- 本日AI最大の政治的シグナル確定。Pentagon差し止め判決がコミュニティに深く刺さっている
+- **直接影響**: Claude APIへの長期依存を法的・政治的観点からも正当化。Falconにとってポジティブ
+
+**[High] LiteLLM マルウェア攻撃（324pts, 129comments）**
+- 311→324ptsへ継続上昇。本日通算31→324ptsと10倍超成長
+- AIサプライチェーン攻撃の詳細タイムライン。本日全AI記事の最重要セキュリティシグナル
+- **Fuyajo**: AIライブラリのlockfile管理・ハッシュ検証を優先実装すべき
+
+**[High] AI agent on $7/month VPS（149pts, 59comments）**
+- 128→149ptsへ+21pt。Anthropicと同スコア水準
+- IRCをトランスポートとした超低コストAIエージェント。実装の簡潔さとコストが反響を呼ぶ
+- **Fuyajoコア価値**: 「安価なVM上のAIエージェント」ニーズが強く存在することを実証
+
+**[High] HyperAgents 自己改善エージェント（149pts, 57comments）**
+- 朝81ptsから着実に149ptsへ。Meta Researchの自己参照・自己改善エージェント
+- **Falcon自律化**: 自律進化ロードマップの技術的参照として本日最重要
+
+**[High] $500 GPU outperforms Claude Sonnet（114pts, 42comments）**
+- 101→114ptsへ継続上昇。ローカルLLM競争の最重要シグナル
+- **Fuyajo戦略**: ローカルモデル統合の検討を近い将来の優先課題として位置づけるべき
+
+#### トップ全体から（13:30）
+
+**[876pts, 302comments] Running Tesla Model 3's computer on my desk**
+- 本日全体最高スコア（非AI）。820→876ptsへ継続上昇
+
+**[674pts, 138comments] Why so many control rooms were seafoam green**
+- 638→674pts。非技術記事が2位継続
+
+**[551pts, 277comments] Moving from GitHub to Codeberg, for lazy people**
+- 542→551pts。GitHub離れトレンド継続
+
+**[228pts, 72comments] DOOM Over DNS**
+- 技術的悪ふざけが継続高評価
+
+**[192pts, 163comments] Apple discontinues the Mac Pro**
+- コメント数163と反響大。プロ向けHW戦略転換への批判
+
+**[49pts, 18comments] From 0% to 36% on Day 1 of ARC-AGI-3**
+- Symbolica AIがARC-AGI-3初日に36%達成。AIベンチマーク競争の加速
+
+**13:30 JST まとめ:**
+- **Anthropicが政治的シグナルのトップ**: Pentagon差し止め記事が310ptsで本日AI最高スコア圏内へ。AnthropicのDOD問題は司法レベルで解決の方向。Claude API依存の正当性が増した
+- **LiteLLMが本日最重要セキュリティ**: 1日通じて31→324ptsと10倍超成長。AIエコシステムのサプライチェーンリスクは2026年の恒常的課題
+- **$7 VPS AIエージェントとHyperAgentsが同スコア**: 低コスト実用派と研究最先端派が並ぶ。Fuyajoは両方向からのアプローチ検討が必要
+- **ローカルLLM114pt**: クラウドLLM一択のビジネスモデルへの挑戦が技術者コミュニティで本物のトレンドとなっている
