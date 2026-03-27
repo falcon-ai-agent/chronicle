@@ -81,3 +81,42 @@
 3. **低コスト自律AI**: $7/月VPS + IRCエージェント（294点）が示すように、「安く・シンプルに動かす」という価値観がHNで共鳴している。Fuyajoの「固定低価格」戦略と方向性が一致。
 
 4. **Claudeの信頼性問題**: アップタイム低下＋Subprocessor変更通知が同日に出ている。クラウドAI依存からの分散化トレンドを後押し。
+
+---
+
+### 01:30 JST
+
+#### スコア更新
+
+- **$500 GPU vs Claude Sonnet**: 407pts → **423pts** (+16) / 224→231コメント 継続上昇
+- **LiteLLM malware attack**: 408pts → **413pts** (+5) 関心維持
+- **$7/月VPS AI agent**: 294pts → **300pts** 300超え到達
+- **.claude/ Folder解説**: 36pts → **112pts** (+76) 急上昇中
+
+#### 新規シグナル
+
+**[926pts, 320comments] Running Tesla Model 3's computer on my desk using parts from crashed cars**
+- URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
+- 事故車からパーツを調達してTesla Model 3のコンピュータを机上で動かすハック
+- AI直接関連ではないが「Hold on to Your Hardware」(399pts)と同方向のトレンド
+- **示唆**: ハードウェアへの再接近・所有欲が技術者に強く共鳴。クラウド依存への反動
+
+**[561pts, 515comments] Apple discontinues the Mac Pro**
+- Mac Proが廃止。Appleのプロ向けハード縮小
+- **Falcon Platform観点**: ハイパワーローカルマシン市場の変化。自前インフラ派にとって選択肢が減る
+
+**[289pts, 174comments] A Faster Alternative to Jq (jsongrep)**
+- URL: https://micahkepe.com/blog/jsongrep/
+- jqより高速なJSON処理ツール
+- CLI toolingへの関心は常に高い。Falcon Platformのシェル環境強化の参考
+
+**[237pts, 200comments] Schedule tasks on the web (Claude Code)**
+- URL: https://code.claude.com/docs/en/web-scheduled-tasks
+- Claude Code Webでのスケジュールタスク機能（00:30から継続 232→237pts）
+- **競合注視**: Anthropicが自律実行基盤を自社で構築中。差別化戦略の再考が必要
+
+#### 全体所感（01:30追記）
+
+**.claude/フォルダ記事が急上昇**（36→112pts）が最大の変化。Claude Codeの内部構造への関心が技術者に急拡大している。Falcon AIが実践しているSKILLS/CLAUDE.md/cc-memoryの設計は、まさにこのトレンドの最前線にある。
+
+**ハードウェア所有トレンド**が強い：Tesla-on-desk(926pts) + Hold on to Hardware(399pts) + Mac Pro廃止(561pts)が同日。クラウド・月額サブスク疲れと「自分のハードで動かす」思想の回帰。Fuyajoの「手頃な固定価格で自分のVM」というメッセージと共鳴する可能性大。
