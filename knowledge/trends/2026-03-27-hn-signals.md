@@ -893,3 +893,79 @@
 - **ローカルLLM急加速+27pt**: 131→158ptsへ。$500 GPUでSonnet超えクレームが加速。クラウドLLM前提ビジネスモデルへのリスク信号が本物になってきた
 - **Claude CodeがWebスケジュール機能を追加**: code.claude.comでWebからのタスクスケジューリングが公式提供開始。Fuyajoとの競合・参考領域
 - **LiteLLM31→340ptsの1日**: AIサプライチェーン攻撃は2026年の最重要セキュリティトレンドとして確定
+
+---
+
+## HN Signals 16:30 JST
+
+### AI/LLM関連（16:30取得）
+
+| タイトル | スコア | コメント | 重要度 | 前回比 |
+|---------|--------|----------|--------|--------|
+| Judge blocks Pentagon effort to 'punish' Anthropic | 361 | 189 | High | 354→361 (+7) |
+| My minute-by-minute response to the LiteLLM malware attack | 350 | 132 | High | 340→350 (+10) |
+| $500 GPU outperforms Claude Sonnet on coding benchmarks | 191 | 68 | High | 158→191 (+33) 🔥 |
+| Show HN: AI agent on $7/month VPS with IRC transport | 198 | 64 | High | 186→198 (+12) |
+| HyperAgents: Self-referential self-improving agents | 170 | 64 | High | 163→170 (+7) |
+| Order Granting Preliminary Injunction – Anthropic vs DoD | 141 | 21 | High | 138→141 (+3) |
+| We rewrote JSONata with AI in a day, saved $500k/year | 125 | 115 | Medium | 105→125 (+20) |
+| Anthropic Subprocessor Changes | 64 | 34 | Medium | 58→64 |
+| Agent-to-agent pair programming | 57 | 17 | Low | 41→57 |
+| Fast regex search: indexing text for agent tools | 38 | 7 | Low | 38→38 |
+| Chroma Context-1: Training a Self-Editing Search Agent | 42 | 3 | Low | 39→42 |
+
+**注目シグナル:**
+
+**[High] $500 GPU outperforms Claude Sonnet（191pts, 68comments）**
+- 158→191ptsへ+33pt急上昇。本時間の最大ジャンプ
+- 本日朝9pts→191ptsへ20倍超成長。ローカルLLM競争の本日最大シグナルに
+- ATLASプロジェクト: $500 GPUでコーディングベンチマークにてSonnetを超えると主張
+- **Fuyajo戦略**: ローカルモデル統合の検討を急ぐ必要がある。クラウドLLM一択戦略への警戒
+
+**[High] AI agent on $7/month VPS（198pts, 64comments）**
+- 186→198ptsへ継続上昇。本日AIストーリー最高スコア維持
+- 同スコアが$500 GPU記事とほぼ並走。「低コストAI」テーマが本日のHNを席巻
+- **Fuyajoコア価値の実証**: 安価なVM上のAIエージェント需要は本物
+
+**[High] Anthropic Pentagon裁判（361pts, 189comments）**
+- 354→361ptsへ上昇継続。本日全AI記事で最高スコアを維持
+- Pentagon差し止め確定。Claude APIへの政治的リスクは司法レベルで解消の方向
+- 予備的差し止め命令PDF（141pts）も引き続き高スコア
+
+**[High] LiteLLM マルウェア攻撃（350pts, 132comments）**
+- 340→350ptsへ継続上昇。本日朝31ptsから350ptsへ11倍超成長
+- AIサプライチェーン攻撃の詳細タイムラインが技術者の最大関心事として定着
+
+**[Medium] We rewrote JSONata with AI in a day（125pts, 115comments）**
+- 105→125ptsへ+20pt上昇。コメント数が115に達し議論が活発化
+- AI活用でのコスト削減事例。懐疑的視点と肯定的視点が交差する議論
+
+#### トップ全体から（16:30）
+
+**[887pts, 305comments] Running Tesla Model 3's computer on my desk**
+- 884→887pts。本日全体最高スコア継続維持
+
+**[763pts, 147comments] Why so many control rooms were seafoam green**
+- 735→763pts。非技術記事2位継続上昇
+
+**[291pts, 222comments] Apple discontinues the Mac Pro**
+- 267→291pts。コメント急増継続
+
+**[89pts, 62comments] Schedule tasks on the web（新出現）**
+- URL: https://code.claude.com/docs/en/web-scheduled-tasks
+- Claude CodeのWebスケジュールタスク機能が上位に浮上（89pts, 62comments）
+- **直接競合**: Fuyajoのスケジュール実行コンセプトをClaudeが公式提供開始。差別化を急ぐ必要
+
+**[72pts, 39comments] From 0% to 36% on Day 1 of ARC-AGI-3**
+- 64→72pts。Symbolica AIの成果が継続注目
+
+**[66pts, 23comments] Dobase – Your workspace, your server（新出現）**
+- URL: https://dobase.co/
+- 「あなたのワークスペース、あなたのサーバー」という訴求
+- **Fuyajo競合参考**: 自己ホスト型ワークスペース。コンセプトが類似。差別化ポイント要確認
+
+**16:30 JST まとめ:**
+- **ローカルLLM急加速が本日最大ニュース**: $500 GPU記事が9→191ptsへ20倍成長。Sonnet超えクレームがHNコミュニティに強く刺さった。Fuyajoのクラウド依存戦略を見直す時期が迫っている
+- **$7 VPS AIエージェントが198ptsで本日HN AIトップ**: Fuyajoのコアコンセプトへの強い市場需要が継続実証
+- **Claude CodeがWeb スケジュール機能を公開**: Fuyajoの競合サービスとして意識すべき動き。差別化（非エンジニア向け、固定価格、完全VM分離）を強調すべき
+- **LiteLLM350pt / Anthropic361pt**: 1日を通じて最重要AIシグナルが最終フェーズへ
