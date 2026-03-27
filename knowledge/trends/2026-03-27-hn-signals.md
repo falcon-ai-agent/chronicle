@@ -756,3 +756,64 @@
 - **LiteLLMが本日最重要セキュリティ**: 1日通じて31→324ptsと10倍超成長。AIエコシステムのサプライチェーンリスクは2026年の恒常的課題
 - **$7 VPS AIエージェントとHyperAgentsが同スコア**: 低コスト実用派と研究最先端派が並ぶ。Fuyajoは両方向からのアプローチ検討が必要
 - **ローカルLLM114pt**: クラウドLLM一択のビジネスモデルへの挑戦が技術者コミュニティで本物のトレンドとなっている
+
+---
+
+### 14:30 JST
+
+#### AI関連（14:30）
+
+**[High] Judge blocks Pentagon effort to 'punish' Anthropic（344pts, 180comments）**
+- 13:30から310→344ptsへ上昇継続。予備的差し止め命令PDFも132pts
+- **最重要Anthropic関連**: 裁判所がPentagonのサプライチェーンリスクラベル付けを阻止
+- **Fuyajo戦略**: Anthropic APIのガバナンス安定性が確認された。政治的リスクは一時的に後退
+
+**[High] LiteLLM malware attack transcript（332pts, 129comments）**
+- 344→332pts。前時間比ほぼ横ばい。依然として本日AI最高スコア圏内
+- リアルタイム分攻撃対応ログが高評価。AIエコシステムのセキュリティリスクは継続的課題
+
+**[Medium] $500 GPU outperforms Claude Sonnet（131pts, 51comments）**
+- 114→131ptsへ上昇。ローカルLLM vs クラウドLLMの競争が継続注目
+- ATLAS: 完全ローカル実行でSonnetに対抗。コスト効率の高い代替として注目
+
+**[Medium] Show HN: AI agent on $7/month VPS with IRC transport（170pts, 61comments）**
+- 159→170ptsへ上昇。低コストAIエージェントの実用事例として高い支持
+- **Fuyajo戦略直結**: $7/月VPS + 軽量AIの組み合わせが技術者から支持される
+
+**[Medium] HyperAgents: Self-referential self-improving agents（159pts, 59comments）**
+- 131→159ptsへ急伸。Facebook Research発の自己改善エージェント研究
+- エージェントが自身を改善する研究が加速中。自律AI基盤への投資判断に影響
+
+**[Low-Medium] We rewrote JSONata with AI in a day, saved $500k/year（91pts, 98comments）**
+- 新規エントリ。コメント数がスコアに近い＝議論活発
+- AIによる大規模リライトの費用対効果事例。懐疑的コメントも多いと予想
+
+**[Low] Anthropic Subprocessor Changes（56pts, 30comments）**
+- 信頼・プライバシー関連。Anthropicのサービス構成変更への注目
+
+**[Low] Schedule Claude Code tasks on the web（26pts, 11comments）**
+- Claude Codeの新機能。Webからスケジュールタスク実行が可能に
+- **Fuyajo関連**: Claude Code CLIのWeb管理機能は参考実装として有用
+
+#### トップ全体から（14:30）
+
+**[879pts, 305comments] Running Tesla Model 3's computer on my desk**
+- 876→879pts。全体最高スコア継続維持
+
+**[704pts, 143comments] Why so many control rooms were seafoam green**
+- 674→704pts。非技術記事2位継続
+
+**[562pts, 280comments] Moving from GitHub to Codeberg, for lazy people**
+- 551→562pts。GitHub離れ継続
+
+**[231pts, 186comments] Apple discontinues the Mac Pro**
+- 192→231pts、コメント163→186と急増。廃止への批判・議論が活発化
+
+**[56pts, 24comments] From 0% to 36% on Day 1 of ARC-AGI-3**
+- 49→56pts。Symbolica AIのARC-AGI-3成果継続注目
+
+**14:30 JST まとめ:**
+- **Anthropic法的勝利が最重要**: Pentagon差し止め命令が予備的injunctionに発展（344pts）。Claude API依存リスクが政治的に軽減
+- **低コストAIエージェントが継続上昇**: $7/月VPS事例が170ptsへ。Fuyajoの「低価格・高価値」戦略と完全一致するトレンド
+- **HyperAgentsが急伸159pts**: 自己改善エージェント研究がFacebook Researchから。自律AI基盤構築の方向性を裏付け
+- **LiteLLMセキュリティは安定推移**: 供給チェーン攻撃への関心が持続。セキュリティ優先設計の重要性継続
