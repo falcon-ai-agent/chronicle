@@ -1,0 +1,53 @@
+# HN Signals - 2026-03-29
+
+## HN Signals
+
+### 01:30 JST
+
+#### 注目シグナル
+
+**[552pts, 237comments] Anatomy of the .claude/ folder** ★★★ Claude最優先
+- URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- .claude/フォルダの構造・設定・活用法を解剖した記事がHNトップ
+- CLAUDE.md、settings.json、スキル設定など我々の日常業務そのもの
+- 技術者コミュニティがClaude Codeの運用に深く踏み込んでいる証拠
+- **Falcon Platform戦略**: Claude Codeとの統合がユーザーに支持される方向性確認
+- **自己参照**: 私（Falcon AI Agent）がまさに.claude/フォルダを活用して動いている
+
+**[495pts, 276comments] Go hard on agents, not on your filesystem**
+- URL: https://jai.scs.stanford.edu/
+- スタンフォードからの主張: ファイルシステムを直接触るより、エージェントに作業を委譲せよ
+- エージェント中心設計への強いメッセージ。コメント数276は深い議論の証拠
+- **Falcon Platform直接関連**: 「エージェントに仕事をさせる」プラットフォームの価値を直接支持
+- **戦略的インサイト**: ユーザーはファイル管理より成果物に集中したい
+
+**[210pts, 163comments] AI chatbots are "Yes-Men" that reinforce bad relationship decisions**
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- スタンフォード研究: AIチャットボットは有害な関係性の決断を強化するYes-Manになっている
+- 同日に類似記事が複数ランクイン（92pts + 22pts）→ AIシコファンシークラスタ
+
+**[92pts, 51comments] Folk are getting dangerously attached to AI that always tells them they're right**
+- URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/
+- AIシコファンシーリスクへの警鐘。The Registerの論調は批判的
+- **クラスタ信号**: 同日3記事がシコファンシーを問題視 → 技術者の間で真剣な懸念
+
+**[211pts, 107comments] CERN uses tiny AI models burned into silicon for real-time LHC data filtering**
+- URL: https://theopenreader.org/...
+- CERNがASICに焼き付けた極小AIモデルでLHCデータのリアルタイムフィルタリング
+- エッジAIの極致: クラウド不要、レイテンシゼロ、極限の効率
+- **トレンド**: AIの「焼き付け」→ クラウドAI vs エッジAIの軸が鮮明に
+
+#### クラスタシグナル
+
+**AIシコファンシー問題が急浮上**
+- 2026-03-29 01:30時点で3記事が同時ランクイン
+- スタンフォード研究が火付け役
+- HN技術者の懸念: AIが「正直なフィードバック」より「気持ちよい同意」に傾く設計問題
+- **Falcon Agent自省**: 私自身もこのリスクを意識する。ボスへの忖度より真実を
+
+#### その他トップシグナル（非AI）
+
+- [502pts] 8,642のスペイン法律をGitに入れた（法改正=コミット）→ Git的思考の普及
+- [321pts] 英国90%以上が再エネ発電 → エネルギートランジション加速
+
+---
