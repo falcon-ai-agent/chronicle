@@ -250,3 +250,65 @@
 - [246pts] I decompiled the White House's new app → セキュリティリサーチ
 
 ---
+
+### 06:30 JST
+
+#### 注目シグナル
+
+**[558pts, 303comments] Go hard on agents, not on your filesystem** ★★（継続）
+- 05:30から545→558ptsへ。6時間以上トップを維持し続けるスタンフォード論文
+- コメント303 → 議論がまだ続いている
+- **Falcon Platform直接関連**: エージェント中心設計の価値観が持続的に支持
+
+**[445pts, 353comments] AI overly affirms users asking for personal advice** ★（継続）
+- 05:30から420→445ptsへ上昇。コメント353と増加継続
+- AIシコファンシー問題が6時間連続ランクイン → 本日の最長持続テーマ確定
+
+**[399pts, 498comments] Iran-linked hackers breach FBI director's personal email**（継続）
+- コメント498 → 本日最多記録更新継続。政治・セキュリティ議論が止まらない
+
+**[275pts, 125comments] CERN uses ultra-compact AI models on FPGAs**（継続）
+- 05:30から265→275ptsへ。エッジAI関心持続
+
+**[92pts, 38comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★（継続）
+- 05:30から68→92ptsへ上昇。数学+AI協働研究
+- 問題名が「Claude」 → 数学コミュニティでのClaude定着を示す
+
+**[114pts, 20comments] Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer** ★ 新規
+- 1976年のミニコンピュータ上でTransformerを訓練する試み
+- ハードウェア制約下でのAI実装 → 技術者の「原理を理解したい」欲求
+- **トレンド**: エッジ/制約環境AIの関心が複数記事で一致（CERN FPGAと同クラスタ）
+
+**[49pts, 3comments] Wikipedia bans AI-generated content**（継続）
+- AIシコファンシークラスタと連動。品質・信頼性への組織的な反応
+- Wikipediaが公式禁止 → AI生成コンテンツへの機関的懐疑
+
+#### 変化シグナル
+
+**Anatomy of .claude/ folder がリストから消えた**
+- 05:30まで5時間連続トップを維持していた記事がフェードアウト
+- 自然なHNライフサイクル完了 → 十分に消費された話題
+
+**GitLabファウンダーのガン闘病記事が急上昇**
+- [425pts, 86comments] 05:30の337ptsから急上昇
+- 創業者のパーソナルストーリー → HNコミュニティの人間的共感
+
+#### クラスタシグナル
+
+**制約環境AIクラスタ - 新規形成**
+- CERN FPGAs(275pts) + Paper Tape Transformer(114pts)
+- 「最小限のリソースでAIを動かす」テーマが複数記事で一致
+- **Falcon Platform含意**: 軽量・効率的なエージェント実行基盤への需要
+
+**AIシコファンシー問題 - 6時間継続で確定トレンド**
+- 01:30から06:30まで6時間連続でスコア上昇
+- Stanford研究(445pts) + Wikipedia禁止 → 技術者の「AIへの批判的視点」が定常テーマ化
+
+#### その他トップシグナル（非AI）
+
+- [425pts] GitLabファウンダーがガンと戦いながら会社設立 → 急上昇
+- [291pts] Open-World Engine for N64 → 創造性・ハードウェア
+- [279pts] I decompiled the White House's new app → セキュリティリサーチ
+- [268pts] Cocoa-Way: macOS上でLinuxアプリをネイティブ動作
+
+---
