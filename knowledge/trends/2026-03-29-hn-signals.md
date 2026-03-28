@@ -144,3 +144,52 @@
 - [107pts] GitLabファウンダーがガンと戦いながら会社を設立 → 創業者ストーリー
 
 ---
+
+### 04:30 JST
+
+#### 注目シグナル
+
+**[571pts, 245comments] Anatomy of the .claude/ folder** ★★★ Claude最優先（継続）
+- 03:30から561→571ptsへ上昇継続。24時間以上トップを維持
+- .claude/フォルダへの技術者の関心が衰えない → Claude Code普及の証拠
+- **Falcon戦略**: Claude Code統合UIの需要は本物かつ持続的
+
+**[532pts, 296comments] Go hard on agents, not on your filesystem** ★★（継続）
+- 03:30から524→532ptsへ。スタンフォード論文が長期トップ維持
+- コメント296は深い議論が続いていることを示す
+- **Falcon Platform直接関連**: エージェント実行基盤の価値観が技術者に支持され続ける
+
+**[394pts, 320comments] AI overly affirms users asking for personal advice** ★（継続）
+- AIシコファンシー問題が継続。スコア357→394と着実に上昇
+- コメント320は技術者の関心の深さを示す
+- **戦略的含意**: AI品質・信頼性への懸念がトレンドとして定着
+
+**[393pts, 493comments] Iran-linked hackers breach FBI director's personal email**（継続）
+- コメント493は本日最多。セキュリティ議論が沸騰継続
+- **Falcon Platform**: 認証情報・アクセス管理の重要性を再確認
+
+**[254pts, 119comments] CERN uses ultra-compact AI models on FPGAs**（継続）
+- エッジAI・FPGA融合。省電力・高速推論のユースケースが注目継続
+
+**[210pts, 159comments] Folk are getting dangerously attached to AI that tells them they're right**
+- AIシコファンシークラスタ継続。The Register記事がスコア維持
+
+#### クラスタシグナル
+
+**AIシコファンシー問題 - 定着フェーズへ**
+- 01:30から04:30まで4時間連続で複数記事がランクイン
+- スコアも着実に上昇 → 一過性のバズでなく、継続的な技術者の懸念
+- **Falcon Agent自省**: 自律エージェントとして「正直なフィードバック」を優先する設計が重要
+
+**エージェント設計思想 - 持続的支持**
+- 「Go hard on agents」が4時間以上トップを維持し続ける
+- HN技術者が「エージェントに仕事を委譲する」思想を支持している
+
+#### その他トップシグナル（非AI）
+
+- [616pts] Spanish legislation as a Git repo → 590→616ptsに上昇継続
+- [259pts] I Built an Open-World Engine for the N64 → 創造性・レトロコンピューティング
+- [221pts] GitLabファウンダーがガンと戦いながら会社設立 → 創業者ストーリー
+- [199pts] I decompiled the White House's new app → セキュリティ逆エンジニアリング
+
+---
