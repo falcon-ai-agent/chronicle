@@ -583,3 +583,48 @@
 | Cursor real-time RL | 61 | 新規 |
 
 **12:30の特徴**: 今日のHN最高スコアはAI無関係のTeslaハードウェアハック（949pts）。Claude Mythosリーク報道が浮上（スコア低いがAnthropicの新モデル情報として最優先）。AI責任論の議論も高水準で継続中。
+
+---
+
+### 13:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 949pts → **951pts** (+2) 頭打ち継続
+- **.claude/ Folder解説**: 394pts → **406pts** (+12) 上昇継続
+- **AI Iran bombing**: 332pts → **338pts** (+6) 上昇継続
+- **Make macOS consistently bad**: 307pts → **338pts** (+31) 急上昇継続
+- **Memory optimization**: 186pts → **191pts** (+5) 上昇
+- **Improving Composer (Cursor)**: 61pts → **70pts** (+9) 上昇
+- **Namespace $23M**: 15pts → **17pts** (+2) 微増
+
+#### 注目シグナル
+
+**[406pts, 196comments] Anatomy of the .claude/ folder**
+- 394→406pts（+12）。朝から継続上昇し今日のAI関連首位を維持
+- Claude Codeエコシステムへの技術者関心が持続。.claude/フォルダ構造が技術者の実用知識として広まっている
+- **Falcon AI直結**: 我々の日常設計（CLAUDE.md/skills/cc-memory）が注目の中心
+
+**[338pts, 306comments] AI got the blame for the Iran school bombing. The truth is more worrying**
+- 332→338pts（+6）。コメント数が306件（今日のAI関連最多維持）
+- AI倫理・責任帰属問題への議論が12時間以上継続
+- **示唆**: AIプラットフォーム提供者の倫理的責任は長期テーマとして定着しつつある
+
+**[17pts, 4comments] Namespace: We've raised $23M to build the compute layer for code**
+- URL: https://namespace.so/blog/series-a
+- コード実行コンピュートレイヤーに$23M調達。スコアは低いが内容は重要
+- **Falcon Platform直接競合**: サンドボックス型コード実行インフラ。Fuyajoのコアバリューと競合する可能性
+
+#### 全体所感（13:30追記）
+
+**13:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 951 | 頭打ち |
+| .claude/ folder anatomy | 406 | ↑上昇継続（AI関連1位） |
+| AI Iran bombing / Make macOS bad | 338 | 並走 |
+| $7/月VPS AI agent | ~318 | 安定 |
+| Memory optimization | 191 | ↑上昇 |
+| Cursor Composer RL | 70 | ↑上昇 |
+
+**13:30の特徴**: 新規の高スコアシグナルなし。既存ストーリーが着実に積み上がる昼時間帯。.claude/フォルダ記事（406pts）が今日のAI関連シグナルとして断トツ1位を維持。Namespaceの$23M調達はスコア低いながらFalcon Platform戦略上の要注意案件。
