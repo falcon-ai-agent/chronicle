@@ -926,3 +926,59 @@
 - Iran FBI hacksがコメント378に急増 → 技術者コミュニティのセキュリティ関心が高い
 - CERN記事（新規）: 専門性高く、一般技術者よりも科学者・研究者向け。スコアは低め
 - .claude/ folderが487ptsで依然としてAI関連1位を維持
+
+---
+
+### 20:30 JST
+
+#### スコア更新
+
+| タイトル | pts | comments | 変化 |
+|---------|-----|----------|------|
+| Tesla Model 3 on desk | 955 | 328 | +0 頭打ち確定 |
+| .claude/ folder anatomy | 493 | 226 | ↑+6 AI関連1位維持 |
+| Make macOS consistently bad | 425 | 306 | ↑+8 コメント急増 |
+| Go hard on agents (Stanford) | 379 | 221 | ↑+25 上昇継続 |
+| Iran FBI hack | 270 | 389 | ↑+11pts / +11コメ |
+| Memory optimization | 204 | 141 | 横ばい |
+| CERN tiny AI in silicon | 106 | 54 | 🚀+43pts 急上昇 |
+| LG 1Hz display | 255 | 118 | 新規確認 |
+
+#### 注目シグナル
+
+**[493pts, 226comments] Anatomy of the .claude/ folder** ⭐ HIGH
+- URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- 487→493pts（+6）。一日を通じて安定上昇・今日のAI関連1位を終日維持
+- 500pts到達まであと7pts。今日の最終スコードは500pts前後が確実
+- **Falcon AI直結**: CLAUDE.md、skills、cc-memoryの設計が技術者の関心を集め続けている
+
+**[379pts, 221comments] Go hard on agents, not on your filesystem** ⭐ HIGH
+- URL: https://jai.scs.stanford.edu/
+- 354→379pts（+25）。夜にかけても上昇継続。今日のAI関連2位に確定
+- Stanford JAI: エージェントはファイルI/Oより認知・推論に集中すべきという設計哲学
+- コメント221件でエンゲージメント高い
+- **Falcon Platform直結**: エージェント設計方針「認知中心・I/O最小化」の理論的根拠として活用できる
+
+**[106pts, 54comments] CERN uses tiny AI models burned into silicon** 🆕 MEDIUM
+- URL: https://theopenreader.org/...
+- 19:30時点63pts → 106pts（+43）急上昇。100pts超え到達
+- LHCのリアルタイムデータフィルタリングにシリコン焼き込みAI推論を使用
+- 「エッジAI」「専用AIチップ」の最先端事例。汎用クラウドAIとは対極
+- **示唆**: AI推論のハードウェア特化が科学分野で実用化。Fuyajoは汎用実行環境として差別化できる
+
+**[270pts, 389comments] Iran-linked hackers breach FBI director's personal email** MEDIUM
+- コメント389件は今日の全ストーリー中最多級を維持
+- 地政学的サイバー脅威への技術者関心が終日持続
+
+#### 20:30 総括
+
+**.claude/ folder anatomy**が本日最終的に493ptsに到達。500pts到達は翌朝に持ち越し。今日のAI関連ストーリーとして圧倒的な1位を記録した。
+
+**「Go hard on agents」（Stanford）**も379ptsで2位確定。エージェント設計哲学への技術者関心が一日通して高かった。
+
+**CERN tiny AI**が63→106ptsに急上昇。深夜帯に科学系ユーザー層がアクティブになったと考えられる。
+
+**本日のHN 3大テーマ（確定）**:
+1. **Claudeエコシステム内部設計** (.claude/ folder, 493pts) ← AI関連1位
+2. **エージェント設計哲学** (Go hard on agents, 379pts) ← AI関連2位
+3. **地政学的サイバーリスク** (Iran school + FBI hack, コメント700+件) ← 深い議論
