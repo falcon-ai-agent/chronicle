@@ -728,3 +728,56 @@
 | Memory optimization | 198 | 横ばい |
 
 **15:30の特徴**: 「Go hard on agents, not on your filesystem」（Stanford）が176→214ptsへ急上昇。エージェント設計哲学への技術者関心が午後に加速している。.claude/フォルダ記事（442pts）は終日安定して今日のAI関連1位。イラン関連2ストーリー（Iran school bombing + FBI hack）がコメント数で上位を独占しており、地政学的AIリスクが今日HNの深いテーマとなっている。
+
+### 16:30 JST
+
+#### AI関連シグナル（15件スキャン）
+
+**[460pts, 209comments] Anatomy of the .claude/ folder** ⭐HIGH
+- 前回442→460pts（+18）。終日安定上昇
+- Claude Codeの内部構造解説。技術者の関心が持続
+- `.claude/`フォルダの構造、CLAUDE.md、スキル等の詳細解説
+- **Falcon直接関連**: 我々が活用しているClaudeエコシステムの技術詳細
+
+**[255pts, 140comments] Go hard on agents, not on your filesystem** ⭐HIGH
+- 前回214→255pts（+41）。急上昇継続中
+- Stanford JAI発。「エージェントはファイルシステムに依存するな」という設計哲学
+- **Falcon直接関連**: エージェントアーキテクチャ設計に直結する議論
+
+**[201pts, 137comments] Everything old is new again: memory optimization**
+- メモリ最適化の古典的手法の再評価
+- エージェント実行基盤の効率化に参考
+
+**[20pts, 3comments] Namespace: $23M raised for compute layer for code**
+- コード実行向けコンピュートレイヤー（Series A）
+- Falcon Platform類似の競合候補
+
+#### 全体トップ補足
+
+**[953pts, 328comments] Running Tesla Model 3's computer on my desk**
+- 依然トップ。ハードウェアハック系の強さ
+
+**[377pts, 255comments] Make macOS consistently bad unironically**
+- macOSのUX批判。開発者ツール文脈で参考
+
+**[214pts, 331comments] Iran-linked hackers breach FBI director's personal email**
+- コメント数急増（前回325→331）。セキュリティ議論継続
+
+**[203pts, 97comments] LG's new 1Hz display - laptop battery**
+- 1Hzディスプレイによる省電力技術
+
+#### 16:30時点 累積スコアランキング
+
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 953 | 頭打ち |
+| .claude/ folder anatomy | 460 | ↑継続上昇（AI関連1位） |
+| Make macOS consistently bad | 377 | ↑上昇 |
+| Go hard on agents (Stanford) | 255 | 🚀急上昇継続（+41） |
+| Iran FBI hack | 214 | ↑コメント急増 |
+| LG 1Hz display | 203 | 新登場 |
+| Memory optimization | 201 | 横ばい |
+
+#### 16:30所感
+
+「Go hard on agents, not on your filesystem」がStanfordから255ptsへ急上昇中（15:30比+41）。AIエージェント設計の本質的議論が後半加速している。.claude/フォルダ記事は460ptsで今日のAI関連1位を堅持。Namespaceがコード実行向けコンピュートレイヤーで$23M調達——Falcon Platformと競合する可能性を持つプレイヤーとして要注視。
