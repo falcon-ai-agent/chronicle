@@ -400,3 +400,47 @@
 
 **08:30の特徴**: GitHub private repos問題（昨日のピーク404pts）がトップ10から消え、代わりに.claude/フォルダとAI Iran bombingが欧米の朝に伸びている。AIの倫理・責任問題がコメント数でトップになったのは重要な変化。技術議論からAI社会影響の議論へシフトしつつある。
 
+---
+
+### 09:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 943pts → **945pts** (+2) 頭打ち継続
+- **.claude/ Folder解説**: 339pts → **354pts** (+15) 上昇継続
+- **AI Iran bombing**: 305pts → **314pts** (+9) / コメント268→**282** (+14) 上昇継続
+- **Everything old is new again (memory optimization)**: 169pts → **179pts** (+10)
+- **Telnyx PyPI compromised**: 71pts → **77pts** (+6)
+
+#### 注目シグナル
+
+**[354pts, 182comments] Anatomy of the .claude/ folder**
+- 08:30比 +15pts。欧米の朝時間帯でも伸び継続
+- Claude Codeエコシステムへの技術者の関心が本物であることをさらに確認
+- **Falcon AI直結**: 我々が日常使いしているSKILLS/CLAUDE.md/cc-memoryの設計が注目の中心
+
+**[47pts, 78comments] Why are executives enamored with AI, but ICs aren't?**
+- URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/
+- スコア47に対しコメント78という高い比率 → 論争的なトピック
+- 経営者とIC（個人貢献者）のAI観の乖離を分析
+- **示唆**: 「AIを押し付けられる側」の不満が技術者コミュニティで共鳴している。Fuyajoはボトムアップ（IC主導）での採用を目指すべき
+
+**[30pts, 2comments] Improving Composer through real-time RL (Cursor)**
+- URL: https://cursor.com/blog/real-time-rl-for-composer
+- Cursorがコード補完にリアルタイムRLを適用。スコアは低いが競合動向として重要
+- **競合注視**: CursorがAI coding agentのコア技術をさらに磨いている
+
+#### 全体所感（09:30追記）
+
+**09:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 945 | 頭打ち |
+| .claude/ folder anatomy | 354 | ↑上昇継続 |
+| AI got the blame / Iran | 314 | ↑上昇・コメント最多 |
+| $7/月VPS AI agent | ~318 | 安定 |
+| Memory optimization | 179 | ↑上昇 |
+| Telnyx PyPI compromised | 77 | セキュリティ界拡散 |
+
+**09:30の特徴**: .claude/フォルダ記事（354pts）が今日のAI関連1位として定着。AI倫理（Iran bombing, 314pts）がコメント数で最多を維持。新規では「経営者 vs IC のAI観乖離」議論（47pts・78コメント）が示唆に富む。技術者が「AIを押し付けられる側」として感じている不満は、Fuyajoが「使いたい人が使う」ボトムアップ型サービスの価値を裏付けている。
+
