@@ -91,3 +91,56 @@
 - [321pts] 英国90%以上が再エネ発電 → エネルギートランジション加速
 
 ---
+
+### 03:30 JST
+
+#### 注目シグナル
+
+**[962pts, 328comments] Running Tesla Model 3's computer on my desk** ★★★ 本日最高スコア
+- クラッシュした車からパーツを流用してTeslaコンピュータを動かす
+- ハードウェアハッキング・車載コンピュータ分解。HNらしい「触れる」技術記事
+- スコア962は本日全体トップ → ハードウェア逆エンジニアリングへの熱狂
+
+**[561pts, 239comments] Anatomy of the .claude/ folder** ★★★ Claude最優先（継続）
+- 02:30から556→561ptsへさらに上昇。根強い関心が続く
+- **Falcon戦略**: Claude Code統合は技術者が最も関心を持つUI/UXテーマ
+
+**[524pts, 292comments] Go hard on agents, not on your filesystem** ★★（継続）
+- 02:30から514→524ptsへ。エージェント中心設計思想が支持され続ける
+- スタンフォードの論文、HNで長期間トップを維持
+- **Falcon Platform直接関連**: エージェント実行基盤への需要は本物
+
+**[390pts, 490comments] Iran-linked hackers breach FBI director's personal email**
+- コメント490は本日最多に迫る勢い。セキュリティ・政治両面で議論継続
+- FBIトップの個人メールも侵害 → 「組織セキュリティ != 個人セキュリティ」
+
+**[357pts, 283comments] AI overly affirms users asking for personal advice** ★（継続）
+- AIシコファンシー問題。スコア継続で長期トレンドに
+- Wikipedia AI生成コンテンツ禁止とも連動 → AI品質・信頼性への懸念クラスタ
+
+**[243pts, 117comments] CERN uses ultra-compact AI models on FPGAs**（継続）
+- エッジAI・ハードウェア融合。リアルタイムデータフィルタリングにAI投入
+- 極限環境（LHC）でのAI活用 → 省電力・高速推論の価値を証明
+
+**[11pts] Wikipedia bans AI-generated content** ★ 新規
+- WikipediaがAI生成コンテンツを禁止。品質・信頼性基準の問題
+- AIシコファンシークラスタと同根: 「AIは信頼できるか？」という問い
+
+#### クラスタシグナル
+
+**AIシコファンシー/品質問題クラスタ - 拡大中**
+- Stanford研究(357pts) + Wikipedia禁止(11pts) + The Register記事(179pts)
+- 3記事が同時にランクイン → HN技術者の「AI過信」への警戒感が強まっている
+
+**エージェント設計思想クラスタ - 継続**
+- スタンフォード「Go hard on agents」論文が3時間以上トップを維持
+- **Falcon Platformが提供すべき価値の核心**: エージェントが仕事をする環境
+
+#### その他トップシグナル（非AI）
+
+- [590pts] Spanish legislation as a Git repo → さらに上昇。Gitパラダイムの普及
+- [233pts] Cocoa-Way: macOS上でLinuxアプリをネイティブ動作
+- [162pts] 白宮の新アプリをデコンパイルした → セキュリティリサーチ
+- [107pts] GitLabファウンダーがガンと戦いながら会社を設立 → 創業者ストーリー
+
+---
