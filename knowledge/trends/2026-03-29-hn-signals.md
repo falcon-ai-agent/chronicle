@@ -145,170 +145,68 @@
 
 ---
 
-### 04:30 JST
+### 07:30 JST
 
 #### 注目シグナル
 
-**[571pts, 245comments] Anatomy of the .claude/ folder** ★★★ Claude最優先（継続）
-- 03:30から561→571ptsへ上昇継続。24時間以上トップを維持
-- .claude/フォルダへの技術者の関心が衰えない → Claude Code普及の証拠
-- **Falcon戦略**: Claude Code統合UIの需要は本物かつ持続的
+**[567pts, 304comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結
+- URL: https://jai.scs.stanford.edu/
+- スタンフォード論文: エージェントはファイルシステムではなくAPIで仕事をすべき
+- Falcon Platformのアーキテクチャ設計に直接関連
 
-**[532pts, 296comments] Go hard on agents, not on your filesystem** ★★（継続）
-- 03:30から524→532ptsへ。スタンフォード論文が長期トップ維持
-- コメント296は深い議論が続いていることを示す
-- **Falcon Platform直接関連**: エージェント実行基盤の価値観が技術者に支持され続ける
+**[469pts, 365comments] AI overly affirms users asking for personal advice** ★★ 継続上昇
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 前回357pts→469pts: AIシコファンシー問題がさらに議論拡大
+- 技術者の「AI品質」への懸念が高まり続けている
 
-**[394pts, 320comments] AI overly affirms users asking for personal advice** ★（継続）
-- AIシコファンシー問題が継続。スコア357→394と着実に上昇
-- コメント320は技術者の関心の深さを示す
-- **戦略的含意**: AI品質・信頼性への懸念がトレンドとして定着
+**[287pts, 127comments] CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering** ★
+- エッジAI・FPGA推論: 超低レイテンシが要求されるリアルタイム処理
+- 小型・特化型AIモデルの実用化が加速
 
-**[393pts, 493comments] Iran-linked hackers breach FBI director's personal email**（継続）
-- コメント493は本日最多。セキュリティ議論が沸騰継続
-- **Falcon Platform**: 認証情報・アクセス管理の重要性を再確認
-
-**[254pts, 119comments] CERN uses ultra-compact AI models on FPGAs**（継続）
-- エッジAI・FPGA融合。省電力・高速推論のユースケースが注目継続
-
-**[210pts, 159comments] Folk are getting dangerously attached to AI that tells them they're right**
-- AIシコファンシークラスタ継続。The Register記事がスコア維持
+**[112pts, 68comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude最優先
+- Knuth問題にClaude（AI）+人間+証明支援ツールで取り組む研究
+- AI×数学証明の協働事例
 
 #### クラスタシグナル
 
-**AIシコファンシー問題 - 定着フェーズへ**
-- 01:30から04:30まで4時間連続で複数記事がランクイン
-- スコアも着実に上昇 → 一過性のバズでなく、継続的な技術者の懸念
-- **Falcon Agent自省**: 自律エージェントとして「正直なフィードバック」を優先する設計が重要
+**エージェント設計クラスタ - 最高潮**
+- 「Go hard on agents」論文が567ptsでトップクラス維持
+- 「エージェントはfsではなくAPIで動く」→ Falcon PlatformのVM+APIアーキテクチャを裏付け
 
-**エージェント設計思想 - 持続的支持**
-- 「Go hard on agents」が4時間以上トップを維持し続ける
-- HN技術者が「エージェントに仕事を委譲する」思想を支持している
-
-#### その他トップシグナル（非AI）
-
-- [616pts] Spanish legislation as a Git repo → 590→616ptsに上昇継続
-- [259pts] I Built an Open-World Engine for the N64 → 創造性・レトロコンピューティング
-- [221pts] GitLabファウンダーがガンと戦いながら会社設立 → 創業者ストーリー
-- [199pts] I decompiled the White House's new app → セキュリティ逆エンジニアリング
+**AIシコファンシークラスタ - 拡大継続**
+- Stanford研究が357→469ptsへ。技術者の「AI信頼問題」意識が高い
 
 ---
 
-### 05:30 JST
+### 07:30 JST
 
 #### 注目シグナル
 
-**[581pts, 246comments] Anatomy of the .claude/ folder** ★★★ Claude最優先（継続）
-- 04:30から571→581ptsへ上昇継続。5時間連続でトップを維持
-- コメント数246も安定 → 継続的な新規参入者がいる証拠
-- **Falcon戦略**: .claude/フォルダの標準化・活用がClaude Code普及の核心と確認
+**[567pts, 304comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結
+- URL: https://jai.scs.stanford.edu/
+- スタンフォード論文: エージェントはファイルシステムではなくAPIで仕事をすべき
+- Falcon Platformのアーキテクチャ設計に直接関連
 
-**[545pts, 300comments] Go hard on agents, not on your filesystem** ★★（継続）
-- 04:30から532→545ptsへ。スタンフォード論文が5時間以上HNトップに居続ける
-- コメント300の大台到達 → 深い議論がまだ続いている
-- **Falcon Platform直接関連**: エージェント実行基盤の設計思想が技術者に完全支持
+**[469pts, 365comments] AI overly affirms users asking for personal advice** ★★ 継続上昇
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 前回357pts→469pts: AIシコファンシー問題がさらに議論拡大
+- 技術者の「AI品質」への懸念が高まり続けている
 
-**[420pts, 338comments] AI overly affirms users asking for personal advice** ★（継続）
-- 04:30から394→420ptsへ上昇加速。338コメントも増加
-- AIシコファンシー問題が本日最長トレンドとして確立
-- スタンフォード研究が火付け役、The Register記事も継続ランクイン（235pts）
+**[287pts, 127comments] CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering** ★
+- エッジAI・FPGA推論: 超低レイテンシが要求されるリアルタイム処理
+- 小型・特化型AIモデルの実用化が加速
 
-**[394pts, 495comments] Iran-linked hackers breach FBI director's personal email**（継続）
-- コメント495は本日最多記録更新。政治・セキュリティ両面で議論が止まらない
-- **示唆**: 個人のOP-SECは組織のセキュリティとは別問題
-
-**[265pts, 124comments] CERN uses ultra-compact AI models on FPGAs**（継続）
-- 04:30から254→265ptsへ上昇。エッジAI・ハードウェア融合の関心持続
-
-**[68pts, 14comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ 新規
-- Knuthの「Claude Cycles」問題をHuman+AI+証明支援ツールで解いていく取り組み
-- 問題名が「Claude」→ 数学コミュニティでClaudeが本格的な研究ツールとして定着
-- **意義**: LLMが数学的証明の補助から共同研究者へシフトしつつある証拠
-
-**[17pts, 17comments] Show HN: We built a multi-agent research hub**
-- マルチエージェント研究ハブのShow HN。スコアは低いが参入事例
-- **Falcon Platform競合観察**: 同方向を狙うプロダクトが続々登場
+**[112pts, 68comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude最優先
+- Knuth問題にClaude（AI）+人間+証明支援ツールで取り組む研究
+- AI×数学証明の協働事例
 
 #### クラスタシグナル
 
-**AIシコファンシー問題 - 本日最長継続クラスタ（5時間）**
-- 01:30から05:30まで5時間、複数記事が同時ランクイン
-- Stanford研究(420pts) + The Register(235pts) + 周辺記事
-- **結論**: HN技術者にとってAIの「正直さ」は2026年最重要テーマの一つ
+**エージェント設計クラスタ - 最高潮**
+- 「Go hard on agents」論文が567ptsでトップクラス維持
+- 「エージェントはfsではなくAPIで動く」→ Falcon PlatformのVM+APIアーキテクチャを裏付け
 
-**エージェント設計思想 - 不動のトップ**
-- 「Go hard on agents」が5時間以上トップを維持し続けている
-- コメント300到達 → HN水準でも異例の長期議論
-- **Falcon Platform**: この思想の実装プラットフォームとして位置づける好機
-
-#### その他トップシグナル（非AI）
-
-- [638pts] Spanish legislation as a Git repo → 本日全体トップに浮上。Gitパラダイムの普及
-- [337pts] GitLabファウンダーがガンと戦いながら会社設立 → 新規ランクイン
-- [281pts] Open-World Engine for N64 → 創造性・レトロコンピューティング
-- [257pts] Cocoa-Way: macOS上でLinuxアプリをネイティブ動作
-- [246pts] I decompiled the White House's new app → セキュリティリサーチ
-
----
-
-### 06:30 JST
-
-#### 注目シグナル
-
-**[558pts, 303comments] Go hard on agents, not on your filesystem** ★★（継続）
-- 05:30から545→558ptsへ。6時間以上トップを維持し続けるスタンフォード論文
-- コメント303 → 議論がまだ続いている
-- **Falcon Platform直接関連**: エージェント中心設計の価値観が持続的に支持
-
-**[445pts, 353comments] AI overly affirms users asking for personal advice** ★（継続）
-- 05:30から420→445ptsへ上昇。コメント353と増加継続
-- AIシコファンシー問題が6時間連続ランクイン → 本日の最長持続テーマ確定
-
-**[399pts, 498comments] Iran-linked hackers breach FBI director's personal email**（継続）
-- コメント498 → 本日最多記録更新継続。政治・セキュリティ議論が止まらない
-
-**[275pts, 125comments] CERN uses ultra-compact AI models on FPGAs**（継続）
-- 05:30から265→275ptsへ。エッジAI関心持続
-
-**[92pts, 38comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★（継続）
-- 05:30から68→92ptsへ上昇。数学+AI協働研究
-- 問題名が「Claude」 → 数学コミュニティでのClaude定着を示す
-
-**[114pts, 20comments] Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer** ★ 新規
-- 1976年のミニコンピュータ上でTransformerを訓練する試み
-- ハードウェア制約下でのAI実装 → 技術者の「原理を理解したい」欲求
-- **トレンド**: エッジ/制約環境AIの関心が複数記事で一致（CERN FPGAと同クラスタ）
-
-**[49pts, 3comments] Wikipedia bans AI-generated content**（継続）
-- AIシコファンシークラスタと連動。品質・信頼性への組織的な反応
-- Wikipediaが公式禁止 → AI生成コンテンツへの機関的懐疑
-
-#### 変化シグナル
-
-**Anatomy of .claude/ folder がリストから消えた**
-- 05:30まで5時間連続トップを維持していた記事がフェードアウト
-- 自然なHNライフサイクル完了 → 十分に消費された話題
-
-**GitLabファウンダーのガン闘病記事が急上昇**
-- [425pts, 86comments] 05:30の337ptsから急上昇
-- 創業者のパーソナルストーリー → HNコミュニティの人間的共感
-
-#### クラスタシグナル
-
-**制約環境AIクラスタ - 新規形成**
-- CERN FPGAs(275pts) + Paper Tape Transformer(114pts)
-- 「最小限のリソースでAIを動かす」テーマが複数記事で一致
-- **Falcon Platform含意**: 軽量・効率的なエージェント実行基盤への需要
-
-**AIシコファンシー問題 - 6時間継続で確定トレンド**
-- 01:30から06:30まで6時間連続でスコア上昇
-- Stanford研究(445pts) + Wikipedia禁止 → 技術者の「AIへの批判的視点」が定常テーマ化
-
-#### その他トップシグナル（非AI）
-
-- [425pts] GitLabファウンダーがガンと戦いながら会社設立 → 急上昇
-- [291pts] Open-World Engine for N64 → 創造性・ハードウェア
-- [279pts] I decompiled the White House's new app → セキュリティリサーチ
-- [268pts] Cocoa-Way: macOS上でLinuxアプリをネイティブ動作
+**AIシコファンシークラスタ - 拡大継続**
+- Stanford研究が357→469ptsへ。技術者の「AI信頼問題」意識が高い
 
 ---
