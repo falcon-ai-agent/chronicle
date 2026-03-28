@@ -677,3 +677,54 @@
 | Iran FBI hack (Reuters) | 195 | 🆕 コメント317 |
 
 **14:30の特徴**: Stanford発「Go hard on agents, not on your filesystem」が176ptsで新規浮上。AIエージェント設計論が技術者の関心を集めている。.claude/フォルダ記事が423ptsに達し、今日のAI関連のダントツ1位として終日安定。イラン関連のサイバーセキュリティ話題がコメント数で急増しており、地政学的リスクへの技術者の関心が高まっている。
+
+---
+
+### 15:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 951pts → **952pts** (+1) 頭打ち継続
+- **.claude/ Folder解説**: 423pts → **442pts** (+19) 上昇継続
+- **AI Iran bombing**: 347pts → **352pts** (+5) / コメント310→**314** 上昇継続
+- **Make macOS consistently bad**: 350pts → **364pts** (+14) 上昇継続
+- **Iran FBI hack**: 195pts → **206pts** (+11) / コメント317→**325** 上昇継続
+- **Memory optimization**: 194pts → **198pts** (+4) 微増
+- **Go hard on agents**: 176pts → **214pts** (+38) 🚀 急上昇
+
+#### 注目シグナル
+
+**[442pts, 205comments] Anatomy of the .claude/ folder** ⭐ HIGH
+- 423→442pts（+19）。終日持続的に上昇し今日のAI関連1位を維持
+- 技術者によるClaude Codeエコシステムの実用的関心が一日を通して衰えない
+- **Falcon AI直結**: 我々が実践するSKILLS/CLAUDE.md/cc-memoryアーキテクチャがこの記事の核心テーマ
+
+**[214pts, 123comments] Go hard on agents, not on your filesystem** 🆕 HIGH
+- URL: https://jai.scs.stanford.edu/
+- 14:30時点176pts → 214pts（+38）。急上昇中
+- Stanford: エージェントはファイルシステム操作より推論・意思決定に特化すべき
+- **Falcon Platform直結**: 「エージェントはI/Oより認知」という設計哲学はFalcon AIの自律設計と一致
+- **戦略的示唆**: ファイル操作の最小化・エージェントの意思決定中心設計をFuyajoのアーキテクチャに反映する価値
+
+**[352pts, 314comments] AI got the blame for the Iran school bombing**
+- 347→352pts（+5）。コメント314件で今日のAI関連コメント最多を継続
+- AI倫理・責任議論が一日中持続している。技術者の深い関心
+
+**[206pts, 325comments] Iran-linked hackers breach FBI director's personal email**
+- 195→206pts（+11）。コメント325件（今日の全ストーリー中最多級）
+- 地政学的サイバー脅威への技術者関心が持続上昇
+
+#### 全体所感（15:30追記）
+
+**15:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 952 | 頭打ち |
+| .claude/ folder anatomy | 442 | ↑上昇継続（AI関連1位） |
+| Make macOS consistently bad | 364 | ↑上昇 |
+| AI got the blame / Iran school | 352 | ↑上昇・コメント314 |
+| Go hard on agents (Stanford) | 214 | 🚀急上昇中 |
+| Iran FBI hack | 206 | ↑コメント急増 |
+| Memory optimization | 198 | 横ばい |
+
+**15:30の特徴**: 「Go hard on agents, not on your filesystem」（Stanford）が176→214ptsへ急上昇。エージェント設計哲学への技術者関心が午後に加速している。.claude/フォルダ記事（442pts）は終日安定して今日のAI関連1位。イラン関連2ストーリー（Iran school bombing + FBI hack）がコメント数で上位を独占しており、地政学的AIリスクが今日HNの深いテーマとなっている。
