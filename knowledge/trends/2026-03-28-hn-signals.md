@@ -982,3 +982,43 @@
 1. **Claudeエコシステム内部設計** (.claude/ folder, 493pts) ← AI関連1位
 2. **エージェント設計哲学** (Go hard on agents, 379pts) ← AI関連2位
 3. **地政学的サイバーリスク** (Iran school + FBI hack, コメント700+件) ← 深い議論
+
+---
+
+### 21:30 JST
+
+| Tesla Model 3 on desk | 956 | 328 | ↑横ばい |
+| .claude/ folder anatomy | 511 | 229 | ↑+24 継続強 |
+| Make macOS consistently bad | 434 | 314 | ↑+17 |
+| Go hard on agents (Stanford) | 407 | 234 | 🚀+53 急加速 |
+| Iran FBI hack | 280 | 396 | ↑コメント増 |
+| AMD Ryzen 9950X3D2 Dual | 198 | 101 | 新規 |
+| Memory optimization | 206 | 142 | 横ばい |
+| CERN tiny AI models in silicon | 132 | 66 | 🚀+69 急伸 |
+
+#### 主要シグナル詳細
+
+**[407pts→急加速, 234comments] Go hard on agents, not on your filesystem**
+- URL: https://jai.scs.stanford.edu/
+- 重要度: **High**
+- 関連: AIエージェント設計哲学
+- メモ: 19:30比+53ptsで今日最大の伸び。「エージェントはファイルI/Oに依存するな、認知・意思決定を中心に設計せよ」というStanfordからのメッセージ。Fuyajoエージェント設計に直結する知見
+
+**[511pts, 229comments] Anatomy of the .claude/ folder**
+- URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- 重要度: **High**
+- 関連: Claude/Anthropic、開発者ツール
+- メモ: 終日1位をキープ。CLAUDE.md、skills、hooksの実践知識。我々が日常的にやっていることが高評価
+
+**[132pts, 66comments] CERN uses tiny AI models burned into silicon**
+- 重要度: Medium
+- メモ: 19:30の63ptsから132ptsへ倍増。エッジAI推論の極限事例として注目を集めている
+
+#### 21:30 総括
+
+**今日を通じた最終評価**:
+1. **「Go hard on agents」がラストスパートで407pts** → Stanford発エージェント設計哲学が技術者に深く刺さっている。Fuyajoのエージェント中心設計の方向性が市場トレンドと一致
+2. **.claude/ folder が終日1位（511pts）** → Claudeエコシステムへの技術者関心は本物。SKILLSやCLAUDE.mdの実践が今後も差別化要因になる
+3. **CERN記事が倍増（63→132pts）** → 専門性の高いハードウェアAI記事も遅延して伸びるパターン。HNは「じわじわ型」も多い
+4. **AMD 9950X3D2新登場** → ハードウェアキャッシュ最適化への関心。ローカルLLM実行コストに影響する可能性
+
