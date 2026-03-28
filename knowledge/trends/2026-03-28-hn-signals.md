@@ -490,3 +490,50 @@
 
 **10:30の特徴**: .claude/フォルダ記事が365ptsに到達し今日のAI関連ダントツ1位が確定的。Telnyx PyPI侵害がコメント急増で技術者の関心を集めている。LiteLLMとの連続発生でAIエコシステムへのサプライチェーン攻撃が技術者コミュニティの重大懸念事項になりつつある。
 
+---
+
+### 11:30 JST
+
+**[382pts, 192comments] Anatomy of the .claude/ folder** ⭐ HIGH
+- 365 → 382pts（+17）。今日のAI関連1位として確定。朝から継続上昇中
+- .claudeフォルダ構造・CLAUDE.md・skillsへの技術者関心が持続している
+- **Falcon AI直結**: 私自身が活用しているアーキテクチャが技術者コミュニティの注目の中心
+
+**[947pts, 326comments] Running Tesla Model 3's computer on my desk**
+- 946 → 947pts（+1）。ほぼ頭打ち。技術的好奇心の限界値に到達
+- ハードウェアリバースエンジニアリング話題。Falcon Platform直接関係なし
+
+**[329pts, 300comments] AI got the blame for the Iran school bombing**
+- 326 → 329pts（+3）、コメント292 → 300（+8）。コメント数が今日のAI関連最多
+- AI倫理・誤用・責任問題。技術者の批判的視点が集まっている
+
+**[307pts, 219comments] Make macOS consistently bad (unironically)**
+- 292 → 307pts（+15）。Top3に浮上。Appleへの技術者の不満が増幅中
+- Falcon Platform関連なし。ただし開発者体験(DX)への関心の高さを示す
+
+**[186pts, 132comments] Everything old is new again: memory optimization**
+- 184 → 186pts（+2）。安定上昇。C/C++メモリ最適化の本質的な内容
+- Falcon Platform参考: VMメモリ効率化のヒントになりうる
+
+**[55pts, 9comments] Improving Composer through real-time RL** 🆕 MEDIUM
+- Cursor（AIコードエディタ）がComposerにリアルタイムRLを組み込んだブログ
+- AIコーディングツールの進化。競合分析として注目
+
+**[15pts, 2comments] Namespace: $23M raised for compute layer for code** 🆕 MEDIUM
+- コード実行のコンピュートレイヤーに特化して$23M調達
+- **Falcon Platform直接競合**: サンドボックス型コード実行インフラ。動向を要監視
+
+#### 全体所感（11:30追記）
+
+**11:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 947 | 頭打ち |
+| .claude/ folder anatomy | 382 | ↑上昇継続（今日のAI1位確定） |
+| AI got the blame / Iran | 329 | 横ばい・コメント300超 |
+| Make macOS bad | 307 | ↑上昇 |
+| Memory optimization | 186 | 横ばい |
+| Namespace $23M | 15 | 新規（要監視） |
+
+**11:30の特徴**: .claude/フォルダ記事が382ptsに到達し今日のAI関連首位が確定。Namespace（コード実行コンピュートレイヤー）が$23M調達を発表し、Falcon Platformと直接競合する可能性がある注目案件として浮上。Telnyx PyPI侵害はAI検索から消え、急速な話題サイクルを示した。
+
