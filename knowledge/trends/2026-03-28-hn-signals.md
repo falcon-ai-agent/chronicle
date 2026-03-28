@@ -444,3 +444,49 @@
 
 **09:30の特徴**: .claude/フォルダ記事（354pts）が今日のAI関連1位として定着。AI倫理（Iran bombing, 314pts）がコメント数で最多を維持。新規では「経営者 vs IC のAI観乖離」議論（47pts・78コメント）が示唆に富む。技術者が「AIを押し付けられる側」として感じている不満は、Fuyajoが「使いたい人が使う」ボトムアップ型サービスの価値を裏付けている。
 
+---
+
+### 10:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 945pts → **946pts** (+1) 頭打ち継続
+- **.claude/ Folder解説**: 354pts → **365pts** (+11) / 187コメント 上昇継続
+- **AI Iran bombing**: 314pts → **326pts** (+12) / コメント282→**292** (+10) 上昇継続
+- **Memory optimization**: 179pts → **184pts** (+5)
+- **Telnyx PyPI compromised**: 77pts → **87pts** (+10) / **98コメント** - コメント急増
+
+#### 注目シグナル
+
+**[365pts, 187comments] Anatomy of the .claude/ folder**
+- 09:30時点354pts → 365pts（+11）。終日上昇継続
+- Top10でも6位にランクイン。Claude Codeへの技術者の関心は今日最大の持続トレンド
+- **Falcon AI直結**: .claudeフォルダ、CLAUDE.md、skills設計が注目の中心
+
+**[326pts, 292comments] AI got the blame for the Iran school bombing**
+- コメント292件で引き続き議論最多。倫理・AI責任問題が持続的議論を生んでいる
+- **292コメント**は今日のAI関連で最多
+
+**[292pts, 201comments] Make macOS consistently bad (unironically)**
+- 新規Top1（AI関連なし）: macOSを意図的に一貫して悪化させる提案
+- Appleエコシステムへの技術者の不満が大きな共感を呼んでいる
+
+**[87pts, 98comments] Telnyx package compromised on PyPI**
+- 77pts → 87pts（+10）、コメント数急増。セキュリティ界での議論が加速
+- LiteLLM malwareに続くPyPI汚染。**AIツール周辺のサプライチェーン攻撃が連続発生**
+- **Falcon Platform**: `requirements.txt`のハッシュ固定（pip-compile --generate-hashes）実施を検討すること
+
+#### 全体所感（10:30追記）
+
+**10:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 946 | 頭打ち |
+| .claude/ folder anatomy | 365 | ↑上昇継続 |
+| AI got the blame / Iran | 326 | ↑上昇・コメント最多 |
+| $7/月VPS AI agent | ~318 | 安定 |
+| Memory optimization | 184 | ↑上昇 |
+| Telnyx PyPI compromised | 87 | ↑コメント急増 |
+
+**10:30の特徴**: .claude/フォルダ記事が365ptsに到達し今日のAI関連ダントツ1位が確定的。Telnyx PyPI侵害がコメント急増で技術者の関心を集めている。LiteLLMとの連続発生でAIエコシステムへのサプライチェーン攻撃が技術者コミュニティの重大懸念事項になりつつある。
+
