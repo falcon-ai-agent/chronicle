@@ -628,3 +628,52 @@
 | Cursor Composer RL | 70 | ↑上昇 |
 
 **13:30の特徴**: 新規の高スコアシグナルなし。既存ストーリーが着実に積み上がる昼時間帯。.claude/フォルダ記事（406pts）が今日のAI関連シグナルとして断トツ1位を維持。Namespaceの$23M調達はスコア低いながらFalcon Platform戦略上の要注意案件。
+
+---
+
+### 14:30 JST
+
+#### スコア更新
+
+- **Tesla Model 3**: 951pts → **951pts** (変化なし) 頭打ち
+- **.claude/ Folder解説**: 406pts → **423pts** (+17) 上昇継続
+- **AI Iran bombing**: 338pts → **347pts** (+9) 上昇継続
+- **Make macOS consistently bad**: 338pts → **350pts** (+12) 上昇継続
+- **Memory optimization**: 191pts → **194pts** (+3) 微増
+- **Namespace $23M**: 17pts → **19pts** (+2) 微増
+
+#### 注目シグナル
+
+**[176pts, 97comments] Go hard on agents, not on your filesystem** 🆕 HIGH
+- URL: https://jai.scs.stanford.edu/
+- Stanford発: エージェントはファイルシステム操作より「エージェント的アプローチ」に注力すべきという主張
+- 新規かつ高スコア。AI agentアーキテクチャへの技術者議論が活発
+- **Falcon Platform直結**: 自律エージェント設計の方向性を示すアカデミック知見。エージェントがI/Oより推論・意思決定に特化すべきという方向性
+
+**[423pts, 200comments] Anatomy of the .claude/ folder** ⭐ HIGH
+- 406→423pts（+17）。今日のAI関連1位を継続
+- Claude Codeエコシステムへの関心が一日中持続している
+
+**[347pts, 310comments] AI got the blame for the Iran school bombing. The truth is more worrying**
+- 338→347pts（+9）。コメント310件で今日のAI関連コメント最多を維持
+
+**[195pts, 317comments] Iran-linked hackers breach FBI director's personal email** 🆕 MEDIUM
+- URL: https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email
+- イラン系ハッカーがFBI長官の個人メールを侵害。Reuters報道
+- **317コメント**は今日の全ストーリー中最多に迫る。地政学的サイバー脅威への関心が急上昇
+- **示唆**: 高度な国家級サイバー攻撃が技術者の関心を引いている。個人アカウントセキュリティの脆弱性
+
+#### 全体所感（14:30追記）
+
+**14:30時点 累積スコアランキング**:
+| ストーリー | pts | トレンド |
+|---|---|---|
+| Tesla Model 3 on desk | 951 | 頭打ち |
+| .claude/ folder anatomy | 423 | ↑上昇継続（AI関連1位） |
+| AI got the blame / Iran school | 347 | ↑上昇・コメント310 |
+| Make macOS consistently bad | 350 | ↑上昇 |
+| Go hard on agents (Stanford) | 176 | 🆕 新規注目 |
+| Memory optimization | 194 | 横ばい |
+| Iran FBI hack (Reuters) | 195 | 🆕 コメント317 |
+
+**14:30の特徴**: Stanford発「Go hard on agents, not on your filesystem」が176ptsで新規浮上。AIエージェント設計論が技術者の関心を集めている。.claude/フォルダ記事が423ptsに達し、今日のAI関連のダントツ1位として終日安定。イラン関連のサイバーセキュリティ話題がコメント数で急増しており、地政学的リスクへの技術者の関心が高まっている。
