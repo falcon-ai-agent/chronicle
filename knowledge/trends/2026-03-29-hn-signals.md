@@ -178,6 +178,51 @@
 
 ---
 
+### 08:30 JST
+
+#### 注目シグナル
+
+**[571pts, 304comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 567→571ptsへ微増。朝8時を過ぎても衰えない関心
+- **Falcon Platform**: エージェントAPI設計への支持が終日継続
+
+**[490pts, 379comments] AI overly affirms users asking for personal advice** ★★ 継続上昇
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 469→490pts、コメント365→379へ。朝になっても議論が止まらない
+- AIシコファンシー問題は本日最大のHNクラスタに
+
+**[296pts, 130comments] CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering** ★
+- 287→296pts継続上昇。エッジAI・FPGA推論の実用例として注目持続
+
+**[125pts, 84comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 112→125pts。Claude（AI）+人間+証明支援の協働事例。「Claude Cycles」という命名も注目
+
+**[80pts, 24comments] The first 40 months of the AI era** 新規
+- URL: https://lzon.ca/posts/other/thoughts-ai-era/
+- 2022年11月（ChatGPT登場）から40ヶ月の振り返り。技術者の長期的視点
+
+**[60pts, 7comments] Wikipedia bans AI-generated content** 継続
+- AIシコファンシークラスタとの連動。品質・信頼性基準の問題
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 終日トップ維持**
+- 「Go hard on agents」論文が571ptsで依然トップクラス
+- 24時間近く高い関心を維持 → Falcon Platformのアーキテクチャ方向性を強く裏付ける
+
+**AIシコファンシークラスタ - 本日最大クラスタ確定**
+- Stanford研究(490pts) + Wikipedia禁止 + The Register記事が終日ランクイン
+- 「AIは信頼できるか」問題が2026-03-29の最重要HNテーマに
+
+#### その他トップシグナル（非AI）
+
+- [594pts] Founder of GitLab battles cancer by founding companies → 107→594ptsへ急上昇。朝のバズ
+- [146pts] Linux is an interpreter → 新規。Linuxカーネルをインタープリタとして見る視点
+- [121pts] CSS is DOOMed → DOMベースDOOM実装。技術者の遊び心
+
+---
+
 ### 07:30 JST
 
 #### 注目シグナル
