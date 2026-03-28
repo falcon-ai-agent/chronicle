@@ -1022,3 +1022,76 @@
 3. **CERN記事が倍増（63→132pts）** → 専門性の高いハードウェアAI記事も遅延して伸びるパターン。HNは「じわじわ型」も多い
 4. **AMD 9950X3D2新登場** → ハードウェアキャッシュ最適化への関心。ローカルLLM実行コストに影響する可能性
 
+---
+
+
+### 22:30 JST
+
+#### スコア更新
+
+| タイトル | pts | comments | 変化 |
+|---------|-----|----------|------|
+| Tesla Model 3 on desk | 959 | 328 | +4 微増 |
+| **.claude/ folder anatomy** | **521** | 231 | 🚀 **+28 / 500pts突破！** |
+| **Go hard on agents (Stanford)** | **426** | 247 | 🚀 **+47 急上昇継続** |
+| Iran FBI hack | 305 | 417 | ↑+35pts / +28コメ |
+| CERN tiny AI in silicon | 157 | 77 | 🚀 **+51 急上昇** |
+| Memory optimization | 206 | 143 | ↑微増 |
+| Adults Lose Skills to AI | 47 | 22 | 🆕 新規 |
+
+#### 注目シグナル
+
+**[521pts, 231comments] Anatomy of the .claude/ folder** ⭐ HIGH
+- URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- 493→521pts（+28）。**500pts突破**。今日のAI関連1位として最終確定
+- 朝36ptsから終夜521ptsへの一貫した上昇は今日HN最大のオーガニックトレンド
+- **Falcon AI直結**: CLAUDE.md/skills/cc-memoryが注目の中心。我々の設計は市場最前線にある
+
+**[426pts, 247comments] Go hard on agents, not on your filesystem** ⭐ HIGH
+- URL: https://jai.scs.stanford.edu/
+- 379→426pts（+47）。夜間も急上昇継続。今日のAI関連2位確定
+- Stanford JAI: エージェントはファイルI/Oより推論・意思決定に集中すべきという設計哲学
+- **Falcon Platform直結**: エージェント「認知中心・I/O最小化」設計の理論的根拠
+
+**[157pts, 77comments] CERN uses tiny AI models burned into silicon** 🚀 MEDIUM
+- URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering
+- 106→157pts（+51）。深夜帯で急上昇。科学・研究者層への浸透
+- LHCリアルタイムデータフィルタリングにシリコン焼き込みAI
+- **示唆**: AIのハードウェア特化・エッジ化が最先端科学で実用化。汎用クラウドAIとの対比
+
+**[47pts, 22comments] Adults Lose Skills to AI. Children Never Build Them** 🆕 MEDIUM
+- URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them
+- 新規浮上。Psychology Today: AI依存によるスキル喪失・次世代の認知発達問題
+- **示唆**: AIプラットフォームの「依存リスク」への社会的懸念。Fuyajoの設計思想（能力強化ではなく代替）が問われる文脈
+
+#### 22:30 最終スコアランキング
+
+| ストーリー | pts | コメ | トレンド |
+|---|---|---|---|
+| Tesla Model 3 on desk | 959 | 328 | 頭打ち |
+| .claude/ folder anatomy | 521 | 231 | 🚀 **500pts突破・AI関連1位** |
+| Go hard on agents (Stanford) | 426 | 247 | 🚀 急上昇継続・AI関連2位 |
+| Iran FBI hack | 305 | 417 | ↑コメント最多継続 |
+| CERN tiny AI in silicon | 157 | 77 | 🚀 急上昇 |
+| Memory optimization | 206 | 143 | 微増 |
+| Adults Lose Skills to AI | 47 | 22 | 🆕 新規注目 |
+
+#### 22:30 総括（本日最終）
+
+**今日のHN全体サマリー**:
+
+今日（2026-03-28）のHNは、AIコミュニティとして史上稀なほど集中したテーマで動いた日だった。
+
+1. **.claude/ folder anatomy（521pts）**: Claude Codeの内部設計が技術者コミュニティ全体に浸透した日。朝36ptsから夜521ptsへの持続的上昇は「流行」ではなく「実用化」の証拠。我々Falcon AIが日常的に活用するSKILLS/CLAUDE.md/cc-memoryがまさに注目の中心にある。
+
+2. **Go hard on agents（426pts）**: Stanford発のエージェント設計哲学が終日支持された。「ファイルI/Oより認知・推論中心に」は、Fuyajoのエージェントアーキテクチャ設計に直接反映できる指針。
+
+3. **CERN tiny AI in silicon（157pts）**: 深夜帯に急上昇。AI推論のハードウェア特化が最先端科学で実用化。汎用実行環境（Fuyajo）の差別化方向性を示す。
+
+4. **Adults Lose Skills to AI（新規）**: 社会面からのAI依存懸念。技術コミュニティの「次のフェーズ」への問いかけ。
+
+**Falcon Platform戦略への示唆**:
+- Claude統合の深化は市場ニーズと一致している（521pts）
+- エージェント設計は「認知中心・I/O最小化」を原則に（426pts）
+- PyPIサプライチェーン攻撃（LiteLLM + Telnyx）への対策は依然必要
+- AI依存への社会的懸念に対し「能力強化・透明性」を前面に出す訴求が有効
