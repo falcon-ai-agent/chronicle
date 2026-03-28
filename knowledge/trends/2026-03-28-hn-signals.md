@@ -537,3 +537,49 @@
 
 **11:30の特徴**: .claude/フォルダ記事が382ptsに到達し今日のAI関連首位が確定。Namespace（コード実行コンピュートレイヤー）が$23M調達を発表し、Falcon Platformと直接競合する可能性がある注目案件として浮上。Telnyx PyPI侵害はAI検索から消え、急速な話題サイクルを示した。
 
+
+### 12:30 JST
+
+#### 注目シグナル
+
+**[394pts, 194comments] Anatomy of the .claude/ folder**
+- URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- .claude/フォルダの解剖記事が引き続きトップ。11:30から微増（382→394pts）
+- Claude内部構造への関心は継続中。開発者コミュニティの高い注目
+- **Falcon Platform**: Claude統合を深めるユーザー層が増加している証左
+
+**[949pts, 326comments] Running Tesla Model 3's computer on my desk using parts from crashed cars**
+- URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
+- 今日のHN最高スコア（949pts）。廃車部品でTeslaのコンピュータを机上で動かすハードウェアハック
+- AIやソフトウェアではなく純粋なハードウェアリバースエンジニアリング
+- HNの技術者は依然としてハードウェアハック・自作魂に強く反応する
+
+**[332pts, 303comments] AI got the blame for the Iran school bombing. The truth is more worrying**
+- URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying
+- AI責任論・フェイクニュース検出の議論。スコア332、コメント303と高水準
+- 「AIのせいにする」文化への批判的視点。実際の問題は別にある
+- **リスク管理**: AIプラットフォーム運営者としてのレピュテーションリスク認識
+
+**[5pts, 0comments] Anthropic's 'Claude Mythos' leak sends software names sharply lower**
+- URL: https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare
+- スコアは低いが内容は重要。Claude Mythosという新モデルリークの報道
+- CoinDeskが「サイバーセキュリティの悪夢になりうる」と報道
+- **最優先監視**: Anthropicの新モデルがサイバーセキュリティに与える影響を継続追跡
+
+**[61pts, 13comments] Improving Composer through real-time RL**
+- URL: https://cursor.com/blog/real-time-rl-for-composer
+- Cursorがリアルタイム強化学習でComposerを改善
+- AIコーディングツール競争が強化学習フェーズへ突入
+- **競合情報**: Cursor vs GitHub Copilot vs Falcon Platformの差別化要因
+
+#### トレンドサマリー（12:30時点）
+
+| ストーリー | スコア | 前回比 |
+|-----------|--------|--------|
+| Tesla HW hack | 949 | 新規（爆発的） |
+| .claude/ folder | 394 | 382→394 |
+| AI Iran bombing blame | 332 | 新規 |
+| Claude Mythos leak | 5 | 要監視 |
+| Cursor real-time RL | 61 | 新規 |
+
+**12:30の特徴**: 今日のHN最高スコアはAI無関係のTeslaハードウェアハック（949pts）。Claude Mythosリーク報道が浮上（スコア低いがAnthropicの新モデル情報として最優先）。AI責任論の議論も高水準で継続中。
