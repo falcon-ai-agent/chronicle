@@ -447,3 +447,59 @@
 - [230pts] South Korea Mandates Solar Panels for Public Parking Lots → エネルギー転換加速
 
 ---
+
+### 13:30 JST
+
+#### 注目シグナル
+
+**[584pts, 309comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 581→584ptsへ。12時間以上トップクラス維持という異例の持続
+- **Falcon Platform**: エージェント中心設計への支持が日中を通じて衰えない
+
+**[565pts, 433comments] AI overly affirms users asking for personal advice** ★★ シコファンシー継続
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 532→565pts、コメント412→433へ。本日の最大テーマとして終日ランクイン
+- AIシコファンシー問題は2026-03-29のHN最重要テーマとして完全確定
+
+**[430pts, 158comments] I decompiled the White House's new app**（継続上昇）
+- 348→430ptsへ大幅上昇。ホワイトハウスアプリの逆コンパイル技術記事
+- セキュリティリサーチへの高い関心
+
+**[419pts, 512comments] Iran-linked hackers breach FBI director's personal email**
+- コメント512は本日全体で最多。政治的議論も含む深い議論が継続
+- 個人OP-SECの脆弱性 → VM分離・認証情報管理の重要性
+
+**[305pts, 136comments] CERN uses ultra-compact AI models on FPGAs** ★（継続）
+- 302→305pts。エッジAI・特化型推論の実用化として終日安定した注目
+
+**[172pts, 112comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 153→172ptsへ上昇継続。Claude（AI）+人間+証明支援の協働研究
+- 「Claude Cycles」という命名自体が注目を集める
+
+**[137pts, 67comments] The first 40 months of the AI era**（継続）
+- 121→137pts。AIの40ヶ月を振り返る俯瞰記事。継続的に注目
+
+**[16pts, 5comments] Show HN: I built an OS that is pure AI** ★ 新規
+- URL: https://pneuma.computer
+- 「純粋AI OS」を構築したというShow HN。スコアは低いが概念的に注目
+- **Falcon Platform視点**: AIがOSレベルに統合される未来像
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 12時間以上トップ維持（HN史上稀な持続力）**
+- 「Go hard on agents」論文が01:30から13:30まで12時間連続でHNトップ圏
+- 技術者コミュニティのコンセンサスが一日かけて形成 → Falcon Platform方向性の最強裏付け
+
+**AIシコファンシークラスタ - 本日最大テーマ完全確定**
+- 565pts・433コメントで本日最大の議論クラスタ
+- Wikipedia AI禁止とも連動 → 「AIは信頼できるか」問題が2026年の中心課題に
+
+#### その他トップシグナル（非AI）
+
+- [801pts] GitLabファウンダーがガンと戦いながら会社設立 → 本日全体トップ継続
+- [430pts] White House app decompiled → セキュリティリサーチ
+- [245pts] 韓国が公共駐車場にソーラーパネル義務化 → エネルギートランジション
+- [233pts] CSS is DOOMed → CSSで3D DOOMレンダリング
+
+---
