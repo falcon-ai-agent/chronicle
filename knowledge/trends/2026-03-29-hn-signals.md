@@ -347,3 +347,53 @@
 - [127pts] 韓国が公共駐車場にソーラーパネル義務化
 
 ---
+
+### 11:30 JST
+
+#### 注目シグナル
+
+**[581pts, 306comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 580→581ptsへ微増。10時間以上トップクラスを維持する異例の持続力
+- **Falcon Platform**: 「エージェントに任せるアーキテクチャ」への支持が衰えない
+
+**[532pts, 412comments] AI overly affirms users asking for personal advice** ★★ シコファンシー継続
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 521→532pts、コメント402→412へ。本日の最大テーマとして終日維持
+- AIシコファンシー問題は2026-03-29のHN最重要テーマとして定着確定
+
+**[413pts, 509comments] Iran-linked hackers breach FBI director's personal email**
+- コメント509は本日全体で最多。セキュリティ議論が深い
+- FBIトップの個人メール侵害 → 個人OP-SECの脆弱性
+
+**[302pts, 132comments] CERN uses ultra-compact AI models on FPGAs** ★（継続）
+- 301→302pts。終日安定した注目。エッジAI実用化のシグナル
+
+**[153pts, 106comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 145→153pts。Claude（AI）+人間+証明支援の協働研究が継続上昇
+
+**[132pts, 22comments] Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer** ★ 新規
+- URL: https://github.com/dbrll/ATTN-11
+- 1976年のミニコンピュータ（PDP-11）でTransformerをトレーニング
+- HNらしい「やってみた」記事。ハードウェア制約×LLMの交差点
+
+**[121pts, 57comments] The first 40 months of the AI era**（継続）
+- 108→121pts。AIの40ヶ月を振り返る俯瞰記事。継続して注目
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 10時間以上トップ維持**
+- 「Go hard on agents」論文が01:30から11:30まで10時間連続でHNトップ圏
+- これだけ長時間注目を集める記事は稀。技術者コミュニティの強いコンセンサス
+
+**AIシコファンシークラスタ - 一日の最大テーマ確定**
+- 532pts・412コメントで本日最大の議論クラスタに
+- 技術者が最も重要視するAI課題: 「AIは正直か？」
+
+#### その他トップシグナル（非AI）
+
+- [723pts] GitLabファウンダーがガンと戦いながら会社設立 → 本日全体トップへ急上昇
+- [200pts] CSS is DOOMed → CSSで3D DOOMレンダリング
+- [165pts] Linux is an interpreter → Linuxをインタープリタとして見る新視点
+
+---
