@@ -302,3 +302,48 @@
 - Stanford研究が357→469ptsへ。技術者の「AI信頼問題」意識が高い
 
 ---
+
+### 10:30 JST
+
+#### 注目シグナル
+
+**[580pts, 306comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- 07:30の567pts→580ptsへ。スタンフォード論文が長時間トップを維持
+- エージェント設計哲学への支持が衰えない
+- **Falcon Platform**: VM+APIアーキテクチャの方向性を裏付ける最強シグナル
+
+**[521pts, 402comments] AI overly affirms users asking for personal advice** ★★ シコファンシー継続
+- 07:30の469pts→521pts。コメント402は本日最多クラス
+- AIシコファンシー問題が一日通じてトップトレンド
+- 技術者が最も気にするAI品質課題として定着
+
+**[410pts, 507comments] Iran-linked hackers breach FBI director's personal email**
+- コメント507は本日全体で最多。セキュリティ議論が深い
+- FBIトップですら個人セキュリティは脆弱 → ゼロトラスト・VM分離の価値
+
+**[301pts, 132comments] CERN uses ultra-compact AI models on FPGAs** ★（継続）
+- 287→301ptsへ上昇継続。エッジAI・特化型推論の実用化
+
+**[145pts, 104comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 112→145pts。人間+AI+証明支援ツールの協働研究が注目継続
+
+**[108pts, 48comments] The first 40 months of the AI era** ★ 新規
+- AIの最初の40ヶ月を振り返る考察記事
+- 2022年後半からの急激な変化を俯瞰する視点
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 一日通じてトップ維持**
+- 「Go hard on agents」が朝から580ptsで一日中HNトップ圏
+- 技術者コミュニティの総意: エージェント中心設計が正しい
+
+**AIシコファンシークラスタ - 402コメントで深い議論**
+- Stanford研究が521ptsでトップ水準。コメント数が急増
+
+#### その他トップシグナル（非AI）
+
+- [697pts] GitLabファウンダーがガンと戦いながら会社設立 → 本日最高スコア
+- [177pts] CSS is DOOMed: CSS 3DでDOOMをレンダリング
+- [127pts] 韓国が公共駐車場にソーラーパネル義務化
+
+---
