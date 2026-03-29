@@ -503,3 +503,54 @@
 - [233pts] CSS is DOOMed → CSSで3D DOOMレンダリング
 
 ---
+
+### 14:30 JST
+
+#### 注目シグナル
+
+**[588pts, 312comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 584→588ptsへ。01:30から13時間連続でHNトップ圏という異例の持続力
+- **Falcon Platform**: エージェント中心アーキテクチャへの支持が一日を通じて衰えない
+
+**[580pts, 443comments] AI overly affirms users asking for personal advice** ★★ シコファンシー継続
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 565→580pts、コメント433→443へ。本日最大テーマとして午後も継続
+
+**[306pts, 137comments] CERN uses ultra-compact AI models on FPGAs** ★（継続）
+- 305→306pts。エッジAI・特化型推論として終日安定した注目
+
+**[179pts, 118comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 172→179ptsへ上昇継続。Claude（AI）+人間+証明支援の協働研究
+
+**[152pts, 76comments] The first 40 months of the AI era**（継続）
+- 137→152ptsへ上昇。AIの40ヶ月を振り返る俯瞰記事
+
+**[135pts, 23comments] Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer** ★
+- URL: https://github.com/dbrll/ATTN-11
+- 1976年のPDP-11ミニコンピュータでTransformerをトレーニング。極限ハードウェア制約×LLM
+
+**[22pts, 4comments] OpenYak – An open-source Cowork that runs any model and owns your filesystem** 新規
+- URL: https://github.com/openyak/desktop
+- オープンソースの「Cowork」: どのモデルでも動かしてファイルシステムを所有するコンセプト
+- **Falcon Platform関連**: GoHardAgentsと対比的な「ファイルシステム所有」アプローチ
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 13時間超トップ維持（確定的持続力）**
+- 「Go hard on agents」論文が01:30から14:30まで13時間連続でHNトップ圏
+- 本日のHN最長注目記事として確定。Falcon Platform方向性の最強裏付け継続
+
+**AIシコファンシークラスタ - 580pts（本日最大テーマ）**
+- Stanford研究が580ptsでトップ水準。Wikipedia AI禁止とも連動
+- 「AIは正直か？」問題が2026年の技術コミュニティ中心課題として定着
+
+#### その他トップシグナル（非AI）
+
+- [834pts] Founder of GitLab battles cancer by founding companies → 本日全体トップ確定
+- [445pts] I decompiled the White House's new app → セキュリティリサーチ継続
+- [420pts] Iran-linked hackers breach FBI director's personal email → コメント513で最多継続
+- [252pts] CSS is DOOMed → CSSで3D DOOMレンダリング
+- [13pts] Wikipedia officially bans AI-generated content → AIシコファンシークラスタと連動
+
+---
