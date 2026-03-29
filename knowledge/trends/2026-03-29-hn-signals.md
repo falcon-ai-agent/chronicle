@@ -809,3 +809,47 @@
 **Falcon Platformへの最終示唆:**
 - 正直で信頼できるエージェントが自律的に仕事をするプラットフォーム = 市場が求めるもの
 - 小型・特化型AIモデルのエッジ実行（CERN FPGA事例）も注目を集め続けた
+
+---
+
+## HN Signals - 20:30 JST
+
+### 注目シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|---------|---------|--------|
+| 662pts | AI overly affirms users asking for personal advice | 513 | ★★★ |
+| 311pts | CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering | 141 | ★★ |
+| 220pts | Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem | 144 | ★★ |
+| 190pts | The first 40 months of the AI era | 109 | ★ |
+| 41pts | What if AI doesn't need more RAM but better math? | 11 | ★ |
+| 37pts | Wikipedia officially bans AI-generated content | 1 | - |
+
+### 主要シグナル詳細
+
+**【662pts/513comments】AI Sycophancy Research (Stanford)** ★★★
+- 651→662pts、コメント499→513へ。19時間以上連続上昇継続
+- 「Go hard on agents」が退場した後もシコファンシー問題だけが上昇を続ける
+- 2026-03-29のHN完全制覇を夜まで維持。技術者の「AIの正直さ」への関心が本物であることを証明
+
+**【311pts/141comments】CERN × AI × FPGA** ★★
+- 終日311ptsで安定。エッジAI・超軽量モデルの実用化事例として一日中安定した注目
+- Qwen2.5-3B研究との共鳴：小型特化モデルの需要が科学分野でも実証済み
+
+**【220pts/144comments】Knuth "Claude Cycles" Problem** ★
+- 211→220pts継続上昇。Claude（AI）+人間+証明支援の協働研究が夜になっても上昇継続
+
+**【41pts/11comments】What if AI doesn't need more RAM but better math?** 継続
+- 32→41pts。「AIはスケーリングよりアルゴリズム改善が必要」という懐疑的視点が浸透中
+
+### トップ全体
+
+**【1111pts/214comments】Founder of GitLab battles cancer by founding companies**
+- 965→1111ptsへ急上昇。本日全体で歴史的スコアに到達
+- 技術系創業者の人間ドラマへの共感。ビジネスへの示唆あり
+
+### 20:30 小括
+
+- AIシコファンシー問題が夜まで上昇継続（662pts）。一日通じて本日最大のHNテーマが確定
+- エージェント設計論（「Go hard on agents」590+pts）は退場したが、そのメッセージは技術者に届いた
+- 2026-03-29の2大テーマ総括: 「AIは正直か」×「エージェントにAPIで任せよ」= Falcon Platform設計の指針
