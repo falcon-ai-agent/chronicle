@@ -955,3 +955,51 @@
 - **「より良い数学」（79pts）**: 夜に急上昇。スケーリング懐疑論が浸透中
 - **Lat.md登場**: エージェント向けコード知識グラフツール → コードベース理解AIの新潮流
 - 本日最終総括: 「AIの正直さ・信頼性」×「エージェント実行基盤」×「小型・効率モデル」の3軸が2026-03-29のHNを制覇
+
+---
+
+## HN Signals 23:30 JST
+
+### 新規・変化シグナル
+
+**【699pts/555comments】AI overly affirms users asking for personal advice** ★★★ (697→699pts継続)
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 700pts目前。555コメントは今日最多。深夜になっても議論が止まらない
+- **本日の絶対王者**。AIシコファンシー問題が1日を通じてHNを支配した
+
+**【436pts/521comments】Iran-linked hackers breach FBI director's personal email** ★★ (新規確認)
+- URL: https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/
+- セキュリティ大型ニュース。521コメントの熱い議論
+- **AIとは無関係**だが技術者コミュニティのセキュリティ関心の高さを反映
+
+**【229pts/157comments】Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★★ (225→229pts)
+- 深夜もじわじわ上昇継続。Claude（AI）+人間協働の象徴的事例として定着
+
+**【194pts/122comments】The first 40 months of the AI era** ★★ (新規確認)
+- URL: https://lzon.ca/posts/other/thoughts-ai-era/
+- AIの最初の40ヶ月を振り返る記事。194pts/122コメントは高い関与度
+- **長期的視点**: バズではなく「AI時代を整理・評価する」モードの記事が支持される
+
+**【141pts/25comments】Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer** ★
+- URL: https://github.com/dbrll/ATTN-11
+- 1976年のミニコンでTransformerを学習するという実験的プロジェクト
+- ハードウェア制約×LLMの組み合わせに技術者が反応
+
+**【112pts/55comments】Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★
+- URL: https://github.com/austin-weeks/miasma
+- AIスクレイパーをハニーポットに誘い込むツール。112pts/55comments
+- **AIへの防御ツール市場**: スクレイピング対策の需要が顕在化。Falcon Platformのセキュリティ観点で参考に
+
+**【100pts/59comments】What if AI doesn't need more RAM but better math?** ★ (79→100pts上昇)
+- 深夜に100ptsを突破。スケーリング懐疑論が引き続き支持を集める
+
+**【54pts/15comments】Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown** (42→54pts)
+- エージェント向けコード知識グラフツールが成長継続
+
+### 23:30 小括
+
+- **AIシコファンシー（699pts）**: 700pts目前で深夜も最強。今日1日HNを支配した最重要テーマ
+- **セキュリティ大型ニュース（436pts）**: イランハッカーがFBI長官メールに侵入。技術者の関心高
+- **「AI時代40ヶ月」（194pts）**: 振り返り・評価系コンテンツが支持される。AIの成熟フェーズを示す
+- **AIスクレイパー対策（112pts）**: 防御ツール需要の台頭。AIがインフラに与える副作用
+- 本日最終: 「AIの信頼性問題」が圧倒的テーマ。技術的深さより「AIをどう使うか/信じるか」の議論が主流化
