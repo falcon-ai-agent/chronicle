@@ -145,6 +145,53 @@
 
 ---
 
+### 09:30 JST
+
+#### 注目シグナル
+
+**[575pts, 305comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 571→575ptsへ微増。朝9時を過ぎても関心継続
+- **Falcon Platform**: エージェント中心アーキテクチャへの支持が一日を通して持続
+
+**[505pts, 397comments] AI overly affirms users asking for personal advice** ★★ 継続上昇
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 490→505pts、コメント379→397へ。本日最大クラスタが拡大中
+- AIシコファンシー問題は2026-03-29のHN最大テーマとして確定
+
+**[409pts, 505comments] Iran-linked hackers breach FBI director's personal email**
+- コメント505は本日最多。セキュリティ・政治両面での議論が最高潮
+- FBIディレクター個人メール侵害 → 「著名人の個人OP-SECも脆弱」
+
+**[301pts, 130comments] CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering** ★
+- 296→301pts。エッジAI実用例として終日安定した注目
+
+**[132pts, 94comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 125→132pts。Claude（AI）+人間+証明支援の協働。「Claude Cycles」命名が注目
+
+**[348pts, 124comments] I decompiled the White House's new app** 新規
+- ホワイトハウスの新アプリを逆コンパイルした技術記事。セキュリティリサーチ
+- 政府アプリへの技術者の批判的視点
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 終日1位維持**
+- 「Go hard on agents」論文が01:30〜09:30の8時間を通じてトップクラス維持
+- HN技術者のコンセンサス: 「エージェントに任せる」が正しいアーキテクチャ
+- **Falcon Platformへの最強の裏付けシグナル**
+
+**AIシコファンシークラスタ - 本日最大クラスタ確定**
+- Stanford研究が終日ランクインし505ptsに到達
+- 技術者の「AI品質・信頼性」懸念は一過性でなく継続トレンド
+
+#### その他トップシグナル（非AI）
+
+- [653pts] Founder of GitLab battles cancer by founding companies → 朝のバズが継続、本日全体トップ
+- [156pts] CSS is DOOMed → CSSでDOOM実装。技術者の遊び心
+- [154pts] Linux is an interpreter → Linuxをインタープリタとして見る新視点
+
+---
+
 ### 07:30 JST
 
 #### 注目シグナル
