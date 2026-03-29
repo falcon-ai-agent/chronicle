@@ -196,3 +196,50 @@
 - **新トレンド「バイブコーディング批判」**: AI補助コーディングへの反発がコンテンツ化。HN開発者の懐疑論が具体化
 - **Cognitive Dark Forest**: AI汚染に対する哲学的懸念が芽生え始めている。将来的に大きな議論になる可能性
 - **WSJ AI workload報告**: 主流メディアでもAIの「約束」と「現実」の乖離が語られ始めた
+
+---
+
+### 06:30 JST
+
+#### 注目シグナル（継続・更新）
+
+**[283pts, 110comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ High (継続上昇)
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 252pts→283pts (+31)、97→110コメント。朝方も衰えない。AI倫理・誤認逮捕への怒りが長時間持続
+
+**[260pts, 193comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ High (継続上昇)
+- 240pts→260pts (+20)、187→193コメント (+6)。AIスクレイパー対策ツールへの関心が継続
+
+**[89pts, 46comments] The Cognitive Dark Forest** ★★ Medium→High (急上昇)
+- URL: https://ryelang.org/blog/posts/cognitive-dark-forest
+- 33pts→89pts (+56)。「認知的ダークフォレスト」概念が急速に注目を集めた
+- AIコンテンツ汚染により、人間の知的空間が変質するという哲学的警告
+- Falcon Platform示唆: 人間が「安心して考えられる空間」の提供が価値になりうる
+
+#### 新規シグナル
+
+**[93pts, 42comments] ChatGPT Won't Let You Type Until Cloudflare Reads Your React State** ★★ Medium - 新規
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- ChatGPTがCloudflareを通じてReact状態を読み取るまでタイピングを許可しない仕組みの技術調査
+- プライバシー・セキュリティ懸念。AIサービスのフロントエンドが収集するデータへの技術者の不信感
+- Falcon Platform示唆: ユーザーデータ収集の透明性が信頼構築の鍵
+
+#### 全体トップより追加
+
+**[308pts, 121comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★ Score 300+
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 255pts→308pts (+53)。スコア300超えで今日最高得点のノンAI記事
+- 1977年の宇宙探査機が69KBで稼働という驚きの事実。技術ミニマリズムへのノスタルジー
+
+**[212pts, 84comments] Neovim 0.12.0**
+- URL: https://github.com/neovim/neovim/releases/tag/v0.12.0
+- 継続上昇。開発者コミュニティの主要ツールアップデートへの関心
+
+#### 分析サマリー (06:30)
+
+- **顔認識誤逮捕が283pts**: 朝6時台も上昇継続。長時間にわたって注目を集めるAI倫理の核心的問題
+- **Cognitive Dark Forest急上昇**: 33→89pts (+56)は今回最大の変化。「AI汚染された認知空間」という概念がHNで共鳴し始めた兆候
+- **ChatGPT/Cloudflare技術調査**: AIサービスのフロントエンド監視への不信感が技術的に可視化された
+- **Voyager 1が300pt超え**: ノスタルジー+技術への敬意という感情的反応は強力。軽量・信頼性・耐久性の価値観
+- **全体傾向**: AIへの反発・不信・懸念が多角的に表れている朝。技術者コミュニティの「AIリアリズム」フェーズが深化
+
