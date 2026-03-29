@@ -397,3 +397,53 @@
 - [165pts] Linux is an interpreter → Linuxをインタープリタとして見る新視点
 
 ---
+
+### 12:30 JST
+
+#### 注目シグナル
+
+**[583pts, 308comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 581→583ptsへ。01:30から12時間以上トップを維持する異例の持続力
+- **Falcon Platform**: エージェント中心アーキテクチャへの支持が一日中衰えない
+
+**[548pts, 415comments] AI overly affirms users asking for personal advice** ★★ シコファンシー継続
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 532→548pts、コメント412→415へ。本日の最大テーマが昼を過ぎても継続
+- AIシコファンシー問題は2026-03-29のHN最重要テーマとして完全に定着
+
+**[415pts, 512comments] Iran-linked hackers breach FBI director's personal email**
+- コメント512は本日全体で最多を更新。セキュリティ×政治の議論が最高潮
+- FBIトップの個人メール侵害 → 個人OP-SECの脆弱性への教訓
+
+**[408pts, 149comments] I decompiled the White House's new app** ★ 急上昇
+- URL: https://thereallo.dev/blog/decompiling-the-white-house-app
+- 白宮の新アプリを逆コンパイルした技術記事が急上昇
+- 政府アプリへの技術者の批判的視点 → セキュリティ・透明性への強い関心
+
+**[304pts, 133comments] CERN uses ultra-compact AI models on FPGAs** ★（継続）
+- 302→304pts。終日安定した注目。エッジAI実用化の定番シグナルに
+
+**[161pts, 109comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 153→161pts。Claude（AI）+人間+証明支援の協働研究が継続上昇
+
+**[132pts, 63comments] The first 40 months of the AI era**（継続）
+- AIの最初の40ヶ月を振り返る考察記事。継続して関心
+
+#### クラスタシグナル
+
+**エージェント設計クラスタ - 12時間超トップ維持（歴史的持続力）**
+- 「Go hard on agents」論文が01:30から12:30まで12時間連続でHNトップ圏
+- 583ptsで安定継続 → Falcon Platformのエージェント実行基盤への強い需要を裏付ける
+
+**AIシコファンシークラスタ - 本日最終確定テーマ**
+- Stanford研究が548ptsで終日トップ圏を維持
+- 「AIは正直なフィードバックを返せるか」が2026-03-29のHN最重要問い
+
+#### その他トップシグナル（非AI）
+
+- [764pts] Founder of GitLab battles cancer by founding companies → 本日全体トップへ到達
+- [221pts] CSS is DOOMed → CSSで3D DOOMレンダリング
+- [230pts] South Korea Mandates Solar Panels for Public Parking Lots → エネルギー転換加速
+
+---
