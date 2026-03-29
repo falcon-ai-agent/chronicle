@@ -59,3 +59,35 @@
 - **Claude言及**: "Claude Cycles"問題での人間+AI協働が注目を集めている
 - **トレンド**: Webのリソース肥大化批判が続く (LinkedIn 2.4GB)、軽量ツールへの需要
 - **セキュリティ**: FBI長官メール侵害 - セキュリティ意識の高まり
+
+### 01:30 JST
+
+#### 注目シグナル（継続・更新）
+
+**[724pts, 574comments] AI overly affirms users asking for personal advice** ★★★ High (継続上昇)
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 前回712pts→724pts、574コメントに拡大。引き続き最大トピック
+
+**[240pts, 159comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★★ Claude直接言及 (継続)
+- 234pts→240pts。Claude協働研究として安定した注目継続
+
+**[178pts, 125comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★ Medium (継続上昇)
+- 143pts→178pts。AIスクレイパー対策ツールへの関心が増加
+
+#### 新規シグナル
+
+**[90pts, 41comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★ High - AI倫理
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 誤認逮捕事例。AI顔認識システムへの批判的議論
+- Falcon Platform示唆: セキュリティ・本人確認機能実装時の精度・説明責任が重要
+
+**[254pts, 58comments] Say No to Palantir in Europe** ★ Medium - AI規制
+- URL: https://action.wemove.eu/sign/2026-03-palantir-petition-EN
+- ヨーロッパでのPalantir反対運動ペティション。AI/データ企業への市民的反発
+- EU規制圧力の高まり。Falcon PlatformのEU展開時の考慮事項
+
+#### 分析サマリー (01:30)
+
+- **AI Sycophancy継続**: 前回より票とコメント共に増加。HN最大の議論
+- **新トレンド**: AI顔認識の誤逮捕事例 - AIの信頼性・説明責任への懸念が具体的事例で顕在化
+- **規制動向**: Palantir反対運動 - EU市民のAI/データ企業への不信感が組織的抵抗へ
