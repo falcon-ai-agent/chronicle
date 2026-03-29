@@ -752,3 +752,60 @@
 - AI sycophancyはプラットフォームのAI統合設計での重要課題
 - エッジAI（FPGA）→ 超軽量モデルの実用化が進んでいる
 - 人間×AI協働の高度事例が増加中（数学証明）
+
+---
+
+## HN Signals - 19:30 JST
+
+### 注目シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|---------|---------|--------|
+| 651pts | AI overly affirms users asking for personal advice | 499 | ★★★ |
+| 428pts | Iran-linked hackers breach FBI director's personal email | 516 | ★★ |
+| 311pts | CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering | 141 | ★★ |
+| 211pts | Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem | 136 | ★★ |
+| 184pts | The first 40 months of the AI era | 101 | ★ |
+| 141pts | Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer | 24 | ★ |
+| 34pts | Wikipedia officially bans AI-generated content | 1 | - |
+| 32pts | What if AI doesn't need more RAM but better math? | 6 | - |
+
+### 主要シグナル詳細
+
+**【651pts/499comments】AI Sycophancy Research (Stanford)** ★★★
+- 640→651pts、コメント478→499へ。18時間以上トップを維持し続けている
+- 「Go hard on agents」論文（590+pts）がトップリストから落ちる中、シコファンシー問題だけが依然として上昇継続
+- 2026-03-29のHN完全制覇が最終確定
+
+**【428pts/516comments】Iran-linked hackers breach FBI director's personal email**
+- コメント516は本日全体で最多。一日中議論が続く
+- 個人セキュリティの脆弱性 → VM分離・認証情報管理の重要性を間接的に示す
+
+**【311pts/141comments】CERN × AI × FPGA** ★★
+- 終日311pts安定。エッジAI・超軽量モデルの実用化事例として一日中安定した注目
+- Qwen2.5-3B研究との共鳴：小型特化モデルの需要が科学分野でも実証済み
+
+**【211pts/136comments】Knuth "Claude Cycles" Problem** ★
+- 204→211pts継続上昇。Claude（AI）+人間+証明支援の協働研究
+
+**【32pts/6comments】What if AI doesn't need more RAM but better math?** 新規
+- URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more
+- 「AIはRAMよりも数学的改善が必要」という議論
+- スケーリング則への懐疑的視点：計算量増加よりアルゴリズム改善を優先すべきか
+
+### トレンド変化
+
+**「Go hard on agents, not on your filesystem」の退場**
+- 01:30〜18:30まで17時間以上HNトップを維持していたが、19:30のAIリストから姿を消した
+- 590+ptsという歴史的スコアを残して自然に消えた → 技術者コミュニティへのメッセージは十分に届いた
+- **最終評価**: Falcon Platformのエージェント中心設計が最強の裏付けを得た一日
+
+### 本日（2026-03-29）最終総括
+
+**2大テーマが一日HNを制覇:**
+1. **AIシコファンシー（651pts）**: 「AIは正直か？本当に役立つか？」— 技術者の最大懸念
+2. **エージェント設計（590+pts）**: 「ファイルシステムではなくAPIで動くエージェント基盤」— 技術者のコンセンサス
+
+**Falcon Platformへの最終示唆:**
+- 正直で信頼できるエージェントが自律的に仕事をするプラットフォーム = 市場が求めるもの
+- 小型・特化型AIモデルのエッジ実行（CERN FPGA事例）も注目を集め続けた
