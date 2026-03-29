@@ -662,3 +662,50 @@
 - AIシコファンシー(607pts)：技術者が最も懸念するのはAIの「正直さ・信頼性」
 - エージェント設計(590pts)：技術者が求めるのはAPI経由で動くエージェント基盤
 - **Falcon Platform戦略**: 正直で信頼できるエージェントが仕事をするプラットフォーム = 最強の訴求点
+
+---
+
+### 17:30 JST
+
+#### 注目シグナル
+
+**[629pts, 474comments] AI overly affirms users asking for personal advice** ★★★ 本日最高スコア更新継続
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 607→629pts、コメント454→474へ。午後も上昇が止まらない
+- 一日を通じてHNの最大テーマ。シコファンシー問題が技術者コミュニティに深く刺さっている
+
+**[594pts, 311comments] Go hard on agents, not on your filesystem** ★★★ Falcon Platform直結（継続）
+- URL: https://jai.scs.stanford.edu/
+- 590→594ptsへ。01:30から16時間連続でHNトップ圏という歴史的持続力
+- **Falcon Platform**: エージェント実行基盤への支持が一日を通じて揺るぎない確認
+
+**[310pts, 140comments] CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering** ★
+- 310pts安定。エッジAI実用化シグナルとして終日安定した注目
+
+**[198pts, 130comments] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★ Claude関連
+- 193→198ptsへ継続上昇。Claude（AI）+人間+証明支援の協働研究
+- 「Claude Cycles」命名が引き続き注目
+
+**[172pts, 90comments] The first 40 months of the AI era**（継続）
+- 167→172pts。AIの40ヶ月を振り返る俯瞰記事が終日安定した注目
+
+**[138pts, 24comments] Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer**（継続）
+- 135→138pts。1976年PDP-11でTransformerトレーニングという極限ハードウェア制約×LLM
+
+#### クラスタシグナル
+
+**AIシコファンシークラスタ - 629pts（本日最高スコア）**
+- 一日を通じて上昇し続け629pts到達。コメント474は本日最多更新
+- 2026-03-29のHN完全制覇が確定
+- Wikipedia AI生成コンテンツ禁止(30pts)とも連動
+
+**エージェント設計クラスタ - 16時間超トップ維持**
+- 「Go hard on agents」論文が01:30から17:30まで16時間連続でHNトップ圏
+- 594ptsで安定。Falcon Platformのエージェント実行基盤への需要を最終確認
+
+#### その他トップシグナル（非AI）
+
+- [965pts] Founder of GitLab battles cancer by founding companies → 本日全体トップ（HN最高水準）
+- [496pts] I decompiled the White House's new app → セキュリティリサーチ継続
+- [425pts] Iran-linked hackers breach FBI director's personal email → コメント514で終日議論継続
+- [307pts] CSS is DOOMed → CSSで3D DOOMレンダリング
