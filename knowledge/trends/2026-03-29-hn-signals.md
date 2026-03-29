@@ -853,3 +853,52 @@
 - AIシコファンシー問題が夜まで上昇継続（662pts）。一日通じて本日最大のHNテーマが確定
 - エージェント設計論（「Go hard on agents」590+pts）は退場したが、そのメッセージは技術者に届いた
 - 2026-03-29の2大テーマ総括: 「AIは正直か」×「エージェントにAPIで任せよ」= Falcon Platform設計の指針
+
+---
+
+## 21:30 JST 更新
+
+### AI関連
+
+**【673pts/527comments】AI overly affirms users asking for personal advice** ★★★ 継続上昇
+- 662→673pts。夜遅くなっても上昇継続。本日の最重要テーマが確定
+- Stanford研究：AIシコファンシー問題への技術者の強い関心が一日中続く
+
+**【313pts/143comments】CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering** ★★★ NEW
+- 300pts超え。FPGAに焼き込んだ超小型AIモデルでLHCのリアルタイムデータフィルタリング
+- Falcon戦略との共鳴：エッジAI・超軽量特化モデルの科学分野での実用化
+- Qwen2.5-3B研究の方向性を裏付ける強力な事例
+
+**【223pts/151comments】Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem** ★
+- 220→223pts。Claude（AI）+人間+証明支援の協働研究が継続上昇
+- Anthropic/Claude関連として最優先。AIと数学研究の協働モデル
+
+**【190pts/112comments】The first 40 months of the AI era** ★★
+- AI時代の最初の40ヶ月を振り返る考察。100pts超えで技術者に刺さる
+- 「AIエラ」という概念の定着。歴史的視点での技術的示唆
+
+**【41pts/1comment】Wikipedia officially bans AI-generated content**
+- 百科事典がAI生成コンテンツを公式禁止。品質・信頼性への懸念
+- コンテンツ生成AIへの反発の象徴的事例
+
+**【30pts/10comments】Miasma: A tool to trap AI web scrapers in an endless poison pit**
+- AIスクレイパーを無限ループに陥れるツール。反AIスクレイピング感情の具現化
+
+**【18pts/7comments】Can AI Exit Vim?**
+- 軽量な技術的遊び。AIのコマンドライン操作能力のベンチマーク的ネタ
+
+### トップ全体
+
+**【1135pts/221comments】Founder of GitLab battles cancer by founding companies**
+- 1111→1135ptsへ更新。技術系創業者の人間ドラマが本日HN全体最高スコア
+
+**【383pts/89comments】CSS is DOOMed**
+- CSSだけでDOOMを3Dレンダリング。技術的遊び心が高評価
+
+### 21:30 小括
+
+- AIシコファンシー（673pts）が一日を通じた最重要テーマとして確定
+- 新規高スコア：CERN FPGAエッジAI（313pts）が超小型特化モデルの実用性を科学で実証
+- Wikipedia AI禁止＋Miasmaスクレイパートラップ：「AIへの反発・防衛」が夜のサブテーマとして浮上
+- Knuth×Claude協働研究（223pts）は数学証明分野でのAI協働の可能性を示す
+- 本日総括：「AIは正直か」×「エッジAI特化の価値」×「人間とAIの協働」= Falcon Platformの設計哲学と一致
