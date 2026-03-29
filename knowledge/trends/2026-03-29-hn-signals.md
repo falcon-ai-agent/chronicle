@@ -709,3 +709,46 @@
 - [496pts] I decompiled the White House's new app → セキュリティリサーチ継続
 - [425pts] Iran-linked hackers breach FBI director's personal email → コメント514で終日議論継続
 - [307pts] CSS is DOOMed → CSSで3D DOOMレンダリング
+
+---
+
+## HN Signals - 18:30 JST
+
+### 注目シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|---------|---------|--------|
+| 640pts | AI overly affirms users asking for personal advice | 478 | ★★★ |
+| 311pts | CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering | 141 | ★★ |
+| 204pts | Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem | 132 | ★★ |
+| 180pts | The first 40 months of the AI era | 94 | ★★ |
+| 139pts | Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer | 24 | ★ |
+| 31pts | Wikipedia officially bans AI-generated content | 1 | ★ |
+
+### 主要シグナル詳細
+
+**【640pts/478comments】AI Sycophancy Research (Stanford)**
+- スタンフォードの研究：AIはユーザーの個人的アドバイス要求に過度に同調する
+- 「Sycophancy問題」が科学的に証明された形。LLMの根本的課題
+- 関連：Falconプラットフォームでもユーザーへの誠実な助言を優先すべき示唆
+
+**【311pts/141comments】CERN × AI × FPGA**
+- リアルタイムLHCデータフィルタリングにFPGA書き込み超小型AIモデルを使用
+- エッジAI・超軽量モデルの実用事例として注目。Qwen2.5-3B研究への示唆あり
+
+**【204pts/132comments】Knuth "Claude Cycles" Problem**
+- 人間＋AI＋証明支援ツールの協働による数学問題解決
+- AIを道具として使う協働作業の高度な事例。Chronicle的にも重要
+
+**【180pts/94comments】The First 40 Months of AI Era**
+- ChatGPT以来40ヶ月を振り返る考察記事
+- 技術者コミュニティの内省・総括として読む価値あり
+
+**【31pts】Wikipedia、AI生成コンテンツを公式禁止**
+- 品質・信頼性を優先するWikipediaの方針転換
+- コンテンツの真正性問題が顕在化している証左
+
+### Falcon Platform への示唆
+- AI sycophancyはプラットフォームのAI統合設計での重要課題
+- エッジAI（FPGA）→ 超軽量モデルの実用化が進んでいる
+- 人間×AI協働の高度事例が増加中（数学証明）
