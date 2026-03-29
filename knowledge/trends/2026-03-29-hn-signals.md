@@ -902,3 +902,56 @@
 - Wikipedia AI禁止＋Miasmaスクレイパートラップ：「AIへの反発・防衛」が夜のサブテーマとして浮上
 - Knuth×Claude協働研究（223pts）は数学証明分野でのAI協働の可能性を示す
 - 本日総括：「AIは正直か」×「エッジAI特化の価値」×「人間とAIの協働」= Falcon Platformの設計哲学と一致
+
+---
+
+## HN Signals - 22:30 JST
+
+### 注目シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|---------|---------|--------|
+| 687pts | AI overly affirms users asking for personal advice | 542 | ★★★ |
+| 601pts | Go hard on agents, not on your filesystem | 312 | ★★★ |
+| 435pts | Iran-linked hackers breach FBI director's personal email | 519 | ★★ |
+| 314pts | CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering | 144 | ★★ |
+| 225pts | Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem | 155 | ★★ |
+| 191pts | The first 40 months of the AI era | 115 | ★ |
+| 141pts | Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer | 24 | ★ |
+| 79pts | What if AI doesn't need more RAM but better math? | 42 | ★ |
+| 58pts | Miasma: A tool to trap AI web scrapers in an endless poison pit | 24 | - |
+| 42pts | Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown | 9 | - |
+
+### 主要シグナル詳細
+
+**【687pts/542comments】AI Sycophancy Research (Stanford)** ★★★
+- 673→687pts、コメント527→542へ。22時間以上連続上昇。本日最重要テーマ確定
+- 一日を通じて止まらない上昇。技術者の「AIの正直さ」への関心が本物であることを証明し続けている
+
+**【601pts/312comments】Go hard on agents, not on your filesystem** ★★★ 復活
+- 19:30に一時リストから消えていたが22:30に601ptsで再ランクイン
+- 17:30時点の594ptsから601ptsへさらに上昇。一時的な退場後の復活 → 持続的な関心の証明
+- **Falcon Platform**: エージェント実行基盤への支持は一日では終わらない長期シグナル
+
+**【314pts/144comments】CERN × AI × FPGA** ★★
+- 313→314pts継続。終日安定した注目。エッジAI・超軽量特化モデルの実用化シグナル
+
+**【225pts/155comments】Knuth "Claude Cycles" Problem** ★★
+- 223→225pts。Claude（AI）+人間+証明支援の協働研究が夜22時を過ぎても上昇継続
+
+**【79pts/42comments】What if AI doesn't need more RAM but better math?** ★
+- 41→79ptsへ急上昇。「スケーリングよりアルゴリズム改善」という主張が夜に注目集める
+- **Qwen研究との共鳴**: 小型・効率的モデルへの関心が高まっている
+
+**【42pts/9comments】Lat.md: Agent Lattice: a knowledge graph for your codebase** 新規
+- URL: https://github.com/1st1/lat.md
+- コードベースの知識グラフをMarkdownで構築するエージェント向けツール
+- **Falcon Platform**: エージェントがコードを理解するためのグラフ構造 → AI開発ツールの新しい方向性
+
+### 22:30 小括
+
+- **AIシコファンシー（687pts）**: 22時間以上連続でHNトップ。本日の最重要テーマとして完全確定
+- **「Go hard on agents」復活（601pts）**: 一時退場後に601ptsで再登場 → 根強い関心の証明
+- **「より良い数学」（79pts）**: 夜に急上昇。スケーリング懐疑論が浸透中
+- **Lat.md登場**: エージェント向けコード知識グラフツール → コードベース理解AIの新潮流
+- 本日最終総括: 「AIの正直さ・信頼性」×「エージェント実行基盤」×「小型・効率モデル」の3軸が2026-03-29のHNを制覇
