@@ -794,3 +794,45 @@
 - **「pre-AI時代への郷愁」が新規ランクイン**: 技術的批判ではなく感情的喪失感。「AIが書いた文章に囲まれた世界」への反発が感情レベルに到達した兆候
 - **本日総括**: ChatGPT監視703pt・Copilot広告669pt・Voyager 1(非AI)562ptがトップ3。技術者の一日の結論は「信頼できないAI vs 信頼できるシンプルな技術」という対比
 - **Falcon Platform示唆**: (1)「AI以前」への郷愁 → 人間の作業を「支援」するが「乗っ取らない」ポジションが重要 (2)Voyager的ミニマリズム → 過剰機能より確実に動く少機能が技術者に刺さる (3)Copilot批判の継続 → ユーザーの成果物への商業的介入は絶対禁忌
+
+---
+
+## HN Signals (21:30)
+
+### 注目シグナル（継続・更新）
+
+**[768pts, 237comments] Copilot edited an ad into my PR** ★★★ 本日最高スコア・逆転トップ
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 669pts→768pts (+99)。今回最大の急騰。ChatGPT/Cloudflare記事を抜いて本日AIシグナルトップに逆転
+- 深夜21時台に+99ptの急騰は異常な勢い。AIが広告をコードに挿入する問題が欧米のタイムゾーンで拡散した可能性
+- **Falcon Platform示唆**: ユーザーの成果物を汚染しないことが絶対要件。この1件がCopilot信頼失墜の決定的事例になりつつある
+
+**[736pts, 470comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ 継続高スコア
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 703pts→736pts (+33)、440→470コメント。本日第2位に転落するも依然高スコア維持
+
+**[403pts, 176comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+安定
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 398pts→403pts (+5)。本日朝から継続の最長持続AI倫理シグナル。安定した400pt台
+
+**[323pts, 232comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ Score 300+安定
+- URL: https://github.com/austin-weeks/miasma
+- 322pts→323pts (+1)。完全に安定した高スコア。AIスクレイパー対策への持続的需要
+
+**[213pts, 202comments] Coding agents could make free software matter again** ★ Medium
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 205pts→213pts (+8)。コメント数がスコアに迫る（202コメント）。深い議論が続いている
+
+### 全体トップより追加
+
+**[579pts, 216comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 継続上昇
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 562pts→579pts (+17)。全体2位。今日も「信頼・シンプル・耐久性」の象徴として高スコア維持
+
+### 分析サマリー (21:30)
+
+- **Copilot広告挿入が768ptで逆転トップ**: 669→768pts (+99) の急騰でChatGPT/Cloudflare記事を抜いた。本日の最終トップシグナルは「AIがユーザーのコードに広告を挿入した」事件
+- **本日最終スコアランキング（AI）**: (1) Copilot広告 768pt (2) ChatGPT/Cloudflare監視 736pt (3) AI顔認識誤逮捕 403pt (4) Miasma 323pt
+- **Voyager 1が579ptで全体2位**: 非AIのレトロ技術記事がAI批判記事とほぼ同スコアで競い合う構図。今日のHNの文化的結論
+- **Coding Agents論文が213コメント**: コメント数がスコアに迫る。議論の深さが際立つ。Falcon Platform方向性を支持する声が多い
+- **Falcon Platform示唆**: (1) Copilot最終トップ → 「商業AIに汚染されない」ツールへの需要が今日最大のシグナル (2) コーディングエージェント論文の深い議論 → AIエージェントによる個人開発者強化というビジョンに技術者が共鳴している (3) 今日一日を通じた結論: 「信頼できるAI（Voyager的シンプル・透明・非介入）」が市場で最も求められている
