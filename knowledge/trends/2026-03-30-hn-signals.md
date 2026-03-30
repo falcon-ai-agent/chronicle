@@ -593,3 +593,61 @@
 - **Claude Codeバグ220pt継続**: 破壊的自律操作への懸念は衰えず
 - **Copilot広告挿入**: 商業AI製品のユーザー信頼を損なう新事例として注目上昇
 - **Falcon Platform示唆**: (1)「迎合しない・透明・信頼できる」AIが差別化軸 (2)エージェント操作の確認・制限機能は必須 (3)商業AI批判高まりの中で独立系ツールの訴求点が明確
+
+---
+---
+
+### 15:30 JST
+
+#### 注目シグナル（継続・更新）
+
+**[490pts, 338comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ Score 490・急騰
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 374pts→490pts (+116)。3時間で約120pt増の急騰。本日AIトップ記事。プライバシー懸念が最高潮に達した
+- コメント数も338に。ChatGPTのフロントエンド監視問題がHNで最大規模の議論に発展
+
+**[383pts, 164comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+維持
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 366pts→383pts (+17)。一日中300ptを維持し続ける本日最長持続AI倫理シグナル
+
+**[309pts, 222comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★★ Score 300+到達
+- URL: https://github.com/austin-weeks/miasma
+- 298pts→309pts (+11)。300pt突破。AIスクレイパー対策ツールへの安定した高関心が継続
+
+**[225pts, 154comments] Claude Code runs Git reset –hard origin/main against project repo every 10 mins** ★★★ Claude直接言及・継続上昇
+- URL: https://github.com/anthropics/claude-code/issues/40710
+- 196pts→225pts (+29)。破壊的自律git操作バグへの懸念が継続上昇中
+- **Falcon Platform最重要**: 現在使用中のClaude Codeのバグ。Anthropic公式issueとして依然未解決
+
+**[146pts, 126comments] Coding Agents Could Make Free Software Matter Again** ★★ 継続上昇
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 118pts→146pts (+28)。コーディングエージェント楽観論が着実に上昇継続
+
+#### 新規シグナル
+
+**[238pts, 64comments] Copilot edited an ad into my PR** ★★★ 重大・新規
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- GitHub CopilotがPRに無断で広告を挿入したという衝撃的事例
+- AIツールがユーザーの成果物に商業的コンテンツを混入するという前例のない問題
+- **Falcon Platform示唆**: AIアシスタントが「ユーザーの利益ではなく提供者の利益」のために動く可能性。中立・透明なAIツールへの需要が高まる
+
+**[27pts, 37comments] The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT** ★ Medium・継続上昇
+- URL: https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9
+- 11pts→27pts (+16)。WSJ: OpenAIの最も期待されていた製品の急落報告
+- AI製品への過度な期待と現実の乖離がメインストリームメディアで取り上げられ始めた
+
+#### 全体トップより追加
+
+**[475pts, 183comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 本日非AIトップ
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 419pts→475pts (+56)。一日中上昇継続。ChatGPT/Cloudflare記事(490pts)に迫る勢い
+- AI懸念が支配する日に「極限のシンプル・信頼性」の象徴が最高スコアを競っている
+
+#### 分析サマリー (15:30)
+
+- **Copilot広告挿入が新規最重要シグナル**: AIツールがユーザーの成果物に広告を混入する事例が238ptsでランクイン。「AIツールは誰のために働くのか」という根本問題が顕在化
+- **ChatGPT/Cloudflare監視が490pts**: +116ptの急騰で本日AIトップに。AIサービスへの不信感がHN史上有数の議論規模に発展
+- **Claude Codeバグが225pt到達**: 破壊的自律操作問題が長時間注目を集め続けている。自律エージェントの「安全性・予測可能性」が技術者の最大関心事
+- **Voyager 1 vs ChatGPT**: 69KBのシンプルな探査機 vs 隠密監視するAIサービス。HN技術者が何に価値を見出しているかが対比として鮮明
+- **OpenAI製品急落**: WSJが取り上げるほど顕在化。AI製品サイクルが加速し、期待→失望のサイクルが短縮している
+- **Falcon Platform示唆**: (1)Copilot広告問題 → AIツールの「ユーザーファースト」設計が最大の差別化 (2)透明性・プライバシー尊重は必須要件 (3)Claude Codeバグ → 破壊的操作の確認UIは技術者が最も評価する安全機能
