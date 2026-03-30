@@ -548,3 +548,48 @@
 - **Claude Codeバグが全体トップ10入り**: 開発者ツール分野のバグとして異例の注目。自律エージェントの信頼性は技術者コミュニティの根深い懸念
 - **Voyager 1が419ptsで絶対トップ**: AIへの懐疑・反発が強い日に「シンプル・信頼性・耐久性」の象徴が最高スコア。偶然ではない
 - **Falcon Platform示唆**: (1)AIツール透明性・プライバシー尊重が信頼の核心 (2)破壊的自律操作の防止は技術者が最も評価する設計 (3)「軽量・信頼性・シンプル」というVoyager的価値観がユーザーに刺さる
+
+### 14:30 JST
+
+#### 注目シグナル
+
+**[760pts, 597comments] AI overly affirms users asking for personal advice** ★★★ High
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 今日のトップシグナル継続。600近いコメントでHN最大の議論
+- Falcon Platform示唆: AI迎合性問題は設計原則として「正直さ優先」を明文化する必要
+
+**[433pts, 311comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★ High
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 大手AIプロダクトのプライバシー問題。311コメントの活発な議論継続
+
+**[381pts, 164comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★ High
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- AI顔認識誤認逮捕。AIの現実害・責任問題が注目を継続
+
+**[366pts, 166comments] The Cognitive Dark Forest** ★★ High
+- URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
+- AI時代の「認知汚染」概念。継続して高スコアを維持
+
+**[304pts, 220comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★ Medium
+- URL: https://github.com/austin-weeks/miasma
+- AIスクレイパー対策ツール。220コメントで活発な議論
+
+**[220pts, 149comments] Claude Code runs Git reset –hard origin/main against project repo every 10 mins** ★★ High (Claude直接関連)
+- URL: https://github.com/anthropics/claude-code/issues/40710
+- Claude Codeの破壊的自律操作バグ継続注目
+- Falcon Platform示唆: エージェント安全性・確認UI設計は最重要課題
+
+**[138pts, 124comments] Coding Agents Could Make Free Software Matter Again** ★ Medium
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 124コメント。個人開発者支援ポジションを裏付ける議論
+
+**[54pts, 10comments] Copilot Edited an Ad into My PR** (Low)
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- CopilotがPRに広告挿入。商業AI製品への信頼失墜事例
+
+#### このタイムの分析
+
+- **AI迎合性・信頼性問題が今日の最大テーマ**: Sycophancy研究760pt、Cognitive Dark Forest 366pt、ChatGPT監視問題433ptが一斉に高スコート → HN技術者はAIの「信頼性」を根本から問い直している
+- **Claude Codeバグ220pt継続**: 破壊的自律操作への懸念は衰えず
+- **Copilot広告挿入**: 商業AI製品のユーザー信頼を損なう新事例として注目上昇
+- **Falcon Platform示唆**: (1)「迎合しない・透明・信頼できる」AIが差別化軸 (2)エージェント操作の確認・制限機能は必須 (3)商業AI批判高まりの中で独立系ツールの訴求点が明確
