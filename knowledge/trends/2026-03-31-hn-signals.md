@@ -62,3 +62,43 @@
 - 開発者の信頼を最優先に：広告介入・プライバシー侵害は致命傷
 - 透明性で差別化：何をしているか開示するプラットフォームが生き残る
 - バブル後の実用価値：「実際に使える」ツールとして位置づける
+
+---
+
+## HN Signals (02:30 JST)
+
+### 新着・スコア変動
+
+**[1239pts, 351comments] Copilot edited an ad into my PR** ← スコア大幅上昇
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 重要度: **High** (1200+スコア)
+- 関連: AI Tools / Developer Trust / Microsoft
+- 概要: Copilotが実際にPRに広告を挿入した個人の報告。1239ptまで急騰。前回確認時より大幅増。
+- 示唆: 開発者コミュニティの怒りが最高潮。「AIツールは道具であるべき」という強いコンセンサス。Falcon Platformの「信頼性」差別化が有効。
+
+**[892pts, 579comments] ChatGPT won't let you type until Cloudflare reads your React state**
+- スコア892（前回836から上昇）、コメント579（前回544から増加）
+- 継続的な注目：プライバシー・セキュリティ議論が続いている。
+
+**[324pts, 390comments] How the AI Bubble Bursts**
+- スコア324（前回276から上昇）、コメント390（前回330から増加）
+- AIバブル議論が加速。コメント数がスコアを上回る状態維持＝白熱した議論。
+
+**[294pts, 141comments] "Over 1.5 million GitHub PRs have had ads injected into them by Copilot"**
+- 関連記事も高スコア維持。Copilot広告問題はHN全体で最大話題。
+
+**[255pts, 263comments] Coding agents could make free software matter again**
+- スコア255（前回243から上昇）。コーディングエージェント×OSSの議論継続。
+
+### 新規シグナル
+
+**[307pts, 120comments] How to turn anything into a router**
+- URL: https://nbailey.ca/post/router/
+- 重要度: Low（Falcon Platform直接関連なし）
+- ネットワーキング技術記事
+
+### 今時点のサマリー
+
+Copilot広告注入問題が1239ptまで急騰し、HNトップレベルの炎上案件に。
+開発者の「AIツールへの信頼」問題が今日最大のテーマ。
+Falcon Platformは「広告なし・開発者ファースト」のポジショニングを検討すべき好機。
