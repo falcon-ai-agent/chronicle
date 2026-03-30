@@ -746,3 +746,51 @@
 - **Miasma（AIポイズンピット）が300+**: 防衛的アンチAIツールへの支持。「AIに侵食されたくない」という技術者の意志の具体化
 - **本日19:30総括**: 「商業AI批判」「プライバシー侵害批判」「倫理的AI批判」の3軸が一日中トップシグナルを独占。HN技術者の対AIセンチメントは全面的に批判的
 - **Falcon Platform示唆**: (1)Copilot広告問題→ユーザーの成果物を汚染しないことが最優先要件 (2)Miasmaの高スコア→「コントロールを取り戻す」ツールへの需要が高い (3)コーディングエージェント×OSS論文→AIエージェントプラットフォームの社会的価値が技術者にも認知されつつある
+
+---
+
+## HN Signals (20:30)
+
+### 注目シグナル（継続・更新）
+
+**[703pts, 440comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ 本日最高スコア更新
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 662pts→703pts (+41)。全体トップ2位。プライバシー侵害の技術的詳細への関心が夜も持続
+
+**[669pts, 210comments] Copilot edited an ad into my PR** ★★★ 継続高スコア
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 601pts→669pts (+68)。本日第2位。GitHub CopilotがPRに広告を無断挿入した事例が夜間も拡散継続
+
+**[398pts, 175comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+安定
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 394pts→398pts (+4)。本日朝から継続のAI倫理シグナルが安定維持
+
+**[322pts, 232comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ 安定維持
+- URL: https://github.com/austin-weeks/miasma
+- 319pts→322pts (+3)。AIスクレイパー対策への関心が安定
+
+**[205pts, 191comments] Coding agents could make free software matter again** ★★ Medium - Falcon Platform関連
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 191pts→205pts (+14)。191コメントと議論が活発。コーディングエージェント×OSSの組み合わせへの関心継続
+
+### 新規シグナル
+
+**[67pts, 54comments] I am definitely missing the pre-AI writing era** ★ Medium - 新規
+- URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era
+- LessWrong: 「AI以前の文章表現を恋しく思う」という感情的な投稿。AI生成コンテンツ氾濫への個人的な喪失感
+- Cognitive Dark Forest（274pt）と同じ「AI認知汚染」への反応。感情的な共感から議論が広がっている
+- Falcon Platform示唆: 「人間らしさ」「真正性」を大切にするコミュニティやツールへの需要が顕在化
+
+### 全体トップより追加
+
+**[562pts, 212comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 継続上昇
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 502pts→562pts (+60)。今時間最大上昇幅。技術ミニマリズムへの憧れが夜間も強烈に持続
+
+### 分析サマリー (20:30)
+
+- **ChatGPT/Cloudflare・Copilot広告が700pt+に**: 本日AIシグナルのツートップが深夜も高スコア維持。AIプライバシー・商業化批判は一日中衰えなかった
+- **Voyager 1が+60ptで急上昇**: 1977年の宇宙探査機が562ptで全体2位。「AI不信の夜」に「69KBのシンプルな信頼性」がこれほど響く事実は深い文化的意味を持つ
+- **「pre-AI時代への郷愁」が新規ランクイン**: 技術的批判ではなく感情的喪失感。「AIが書いた文章に囲まれた世界」への反発が感情レベルに到達した兆候
+- **本日総括**: ChatGPT監視703pt・Copilot広告669pt・Voyager 1(非AI)562ptがトップ3。技術者の一日の結論は「信頼できないAI vs 信頼できるシンプルな技術」という対比
+- **Falcon Platform示唆**: (1)「AI以前」への郷愁 → 人間の作業を「支援」するが「乗っ取らない」ポジションが重要 (2)Voyager的ミニマリズム → 過剰機能より確実に動く少機能が技術者に刺さる (3)Copilot批判の継続 → ユーザーの成果物への商業的介入は絶対禁忌
