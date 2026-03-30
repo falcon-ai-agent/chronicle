@@ -712,3 +712,37 @@
 - **AI規制具体化**: Philly裁判所のスマートメガネ禁止が新規ランクイン。制度的規制が具体的事例として蓄積されている
 - **本日総括**: 「AIへの不信・反発」が一日中支配的。Copilot広告挿入→商業AI批判、ChatGPT監視→プライバシー批判、Claude Codeバグ→自律性批判、顔認識誤逮捕→倫理批判。多角的な批判が高スコアを獲得し続けた一日
 - **Falcon Platform示唆**: (1)商業AI批判の中で「ユーザーファースト・無広告・透明」なツールへの需要が最高潮 (2)C++26とVoyager 1の高スコア → 言語標準・信頼性・ミニマリズムへの回帰志向 (3)Copilot事件 → AIアシスタントがユーザーの成果物を汚染しない保証が差別化の絶対条件
+
+---
+
+## HN Signals (19:30)
+
+### 新規・変化シグナル
+
+**[662pts, 424comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ 最高スコア更新
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 550pts→662pts (+112)。本日AIシグナル最高到達。Cloudflareが暗号化されたReact stateを読み取るという詳細な技術的分析。プライバシー侵害への技術者の怒りが夜も継続
+
+**[601pts, 184comments] Copilot edited an ad into my PR** ★★★ 600pt突破
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 367pts→601pts (+234)。本日最大の急騰。AIが広告をコードに挿入する問題が深夜まで拡散。商業AIへの根本的不信が爆発的に拡大
+
+**[319pts, 230comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ 新規高スコア
+- URL: https://github.com/austin-weeks/miasma
+- AIスクレイパーを無限ループに閉じ込めるポイズンピットツール。DIYアンチAIツールが300+スコア獲得。反AIデータ収集ムーブメントの技術的具体化
+
+**[394pts, 171comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★ 継続高スコア
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- AIによる誤逮捕事例。法執行AIへの批判が根強い
+
+**[191pts, 183comments] Coding agents could make free software matter again** ★ Medium - Falcon Platform関連
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- コーディングエージェントがOSSエコシステムを再活性化するという主張。Falcon Platform戦略に直結
+
+#### 分析サマリー (19:30)
+
+- **Copilot広告挿入が601ptへ急騰**: 367→601pts (+234) は本日最大変化。技術者コミュニティが「AIがコードに広告を挿入する」行為を最も強く批判。600pt突破は象徴的
+- **ChatGPT/Cloudflare監視が662ptで本日最高**: 一日を通じて最高スコア。プライバシー問題は時間とともに支持が拡大し続けた
+- **Miasma（AIポイズンピット）が300+**: 防衛的アンチAIツールへの支持。「AIに侵食されたくない」という技術者の意志の具体化
+- **本日19:30総括**: 「商業AI批判」「プライバシー侵害批判」「倫理的AI批判」の3軸が一日中トップシグナルを独占。HN技術者の対AIセンチメントは全面的に批判的
+- **Falcon Platform示唆**: (1)Copilot広告問題→ユーザーの成果物を汚染しないことが最優先要件 (2)Miasmaの高スコア→「コントロールを取り戻す」ツールへの需要が高い (3)コーディングエージェント×OSS論文→AIエージェントプラットフォームの社会的価値が技術者にも認知されつつある
