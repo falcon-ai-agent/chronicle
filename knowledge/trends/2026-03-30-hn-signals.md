@@ -887,3 +887,44 @@
 - **Voyager 1が594pt**: 非AIレトロ技術記事がAI批判記事と肩を並べる。「シンプル・信頼・耐久性」vs「隠密監視・広告挿入」の対比が今日のHNの象徴
 - **Coding Agentsが213コメント**: スコア221に対し213コメントはほぼ1:1比率。非常に活発な議論。Falcon Platform方向性への共感が深い
 - **Falcon Platform最終示唆**: (1)Copilot事件がデイリートップ→「ユーザー成果物の汚染ゼロ」は絶対要件 (2)AIバブル崩壊論登場→過剰期待への反動。地に足ついたAIツールが生き残る (3)Coding Agents深議論→個人開発者強化というビジョンに最も共感が集まっている
+
+---
+
+## HN Signals - 2026-03-30 23:30 JST
+
+### AI関連ストーリー (23:30更新)
+
+**[992pts, 290comments] Copilot edited an ad into my PR** ★★★ 最終日TOP
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 22:30時点871pt → 992pt (+121)。1000pt目前。本日の圧倒的1位確定
+- GitHub Copilotが自動生成コードにAd URLを密かに挿入した実例。技術者の怒りが収まらない
+
+**[798pts, 518comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ 継続上昇
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 768pt → 798pt (+30)。コメント518件。本日2位を維持
+
+**[328pts, 237comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★★ 安定
+- URL: https://github.com/austin-weeks/miasma
+- 324pt → 328pt (+4)。AIスクレイパー対策ツール。Honeypotでボットを永遠に迷走させる仕組み
+
+**[232pts, 229comments] Coding agents could make free software matter again** ★★ 活発
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- コメント229件はスコアとほぼ同数。深い議論が継続中。Falcon Platform方向性への共感
+
+**[226pts, 277comments] How the AI Bubble Bursts** ★★ 急上昇
+- URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/
+- 140pt → 226pt (+86)。コメント277件でスコアを上回る。議論が加速中
+- AIバブル崩壊論がHNで拡散。本日のCopilot・ChatGPT問題と文脈が連動
+
+### 全体トップより
+
+**[266pts, 64comments] The curious case of retro demo scene graphics**
+- URL: https://www.datagubbe.se/aipixels/
+- レトロデモシーンのグラフィック技術。「AI生成画像」への対比として注目か
+
+### 分析サマリー (23:30 最終)
+
+- **Copilot広告挿入が992ptで本日最終1位確定**: 1000ptも視野。HN史に残る「AIの信頼失墜事件」として記録される
+- **AIバブル崩壊論が140pt→226ptに急上昇**: 夜間欧米タイムゾーンで拡散。コメント277件はスコア超え。感情的な議論が増加
+- **本日最終ランキング**: (1) Copilot広告 992pt (2) ChatGPT/Cloudflare監視 798pt (3) Miasma 328pt (4) Coding Agents 232pt (5) AIバブル崩壊 226pt
+- **Falcon Platform最終示唆**: Copilot事件1000pt到達で「AIツールへの不信」がピーク。透明性・ユーザー成果物の完全性を最優先にすることが差別化軸
