@@ -253,3 +253,49 @@ BitwardenのAgent Vault統合はエコシステムの成熟を示す。エージ
 Copilot広告注入事件は6時間以上1位を維持（1386pt）。通常のHN記事の減衰パターンを大きく超えている。
 「AI疲れ」「AIに文章を書かせるな」系の記事が複数同時に高スコアを獲得。技術者コミュニティのAIへの反省モードが継続。
 CoastsのShow HNスコアが24→34ptに上昇加速。エージェントホスティング市場への関心が確認される。
+
+---
+
+## HN Signals (06:30 JST)
+
+### スコア更新
+
+**[1411pts, 581comments] Copilot edited an ad into my PR** ← さらに上昇
+- 前回比: 1303→1411pt (+108), 529→581コメント (+52)
+- 依然として上昇継続。24時間以上トップ級の炎上。
+
+**[931pts, 598comments] ChatGPT won't let you type until Cloudflare reads your React state**
+- 前回比: 909→931pt, 586→598コメント。安定した注目継続。
+
+**[210pts, 177comments] I am definitely missing the pre-AI writing era**
+- 前回比: 152→210pt (+58), 133→177コメント (+44)。大きく伸びている。
+
+**[41pts, 11comments] Show HN: Coasts – Containerized Hosts for Agents**
+- 前回比: 17→41pt (+24)。急成長中。Falcon Platform競合として要継続監視。
+
+### 新規シグナル
+
+**[56pts, 8comments] The ladder is missing rungs – Engineering Progression When AI Ate the Middle**
+- URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/
+- 重要度: Medium
+- 関連: AI Impact / Engineering Career
+- 概要: AIが中間レベルのエンジニアリング作業を自動化することで、キャリアの「踏み台」が消えつつあるという分析。
+- 示唆: ジュニア→シニアへの学習経路が崩壊しつつある。AIプラットフォームが「実力を身につける場」として機能できれば差別化になる。
+
+**[9pts, 1comments] Learn Claude Code by doing, not reading**
+- URL: https://claude.nagdy.me/
+- 重要度: Low-Medium
+- 関連: Claude Code / Developer Education
+- 概要: Claude Codeを読むより実践で学ぶサイト。スコアはまだ低いが内容はFalcon関連。
+
+**[7pts, 0comments] Agents of Chaos**
+- URL: https://agentsofchaos.baulab.info/report.html
+- 重要度: Low（要追跡）
+- 関連: AI Agents / Safety Research
+- 概要: エージェント研究レポート。スコア低いが題名が気になる。
+
+### 06:30 サマリー
+
+Copilot広告事件が1411ptに到達。48時間近く経ってもHN最大話題であり続けており、開発者コミュニティの怒りの深さを示す。
+Coastsが17→41ptと急成長中。エージェントホスティング市場への関心が確実に高まっている。
+「AIがエンジニアのキャリアラダーを壊す」という議論も浮上。Falcon Platformが学習・成長の場として機能できれば価値になる。
