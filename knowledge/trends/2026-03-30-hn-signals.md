@@ -651,3 +651,64 @@
 - **Voyager 1 vs ChatGPT**: 69KBのシンプルな探査機 vs 隠密監視するAIサービス。HN技術者が何に価値を見出しているかが対比として鮮明
 - **OpenAI製品急落**: WSJが取り上げるほど顕在化。AI製品サイクルが加速し、期待→失望のサイクルが短縮している
 - **Falcon Platform示唆**: (1)Copilot広告問題 → AIツールの「ユーザーファースト」設計が最大の差別化 (2)透明性・プライバシー尊重は必須要件 (3)Claude Codeバグ → 破壊的操作の確認UIは技術者が最も評価する安全機能
+
+---
+
+### 16:30 JST
+
+#### 注目シグナル（継続・更新）
+
+**[550pts, 357comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ 本日AIトップ・継続上昇
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 490pts→550pts (+60)。本日AIシグナル最高スコアを更新継続。ChatGPTのフロントエンド監視問題がHN最大議論に
+
+**[367pts, 110comments] Copilot edited an ad into my PR** ★★★ 急騰・本日最大変化
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 238pts→367pts (+129)。今時間の最大上昇幅。GitHub CopilotがPRに広告を無断挿入した事例が爆発的に拡散
+- AIツールが「ユーザーの成果物を商業利用する」という前例のない問題として技術者コミュニティに強い衝撃
+
+**[386pts, 165comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+維持
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 383pts→386pts (+3)。安定した高スコア維持。本日最長持続のAI倫理シグナル
+
+**[313pts, 225comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ Score 300+安定
+- URL: https://github.com/austin-weeks/miasma
+- 309pts→313pts (+4)。AIスクレイパー対策への安定した関心継続
+
+**[238pts, 164comments] Claude Code runs Git reset –hard origin/main against project repo every 10 mins** ★★★ Claude直接言及・継続上昇
+- URL: https://github.com/anthropics/claude-code/issues/40710
+- 225pts→238pts (+13)。破壊的自律git操作バグへの懸念が長時間にわたり継続
+
+**[156pts, 135comments] Coding Agents Could Make Free Software Matter Again** ★ 上昇継続
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 146pts→156pts (+10)。コーディングエージェントによる個人開発者復権論が安定上昇
+
+#### 新規シグナル
+
+**[13pts, 13comments] AI and bots have officially taken over the internet** ★ Low-Medium - 新規
+- URL: https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html
+- CNBC: AIとボットがインターネットを正式に乗っ取ったという報告。低スコアだが象徴的なタイトル
+- Webトラフィックの過半数がAI/ボットになったという現実が主流メディアで報道される段階に
+
+#### 全体トップより追加
+
+**[502pts, 188comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 本日最高スコア
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 475pts→502pts (+27)。500pt突破。AI関連記事(550pts)に迫る勢い。技術ミニマリズムへの憧れが一日中持続
+
+**[217pts, 175comments] C++26 is done: ISO C++ standards meeting Trip Report** ★ 新規
+- URL: https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/
+- C++26完成レポート。175コメントで活発な議論。言語標準への技術者の深い関心
+
+**[207pts, 72comments] Philly courts will ban all smart eyeglasses starting next week** ★ Medium - 新規
+- URL: https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html
+- フィラデルフィア裁判所がスマートメガネ(Meta等)全面禁止。AI/スマートデバイスへの制度的規制の具体化事例
+
+#### 分析サマリー (16:30)
+
+- **Copilot広告挿入が+129ptの急騰**: 238→367ptsは今時間最大変化。AIツールがユーザーの意図しない商業コンテンツを挿入する問題がHN技術者の怒りを爆発させた
+- **ChatGPT/Cloudflare監視が550pt**: 本日AIシグナルの最終最高スコア。プライバシー侵害問題は1日を通じて最大の議論となった
+- **Voyager 1が502pt**: ChatGPT監視記事(550pt)に迫る。「隠密監視するAI」vs「シンプル・信頼の宇宙探査機」の対比は今日のHN最大の文化的メッセージ
+- **AI規制具体化**: Philly裁判所のスマートメガネ禁止が新規ランクイン。制度的規制が具体的事例として蓄積されている
+- **本日総括**: 「AIへの不信・反発」が一日中支配的。Copilot広告挿入→商業AI批判、ChatGPT監視→プライバシー批判、Claude Codeバグ→自律性批判、顔認識誤逮捕→倫理批判。多角的な批判が高スコアを獲得し続けた一日
+- **Falcon Platform示唆**: (1)商業AI批判の中で「ユーザーファースト・無広告・透明」なツールへの需要が最高潮 (2)C++26とVoyager 1の高スコア → 言語標準・信頼性・ミニマリズムへの回帰志向 (3)Copilot事件 → AIアシスタントがユーザーの成果物を汚染しない保証が差別化の絶対条件
