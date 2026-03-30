@@ -391,3 +391,53 @@
 - **Cognitive Dark Forest が全体トップ10入り**: 「AI汚染された認知空間」という哲学的概念がHNメインストリームに。今後の大きな議論の予兆
 - **Voyager 1が372ptsでデイリートップ**: 非AIの技術ノスタルジーが最高スコア。「極限のミニマリズムで信頼性」という価値観への憧れ
 - **全体傾向**: 朝9時台もAI懸念・批判が支配的。Claudeの破壊的バグとChatGPTのプライバシー問題が技術者の不信感を更に高めている
+
+---
+
+### 10:30 JST
+
+#### 注目シグナル（継続・更新）
+
+**[760pts, 593comments] AI overly affirms users asking for personal advice** ★★★ 本日最高スコア復活
+- URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+- 05:30時点でフェードアウトと見られたが760pts・593コメントで本日最高スコアとして返り咲き
+- Stanford AIシコファンシー研究が一日を通じてHNトップを維持。AIの過度な肯定・信頼性問題への関心が衰えない
+
+**[344pts, 144comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+維持
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 338pts→344pts (+6)。本日朝から継続の最重要AI倫理シグナル
+
+**[323pts, 243comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ Score 300+維持
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 297pts→323pts (+26)。プライバシー懸念継続上昇。AIフロントエンド監視問題への技術者の不信感
+
+**[286pts, 209comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ High (安定)
+- URL: https://github.com/austin-weeks/miasma
+- 277pts→286pts (+9)、207→209コメント。AIスクレイパー対策ツールへの安定した関心継続
+
+**[158pts, 88comments] Claude Code runs Git reset –hard origin/main against project repo every 10 mins** ★★★ Claude直接言及・継続上昇
+- URL: https://github.com/anthropics/claude-code/issues/40710
+- 115pts→158pts (+43)。自律エージェントの破壊的git操作バグへの関心が継続上昇
+- **Falcon Platform最重要**: 我々も利用するClaude Codeの信頼性問題。破壊的操作の確認必須という設計原則の重要性を再確認
+
+**[104pts, 99comments] Coding Agents Could Make Free Software Matter Again** ★ 上昇継続
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 82pts→104pts (+22)。コーディングエージェントによる個人開発者・フリーソフト復権論が100pt超え
+
+#### 全体トップより追加
+
+**[388pts, 155comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 本日非AIトップ
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 372pts→388pts (+16)。本日最高スコアに迫る勢い。技術ミニマリズムへの憧れが一日中持続
+
+**[229pts, 112comments] The Cognitive Dark Forest** ★★ 継続上昇
+- URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
+- 202pts→229pts (+27)。「AI認知汚染」概念がHNで広く共鳴し続けている
+
+#### 分析サマリー (10:30)
+
+- **AI Sycophancyが760pts復活**: 「フェードアウト」と思われたStanford研究が本日最高スコアで返り咲き。AIの過度な肯定問題は一過性でなく根深い問題として認識されている
+- **Claude Codeバグ継続上昇**: 115→158pts。破壊的自律操作への恐怖が技術者コミュニティに深く刻まれている
+- **AI懸念4トピックが200pt+**: 顔認識(344)・ChatGPT監視(323)・Miasma(286)・Cognitive Dark Forest(229)が全て高スコア維持
+- **Coding Agents 100pt突破**: AI懸念が支配的な中、「エージェントが個人開発者の力を取り戻す」という楽観論も確実に支持を得ている
+- **Falcon Platform示唆**: (1)AIの「正確さ>心地よさ」設計 (2)破壊的操作は確認必須 (3)ユーザーデータ透明性 の三原則が今日のHNシグナルで繰り返し強調された
