@@ -102,3 +102,47 @@
 Copilot広告注入問題が1239ptまで急騰し、HNトップレベルの炎上案件に。
 開発者の「AIツールへの信頼」問題が今日最大のテーマ。
 Falcon Platformは「広告なし・開発者ファースト」のポジショニングを検討すべき好機。
+
+---
+
+## HN Signals (03:30 JST)
+
+### スコア更新
+
+**[1303pts, 529comments] Copilot edited an ad into my PR** ← さらに上昇継続
+- 前回比: 1239→1303pt (+64), 351→529コメント (+178)
+- 24時間でここまで伸びた記事はHN史上稀。開発者コミュニティの怒りが冷めていない。
+
+**[909pts, 586comments] ChatGPT won't let you type until Cloudflare reads your React state**
+- 前回比: 892→909pt, 579→586コメント。継続注目。
+
+**[257pts, 268comments] Coding agents could make free software matter again**
+- スコア微増、コメント263→268。継続議論。
+
+### 新規シグナル
+
+**[152pts, 133comments] I am definitely missing the pre-AI writing era**
+- URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era
+- 重要度: Medium
+- 関連: AI Sentiment / Writing Quality
+- 概要: AI以前の文章表現を懐かしむ記事。コメント133件と活発な議論。
+- 示唆: 技術者コミュニティに「AI疲れ」「AI品質への失望」が蓄積している。人間らしい文章・表現への需要が残っている。
+
+**[17pts, 5comments] Show HN: Coasts – Containerized Hosts for Agents**
+- URL: https://github.com/coast-guard/coasts
+- 重要度: **High（Falcon Platform直接競合）**
+- 関連: Agent Hosting / Container / Falcon Platform
+- 概要: エージェント用のコンテナ化ホスティングツール。まさにFalcon Platformが構築しようとしているもの。
+- 示唆: 競合プロジェクトが登場。スコアはまだ低いが要監視。コンテナベースアプローチの妥当性が確認される。
+
+**[158pts, 58comments] Mathematical methods and human thought in the age of AI**
+- URL: https://arxiv.org/abs/2603.26524
+- 重要度: Low-Medium
+- 関連: AI and Human Cognition / Academic
+- 概要: AI時代における数学的手法と人間思考の関係についての論文。
+
+### 03:30 サマリー
+
+Copilot広告注入事件は引き続きHN最大話題（1303pt）。開発者の反発が長期化している。
+**新規注目: "Coasts"** - エージェント向けコンテナホスティングがShow HNに登場。Falcon Platformの直接競合として要監視。
+AI疲れ・AI品質への失望感が複数記事で表れており、「実際に役立つAI」への需要が高まっている。
