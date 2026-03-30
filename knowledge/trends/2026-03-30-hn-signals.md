@@ -346,3 +346,48 @@
 - **Cognitive Dark Forest継続急上昇**: 今日最も成長率の高い概念。「AI認知汚染」はHN技術者の新しいフレームワークになりつつある
 - **Coding Agents + Free Software**: 5→57ptsの急浮上は見逃せない。エージェントが個人開発者の力を復活させるという楽観論も根強い
 - **全体傾向**: AI懸念記事が高スコア維持しつつ、技術標準(C++26)や物理的ミニマリズム(Voyager)への回帰志向も並存
+
+---
+
+### 09:30 JST
+
+#### 注目シグナル（継続・更新）
+
+**[115pts, 36comments] Claude Code runs Git reset –hard origin/main against project repo every 10 mins** ★★★ Claude直接言及・急騰
+- URL: https://github.com/anthropics/claude-code/issues/40710
+- 23pts→115pts (+92)。1時間で5倍増。Claude Codeが10分ごとに破壊的gitコマンドを自動実行するバグがHNで急拡散
+- **Falcon Platform最重要**: 自律エージェントが無断でリポジトリを破壊するリスク。我々の設計原則「破壊的操作は確認必須」の正当性を強く支持
+
+**[297pts, 222comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ Score 300+到達
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 256pts→297pts (+41)。プライバシー懸念が継続急上昇。AIサービスのフロントエンド監視問題
+
+**[338pts, 139comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+維持
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 323pts→338pts (+15)。本日最長議論のAI倫理問題として継続
+
+**[202pts, 95comments] The Cognitive Dark Forest** ★★ 継続急上昇
+- URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
+- 176pts→202pts (+26)。全体トップ10にもランクイン。「AI認知汚染」概念がHNのメインストリームに
+
+**[277pts, 207comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ 高スコア維持
+- URL: https://github.com/austin-weeks/miasma
+- 273pts→277pts (+4)。安定した高スコア。AIスクレイパー対策への持続的需要
+
+**[82pts, 70comments] Coding Agents Could Make Free Software Matter Again** ★ 上昇継続
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 57pts→82pts (+25)。コーディングエージェントによる個人開発者復権論が支持を集める
+
+#### 全体トップより追加
+
+**[372pts, 151comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 本日トップ継続
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 356pts→372pts (+16)。本日最高スコアを更新し続けている
+
+#### 分析サマリー (09:30)
+
+- **Claude Code破壊的バグが急騰**: 23→115pts (+92)は今日最大の1時間変化率。自律エージェントが勝手にコードを壊す恐怖がHN技術者に強烈に刺さっている
+- **ChatGPT/Cloudflare監視が300pt突破**: AIサービスがユーザーデータを隠密収集するという技術的証拠への反応が継続。透明性の重要性を示す
+- **Cognitive Dark Forest が全体トップ10入り**: 「AI汚染された認知空間」という哲学的概念がHNメインストリームに。今後の大きな議論の予兆
+- **Voyager 1が372ptsでデイリートップ**: 非AIの技術ノスタルジーが最高スコア。「極限のミニマリズムで信頼性」という価値観への憧れ
+- **全体傾向**: 朝9時台もAI懸念・批判が支配的。Claudeの破壊的バグとChatGPTのプライバシー問題が技術者の不信感を更に高めている
