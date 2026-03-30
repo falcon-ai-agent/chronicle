@@ -836,3 +836,54 @@
 - **Voyager 1が579ptで全体2位**: 非AIのレトロ技術記事がAI批判記事とほぼ同スコアで競い合う構図。今日のHNの文化的結論
 - **Coding Agents論文が213コメント**: コメント数がスコアに迫る。議論の深さが際立つ。Falcon Platform方向性を支持する声が多い
 - **Falcon Platform示唆**: (1) Copilot最終トップ → 「商業AIに汚染されない」ツールへの需要が今日最大のシグナル (2) コーディングエージェント論文の深い議論 → AIエージェントによる個人開発者強化というビジョンに技術者が共鳴している (3) 今日一日を通じた結論: 「信頼できるAI（Voyager的シンプル・透明・非介入）」が市場で最も求められている
+
+---
+
+## HN Signals (22:30)
+
+### 注目シグナル（継続・更新）
+
+**[871pts, 265comments] Copilot edited an ad into my PR** ★★★ 本日絶対トップ・最高スコア更新
+- URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- 768pts→871pts (+103)。深夜22時台に+103ptの急騰。本日最高スコアを更新し続けている
+- GitHub CopilotがPRに無断で広告を挿入したという衝撃事例が欧米タイムゾーンで更に拡散
+- **Falcon Platform示唆**: 「ユーザーの成果物への商業的介入ゼロ」が最大の差別化要件として今日一日で確定
+
+**[768pts, 491comments] ChatGPT won't let you type until Cloudflare reads your React state** ★★★ 継続高スコア
+- URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+- 736pts→768pts (+32)、470→491コメント。プライバシー侵害技術調査への関心が深夜も維持
+
+**[412pts, 177comments] Police used AI facial recognition to wrongly arrest TN woman for crimes in ND** ★★★ Score 300+安定
+- URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+- 403pts→412pts (+9)。本日朝から継続の最長持続AI倫理シグナル。安定した400pt台
+
+**[324pts, 232comments] Miasma: A tool to trap AI web scrapers in an endless poison pit** ★★ Score 300+安定
+- URL: https://github.com/austin-weeks/miasma
+- 323pts→324pts (+1)。完全安定した高スコア維持
+
+**[221pts, 213comments] Coding agents could make free software matter again** ★ Medium・コメント急増
+- URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- 213pts→221pts (+8)、202→213コメント。コメント数がスコアをほぼ追い越す深い議論継続
+
+### 新規シグナル
+
+**[140pts, 90comments] How the AI Bubble Bursts** ★★ Medium - 新規
+- URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/
+- 本日新規ランクイン。「AIバブルはいつ・どう弾けるか」を分析した記事
+- 90コメントで活発な議論。HN技術者コミュニティがAIバブル崩壊シナリオを真剣に検討している
+- Copilot広告挿入・ChatGPT監視問題が高スコアを取る今日の雰囲気と完全に一致したタイミング
+
+### 全体トップより追加
+
+**[594pts, 221comments] Voyager 1 runs on 69 KB of memory and an 8-track tape recorder** ★★★ 継続上昇
+- URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+- 579pts→594pts (+15)。全体2位を維持。今日も「信頼・シンプル・耐久性」の象徴として高スコア
+
+### 分析サマリー (22:30)
+
+- **Copilot広告挿入が871ptでデイリー最高スコア更新**: 本日の結論は「AIがユーザーのコードに広告を挿入した」事件。深夜欧米タイムゾーンでも拡散が止まらない
+- **「AIバブル崩壊」が新規140ptランクイン**: 今日のCopilot・ChatGPT批判の文脈で登場。技術者コミュニティがAI産業の持続可能性に疑問を持ち始めている
+- **本日最終スコアランキング（AI）**: (1) Copilot広告 871pt (2) ChatGPT/Cloudflare監視 768pt (3) AI顔認識誤逮捕 412pt (4) Miasma 324pt
+- **Voyager 1が594pt**: 非AIレトロ技術記事がAI批判記事と肩を並べる。「シンプル・信頼・耐久性」vs「隠密監視・広告挿入」の対比が今日のHNの象徴
+- **Coding Agentsが213コメント**: スコア221に対し213コメントはほぼ1:1比率。非常に活発な議論。Falcon Platform方向性への共感が深い
+- **Falcon Platform最終示唆**: (1)Copilot事件がデイリートップ→「ユーザー成果物の汚染ゼロ」は絶対要件 (2)AIバブル崩壊論登場→過剰期待への反動。地に足ついたAIツールが生き残る (3)Coding Agents深議論→個人開発者強化というビジョンに最も共感が集まっている
