@@ -53,6 +53,31 @@
 - **重要度**: 中 - 特殊用途モデルの進歩
 - **含意**: 汎用LLMだけでなく、特化型モデルのエコシステムが広がる
 
+### 01:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 続報 (1079pts, 591 comments ↑)
+- スコアが00:30の934pts→1079ptsに上昇。コメントも591に増加
+- HNトップ2位にランクイン（全体）
+- 議論が活発化している
+
+#### Agents of Chaos (127pts, 18 comments) - 新規
+- **URL**: https://agentsofchaos.baulab.info/report.html
+- **内容**: AIエージェントのセキュリティリスクに関する研究レポート
+- **重要度**: 高 - エージェント実行基盤の安全性に直結
+- **含意**: Fuyajoのエージェント実行環境のサンドボックス設計に参考
+
+#### Mr. Chatterbox - ビクトリア時代倫理モデル (76pts, 45 comments)
+- **URL**: https://simonwillison.net/2026/Mar/30/mr-chatterbox/
+- **内容**: 倫理的にトレーニングされたビクトリア時代スタイルのモデル
+- **重要度**: 低〜中 - AI倫理・キャラクター設計の事例
+- **含意**: AI人格設計への関心。Falcon AI Agentのアイデンティティ設計の参考
+
+#### Microsoft Copilot「エンターテインメント目的のみ」免責 (98pts, 49 comments)
+- **URL**: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse
+- **内容**: MicrosoftがCopilotの利用規約に「エンターテインメント目的のみ」と明記
+- **重要度**: 中 - AI企業の法的責任回避の動き
+- **含意**: AI信頼性への懸念が法的側面に波及。Fuyajoの利用規約設計に参考
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
