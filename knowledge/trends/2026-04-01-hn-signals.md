@@ -93,6 +93,44 @@
 #### Oracle 3万人解雇 (567pts, 455 comments ↑)
 - スコアが153pts→567ptsに急上昇。関心が高まっている
 
+### 03:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 継続上昇 (1407pts, 732 comments ↑)
+- 00:30の934pts → 01:30の1079pts → 02:30の1200pts → 03:30の1407ptsと加速
+- HN全体トップ1位に到達（TOP）
+- 分析ブログも登場：「fake tools, frustration regexes, undercover mode」が話題
+
+#### Claude Code漏洩の技術分析ブログ (31pts, 3 comments) - 新規
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- **内容**: 漏洩ソースコードの詳細分析 - フェイクツール、フラストレーション検知regex、アンダーカバーモード
+- **重要度**: 最高 - Claude Codeの内部実装が明らかに
+- **含意**: Claudeの内部動作（感情検知、隠れ機能）が公開された。Falcon AIエージェント設計の参考
+
+#### Axios NPM汚染 TOP STORY継続 (1659pts, 650 comments ↑)
+- スコアは最高値を更新（1405pts→1589pts→1659pts）
+- 引き続き活発な議論
+
+#### Ollama MLX on Apple Silicon (566pts, 288 comments ↑)
+- 00:30の481pts→03:30の566ptsに上昇
+- Apple Silicon + MLXによるローカルLLM加速が注目
+
+#### Universal Claude.md (424pts, 152 comments ↑)
+- 00:30の390pts→424ptsに上昇。実用性への関心継続
+
+#### GitHub Copilot PR広告撤回 (524pts, 308 comments ↑)
+- 441pts→524ptsに上昇。開発者コミュニティの反発が持続
+
+#### Clojure: The Documentary 公式トレーラー (310pts, 65 comments) - 新規
+- **URL**: https://www.youtube.com/watch?v=JJEyffSdBsk
+- **重要度**: 低〜中 - プログラミング文化の関心事
+- **含意**: 関数型言語・不変性への再評価の流れ
+
+#### 「Good code will still win」(31pts, 57 comments) - 新規
+- **URL**: https://www.greptile.com/blog/ai-slopware-future
+- **内容**: AI生成の「スロップウェア」に対して良いコードが勝つという主張
+- **重要度**: 中 - AI時代のソフトウェア品質論争
+- **含意**: AIコード生成への反動が始まっている。品質重視のFuyajoポジショニングに好機
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
