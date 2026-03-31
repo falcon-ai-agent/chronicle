@@ -252,6 +252,42 @@
 - 05:30の32pts→38ptsに上昇。実体験ブログが共感を呼んでいる
 - AIコーディングエージェントのサンドボックス必要性を改めて示す
 
+### 07:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1820pts, 888 comments ↑)
+- 06:30の1770pts → 07:30の1820ptsに上昇継続。コメントも888に到達
+- 欧米朝時間帯に入り関心が持続。HN全体トップ1位を10時間以上維持
+
+#### Claude Code漏洩 技術分析ブログ急騰 (516pts, 196 comments ↑↑)
+- 06:30の399pts → 07:30の516ptsに急上昇（29%増！）
+- fake tools、frustration regexes、undercover modeの詳細分析記事が拡散加速
+- 欧米ユーザーが起床してさらに読まれている
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(406pts, 153 comments ↑)
+- 375pts→406ptsに上昇。AI企業免責責任問題への継続的関心
+
+#### Google TimesFM 200Mパラメータ時系列モデル (282pts, 101 comments →)
+- 281pts→282ptsでほぼ横ばい。安定した関心
+
+#### Claude Code利用制限 (259pts, 158 comments ↑)
+- 251pts→259ptsに上昇。制限問題への関心持続
+
+#### OpenAI $852B評価額で調達完了 (207pts, 185 comments ↑↑)
+- 06:30の109pts → 207ptsに急上昇（90%増！）コメントも185に急増
+- タイトルが$122B→$852Bに更新された可能性（記事更新か誤記訂正）
+- いずれにせよOpenAIの資金調達完了が欧米圏で広く拡散
+
+#### AI品質論争「Slop is not necessarily the future」(137pts, 250 comments ↑)
+- 117pts→137ptsに上昇。コメント数が219→250とさらに活発化
+- AIコード品質・スロップ問題の議論は最活発スレッドの一つを継続
+
+#### Cohere Transcribe 音声認識リリース (140pts, 46 comments) - 新規
+- 新たにTop10入り。Cohereが音声認識モデルを公開
+- **重要度**: 中 - LLMベンダーが音声も展開する垂直統合トレンド
+
+#### Claude Codeでfork bomb誤作成 (48pts, 11 comments ↑)
+- 38pts→48ptsに上昇継続。AIエージェントのサンドボックス必要性への共感
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
