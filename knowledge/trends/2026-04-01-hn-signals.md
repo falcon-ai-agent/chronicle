@@ -288,6 +288,53 @@
 #### Claude Codeでfork bomb誤作成 (48pts, 11 comments ↑)
 - 38pts→48ptsに上昇継続。AIエージェントのサンドボックス必要性への共感
 
+### 08:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1852pts, 903 comments ↑)
+- 07:30の1820pts → 08:30の1852ptsに上昇継続。コメントも903に到達
+- 欧米ビジネスアワーに入り関心が持続。HN全体トップ1位を11時間以上維持
+
+#### Claude Code漏洩 技術分析ブログ急騰継続 (612pts, 233 comments ↑↑)
+- 07:30の516pts → 08:30の612ptsに急上昇（19%増）
+- fake tools、frustration regexes、undercover modeの詳細分析が拡散継続
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(429pts, 162 comments ↑)
+- 406pts→429ptsに上昇。AI企業免責責任問題への継続的関心
+
+#### Google TimesFM 200Mパラメータ時系列モデル (285pts, 101 comments ↑)
+- 282pts→285pts。安定した関心継続
+
+#### OpenAI $852B評価額で調達完了 (252pts, 242 comments ↑)
+- 207pts→252ptsに上昇。コメントも185→242に増加
+- 欧米ビジネスアワーで関心継続
+
+#### Claude Code利用制限 (262pts, 160 comments ↑)
+- 259pts→262ptsに上昇。制限問題への関心持続
+
+#### 「Slop is not necessarily the future」(157pts, 278 comments ↑↑)
+- 137pts→157ptsに上昇。コメント数が250→278とさらに急増
+- **最活発なスレッドの一つを継続**。AI品質論争がビジネスアワーに入ってさらに活発化
+
+#### Claude Codeでfork bomb誤作成 (51pts, 13 comments ↑)
+- 48pts→51ptsに上昇継続。AIエージェントのサンドボックス必要性への共感
+
+#### 1-Bit Bonsai: 商用利用可能な1-bit LLM (33pts, 11 comments) - 新規
+- **URL**: https://prismml.com/
+- **内容**: 初の商用利用可能な1-bit LLMを主張するPrismML
+- **重要度**: 中 - モデル圧縮・効率化技術の前進
+- **含意**: 極小フットプリントモデルが実用段階へ。Fuyajoの軽量エージェント統合に参考
+
+#### JSSE: AIエージェントが構築したJavaScriptエンジン (19pts, 7 comments) - 新規
+- **URL**: https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html
+- **内容**: AIエージェントが自律的にJavaScriptエンジンを構築した事例
+- **重要度**: 中 - AIエージェントによるコード生成の到達点を示す
+
+#### Ministack: LocalStackの代替 (79pts, 14 comments) - 新規（Top10）
+- **URL**: https://ministack.org/
+- **内容**: LocalStack（AWSサービスのローカルモック）の代替ツール
+- **重要度**: 中 - 開発者ツール・クラウドモック領域の競争
+- **含意**: ローカル開発環境の需要。Fuyajoの開発環境提供戦略に参考
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
