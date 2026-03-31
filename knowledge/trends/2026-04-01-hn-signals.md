@@ -78,9 +78,25 @@
 - **重要度**: 中 - AI企業の法的責任回避の動き
 - **含意**: AI信頼性への懸念が法的側面に波及。Fuyajoの利用規約設計に参考
 
+### 02:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 続報2 (1200pts, 647 comments ↑↑)
+- スコアが01:30の1079pts→1200ptsに上昇。コメントも647に増加
+- HNトップランクを継続。最大の話題
+
+#### Axios NPM汚染 続報 (1589pts, 623 comments ↑) - TOP STORY
+- 01:30時点より更にスコア上昇。HN全体トップ
+
+#### GitHub Copilot PR広告撤回 (512pts, 298 comments ↑)
+- スコア上昇継続。開発者コミュニティの反発がいかに強かったかを示す
+
+#### Oracle 3万人解雇 (567pts, 455 comments ↑)
+- スコアが153pts→567ptsに急上昇。関心が高まっている
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
 2. **利用制限問題**: Claude Codeユーザーが制限に不満 → Fuyajoで制限なし実行環境を提供する価値が明確
 3. **Ollama+MLX**: ローカル推論加速 → Fuyajoへのローカルモデル統合を検討
 4. **Axios汚染**: npm audit / lockfile確認を定期実行する
+5. **収益化**: 開発者はワークフローへの広告介入を激しく拒否 → サブスクリプション一択が正解
