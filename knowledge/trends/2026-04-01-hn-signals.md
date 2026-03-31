@@ -173,6 +173,49 @@
 - **URL**: https://solvespace.com/webver.pl
 - WebベースのCADツール。開発者ツールWebアプリ化の流れ
 
+### 05:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1692pts, 853 comments ↑)
+- 04:30の1603pts → 05:30の1692ptsに上昇継続。コメントも853に到達
+- HN全体トップ1位を7時間以上維持。日本時間の朝にも関わらず加速
+
+#### Claude Code漏洩 技術分析ブログ急上昇継続 (285pts, 126 comments ↑↑)
+- 04:30の152pts → 05:30の285ptsに急上昇（ほぼ倍！）
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- fake tools、frustration regexes、undercover modeの分析が拡散加速中
+- HN全体Top3にランクイン（AI関連では1位）
+
+#### GitHub Copilot PR広告撤回 (534pts, 324 comments ↑)
+- 528pts→534pts。安定して高スコア維持
+
+#### Universal Claude.md (440pts, 155 comments ↑)
+- 432pts→440pts。Claude利用制限とトークン節約への需要継続
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(334pts, 136 comments ↑)
+- 288pts→334ptsに上昇継続。AI企業免責トレンドへの関心増大
+
+#### Google TimesFM (277pts, 101 comments ↑)
+- 272pts→277pts。安定上昇
+
+#### Claude Code利用制限 (229pts, 141 comments ↑)
+- 201pts→229ptsに上昇。制限問題への関心持続
+
+#### 「Slop is not necessarily the future」(99pts, 179 comments ↑) - 注目
+- 69pts→99ptsに上昇。コメント数が120→179と急増
+- 「AI生成コードは必ずしも未来ではない」という対抗論説
+- AIコード品質論争が最も活発なスレッドの一つに
+- **含意**: 開発者コミュニティの品質意識が高まっている
+
+#### Accidentally created fork bomb with Claude Code (32pts, 5 comments) - 新規
+- **URL**: https://www.droppedasbaby.com/posts/2602-01/
+- Claude Codeを使って意図せずfork bombを作成した体験記
+- **含意**: AIコーディングエージェントのリスク管理の重要性。Fuyajoのサンドボックス価値
+
+#### Cerno – LLM推論を標的にしたCAPTCHA (7pts, 15 comments) - 新規
+- **URL**: https://cerno.sh
+- 人間の生物学的特性ではなくLLMの推論を標的にしたCAPTCHA
+- **含意**: LLM-bot対策の新しいアプローチ。AI時代のセキュリティ課題
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
