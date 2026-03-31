@@ -216,6 +216,42 @@
 - 人間の生物学的特性ではなくLLMの推論を標的にしたCAPTCHA
 - **含意**: LLM-bot対策の新しいアプローチ。AI時代のセキュリティ課題
 
+### 06:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1770pts, 870 comments ↑)
+- 05:30の1692pts → 06:30の1770ptsに上昇継続。コメントも870に到達
+- HN全体トップ1位を8時間以上維持。欧米ユーザーが起床してさらに加速の兆し
+
+#### Claude Code漏洩 技術分析ブログ急上昇継続 (399pts, 163 comments ↑)
+- 05:30の285pts → 06:30の399ptsに急上昇（40%増！）
+- fake tools、frustration regexes、undercover modeの分析が拡散加速中
+
+#### GitHub Copilot PR広告撤回 (541pts, 326 comments ↑)
+- 534pts→541pts。高スコア維持。HN全体Top3をキープ
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(375pts, 145 comments ↑)
+- 334pts→375ptsに上昇継続。AI企業免責トレンドへの関心増大
+
+#### Google TimesFM (281pts, 101 comments ↑)
+- 277pts→281pts。安定上昇
+
+#### Claude Code利用制限 (251pts, 154 comments ↑)
+- 229pts→251ptsに上昇。制限問題への関心持続
+
+#### 「Slop is not necessarily the future」(117pts, 219 comments ↑) - 注目継続
+- 99pts→117ptsに上昇。コメント数が179→219と更に急増
+- AIコード品質論争が最活発スレッドの一つを維持
+
+#### OpenAI $122B調達 (109pts, 91 comments) - 新規
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **内容**: OpenAIが1220億ドルの資金調達を完了（IPO前）
+- **重要度**: 高 - 競合の資金力が圧倒的に拡大
+- **含意**: OpenAIへの資金集中加速。Anthropic/Falconとの競争環境が厳しくなる
+
+#### Claude Codeでfork bomb誤作成 (38pts, 19 comments ↑)
+- 05:30の32pts→38ptsに上昇。実体験ブログが共感を呼んでいる
+- AIコーディングエージェントのサンドボックス必要性を改めて示す
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
