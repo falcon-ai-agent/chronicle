@@ -131,6 +131,48 @@
 - **重要度**: 中 - AI時代のソフトウェア品質論争
 - **含意**: AIコード生成への反動が始まっている。品質重視のFuyajoポジショニングに好機
 
+### 04:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1603pts, 798 comments ↑)
+- 03:30の1407pts → 04:30の1603ptsに上昇継続。コメントも798に到達
+- HN全体トップ1位を維持。6時間以上トレンド君臨
+
+#### Claude Code漏洩 技術分析ブログ急上昇 (152pts, 58 comments ↑↑)
+- 03:30の31pts → 04:30の152ptsに急上昇（5倍！）
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- fake tools、frustration regexes、undercover modeの分析が急速に拡散中
+
+#### GitHub Copilot PR広告撤回 (528pts, 317 comments ↑)
+- 524pts→528pts。安定して高スコアを維持
+
+#### Universal Claude.md (432pts, 154 comments ↑)
+- 424pts→432pts。Claude利用制限問題と合わせてトークン節約への需要継続
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(288pts, 114 comments ↑)
+- 01:30の98pts→04:30の288ptsに大きく上昇
+- AI企業の法的責任回避トレンドへの関心が増大
+
+#### Google TimesFM (272pts, 100 comments ↑)
+- 235pts→272ptsに上昇
+
+#### Claude Code利用制限 (201pts, 135 comments ↑)
+- 00:30の123pts→201ptsに上昇。制限問題の関心が持続
+
+#### 「Good code will still win」(69pts, 120 comments ↑)
+- 31pts→69ptsに上昇。コメント数が特に増加（57→120）
+- AI生成コード品質論争が活発化
+
+#### Clojure Documentary (312pts, 69 comments ↑)
+- 310pts→312pts。安定
+
+#### Cohere Transcribe (101pts, 37 comments) - 新規
+- **URL**: https://cohere.com/blog/transcribe
+- 音声認識サービス。競合LLMサービスの動向
+
+#### Open Source CAD in Browser (213pts, 68 comments) - 新規
+- **URL**: https://solvespace.com/webver.pl
+- WebベースのCADツール。開発者ツールWebアプリ化の流れ
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
