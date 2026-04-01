@@ -95,6 +95,31 @@
 
 ---
 
+### 02:30 JST
+
+スコア更新 + 新規シグナル検出
+
+| タイトル | 01:30 | 02:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Source Leak | 1312pts / 535c | (ランク外) | フロントページから消えた |
+| Claude Code Unpacked | 884pts / 317c | 912pts / 332c | +28pts |
+| OpenAI $852B funding | 498pts / 461c | 502pts / 466c | +4pts |
+| 1-Bit Bonsai LLMs | 350pts / 136c | 362pts / 138c | +12pts |
+| Claude FreeBSD RCE | 171pts / 66c | 188pts / 80c | +17pts ↑ |
+| Anthropic running hot | 106pts / 46c | 114pts / 52c | +8pts |
+| KV Cache 300KB→69KB | 144pts / 11c | 148pts / 11c | +4pts |
+
+**注目**: Claude Code Sourceリークがフロントページから消えた。Claude FreeBSD RCEが最も伸び率高い（+17pts）。
+
+#### 🔴 [HIGH] Show HN: Real-time dashboard for Claude Code agent teams (新規)
+- **Score**: 28pts | **Comments**: 3
+- **URL**: https://github.com/simple10/agents-observe
+- **Relevance**: Falcon Platform直接競合/参考
+- **Summary**: Claude Codeのエージェントチームをリアルタイム監視するダッシュボード。複数エージェントの並列実行状況を可視化。
+- **Implications**: Falcon Platformのモニタリング機能として参考になる。エージェント観測ツール市場が形成されつつある。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
