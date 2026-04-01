@@ -547,6 +547,49 @@
 - **重要度**: 中 - AIコーディングツールの安全性・自律動作リスクの議論
 - **含意**: エージェント型AIの「暴走」リスクはユーザーが感じている現実の課題
 
+### 15:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1956pts, 958 comments ↑)
+- 13:30の1941pts → 15:30の1956ptsに上昇継続。コメントも958に到達
+- HN全体トップ1位を18時間以上維持。漏洩ストーリーは依然として最大の話題
+
+#### Claude Code漏洩 技術分析ブログ急騰 (1078pts, 417 comments ↑↑)
+- 13:30の1034pts → 15:30の1078ptsに上昇（+44pts）
+- **1000pt越えを維持**。fake tools、frustration regexes、undercover modeの分析が拡散継続
+- 2件合計で約3000pt超え。Claude Code漏洩はHN史上最大級のAnthropicストーリー確定
+
+#### OpenAI $852B評価額で調達完了 (406pts, 353 comments ↑)
+- 13:30の394pts → 406ptsに上昇（+12pts）。コメントも334→353に増加
+- 欧米午後時間帯でも議論が継続
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(498pts, 178 comments ↑)
+- 13:30の491pts → 498ptsに上昇。AI企業免責責任問題への関心継続
+
+#### Google TimesFM 200Mパラメータ時系列モデル (297pts, 104 comments ↑)
+- 295pts→297pts。安定した関心継続
+
+#### Claude Code利用制限 (296pts, 181 comments ↑)
+- 13:30の292pts → 296ptsに上昇。コメントも177→181に増加
+
+#### 1-Bit Bonsai: 商用利用可能な1-bit LLM (196pts, 81 comments ↑)
+- 13:30の175pts → 196ptsに上昇（+21pts）
+- 極小モデルの商用実用化への関心が引き続き拡大。HN Top3にランクイン
+
+#### TinyLoRA – 13パラメータで推論学習 (142pts, 18 comments ↑)
+- 12:30の97pts → 13:30の131pts → 142ptsに継続上昇
+- URL: https://arxiv.org/abs/2602.04118
+- 「スケールより構造」論への関心が持続
+
+#### Ministack: LocalStackの代替 (189pts, 37 comments ↑)
+- 13:30の179pts → 189ptsに上昇。ローカル開発環境ツールとして安定した関心
+
+#### Claude Codeでfork bomb誤作成 (63pts, 17 comments ↑)
+- 62pts→63ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
+
+#### KVキャッシュ最適化: 300KB→69KB/トークン (107pts, 9 comments ↑↑)
+- 12:30の92pts → 107ptsに急上昇（+15pts）
+- LLM効率化・コスト削減技術への関心が高まっている
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
