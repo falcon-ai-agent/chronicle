@@ -713,3 +713,76 @@
 2. **Claude Code Unpacked新登場**: 「中身を知りたい」需要が高い → Fuyajoもエージェント実行の可視化（ログ・トレース公開）を差別化要素にすべき
 3. **1-Bit Bonsai加速（+35%）**: 超軽量モデルの商用化が現実味を帯びてきた。Infra Agent LLM開発の方向性（Qwen2.5-3B 4bit量子化）と合致
 4. **Microsoft免責責任510pts**: 「AIは責任を負わない」という大手の後退 → Fuyajoが「信頼できる実行基盤」として責任を持つポジションに好機
+
+## HN Signals 17:30 JST
+
+### スキャン概要
+- AI関連: 14件
+- トップ10: 10件
+- 重要シグナル（300+）: 4件
+
+### 重要シグナル（スコア300+）
+
+#### Claude Code Source Leak - 1145pts, 454comments 🚨 最重要（継続）
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- **前回比**: 1111pts(16:30) → 1145pts(17:30)（+34pts）コメントも439→454
+- 欧米午後時間帯でも継続上昇。HN全体トップ1位を17時間以上維持
+- fake tools、frustration regexes、undercover modeの分析記事が依然拡散中
+
+#### Microsoft Copilot "entertainment only" - 516pts, 184comments ⚡
+- **前回比**: 510pts(16:30) → 516pts(17:30)（+6pts）
+- AI責任回避問題として定着。コメントは184で安定
+
+#### OpenAI $852B調達完了 - 431pts, 374comments 🔥
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **前回比**: 420pts(16:30) → 431pts(17:30)（+11pts）コメントも365→374
+- 欧米午後でも議論継続
+
+#### Google TimesFM 時系列基盤モデル - 300pts, 104comments
+- **前回比**: 299pts(16:30) → 300pts(17:30)（+1pt）
+- **300pt到達**。安定した関心継続
+
+### 注目シグナル（急上昇）
+
+#### Claude Code Unpacked 急上昇 - 287pts, 55comments 🚀
+- **URL**: https://ccunpacked.dev/
+- **前回比**: 186pts(16:30) → 287pts(17:30)（**+101pts！54%増**）
+- HN全体トップ10入り（全ジャンル1位）。Claude Code漏洩の流れでClaude Code内部への関心が爆発的に拡大
+- **含意**: Claude Codeの透明性・内部動作への需要が明確。Fuyajoの可視化戦略を加速すべき
+
+#### 1-Bit Bonsai: 商用1-bit LLM - 234pts, 98comments ↑
+- **URL**: https://prismml.com/
+- **前回比**: 220pts(16:30) → 234pts(17:30)（+14pts）
+- 商用1-bit LLMへの関心が着実に拡大。HN全体Top10入り
+
+#### KVキャッシュ最適化 300KB→69KB/トークン - 120pts, 9comments ↑
+- **前回比**: 114pts(16:30) → 120pts(17:30)（+6pts）
+- LLM効率化技術への継続的関心
+
+#### Claude Codeでfork bomb誤作成 - 68pts, 18comments ↑
+- **前回比**: 67pts(16:30) → 68pts(17:30)（+1pt）
+- AIエージェントのサンドボックス必要性への共感が持続
+
+#### TinyLoRA – 13パラメータで推論学習 - 163pts, 19comments ↑（HN全体Top10入り）
+- **URL**: https://arxiv.org/abs/2602.04118
+- **前回比**: 前回未記録 → 163ptsで全体Top10に浮上
+- 「スケールより構造」論への関心が本格化。超効率的モデル研究の注目度急上昇
+
+#### Ministack (LocalStack代替) - 212pts, 40comments ↑（HN全体Top10入り）
+- **URL**: https://ministack.org/
+- **前回比**: 不明 → 212ptsで全体Top10に浮上
+- ローカルクラウドモック環境ツールとして定着しつつある
+
+### 新規エントリ
+
+#### Show HN: Claude Code rewritten as a bash script - 14pts, 1comment
+- **URL**: https://github.com/jdcodes1/claude-sh
+- Claude CodeをBashスクリプトで再実装した試み
+- **含意**: Claude Code漏洩でソース関心が高まる中、代替実装への関心も生まれている
+
+### 17:30 Falcon Platform戦略示唆
+
+1. **Claude Code Unpacked +101pts急上昇**: Claude Code内部への「知的好奇心」が今日最大のトレンドの一つに。Fuyajoのエージェント実行ログ・トレース公開は差別化になる
+2. **漏洩ストーリー1145pts継続**: 17時間以上トップ維持。Anthropicへの信頼問題は長期化する可能性。オープンな設計方針がFuyajoの強みになる
+3. **TinyLoRA/1-Bit Bonsai両方Top10**: 超軽量・高効率モデルへの関心がメインストリームに。Infra Agent LLMのQLoRA路線は市場トレンドと合致
+4. **Ministack (LocalStack代替) Top10**: ローカル開発環境ツール市場が活況。Fuyajoの開発環境提供（VM + AI）はこの需要を捉えられる
