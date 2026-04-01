@@ -598,6 +598,61 @@
 4. **Axios汚染**: npm audit / lockfile確認を定期実行する
 5. **収益化**: 開発者はワークフローへの広告介入を激しく拒否 → サブスクリプション一択が正解
 
+### 21:30 JST
+
+#### Claude Code Unpacked - 580pts, 175comments 🚀 HN全体1位浮上
+- **URL**: https://ccunpacked.dev/
+- **前回比**: 504pts(20:30) → 580pts(21:30)（**+76pts、15%増**）
+- **HN全体1位に到達**。Claude Code内部の可視化ガイドが漏洩事件の余波で最大のコンテンツに
+- **含意**: Anthropicの透明性不足を補う需要が爆発。Fuyajoの可視化戦略は最優先
+
+#### CRITICAL: Claude Code Source Leak - 1229pts, 500comments ↑（継続）
+- **前回比**: 1211pts(20:30) → 1229pts(21:30)（+18pts）コメントも490→500
+- 21時間以上HN全体最上位圏を維持。コメント500突破
+- fake tools、frustration regexes、undercover modeの分析が拡散継続
+- 4月1日（エイプリルフール）にもかかわらず、昨日から継続の本物のストーリー
+
+#### OpenAI $852B調達完了 - 467pts, 411comments ↑
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **前回比**: 459pts(20:30) → 467pts(21:30)（+8pts）コメントも407→411
+- 欧米夜間でも議論継続
+
+#### Google TimesFM 200Mパラメータ時系列モデル - 303pts, 105comments ↑
+- **前回比**: 302pts(20:30) → 303pts(21:30)（+1pt）
+- 安定した300pt超えを維持
+
+#### 1-Bit Bonsai: 商用1-bit LLM - 299pts, 119comments ↑
+- **URL**: https://prismml.com/
+- **前回比**: 282pts(20:30) → 299pts(21:30)（+17pts）
+- 300pt目前。HN全体Top4位。商用超軽量LLMへの関心が継続拡大
+
+#### Claude Wrote FreeBSD RCE (CVE-2026-4747) - 83pts, 29comments ↑↑
+- **URL**: https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md
+- **前回比**: 66pts(20:30) → 83pts(21:30)（+17pts、26%増）
+- ClaudeによるFreeBSD RCEエクスプロイト記述事例が急上昇継続
+- **含意**: AIによるセキュリティリスクが技術者コミュニティに認知された。Fuyajoのサンドボックス価値が増す
+
+#### KVキャッシュ最適化 300KB→69KB/トークン - 140pts, 11comments ↑
+- **前回比**: 138pts(20:30) → 140pts(21:30)（+2pts）
+- LLM効率化技術への継続的関心
+
+#### Claude Codeでfork bomb誤作成 - 70pts, 18comments ↑
+- **前回比**: 69pts(20:30) → 70pts(21:30)（+1pt）
+- AIエージェントのサンドボックス必要性への共感継続
+
+#### NEW: Anthropic、Claude Codeリポジトリをオープンソース化 - 7pts, 4comments
+- **URL**: https://github.com/anthropics/claude-code
+- **内容**: ソースコード漏洩後にAnthropicがClaude Codeをオープンソース化したとされる投稿
+- **重要度**: 要注意（エイプリルフール可能性高い） - 今日は4/1。スコアが低く信憑性低
+- **含意**: 仮に本当であれば最大ニュース。確認待ち
+
+### 21:30 Falcon Platform戦略示唆
+
+1. **Claude Code Unpacked HN全体1位（580pts）**: 20:30の504pts→580ptsに急上昇。Claude Code漏洩事件から派生したコンテンツが独自のトップストーリーに成長。「内部可視化」へのニーズがピーク
+2. **1-Bit Bonsai 300pt目前**: 軽量LLMの商用実用化が本格的にHNメインストリームの関心事に。Infra Agent LLMの方向性（Qwen2.5-3B量子化）と完全一致
+3. **FreeBSD RCE +26%急上昇**: AIによるexploit生成が具体的CVEとして認知拡大。Fuyajoのサンドボックス・権限分離設計が競合差別化のキーポイント
+4. **4/1エイプリルフール注意**: 本日のHNには「Anthropic OSSリリース」等の低スコア投稿あり。今日のニュースは真偽確認を徹底すること
+
 ---
 
 ## HN Signals 13:30 JST
