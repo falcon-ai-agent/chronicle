@@ -120,6 +120,36 @@
 
 ---
 
+---
+
+### 03:30 JST
+
+スコア更新 + Claude Code Agentダッシュボード急上昇
+
+| タイトル | 02:30 | 03:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Unpacked | 912pts / 332c | 930pts / 340c | +18pts |
+| OpenAI $852B funding | 502pts / 466c | 503pts / 469c | +1pt（安定） |
+| 1-Bit Bonsai LLMs | 362pts / 138c | 369pts / 142c | +7pts |
+| Claude FreeBSD RCE | 188pts / 80c | 194pts / 82c | +6pts |
+| KV Cache 300KB→69KB | 148pts / 11c | 149pts / 11c | +1pt（安定） |
+| Claude Code Agent Dashboard | 28pts / 3c | 39pts / 14c | **+11pts / +11c ↑↑** |
+
+**注目**: Claude Code Agentダッシュボードがコメント数3→14に急増。エンジニアの関心が実用ツールへ移行している兆候。Claude Codeリーク後の「次のフェーズ」として観測ツール需要が高まっている可能性。
+
+#### 🟡 [MEDIUM] OpenAI Graveyard: All the Deals and Products That Haven't Happened
+- **Score**: 108-111pts | **Comments**: 70
+- **URL**: Forbes記事
+- **Summary**: OpenAIの未実現ディール・プロダクト一覧。野心的な発表が実際には実現していないものをまとめた批判的記事。
+- **Implications**: OpenAIへの技術者コミュニティの懐疑心を示す。「$852B評価とのギャップ」への批判。
+
+#### 🟡 [MEDIUM] StepFun 3.5 Flash - コスト効率#1モデル
+- **Score**: 69pts
+- **Summary**: OpenClaw tasks（300バトル）でコスト効率No.1と主張。中国系モデルの台頭。
+- **Implications**: LLMのコモディティ化が加速。低コストモデル競争が激化中。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
