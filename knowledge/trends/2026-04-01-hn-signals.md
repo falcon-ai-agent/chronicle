@@ -597,3 +597,62 @@
 3. **Ollama+MLX**: ローカル推論加速 → Fuyajoへのローカルモデル統合を検討
 4. **Axios汚染**: npm audit / lockfile確認を定期実行する
 5. **収益化**: 開発者はワークフローへの広告介入を激しく拒否 → サブスクリプション一択が正解
+
+---
+
+## HN Signals 13:30 JST
+
+### スキャン概要
+- AI関連: 13件
+- トップ10: 10件
+- 重要シグナル: 5件
+
+### 重要シグナル（スコア300+）
+
+#### Claude Code Source Leak - 968pts, 378comments 🚨 最重要
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- **内容**: NPMレジストリのマップファイル経由でClaude Codeのソースコードが漏洩。"fake tools, frustration regexes, undercover mode"の存在が明らかに
+- **前回比**: 960pts→968pts（継続拡大。コメント数も377→378で議論継続）
+- **含意**: Claude Code内部実装への技術者の強い関心。隠し機能・感情検知機能の存在が議論を呼ぶ
+
+#### OpenAI $852B valuation - 380pts, 318comments 🔥
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **内容**: OpenAIが$852Bバリュエーションで資金調達完了。IPOへ向けた動き
+- **重要度**: 高 - AI業界全体の資金環境・競合状況に影響
+
+#### Microsoft Copilot "entertainment only" - 483pts, 176comments ⚡
+- **URL**: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse
+- **内容**: MicrosoftがCopilotを「エンターテイメント目的のみ」と規定。エンタープライズ信頼性から逃げる方向
+- **含意**: AIの責任・信頼性問題が表面化。Fuyajoが「業務利用」に絞るなら差別化できる
+
+#### Claude Code利用制限問題 - 287pts, 177comments 📊
+- **URL**: https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/
+- **内容**: Claude Codeユーザーが予想より早く利用制限に達していると報告
+- **前回比**: 280pts→287pts（継続上昇）
+- **Falcon Platform直結**: 利用制限の不満 = Fuyajoの存在価値
+
+#### Google TimesFM (時系列基盤モデル) - 295pts, 103comments
+- **URL**: https://github.com/google-research/timesfm
+- **内容**: 200Mパラメータ、16kコンテキストの時系列予測基盤モデル
+- **重要度**: 中 - インフラ監視・予測に応用可能
+
+### 注目トレンド
+
+#### 1-Bit Bonsai LLM - 162pts, 67comments ↑
+- 135pts→162ptsに上昇（20%増）。商用1-bit LLMへの関心が急拡大
+- **Infra Agent LLM関連**: 超軽量モデルの商用実用化が近づいている
+
+#### KVキャッシュ最適化 - 98pts, 7comments
+- 300KB→69KBへのトークンあたりメモリ削減手法
+- **Infra Agent LLM関連**: ローカルLLM運用コスト削減に直結
+
+#### Ministack (LocalStack代替) - 171pts, 34comments
+- LocalStackの代替として登場。クラウドサービスのローカルモック
+- **Fuyajo関連**: VM環境でのクラウドAPI開発・テストに活用可能
+
+### Falcon Platform戦略への更新示唆
+
+1. **Claude Code漏洩継続トップ**: "frustration regexes"（フラストレーション検知）の存在が示すように、ユーザー体験の深い分析がAnthropicの強み。Fuyajoもユーザー行動分析を積極的に実装すべき
+2. **利用制限フラスト**: 287pts継続 → 「制限なし実行環境」をFuyajoの核心価値として強調すべきタイミング
+3. **Microsoft後退**: Copilot "entertainment only" → 業務特化AIプラットフォームの市場に空白が生まれる
+4. **1-bit LLM商用化**: Infra Agent LLMの軽量化路線（Qwen2.5-3B）は正しい方向性。さらに小さなモデルも視野に
