@@ -237,6 +237,32 @@
 
 ---
 
+### 07:30 JST
+
+スコア更新 + EmDash圏外・新規シグナル検出
+
+| タイトル | 06:30 | 07:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Unpacked | 1010pts / 354c | **1018pts / 356c** | +8pts（安定） |
+| EmDash (Cloudflare) | 388pts / 279c | （圏外） | フロントページ離脱 |
+| OpenAI Graveyard | 188pts / 144c | 201pts / 153c | +13pts / +9c ↑ |
+| Claude FreeBSD RCE | 224pts / 100c | 232pts / 100c | +8pts |
+| StepFun 3.5 Flash | 107pts / 48c | 121pts / 54c | **+14pts ↑↑** |
+| AI Marketing BS Index | 64pts / 8c | 78pts / 15c | +14pts / +7c ↑↑ |
+| Claude Code Agent Dashboard | 60pts / 22c | 65pts / 23c | +5pts |
+| Git bayesect (Top) | 117pts / 13c | **141pts / 18c** | **+24pts ↑↑** |
+
+**注目**: EmDashがフロントページから消えた。Git bayesectが+24ptsと最も急成長（開発者ツール需要の高さ）。StepFunとAI Marketing BS Indexが同率+14pts急増。
+
+#### 🟡 [MEDIUM] AI for American-Produced Cement and Concrete（新規）
+- **Score**: 117pts | **Comments**: 100
+- **URL**: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/
+- **Relevance**: AI応用（物理インフラ）
+- **Summary**: MetaがAIを使ってデータセンター建設用のセメント・コンクリートを米国産に切り替えるプロジェクト。材料科学へのAI適用。
+- **Implications**: AIが純粋なソフトウェア領域を超え、物理インフラの最適化にも浸透。サプライチェーン・素材最適化でのAI需要が拡大中。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
