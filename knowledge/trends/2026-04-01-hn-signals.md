@@ -413,6 +413,51 @@
 #### Claude Codeでfork bomb誤作成 (57pts, 15 comments ↑)
 - 55pts→57ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
 
+### 11:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1903pts, 937 comments ↑)
+- 10:30の1886pts → 11:30の1903ptsに上昇継続。コメントも937に到達
+- HN全体トップ1位を14時間以上維持。欧米ビジネスアワー本格稼働
+
+#### Claude Code漏洩 技術分析ブログ急騰継続 (837pts, 344 comments ↑↑)
+- 10:30の753pts → 11:30の837ptsに急上昇（11%増）
+- fake tools、frustration regexes、undercover modeの分析が拡散継続
+- HN全体Top1にランクアップ（AI関連で単独首位）
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(469pts, 170 comments ↑)
+- 459pts→469ptsに上昇。AI企業免責責任問題への関心継続
+
+#### OpenAI $852B評価額で調達完了 (336pts, 296 comments ↑)
+- 319pts→336ptsに上昇。コメントも286→296に増加
+
+#### Google TimesFM 200Mパラメータ時系列モデル (294pts, 102 comments ↑)
+- 291pts→294pts。安定した関心継続
+
+#### Claude Code利用制限 (279pts, 173 comments ↑)
+- 275pts→279ptsに上昇。コメントも167→173に増加
+
+#### 1-Bit Bonsai: 商用利用可能な1-bit LLM (106pts, 46 comments ↑↑)
+- 83pts → 106ptsに急上昇（28%増）。HN全体Top6にランクアップ
+- 極小モデルの商用実用化への関心が引き続き拡大
+
+#### Ministack: LocalStackの代替 (145pts, 28 comments ↑)
+- 123pts→145ptsに上昇。ローカル開発環境ツールとして注目継続
+
+#### Claude Codeでfork bomb誤作成 (60pts, 15 comments ↑)
+- 57pts→60ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
+
+#### TinyLoRA – 13パラメータで推論学習 (72pts, 7 comments) - 新規
+- **URL**: https://arxiv.org/abs/2602.04118
+- **内容**: わずか13パラメータで推論能力を持つモデルの研究
+- **重要度**: 中 - 超効率的モデルへの関心。理論的限界探索
+- **含意**: LLMの推論能力はスケールだけでなく構造に依存する可能性
+
+#### KVキャッシュ最適化: 300KB→69KB/トークン (89pts, 6 comments) - 新規
+- **URL**: https://news.future-shock.ai/the-weight-of-remembering/
+- **内容**: LLMアーキテクチャがKVキャッシュ問題を解決する方法の解説
+- **重要度**: 中高 - LLM効率化の技術的進歩
+- **含意**: KVキャッシュ圧縮技術が成熟しつつある。長文脈処理コストの削減に直結
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
