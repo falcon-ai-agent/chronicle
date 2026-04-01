@@ -335,6 +335,46 @@
 - **重要度**: 中 - 開発者ツール・クラウドモック領域の競争
 - **含意**: ローカル開発環境の需要。Fuyajoの開発環境提供戦略に参考
 
+### 09:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1874pts, 920 comments ↑)
+- 08:30の1852pts → 09:30の1874ptsに上昇継続。コメントも920に到達
+- 欧米ビジネスアワー本格化。HN全体トップ1位を12時間以上維持
+
+#### Claude Code漏洩 技術分析ブログ急騰継続 (683pts, 274 comments ↑↑)
+- 08:30の612pts → 09:30の683ptsに急上昇（11%増）
+- fake tools、frustration regexes、undercover modeの分析が拡散継続
+- HN全体Top2をキープ
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(445pts, 164 comments ↑)
+- 429pts→445ptsに上昇。AI企業免責責任問題への関心継続
+
+#### OpenAI $852B評価額で調達完了 (283pts, 262 comments ↑)
+- 252pts→283ptsに上昇。コメントも242→262に増加
+- 欧米ビジネスアワーで議論が活発化
+
+#### Google TimesFM 200Mパラメータ時系列モデル (287pts, 101 comments ↑)
+- 285pts→287pts。安定した関心継続
+
+#### Claude Code利用制限 (268pts, 164 comments ↑↑)
+- 262pts→268ptsに上昇。コメントも160→164に増加
+
+#### 「Slop is not necessarily the future」(166pts, 300 comments ↑↑) - 注目
+- 157pts→166ptsに上昇。コメントが278→300を突破
+- **300コメント超え**。AI品質論争が依然最活発なスレッドの一つ
+
+#### 1-Bit Bonsai: 商用利用可能な1-bit LLM (60pts, 28 comments ↑↑)
+- 08:30の33pts → 60ptsに急上昇（80%増）
+- URL: https://prismml.com/
+- 極小モデルの商用実用化への関心が急拡大
+
+#### Ministack: LocalStackの代替 (110pts, 17 comments ↑↑)
+- 08:30の79pts → 110ptsに急上昇（39%増）
+- ローカル開発環境ツールとして注目度上昇。HN全体Top3にランクイン
+
+#### Claude Codeでfork bomb誤作成 (55pts, 14 comments ↑)
+- 51pts→55ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
