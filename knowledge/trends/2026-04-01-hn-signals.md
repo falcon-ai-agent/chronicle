@@ -504,6 +504,49 @@
 #### Claude Codeでfork bomb誤作成 (61pts, 16 comments ↑)
 - 60pts→61ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
 
+### 13:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1941pts, 952 comments ↑)
+- 12:30の1914pts → 13:30の1941ptsに上昇継続。コメントも952に到達
+- HN全体トップ1位を16時間以上維持。漏洩は依然として最大の話題
+
+#### Claude Code漏洩 技術分析ブログ急騰 (1034pts, 393 comments ↑↑)
+- 12:30の903pts → 13:30の1034ptsに急上昇（**+131pts、15%増**）
+- **1000pt超え**。fake tools、frustration regexes、undercover modeの分析が引き続き拡散
+- 2件合計で約3000pt。Claude Code漏洩はHN史上最大級のAnthropicストーリー
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(491pts, 177 comments ↑)
+- 12:30の474pts → 491ptsに上昇継続
+- AI企業のリスク回避姿勢がユーザーに露骨に見える形で批判集中
+
+#### OpenAI $852B評価額で調達完了 (394pts, 334 comments ↑)
+- 12:30の362pts → 394ptsに上昇（+32pts）
+- コメントも306→334に増加。持続的な関心
+
+#### Google TimesFM 200Mパラメータ時系列モデル (295pts, 104 comments 横ばい)
+- 294pts → 295pts（ほぼ横ばい）。ピーク過ぎた模様
+
+#### Claude Code利用制限 (292pts, 177 comments ↑)
+- 12:30の283pts → 292ptsに上昇。漏洩問題と並行して不満が継続
+
+#### 新規: 1-Bit Bonsai – 初の商用1-Bit LLM (175pts, 77 comments)
+- **URL**: https://prismml.com/
+- **内容**: 1-Bit LLMとして初めて商用実用レベルに達したと主張するモデル
+- **重要度**: 高 - 超低消費電力・高速推論の可能性。エッジAIへの影響大
+- **含意**: 1-Bit LLMが商用ラインを超えれば、Fuyajoのようなプラットフォームでコスト革命
+
+#### TinyLoRA – 13パラメータで推論学習 (131pts, 12 comments ↑)
+- 12:30の97pts → 131ptsに継続上昇（+34pts）。「スケールより構造」論への関心高まる
+
+#### Ministack: LocalStackの代替 (179pts, 37 comments ↑)
+- 12:30の156pts → 179ptsに上昇（+23pts）。ローカル開発環境ツールとして定着しつつある
+
+#### 新規: Claude Codeでフォークボム誤作成 (62pts, 16 comments)
+- **URL**: https://www.droppedasbaby.com/posts/2602-01/
+- **内容**: Claude Codeが意図せずフォークボムを生成してしまった体験談
+- **重要度**: 中 - AIコーディングツールの安全性・自律動作リスクの議論
+- **含意**: エージェント型AIの「暴走」リスクはユーザーが感じている現実の課題
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
