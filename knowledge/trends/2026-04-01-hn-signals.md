@@ -918,3 +918,50 @@
 2. **漏洩ストーリー1186pts**: 20時間近くHN全体トップ。技術者コミュニティはAIシステムの「隠れた動作」を許容しない。オープンな設計思想がFuyajoの信頼獲得に直結
 3. **1-Bit Bonsai 270pts**: 商用1-bit LLMへの関心が加速。軽量モデルの実用化が近い → Infra Agent LLMの超軽量化（Qwen2.5-3B以下）も視野に入れるべきタイミング
 4. **Claude FreeBSD RCE上昇**: AIによるセキュリティリスクが具体的CVEで示された。Fuyajoのサンドボックス設計・権限分離の重要性が増している
+
+---
+
+## HN Signals 20:30 JST
+
+### スコア変動（前回19:30比）
+
+#### Claude Code Source Leak - 1211pts, 490comments ↑↑
+- **前回比**: ~1186pts(19:30) → 1211pts(20:30)（+25pts）
+- 依然としてHN全体最上位を維持。490コメントに拡大
+
+#### Claude Code Unpacked - 504pts, 140comments ↑
+- **前回比**: 427pts(19:30) → 504pts(20:30)（+77pts、18%増）
+- HN全体1位に浮上。技術者のClaude Code内部実装への関心が最高潮
+
+#### Microsoft Copilot "entertainment purposes only" - 526pts, 188comments ↑↑ (新規急上昇)
+- **URL**: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse
+- **内容**: MicrosoftがCopilotを「エンターテインメント目的のみ」と利用規約で明記
+- **重要度**: 最高 - 大手AIプロダクトの信頼性問題が公式文書で顕在化
+
+#### OpenAI $852B評価額での資金調達完了 - 459pts, 407comments ↑
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **前回比**: 新規確認。459ptsは本日トップクラス
+- OpenAI 8520億ドル評価。技術者コミュニティは懐疑的議論が活発
+
+#### 1-Bit Bonsai LLMs - 282pts, 116comments ↑
+- **前回比**: 270pts(19:30) → 282pts(20:30)（+12pts）
+- 商用1-bit LLM実用化への関心が継続拡大
+
+#### Google TimesFM 200Mパラメータ時系列基盤モデル - 302pts, 104comments ↑
+- **URL**: https://github.com/google-research/timesfm
+- **内容**: 200Mパラメータ、16kコンテキストの時系列基盤モデル
+- **重要度**: 中 - 時系列AIの実用化加速
+
+#### KVキャッシュ最適化 - 138pts, 11comments ↑
+- **前回比**: 129pts(19:30) → 138pts(20:30)（+9pts）
+
+#### Claude Wrote FreeBSD RCE (CVE-2026-4747) - 66pts, 15comments ↑↑
+- **前回比**: 33pts(19:30) → 66pts(20:30)（+33pts、2倍）
+- Claude AIによるセキュリティエクスプロイト開発事例が急速に注目拡大
+
+### 20:30 Falcon Platform戦略示唆
+
+1. **Microsoft "entertainment only"が526pts**: Copilotの信頼性問題が公式化。AIツールの「信頼性・正確性」訴求がFuyajoの差別化ポイントになり得る。エンタープライズ向けの責任ある設計が重要
+2. **Claude Code Unpacked 504pts首位**: 内部実装への透明性需要が極限まで高まった。Fuyajoのエージェント動作可視化機能は競合優位性になる
+3. **OpenAI $852B**: 投資家はAI市場に強気。ただしHNコミュニティの懐疑論も活発 → 「実際に使える」小規模・特化型プラットフォームへの需要
+4. **FreeBSD RCE 2倍上昇**: AIによるセキュリティリスクが加速的に認知。Fuyajoのサンドボックス・権限分離アーキテクチャの設計品質が競合への信頼差に直結
