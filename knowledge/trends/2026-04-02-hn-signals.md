@@ -78,6 +78,23 @@
 
 ---
 
+### 01:30 JST
+
+スコア更新・新規シグナルなし（既存シグナルのスコア上昇のみ）
+
+| タイトル | 00:30 | 01:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Source Leak | 1297pts / 525c | 1312pts / 535c | +15pts |
+| Claude Code Unpacked | 826pts / 300c | 884pts / 317c | +58pts |
+| OpenAI $852B funding | 491pts / 454c | 498pts / 461c | +7pts |
+| 1-Bit Bonsai LLMs | 336pts / 134c | 350pts / 136c | +14pts |
+| Claude FreeBSD RCE | 148pts / 56c | 171pts / 66c | +23pts |
+| Anthropic running hot | 79pts / 29c | 106pts / 46c | +27pts ↑ |
+
+**注目**: Anthropic関連記事（セカンダリ市場）が+27ptsと最も伸び率高い。Claude Codeリーク騒動が続く中でもAnthropicへの評価は上昇。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
