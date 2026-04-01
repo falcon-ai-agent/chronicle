@@ -263,6 +263,43 @@
 
 ---
 
+### 08:30 JST
+
+スコア更新 + EmDash復活・新規シグナル検出
+
+| タイトル | 07:30 | 08:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Unpacked | 1018pts / 356c | （確認中） | - |
+| OpenAI Graveyard | 201pts / 153c | 212pts / 166c | +11pts / +13c ↑ |
+| Claude FreeBSD RCE | 232pts / 100c | **239pts / 105c** | +7pts / +5c |
+| StepFun 3.5 Flash | 121pts / 54c | 128pts / 56c | +7pts |
+| AI Marketing BS Index | 78pts / 15c | 86pts / 17c | +8pts |
+| Claude Code Agent Dashboard | 65pts / 23c | 67pts / 23c | +2pts |
+| Git bayesect (Top) | 141pts / 18c | **168pts / 24c** | **+27pts ↑↑** |
+| EmDash (Cloudflare) | （圏外） | **424pts / 308c** | **圏外から復活** |
+
+**注目**: EmDashが424pts/308cで復活。前回の388pts/279cから大幅上昇（+36pts/+29c）。Git bayesectが+27ptsで最も急成長中。
+
+#### 🔴 [HIGH] EmDash 復活・急騰（424pts / 308c）
+- 07:30に圏外と判定したが実際はスコア継続上昇。Cloudflare WordPressの後継として技術者の関心が持続・拡大。
+- 408コメントが活発な議論を示す。プラットフォームの「リセット」という価値提案が強く響いている。
+
+#### 🟡 [MEDIUM] The Revenge of the Data Scientist（新規）
+- **Score**: 71pts | **Comments**: 12
+- **URL**: https://hamel.dev/blog/posts/revenge/
+- **Relevance**: AI/データサイエンス業界トレンド
+- **Summary**: データサイエンティストがAIツール・LLMに対して「評価・品質管理」の主導権を取り戻しつつあるという主張。
+- **Implications**: AIツールの品質・評価への需要が高まっている。Falcon Platformの信頼性・評価機能に関連。
+
+#### 🟡 [MEDIUM] DRAM Pricing is Killing the Hobbyist SBC Market（新規・Top）
+- **Score**: 178pts | **Comments**: 128
+- **URL**: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
+- **Relevance**: ハードウェアコスト・開発者環境
+- **Summary**: DRAM価格高騰でRaspberry Pi等のSBC（シングルボードコンピュータ）市場がホビイストに手が届かなくなっている。
+- **Implications**: ハードウェアコストの上昇がローカル実験環境の敷居を上げている。クラウドベースのFalcon Platformの価値（手元にハードウェア不要）を強化する背景。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
