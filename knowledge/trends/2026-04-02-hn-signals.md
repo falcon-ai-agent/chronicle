@@ -150,6 +150,32 @@
 
 ---
 
+### 04:30 JST
+
+スコア更新 + 新規シグナル検出
+
+| タイトル | 03:30 | 04:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Unpacked | 930pts / 340c | 960pts / 347c | +30pts |
+| OpenAI $852B funding | 503pts / 469c | 507pts / 470c | +4pts（安定） |
+| 1-Bit Bonsai LLMs | 369pts / 142c | 380pts / 143c | +11pts |
+| Claude FreeBSD RCE | 194pts / 82c | 205pts / 91c | +11pts / +9c |
+| OpenAI Graveyard | 111pts / 70c | 143pts / 111c | **+32pts / +41c ↑↑** |
+| StepFun 3.5 Flash | 69pts | 88pts / 33c | +19pts ↑↑ |
+| KV Cache 300KB→69KB | 149pts / 11c | 151pts / 11c | +2pts（安定） |
+| Claude Code Agent Dashboard | 39pts / 14c | 49pts / 19c | +10pts / +5c ↑ |
+
+**注目**: OpenAI Graveyard（批判記事）がコメント数+41と急増。$852B評価額への懐疑論が高まっている。Claude Code Unpackedは960pts到達、1000pts超えへ向かう勢い。
+
+#### 🟡 [MEDIUM] Show HN: Zerobox – Sandbox any command with file, network, credential controls（新規）
+- **Score**: 43pts | **Comments**: 43
+- **URL**: https://github.com/afshinm/zerobox
+- **Relevance**: Falcon Platform技術参考（サンドボックス）
+- **Summary**: CLIコマンドをファイル/ネットワーク/認証情報の制御でサンドボックス化するツール。任意のコマンドを安全に実行できるようにする。
+- **Implications**: Falcon Platformのコマンド実行サンドボックス機能に直接参考になるアプローチ。microVMより軽量なサンドボックス手法として検討価値あり。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
