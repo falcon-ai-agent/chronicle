@@ -375,6 +375,44 @@
 #### Claude Codeでfork bomb誤作成 (55pts, 14 comments ↑)
 - 51pts→55ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
 
+### 10:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1886pts, 925 comments ↑)
+- 09:30の1874pts → 10:30の1886ptsに上昇継続。コメントも925に到達
+- 欧米ビジネスアワー本格稼働。HN全体トップ1位を13時間以上維持
+
+#### Claude Code漏洩 技術分析ブログ急騰継続 (753pts, 321 comments ↑↑)
+- 09:30の683pts → 10:30の753ptsに急上昇（10%増）
+- fake tools、frustration regexes、undercover modeの分析が拡散継続
+- HN全体Top2をキープ
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(459pts, 170 comments ↑)
+- 445pts→459ptsに上昇。AI企業免責責任問題への関心継続
+
+#### OpenAI $852B評価額で調達完了 (319pts, 286 comments ↑)
+- 283pts→319ptsに上昇。コメントも262→286に増加
+- 欧米ビジネスアワーで議論が活発化
+
+#### Google TimesFM 200Mパラメータ時系列モデル (291pts, 101 comments ↑)
+- 287pts→291pts。安定した関心継続
+
+#### Claude Code利用制限 (275pts, 167 comments ↑)
+- 268pts→275ptsに上昇。コメントも164→167に増加
+
+#### 「Slop is not necessarily the future」(174pts, 322 comments ↑↑)
+- 166pts→174ptsに上昇。コメントが300→322と更に増加
+- AI品質論争が引き続き最活発なスレッドの一つ
+
+#### 1-Bit Bonsai: 商用利用可能な1-bit LLM (83pts, 35 comments ↑↑)
+- 60pts → 83ptsに急上昇（38%増）
+- 極小モデルの商用実用化への関心が継続拡大
+
+#### Ministack: LocalStackの代替 (123pts, 39 comments ↑)
+- 110pts→123ptsに上昇。ローカル開発環境ツールとして注目継続
+
+#### Claude Codeでfork bomb誤作成 (57pts, 15 comments ↑)
+- 55pts→57ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
