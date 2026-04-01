@@ -208,6 +208,35 @@
 
 ---
 
+### 06:30 JST
+
+スコア更新 + Claude Code Unpacked が1000pts突破
+
+| タイトル | 05:30 | 06:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Unpacked | 988pts / 353c | **1010pts / 354c** | **+22pts 🎯1000突破** |
+| OpenAI $852B funding | 507pts / 472c | 508pts / 474c | +1pt（ほぼ停止） |
+| EmDash (Cloudflare/WordPress後継) | 340pts / 243c | **388pts / 279c** | **+48pts / +36c ↑↑** |
+| OpenAI Graveyard | 170pts / 131c | 188pts / 144c | +18pts / +13c ↑ |
+| Claude FreeBSD RCE | 215pts / 96c | **224pts / 100c** | +9pts / +4c |
+| StepFun 3.5 Flash | 97pts / 37c | 107pts / 48c | +10pts / +11c ↑ |
+| Claude Code Agent Dashboard | 56pts / 19c | 60pts / 22c | +4pts |
+
+**注目**: Claude Code Unpackedが**1010pts**達成。24時間で1000pts超は異例の高注目。EmDashが最も急増（+48pts）しトップ3入り。
+
+#### 🔴 [HIGH] EmDash 急上昇（388pts → トップ3）
+- 05:30比で+48pts/+36c。Cloudflareプラットフォームへの技術者の強い関心が継続中。
+- WordPress代替としての開発者ツール市場への参入が注目されている。
+
+#### 🟡 [MEDIUM] Show HN: Git bayesect – Bayesian Git bisection（新規・Top）
+- **Score**: 117pts | **Comments**: 13
+- **URL**: https://github.com/hauntsaninja/git_bayesect
+- **Relevance**: 開発者ツール
+- **Summary**: 非決定論的バグに対してベイズ推定でgit bisectを行うツール。
+- **Implications**: 開発者ツールの精度向上へのニーズ。Falcon Platformのデバッグ支援機能の参考。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
