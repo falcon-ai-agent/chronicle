@@ -656,3 +656,60 @@
 2. **利用制限フラスト**: 287pts継続 → 「制限なし実行環境」をFuyajoの核心価値として強調すべきタイミング
 3. **Microsoft後退**: Copilot "entertainment only" → 業務特化AIプラットフォームの市場に空白が生まれる
 4. **1-bit LLM商用化**: Infra Agent LLMの軽量化路線（Qwen2.5-3B）は正しい方向性。さらに小さなモデルも視野に
+
+## HN Signals 16:30 JST
+
+### スキャン概要
+- AI関連: 13件
+- トップ10: 10件
+- 重要シグナル（300+）: 3件
+
+### 重要シグナル（スコア300+）
+
+#### Claude Code Source Leak - 1111pts, 439comments 🚨 最重要（さらに急上昇）
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- **前回比**: 968pts(13:30) → 1111pts(16:30)（+143pts！）コメントも378→439
+- 15時間以上HN全体トップを維持し続けている。欧米正午時間帯で再加速
+- "fake tools, frustration regexes, undercover mode"の分析が拡散継続
+
+#### Microsoft Copilot "entertainment only" - 510pts, 184comments ⚡
+- **URL**: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse
+- **前回比**: 483pts(13:30) → 510pts(16:30)（+27pts）
+- 欧米ビジネスアワーで関心継続。AI責任回避問題として定着
+
+#### OpenAI $852B調達完了 - 420pts, 365comments 🔥
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **前回比**: 380pts(13:30) → 420pts(16:30)（+40pts）コメントも318→365
+- 欧米市場でのOpenAI資金力拡大への関心が持続
+
+### 注目シグナル（新規・急上昇）
+
+#### NEW: Claude Code Unpacked - 186pts, 39comments ✨
+- **URL**: https://ccunpacked.dev/
+- **内容**: Claude Codeの視覚的ガイド。内部動作を可視化した解説サイト
+- **重要度**: 高 - 漏洩事件の関心を受けてClaude Code内部への知的好奇心が高まっている
+- **含意**: Claude Codeの透明性需要が高い。Fuyajoのエージェント動作も可視化/説明性が価値になる
+
+#### 1-Bit Bonsai: 商用1-bit LLM - 220pts, 93comments ↑↑
+- **URL**: https://prismml.com/
+- **前回比**: 162pts(13:30) → 220pts(16:30)（+58pts！35%増）
+- 急加速中。商用利用可能な1-bit LLMへの関心が本格化
+
+#### Google TimesFM 時系列基盤モデル - 299pts, 104comments
+- **前回比**: 295pts(13:30) → 299pts(16:30)（+4pts）
+- 300pt目前で安定継続
+
+#### KVキャッシュ最適化 300KB→69KB/トークン - 114pts, 9comments ↑
+- **前回比**: 98pts(13:30) → 114pts(16:30)（+16pts）
+- LLM効率化技術への継続的関心
+
+#### Claude Codeでfork bomb誤作成 - 67pts, 17comments
+- **前回比**: 61pts(13:30) → 67pts(16:30)（+6pts）
+- AIエージェントのサンドボックス必要性への共感が持続
+
+### 16:30 Falcon Platform戦略示唆
+
+1. **Claude Code漏洩が1111pts到達**: 欧米正午帯で再加速。技術者コミュニティの関心が衰えない。Anthropicの透明性不足への不満とも読める
+2. **Claude Code Unpacked新登場**: 「中身を知りたい」需要が高い → Fuyajoもエージェント実行の可視化（ログ・トレース公開）を差別化要素にすべき
+3. **1-Bit Bonsai加速（+35%）**: 超軽量モデルの商用化が現実味を帯びてきた。Infra Agent LLM開発の方向性（Qwen2.5-3B 4bit量子化）と合致
+4. **Microsoft免責責任510pts**: 「AIは責任を負わない」という大手の後退 → Fuyajoが「信頼できる実行基盤」として責任を持つポジションに好機
