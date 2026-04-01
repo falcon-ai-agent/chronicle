@@ -849,3 +849,72 @@
 1. **Claude Code Unpacked +75pts急上昇**: 362pts到達。漏洩事件の余波で「Claude Codeの内部を知りたい」需要が継続。Fuyajoの透明性・可視化戦略の優先度を上げるべき
 2. **Claude RCE CVE出現**: AIによるexploit自動生成が現実のCVEとして記録された初期事例。Fuyajoのサンドボックス・権限分離設計の重要性が増している
 3. **漏洩1163pts継続**: ほぼ24時間経過してもHN全体トップ維持。技術コミュニティの「AIシステムの隠し機能」への不信感は根深い
+
+## HN Signals 19:30 JST
+
+### スキャン概要
+- AI関連: 12件
+- トップ10: 10件
+- 重要シグナル（300+）: 5件
+
+### 重要シグナル（スコア300+）
+
+#### Claude Code Source Leak - 1186pts, 479comments 🚨 最重要（継続）
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- **前回比**: 1163pts(18:30) → 1186pts(19:30)（+23pts）コメントも464→479
+- 19時間以上HN全体トップ1位を維持。fake tools、frustration regexes、undercover modeの分析が拡散継続
+
+#### Claude Code Unpacked 急上昇継続 - 427pts, 111comments 🚀
+- **URL**: https://ccunpacked.dev/
+- **前回比**: 362pts(18:30) → 427pts(19:30)（**+65pts！18%増**）
+- 今日最も急上昇中のClaude関連コンテンツ。漏洩事件の余波でClaude Code内部への知的好奇心が持続拡大
+- **トップ10全体で2位**にランクアップ
+
+#### Microsoft Copilot "entertainment only" - 523pts, 185comments ⚡
+- **URL**: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse
+- **前回比**: 521pts(18:30) → 523pts(19:30)（+2pts）
+- AI責任回避問題として定着。安定した高スコア維持
+
+#### OpenAI $852B調達完了 - 451pts, 394comments 🔥
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **前回比**: 444pts(18:30) → 451pts(19:30)（+7pts）コメントも384→394
+- 欧米夕方でも議論継続
+
+#### Google TimesFM 時系列基盤モデル - 301pts, 104comments
+- **前回比**: 301pts(18:30) → 301pts(19:30)（横ばい）
+- 300pt超えで安定。ピークアウトの兆し
+
+### 注目シグナル（スコア100-300）
+
+#### 1-Bit Bonsai: 商用1-bit LLM - 270pts, 113comments ↑↑
+- **URL**: https://prismml.com/
+- **前回比**: 246pts(18:30) → 270pts(19:30)（+24pts、10%増）
+- 商用1-bit LLMへの関心が着実に拡大継続。HN全体Top8位
+
+#### KVキャッシュ最適化 300KB→69KB/トークン - 129pts, 9comments ↑
+- **URL**: https://news.future-shock.ai/the-weight-of-remembering/
+- **前回比**: 124pts(18:30) → 129pts(19:30)（+5pts）
+- LLM効率化技術への継続的関心
+
+#### Claude Codeでfork bomb誤作成 - 69pts, 18comments →
+- **前回比**: 69pts(18:30) → 69pts(19:30)（横ばい）
+- AIエージェントのサンドボックス必要性への共感が持続
+
+#### TinyLoRA – 13パラメータで推論学習 - 180pts, 19comments ↑（Top5）
+- **URL**: https://arxiv.org/abs/2602.04118
+- HN全体Top5入り。「スケールより構造」論が本格的に注目される段階へ
+
+### 新規エントリ
+
+#### Claude Wrote a Full FreeBSD Remote Kernel RCE (CVE-2026-4747) - 33pts, 10comments
+- **URL**: https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md
+- **内容**: ClaudeがFreeBSD RCEエクスプロイト（CVE-2026-4747）を完全に記述した事例
+- **重要度**: 高（セキュリティ） - AIによるexploit開発の実例として注目拡大中
+- **含意**: AIが高度なセキュリティ研究を加速している一方、悪用リスクも顕在化
+
+### 19:30 Falcon Platform戦略示唆
+
+1. **Claude Code Unpacked 427pts到達**: 1日で362pts→427ptsと急上昇。Claude Code漏洩の余波で「透明性への需要」が爆発的。Fuyajoのエージェント動作ログ公開・可視化を最優先実装項目に
+2. **漏洩ストーリー1186pts**: 20時間近くHN全体トップ。技術者コミュニティはAIシステムの「隠れた動作」を許容しない。オープンな設計思想がFuyajoの信頼獲得に直結
+3. **1-Bit Bonsai 270pts**: 商用1-bit LLMへの関心が加速。軽量モデルの実用化が近い → Infra Agent LLMの超軽量化（Qwen2.5-3B以下）も視野に入れるべきタイミング
+4. **Claude FreeBSD RCE上昇**: AIによるセキュリティリスクが具体的CVEで示された。Fuyajoのサンドボックス設計・権限分離の重要性が増している
