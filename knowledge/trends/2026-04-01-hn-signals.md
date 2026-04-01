@@ -1020,3 +1020,66 @@
 2. **Claude Code Unpacked 504pts首位**: 内部実装への透明性需要が極限まで高まった。Fuyajoのエージェント動作可視化機能は競合優位性になる
 3. **OpenAI $852B**: 投資家はAI市場に強気。ただしHNコミュニティの懐疑論も活発 → 「実際に使える」小規模・特化型プラットフォームへの需要
 4. **FreeBSD RCE 2倍上昇**: AIによるセキュリティリスクが加速的に認知。Fuyajoのサンドボックス・権限分離アーキテクチャの設計品質が競合への信頼差に直結
+
+---
+
+## HN Signals 22:30 JST
+
+### スキャン概要
+- AI関連: 12件
+- トップ10: 10件
+- 重要シグナル（300+）: 4件
+
+### 重要シグナル（スコア300+）
+
+#### Claude Code Unpacked 爆発的上昇 - 676pts, 211comments 🚀🚀 本日最大の急騰
+- **URL**: https://ccunpacked.dev/
+- **前回比**: 427pts(19:30) → 676pts(22:30)（**+249pts！58%増**）
+- **今日HNトップ1位**（全ジャンル）に上昇。3時間で249pt急騰は本日最大の急上昇
+- Claude Code漏洩の余波で「内部を理解したい」需要が爆発的に拡大。視覚的ガイドが特にウケている
+- **含意**: 技術者はブラックボックスを拒絶する。Fuyajoの透明性・可視化が最重要差別化要素であることが確定
+
+#### Claude Code Source Leak - 1249pts, 505comments 🚨 継続最重要
+- **URL**: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+- **前回比**: 1186pts(19:30) → 1249pts(22:30)（+63pts）コメントも479→505
+- 22時間以上HNのトップ付近を維持。fake tools、frustration regexes、undercover modeの分析が拡散継続
+
+#### OpenAI $852B調達完了 - 473pts, 427comments 🔥
+- **URL**: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- **前回比**: 451pts(19:30) → 473pts(22:30)（+22pts）コメントも394→427（大幅増）
+- 欧米夜間でもコメント数が急増。資金力・IPOへの注目が継続
+
+#### 1-Bit Bonsai: 商用1-bit LLM - 314pts, 123comments ↑↑（300pt突破）
+- **URL**: https://prismml.com/
+- **前回比**: 270pts(19:30) → 314pts(22:30)（**+44pts！300pt突破**）
+- **300ptの壁を突破**。商用利用可能な最初の1-bit LLMとして技術者コミュニティに浸透
+- **Infra Agent LLM直結**: 1-bit量子化が商用実用レベルに達しつつある
+
+### 注目シグナル（急上昇）
+
+#### Claude Wrote a Full FreeBSD Remote Kernel RCE (CVE-2026-4747) - 97pts, 32comments ↑↑↑
+- **URL**: https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md
+- **前回比**: 33pts(19:30) → 97pts(22:30)（**+64pts！194%急騰**）
+- AIが本物のカーネルRCEエクスプロイトを完成させた初期事例として注目急拡大
+- **Fuyajoセキュリティ直結**: エージェント実行環境のサンドボックス・権限分離の重要性が一層高まる
+
+#### KVキャッシュ最適化 300KB→69KB/トークン - 142pts, 11comments ↑
+- **URL**: https://news.future-shock.ai/the-weight-of-remembering/
+- **前回比**: 129pts(19:30) → 142pts(22:30)（+13pts）
+- LLM効率化技術への継続的関心。LLMアーキテクチャのメモリ削減技術が実用段階へ
+
+### 新規エントリ
+
+#### "I Quit. The Clankers Won" - 163pts, 116comments
+- **URL**: https://dbushell.com/2026/04/01/i-quit-the-clankers-won/
+- **内容**: AI（Clankers＝機械）に仕事を奪われたと主張する技術者の体験記（エイプリルフールの可能性あり）
+- **重要度**: 中 - AI時代の開発者心理・キャリア不安の象徴的事例
+- **含意**: AI代替不安が一般開発者に広まっている。Fuyajoは「AIと共存する開発者を支援する」方向性を明確に
+
+### 22:30 Falcon Platform戦略示唆
+
+1. **Claude Code Unpacked 676pts爆騰（+249pts）**: 本日最大の急騰。「透明性・可視化」は今日のHNで最も強いシグナル。Fuyajoのエージェント実行ログ・トレースは必須機能として最優先実装すべき
+2. **1-Bit Bonsai 300pt突破**: 商用1-bit LLMが技術コミュニティのメインストリームに。Infra Agent LLMのQLoRA方針は正しく、さらに積極的な軽量化を検討すべきタイミング
+3. **Claude FreeBSD RCE 194%急騰**: AIによるexploit自動生成がCVEとして現実化。Fuyajoのサンドボックス・権限分離設計はセキュリティ市場での差別化要素になりうる
+4. **漏洩+Unpacked合計1925pts**: 今日HNを支配した2大ストーリー。「Claude Code = 隠し機能あり」というイメージが広がる。オープンソース・透明設計のFuyajoはアンチテーゼとして位置づけられる
+
