@@ -458,6 +458,52 @@
 - **重要度**: 中高 - LLM効率化の技術的進歩
 - **含意**: KVキャッシュ圧縮技術が成熟しつつある。長文脈処理コストの削減に直結
 
+### 12:30 JST
+
+#### CRITICAL: Claude Code ソースコード漏洩 最新 (1914pts, 944 comments ↑)
+- 11:30の1903pts → 12:30の1914ptsに上昇継続。コメントも944に到達
+- HN全体トップ1位を15時間以上維持。漏洩は最大の話題のまま
+
+#### Claude Code漏洩 技術分析ブログ急騰継続 (903pts, 365 comments ↑↑)
+- 11:30の837pts → 12:30の903ptsに急上昇（8%増）
+- fake tools、frustration regexes、undercover modeの分析が拡散継続
+- **900pt超え**。独立したTOPストーリーとして確立
+
+#### Microsoft Copilot「エンターテインメント目的のみ」(474pts, 171 comments ↑)
+- 469pts→474ptsに上昇。AI企業免責責任問題への関心継続
+
+#### OpenAI $852B評価額で調達完了 (362pts, 306 comments ↑)
+- 336pts→362ptsに上昇。コメントも296→306に増加
+
+#### Google TimesFM 200Mパラメータ時系列モデル (294pts, 103 comments ↑)
+- 294pts→294pts（横ばい）。安定した関心継続
+
+#### Claude Code利用制限 (283pts, 176 comments ↑)
+- 279pts→283ptsに上昇。コメントも173→176に増加
+
+#### Ministack: LocalStackの代替 (156pts, 30 comments ↑)
+- 145pts→156ptsに上昇。ローカル開発環境ツールとして注目継続
+
+#### TinyLoRA – 13パラメータで推論学習 (97pts, 8 comments ↑↑)
+- 72pts → 97ptsに急上昇（35%増）
+- 超効率的モデルへの関心が拡大。「スケールより構造」論の実証
+
+#### KVキャッシュ最適化: 300KB→69KB/トークン (92pts, 7 comments ↑)
+- 89pts→92ptsに上昇。LLM効率化技術への関心継続
+
+#### 1-Bit Bonsai: 商用利用可能な1-bit LLM (135pts, 58 comments ↑)
+- 106pts → 135ptsに上昇（28%増）
+- 極小モデルの商用実用化への関心が継続拡大
+
+#### A dot a day keeps the clutter away (187pts, 63 comments) - 新規
+- **URL**: https://scottlawsonbc.com/post/dot-system
+- **内容**: シンプルなドットシステムで生産性管理するアプローチ
+- **重要度**: 低〜中 - 開発者の生産性管理への関心
+- **含意**: シンプルさへの回帰志向。複雑なAIツールより単純なシステムを好む技術者心理
+
+#### Claude Codeでfork bomb誤作成 (61pts, 16 comments ↑)
+- 60pts→61ptsに上昇継続。AIエージェントのサンドボックス必要性への共感継続
+
 ### Falcon Platform戦略への示唆
 
 1. **Claude Code漏洩**: NPMパッケージのソースマップ残存に注意。本番バンドルには`--no-source-maps`を
