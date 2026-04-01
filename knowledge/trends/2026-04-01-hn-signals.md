@@ -1083,3 +1083,44 @@
 3. **Claude FreeBSD RCE 194%急騰**: AIによるexploit自動生成がCVEとして現実化。Fuyajoのサンドボックス・権限分離設計はセキュリティ市場での差別化要素になりうる
 4. **漏洩+Unpacked合計1925pts**: 今日HNを支配した2大ストーリー。「Claude Code = 隠し機能あり」というイメージが広がる。オープンソース・透明設計のFuyajoはアンチテーゼとして位置づけられる
 
+---
+
+## HN Signals 23:30 JST
+
+### スキャン概要
+- AI関連: SSL制限でai検索は0件（ネットワーク一時エラー）
+- トップ10: 10件取得成功
+- 重要シグナル: 2件
+
+### 重要シグナル
+
+#### Claude Code Unpacked - 745pts, 253comments 🚀 HN全体1位（大幅急上昇）
+- **URL**: https://ccunpacked.dev/
+- **前回比**: 580pts(21:30) → 745pts(23:30)（**+165pts、+28%増**）
+- **HN全体1位を単独確立**。Claude Code内部の視覚ガイドがClaude Code漏洩事件の最大受益コンテンツに
+- 漏洩元ストーリーがトップ10から姿を消し、派生コンテンツが独立したトレンドとして成熟
+- **含意**: 「透明性コンテンツ」が「スキャンダル」を上回った。Fuyajoの可視化・説明性戦略の重要性を再確認
+
+#### Claude Wrote a Full FreeBSD Remote Kernel RCE (CVE-2026-4747) - 125pts, 40comments ↑
+- **URL**: https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md
+- **前回比**: 83pts(21:30) → 125pts(23:30)（+42pts、+51%増）
+- ClaudeによるFreeBSD RCE（CVE-2026-4747）エクスプロイト記述事例が急上昇継続
+- **含意**: AIによるセキュリティ脅威が具体的CVEとして認知拡大。Fuyajoのサンドボックス価値が増す
+
+### 注目エントリ（新規）
+
+#### Show HN: Baton – AI agent開発向けデスクトップアプリ - 26pts, 23comments
+- **URL**: https://getbaton.dev/
+- **内容**: AIエージェント開発のためのデスクトップアプリ
+- **重要度**: 中 - Fuyajoの競合ポジション近隣のプロダクト
+- **含意**: GUIベースのエージェント開発ツールが登場。Fuyajoとは異なるアプローチ（CLIよりGUI）
+
+#### CERN superconducting karts - 248pts, 53comments
+- 非AI。HN全体Top3だが技術者の「面白科学」話題
+
+### 23:30 Falcon Platform戦略示唆
+
+1. **Claude Code Unpacked 745pts（+28%）**: 漏洩スキャンダルが収束し、「内部理解コンテンツ」が主役に移行。Fuyajoにとってのメッセージ: 「透明性は長期的に最も強いコンテンツ戦略」
+2. **漏洩元ストーリーがTop10消滅**: スキャンダルは一過性。残るのは「理解・可視化・教育」コンテンツ
+3. **FreeBSD RCE +51%急上昇**: AIによるセキュリティリスクへの関心が夜間も衰えない。エージェント実行サンドボックスの重要性を強調するマーケティングポイント
+4. **Baton登場（エージェント開発GUI）**: GUIベースのエージェント開発ツールが市場に出始めた。Fuyajoはインフラ側（VM + サンドボックス実行）で差別化を維持
