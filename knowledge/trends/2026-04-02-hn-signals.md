@@ -176,6 +176,38 @@
 
 ---
 
+### 05:30 JST
+
+スコア更新 + 新規シグナル検出
+
+| タイトル | 04:30 | 05:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Code Unpacked | 960pts / 347c | **988pts / 353c** | +28pts ↑ |
+| OpenAI $852B funding | 507pts / 470c | 507pts / 472c | +0pts（停滞） |
+| 1-Bit Bonsai LLMs | 380pts / 143c | 389pts / 146c | +9pts |
+| OpenAI Graveyard | 143pts / 111c | 170pts / 131c | **+27pts / +20c ↑↑** |
+| Claude FreeBSD RCE | 205pts / 91c | 215pts / 96c | +10pts |
+| StepFun 3.5 Flash | 88pts / 33c | 97pts / 37c | +9pts |
+| Claude Code Agent Dashboard | 49pts / 19c | 56pts / 19c | +7pts |
+
+**注目**: Claude Code Unpackedが988pts、1000pts超えが目前。OpenAI Graveyardが引き続き急増中（+27pts/+20c）。OpenAI評価額への懐疑論が技術者の間で持続的に広がっている。
+
+#### 🔴 [HIGH] EmDash – A spiritual successor to WordPress（新規・Topから）
+- **Score**: 340pts | **Comments**: 243
+- **URL**: https://blog.cloudflare.com/emdash-wordpress/
+- **Relevance**: 開発者ツール / プラットフォーム
+- **Summary**: CloudflareがWordPressの精神的後継として「EmDash」を発表。プラグインセキュリティ問題を解決した新しいCMSプラットフォーム。
+- **Implications**: 大手プラットフォームの「リセット」が起きている。Falcon Platformも「VMをリセットして新しい開発環境」という価値提案に通じる。Cloudflareのプラットフォーム戦略は参考になる。
+
+#### 🟡 [MEDIUM] The AI Marketing BS Index（新規）
+- **Score**: 64pts | **Comments**: 8
+- **URL**: https://bastian.rieck.me/blog/2026/bs/
+- **Relevance**: AIマーケティング批判
+- **Summary**: AIマーケティングにおける誇大宣伝を指数化・批判した記事。技術者コミュニティのAI疲れを反映。
+- **Implications**: 技術者はAIの誇大宣伝に懐疑的。Falcon Platformのマーケティングは「実証ベース・透明性重視」で差別化できる。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
