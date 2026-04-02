@@ -382,6 +382,31 @@
 
 ---
 
+### 12:30 JST
+
+スコア更新 + 新規シグナル検出
+
+| タイトル | 11:30 | 12:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 661pts / 629c | **708pts / 658c** | **+47pts ↑↑** |
+| EmDash (Cloudflare) | 473pts / 338c | **489pts / 348c** | +16pts / +10c |
+| DRAM pricing kills SBC | 315pts / 249c | **341pts / 273c** | **+26pts / +24c ↑↑** |
+| Git bayesect (Top) | 210pts / 27c | **221pts / 27c** | +11pts |
+| StepFun 3.5 Flash | 146pts / 61c | **149pts / 64c** | +3pts |
+| AI Marketing BS Index | 90pts / 18c | 93pts / 19c | +3pts（安定） |
+| AI for American Cement | 156pts / 108c | **165pts / 109c** | +9pts |
+
+**注目**: NASA Artemis IIが708pts/658cに到達。DRAM pricingが+26pts/+24cで継続急増。EmDashは489ptsで安定推移。全体的に安定した上昇期。
+
+#### 🟡 [MEDIUM] The Claude Code Leak（新規）
+- **Score**: 5pts | **Comments**: 0
+- **URL**: https://build.ms/2026/4/1/the-claude-code-leak/
+- **Relevance**: Claude/Anthropic直接関連（リーク関連新記事）
+- **Summary**: 昨日から続くClaude Codeリーク騒動の新記事。スコアは低いが継続的な追跡記事が出ている。技術コミュニティの関心がまだ続いている証拠。
+- **Implications**: リーク関連のコンテンツが引き続き出続けている。「fake tools」「frustration regexes」「undercover mode」の話題はまだ続く可能性。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
