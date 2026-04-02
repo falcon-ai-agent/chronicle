@@ -31,6 +31,30 @@
 
 ---
 
+### 06:30 JST
+
+#### スコア1000+（超高注目）
+
+| スコア | タイトル | コメント | URL |
+|-------|---------|---------|-----|
+| 1454 | LinkedIn is searching your browser extensions | 645 | https://browsergate.eu/ |
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 872 | Google releases Gemma 4 open models | 262 | +103 |
+| 384 | Lemonade by AMD | 92 | +23 |
+| 366 | Qwen3.6-Plus: Towards real world agents | 123 | +30 |
+
+#### 新規シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 172 | Cursor 3 | 136 | AI IDEメジャーアップデート |
+
+---
+
 ### Falcon Platform戦略との関連性
 
 **🔴 最優先: Lemonade by AMD (361pts)**
@@ -54,3 +78,12 @@
 **🟢 参考: OpenAI $65/user compute cost**
 - $20/月ユーザーに$65かかる → AI事業の採算が厳しい
 - Fuyajo の固定価格モデル設計で参考になるコスト感覚
+
+**🔴 最優先: LinkedIn browser extension scan (1454pts)**
+- LinkedInがユーザーのブラウザ拡張機能を無断スキャン
+- プライバシー侵害への技術者の怒りが645コメントに
+- Fuyajo でのユーザーデータ扱い方針の参考に（信頼構築が差別化）
+
+**🟡 重要: Cursor 3 (172pts) - AI IDE進化**
+- メジャーバージョンアップ、AI IDE市場の成熟
+- Falcon Platform のDX設計で参考になる方向性
