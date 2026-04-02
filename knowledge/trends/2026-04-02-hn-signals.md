@@ -581,6 +581,40 @@
 
 ---
 
+### 17:30 JST
+
+スコア更新 + Steam on Linux急騰・DRAM pricing復活・AI Chess新規検出
+
+| タイトル | 16:30 | 17:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 844pts / 753c | **893pts / 764c** | **+49pts / +11c ↑↑** |
+| EmDash (Cloudflare) | 545pts / 381c | **554pts / 399c** | +9pts / +18c（安定） |
+| Steam on Linux >5% | 228pts / 90c | **298pts / 118c** | **+70pts / +28c ↑↑↑** |
+| DRAM pricing kills SBC | （圏外） | **457pts / 376c** | **圏外から大幅復活** |
+| Quantum computing bombshells | 130pts / 36c | **145pts / 46c** | +15pts / +10c ↑ |
+| Claude Code Leak (build.ms) | 120pts / 78c | **136pts / ?c** | +16pts ↑ |
+| StepFun 3.5 Flash | 155pts / 72c | **158pts / 72c** | +3pts（安定） |
+| AI for American Cement | 185pts / 110c | **189pts / 110c** | +4pts（安定） |
+| New C++ back end for ocamlc (Top) | 161pts / 12c | **170pts / 14c** | +9pts |
+| r/programming bans LLM | 109pts / 97c | （確認中） | - |
+
+**注目**: Steam on Linux +70ptsで爆発的急増（14:30比で3倍近く）。DRAM pricingが圏外から457pts/376cで大復活。NASA Artemis IIは893pts到達。
+
+#### 🟡 [MEDIUM] AI Perfected Chess. Humans Made It Unpredictable Again（新規）
+- **Score**: 28pts | **Comments**: 16
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves
+- **Relevance**: AI vs 人間の相互作用
+- **Summary**: AIがチェスを完璧に習得した後、人間のグランドマスターは「AIに予測不可能な」手を指すことで対抗するようになった。AI時代の人間の適応戦略。
+- **Implications**: AIが完璧な解を持つ分野でも、人間はランダム性・予測不能性という「不完全さ」で優位性を保てる。AIエージェントプラットフォームの設計にも示唆（AIと人間の協働の本質）。
+
+#### 🟡 [MEDIUM] Mercor cyberattack via LiteLLM（スコア上昇）
+- **Score**: 29pts | **Comments**: 7（16:30比 +11pts）
+- **URL**: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+- **Relevance**: AIツールセキュリティ・サプライチェーン攻撃
+- **Summary**: LiteLLMサプライチェーン攻撃の余波が続く。Falcon Platformの依存関係セキュリティ審査の重要性を再確認。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
