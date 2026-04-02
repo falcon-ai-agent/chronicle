@@ -300,6 +300,38 @@
 
 ---
 
+### 09:30 JST
+
+スコア更新 + NASA Artemis II急浮上
+
+| タイトル | 08:30 | 09:30 | 変化 |
+|---------|-------|-------|------|
+| EmDash (Cloudflare) | 424pts / 308c | **441pts / 316c** | +17pts / +8c ↑ |
+| Claude FreeBSD RCE | 239pts / 105c | **247pts / 96c** | +8pts |
+| Git bayesect (Top) | 168pts / 24c | **185pts / 25c** | **+17pts ↑↑** |
+| DRAM pricing kills SBC | 178pts / 128c | **247pts / 171c** | **+69pts ↑↑↑** |
+| StepFun 3.5 Flash | 128pts / 56c | 132pts / 59c | +4pts |
+| AI Marketing BS Index | 86pts / 17c | 90pts / 23c | +4pts |
+| Claude Code Agent Dashboard | 67pts / 23c | 68pts | +1pt（安定） |
+
+**注目**: DRAM pricingが+69ptsで爆発的上昇。NASA Artemis IIが497pts/469cで全体トップ（非AI）。EmDashとGit bayesectが引き続き堅調。
+
+#### 🔴 [HIGH] NASA Artemis II Crew Launches to the Moon（Top全体1位）
+- **Score**: 497pts | **Comments**: 469
+- **URL**: https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/
+- **Relevance**: 技術者コミュニティ全体の関心（非AI）
+- **Summary**: NASAのアルテミスII有人月面探査ミッションが打ち上げ成功。技術者コミュニティ全体で最注目ストーリー。
+- **Implications**: AI以外での技術者の興奮が最高潮。4月2日の主役はAIではなく宇宙。HNのAI疲れを示す一側面。
+
+#### 🟡 [MEDIUM] Obfuscation is not security – Claude Code deobfuscates JS（AI関連）
+- **Score**: 22pts | **Comments**: 17
+- **URL**: https://www.afterpack.dev/blog/claude-code-source-leak
+- **Relevance**: Claude Code / セキュリティ
+- **Summary**: ClaudeがminifiedなJavaScriptを完全にdeobfuscate（難読化解除）できることを示す記事。Claude Codeのソースリーク騒動に関連したURLだが内容はAI難読化解除能力の実証。
+- **Implications**: AIによるセキュリティ検査能力の向上。「難読化=セキュリティ」という前提が崩れつつある。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
