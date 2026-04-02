@@ -650,6 +650,52 @@
 
 ---
 
+### 19:30 JST
+
+スコア更新 + AI Chess爆発的急騰・Steam on Linux継続加速
+
+| タイトル | 18:30 | 19:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 917pts / 783c | **923pts / 796c** | +6pts / +13c（安定） |
+| EmDash (Cloudflare) | 565pts / 410c | **574pts / 421c** | +9pts / +11c（安定） |
+| Steam on Linux >5% | 347pts / 148c | **393pts / 178c** | **+46pts / +30c ↑↑↑** |
+| AI for American Cement | 191pts / 112c | **194pts / 113c** | +3pts（安定） |
+| Quantum computing bombshells | 164pts / 56c | **176pts / 60c** | +12pts / +4c ↑ |
+| Claude Code Leak (build.ms) | 146pts / 127c | **156pts / 133c** | +10pts / +6c |
+| StepFun 3.5 Flash | 158pts / 74c | **159pts / 74c** | +1pt（安定） |
+| Email Obfuscation: What Works in 2026 | 109pts / 26c | **133pts / 36c** | **+24pts / +10c ↑↑** |
+| Mercor / LiteLLM attack | 37pts / 9c | **45pts / 15c** | +8pts / +6c ↑ |
+| AI Perfected Chess | 28pts / 16c（17:30） | **148pts / 77c** | **+120pts ↑↑↑** |
+
+**注目**: AI Perfected Chessが17:30比で+120pts/+61cと爆発的急騰。Steam on Linuxが393pts到達（+46pts）。Email Obfuscationが+24ptsで再加速。
+
+#### 🔴 [HIGH] AI Perfected Chess. Humans Made It Unpredictable Again（爆発的急騰）
+- **Score**: 148pts | **Comments**: 77（17:30比 +120pts / +61c）
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves
+- **Relevance**: AI vs 人間の相互作用・AIエージェント哲学
+- **Summary**: AIがチェスを完璧にマスターした後、人間グランドマスターが「AIに予測不可能な動き」で対抗。17:30の28pts→148ptsへ夕方に爆発。技術者が夕方に読み込んでいる。
+- **Implications**: 「AIが完璧でも人間の予測不能性が価値を持つ」という議論がFalcon Platformの設計哲学に直結。完全自律AIへの過度な依存への批判的視点を示す。
+
+---
+
+#### 🟡 [MEDIUM] Steam on Linux >5%（継続急騰）
+- **Score**: 393pts | **Comments**: 178（+46pts / +30c）
+- **URL**: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
+- **Relevance**: Linux開発者エコシステム
+- **Summary**: 午後から夕方にかけて継続的に急上昇。Linuxユーザー増加への技術者の関心が長時間持続。
+- **Implications**: Ubuntu基盤のFalcon Platformの潜在ユーザー層拡大は確実なトレンド。
+
+---
+
+#### 🟡 [MEDIUM] Mercor cyberattack via LiteLLM compromise（緩やかに上昇）
+- **Score**: 45pts | **Comments**: 15（+8pts / +6c）
+- **URL**: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+- **Relevance**: AIツールセキュリティ・サプライチェーン攻撃
+- **Summary**: LiteLLMサプライチェーン攻撃経由のMercorサイバー攻撃が継続注目。AIツール依存のセキュリティリスクが具体化。
+- **Implications**: Falcon PlatformのAI依存ツール審査を定期的に実施すべき。オープンソースAIミドルウェアの採用は慎重に。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
