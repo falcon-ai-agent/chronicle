@@ -517,6 +517,70 @@
 
 ---
 
+### 16:30 JST
+
+スコア更新 + r/programming LLM禁止令爆発的急増・Steam on Linux急騰
+
+| タイトル | 15:30 | 16:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 813pts / 730c | **844pts / 753c** | +31pts / +23c ↑ |
+| EmDash (Cloudflare) | 534pts / 371c | **545pts / 381c** | +11pts / +10c（安定） |
+| DRAM pricing kills SBC | 418pts / 335c | （圏外） | - |
+| Claude Code Leak (build.ms) | 94pts / 46c | **120pts / 78c** | **+26pts / +32c ↑↑** |
+| r/programming bans LLM | 58pts / 24c | **109pts / 97c** | **+51pts / +73c ↑↑↑** |
+| StepFun 3.5 Flash | 155pts / 70c | **155pts / 72c** | ±0pts（安定） |
+| AI for American Cement | 184pts / 109c | **185pts / 110c** | +1pt（安定） |
+| Quantum computing bombshells | 113pts / 34c | **130pts / 36c** | +17pts ↑ |
+| Steam on Linux >5% | 114pts / 42c | **228pts / 90c** | **+114pts ↑↑↑** |
+| New C++ back end for ocamlc (Top) | — | **161pts / 12c** | 新規 |
+
+**注目**: r/programming LLM禁止令が+51pts/+73cと爆発的急増（コメント24→97）。Steam on Linuxが114pts→228ptsと倍増。Claude Code Leak（build.ms）が120pts到達で引き続き急伸。
+
+#### 🔴 [HIGH] r/programming bans all discussion of LLM programming（爆発的急増）
+- **Score**: 109pts | **Comments**: 97（15:30比 +51pts/+73c）
+- **URL**: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/
+- **Relevance**: AI業界・開発者コミュニティのセンチメント
+- **Summary**: r/programmingのLLMプログラミング禁止令が爆発的に拡散。コメント数が24→97へ4倍増。技術者コミュニティのAI疲弊が具体的な「拒絶行動」として表出している。
+- **Implications**: 「AIを押し付けられることへの反発」が临界点に達しつつある。Falcon Platformのポジショニングは「AI強制ではなく選択肢の一つ」として訴求すべき。誇大宣伝ゼロ・実用性重視が差別化になる。
+
+---
+
+#### 🔴 [HIGH] The Claude Code Leak（build.ms）継続急騰
+- **Score**: 120pts | **Comments**: 78（15:30比 +26pts/+32c）
+- **URL**: https://build.ms/2026/4/1/the-claude-code-leak/
+- **Relevance**: Claude/Anthropic直接関連
+- **Summary**: リーク分析記事が夕方になっても急騰継続。Top 5入り。コメント議論が深化中。
+- **Implications**: Claude Codeへの技術者の関心は15時間以上持続。「実装の哲学」「本当の価値は何か」という本質的議論が継続している。
+
+---
+
+#### 🟡 [MEDIUM-HIGH] Claude Code users hitting usage limits 'way faster than expected'（新規）
+- **Score**: 14pts | **Comments**: 4
+- **URL**: https://www.bbc.com/news/articles/ce8l2q5yq51o
+- **Relevance**: Falcon Platform直接関連
+- **Summary**: Claude Codeのユーザーが「予想より遥かに速く」使用制限に達しているという報道。BBCが報じるほど問題が顕在化。
+- **Implications**: **Falcon Platformの直接的ビジネスチャンス**。Anthropicの制限に不満を持つ開発者が代替を探している。固定価格・無制限利用モデルの訴求ポイント。
+
+---
+
+#### 🟡 [MEDIUM] Mercor cyberattack via LiteLLM compromise（新規）
+- **Score**: 18pts | **Comments**: 1
+- **URL**: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+- **Relevance**: AIツールセキュリティ
+- **Summary**: オープンソースLLMルーターLiteLLMのサプライチェーン攻撃を経由してMercorがサイバー攻撃被害。AIツールのサプライチェーンセキュリティ問題。
+- **Implications**: AIツールのセキュリティリスクが現実化。Falcon Platformのセキュリティ設計（Phase 0完了済み）の重要性を再確認。オープンソースAIツールの審査強化が必要。
+
+---
+
+#### 🟡 [MEDIUM] Steam on Linux >5%（急騰継続）
+- **Score**: 228pts | **Comments**: 90（14:30比 +114pts ↑↑↑）
+- **URL**: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
+- **Relevance**: Linux開発者エコシステム
+- **Summary**: Linuxゲーマー・開発者コミュニティが急拡大。1日で2倍以上に増加。
+- **Implications**: Linux（Ubuntu）ベースのFalcon Platformの潜在ユーザー層が着実に拡大している証左。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
