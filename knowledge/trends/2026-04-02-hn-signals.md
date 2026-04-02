@@ -823,6 +823,69 @@
 
 ---
 
+### 23:30 JST
+
+スコア更新 + LinkedIn違法スキャン爆発・AMD Lemonade急成長継続
+
+| タイトル | 22:30 | 23:30 | 変化 |
+|---------|-------|-------|------|
+| Email Obfuscation 2026 | 203pts / 65c | **232pts / 70c** | **+29pts / +5c ↑↑** |
+| AI for American Cement | 203pts / 114c | **207pts / 115c** | +4pts（安定） |
+| Claude Code Leak (build.ms) | 174pts / 151c | （圏外） | フロントページ離脱 |
+| StepFun 3.5 Flash | 165pts / 79c | **165pts / 80c** | ±0pts（安定） |
+| Mercor / LiteLLM attack | 87pts / 26c | **92pts / 30c** | +5pts / +4c ↑ |
+| AMD Lemonade (local LLM) | 95pts / 27c | **166pts / 30c** | **+71pts ↑↑↑** |
+| LinkedIn illegally searching PC | — | **403pts / 177c** | **新規・全体Top1** |
+| Sweden: screens→books | — | **320pts / 180c** | **新規・全体Top3** |
+| IBM x Arm collaboration | 122pts / 72c | **180pts / 106c** | **+58pts ↑↑** |
+
+**注目**: LinkedIn違法スキャン記事が403pts/177cで全体Top1に急浮上（新規）。AMD Lemonade +71ptsで継続急騰（95→166pts）。スウェーデンの「デジタル→紙教科書回帰」が320ptsで強い反応。
+
+#### 🔴 [HIGH] LinkedIn Is Illegally Searching Your Computer（全体Top1）
+- **Score**: 403pts | **Comments**: 177
+- **URL**: https://browsergate.eu/
+- **Relevance**: プライバシー・セキュリティ / 開発者環境
+- **Summary**: LinkedInがユーザーのコンピュータを無断でスキャンしているという調査記事。Browsergate.euが報告。403pts/177cで本日（23:30時点）の全体Top1に急浮上。
+- **Implications**: 大手プラットフォームのプライバシー侵害への技術者の強い反発。Falcon Platformの「ユーザーデータを外部に送らない」設計思想の訴求に活用できる。
+
+---
+
+#### 🔴 [HIGH] AMD Lemonade: Local LLM Server（継続急騰 +71pts）
+- **Score**: 166pts | **Comments**: 30（22:30比 +71pts）
+- **URL**: https://lemonade-server.ai
+- **Relevance**: ローカルLLM・ハードウェア加速
+- **Summary**: AMDのGPU/NPU対応ローカルLLMサーバーが95pts→166ptsへ急騰継続。1時間で+71ptsは本日最速の上昇速度。
+- **Implications**: クラウドLLM疲れ＋ローカル推論への強い需要。AMD NPU（AI PC）の商用需要が実際に存在することを示す。Infra Agent LLMプロジェクトへの応用価値高い。
+
+---
+
+#### 🟡 [MEDIUM-HIGH] Sweden Goes Back to Basics: Screens→Books（新規）
+- **Score**: 320pts | **Comments**: 180
+- **URL**: https://undark.org/2026/04/01/sweden-schools-books/
+- **Relevance**: テクノロジー懐疑論・AI疲れ
+- **Summary**: スウェーデンが学校でのスクリーン利用を廃止し、紙の教科書に回帰。AIデジタル化への反動が国家政策レベルで顕在化。
+- **Implications**: AI/デジタル化への強い反発が社会的コンセンサスになりつつある。「テクノロジーを押し付けない」ポジショニングが重要。Falcon Platformは「選択肢」として訴求すべき。
+
+---
+
+#### 🟡 [MEDIUM] IBM x Arm: Enterprise Computing Collaboration（継続急騰）
+- **Score**: 180pts | **Comments**: 106（21:30比 +58pts）
+- **URL**: https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing
+- **Relevance**: エンタープライズインフラ・Arm Server台頭
+- **Summary**: IBM x Armコラボレーションが180ptsへ急騰。Armサーバーのエンタープライズ採用加速を示す。
+- **Implications**: GCP等のArmインスタンス活用でFalcon Platformのコスト削減可能性。Arm対応の準備を視野に。
+
+---
+
+#### 🟡 [MEDIUM] Email Obfuscation: What Works in 2026?（継続上昇）
+- **Score**: 232pts | **Comments**: 70（+29pts / +5c）
+- **URL**: https://spencermortensen.com/articles/email-obfuscation/
+- **Relevance**: セキュリティ・プライバシー実務
+- **Summary**: AI時代の実用的セキュリティ記事が232ptsへ継続上昇。1日を通じて技術者の関心が持続。
+- **Implications**: AIスクレイパー対策・プライバシー保護への実践的需要が高い。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
