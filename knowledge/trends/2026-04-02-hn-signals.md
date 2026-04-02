@@ -478,6 +478,45 @@
 
 ---
 
+### 15:30 JST
+
+スコア更新 + Claude Code Leak急騰継続・r/programmingのLLM禁止令新規検出
+
+| タイトル | 14:30 | 15:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 780pts / 702c | **813pts / 730c** | +33pts / +28c ↑ |
+| EmDash (Cloudflare) | 519pts / 366c | **534pts / 371c** | +15pts / +5c（安定） |
+| DRAM pricing kills SBC | 392pts / 318c | **418pts / 335c** | **+26pts / +17c ↑↑** |
+| Claude Code Leak (build.ms) | 65pts / 20c | **94pts / 46c** | **+29pts / +26c ↑↑↑** |
+| StepFun 3.5 Flash | 154pts / 67c | **155pts / 70c** | +1pt（安定） |
+| AI for American Cement | 179pts / 109c | **184pts / 109c** | +5pts |
+| Quantum computing bombshells | 95pts / 26c | **113pts / 34c** | **+18pts / +8c ↑↑** |
+
+**注目**: Claude Code Leak（build.ms）が65pts→94ptsへ**+29pts/+26c**急騰継続。r/programmingがLLM関連議論を一時禁止（58pts/24c）という新規シグナルが出現。Quantum computingが113ptsに到達。
+
+#### 🔴 [HIGH] The Claude Code Leak（build.ms）急騰継続
+- **Score**: 94pts | **Comments**: 46（14:30比 +29pts/+26c）
+- **URL**: https://build.ms/2026/4/1/the-claude-code-leak/
+- **Relevance**: Claude/Anthropic直接関連
+- **Summary**: リーク分析記事が急騰継続。コメント数が20→46へ倍増以上。「コードの品質より実行が重要」「統合が競争優位」の論点が議論を牽引。
+- **Implications**: Claude Codeリーク騒動の余波は15時台になっても収束せず加速中。技術者の関心が実装の哲学・価値観の議論に発展している。
+
+#### 🔴 [HIGH] r/programming bans all discussion of LLM programming（新規）
+- **Score**: 58pts | **Comments**: 24
+- **URL**: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/
+- **Relevance**: AI業界・開発者コミュニティのセンチメント
+- **Summary**: r/programmingがLLM関連プログラミング議論を一時禁止すると発表。技術者コミュニティのAI疲れ・LLM過剰報道への反発が具体的な行動に。
+- **Implications**: 技術者コミュニティのAI疲弊が顕在化。Falcon Platformのマーケティングは「AI推し」より「実用性・透明性」を前面に出す戦略が有効。「誇大宣伝ではなく実証ベース」のポジショニングが重要。
+
+#### 🟡 [MEDIUM] Quantum Computing Bombshells（継続上昇）
+- **Score**: 113pts | **Comments**: 34（+18pts/+8c）
+- **URL**: https://scottaaronson.blog/?p=9665
+- **Relevance**: 量子コンピューティング
+- **Summary**: Scott Aaronsonの重大発表まとめが安定上昇。エイプリルフール翌日でも技術者の関心が落ちない。
+- **Implications**: 量子計算への技術者関心が持続的に高まっている。AI+量子の融合領域は今後重要な注目分野。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
