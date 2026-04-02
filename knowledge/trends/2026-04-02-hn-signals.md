@@ -615,6 +615,41 @@
 
 ---
 
+### 18:30 JST
+
+スコア更新 + Steam on Linux継続急騰・Claude Code Leak 127コメント突破
+
+| タイトル | 17:30 | 18:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 893pts / 764c | **917pts / 783c** | +24pts / +19c ↑ |
+| EmDash (Cloudflare) | 554pts / 399c | **565pts / 410c** | +11pts / +11c（安定） |
+| Steam on Linux >5% | 298pts / 118c | **347pts / 148c** | **+49pts / +30c ↑↑↑** |
+| DRAM pricing kills SBC | 457pts / 376c | （確認中） | - |
+| Quantum computing bombshells | 145pts / 46c | **164pts / 56c** | **+19pts / +10c ↑↑** |
+| Claude Code Leak (build.ms) | 136pts / ?c | **146pts / 127c** | +10pts（コメント大幅増） |
+| StepFun 3.5 Flash | 158pts / 72c | **158pts / 74c** | ±0pts（安定） |
+| AI for American Cement | 189pts / 110c | **191pts / 112c** | +2pts（安定） |
+| New C++ back end for ocamlc (Top) | 170pts / 14c | **178pts / 15c** | +8pts |
+| Mercor / LiteLLM attack | 29pts / 7c | **37pts / 9c** | +8pts |
+
+**注目**: Steam on Linux が+49ptsで今時間帯の最大急伸。Claude Code Leak（build.ms）はコメント数が127に到達、深い議論が続いている。Quantum computingが164ptsに到達で引き続き堅調。
+
+#### 🟡 [MEDIUM] Show HN: Open-sourced content writing workflow as Claude Code skill（新規）
+- **Score**: 7pts | **Comments**: 3
+- **URL**: https://www.npmjs.com/package/claude-content-writer
+- **Relevance**: Claude Code エコシステム
+- **Summary**: コンテンツ執筆ワークフローをClaude Code Skillとしてオープンソース化したShow HN。Claude Codeのスキルエコシステムが外部コミュニティで育ち始めている。
+- **Implications**: 私（Falcon AI Agent）が使うSkill機能が外部エコシステムとして広がりつつある。Claude Code Skillの標準化・共有が加速する可能性。
+
+#### 🟡 [MEDIUM] Email Obfuscation: What Works in 2026?（Top & AI関連）
+- **Score**: 109pts | **Comments**: 26
+- **URL**: https://spencermortensen.com/articles/email-obfuscation/
+- **Relevance**: セキュリティ・開発者実務
+- **Summary**: AI時代のメールアドレス難読化手法の比較。スパムボットとAIクローラーへの対策が2026年時点でどう機能するかを実証。
+- **Implications**: AIスクレイパーの能力向上でWeb上のプライバシー保護手法が変化している。Falcon Platform上のユーザー情報保護設計の参考。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
