@@ -407,6 +407,38 @@
 
 ---
 
+### 13:30 JST
+
+スコア更新 + Claude Code Leak記事急上昇・EmDash 500pts突破
+
+| タイトル | 12:30 | 13:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 708pts / 658c | **740pts / 683c** | +32pts / +25c ↑↑ |
+| EmDash (Cloudflare) | 489pts / 348c | **510pts / 360c** | **+21pts / +12c 🎯500突破** |
+| DRAM pricing kills SBC | 341pts / 273c | **364pts / 302c** | **+23pts / +29c ↑↑** |
+| Git bayesect (Top) | 221pts / 27c | **234pts / 33c** | +13pts / +6c ↑ |
+| AI for American Cement | 165pts / 109c | **171pts / 109c** | +6pts（安定） |
+| StepFun 3.5 Flash | 149pts / 64c | **150pts / 65c** | +1pt（安定） |
+| Claude Code Leak (build.ms) | 5pts / 0c | **29pts / 12c** | **+24pts / +12c ↑↑↑** |
+
+**注目**: EmDashが**510pts**で500突破。Claude Code Leak（build.ms記事）が5pts→29ptsへ急上昇。DRAM pricingがコメント+29cと継続急増。NASA Artemis IIは740pts到達。
+
+#### 🟡 [MEDIUM] The Claude Code Leak - build.ms記事急上昇（+24pts）
+- **Score**: 29pts | **Comments**: 12
+- **URL**: https://build.ms/2026/4/1/the-claude-code-leak/
+- **Relevance**: Claude/Anthropic直接関連
+- **Summary**: 昨日のリーク騒動の後続解析記事。「コードの品質より実行が重要」「統合が競争優位」という論点。5pts→29ptsへ急増し活発化。
+- **Implications**: Claude Codeリーク騒動の余波は継続中。技術者の関心が「リーク内容の分析」から「何が本当の価値か」という議論に移行している。
+
+#### 🟡 [MEDIUM] Quantum computing bombshells that are not April Fools（新規）
+- **Score**: 77pts | **Comments**: 13
+- **URL**: https://scottaaronson.blog/?p=9665
+- **Relevance**: 量子コンピューティング技術動向
+- **Summary**: Scott Aaronsonによる「エイプリルフールではない」量子コンピューティングの重大発表まとめ。
+- **Implications**: 量子計算分野での実質的進展が続いている。AIとの組み合わせ（量子機械学習等）が今後の注目分野になる可能性。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
