@@ -332,6 +332,38 @@
 
 ---
 
+### 10:30 JST
+
+スコア更新 + StepFun急上昇・NASA継続拡大
+
+| タイトル | 09:30 | 10:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 497pts / 469c | **598pts / 542c** | **+101pts ↑↑↑** |
+| EmDash (Cloudflare) | 441pts / 316c | **459pts / 329c** | +18pts / +13c ↑ |
+| DRAM pricing kills SBC | 247pts / 171c | **282pts / 209c** | **+35pts / +38c ↑↑** |
+| Git bayesect (Top) | 185pts / 25c | **198pts / 26c** | +13pts |
+| StepFun 3.5 Flash | 132pts / 59c | **139pts / 60c** | +7pts |
+| AI Marketing BS Index | 90pts / 23c | 90pts / 18c | 横ばい |
+| AI Cement (Meta/FB) | 117pts / 100c | **144pts / 107c** | **+27pts ↑↑** |
+| Obfuscation/Claude Code | 22pts / 17c | 29pts / 24c | +7pts |
+
+**注目**: NASA Artemis IIが+101ptsで爆発的継続上昇（598pts）。DRAM pricing も+35pts堅調。AI Cement（Meta）が+27ptsで再浮上。StepFun 3.5 Flashが139ptsに到達。
+
+#### 🟡 [MEDIUM] StepFun 3.5 Flash - コスト効率No.1（継続上昇）
+- **Score**: 139pts | **Comments**: 60
+- **URL**: https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn
+- **Relevance**: LLMコスト競争
+- **Summary**: OpenClaw tasks（300バトル）でコスト効率No.1と主張する中国系モデルが継続的に注目を集めている。
+- **Implications**: LLMのコモディティ化加速。低コストモデル競争が熾烈。Falcon PlatformがClaude採用を維持する場合、コスト対品質の優位性をマーケティングに活用できる。
+
+#### 🟡 [MEDIUM] AI for Cement/Concrete - Meta FB Engineering（再浮上）
+- **Score**: 144pts | **Comments**: 107
+- **Relevance**: AI応用（物理インフラ）
+- **Summary**: MetaがAIで米国産セメント・コンクリート調達を最適化。製造業・サプライチェーンへのAI浸透。
+- **Implications**: AIがデジタル領域を超えた物理インフラ最適化でも成果を上げている。エンタープライズAI需要の多様化。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
