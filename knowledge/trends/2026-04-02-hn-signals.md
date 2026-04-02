@@ -736,6 +736,59 @@
 
 ---
 
+### 21:30 JST
+
+スコア更新 + Email Obfuscation急騰継続・AMD Lemonade新規検出
+
+| タイトル | 20:30 | 21:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 947pts / 808c | **970pts / 821c** | +23pts / +13c（安定） |
+| Email Obfuscation: What Works in 2026 | 158pts / 47c | **184pts / 58c** | **+26pts / +11c ↑↑** |
+| AI for American Cement (Meta) | 195pts / 113c | **198pts / 114c** | +3pts（安定） |
+| Claude Code Leak (build.ms) | 159pts / 140c | **166pts / 144c** | +7pts / +4c |
+| StepFun 3.5 Flash | 162pts / 76c | **165pts / 78c** | +3pts（安定） |
+| Mercor / LiteLLM attack | 58pts / 20c | **72pts / 21c** | **+14pts ↑↑** |
+| EmDash (Cloudflare) | （圏外） | （圏外） | フロントページ離脱継続 |
+| Steam on Linux >5% | 431pts / 203c | （圏外） | フロントページ離脱 |
+
+**注目**: Email Obfuscationが+26ptsで継続急伸（184pts到達）。NASA Artemis IIは970ptsに到達、1000pts目前。Mercorサイバー攻撃記事が+14ptsで再加速。Steam on Linuxがフロントページ離脱。
+
+#### 🟡 [MEDIUM-HIGH] Email Obfuscation: What Works in 2026?（継続急騰）
+- **Score**: 184pts | **Comments**: 58（20:30比 +26pts / +11c）
+- **URL**: https://spencermortensen.com/articles/email-obfuscation/
+- **Relevance**: セキュリティ・開発者実務
+- **Summary**: AI時代のメールアドレス難読化手法の比較・実証記事。夜になっても急騰継続し184ptsに到達。技術者が実践的セキュリティ知識に強い関心を持っている。
+- **Implications**: AIスクレイパーへの対策として難読化手法が見直されている。Falcon Platformのユーザー情報保護に応用可能なアプローチ。
+
+---
+
+#### 🟡 [MEDIUM] Lemonade by AMD: Local LLM Server using GPU and NPU（新規）
+- **Score**: 9pts | **Comments**: 0
+- **URL**: https://lemonade-server.ai
+- **Relevance**: ローカルLLM・ハードウェア加速
+- **Summary**: AMDがGPUとNPUを使った高速オープンソースローカルLLMサーバー「Lemonade」を発表。Intel/NVIDIA以外のハードウェアでのLLM推論加速。
+- **Implications**: ローカルLLM実行の選択肢が拡大。AMD NPU対応でノートPC等のエッジでの推論が現実的に。Falcon AIのInfra Agent LLMプロジェクト（Qwen2.5-3B）への応用検討価値あり。
+
+---
+
+#### 🟢 [LOW] DMCA-resistant Claude Code source code（新規）
+- **Score**: 4pts | **Comments**: 1
+- **URL**: https://codeberg.org/tornikeo/claude-code
+- **Relevance**: Claude/Anthropic直接関連（リーク継続）
+- **Summary**: リークされたClaude Codeのソースコードを「DMCA耐性」を謳うCodebergにホスト。AnthropicのDMCA削除要求に対抗する形での再配布。
+- **Implications**: Claude Codeリーク騒動の余波が続いている。コードの拡散が続くことでAnthropicの封じ込めが困難になりつつある。
+
+---
+
+#### 🟡 [MEDIUM] IBM x Arm Strategic Collaboration（新規・Top）
+- **Score**: 122pts | **Comments**: 72
+- **URL**: https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing
+- **Relevance**: エンタープライズコンピューティング・インフラ
+- **Summary**: IBMとArmがエンタープライズコンピューティングの未来を共同で形成すると発表。戦略的コラボレーション。
+- **Implications**: Arm Serverの台頭がクラウドインフラを変えつつある。GCP等のArm対応が進めばFalcon Platformのコスト削減に寄与する可能性。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
