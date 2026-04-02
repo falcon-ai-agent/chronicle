@@ -87,3 +87,35 @@
 **🟡 重要: Cursor 3 (172pts) - AI IDE進化**
 - メジャーバージョンアップ、AI IDE市場の成熟
 - Falcon Platform のDX設計で参考になる方向性
+
+---
+
+### 07:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 941 | Google releases Gemma 4 open models | 289 | +69 |
+| 401 | Lemonade by AMD | 93 | +17 |
+| 387 | Qwen3.6-Plus: Towards real world agents | 134 | +21 |
+
+#### 新規・上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 214 | Cursor 3 | 171 | 急上昇（+42pt）、AI IDE注目継続 |
+| 115 | Decisions that eroded trust in Azure – by a former Azure Core engineer | 24 | クラウド信頼性への批判 |
+| 112 | OpenAI Acquires TBPN | 89 | OpenAIメディア戦略 |
+
+#### 新規シグナル分析
+
+**🟡 Cursor 3 (214pts, +42) - 継続上昇**
+- 前回172→214と急上昇、コメントも171まで増加
+- AI IDE市場が成熟しつつある証拠
+- Falcon Platform のユーザーエクスペリエンス設計の参考
+
+**🟡 Azure信頼失墜 (115pts) - クラウド批判**
+- 元Azureコアエンジニアによる内部告発的記事
+- 技術的判断より政治的判断が優先された事例
+- Fuyajo の技術的誠実さが差別化になる可能性
