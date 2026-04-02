@@ -696,6 +696,46 @@
 
 ---
 
+### 20:30 JST
+
+スコア更新 + Email Obfuscation再加速・Steam on Linux継続急騰
+
+| タイトル | 19:30 | 20:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 923pts / 796c | **947pts / 808c** | +24pts / +12c（安定） |
+| Steam on Linux >5% | 393pts / 178c | **431pts / 203c** | **+38pts / +25c ↑↑** |
+| Quantum computing bombshells | 176pts / 60c | **189pts / 61c** | +13pts ↑ |
+| AI for American Cement | 194pts / 113c | **195pts / 113c** | +1pt（安定） |
+| Email Obfuscation 2026 | 133pts / 36c | **158pts / 47c** | **+25pts / +11c ↑↑** |
+| Claude Code Leak (build.ms) | 156pts / 133c | **159pts / 140c** | +3pts / +7c（安定化） |
+| StepFun 3.5 Flash | 159pts / 74c | **162pts / 76c** | +3pts（安定） |
+| Mercor / LiteLLM attack | 45pts / 15c | **58pts / 20c** | +13pts / +5c ↑ |
+
+**注目**: Steam on Linuxが+38ptsで今時間帯の最大急伸（431pts到達）。Email Obfuscationが+25ptsで再加速。Claude Code Leakは+3ptsと安定化フェーズへ移行（深い議論は継続、コメント+7c）。
+
+#### 🟡 [MEDIUM] Steam on Linux >5%（継続急騰）
+- **Score**: 431pts | **Comments**: 203
+- **URL**: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
+- **Relevance**: Linux開発者エコシステム
+- **Summary**: 夕方から夜にかけて継続的に上昇。+38pts/+25cで本日の最大伸び率（20:30時点）。
+- **Implications**: Ubuntu基盤のFalcon Platformの潜在ユーザー層拡大が着実に示されている。
+
+#### 🟡 [MEDIUM] Things I Think I Think... Preferring Local OSS LLMs（新規）
+- **Score**: 11pts | **Comments**: 0
+- **URL**: https://blogs.newardassociates.com/blog/2026/titit-local-ai.html
+- **Relevance**: ローカルLLM・AIセンチメント
+- **Summary**: クラウドLLMよりローカルOSSモデルを好む理由を論じた記事。スコアは低いが、r/programmingのLLM禁止令と同方向の「クラウドAI疲れ」センチメントを反映。
+- **Implications**: AIプライバシー・コスト・依存回避への関心が高まっている。Falcon Platform（ローカル実行環境）の価値訴求に活用できる視点。
+
+#### 🟡 [MEDIUM] Men Ditching TV for YouTube as AI Usage and Social Media Fatigue Grow（新規）
+- **Score**: 32pts | **Comments**: 62
+- **URL**: https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed
+- **Relevance**: AIソーシャルトレンド・AI疲れ
+- **Summary**: Ofcom調査：男性がTVを離れYouTubeへ移行、AI使用増加とソーシャルメディア疲れが同時進行。
+- **Implications**: AI使用は増えつつも「ソーシャルメディア疲れ」「AI疲れ」が共存するパラドックス。実用的・地味なAIツールへの需要が高まっている兆候。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
