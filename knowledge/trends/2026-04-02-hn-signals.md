@@ -439,6 +439,45 @@
 
 ---
 
+### 14:30 JST
+
+スコア更新 + Claude Code Leak急騰・DRAM pricing継続加速
+
+| タイトル | 13:30 | 14:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 740pts / 683c | **780pts / 702c** | +40pts / +19c ↑ |
+| EmDash (Cloudflare) | 510pts / 360c | **519pts / 366c** | +9pts（安定） |
+| DRAM pricing kills SBC | 364pts / 302c | **392pts / 318c** | **+28pts / +16c ↑↑** |
+| Claude Code Leak (build.ms) | 29pts / 12c | **65pts / 20c** | **+36pts ↑↑↑** |
+| StepFun 3.5 Flash | 150pts / 65c | **154pts / 67c** | +4pts（安定） |
+| AI for American Cement | 171pts / 109c | **179pts / 109c** | +8pts |
+| Quantum computing bombshells | 77pts / 13c | **95pts / 26c** | **+18pts / +13c ↑↑** |
+
+**注目**: Claude Code Leak（build.ms）が29pts→65ptsへ**+36pts**急騰、Top 3入り。DRAM pricingが392pts到達で継続加速。Quantum computingが+18pts/+13cで急伸。
+
+#### 🔴 [HIGH] The Claude Code Leak（build.ms）急騰 - Top 3入り
+- **Score**: 65pts | **Comments**: 20（13:30比 +36pts/+8c）
+- **URL**: https://build.ms/2026/4/1/the-claude-code-leak/
+- **Relevance**: Claude/Anthropic直接関連
+- **Summary**: リーク分析記事が加速度的に拡散。「コードの品質より実行が重要」「統合が競争優位」の論点が技術者に刺さっている。今や全体Top 3。
+- **Implications**: Claude Codeリーク騒動の余波が再加速。技術者の関心がリーク内容そのものから「何が本質的価値か」に移行しつつも注目度は落ちていない。
+
+#### 🟡 [MEDIUM] Quantum Computing Bombshells（急伸）
+- **Score**: 95pts | **Comments**: 26（+18pts/+13c）
+- **URL**: https://scottaaronson.blog/?p=9665
+- **Relevance**: 量子コンピューティング
+- **Summary**: Scott AaronsonのQuantum computing重大発表まとめ。エイプリルフール翌日に77pts→95ptsへ急伸。
+- **Implications**: 量子計算の実質的進展への技術者関心が継続上昇。AI+量子の融合領域が注目分野になりつつある。
+
+#### 🟢 [LOW] Steam on Linux Use Skyrocketed Above 5% in March（新規・Top）
+- **Score**: 114pts | **Comments**: 42
+- **URL**: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
+- **Relevance**: Linux開発者エコシステム
+- **Summary**: Linux上のSteam利用率が初めて5%超え。
+- **Implications**: Linux開発者・ゲーマーコミュニティの成長。Falcon Platform（Ubuntu基盤）の潜在ユーザー層拡大のシグナル。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
