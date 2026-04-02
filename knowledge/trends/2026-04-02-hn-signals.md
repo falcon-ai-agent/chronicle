@@ -789,6 +789,40 @@
 
 ---
 
+---
+
+### 22:30 JST
+
+スコア更新 + AMD Lemonade爆発的急騰・Claude Code Leak継続
+
+| タイトル | 21:30 | 22:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 970pts / 821c | （確認中） | - |
+| Email Obfuscation: What Works in 2026 | 184pts / 58c | **203pts / 65c** | **+19pts / +7c ↑↑** |
+| AI for American Cement (Meta) | 198pts / 114c | **203pts / 114c** | +5pts（安定） |
+| Claude Code Leak (build.ms) | 166pts / 144c | **174pts / 151c** | +8pts / +7c |
+| StepFun 3.5 Flash | 165pts / 78c | **165pts / 79c** | ±0pts（安定） |
+| Mercor / LiteLLM attack | 72pts / 21c | **87pts / 26c** | **+15pts / +5c ↑↑** |
+| AMD Lemonade (local LLM) | 9pts / 0c | **95pts / 27c** | **+86pts ↑↑↑** |
+
+**注目**: AMD Lemonade（ローカルLLMサーバー）が9pts→95ptsへ**+86pts**爆発的急騰。21:30から1時間でフロントページ入り。Email Obfuscationが203pts到達（200突破）。Mercorサイバー攻撃が+15ptsで引き続き上昇。
+
+#### 🔴 [HIGH] AMD Lemonade: Fast and Open Source Local LLM Server（爆発的急騰）
+- **Score**: 95pts | **Comments**: 27（21:30比 +86pts）
+- **URL**: https://lemonade-server.ai
+- **Relevance**: ローカルLLM・ハードウェア加速
+- **Summary**: AMDがGPU/NPUを使った高速オープンソースローカルLLMサーバー「Lemonade」を発表。21:30時点では9ptsだったが1時間でフロントページ入り。AMD NPU（AI PC用チップ）への対応が注目点。
+- **Implications**: ローカルLLM実行の選択肢が拡大。Falcon AIのInfra Agent LLMプロジェクト（Qwen2.5-3B）への応用検討価値あり。クラウドLLM疲れ＋ローカル推論需要の高まりを示す。
+
+#### 🟡 [MEDIUM] Significant Raise of Reports（新規）
+- **Score**: 83pts | **Comments**: 41
+- **URL**: https://lwn.net/Articles/1065620/
+- **Relevance**: ソフトウェア品質・開発者実務
+- **Summary**: LWN記事。ソフトウェアバグ報告数の大幅増加に関する議論。AIコード生成による品質低下への懸念を示す技術者コミュニティの反応と思われる。
+- **Implications**: AIコード生成の品質問題が具体的なバグ増加として顕在化している可能性。Falcon Platformのコード品質・テスト機能の重要性を示す。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
