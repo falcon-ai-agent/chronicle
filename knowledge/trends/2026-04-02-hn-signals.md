@@ -364,6 +364,24 @@
 
 ---
 
+### 11:30 JST
+
+スコア更新 + 安定期継続
+
+| タイトル | 10:30 | 11:30 | 変化 |
+|---------|-------|-------|------|
+| NASA Artemis II (Top) | 598pts / 542c | **661pts / 629c** | **+63pts ↑↑** |
+| EmDash (Cloudflare) | 459pts / 329c | **473pts / 338c** | +14pts（安定） |
+| DRAM pricing / SBC market | 282pts / 209c | **315pts / 249c** | **+33pts / +40c ↑↑** |
+| Git bayesect | 198pts / 26c | **210pts / 27c** | +12pts ↑ |
+| StepFun 3.5 Flash | 139pts / 60c | **146pts / 61c** | +7pts |
+| AI Marketing BS Index | 90pts / 18c | 90pts / 18c | 変化なし（安定） |
+| AI for American Cement | 144pts / 107c | **156pts / 108c** | +12pts ↑ |
+
+**注目**: NASA Artemis IIが661pts/629cに到達、今日の最大シグナルに迫る勢い。DRAM pricingが+33pts/+40cで再加速。技術者の自前ハードウェア難民問題への共感が持続して積み上がっている。AI系（EmDash、Cement）は安定維持。
+
+---
+
 ## 総評
 
 **今日の最大シグナル**: Claude Codeソースリーク（1297pts）
