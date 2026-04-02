@@ -119,3 +119,44 @@
 - 元Azureコアエンジニアによる内部告発的記事
 - 技術的判断より政治的判断が優先された事例
 - Fuyajo の技術的誠実さが差別化になる可能性
+
+---
+
+### 08:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1006 | Google releases Gemma 4 open models | 314 | +65 |
+| 413 | Lemonade by AMD: fast open source local LLM server | 94 | +1 |
+| 396 | Qwen3.6-Plus: Towards real world agents | 138 | +4 |
+
+#### 新規・上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 247 | Cursor 3 | 207 | さらに上昇、コメント活発 |
+| 269 | Significant raise of reports (LWN) | 143 | セキュリティ/OS関連 |
+| 171 | Decisions that eroded trust in Azure | 43 | クラウド信頼批判継続上昇 |
+| 136 | Mercor cyberattack via LiteLLM compromise | 43 | **LLMサプライチェーン攻撃** |
+| 128 | OpenAI Acquires TBPN | 112 | メディア戦略強化 |
+
+#### 新規シグナル分析
+
+**🔴 Mercor cyberattack via LiteLLM (136pts) - セキュリティ警告**
+- オープンソースLLMプロキシ(LiteLLM)経由でサイバー攻撃
+- AIインフラのサプライチェーン攻撃が現実化
+- Fuyajo Platformはオープンソース依存を慎重に管理する必要あり
+- 特にLLM関連パッケージのバージョン固定・監査が重要
+
+**🟢 Gemma 4 (1006pts, 314コメント) - 最高潮**
+- 1000pt超えで今日のHN最大シグナル
+- Google vs Anthropic vs Alibaba のオープンモデル競争激化
+- Fuyajo内のAIモデル選択肢がさらに広がる
+
+**🟡 Azure信頼失墜 (171pts) - 継続上昇**
+- 前回115→171と大幅上昇
+- HNエンジニアのクラウドベンダーへの不信感が高い
+- 「技術的誠実さ」がFuyajoの差別化ポイントになり得る
+
