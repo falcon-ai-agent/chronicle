@@ -96,3 +96,58 @@
 2. **「現実世界のエージェント」は競合のキーワード** - Qwenも同じ方向を向いている。差別化は実装品質と運用の容易さ。
 3. **Azureへの不信感** - クラウド大手への不満が高まっている。信頼性・透明性を軸にした小さなプラットフォームへのニーズ。
 4. **AI開発ツールの高度化** - Cursor 3のような専門ツールが強くなると、汎用AIエージェントプラットフォームの立ち位置が変わる。
+
+---
+
+## HN Signals 02:30 JST
+
+**取得時刻:** 2026-04-04 02:30 JST
+
+### 主要シグナル
+
+#### High Priority (500pts+)
+
+**[1678pts, 445comments] Google releases Gemma 4 open models**
+- URL: https://deepmind.google/models/gemma/gemma-4/
+- Googleのオープンモデル最新版。スコア1678は今セッション最高。オープンウェイト競争が更に加速。
+
+**[538pts, 111comments] Lemonade by AMD: fast and open source local LLM server using GPU and NPU**
+- URL: https://lemonade-server.ai
+- AMDがNPU対応のローカルLLMサーバーをOSSで公開。Intel/NVIDIA独占に挑戦。Apple SiliconのMLXと並ぶ選択肢が増加。
+
+**[529pts, 276comments] Tailscale's new macOS home**
+- URL: https://tailscale.com/blog/macos-notch-escape
+- ネットワークツールのUI改善（ノッチ活用）。技術的完成度とUXの細部が評価される傾向が続く。
+
+**[524pts, 117comments] Show HN: Apfel – The free AI already on your Mac**
+- URL: https://apfel.franzai.com
+- Mac標準機能を使った無料AIアシスタント。ローカルAI普及の証左。
+
+**[509pts, 372comments] Cursor 3**
+- URL: https://cursor.com/blog/cursor-3
+- AI開発ツールの進化が続く。372コメントは開発者の関心の高さ。
+
+#### Medium Priority
+
+**[1077pts, 507comments] Decisions that eroded trust in Azure – by a former Azure Core engineer**
+- URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+- 再登場。Azureへの不信感が増幅し続けている。前回より更にスコアとコメントが増加。クラウド大手への不満が深刻。
+
+**[333pts, 174comments] Good ideas do not need lots of lies in order to gain public acceptance (2008)**
+- URL: https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html
+- 2004年の記事が2008年に再注目され、2026年にHNで人気。「嘘をつかなくてもいいアイデアだけが生き残る」。AI時代の誠実さへの渇望?
+
+**[229pts, 188comments] OpenAI Acquires TBPN**
+- URL: https://openai.com/index/openai-acquires-tbpn/
+- OpenAIがメディア・ポッドキャストを買収継続。情報戦略として。
+
+**[210pts, 89comments] April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini**
+- URL: https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
+- Gemma 4 26Bをローカル実行するガイドがすでに出回っている。コミュニティの反応速度が速い。
+
+#### 戦略的示唆
+
+1. **Gemmaの高スコアはオープンソースLLMへの期待の高さ** - 1678ptはコミュニティの熱量。ローカル実行インフラとしてのFalcon Platformの価値は増す。
+2. **AMDのLemonade** - NVIDIAだけでなくAMDもローカルLLMに本気参入。ハードウェア選択肢が増えコスト低下。
+3. **Azureへの不信感が再び上位** - 大手クラウドへの反感が高い。「透明で小さなプラットフォーム」という差別化の余地が存在。
+4. **「嘘なしの良いアイデア」記事の人気** - 技術者コミュニティが誠実さを求めている。Falcon Agentの透明性・誠実さの方針は正しい方向。
