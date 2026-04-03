@@ -122,18 +122,143 @@
 
 ---
 
+### 08:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1006 | Google releases Gemma 4 open models | 314 | +65 |
+| 413 | Lemonade by AMD: fast open source local LLM server | 94 | +1 |
+| 396 | Qwen3.6-Plus: Towards real world agents | 138 | +4 |
+
+#### 新規・上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 247 | Cursor 3 | 207 | さらに上昇、コメント活発 |
+| 269 | Significant raise of reports (LWN) | 143 | セキュリティ/OS関連 |
+| 171 | Decisions that eroded trust in Azure | 43 | クラウド信頼批判継続上昇 |
+| 136 | Mercor cyberattack via LiteLLM compromise | 43 | **LLMサプライチェーン攻撃** |
+| 128 | OpenAI Acquires TBPN | 112 | メディア戦略強化 |
+
+#### 新規シグナル分析
+
+**🔴 Mercor cyberattack via LiteLLM (136pts) - セキュリティ警告**
+- オープンソースLLMプロキシ(LiteLLM)経由でサイバー攻撃
+- AIインフラのサプライチェーン攻撃が現実化
+- Fuyajo Platformはオープンソース依存を慎重に管理する必要あり
+- 特にLLM関連パッケージのバージョン固定・監査が重要
+
+**🟢 Gemma 4 (1006pts, 314コメント) - 最高潮**
+- 1000pt超えで今日のHN最大シグナル
+- Google vs Anthropic vs Alibaba のオープンモデル競争激化
+- Fuyajo内のAIモデル選択肢がさらに広がる
+
+**🟡 Azure信頼失墜 (171pts) - 継続上昇**
+- 前回115→171と大幅上昇
+- HNエンジニアのクラウドベンダーへの不信感が高い
+- 「技術的誠実さ」がFuyajoの差別化ポイントになり得る
+
+---
+
+### 09:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1080 | Google releases Gemma 4 open models | 331 | +74 |
+| 430 | Lemonade by AMD: fast open source local LLM server | 95 | +17 |
+| 415 | Qwen3.6-Plus: Towards real world agents | 143 | +19 |
+
+#### 新規・上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 264 | Cursor 3 | 228 | 継続上昇、コメント増加 |
+| 274 | Significant raise of reports (LWN) | 145 | セキュリティ/OS継続 |
+| 291 | Tailscale's new macOS home | 147 | macOS開発者ツール |
+| 233 | Decisions that eroded trust in Azure | 63 | **急上昇+62pts** |
+| 67 | The case for zero-error horizons in trustworthy LLMs | 93 | スコア低いがコメント比高い |
+
+#### 新規シグナル分析
+
+**🔴 Azure信頼失墜 (233pts, +62) - 急上昇注目**
+- 08:30時点171→233と本日最大上昇幅
+- 元Azure内部エンジニアの告発が技術者の共感を呼んでいる
+- Fuyajoの「技術的誠実さ優先」設計の差別化に活かせる
+
+**🟡 Zero-error horizons in LLMs (67pts, 93コメント) - 議論活発**
+- スコア比でコメント率が非常に高い（1.38 vs 通常0.3前後）
+- LLMの信頼性・エラー率への批判的議論が活発
+- Fuyajoのエージェント基盤の信頼性設計に示唆
+
+**🟡 Tailscale macOS (291pts) - 開発者ツールDX**
+- ネットワーキングツールのUX革新
+- 開発者体験への投資が評価される市場
+- FuyajoのSSH/ネットワーク体験設計の参考
+
+---
+
+### 10:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1130 | Google releases Gemma 4 open models | 337 | +50/+6 |
+| 440 | Lemonade by AMD: fast open source local LLM server | 97 | +10/+2 |
+| 426 | Qwen3.6-Plus: Towards real world agents | 149 | +11/+6 |
+| 317 | Tailscale's new macOS home | 164 | +26/+17 |
+| 282 | Cursor 3 | 240 | +18/+12 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 278 | Decisions that eroded trust in Azure | 87 | **+45pts急上昇** |
+| 278 | Significant raise of reports (LWN) | 147 | 横ばい |
+| 1558 | LinkedIn is searching your browser extensions | 682 | 累計継続増加 |
+| 146 | OpenAI Acquires TBPN | 127 | コメント活発 |
+
+#### 新規シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 6 | Post Mortem: axios NPM supply chain compromise | 0 | **サプライチェーン攻撃** |
+
+#### 新規シグナル分析
+
+**🔴 Azure信頼失墜 (278pts, +45) - 本日最大上昇継続**
+- 09:30時点233→278とさらに45pt上昇、今日2番目の上昇幅
+- HNエンジニア層のクラウドベンダー不信が高まり続けている
+- Fuyajoの「技術的誠実さ・オープン設計」が明確な差別化になる
+
+**🟡 axios NPM サプライチェーン攻撃 (Post Mortem)**
+- 人気NPMパッケージaxiosへのサプライチェーン攻撃の事後分析
+- LiteLLM攻撃(Mercor事件)と合わせてオープンソース依存リスクが顕在化
+- Fuyajoはサードパーティ依存のバージョン固定・監査が重要
+
+**🟢 Lemonade by AMD (440pts) - AI ツール首位**
+- Qwenを抜いてAI関連ストーリーで首位
+- GPU+NPU対応ローカルLLMサーバーへの関心が非常に高い
+- Infra Agent LLMのサービング基盤として詳細調査の価値あり
+
+---
+
 ### 11:30 JST
 
 #### スコア300+更新
 
 | スコア | タイトル | コメント | 前回比 |
 |-------|---------|---------|--------|
-| 1176 | Google releases Gemma 4 open models | 353 | +235 |
-| 449 | Lemonade by AMD | 98 | +48 |
-| 435 | Qwen3.6-Plus: Towards real world agents | 150 | +48 |
-| 334 | Decisions that eroded trust in Azure | 112 | **+219** 急騰 |
-| 333 | Tailscale's new macOS home | 175 | 初登場高位 |
-| 297 | Cursor 3 | 251 | +83 |
+| 1176 | Google releases Gemma 4 open models | 353 | +46/+16 |
+| 449 | Lemonade by AMD | 98 | +9/+1 |
+| 435 | Qwen3.6-Plus: Towards real world agents | 150 | +9/+1 |
+| 334 | Decisions that eroded trust in Azure | 112 | **+56** 急騰継続 |
+| 333 | Tailscale's new macOS home | 175 | +16/+11 |
+| 297 | Cursor 3 | 251 | +15/+11 |
 
 #### 新規・注目シグナル
 
@@ -141,22 +266,24 @@
 |-------|---------|---------|------|
 | 285 | Significant raise of reports (LWN) | 148 | Linuxカーネル関連 |
 | 161 | Good ideas do not need lots of lies (2008) | 77 | 古典記事が再浮上 |
-| 157 | OpenAI Acquires TBPN | 131 | +45、議論拡大 |
+| 157 | OpenAI Acquires TBPN | 131 | +11、議論拡大 |
 | 136 | Mercor/LiteLLM compromise | 43 | セキュリティ続報 |
-| 25 | axios NPM supply chain compromise | 10 | サプライチェーン攻撃事後分析 |
+| 25 | axios NPM supply chain compromise | 10 | Post Mortem詳細 |
 
 #### 急騰分析
 
-**🔴 Azure信頼失墜 (334pts, +219) - 今回最大の急騰**
-- 07:30の115ptsから334ptsへ3倍近く急騰
-- 技術者コミュニティで強く共鳴している
-- 「クラウド大手への不信」が Fuyajo の小規模・透明サービスへの追い風になりうる
+**🔴 Azure信頼失墜 (334pts, +56) - 本日最大シグナルに**
+- 10:30の278ptsから334ptsへ+56pt上昇、300pt超え達成
+- 本日07:30の115pts→11:30の334ptsへ約3倍の成長
+- 元Azure内部エンジニアの内部告発記事が技術者コミュニティで爆発的共鳴
+- Fuyajoの「小規模・透明・技術誠実」が大手クラウドへの不信の受け皿になりうる
 
-**🟡 Tailscale macOS home (333pts) - インフラDXの注目**
+**🟡 Tailscale macOS home (333pts) - 開発者インフラDX**
 - ネットワーキングツールのUX改善が高評価
 - 開発者がインフラツールのUXを重視することの証拠
+- FuyajoのSSH/ネットワーク体験設計の参考
 
-**🟡 OpenAI Acquires TBPN (157pts, +45) - 議論拡大**
+**🟡 OpenAI Acquires TBPN (157pts) - AI企業メディア戦略**
 - OpenAIのメディア買収戦略への批判的議論
 - AI企業の事業拡大方向への技術者の懸念
 
