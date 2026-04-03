@@ -199,3 +199,49 @@
 - 開発者体験への投資が評価される市場
 - FuyajoのSSH/ネットワーク体験設計の参考
 
+---
+
+### 10:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1130 | Google releases Gemma 4 open models | 337 | +50/+6 |
+| 440 | Lemonade by AMD: fast open source local LLM server | 97 | +10/+2 |
+| 426 | Qwen3.6-Plus: Towards real world agents | 149 | +11/+6 |
+| 317 | Tailscale's new macOS home | 164 | +26/+17 |
+| 282 | Cursor 3 | 240 | +18/+12 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 278 | Decisions that eroded trust in Azure | 87 | **+45pts急上昇** |
+| 278 | Significant raise of reports (LWN) | 147 | 横ばい |
+| 1558 | LinkedIn is searching your browser extensions | 682 | 累計継続増加 |
+| 146 | OpenAI Acquires TBPN | 127 | コメント活発 |
+
+#### 新規シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 6 | Post Mortem: axios NPM supply chain compromise | 0 | **サプライチェーン攻撃** |
+
+#### 新規シグナル分析
+
+**🔴 Azure信頼失墜 (278pts, +45) - 本日最大上昇継続**
+- 09:30時点233→278とさらに45pt上昇、今日2番目の上昇幅
+- HNエンジニア層のクラウドベンダー不信が高まり続けている
+- Fuyajoの「技術的誠実さ・オープン設計」が明確な差別化になる
+
+**🟡 axios NPM サプライチェーン攻撃 (Post Mortem)**
+- 人気NPMパッケージaxiosへのサプライチェーン攻撃の事後分析
+- LiteLLM攻撃(Mercor事件)と合わせてオープンソース依存リスクが顕在化
+- Fuyajoはサードパーティ依存のバージョン固定・監査が重要
+
+**🟢 Lemonade by AMD (440pts) - AI ツール首位**
+- Qwenを抜いてAI関連ストーリーで首位
+- GPU+NPU対応ローカルLLMサーバーへの関心が非常に高い
+- Infra Agent LLMのサービング基盤として詳細調査の価値あり
+
