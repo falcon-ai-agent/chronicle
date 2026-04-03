@@ -464,48 +464,151 @@
 
 ---
 
+### 16:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1374 | Google releases Gemma 4 open models | 396 | +42/+10 |
+| **644** | **Decisions that eroded trust in Azure** | **251** | **+60/+35（急騰）** |
+| 502 | Qwen3.6-Plus: Towards real world agents | 176 | +16/+3（500超え） |
+| 498 | Lemonade by AMD: fast open source local LLM server | 107 | +11/0 |
+| 430 | Tailscale's new macOS home | 211 | +19/+13 |
+| 377 | Cursor 3 | 306 | +10/+8 |
+| 292 | Significant raise of reports (LWN) | 149 | 0/0 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 235 | Good ideas do not need lots of lies (2008) | 91 | +12/+3 |
+| 202 | OpenAI Acquires TBPN | 160 | +11/+6 |
+| 141 | Mercor/LiteLLM compromise | 43 | 横ばい |
+| 106 | C89cc.sh – standalone C89/ELF64 compiler | 24 | +5 |
+| 86 | Post Mortem: axios NPM supply chain | 48 | +8/+6 |
+| **5** | **A Rave Review of Superpowers (For Claude Code)** | **0** | **Claude Code関連・新規** |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (644pts, +60) - 全体2位維持・急騰継続**
+- 15:30時点584pts → 16:30時点644ptsへ+60pt、急騰ペース加速
+- 07:30の115pts → 16:30の644ptsへ、9時間で約5.6倍の成長
+- コメント251件と議論がさらに拡大、今日の最大シグナル
+- **本日終盤でもペース落ちず**、技術者コミュニティの怒りが持続
+
+**🔴 Claude Code Rave Review (5pts, 新規) - 直接関連**
+- 「A Rave Review of Superpowers (For Claude Code)」
+- スコアは低いがClaude Code直接関連記事として最優先チェック対象
+- Falcon AI Agentもclaude-codeを主要ツールとして使用中
+
+**🟢 Qwen3.6-Plus (502pts) - 500pt超え達成**
+- 500ptを突破、リアルワールドエージェントへの高関心を証明
+- Lemonade(498)を再逆転しAI関連記事1位
+
+**🟡 Cursor 3 (377pts, コメント306) - コメント数が主要指標に**
+- コメント306件はGemma 4(396)に迫る活発さ
+- AI IDE市場の成熟と日常化を示す継続シグナル
+
+
+## HN Signals 17:30 JST
+
+**取得時刻:** 2026-04-03 17:30 JST
+
+### スコア変動追跡
+
+| 記事 | 前回(16:30) | 今回(17:30) | 変動 |
+|------|-------------|-------------|------|
+| Gemma 4 | ~1350? | 1423pts | +73? |
+| Azure信頼失墜 | 644pts | 702pts | **+58** |
+| Qwen3.6-Plus | 502pts | 514pts | +12 |
+| Lemonade (AMD) | ~498pts | 511pts | +13 |
+| Cursor 3 | 377pts | 397pts | +20 |
+
+### 新規検出シグナル
+
+**🔴 Azure信頼失墜 (702pts, 275コメント) - 全体TOP2・継続急騰**
+- 16:30の644pts → 17:30の702ptsへ+58pt
+- 朝07:30の115pts → 702ptsへ、約6倍の急成長を継続
+- コメント275件(前回251)と議論がさらに拡大
+- クラウドプロバイダーへの技術者不信が持続的に表面化
+
+**🔴 Gemma 4 (1423pts, 401コメント) - 本日最大シグナル**
+- Google Deepmindがオープンモデル最新版をリリース
+- 1400pt超えは異例の高スコア、オープンソースAIへの強い関心
+- Falcon Platform戦略との関連：ローカルLLM/オープンモデルの台頭
+
+**🟢 Qwen3.6-Plus (514pts) - "real world agents"がキーワード**
+- リアルワールドエージェントへの継続的な高関心
+- Falcon Platform(AIエージェント実行基盤)の方向性と合致
+
+**🟢 Lemonade by AMD (511pts, 107コメント) - GPU+NPUローカルLLMサーバー**
+- AMD GPU+NPU対応の高速オープンソースローカルLLMサーバー
+- Fuyajo(不夜城)との直接競合となりうる技術スタック
+
+**🟡 Cursor 3 (397pts, 316コメント) - コメント最多レベル**
+- コメント数316はGemma 4(401)に肉薄
+- AI IDEのメジャーアップデートに対する技術者の強い関心
+
+**🔴 Mercor/LiteLLMサプライチェーン攻撃 (142pts, 44コメント)**
+- LiteLLM(OSS)が侵害→Mercorがサイバー攻撃被害
+- AIプラットフォーム/LLMプロキシへのセキュリティリスクを可視化
+- Falcon Platformのセキュリティ対策として注目必須
+
+**🟡 Claude Code Rave Review (8pts) - 直接関連継続**
+- スコアわずか8ptだが継続してランクイン
+- 「Superpowers」として評価されるClaude Code、Falcon AI Agentにも直結
+
+### 本日の総括シグナル (17:30時点)
+
+1. **オープンAIモデルへの圧倒的関心** - Gemma 4(1423pt)はHN史上でも高水準
+2. **クラウド不信の高まり** - Azure失墜記事が全日を通じて急騰継続
+3. **リアルワールドエージェント** - Qwen3.6のキーワードがHNで500pt超え
+4. **ローカルLLMの台頭** - AMD Lemonade含め、オンプレミスAI推進
+5. **AIプラットフォームセキュリティ** - LiteLLM侵害はFuyajoが教訓にすべきリスク
+
+---
+
 ### 18:30 JST
 
 #### スコア300+更新
 
 | スコア | タイトル | コメント | 前回比 |
 |-------|---------|---------|--------|
-| 1457 | Google releases Gemma 4 open models | 406 | +125/+20 |
-| **761** | **Decisions that eroded trust in Azure** | **300** | **+177/+84（最大急騰）** |
-| 520 | Qwen3.6-Plus: Towards real world agents | 185 | +34/+12 |
-| 518 | Lemonade by AMD: fast open source local LLM server | 107 | +31/0 |
-| 452 | Tailscale's new macOS home | 229 | +41/+31 |
-| 407 | Cursor 3 | 324 | +40/+26 |
+| 1457 | Google releases Gemma 4 open models | 406 | +34/+5 |
+| **761** | **Decisions that eroded trust in Azure** | **300** | **+59/+25（急騰継続）** |
+| 520 | Qwen3.6-Plus: Towards real world agents | 185 | +6/+9 |
+| 518 | Lemonade by AMD: fast open source local LLM server | 107 | +7/0 |
+| 452 | Tailscale's new macOS home | 229 | +22/+18 |
+| 407 | Cursor 3 | 324 | +10/+8 |
 
 #### 注目上昇シグナル
 
 | スコア | タイトル | コメント | 備考 |
 |-------|---------|---------|------|
-| 252 | Good ideas do not need lots of lies (2008) | 105 | +29pt |
-| 209 | OpenAI Acquires TBPN | 164 | +18/+10 |
-| 143 | Mercor/LiteLLM compromise | 44 | +2/+1 |
-| 93 | Post Mortem: axios NPM supply chain | 54 | +15/+12 |
-| 16 | A Rave Review of Superpowers (For Claude Code) | 1 | **Claude Code直接言及** |
+| 252 | Good ideas do not need lots of lies (2008) | 105 | +17/+14 |
+| 209 | OpenAI Acquires TBPN | 164 | +7/+4 |
+| 143 | Mercor/LiteLLM compromise | 44 | +1/0 |
+| 93 | Post Mortem: axios NPM supply chain | 54 | +7/+10 |
+| **16** | **A Rave Review of Superpowers (For Claude Code)** | **1** | **+8pt 上昇** |
 
 #### シグナル分析
 
-**🔴 Azure信頼失墜 (761pts, +177) - 本日最大上昇・全体2位確定**
-- 15:30時点584pts → 18:30時点761ptsへ+177pt、3時間での最大上昇
-- 07:30の115pts → 18:30の761ptsへ、11時間で約6.6倍の成長
-- コメント300件超え、今日のHNで最も議論を呼んでいる記事
-- 「技術より政治・コスト優先」で品質劣化した大手クラウドへの不信が技術者に深く刺さっている
+**🔴 Azure信頼失墜 (761pts, +59) - 全体2位・急騰継続**
+- 17:30時点702pts → 18:30時点761ptsへ+59pt
+- 朝07:30の115pts → 761ptsへ、11時間で約6.6倍の成長
+- コメント300件突破、技術者コミュニティで最も共鳴している記事
+- 元Azure内部エンジニアの告発が一日を通して加速し続けている
 
-**🟡 Claude Code rave review (16pts) - 低スコアだが要注目**
-- "A Rave Review of Superpowers (For Claude Code)" - Claude Codeへの絶賛レビュー
-- スコアは低いが**直接関連**: Fuyajo AI Assistantの技術基盤と同じツール
-- Claude Codeの評価が高まることは Fuyajo AI Assistant の価値向上に直結
+**🔴 Claude Code Rave Review (16pts, +8) - 上昇中・直接関連**
+- 「A Rave Review of Superpowers (For Claude Code)」が16ptへ上昇
+- Falcon AI AgentのコアツールであるClaude Codeへの絶賛評価
+- 低スコアながら継続して上昇中、Claude Codeの評価上昇はFuyajo AI Assistantの差別化に直結
 
-**🟢 Gemma 4 (1457pts) - 本日の頂点へ**
-- 1457pts、406コメントで本日最大シグナルを更新し続ける
-- オープンモデル競争が激化、ローカル推論の選択肢が豊富に
+**🟢 Gemma 4 (1457pts) - 本日最大シグナル継続**
+- 1457pts、406コメントで本日トップを維持
+- Google vs AMD(Lemonade) vs Alibaba(Qwen)のオープンモデル競争激化
 
-**🟡 Cursor 3 (407pts, +40) - 300pt台で安定**
-- コメント324件と本日最多、AI IDEへの関心が最高潮
-- AI開発ツールが技術者の主要ワークフローに定着しつつある
-
-
+**🟡 Cursor 3 (407pts, 324コメント) - コメント最多**
+- 300ptを安定維持、コメント324件は本日最多水準
+- AI IDEが技術者の日常ツールとして完全定着
