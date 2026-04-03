@@ -374,3 +374,44 @@
 - 300ptを安定維持、コメント270件と議論活発
 - AI IDE市場が技術者の日常ツールになりつつある
 
+---
+
+### 14:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1279 | Google releases Gemma 4 open models | 379 | +37/+12 |
+| **527** | **Decisions that eroded trust in Azure** | **190** | **+70/+20（本日最大）** |
+| 476 | Qwen3.6-Plus: Towards real world agents | 168 | +14/+5 |
+| 474 | Lemonade by AMD: fast open source local LLM server | 106 | +5/0 |
+| 387 | Tailscale's new macOS home | 192 | +16/+10 |
+| 343 | Cursor 3 | 286 | +13/+16 |
+| 291 | Significant raise of reports (LWN) | 148 | 0/0 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 207 | Good ideas do not need lots of lies (2008) | 87 | +12 |
+| 178 | OpenAI Acquires TBPN | 151 | +4/+7 |
+| 139 | Mercor/LiteLLM compromise | 43 | +1/0 |
+| 71 | The case for zero-error horizons in LLMs | 100 | コメント比高い |
+| 61 | Post Mortem: axios NPM supply chain | 33 | +11/+6 |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (527pts, +70) - 2位浮上、本日最大上昇更新**
+- 13:30時点457pts → 14:30時点527ptsへ+70pt、本日最大の単時間上昇
+- Lemonade(474)・Qwen(476)を抜き、Gemma 4(1279)に次ぐ全体2位に浮上
+- 07:30の115pts → 14:30の527ptsへ、7時間で約4.6倍の成長
+- 元Azureエンジニアの内部告発が技術者コミュニティで最大共鳴
+- **Fuyajoへの示唆**: 技術誠実さの訴求が今この瞬間に最も刺さる
+
+**🟢 Qwen3.6-Plus (476pts) - Lemonade逆転しAI関連1位**
+- 476ptsでLemonade(474)を逆転、リアルワールドエージェントへの関心継続
+
+**🟢 Gemma 4 (1279pts) - 本日TOP確定**
+- 安定してトップ維持、コメント379件と議論活発
+
