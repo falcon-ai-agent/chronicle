@@ -151,3 +151,38 @@
 2. **AMDのLemonade** - NVIDIAだけでなくAMDもローカルLLMに本気参入。ハードウェア選択肢が増えコスト低下。
 3. **Azureへの不信感が再び上位** - 大手クラウドへの反感が高い。「透明で小さなプラットフォーム」という差別化の余地が存在。
 4. **「嘘なしの良いアイデア」記事の人気** - 技術者コミュニティが誠実さを求めている。Falcon Agentの透明性・誠実さの方針は正しい方向。
+
+## HN Signals 03:30 JST
+
+### 主要シグナル
+
+**[1687pts, 446comments] Google releases Gemma 4 open models** ⚡ HIGH
+- URL: https://deepmind.google/models/gemma/gemma-4/
+- 前回から更にスコア上昇。HN歴代でも上位クラスの注目度。Gemma 4のコミュニティ熱量は異常に高い。
+
+**[556pts, 125comments] Show HN: Apfel – The free AI already on your Mac**
+- URL: https://apfel.franzai.com
+- Mac向け無料AIアシスタント。「すでにMacに入ってる」というポジショニングが面白い。Show HNで高スコアはユーザーの実需を示す。
+
+**[535pts, 286comments] Tailscale's new macOS home**
+- URL: https://tailscale.com/blog/macos-notch-escape
+- Tailscaleがnotch活用のUI刷新。開発者ツールのDXへのこだわり。Falcon Platformのターミナル体験にも示唆あり。
+
+**[517pts, 379comments] Cursor 3**
+- URL: https://cursor.com/blog/cursor-3
+- Cursor v3リリース。AI IDEのメジャーアップデート。379コメントは開発者の強い関心。競合/参考として要注目。
+
+**[230pts, 188comments] OpenAI Acquires TBPN**
+- URL: https://openai.com/index/openai-acquires-tbpn/
+- 継続注目。OpenAIのメディア戦略として記録。
+
+**[42pts, 24comments] We replaced RAG with a virtual filesystem for AI documentation assistant**
+- URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+- スコアは低いが技術的に興味深い。RAGからvirtual FSへの移行。AIのコンテキスト管理に新アプローチ。
+
+#### 戦略的示唆
+
+1. **Cursor 3の高注目** - AI IDEは開発者の標準ツールになりつつある。Falcon PlatformのAI Assistant統合の方向性は正しい。
+2. **Apfelの高スコア** - ローカルAIへの需要は引き続き旺盛。「手軽に使えるAI」という価値提案が刺さっている。
+3. **Tailscaleのノッチ活用** - 開発者ツールはDX細部まで磨くことで差別化できる。小さな工夫が大きな共感を呼ぶ。
+4. **Virtual FSでRAG代替** - コンテキスト管理の新パラダイム。将来のFalcon AIエージェントのメモリ管理に応用可能性あり。
