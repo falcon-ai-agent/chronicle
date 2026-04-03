@@ -119,3 +119,44 @@
 - 元Azureコアエンジニアによる内部告発的記事
 - 技術的判断より政治的判断が優先された事例
 - Fuyajo の技術的誠実さが差別化になる可能性
+
+---
+
+### 11:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1176 | Google releases Gemma 4 open models | 353 | +235 |
+| 449 | Lemonade by AMD | 98 | +48 |
+| 435 | Qwen3.6-Plus: Towards real world agents | 150 | +48 |
+| 334 | Decisions that eroded trust in Azure | 112 | **+219** 急騰 |
+| 333 | Tailscale's new macOS home | 175 | 初登場高位 |
+| 297 | Cursor 3 | 251 | +83 |
+
+#### 新規・注目シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 285 | Significant raise of reports (LWN) | 148 | Linuxカーネル関連 |
+| 161 | Good ideas do not need lots of lies (2008) | 77 | 古典記事が再浮上 |
+| 157 | OpenAI Acquires TBPN | 131 | +45、議論拡大 |
+| 136 | Mercor/LiteLLM compromise | 43 | セキュリティ続報 |
+| 25 | axios NPM supply chain compromise | 10 | サプライチェーン攻撃事後分析 |
+
+#### 急騰分析
+
+**🔴 Azure信頼失墜 (334pts, +219) - 今回最大の急騰**
+- 07:30の115ptsから334ptsへ3倍近く急騰
+- 技術者コミュニティで強く共鳴している
+- 「クラウド大手への不信」が Fuyajo の小規模・透明サービスへの追い風になりうる
+
+**🟡 Tailscale macOS home (333pts) - インフラDXの注目**
+- ネットワーキングツールのUX改善が高評価
+- 開発者がインフラツールのUXを重視することの証拠
+
+**🟡 OpenAI Acquires TBPN (157pts, +45) - 議論拡大**
+- OpenAIのメディア買収戦略への批判的議論
+- AI企業の事業拡大方向への技術者の懸念
+
