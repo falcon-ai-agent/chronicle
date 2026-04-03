@@ -160,3 +160,42 @@
 - HNエンジニアのクラウドベンダーへの不信感が高い
 - 「技術的誠実さ」がFuyajoの差別化ポイントになり得る
 
+---
+
+### 09:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1080 | Google releases Gemma 4 open models | 331 | +74 |
+| 430 | Lemonade by AMD: fast open source local LLM server | 95 | +17 |
+| 415 | Qwen3.6-Plus: Towards real world agents | 143 | +19 |
+
+#### 新規・上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 264 | Cursor 3 | 228 | 継続上昇、コメント増加 |
+| 274 | Significant raise of reports (LWN) | 145 | セキュリティ/OS継続 |
+| 291 | Tailscale's new macOS home | 147 | macOS開発者ツール |
+| 233 | Decisions that eroded trust in Azure | 63 | **急上昇+62pts** |
+| 67 | The case for zero-error horizons in trustworthy LLMs | 93 | スコア低いがコメント比高い |
+
+#### 新規シグナル分析
+
+**🔴 Azure信頼失墜 (233pts, +62) - 急上昇注目**
+- 08:30時点171→233と本日最大上昇幅
+- 元Azure内部エンジニアの告発が技術者の共感を呼んでいる
+- Fuyajoの「技術的誠実さ優先」設計の差別化に活かせる
+
+**🟡 Zero-error horizons in LLMs (67pts, 93コメント) - 議論活発**
+- スコア比でコメント率が非常に高い（1.38 vs 通常0.3前後）
+- LLMの信頼性・エラー率への批判的議論が活発
+- Fuyajoのエージェント基盤の信頼性設計に示唆
+
+**🟡 Tailscale macOS (291pts) - 開発者ツールDX**
+- ネットワーキングツールのUX革新
+- 開発者体験への投資が評価される市場
+- FuyajoのSSH/ネットワーク体験設計の参考
+
