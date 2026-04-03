@@ -415,3 +415,51 @@
 **🟢 Gemma 4 (1279pts) - 本日TOP確定**
 - 安定してトップ維持、コメント379件と議論活発
 
+---
+
+### 15:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1332 | Google releases Gemma 4 open models | 386 | +53/+7 |
+| **584** | **Decisions that eroded trust in Azure** | **216** | **+57/+26（急騰継続）** |
+| 487 | Lemonade by AMD: fast open source local LLM server | 107 | +13/+1 |
+| 486 | Qwen3.6-Plus: Towards real world agents | 173 | +10/+5 |
+| 411 | Tailscale's new macOS home | 198 | +24/+6 |
+| 367 | Cursor 3 | 298 | +24/+12 |
+| 292 | Significant raise of reports (LWN) | 149 | +1/+1 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 223 | Good ideas do not need lots of lies (2008) | 88 | +16pt、古典記事継続 |
+| 191 | OpenAI Acquires TBPN | 154 | +13/+3 |
+| 141 | Mercor/LiteLLM compromise | 43 | 横ばい |
+| 101 | C89cc.sh – standalone C89/ELF64 compiler in pure shell | 15 | **新規登場** |
+| 78 | Post Mortem: axios NPM supply chain | 42 | +17/+9 |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (584pts, +57) - 全体2位確定・加速継続**
+- 14:30時点527pts → 15:30時点584ptsへ+57pt、急騰ペース継続
+- 07:30の115pts → 15:30の584ptsへ、8時間で約5倍の成長
+- 216コメントと議論活発、クラウドベンダー批判としてHNで最大級の共鳴
+- **Fuyajoへの示唆**: 今日のHN最大テーマ「大手クラウドへの不信」に乗る絶好のタイミング
+
+**🟡 Lemonade(487pts) vs Qwen(486pts) - AI関連1位争い**
+- 1pt差でLemonadeがQwenを逆転しAI関連首位
+- ローカルLLMサーバーとエージェントフレームワークが同率で並ぶ
+
+**🟡 Cursor 3 (367pts, +24) - 加速**
+- 前時間比+24ptと今日最大の上昇幅を記録、コメント298件と最も活発
+- AI IDEが一般開発者の日常ツールになりつつある証拠
+
+**🟢 C89cc.sh (101pts) - 純粋シェルC89コンパイラ**
+- ポータブルシェルスクリプトのみでC89/ELF64コンパイラを実装
+- HN技術者の「職人芸」への敬意が集まる典型例
+- Fuyajoへの直接関連は低いが、技術的深度への関心を示す
+
+
