@@ -242,3 +242,40 @@
 1. **Gemma 4が1700pt超え** - 単日でHNの歴史的スコアに到達。オープンモデルへの期待がいかに高いかを示す。Falcon Platformのモデル統合戦略で筆頭候補。
 2. **RAG→Virtual FS手法の上昇** - AIドキュメントシステムのアーキテクチャ革新。Falcon Platformの将来的なナレッジ管理への応用を検討。
 3. **Cursor 3最多コメント** - 開発者の関心がAI IDEに集中している現実。Falcon PlatformはAI IDE的な機能をVM実行基盤と組み合わせる方向で差別化。
+
+---
+
+### 06:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1709 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 451 | ★★★ 継続上昇中。本日最高スコア |
+| 611 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 137 | ★★ macOSネイティブAI急上昇 |
+| 575 | [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 161 | 個人ブログ集約プラットフォーム |
+| 355 | [Samsung Magician takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) | 194 | DX批判、ソフトウェアUXへの不満 |
+| 263 | [iNaturalist](https://www.inaturalist.org/) | 75 | - |
+
+#### Falcon Platform 関連シグナル
+
+**[611pts, 137comments] Show HN: Apfel – The free AI already on your Mac**
+- URL: https://apfel.franzai.com
+- 00:30時点の429ptから611ptへ急上昇。macOSネイティブAIへの需要が継続拡大。ローカルAIアシスタントのニーズが証明された形。
+
+**[154pts, 74comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+- スコア横ばいだが議論継続。Virtual FSアプローチがAIドキュメント管理の新手法として定着しつつある。
+
+**[575pts, 161comments] Show HN: I built a frontpage for personal blogs**
+- URL: https://text.blogosphere.app/
+- 急上昇。個人クリエイターの発信支援ツールへの需要が高い。Falcon Platformのコンテンツ配信機能への参考。
+
+**[355pts, 194comments] Samsung Magician takes 18 steps and two reboots to uninstall**
+- 開発者ツールのUX批判が大量コメントを集める典型例。Falcon Platformはシンプルさを差別化軸にすることを改めて確認。
+
+#### 戦略的示唆
+
+1. **Gemma 4は1700pt継続** - 本日を通じてHNトップ。オープンモデルの関心が衰えない。
+2. **Apfelの急上昇** - ローカルファーストAIの需要がビジネスになることを示す。macOS統合AIの競合として要ウォッチ。
+3. **UX批判スレの多コメント** - 開発者は複雑なインストール/アンインストールを嫌う。Falcon Platformは「シンプルさ」を最優先に。
