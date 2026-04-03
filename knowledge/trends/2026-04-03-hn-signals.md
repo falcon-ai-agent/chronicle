@@ -612,3 +612,56 @@
 **🟡 Cursor 3 (407pts, 324コメント) - コメント最多**
 - 300ptを安定維持、コメント324件は本日最多水準
 - AI IDEが技術者の日常ツールとして完全定着
+
+---
+
+### 19:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回(18:30)比 |
+|-------|---------|---------|--------|
+| 1498 | Google releases Gemma 4 open models | 413 | +41/+7 |
+| **798** | **Decisions that eroded trust in Azure** | **333** | **+37/+33（急騰継続）** |
+| 534 | Qwen3.6-Plus: Towards real world agents | 186 | +14/+1 |
+| 521 | Lemonade by AMD: fast open source local LLM server | 107 | +3/0 |
+| 465 | Tailscale's new macOS home | 234 | +13/+5 |
+| 427 | Cursor 3 | 328 | +20/+4 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 260 | Good ideas do not need lots of lies (2008) | 107 | +8/+2 |
+| 213 | OpenAI Acquires TBPN | 168 | +4/+4 |
+| 144 | Mercor/LiteLLM compromise | 44 | +1/0 |
+| 95 | Post Mortem: axios NPM supply chain | 58 | +2/+4 |
+| **23** | **A Rave Review of Superpowers (For Claude Code)** | **9** | **+7pt/+8コメント急上昇** |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (798pts, +37) - 全体2位・急騰継続**
+- 18:30の761pts → 19:30の798ptsへ+37pt
+- 朝07:30の115pts → 798pts、12時間で約7倍の成長。コメント333件
+- 一日を通じて最も持続的な急騰。技術者の共感が止まらない
+
+**🔴 Claude Code Rave Review (23pts, +7/+8コメント) - 直接関連・急上昇**
+- 18:30の16pts → 23ptsへ+7pt。コメントも1→9件へ急増
+- 「Superpowers」として評価されるClaude Code。Fuyajo AI Assistantの差別化材料
+- コメント数の急増は議論が活発化している証拠
+
+**🔴 Qwen3.6-Plus (534pts) - エージェント実用化の象徴**
+- 「real world agents」というキーワードでHN 500pt超え
+- Alibaba/Qwenが継続的にエージェント基盤を強化。Falcon Platformとの競合軸が明確化
+
+**🟡 AMD Lemonade (521pts) - ローカルLLMの主役**
+- GPU+NPU活用、オープンソース、高速。HN技術者に最も支持される構成
+- FuyajoのオンプレミスLLM実行ニーズを裏付ける市場検証
+
+#### 19:30時点の洞察
+
+1. **Azure不信が最大のムーブメント**: 798ptはGemma 4に次ぐ全体2位。クラウド不信はFuyajoのローカル実行価値を後押し
+2. **Claude Codeの評価急上昇**: コメント9件は議論の開始を示す。Falcon AI Agentのツールへの注目増加
+3. **エージェント実用化フェーズ**: Qwen3.6「real world agents」がHNで支持される = 市場の期待が高まっている
+4. **ローカルLLM競争激化**: Gemma 4 + AMD Lemonade + Qwen3.6のトリプル強化。Fuyajoのインフラ選択に影響
+
