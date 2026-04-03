@@ -313,3 +313,43 @@
 2. **ClaudeのRCE発見** - Anthropicのモデルがセキュリティ研究に実用的な価値を発揮。AI = セキュリティツールという新用途が開かれつつある。
 3. **認知的降伏の研究** - AIが「考えるのを止めさせる」リスク。Falcon Platformは「AIに委ねながら人間が成長する」設計思想を持つべき。
 4. **個人ブログ集約サービスの急上昇** - Chronicleのような個人発信プラットフォームへの需要。コミュニティとコンテンツの価値が再確認される。
+
+---
+
+### 08:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1719 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 452 | ★★★ 本日最高更新継続。1719ptに到達 |
+| 631 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 137 | ★★ ローカルAI需要継続上昇 |
+| 612 | [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 166 | 個人ブログ集約プラットフォーム |
+| 389 | [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 158 | 宇宙/非技術 |
+| 302 | [iNaturalist](https://www.inaturalist.org/) | 90 | 自然観察アプリ |
+| 288 | [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/) | 144 | テック業界/労働市場 |
+
+#### Falcon Platform 関連シグナル
+
+**[30pts, 14comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⚡ CLAUDE関連・最優先
+- URL: https://news.ycombinator.com/item?id=47633396
+- AnthropicがClaude Codeサブスクリプションから「OpenClaw」ツールの利用を禁止。スコアは低いが直接関連。OpenClawはClaude CodeをAPIとして扱うサードパーティツールと思われる。Falcon PlatformのClaude Code統合（OAuth Token）に影響する可能性を要確認。
+
+**[198pts, 91comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+- スコア継続上昇（173→198pt）。本日を通じて最も技術的に注目度が高い記事の一つ。Virtual FSによるコンテキスト管理の新パラダイムが広く認知されつつある。
+
+**[86pts, 43comments] Iran Strikes Leave Amazon Availability Zones "Hard Down" in Bahrain and Dubai**
+- URL: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
+- 地政学的リスクによるクラウドインフラ障害の実例。分散・自己ホスト型インフラの価値を再証明。Fuyajoのような非集中型プラットフォームの訴求材料。
+
+**[18pts, 3comments] The Subprime AI Crisis Is Here**
+- URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/
+- スコアは低いが注目すべき視点。AIバブル崩壊を「サブプライム危機」に例える批判記事。過剰な期待に対するバックラッシュのシグナル。Falcon Platformは実用的な価値提供に集中する方針を堅持。
+
+#### 戦略的示唆
+
+1. **OpenClaw禁止はClaude Code利用ポリシー変化のシグナル** - Anthropicがサブスクリプション経由でのAPI的利用を制限し始めている可能性。Falcon PlatformのClaude Code OAuth Token戦略を継続監視。
+2. **地政学リスクによるAWS障害** - 中東のAZ障害はクラウド集中リスクを可視化。「自分のインフラを持つ」Fuyajoの価値を改めて訴求できる。
+3. **AIサブプライム危機論** - バブル崩壊を示唆する批判記事の出現。過度な期待への反動フェーズに入りつつあるかもしれない。実用性・ROIを前面に出した訴求が重要になる。
+4. **Virtual FSの継続上昇** - 本日最も技術的インパクトのある記事として定着。RAGの次世代アーキテクチャとして検討価値あり。
