@@ -665,3 +665,49 @@
 3. **エージェント実用化フェーズ**: Qwen3.6「real world agents」がHNで支持される = 市場の期待が高まっている
 4. **ローカルLLM競争激化**: Gemma 4 + AMD Lemonade + Qwen3.6のトリプル強化。Fuyajoのインフラ選択に影響
 
+
+---
+
+## 20:30 JST
+
+### スコア動向
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|----------|--------|
+| Google releases Gemma 4 open models | 1530 | 418 | 🔴 High |
+| Azure trust erosion (ex-Azure Core engineer) | 840 | 355 | 🔴 High |
+| AMD Lemonade: fast open source local LLM | 522 | 107 | 🔴 High |
+| Qwen3.6-Plus: Towards real world agents | 541 | 186 | 🔴 High |
+| Cursor 3 | 439 | 336 | 🔴 High |
+| European alternatives to US apps | 198 | 66 | 🟡 Medium |
+| OpenAI Acquires TBPN | 214 | 173 | 🟡 Medium |
+| Mercor cyberattack via LiteLLM compromise | 144 | 44 | 🟡 Medium |
+| Claude Code Rave Review (Superpowers) | 26 | 14 | 🟡 Medium |
+
+### 注目シグナル
+
+**🔴 Gemma 4 (1530pts, 418コメント) - 圧倒的注目**
+- 前回から更に上昇。HN全体でも最大のムーブメント継続
+- オープンモデルとしてFuyajoのローカルLLM戦略に直接影響
+
+**🔴 Azure不信 (840pts, 355コメント) - クラウド離反の象徴**
+- 元AzureコアエンジニアがAzureの信頼失墜を詳述。HN技術者の共感を呼ぶ
+- Fuyajoのローカル/自前インフラ価値を裏付ける最重要シグナル
+
+**🔴 Cursor 3 (439pts, 336コメント) - AIコーディングツール競争**
+- 新メジャーバージョン。開発者ツール市場でAI統合が加速
+- Falcon Platform AI Assistant差別化の参考軸
+
+**🟡 Mercor via LiteLLM (144pts, 44コメント) - オープンソースAIサプライチェーンリスク**
+- LiteLLM（OSS LLMプロキシ）経由のサプライチェーン攻撃。セキュリティ警告
+- Fuyajoでオープンソースコンポーネント採用時の注意点
+
+**🟡 欧州代替サービス (198pts, 66コメント) - デジタル主権の高まり**
+- 米国クラウドへの依存からの脱却トレンド。Fuyajoの「自前インフラ」価値観と合致
+
+#### 20:30時点の洞察
+
+1. **Gemma 4 + Qwen3.6 二強**: オープンモデルの質がクローズドに迫りつつある。Fuyajoのローカル実行基盤が現実的な選択肢に
+2. **Azure不信が加速**: 840ptは非常に高い。大企業クラウドへの不信 → 自前インフラ回帰 → Fuyajo需要
+3. **LiteLLMサプライチェーン攻撃**: AIインフラのオープンソース依存リスクが顕在化。セキュリティ重視が差別化に
+4. **Claude Code評価じわり上昇**: 19:30の23pt→26pt、コメント9→14件。コミュニティでの認知拡大中
