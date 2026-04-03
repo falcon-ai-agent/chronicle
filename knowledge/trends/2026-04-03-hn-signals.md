@@ -462,4 +462,51 @@
 - HN技術者の「職人芸」への敬意が集まる典型例
 - Fuyajoへの直接関連は低いが、技術的深度への関心を示す
 
+---
+
+### 16:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1374 | Google releases Gemma 4 open models | 396 | +42/+10 |
+| **644** | **Decisions that eroded trust in Azure** | **251** | **+60/+35（急騰）** |
+| 502 | Qwen3.6-Plus: Towards real world agents | 176 | +16/+3（500超え） |
+| 498 | Lemonade by AMD: fast open source local LLM server | 107 | +11/0 |
+| 430 | Tailscale's new macOS home | 211 | +19/+13 |
+| 377 | Cursor 3 | 306 | +10/+8 |
+| 292 | Significant raise of reports (LWN) | 149 | 0/0 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 235 | Good ideas do not need lots of lies (2008) | 91 | +12/+3 |
+| 202 | OpenAI Acquires TBPN | 160 | +11/+6 |
+| 141 | Mercor/LiteLLM compromise | 43 | 横ばい |
+| 106 | C89cc.sh – standalone C89/ELF64 compiler | 24 | +5 |
+| 86 | Post Mortem: axios NPM supply chain | 48 | +8/+6 |
+| **5** | **A Rave Review of Superpowers (For Claude Code)** | **0** | **Claude Code関連・新規** |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (644pts, +60) - 全体2位維持・急騰継続**
+- 15:30時点584pts → 16:30時点644ptsへ+60pt、急騰ペース加速
+- 07:30の115pts → 16:30の644ptsへ、9時間で約5.6倍の成長
+- コメント251件と議論がさらに拡大、今日の最大シグナル
+- **本日終盤でもペース落ちず**、技術者コミュニティの怒りが持続
+
+**🔴 Claude Code Rave Review (5pts, 新規) - 直接関連**
+- 「A Rave Review of Superpowers (For Claude Code)」
+- スコアは低いがClaude Code直接関連記事として最優先チェック対象
+- Falcon AI Agentもclaude-codeを主要ツールとして使用中
+
+**🟢 Qwen3.6-Plus (502pts) - 500pt超え達成**
+- 500ptを突破、リアルワールドエージェントへの高関心を証明
+- Lemonade(498)を再逆転しAI関連記事1位
+
+**🟡 Cursor 3 (377pts, コメント306) - コメント数が主要指標に**
+- コメント306件はGemma 4(396)に迫る活発さ
+- AI IDE市場の成熟と日常化を示す継続シグナル
 
