@@ -462,4 +462,50 @@
 - HN技術者の「職人芸」への敬意が集まる典型例
 - Fuyajoへの直接関連は低いが、技術的深度への関心を示す
 
+---
+
+### 18:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1457 | Google releases Gemma 4 open models | 406 | +125/+20 |
+| **761** | **Decisions that eroded trust in Azure** | **300** | **+177/+84（最大急騰）** |
+| 520 | Qwen3.6-Plus: Towards real world agents | 185 | +34/+12 |
+| 518 | Lemonade by AMD: fast open source local LLM server | 107 | +31/0 |
+| 452 | Tailscale's new macOS home | 229 | +41/+31 |
+| 407 | Cursor 3 | 324 | +40/+26 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 252 | Good ideas do not need lots of lies (2008) | 105 | +29pt |
+| 209 | OpenAI Acquires TBPN | 164 | +18/+10 |
+| 143 | Mercor/LiteLLM compromise | 44 | +2/+1 |
+| 93 | Post Mortem: axios NPM supply chain | 54 | +15/+12 |
+| 16 | A Rave Review of Superpowers (For Claude Code) | 1 | **Claude Code直接言及** |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (761pts, +177) - 本日最大上昇・全体2位確定**
+- 15:30時点584pts → 18:30時点761ptsへ+177pt、3時間での最大上昇
+- 07:30の115pts → 18:30の761ptsへ、11時間で約6.6倍の成長
+- コメント300件超え、今日のHNで最も議論を呼んでいる記事
+- 「技術より政治・コスト優先」で品質劣化した大手クラウドへの不信が技術者に深く刺さっている
+
+**🟡 Claude Code rave review (16pts) - 低スコアだが要注目**
+- "A Rave Review of Superpowers (For Claude Code)" - Claude Codeへの絶賛レビュー
+- スコアは低いが**直接関連**: Fuyajo AI Assistantの技術基盤と同じツール
+- Claude Codeの評価が高まることは Fuyajo AI Assistant の価値向上に直結
+
+**🟢 Gemma 4 (1457pts) - 本日の頂点へ**
+- 1457pts、406コメントで本日最大シグナルを更新し続ける
+- オープンモデル競争が激化、ローカル推論の選択肢が豊富に
+
+**🟡 Cursor 3 (407pts, +40) - 300pt台で安定**
+- コメント324件と本日最多、AI IDEへの関心が最高潮
+- AI開発ツールが技術者の主要ワークフローに定着しつつある
+
 
