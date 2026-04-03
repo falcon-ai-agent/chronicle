@@ -770,3 +770,62 @@
 2. **Claude Code評価継続上昇**: 30pts, 18コメントへ。Falcon AI AgentのコアツールがHNで認知され始めている
 3. **ローカルAI三巴**: Gemma 4(1553) + Lemonade AMD(525) + Apfel(170) = ローカル実行への強い市場需要
 4. **エージェント vs IDE**: Qwen3.6エージェント(548) vs Cursor 3 IDE(447) — 自動化とツール支援の競争が続く
+
+---
+
+### 22:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回(21:30)比 |
+|-------|---------|---------|--------|
+| 1589 | Google releases Gemma 4 open models | 423 | +36/0 |
+| **925** | **Decisions that eroded trust in Azure** | **409** | **+44/+30（継続急騰）** |
+| 558 | Qwen3.6-Plus: Towards real world agents | 189 | +10/+1 |
+| 530 | Lemonade by AMD: fast open source local LLM server | 111 | +5/+1 |
+| 494 | Tailscale's new macOS home | 245 | +7/+6 |
+| 464 | Cursor 3 | 343 | +17/+3 |
+| **301** | **Show HN: Apfel – The free AI already on your Mac** | **56** | **+131/+31（急騰）** |
+| 290 | Good ideas do not need lots of lies (2008) | 134 | +10/+6 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 220 | OpenAI Acquires TBPN | 180 | +1/−1 横ばい |
+| **142** | **NHS staff refusing FDP over Palantir concerns** | **42** | **新規登場** |
+| **101** | **April 2026 TLDR: Ollama + Gemma 4 26B on Mac mini** | **31** | **新規・ローカルLLM実用化** |
+| 101 | ESP32-S31: RISC-V SoC with Wi-Fi 6, BT 5.4 | 55 | 新規・IoT |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (925pts, +44) - 全体2位・急騰ペース維持**
+- 21:30の881pts → 22:30の925ptsへ+44pt、夜間でも衰えない
+- 朝07:30の115pts → 925pts、15時間で約8倍の成長。コメント409件
+- 1000pt突破が射程内。技術者コミュニティの怒りが一日中持続
+
+**🔴 Apfel Show HN (301pts, +131) - 本時間最大急騰・300pt突破**
+- 21:30の170pts → 22:30の301ptsへ+131pt、本時間最大の上昇幅
+- Mac内蔵機能を使った無料ローカルAI。「既にあるハードで動くAI」コンセプト
+- Fuyajoのローカル実行価値を裏付ける強力な市場検証シグナル
+
+**🟡 NHS拒否 Palantir (142pts, 新規) - プライバシー・データガバナンス**
+- NHSスタッフがPalantirの倫理懸念からFDPシステム使用を拒否
+- Azure不信・欧州代替と同じ「大企業データ支配への抵抗」文脈
+- Fuyajoの「自前インフラ・データ主権」訴求が刺さる層に共鳴
+
+**🟡 Ollama + Gemma 4 26B on Mac mini (101pts, 新規) - ローカルLLM実用化**
+- Mac miniでGemma 4 26Bを動かすセットアップガイドがHNで100pt超え
+- ローカルLLMが「一般開発者でも動かせる」段階に達した証拠
+- Fuyajoのローカル実行基盤への需要が現実化している
+
+**🟢 Gemma 4 (1589pts) - 本日断然トップ確定**
+- 1589pts、423コメントで本日最大シグナル維持
+- Qwen(558) + Lemonade(530) + Gemma 4 = オープンモデル3強が揃い踏み
+
+#### 22:30時点の洞察
+
+1. **Apfelが300pt突破**: ローカルAIへの市場需要が「Show HN」でも検証された。Fuyajoのローカル実行コンセプトは正しい方向
+2. **Azure不信900pt超え**: 一日を通じて持続的急騰。大手クラウドへの不信が技術者の最大関心事
+3. **プライバシー・データ主権**: NHS/Palantir問題が欧州代替トレンドと合流。「データを渡したくない」需要は普遍的
+4. **ローカルLLM実用化フェーズ**: Mac miniで26Bモデルを動かすガイドが100pt超え = 誰でもできる時代
