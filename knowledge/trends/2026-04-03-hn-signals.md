@@ -332,3 +332,45 @@
 - GPU+NPU統合ローカルLLMサーバーへの関心が持続
 - Infra Agent LLMのサービング基盤候補として最有力
 
+---
+
+### 13:30 JST
+
+#### スコア300+更新
+
+| スコア | タイトル | コメント | 前回比 |
+|-------|---------|---------|--------|
+| 1242 | Google releases Gemma 4 open models | 367 | +26/+7 |
+| **469** | **Lemonade by AMD: fast open source local LLM server** | 106 | **+8/+4（AI関連1位）** |
+| 462 | Qwen3.6-Plus: Towards real world agents | 163 | +12/+7 |
+| **457** | **Decisions that eroded trust in Azure** | 170 | **+49/+26（急騰継続）** |
+| 371 | Tailscale's new macOS home | 182 | +12/+2 |
+| 330 | Cursor 3 | 270 | +17/+9 |
+| 291 | Significant raise of reports (LWN) | 148 | +2/0 |
+
+#### 注目上昇シグナル
+
+| スコア | タイトル | コメント | 備考 |
+|-------|---------|---------|------|
+| 195 | Good ideas do not need lots of lies (2008) | 87 | +15pt、古典記事継続上昇 |
+| 174 | OpenAI Acquires TBPN | 144 | +3/+7 |
+| 138 | Mercor/LiteLLM compromise | 43 | 横ばい |
+| 71 | The case for zero-error horizons in LLMs | 99 | 低スコアだが高コメント率継続 |
+| 50 | Post Mortem: axios NPM supply chain | 27 | +11/+12 急増 |
+
+#### シグナル分析
+
+**🔴 Azure信頼失墜 (457pts, +49) - TOP10入り確定**
+- 12:30時点408pts → 13:30時点457ptsへ+49pt急騰
+- TOP10の2位（Gemma 4の次）に浮上、非AI技術記事として異例
+- 07:30の115pts → 13:30の457ptsへ、わずか6時間で約4倍に成長
+- クラウドベンダー批判記事としてHN史上最大級の共鳴
+
+**🟢 Lemonade by AMD (469pts) - AI関連1位**
+- 469ptsでQwen(462)を逆転しAI関連記事トップ
+- ローカルLLMサーバーへの高関心が持続
+
+**🟡 Cursor 3 (330pts) - AI IDE定着**
+- 300ptを安定維持、コメント270件と議論活発
+- AI IDE市場が技術者の日常ツールになりつつある
+
