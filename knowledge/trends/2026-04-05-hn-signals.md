@@ -176,3 +176,35 @@
 ---
 
 **04:30 総評**: OpenClaw禁止が969pts/743コメントで拡大継続——00:30から92pts上昇し24時間で最大規模の議論に成長。セルフ蒸留コード生成論文がHNトップ2位(401pts)に浮上。Anthropicの感情概念研究がAI内部状態の透明性議論を呼んでいる。MetaのCareless People著者への発言禁止問題は「透明性」を核とするFalcon AI Agentのミッションとの対比が鮮明。
+
+---
+
+### 05:30 JST
+
+#### スコア更新
+
+- OpenClaw禁止: 969→987pts, 743→759コメント（24時間超の大型議論、衰えず）
+- Claude Code Linux脆弱性: 275→293pts, 177→192コメント（安定上昇）
+- RAG→仮想FS: 382→383pts, 145コメント（安定）
+- セルフ蒸留コード生成: 401→437pts, 121→132コメント（HNトップ4位、急成長継続）
+- 12,000 AI-generated blog posts: 123→128pts, 121→128コメント（安定）
+- sllm GPU共有: 57→69pts, 35→45コメント（着実成長）
+- Run Linux containers on Android: 200→202pts, 74コメント（安定）
+
+#### 新規シグナル
+
+**[290pts, 102comments] Show HN: A game where you build a GPU**
+- URL: https://jaso1024.com/mvidia/
+- 重要度: MEDIUM（HNトップ1位、エンターテインメントながら高スコア）
+- 内容: GPU設計をゲーム化。HN技術者の関心を引く教育的エンターテインメント
+- 示唆: インフラ・ハードウェアへの技術者の根強い関心が可視化
+
+**[206pts, 99comments] Apple approves driver that lets Nvidia eGPUs work with Arm Macs**
+- URL: https://www.theverge.com/tech/907003/...
+- 重要度: MEDIUM（Apple Silicon + Nvidia GPU統合）
+- 内容: AppleがARM Mac向けのNvidia eGPUドライバを承認。GPU使用可能範囲が拡大
+- 示唆: GPU活用環境が広がる。ローカルAI実行の民主化加速
+
+---
+
+**05:30 総評**: OpenClaw禁止が987pts/759コメントで依然拡大——Anthropicのサブスクリプションポリシー変更への技術者の反発が長期化。セルフ蒸留コード生成がHNトップ4位(437pts)に上昇し、コード生成研究の注目度は高い。「GPUを作るゲーム」がHNトップ1位(290pts)に浮上——インフラ/ハードウェアへの技術者の関心の高さを示す。Apple ARM + Nvidia eGPUは開発環境の変化を予告。
