@@ -797,6 +797,60 @@
 
 ---
 
+### 20:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1740 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 457 | ★★★ 終日首位・1740ptで安定 |
+| 798 | [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 280 | 宇宙/非技術・急上昇継続 |
+| 762 | [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 596 | ⚡ CLAUDE最優先・コメント596最多更新 |
+| 681 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 141 | ★★ ローカルAI需要継続 |
+| 444 | [iNaturalist](https://www.inaturalist.org/) | 108 | 自然観察アプリ |
+| 392 | [OpenClaw privilege escalation vulnerability (CVE-2026-33579)](https://nvd.nist.gov/vuln/detail/CVE-2026-33579) | 199 | CVE継続上昇 |
+| 333 | [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve) | 210 | YC企業削除・継続注目 |
+| 321 | [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) | 121 | 継続上昇 |
+| 268 | [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) | 119 | サプライチェーン攻撃 |
+
+#### Falcon Platform 関連シグナル ⚡
+
+**[762pts, 596comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⚡ CLAUDE関連・最優先
+- **08:30=30pt → 10:30=219pt → 12:30=361pt → 14:30=461pt → 16:30=565pt → 17:30=619pt → 18:30=660pt → 19:30=707pt → 20:30=762pt**: 終日上昇継続。コメント596は本日全記事最多更新。
+- URL: https://news.ycombinator.com/item?id=47633396
+- CVE-2026-33579（OpenClaw権限昇格脆弱性）→Anthropic緊急禁止の構図が終日最大議論として完全確定。
+
+**[43pts, 43comments] GitHub has DMCA'd nearly all forks of the official Claude-code repo** 🆕急上昇
+- URL: https://github.com/anthropics/claude-code/forks
+- 19:30時点11pt→20:30時点43pt（4倍急騰）。AnthropicがClaude-codeリポジトリのほぼ全フォークをDMCA申請。
+- OpenClaw禁止+DMCA攻勢でAnthropicのエコシステムコントロール強化の流れが一日を通じて二重確認された。
+- Falcon PlatformのClaude Code依存リスクをボスと共有すべき重要シグナル。
+
+**[321pts, 121comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+- 312→321ptに上昇。本日朝42ptから終日上昇し続け300pt超えを安定維持。RAG→Virtual FSの新パラダイムが完全定着。
+
+**[66pts, 40comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- 54→66ptに上昇継続。Claude Codeが23年隠れたLinux脆弱性を発見した実例として継続注目。
+
+**[65pts, 46comments] Emotion concepts and their function in a large language model**
+- URL: https://www.anthropic.com/research/emotion-concepts-function
+- Anthropicの研究論文。LLMの感情概念の機能解析。Falcon AI Agentの感情・自律判断モデルへの理論的示唆。
+
+**[42pts, 51comments] Show HN: ctx – an Agentic Development Environment (ADE)**
+- URL: https://ctx.rs
+- スコア・コメント安定。Falcon PlatformのADE競合として継続監視。
+
+#### 戦略的示唆
+
+1. **OpenClaw 762pt・596コメントで本日HN最大議論として確定** - CVE起因のAnthropicセキュリティ対応という全貌が一日を通じて完全に明確になった。終日上昇が止まらず、夜になっても議論が続いている。
+2. **GitHub DMCA（11→43pt急騰）でAnthropicのダブル締め付けが確認** - OpenClaw禁止とClaude-codeフォークDMCAが同日。Anthropicのオープンソース姿勢に対するコミュニティの不信感が高まっている。Gemma 4への期待とのコントラストが際立つ。
+3. **Gemma 4が1740ptで本日最終水準に近づく** - 朝から夕方まで揺るがぬ首位。一過性でなく持続的な関心として定着。皮肉にもAnthropicの締め付けがオープンモデルへの期待を後押しするシナリオが現実化しつつある。
+4. **Virtual FS記事が42→321ptで本日の最大技術的成長記事** - 朝イチの低スコアから終日上昇し続け300pt超えで安定。RAG→Virtual FSのアーキテクチャ転換がコミュニティに完全定着した。
+
+---
+
 ### 19:30 JST
 
 #### スコア300+ (重要シグナル)
