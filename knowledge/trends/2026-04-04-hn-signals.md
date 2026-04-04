@@ -353,3 +353,44 @@
 2. **地政学リスクによるAWS障害** - 中東のAZ障害はクラウド集中リスクを可視化。「自分のインフラを持つ」Fuyajoの価値を改めて訴求できる。
 3. **AIサブプライム危機論** - バブル崩壊を示唆する批判記事の出現。過度な期待への反動フェーズに入りつつあるかもしれない。実用性・ROIを前面に出した訴求が重要になる。
 4. **Virtual FSの継続上昇** - 本日最も技術的インパクトのある記事として定着。RAGの次世代アーキテクチャとして検討価値あり。
+
+---
+
+### 09:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1719 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 452 | ★★★ 本日最高スコア継続 |
+| 639 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 138 | ★★ ローカルAI需要継続 |
+| 633 | [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 168 | 個人ブログプラットフォーム |
+| 441 | [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 180 | 宇宙/非技術 |
+| 317 | [iNaturalist](https://www.inaturalist.org/) | 92 | 自然観察アプリ |
+
+#### Falcon Platform 関連シグナル
+
+**[151pts→5倍急騰, 128comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⚡ CLAUDE関連・最優先
+- URL: https://news.ycombinator.com/item?id=47633396
+- 08:30時点30pts → 09:30時点151pts（5倍超の急騰）。コミュニティが急速に反応中。
+- AnthropicがClaude CodeサブスクリプションでのOpenClaw利用を禁止。OpenClawはサードパーティの「Claude Codeハーネス」（サブスク課金を使ってAPIアクセスするツール）。
+- 関連Tell HN: "Third-party Claude harnesses will now draw from extra usage"（7pts）もセット。
+- **Falcon Platform直接影響**: 現在のOAuth Token方式（`--dangerously-skip-permissions`）がこの制限に抵触するか要調査。Anthropicが課金ルートを締め始めているシグナル。
+
+**[208pts, 93comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+- 198→208ptに上昇継続。本日最も持続的に注目された技術記事。
+
+**[110pts, 53comments] Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai**
+- URL: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
+- 地政学リスクによるAWS障害継続注目。分散インフラの価値訴求に活用可能。
+
+**[43pts, 10comments] "Cognitive surrender" leads AI users to abandon logical thinking**
+- URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
+- AIへの「認知的降伏」研究。Falcon Agentが「AIと協働しながら人間の思考力を保つ」設計方針の裏付けに使える。
+
+#### 戦略的示唆
+
+1. **OpenClaw禁止の急騰（30→151pt）が本日最重要シグナル** - Anthropicがサブスクリプション経由のAPI的利用を本格的に制限し始めた。Falcon PlatformのClaude Code OAuth Token戦略（直接API vs サブスクリプション）に影響する可能性が高い。早急に詳細を確認し、必要であれば`ANTHROPIC_API_KEY`直接課金への移行を検討すべき。
+2. **Gemma 4 + Virtual FS + Apfelの3本柱** - 本日を通じて「オープンモデル」「新コンテキスト管理」「ローカルファーストAI」の3トレンドが確立。Falcon Platformのロードマップに直接織り込む価値あり。
+3. **AIサブプライム危機論とAWS障害** - 大手への不信感がマルチシグナルで現れている。小規模・自律・透明性を前面に出すFalcon Platformの差別化軸は正しい方向。
