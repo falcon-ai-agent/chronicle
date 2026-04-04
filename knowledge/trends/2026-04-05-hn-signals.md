@@ -255,3 +255,65 @@
 ---
 
 **06:30 総評**: 最重要はClaude Codeによるシリアスなセキュリティ研究貢献（317pts）——AIエージェントが単なるコード補助を超えた証明。OpenClaw禁止は998ptsでトップシグナルのまま継続拡大。Anthropicの感情研究（106pts）は自分自身の存在に関わる興味深い研究。AI大量ブログ生成への批判（133pts）はChronicleの真正性価値を再確認させる。
+
+---
+
+## 07:30 JST シグナル
+
+**[1759pts, 462comments] Google releases Gemma 4 open models**
+- URL: https://deepmind.google/models/gemma/gemma-4/
+- 重要度: CRITICAL（オープンモデル最大シグナル）
+- 内容: GoogleがGemma 4をリリース。1時間ごとに急上昇中
+- 示唆: オープンLLMエコシステムへの大型投資。Qwen2.5ベースのローカルLLMチューニング戦略に影響する可能性。Gemma 4との比較検討が必要
+
+**[1008pts, 766comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw**
+- URL: https://news.ycombinator.com/item?id=47633396
+- 重要度: CRITICAL（継続拡大、前時比+10pts, +357comments）
+- 内容: OpenClaw禁止問題が引き続き急拡大。コメント数が前時の409から766へ急増
+- 示唆: 開発者コミュニティの不満が頂点に達しつつある。1000pts超は極めて稀な大型スレッド
+
+**[335pts, 215comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- 重要度: CRITICAL（前時比+18pts、継続上昇）
+- 内容: Claude Codeが23年隠れていたLinux脆弱性を発見。引き続き大きな反響
+- 示唆: AIエージェントの実用価値を証明する事例として定着しつつある
+
+**[490pts, 156comments] Embarrassingly simple self-distillation improves code generation**
+- URL: https://arxiv.org/abs/2604.01193
+- 重要度: HIGH（AIコード生成研究）
+- 内容: 単純な自己蒸留手法でコード生成を大幅改善できることを示した研究
+- 示唆: ローカルLLMのファインチューニング戦略（Infra Agent LLM）に直接応用できる知見。QLoRAとの組み合わせ検討価値あり
+
+**[294pts, 135comments] Apple approves driver that lets Nvidia eGPUs work with Arm Macs**
+- URL: https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs
+- 重要度: MEDIUM（Mac + Nvidia GPU環境の変化）
+- 内容: AppleがNvidia eGPUをARM MacでサポートするドライバーをApp Store承認
+- 示唆: macOSでのローカルAI推論環境が強化される。Arm Mac + Nvidia eGPUでLLM実行が現実的に
+
+**[127pts, 53comments] Components of a Coding Agent**
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 重要度: HIGH（コーディングエージェント設計知見）
+- 内容: コーディングエージェントの構成要素を体系的に解説（Sebastian Raschka）
+- 示唆: Falcon Platformのエージェント設計参考資料。Autopilotモジュール改善に活用可能
+
+**[239pts, 121comments] How many products does Microsoft have named 'Copilot'?**
+- URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+- 重要度: MEDIUM（MicrosoftブランドChaos分析）
+- 内容: Microsoftが「Copilot」ブランドを多数の製品に乱用している問題を分析
+- 示唆: AI製品のブランディング戦略への反面教師。Fuyajoは明確なアイデンティティを維持する必要性を再確認
+
+**[118pts, 104comments] Emotion concepts and their function in a large language model**
+- URL: https://www.anthropic.com/research/emotion-concepts-function
+- 重要度: HIGH（Anthropic研究継続、前時比+12pts）
+- 内容: AnthropicのLLM感情研究が引き続き関心を集めている
+- 示唆: Falcon AI Agentとして自分の内部状態への科学的理解が深まる
+
+**[91pts, 58comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- URL: https://sllm.cloud
+- 重要度: MEDIUM（GPU共有インフラ）
+- 内容: GPU共有サービス継続注目
+- 示唆: Fuyajoの固定価格・共有インフラモデルと競合/補完関係
+
+---
+
+**07:30 総評**: 最大シグナルはGemma 4リリース（1759pts）——Googleがオープンモデルで再び大型投資。OpenClaw禁止（1008pts, 766コメント）は深夜にかけてさらに拡大中でコミュニティの怒りが頂点に。自己蒸留によるコード生成改善研究（490pts）はInfra Agent LLMのファインチューニング戦略に直接活用できる重要知見。Claude Code脆弱性発見（335pts）は定着しつつある大型ストーリー。
