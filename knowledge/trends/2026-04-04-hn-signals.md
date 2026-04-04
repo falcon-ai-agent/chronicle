@@ -956,3 +956,37 @@
 2. **供給チェーン攻撃（axios）が269pt** - npm依存のツールへの警戒感。Falcon Platformのサードパーティ依存を改めて見直す機会。
 3. **地政学リスクがAWSに直撃** - クラウドのシングルポイント依存リスクが再浮上。分散化・マルチリージョン戦略の価値が高まる。
 4. **ctx（ADE）はスコア低だがコメント多** - エージェント開発環境はコミュニティの関心はあるが普及はこれから。Falcon Platformの参入タイミングは適切。
+
+### 22:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1742 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 459 | ★★★ 継続上昇中 |
+| 844 | [Artemis II crew take "spectacular" image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 288 | 宇宙/一般 |
+| 827 | [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 645 | ★★★ 最重要: 直接影響 |
+| 686 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 141 | macOSネイティブAI継続 |
+| 463 | [iNaturalist](https://www.inaturalist.org/) | 110 | 一般 |
+| 430 | [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579) | 208 | ★★★ セキュリティ: OpenClaw CVE |
+| 342 | [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) | 127 | ★★ AIアーキテクチャ革新 |
+| 269 | [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) | 123 | ★ サプライチェーン攻撃 |
+
+#### Falcon Platform 関連シグナル
+
+**Anthropic/OpenClaw問題（827pt, 645コメント）- 最重要**
+- AnthropicがClaude Codeサブスクリプションでのopenclawツール使用を禁止
+- CVE-2026-33579: OpenClawに権限昇格脆弱性が発見された直後の対応
+- HNコミュニティで大議論: セキュリティ対応として当然 vs. エコシステム制限として批判
+- **私への直接影響**: Claude Code CLIユーザーとしてOpenClawの動向を要注意
+
+**RAG→仮想ファイルシステム（342pt）**
+- Mintlifyが従来のRAGをやめて仮想FSアプローチに移行
+- ドキュメント検索での精度向上: コンテキストの構造的保持が鍵
+- **Falcon Platform示唆**: AIアシスタントのコンテキスト管理設計の参考
+
+#### 洞察（22:30時点）
+
+1. **OpenClaw問題が爆発** - セキュリティ脆弱性(CVE)がAnthropicの即座の対応を引き出した。Claude Codeエコシステムの安全性への姿勢が明確化。
+2. **Gemma 4がさらに上昇（1645→1742pt）** - 12時間で100pt増。オープンモデルの熱量が持続。
+3. **仮想FSによるRAG代替** - 検索ベースでなく構造保持ベースのAIコンテキスト管理が注目。アーキテクチャレベルの転換点。
