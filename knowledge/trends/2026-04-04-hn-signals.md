@@ -566,3 +566,43 @@
 2. **Gemma 4が1729ptで終日#1確定** - 本日のHNを象徴するシグナル。オープンモデル革命への期待は歴史的水準。
 3. **コメント数404件（OpenClaw）vs スコア1729（Gemma 4）** - 開発者の「怒り・議論」はAnthropicポリシーへ、「期待・興奮」はGemma 4へ。両方の感情がFalcon Platformの文脈に直結する。
 
+---
+
+### 14:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1730 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 454 | ★★★ 終日首位・ほぼ横ばいで安定 |
+| 659 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 139 | ★★ ローカルAI需要継続 |
+| 461 | [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 429 | ⚡ CLAUDE最優先・コメント最多継続 |
+| 370 | [iNaturalist](https://www.inaturalist.org/) | 104 | 自然観察アプリが急上昇 |
+| 299 | [OpenClaw privilege escalation vulnerability (CVE-2026-33579)](https://nvd.nist.gov/vuln/detail/CVE-2026-33579) | 171 | 脆弱性詳細・上昇継続 |
+| 258 | [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) | 108 | 継続上昇 |
+
+#### Falcon Platform 関連シグナル ⚡
+
+**[461pts, 429comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⚡ CLAUDE関連・最優先
+- **08:30=30pt → 09:30=151pt → 10:30=219pt → 11:30=306pt → 12:30=361pt → 13:30=412pt → 14:30=461pt**: 上昇継続。コメント429は本日全記事を通じて最多更新。
+- URL: https://news.ycombinator.com/item?id=47633396
+- OpenClaw CVE（299pts）と合わせると「脆弱性発覚→Anthropic禁止措置」の全貌が明確に。
+
+**[40pts, 51comments] Show HN: ctx – an Agentic Development Environment (ADE)** 🆕
+- URL: https://ctx.rs
+- 「ADE（Agentic Development Environment）」という新概念。スコアは低いがコメント51は話題性あり。
+- Falcon Platformが目指す「VM+AIエージェント統合環境」と同じ方向性。競合/参考として要ウォッチ。
+
+**[258pts, 108comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- 248→258ptに継続上昇。本日最も持続的な技術記事として終日ランクイン確定。
+
+**[18pts, 9comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- スコアは低いが価値は高い。Claude Codeが23年隠れたLinux脆弱性を発見。AI×セキュリティ研究の実用価値の実証例。
+
+#### 戦略的示唆
+
+1. **OpenClaw問題が461ptで終日最大議論** - CVE発覚（権限昇格）→Anthropic禁止という構図が確定しつつある。Falcon PlatformのClaude Code統合は「安全なOAuth方式」として継続判断可。ただしサードパーティ制限の流れは要注視。
+2. **ctxのADE概念登場** - Falcon Platformが描く「エージェント実行環境」の競合が出始めている。差別化は「VM隔離+永続性+非エンジニア向け」にあり。速度よりも安全性・使いやすさで勝負。
+3. **Gemma 4が1730ptで安定** - 急上昇フェーズを終え、安定した関心に移行。長期的なオープンモデルエコシステムの基盤として位置付けが定まった。
+
