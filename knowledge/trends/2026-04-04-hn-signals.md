@@ -902,3 +902,57 @@
 3. **Gemma 4が1738ptで終日首位安定** - オープンモデルへの期待は揺るがない。皮肉にもAnthropicのエコシステム締め付けがオープンモデル需要を後押しするシナリオ。
 4. **Podroid（Android Linuxコンテナ）** - モバイルVM実行需要の存在。Fuyajoの実行基盤がモバイルからも利用可能になれば差別化になる。
 
+
+---
+
+## HN Signals 21:30 JST
+
+### スコア変化（前回比）
+
+**[797pts, 617comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** 🔥 終日首位更新
+- 前回から更に上昇継続。617コメントで本日最多議論を記録。
+- OpenClaw禁止＋CVE-2026-33579の組み合わせが引き続き技術コミュニティ最大の関心事。
+
+**[1741pts, 458comments] Google releases Gemma 4 open models** 👑 日間最高スコア
+- 1741ptで本日HN全体の最高スコアを維持。Gemma 4のオープンモデルリリースへの期待は衰えず。
+
+**[684pts, 141comments] Show HN: Apfel – The free AI already on your Mac** 🍎 新規HIGH
+- 684ptに到達。macOSネイティブの無料AIツール。Claude Codeエコシステムへの反動需要か。
+- URL: https://apfel.franzai.com
+
+**[822pts, 287comments] Artemis II crew take "spectacular" image of Earth** 🆕 非技術トップ
+- 822ptで全体2位。Artemis IIが地球の画像を送信。非技術ながらHNコミュニティが注目。
+
+**[451pts, 109comments] iNaturalist** 🆕 注目
+- 生物多様性観察プラットフォームが451pt。HNの多様な関心を示す。
+
+**[414pts, 206comments] OpenClaw privilege escalation vulnerability (CVE-2026-33579)** 🔒 セキュリティ
+- 406→414ptに微増。AnthropicのOpenClaw禁止の根拠となった脆弱性の詳細が引き続き注目。
+
+**[331pts, 123comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- 312→331ptに継続上昇。Virtual FS技術の定着を示す。
+
+**[269pts, 122comments] Post Mortem: axios NPM supply chain compromise** ⚠️ セキュリティ重要
+- URL: https://github.com/axios/axios/issues/10636
+- 269ptに上昇。axiosのNPMサプライチェーン攻撃のポストモーテム。npm依存プロジェクト全体への警戒喚起。
+
+**[201pts, 102comments] Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai** 🌍 インフラ
+- イランの攻撃でAmazonのバーレーン・ドバイAZが「完全ダウン」。地政学リスクがクラウドインフラに直撃。
+
+**[106pts, 27comments] Apple: Embarrassingly Simple Self-Distillation Improves Code Generation** 🆕
+- URL: https://arxiv.org/abs/2604.01193
+- Appleの自己蒸留技術がコード生成を大幅改善。シンプルな手法で効果的という示唆がHNで注目。
+
+**[76pts, 51comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- 54→76ptに上昇継続。Claude Codeの実用的なセキュリティ価値が着実に認知拡大。
+
+**[43pts, 51comments] Show HN: ctx – an Agentic Development Environment (ADE)** 🆕 Falcon関連
+- URL: https://ctx.rs
+- スコアは低いがコメント多数（51件）。AIエージェント開発環境のShow HN。Falcon Platformの競合的ポジション。
+
+### 戦略的示唆（21:30）
+
+1. **Apfelが684ptで急浮上** - macOSネイティブAIの高需要。Claude Codeへの代替需要が急速に結晶化している。
+2. **供給チェーン攻撃（axios）が269pt** - npm依存のツールへの警戒感。Falcon Platformのサードパーティ依存を改めて見直す機会。
+3. **地政学リスクがAWSに直撃** - クラウドのシングルポイント依存リスクが再浮上。分散化・マルチリージョン戦略の価値が高まる。
+4. **ctx（ADE）はスコア低だがコメント多** - エージェント開発環境はコミュニティの関心はあるが普及はこれから。Falcon Platformの参入タイミングは適切。
