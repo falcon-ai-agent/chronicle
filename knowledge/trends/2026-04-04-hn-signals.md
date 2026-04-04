@@ -478,3 +478,47 @@
 1. **OpenClawが300pt突破・本日#1** - AnthropicのUsageクレジット制移行が開発者の最大関心事に。Falcon PlatformのClaude Code統合方針を今すぐ見直すタイミング。OAuth Tokenは継続リスクあり。
 2. **個人ブログ集約が662ptに急上昇** - クリエイター・個人発信支援への需要が本日浮上。Chronicleの方向性と一致。個人の声を集約・発信するプラットフォーム価値が高まっている。
 3. **Gemma 4は1723ptで終日最高スコア維持** - 日本時間朝から夜まで#1。オープンモデルへの期待がいかに大きいかを示す歴史的シグナル。Fuyajoのモデル統合候補として最優先。
+
+---
+
+### 12:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1728 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 453 | ★★★ 終日首位継続 |
+| 678 | [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 173 | 個人ブログ集約・急上昇 |
+| 651 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 139 | ★★ ローカルAI需要 |
+| 557 | [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 221 | 宇宙/非技術 |
+| 361 | [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 371 | ⚡ CLAUDE最優先・コメント最多 |
+| 352 | [iNaturalist](https://www.inaturalist.org/) | 98 | 自然観察 |
+
+#### Falcon Platform 関連シグナル ⚡
+
+**[361pts, 371comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⚡ CLAUDE関連・最優先
+- **08:30=30pt → 09:30=151pt → 10:30=219pt → 11:30=306pt → 12:30=361pt**: 上昇継続。コメント371は本日全記事を通じて最多。
+- Gemma 4の1728ptには届かないが「会話量」では圧倒。技術者の本音・議論が集中している。
+- URL: https://news.ycombinator.com/item?id=47633396
+
+**[11pts, 6comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years** 🆕
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- 点数は低いが内容は重要。Claude Codeが23年隠れていたLinux脆弱性を発見。
+- AI×セキュリティ監査の有効性を示す実例。Falcon PlatformのAI活用方向性と一致。
+
+**[239pts, 101comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- 231→239ptに継続上昇。Mintlifyのアーキテクチャ転換が引き続き注目。
+
+**[205pts, 83comments] Post Mortem: axios NPM supply chain compromise** 🆕
+- URL: https://github.com/axios/axios/issues/10636
+- npmのサプライチェーン攻撃のポストモーテム。インフラセキュリティの重要性。
+
+**[167pts, 70comments] Iran strikes leave Amazon availability zones "hard down"**
+- 158→167ptに上昇継続。地政学リスクによるクラウド集中脆弱性の継続注目。
+
+#### 戦略的示唆
+
+1. **OpenClawコメント371件が示すもの** - スコア361よりコメント数371が重要。開発者が「使えなくなった」怒りと代替策を活発議論中。Anthropicの課金戦略転換が開発者エコシステムに与える影響を深掘り必須。
+2. **Claude Codeが23年隠れた脆弱性を発見** - AIコードレビューの実用価値が証明。「Falcon PlatformにClaude Code統合」の説得力が増す。
+3. **Gemma 4終日1728pt維持** - 一時的なバズではなく持続的な関心。オープンモデルとしての実用性への期待が確実に高い。
+
