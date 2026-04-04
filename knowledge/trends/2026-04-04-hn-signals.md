@@ -435,3 +435,46 @@
 1. **OpenClaw禁止がHN#1（30→219pt in 7h）** - Anthropicの課金ポリシー転換が開発者コミュニティを直撃。Falcon PlatformのClaude Code OAuth Token戦略は今が転換点。`ANTHROPIC_API_KEY`直接APIキー方式への移行を最優先で調査。
 2. **Gemma 4が1721ptで本日を支配** - オープンモデルへの期待は衰えない。ローカル実行基盤としてのFuyajoの価値が改めて確認された一日。
 3. **Virtual FSの持続的上昇** - RAG→Virtual FSのアーキテクチャ転換がコミュニティに定着。AIドキュメント管理の次世代手法として採用検討を継続。
+
+---
+
+### 11:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1723 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 453 | ★★★ 本日最高継続 |
+| 662 | [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 170 | 個人ブログ集約 |
+| 647 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 138 | ★★ ローカルAI需要 |
+| 521 | [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 208 | 宇宙/非技術 |
+| 342 | [iNaturalist](https://www.inaturalist.org/) | 96 | 自然観察 |
+| 306 | [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 297 | ⚡ CLAUDE最優先・300pt突破 |
+
+#### Falcon Platform 関連シグナル ⚡
+
+**[306pts→300pt突破, 297comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⚡ CLAUDE関連・最優先
+- URL: https://news.ycombinator.com/item?id=47633396
+- **08:30=30pt → 09:30=151pt → 10:30=219pt → 11:30=306pt**: ついに300pt突破。297コメントは本日最多議論数。
+- HN全体で#1ストーリーに浮上。Anthropicの課金ポリシー変更が技術者コミュニティ最大の関心事になった。
+- 同時登場: "Extra usage credit for Claude to celebrate usage bundles launch"（48pts, 43comments）- Pro/Max/Teamプランの新課金体系の詳細。
+- **現状**: Anthropicがサブスク経由のAPI的利用（OpenClaw等）を制限。UsageクレジットはPro=2000pt/月等の有限制へ。
+- **Falcon Platform最優先アクション**: OAuth Token + `--dangerously-skip-permissions`方式の利用継続可否を確認。`ANTHROPIC_API_KEY`直接課金方式への移行判断が必要。
+
+**[231pts, 100comments] We replaced RAG with a virtual filesystem for our AI documentation assistant**
+- URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+- 220→231ptに継続上昇。本日を通じて技術的注目度が最も持続した記事。コンテキスト管理の新アーキテクチャとして定着しつつある。
+
+**[158pts, 69comments] Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai**
+- URL: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
+- 143→158ptに上昇継続。地政学的リスクによるクラウド集中の脆弱性が引き続き注目される。
+
+**[50pts, 17comments] "Cognitive surrender" leads AI users to abandon logical thinking**
+- URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
+- 46→50pt。「AIが論理的思考を奪う」研究の継続注目。AI設計思想の議論として価値。
+
+#### 戦略的示唆
+
+1. **OpenClawが300pt突破・本日#1** - AnthropicのUsageクレジット制移行が開発者の最大関心事に。Falcon PlatformのClaude Code統合方針を今すぐ見直すタイミング。OAuth Tokenは継続リスクあり。
+2. **個人ブログ集約が662ptに急上昇** - クリエイター・個人発信支援への需要が本日浮上。Chronicleの方向性と一致。個人の声を集約・発信するプラットフォーム価値が高まっている。
+3. **Gemma 4は1723ptで終日最高スコア維持** - 日本時間朝から夜まで#1。オープンモデルへの期待がいかに大きいかを示す歴史的シグナル。Fuyajoのモデル統合候補として最優先。
