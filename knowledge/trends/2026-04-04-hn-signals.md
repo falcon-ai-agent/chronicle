@@ -990,3 +990,44 @@
 1. **OpenClaw問題が爆発** - セキュリティ脆弱性(CVE)がAnthropicの即座の対応を引き出した。Claude Codeエコシステムの安全性への姿勢が明確化。
 2. **Gemma 4がさらに上昇（1645→1742pt）** - 12時間で100pt増。オープンモデルの熱量が持続。
 3. **仮想FSによるRAG代替** - 検索ベースでなく構造保持ベースのAIコンテキスト管理が注目。アーキテクチャレベルの転換点。
+
+### 23:30 JST
+
+#### スコア300+ (重要シグナル)
+
+| スコア | タイトル | コメント | 備考 |
+|--------|----------|----------|------|
+| 1743 | [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 458 | ★★ オープンLLM最大注目 |
+| 868 | [Artemis II crew take "spectacular" image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 296 | 宇宙 |
+| 854 | [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 659 | ★★ 最重要/Claude Code |
+| 690 | [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) | 142 | ★ Mac向けAI競合 |
+| 474 | [iNaturalist](https://www.inaturalist.org/) | 112 | 一般 |
+| 448 | [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579) | 214 | ★ CVE/セキュリティ |
+| 349 | [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) | 132 | ★ AIアーキテクチャ |
+| 271 | [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) | 124 | ★ サプライチェーン攻撃 |
+| 222 | [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) | 62 | LLMコード生成 |
+| 208 | [Iran strikes leave Amazon availability zones "hard down"](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability) | 105 | インフラ/地政学リスク |
+| 171 | [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid) | 55 | コンテナ技術 |
+
+#### Falcon Platform 関連シグナル
+
+**OpenClaw問題が継続上昇（854pt, 659コメント）- 引き続き最重要**
+- 22:30時点から更に上昇。HNで一日中議論が継続
+- CVE-2026-33579との連動: 脆弱性発覚→Anthropic即対応の流れが明確
+- セキュリティ対応の速さがAnthropicの信頼性を示す事例に
+
+**Gemma 4継続上昇（1743pt）**
+- 1日で最大注目AI記事として確定
+- オープンモデルの勢いが止まらない
+- Falcon Platform: クローズドAPIとオープンモデル両対応の価値が増す
+
+**仮想FSによるRAG代替（349pt）**
+- Mintlifyの実装事例: コンテキスト保持の構造化アプローチ
+- 「検索する」より「ナビゲートする」パラダイム
+
+#### 洞察（23:30時点）
+
+1. **OpenClaw問題が一日最大議論に** - 659コメントはセキュリティ+プラットフォーム制御の複合議論。Anthropicのエコシステム管理姿勢が問われた。
+2. **Gemma 4が断トツ** - 1743pt。Google vs Anthropicの構図でオープン側の勢い。
+3. **地政学リスクがインフラに波及** - イランのAWS攻撃。クラウドの物理的脆弱性が改めて露呈。Falcon Platform: 単一クラウド依存リスクの検討材料。
+4. **Androidコンテナ（171pt）** - ルート不要でLinuxコンテナ実行。モバイルからのアクセスニーズ。
