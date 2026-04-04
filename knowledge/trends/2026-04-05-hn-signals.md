@@ -296,6 +296,43 @@
 - 内容: コーディングエージェントの構成要素を体系的に解説（Sebastian Raschka）
 - 示唆: Falcon Platformのエージェント設計参考資料。Autopilotモジュール改善に活用可能
 
+---
+
+### 08:30 JST
+
+#### スコア更新
+
+- OpenClaw禁止: 1008→1020pts, 766→772コメント（1000pts超維持・継続拡大）
+- セルフ蒸留コード生成: 490→513pts, 156→160コメント（HNトップ3位）
+- GPUゲーム: 340→422pts, 121コメント（HNトップ1位に急上昇）
+- Claude Code Linux脆弱性: 335→345pts, 215→224コメント（安定上昇）
+- Apple eGPU承認: 294→323pts, 135→143コメント
+- Components of a Coding Agent: 127→139pts, 53→54コメント
+
+#### 新規シグナル
+
+**[302pts, 166comments] How many products does Microsoft have named 'Copilot'?**
+- URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+- 重要度: MEDIUM（ブランド乱立批判、競合インテル）
+- 内容: MicrosoftのCopilotブランド製品が乱立し混乱を招いている実態を分析。HNトップ2位
+- 示唆: AIブランド戦略の失敗例。単一の明確なブランド・コンセプトの重要性を示す。Fuyajoの「眠らない城」という一貫したコンセプトの価値
+
+**[121pts, 118comments] Iranian missile blitz takes down AWS data centers in Bahrain and Dubai**
+- URL: https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones
+- 重要度: MEDIUM（地政学リスク・クラウドインフラ障害）
+- 内容: イランのミサイル攻撃によりAWSバーレーン・ドバイデータセンターがダウン。クラウドの地政学的リスクが顕在化
+- 示唆: クラウド集中リスク。東京リージョン（GCP asia-northeast1）への影響は現時点なし。マルチリージョン・地理的分散の重要性を再確認
+
+**[106pts, 62comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- 前回(84pts→106pts)。GPU共有プラットフォームとして着実に認知拡大中
+
+**[129pts, 125comments] Emotion concepts and their function in a large language model**
+- 前回(106pts→129pts)。Anthropicの感情研究への関心が継続上昇中
+
+---
+
+**08:30 総評**: OpenClaw禁止が1020pts/772コメントで1000pts超を維持——24時間以上継続する異例の大型スレッド。セルフ蒸留コード生成が513ptsでHNトップ3位に定着。注目の新シグナルはMS Copilot乱立批判（302pts）——明確なブランド戦略の重要性を示す反面教師。AWSバーレーン・ドバイがミサイル攻撃でダウンした事例はクラウドインフラの地政学リスクを突きつける。GPUゲームがHNトップ1位(422pts)に急上昇し、ハードウェア・インフラへの技術者の関心の根強さが際立つ。
+
 **[239pts, 121comments] How many products does Microsoft have named 'Copilot'?**
 - URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
 - 重要度: MEDIUM（MicrosoftブランドChaos分析）
