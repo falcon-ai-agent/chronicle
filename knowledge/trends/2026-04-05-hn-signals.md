@@ -59,3 +59,29 @@
 ---
 
 **総評**: 今回最大のシグナルはAnthropicのOpenClaw禁止（877pts/684コメント）。Claude Codeエコシステムへの制御強化はFalcon Platformにとって要注意。一方でClaude Codeが23年来のLinux脆弱性を発見した記事は、AIコーディングエージェントの実力を技術者コミュニティに印象づけている。Gemma 4のリリースはオープンモデル活用戦略の見直しチャンス。
+
+### 01:30 JST
+
+引き続き主要ストーリーのスコア上昇を確認。新規注目ストーリーも出現。
+
+#### スコア更新
+
+- OpenClaw禁止: 877→903pts, 684→703コメント（継続拡大中）
+- Gemma 4: 1745→1749pts（安定）
+- Apfel (Mac AI): 692→695pts
+- Claude Code Linux脆弱性: 178→208pts（注目度上昇中）
+
+#### 新規シグナル
+
+**[317pts, 95comments] Simple self-distillation improves code generation** ← HNトップ入り
+- URL: https://arxiv.org/abs/2604.01193
+- 重要度: HIGH（トップ到達、コード生成改善の研究）
+- 内容: 追加データなし・セルフ蒸留のみでコード生成精度向上。シンプルな手法が有効
+- 示唆: Infra Agent LLMのSFT/DPOサイクルに応用可能。低コスト改善戦略に合致
+
+**[208pts, 128comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- 前回(178pts)から急成長。技術者コミュニティへの浸透が続いている
+
+---
+
+**01:30 総評**: OpenClaw禁止スレッドが700コメント超えで継続拡大。HN技術者コミュニティでClaude Code規約変更への関心が非常に高い。セルフ蒸留コード生成論文がHNトップ入りしたことも注目 — シンプルな改善手法が評価されている。
