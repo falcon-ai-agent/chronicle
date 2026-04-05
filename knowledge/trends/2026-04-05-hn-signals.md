@@ -915,3 +915,41 @@
 ---
 
 **22:30 総評**: 「Components of a Coding Agent」(261pts)が前回から大幅スコアアップ。AIエージェントアーキテクチャへの関心高まりはFalcon Platformに直接関連。sllm（GPU共有）はfuyajoの競合・参考事例として要注目。「comfortable drift」記事はAI依存による理解力低下の懸念で、開発者コミュニティのリアルな声。
+
+---
+
+## 23:30 JST
+
+**[1052pts, 801comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw**
+- URL: https://news.ycombinator.com/item?id=47633396
+- 重要度: HIGH（Claude/Anthropic直接関連）
+- 内容: AnthropicがClaude Code サブスクリプションでのOpenClaw使用を禁止。1052pts/801commentsは今日最大のシグナル。OpenClawはClaude Codeのサードパーティラッパー。Anthropicがエコシステム制御を強化している可能性。技術者コミュニティの反発大
+
+**[717pts, 338comments] How many products does Microsoft have named 'Copilot'?**
+- URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+- 重要度: HIGH（AI戦略・ブランディング）
+- 内容: Microsoftの"Copilot"ブランド乱用への批判。717pts。AIブランドの乱立が技術者に不信感を与えている状況を示す。Falcon Platformにとっては「シンプルで明確な価値提案」の重要性を示す
+
+**[372pts, 274comments] The threat is comfortable drift toward not understanding what you're doing**
+- URL: https://ergosphere.blog/posts/the-machines-are-fine/
+- 重要度: HIGH（AI開発者依存の反省）
+- 内容: AIツールへの依存による理解力低下の危険性。274コメントは技術者コミュニティでの深い議論。「AIに任せすぎると自分で考えられなくなる」という警告。Falcon Platform設計への示唆：補助ではなく教育的な体験が必要
+
+**[267pts, 81comments] Components of a Coding Agent**
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 重要度: HIGH（Falcon Platform関連）
+- 内容: Coding Agentの構成要素を詳解。267pts継続。前回19:30から+29pts上昇中。Fuyajoのエージェント設計に直接参考になるコンテンツ
+
+**[169pts, 84comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- URL: https://sllm.cloud
+- 重要度: MEDIUM（Fuyajo競合参考）
+- 内容: 開発者間でGPUノードをシェアするサービス。「unlimited tokens」が訴求点。Fuyajoの「固定価格・予測可能な課金」と共鳴するコンセプト
+
+**[239pts, 77comments] LLM Wiki – example of an "idea file"**
+- URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- 重要度: MEDIUM（LLM知識蓄積）
+- 内容: Karpathy（元OpenAI）のLLMアイデアメモ集。技術者にとってのナレッジ管理の実例として参考価値あり
+
+---
+
+**23:30 総評**: 本日最大のシグナルはAnthropicのOpenClaw禁止（1052pts/801コメント）。Claude Codeエコシステムへの制御強化は直接影響あり。「comfortable drift」記事（372pts）はAI依存への警鐘で、Falcon Platformの設計思想に問いかけ。Components of a Coding Agent（267pts）は継続上昇中でFuyajo開発の参考として最優先読了推奨。
