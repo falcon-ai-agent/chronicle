@@ -769,3 +769,54 @@
 ---
 
 **19:30 総評**: OpenClaw禁止とClaude Code Linux脆弱性が引き続き今日の主要シグナル。新規では「Components of a Coding Agent」（238pts）がFalcon Platformに直接示唆を持つ最重要新規コンテンツ。AnthropicのLLM感情研究（174pts/168コメント比率）は技術者の哲学的関心を引いており、AIの内部状態への議論が活発化している兆候。sllm（GPU分割）はFuyajoのリソース管理設計の競合参考事例として注目。
+
+---
+
+## HN Signals - 20:30 JST
+
+### AI関連新規シグナル
+
+**[1050pts, 798comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ⭐ HIGH
+- URL: https://news.ycombinator.com/item?id=47633396
+- 重要度: HIGH（Anthropic政策変更）
+- 引き続き今日の最大シグナル。依然トップを維持（19:30比: +17pts, +25comments）
+
+**[396pts, 248comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years** ⭐ HIGH
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- 重要度: HIGH（Claude Code実証事例）
+- スコア上昇継続。コーディングエージェントの実力証明として拡散中
+
+**[245pts, 78comments] Components of a Coding Agent** ⭐ HIGH
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 重要度: HIGH（Falcon Platform直接参考）
+- Sebastian Raschkaによるコーディングエージェントのアーキテクチャ解説。Falcon Platformのエージェント設計に直接参考になる
+
+**[213pts, 67comments] LLM Wiki – example of an "idea file" (Karpathy)**
+- URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- 重要度: MEDIUM（Karpathyのアイデア管理）
+- Karpathyが公開したLLMに関するアイデアファイル。技術者の間で参考資料として広まっている
+
+**[175pts, 170comments] Emotion concepts and their function in a large language model**
+- URL: https://www.anthropic.com/research/emotion-concepts-function
+- 重要度: MEDIUM（Anthropic研究）
+- コメント比率が高い（170/175）。LLMの内部状態・感情概念に関する技術者の哲学的議論が活発
+
+**[164pts, 79comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- URL: https://sllm.cloud
+- 重要度: MEDIUM（GPU共有インフラ）
+- Fuyajoの競合・参考事例。GPU分割・共有でトークン無制限を実現するモデル
+
+**[668pts, 319comments] How many products does Microsoft have named 'Copilot'?**
+- URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+- 重要度: MEDIUM（競合分析）
+- MicrosoftのCopilotブランド混乱への批判。AIブランディング戦略の反面教師
+
+### トップページ（AI外）
+
+**[781pts, 161comments] Show HN: A game where you build a GPU**
+- URL: https://jaso1024.com/mvidia/
+- 重要度: LOW（娯楽）
+
+---
+
+**20:30 総評**: 「Components of a Coding Agent」がスコアを245まで伸ばし、今日の技術系コンテンツとして確固たる地位を占めた。Raschkaの分析はFalcon PlatformのAgent設計に直接参考になる必読コンテンツ。OpenClaw禁止（1050pts）は依然として今日最大のシグナルで衰え知らず。Claude Codeの脆弱性発見（396pts）と合わせて「Claude Codeの実力と制約」を同時に示す対比的な構図が面白い。sllmのGPU分割モデルはFuyajoのリソース分割設計の競合参考として要注目。
