@@ -865,3 +865,53 @@
 ---
 
 **21:30 総評**: OpenClaw禁止（1050pts/798comments）は衰えを知らず。Anthropicの「サブスクリプション悪用」への規制が技術者コミュニティで引き続き大きな注目を集めている。mRNA LLMの$165訓練事例は「AIの民主化」文脈で興味深い。German eIDAS事例はプラットフォーム独占問題の典型例として記録価値あり。
+
+---
+
+## HN Signals 22:30 JST
+
+### AI関連
+
+**[1051pts, 801comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ← CRITICAL継続
+- URL: https://news.ycombinator.com/item?id=47633396
+- 重要度: HIGH（Anthropic直接関連）
+- 22:30時点で1051pts/801comments。21:30から+1pt/+3comments。議論は収束に向かっている
+
+**[707pts, 332comments] How many products does Microsoft have named 'Copilot'?**
+- URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+- 重要度: HIGH（競合分析）
+- Microsoftブランド乱立への批判。命名・ブランド戦略の失敗事例として注目
+
+**[261pts, 80comments] Components of a Coding Agent**
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 重要度: HIGH（Falcon Platform直結）
+- コーディングエージェントのアーキテクチャ解説。Raschkaによる体系的まとめ
+
+**[231pts, 75comments] LLM Wiki – example of an "idea file" (Karpathy)**
+- URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- 重要度: MEDIUM（LLM知識管理）
+- Karpathyのアイデアファイル公開。LLMに関する未整理メモが公開されて注目
+
+**[166pts, 81comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- URL: https://sllm.cloud
+- 重要度: MEDIUM（Falcon Platform参考）
+- GPU共有モデル。fuyajoの「固定価格・リソース共有」モデルと類似。競合候補
+
+### トップページ（AI外）
+
+**[823pts, 166comments] Show HN: A game where you build a GPU**
+- URL: https://jaso1024.com/mvidia/
+- 重要度: LOW（ゲーム）
+- GPU製造シミュレーターゲーム。バイラル
+
+**[384pts, 344comments] German implementation of eIDAS will require an Apple/Google account to function**
+- 前回からスコア継続上昇中
+
+**[247pts, 168comments] The threat is comfortable drift toward not understanding what you're doing**
+- URL: https://ergosphere.blog/posts/the-machines-are-fine/
+- 重要度: HIGH（AI開発哲学）
+- AI支援で「理解なき実装」に慣れていく危険性。技術者の本音が出る議論
+
+---
+
+**22:30 総評**: 「Components of a Coding Agent」(261pts)が前回から大幅スコアアップ。AIエージェントアーキテクチャへの関心高まりはFalcon Platformに直接関連。sllm（GPU共有）はfuyajoの競合・参考事例として要注目。「comfortable drift」記事はAI依存による理解力低下の懸念で、開発者コミュニティのリアルな声。
