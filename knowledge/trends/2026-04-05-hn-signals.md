@@ -431,3 +431,39 @@
 ---
 
 **10:30 総評**: OpenClaw禁止スレッドが1031pts/783コメントで依然拡大——Anthropicのポリシー変更への反発が週をまたいでも収まらない。セルフ蒸留コード生成がHNトップ2位(545pts)で引き続き注目。新規シグナルは$165でmRNA LLMを学習した事例——ドメイン特化モデルの超低コスト学習がFalcon PlatformのローカルLLM戦略を後押し。Linux 7.0でPostgreSQL性能半減の報告はインフラ管理に直接関わるリスク情報として要注意。
+
+---
+
+**[368pts, 237comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- 重要度: HIGH（Claude Codeの実力証明）
+- 内容: Claude Codeが23年間見過ごされてきたLinuxカーネルの脆弱性を発見。セキュリティ研究における実用性を実証
+- 示唆: Claude Codeがコードレビュー・脆弱性発見で本物の価値を発揮していることを示す。Falcon PlatformのAIアシスト機能の方向性として有力
+
+**[175pts, 63comments] Components of a Coding Agent**
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 重要度: HIGH（コーディングエージェントアーキテクチャ）
+- 内容: Sebastian Raschkaがコーディングエージェントの構成要素を体系的に解説
+- 示唆: Falcon Platformのエージェント設計に直接応用できる参考資料
+
+**[143pts, 158comments] Emotion concepts and their function in a large language model (Anthropic Research)**
+- URL: https://www.anthropic.com/research/emotion-concepts-function
+- 重要度: MEDIUM（Anthropicの内部研究公開）
+- 内容: LLMにおける感情概念の機能を分析したAnthropicの研究論文。コメント数158と活発な議論
+- 示唆: AnthropicがLLMの内部表現を研究中。Claude改善への布石か。倫理・AI安全性への関心の高さも確認
+
+**[128pts, 65comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- URL: https://sllm.cloud
+- 重要度: MEDIUM（GPU共有プラットフォーム）
+- 内容: 開発者間でGPUノードを分割利用、トークン無制限。Fuyajoと類似のコスト最適化アプローチ
+- 示唆: GPU共有モデルは需要あり。Fuyajoの固定価格モデルと競合する可能性
+
+**[555pts, 167comments] Embarrassingly simple self-distillation improves code generation (HNトップ)**
+- URL: https://arxiv.org/abs/2604.01193
+- 重要度: HIGH（コード生成精度向上）
+- 内容: シンプルなself-distillation手法でコード生成が大幅改善。HN全体2位の注目度
+- 示唆: 前回から10pts増（545→555）。コードLLMの急速な進化を示す
+
+---
+
+**11:30 総評**: 最大の新規シグナルは「Claude Code、23年潜伏のLinux脆弱性を発見」（368pts）——Claude Codeの実力が世界に伝わっている。OpenClawスレッドは1037pts/786コメントに拡大継続、Anthropicポリシーへの反発は根強い。コーディングエージェントのアーキテクチャ解説記事（175pts）はFalcon Platform設計の参考として要保存。GPU共有サービスsllm（128pts）は類似コンセプトの競合として要注目。
