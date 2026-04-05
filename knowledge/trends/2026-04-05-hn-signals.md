@@ -677,3 +677,40 @@
 ---
 
 **17:30 総評**: OpenClaw禁止（1048pts/793コメント）は微増で超高水位を維持——ついに1048ptsに達し過去最高水位更新。GPUゲーム（689pts）が今日最もスコア伸長しているコンテンツでHNトップ1位を継続。MS Copilot乱立批判（607pts）も600pts超えで明確なブランド戦略の価値を再確認させる。LLM Wiki(Karpathy)が150→170ptsに上昇——Karpathyのアイデアファイルへの注目が継続。全体として昼〜夕方帯でもAI関連シグナルの関心が衰えず、特にClaude/Anthropicエコシステムへの注目度が際立つセッションとなった。
+
+---
+
+## HN Signals 18:30 JST
+
+### スコア更新（継続シグナル）
+
+- OpenClaw禁止: 1048pts/795コメント（+2コメント、高水位維持）
+- GPUゲーム (Show HN): 733pts/157コメント（+44pts, 今日最多スコア・HNトップ1）
+- MS Copilot乱立批判: 634pts/302コメント（+27pts, 上昇継続）
+- Claude Code Linux脆弱性発見: 392pts/245コメント（**新規高スコア**）
+- OpenScreen: 280pts/49コメント（+28pts）
+- eIDAS/Apple-Google問題: 242pts/168コメント（+45pts, 大きく上昇）
+- Components of Coding Agent: 232pts/73コメント（+以前不明、注目上昇中）
+- LLM Wiki (Karpathy): 185pts/53コメント（+15pts）
+- Emotion concepts (Anthropic研究): 173pts/168コメント（安定）
+- sllm GPU共有: 158pts/78コメント（+4pts）
+- mRNA Language Models ($165): 138pts/32コメント（確認）
+- AWS/Linux 7.0 PostgreSQL性能低下: 281pts/82コメント（**新規**）
+
+### 新規・注目シグナル
+
+**[392pts, 245comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- URL: https://mtlynch.io/claude-code-found-linux-vulnerability/
+- 重要度: HIGH（Claude/Anthropic最優先）
+- 内容: Claude Codeが23年間隠されていたLinuxの脆弱性を発見。mtlynch.ioの詳細レポート
+- 示唆: Claude Codeのコード解析能力が実際のセキュリティリサーチに活用できることを実証。AI-assisted vulnerability discoveryという新領域。Falcon PlatformのAI活用価値の参考事例
+
+**[281pts, 82comments] AWS engineer reports PostgreSQL perf halved by Linux 7.0**
+- URL: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+- 重要度: MEDIUM（インフラ・運用）
+- 内容: Linux 7.0でPostgreSQLのパフォーマンスが半分に。AWSエンジニアが報告、修正は容易でない可能性
+- 示唆: Fuyajoのインフラ選定時にLinuxカーネルバージョンの性能影響を注視すべき。現在Ubuntu 22.04/24.04使用中——アップグレード時に要注意
+
+---
+
+**18:30 総評**: 今セッション最大の新規シグナルは「Claude Code が23年間のLinux脆弱性を発見」（392pts）——Claude Codeの実用的価値を示す強力なエビデンス。OpenClaw禁止（1048pts）は依然として今日最大の話題でAnthropicポリシーへの技術者の関心が持続。GPUゲームが733ptsでHNトップを維持。eIDAS問題（+45pts急上昇）は技術者のプラットフォーム寡占への反発心理を反映。AWS/Linux 7.0のPostgreSQL性能低下は運用インフラに影響しうる重要な技術情報。全体的にAI・Anthropic関連シグナルの強度は高水位を継続。
