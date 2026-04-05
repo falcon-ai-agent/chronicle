@@ -530,3 +530,55 @@
 ---
 
 **14:30 総評**: OpenClaw禁止（1045pts/787コメント）がさらに拡大し今日最大のシグナル。新規注目は「Components of a Coding Agent」（201pts）——エージェント設計の体系化コンテンツが技術者に刺さっている。sllm（138pts）のGPU分割共有モデルは、Fuyajoの「VM分割共有」と概念的に近く、参考になる競合事例。
+
+---
+
+## HN Signals 15:30 JST
+
+| # | タイトル | スコア | コメント | 重要度 |
+|---|---------|--------|----------|--------|
+| 1 | Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw | 1046 | 789 | **High** |
+| 2 | Show HN: A game where you build a GPU | 618 | 146 | Medium |
+| 3 | How many products does Microsoft have named 'Copilot'? | 537 | 261 | High |
+| 4 | Components of a Coding Agent | 210 | 67 | High |
+| 5 | Emotion concepts and their function in a large language model | 167 | 166 | High |
+| 6 | Training mRNA Language Models Across 25 Species for $165 | 135 | 31 | Medium |
+| 7 | Show HN: sllm – Split a GPU node with other developers | 143 | 71 | High |
+| 8 | Writing Lisp is AI resistant and I'm sad | 59 | 53 | Medium |
+| 9 | Functional programming accelerates agentic feature development | 41 | 20 | Medium |
+| 10 | A case study in testing with 100+ Claude agents in parallel | 42 | 29 | Medium |
+
+### スコア更新（前時比）
+
+- OpenClaw禁止: 1045→1046pts, 787→789コメント（微増・安定高水位）
+- GPUゲーム: 595→618pts, 144コメント（HNトップ1位、継続急成長）
+- MS Copilot乱立批判: 506→537pts, 250→261コメント（大幅上昇継続）
+- Components of a Coding Agent: 201→210pts, 67コメント（着実上昇）
+- Emotion concepts LLM(Anthropic): 164→167pts, 166コメント（安定）
+- sllm GPU共有: 138→143pts, 70→71コメント（緩やか上昇）
+- LLM Wiki (Karpathy): 120→133pts, 30→36コメント（着実上昇）
+- 100+ Claude agents並列テスト: 31→42pts, 17→29コメント（成長中）
+
+### 新規シグナル
+
+**[59pts, 53comments] Writing Lisp is AI resistant and I'm sad**
+- URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/
+- 重要度: MEDIUM（LLM補完の限界・技術者の本音）
+- 内容: Lispのような括弧対称・マクロ中心の言語はAIコード補完が苦手で、LLMサポートの恩恵を受けにくいと嘆く記事。コメント53件と活発な議論
+- 示唆: AIツールが「主流言語に最適化」していることを示す。Falcon PlatformでサポートするAI補完の対象言語選定に参考
+
+**[41pts, 20comments] Functional programming accelerates agentic feature development**
+- URL: https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai
+- 重要度: MEDIUM（AIエージェント開発手法論）
+- 内容: 関数型プログラミングがAIエージェント機能開発を加速するという論考。純粋関数・不変性・合成性がLLMコード生成との相性が良いと主張
+- 示唆: Falcon PlatformのAIエージェント内部実装方針の参考。Go言語の関数型的スタイルとの組み合わせを検討
+
+**[197pts, 34comments] OpenScreen – open-source alternative to Screen Studio**
+- URL: https://github.com/siddharthvaddem/openscreen
+- 重要度: MEDIUM（HNトップ4位、OSSツール）
+- 内容: 人気のスクリーンレコーダーScreen StudioのオープンソースAlternative
+- 示唆: OSS代替需要の根強さを再確認。「商用ツールの手頃な代替」ポジションが有効なことを示す
+
+---
+
+**15:30 総評**: OpenClaw禁止（1046pts）は微増で高水位を維持——1日経っても技術者の関心が衰えない異例の持続力。GPUゲームが618ptsに急成長しHNトップ1位を維持。新規注目は「Writing Lisp is AI resistant」（59pts）——LLMコード補完の言語バイアス問題が技術者の共感を呼んでいる。Functional programmingがエージェント開発を加速するという論考（41pts）も、Falcon Platformのバックエンド設計方針に参考になる実践的知見。
