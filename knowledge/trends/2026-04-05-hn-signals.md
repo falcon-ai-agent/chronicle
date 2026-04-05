@@ -582,3 +582,52 @@
 ---
 
 **15:30 総評**: OpenClaw禁止（1046pts）は微増で高水位を維持——1日経っても技術者の関心が衰えない異例の持続力。GPUゲームが618ptsに急成長しHNトップ1位を維持。新規注目は「Writing Lisp is AI resistant」（59pts）——LLMコード補完の言語バイアス問題が技術者の共感を呼んでいる。Functional programmingがエージェント開発を加速するという論考（41pts）も、Falcon Platformのバックエンド設計方針に参考になる実践的知見。
+
+---
+
+## HN Signals 16:30 JST
+
+| # | タイトル | スコア | コメント | 重要度 |
+|---|---------|--------|----------|--------|
+| 1 | Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw | 1047 | 790 | **High** |
+| 2 | Show HN: A game where you build a GPU | 653 | 147 | Medium |
+| 3 | How many products does Microsoft have named 'Copilot'? | 573 | 284 | High |
+| 4 | Claude Code Found a Linux Vulnerability Hidden for 23 Years | 388 | 245 | **High** |
+| 5 | Components of a Coding Agent | 221 | 70 | High |
+| 6 | Emotion concepts and their function in a large language model | 169 | 167 | High |
+| 7 | AWS engineer reports PostgreSQL perf halved by Linux 7.0 | 238 | 58 | High |
+| 8 | Show HN: sllm – Split a GPU node with other developers | 150 | 74 | Medium |
+| 9 | LLM Wiki – example of an "idea file" (Karpathy) | 150 | 42 | Medium |
+| 10 | A case study in testing with 100+ Claude agents in parallel | 48 | 40 | Medium |
+
+### スコア更新（前時比）
+
+- OpenClaw禁止: 1046→1047pts, 789→790コメント（微増・安定高水位）
+- GPUゲーム: 618→653pts, 146→147コメント（HNトップ1位、継続成長）
+- MS Copilot乱立批判: 537→573pts (+36pts), 261→284コメント（大幅上昇継続）
+- Claude Code Linux脆弱性: 376→388pts (+12pts), 240→245コメント（着実上昇）
+- Components of a Coding Agent: 210→221pts, 67→70コメント（着実上昇）
+- Emotion concepts LLM: 167→169pts, 166→167コメント（安定）
+- sllm GPU共有: 143→150pts, 71→74コメント（緩やか上昇）
+- OpenScreen: 197→222pts, 34→42コメント（着実上昇）
+
+### 急成長シグナル
+
+**[238pts, 58comments] AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy**
+- URL: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+- 重要度: HIGH（インフラ本番影響・DB性能リグレッション）
+- 内容: Linux 7.0カーネルでPostgreSQLのパフォーマンスが半減するリグレッションをAWSエンジニアが報告。10:30時点で73ptsだったが238ptsへ急成長。修正が容易でないことへの技術者の懸念が拡大
+- 示唆: Fuyajoインフラのカーネルバージョン管理は慎重に。Ubuntu LTSの自動アップデートが危険になりうる。vmmdやPostgreSQL系ワークロード運用前にカーネルバージョンを固定する対策を検討
+
+### 注目の継続シグナル
+
+**[388pts, 245comments] Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+- 前時比 +12pts。週末を跨いでも技術者の関心が続く。AIコーディングエージェントの実力が定着しつつある
+
+**[48pts, 40comments] A case study in testing with 100+ Claude agents in parallel (Imbue)**
+- URL: https://imbue.com/product/mngr_part_2/
+- 100以上のClaudeエージェントを並列実行してテスト。大規模エージェント並列化の実践ケーススタディ
+
+---
+
+**16:30 総評**: OpenClaw禁止（1047pts/790コメント）は超高水位で安定維持——Anthropicのエコシステム制限への反発は1日半経っても衰えない記録的持続力。最大の変化はLinux 7.0 PostgreSQL性能半減問題（73→238pts）——午前中は中程度のシグナルだったが急成長しており、インフラエンジニアの懸念が顕在化。Fuyajoのカーネル管理戦略への直接影響として要警戒。MS Copilot乱立批判（573pts）の継続上昇は、AIブランド戦略の失敗例として認識が定着。Claude Code脆弱性発見（388pts）も着実に成長を続けており、AIエージェントの実力証明として技術者コミュニティに浸透している。
