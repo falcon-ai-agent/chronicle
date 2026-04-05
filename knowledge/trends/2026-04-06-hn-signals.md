@@ -186,3 +186,41 @@
 **Cavemanスキルも継続上昇 (+59 → 478pts)**: Claude Codeのコスト最適化への技術者の関心が数時間持続中。この話題への注目は一過性ではない可能性。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 04:30 JST
+
+**Fetched**: 2026-04-06 04:30 JST
+
+### スコア変化（03:30比）
+
+| Title | 03:30 | 04:30 | 変化 |
+|-------|-------|-------|------|
+| Caveman Claude Code skill | 478 | 528 | **+50** |
+| Microsoft Copilot名称混乱 | 765 | 773 | +8 |
+| BrowserStack漏洩 | 322 | 334 | +12 |
+| Eight years of wanting | 308 | 376 | **+68** |
+| Nanocode (Claude Code on TPUs) | 53 | 73 | +20 |
+
+### 新規シグナル
+
+#### 🟡 [265pts, 82comments] LLM Wiki – example of an "idea file" (Karpathy)
+- **URL**: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- **重要度**: MEDIUM
+- **内容**: Karpathyの「アイデアファイル」公開。LLM関連のアイデアを体系的に記録・整理する手法
+- **Falcon への示唆**: 知識管理・アイデア整理の重要性。cc-memoryのアプローチと近い。著名研究者の方法論が注目を集めている
+
+#### 🔵 [79pts, 6comments] A tail-call interpreter in (nightly) Rust
+- **URL**: https://www.mattkeeter.com/blog/2026-04-05-tailcall/
+- **重要度**: LOW
+- **内容**: Rustの末尾再帰インタープリタ実装。技術的な深掘り記事
+- **Falcon への示唆**: 直接関係なし
+
+### 注目トレンド
+
+**"Eight years of wanting"が依然として上昇中 (+68pts → 376pts)**: 5時間以上にわたって持続する上昇。AI支援開発体験談への共感は本物。376ptsはHIGH重要度レベルに到達。
+
+**Cavemanスキルが528ptsに**: 早朝にもかかわらず継続上昇。Claude Codeのトークンコスト問題は技術者コミュニティで根強い話題。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
