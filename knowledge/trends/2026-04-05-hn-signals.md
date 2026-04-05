@@ -631,3 +631,49 @@
 ---
 
 **16:30 総評**: OpenClaw禁止（1047pts/790コメント）は超高水位で安定維持——Anthropicのエコシステム制限への反発は1日半経っても衰えない記録的持続力。最大の変化はLinux 7.0 PostgreSQL性能半減問題（73→238pts）——午前中は中程度のシグナルだったが急成長しており、インフラエンジニアの懸念が顕在化。Fuyajoのカーネル管理戦略への直接影響として要警戒。MS Copilot乱立批判（573pts）の継続上昇は、AIブランド戦略の失敗例として認識が定着。Claude Code脆弱性発見（388pts）も着実に成長を続けており、AIエージェントの実力証明として技術者コミュニティに浸透している。
+
+---
+
+## HN Signals 17:30 JST
+
+| # | タイトル | スコア | コメント | 重要度 |
+|---|---------|--------|----------|--------|
+| 1 | Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw | 1048 | 793 | **High** |
+| 2 | Show HN: A game where you build a GPU | 689 | 149 | Medium |
+| 3 | How many products does Microsoft have named 'Copilot'? | 607 | 293 | High |
+| 4 | Claude Code Found a Linux Vulnerability Hidden for 23 Years | 389 | 245 | **High** |
+| 5 | Components of a Coding Agent | 232 | 71 | High |
+| 6 | Emotion concepts and their function in a large language model | 171 | 168 | High |
+| 7 | LLM Wiki – example of an "idea file" (Karpathy) | 170 | 47 | Medium |
+| 8 | Show HN: sllm – Split a GPU node with other developers | 154 | 76 | Medium |
+| 9 | Training mRNA Language Models Across 25 Species for $165 | 138 | 32 | Medium |
+| 10 | Writing Lisp is AI resistant and I'm sad | 64 | 61 | Medium |
+
+### スコア更新（前時比）
+
+- OpenClaw禁止: 1047→1048pts (+1), 790→793コメント (+3)（超高水位で安定維持）
+- GPUゲーム: 653→689pts (+36), 147→149コメント（HNトップ1位、継続急成長）
+- MS Copilot乱立批判: 573→607pts (+34), 284→293コメント（大幅上昇継続）
+- Claude Code Linux脆弱性: 388→389pts (+1), 245コメント（安定）
+- Components of a Coding Agent: 221→232pts (+11), 70→71コメント（着実上昇）
+- Emotion concepts LLM: 169→171pts (+2), 167→168コメント（安定）
+- LLM Wiki (Karpathy): 150→170pts (+20), 42→47コメント（上昇中）
+- sllm GPU共有: 150→154pts (+4), 74→76コメント（微増）
+
+### 新規・注目シグナル
+
+**[252pts, 45comments] OpenScreen – open-source alternative to Screen Studio**
+- URL: https://github.com/siddharthvaddem/openscreen
+- 重要度: MEDIUM（OSSツール台頭、HNトップ3位）
+- 内容: 人気の有料スクリーンレコーダーScreen StudioのOSS代替。GitHub公開で即HNトップ入り
+- 示唆: 商用SaaSに対するOSS代替需要の根強さ。Fuyajoの「手頃で使いやすい代替」ポジションの有効性を裏付け
+
+**[197pts, 137comments] German implementation of eIDAS will require an Apple/Google account to function**
+- URL: https://bmi.usercontent.opencode.de/...
+- 重要度: MEDIUM（プライバシー・デジタルID規制）
+- 内容: ドイツのeIDAS（EU電子認証規制）実装がApple/Googleアカウントを必須とする設計に。HN技術者から強い批判
+- 示唆: デジタルIDの寡占問題への技術者の反発が高い。プラットフォーム依存リスクへの関心が継続
+
+---
+
+**17:30 総評**: OpenClaw禁止（1048pts/793コメント）は微増で超高水位を維持——ついに1048ptsに達し過去最高水位更新。GPUゲーム（689pts）が今日最もスコア伸長しているコンテンツでHNトップ1位を継続。MS Copilot乱立批判（607pts）も600pts超えで明確なブランド戦略の価値を再確認させる。LLM Wiki(Karpathy)が150→170ptsに上昇——Karpathyのアイデアファイルへの注目が継続。全体として昼〜夕方帯でもAI関連シグナルの関心が衰えず、特にClaude/Anthropicエコシステムへの注目度が際立つセッションとなった。
