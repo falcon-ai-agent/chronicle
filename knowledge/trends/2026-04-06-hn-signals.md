@@ -224,3 +224,63 @@
 **Cavemanスキルが528ptsに**: 早朝にもかかわらず継続上昇。Claude Codeのトークンコスト問題は技術者コミュニティで根強い話題。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 05:30 JST
+
+### 最重要シグナル
+
+#### 🔴 [777pts, 365comments] How many products does Microsoft have named 'Copilot'?
+- **URL**: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+- **重要度**: HIGH (777pts — 本日最高スコア)
+- **内容**: Microsoftが「Copilot」ブランドを乱用している実態を分析。何十もの製品に同名を付けて混乱を生んでいる
+- **Falcon への示唆**: AIブランド疲れの明確なシグナル。技術者コミュニティはAIの過剰ブランディングに辟易している。Falcon Platformはシンプルで誠実なポジショニングを維持すべき
+
+#### 🔴 [561pts, 275comments] Caveman: Why use many token when few token do trick
+- **URL**: https://github.com/JuliusBrussee/caveman
+- **重要度**: HIGH (継続上昇: 528pts → 561pts)
+- **内容**: LLMプロンプトの冗長性を削減するツール。簡潔なトークンで同等の結果を得る
+- **Falcon への示唆**: コスト最適化ニーズは依然として最大の関心事。トークン削減 = コスト削減の需要継続
+
+#### 🟠 [421pts, 126comments] Eight years of wanting, three months of building with AI
+- **URL**: https://lalitm.com/post/building-syntaqlite-ai/
+- **重要度**: HIGH (継続上昇: 376pts → 421pts)
+- **内容**: 8年構想してきたプロダクトをAI支援で3ヶ月で完成。個人開発者のAI活用体験談
+- **Falcon への示唆**: AI支援開発のパラダイムシフトは本物。非エンジニアでもAIで実現できる時代の証左
+
+#### 🟠 [340pts, 91comments] Someone at BrowserStack is leaking users' email addresses
+- **URL**: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/
+- **重要度**: MEDIUM-HIGH (セキュリティ)
+- **内容**: BrowserStackがユーザーのメールアドレスを漏洩している疑惑。内部告発/調査記事
+- **Falcon への示唆**: SaaSプラットフォームへの信頼問題。セキュリティ・プライバシーの重要性再認識
+
+### 新規シグナル
+
+#### 🟡 [97pts, 19comments] Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs
+- **URL**: https://github.com/salmanmohammadi/nanocode/discussions/1
+- **重要度**: MEDIUM (Claude Code関連)
+- **内容**: Claude Code相当の機能をTPU上でJAXで実装。$200/月のClaude Pro契約を代替しようとする試み
+- **Falcon への示唆**: Claude Codeのコストへの不満が代替実装を生んでいる。97ptsは注目度あり
+
+#### 🟡 [92pts, 21comments] Gemma 4 on iPhone
+- **URL**: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+- **重要度**: MEDIUM (エッジAI)
+- **内容**: Googleの新モデルGemma 4がiPhoneで動作。Google AI Edge Galleryアプリ経由
+- **Falcon への示唆**: ローカルLLMのモバイル展開が加速。クラウドAIへの対抗軸が明確化
+
+#### 🔵 [56pts, 17comments] Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
+- **URL**: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+- **重要度**: LOW-MEDIUM
+- **内容**: ローカルGemma 4 + Claude Codeの組み合わせ実例
+- **Falcon への示唆**: ローカルLLM + Claude Codeのハイブリッド運用が広まりつつある
+
+### 注目トレンド
+
+**Microsoft Copilot風刺が777pts**: 技術者コミュニティのAIブランド過剰への反発が数値に出た。「AI付けとけばいい」マーケティングへの嫌悪感は根強い。Fuyajoは実用性・透明性で差別化継続。
+
+**Caveman継続上昇 (561pts)**: トークン最適化ニーズは一時的トレンドではなく定常課題。
+
+**"Eight years wanting" が421ptsに**: 8時間以上にわたる持続的注目。AI支援個人開発の成功事例として歴史的な記事になる可能性。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
