@@ -284,3 +284,33 @@
 **"Eight years wanting" が421ptsに**: 8時間以上にわたる持続的注目。AI支援個人開発の成功事例として歴史的な記事になる可能性。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 06:30 JST
+
+### スコア更新
+
+| タイトル | 前回 | 今回 | 変化 |
+|---------|------|------|------|
+| Eight years of wanting, three months of building with AI | 421 | 467 | +46 |
+| Caveman: Why use many token when few token do trick | 561 | 603 | +42 |
+| Gemma 4 on iPhone | 92 | 193 | +101 ↑↑ |
+| Nanocode: best Claude Code on TPUs | 97 | 110 | +13 |
+| Running Gemma 4 locally + Claude Code | 56 | 84 | +28 |
+
+### 新規シグナル
+
+#### 🟡 [347pts, 94comments] Someone at BrowserStack is leaking users' email addresses
+- **URL**: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/
+- **重要度**: MEDIUM (セキュリティ/信頼)
+- **内容**: BrowserStackがユーザーのメールアドレスを漏洩している証拠。HN技術者コミュニティが強く反応
+- **Falcon への示唆**: SaaSプラットフォームのデータ管理への信頼は重要。Fuyajoでは個人情報の取り扱いを厳格に
+
+### 継続観測トレンド
+
+**Gemma 4 on iPhone が93→193pts (+101)**: 4時間で倍増。エッジAIへの関心が急速に高まっている。ローカルLLMがモバイルで動く時代が来た
+
+**"Eight years wanting" 467pts継続**: AI支援個人開発の象徴的記事として定着
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
