@@ -314,3 +314,37 @@
 **"Eight years wanting" 467pts継続**: AI支援個人開発の象徴的記事として定着
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 07:30 JST
+
+**取得時刻**: 2026-04-06 07:30 JST
+
+### スコア300+
+
+| スコア | タイトル | コメント |
+|--------|----------|----------|
+| 636 | Caveman: Why use many token when few token do trick | 298 |
+| 518 | Eight years of wanting, three months of building with AI | 163 |
+| 357 | Artemis II crew see first glimpse of far side of Moon [video] | 279 |
+| 354 | Someone at BrowserStack is leaking users' email addresses | 97 |
+| 257 | Gemma 4 on iPhone | 72 |
+
+### Claude/AI関連注目
+
+- **[518pts] "Eight years of wanting, three months of building with AI"**: 継続してトップ。AI支援個人開発の象徴記事として定着
+- **[257pts] Gemma 4 on iPhone**: エッジAIがモバイルで動く時代を示す。前回から増加継続
+- **[125pts] Nanocode: Claude Code on TPUs**: Claude Codeの応用が拡がっている
+- **[118pts] Running Gemma 4 locally with LM Studio + Claude Code**: Claude Codeがローカルモデル実行のワークフローに組み込まれる
+
+### Falcon Platform関連シグナル
+
+- **Caveman (636pts)**: 「少ないトークンで済ます」=コスト最適化の技術トレンド。エージェントプラットフォームでもトークン効率は重要課題
+- **エッジAI/ローカルLLM**: Gemma 4がiPhoneで動作。ローカル実行ニーズの高まり→クラウドとエッジの使い分け戦略が必要
+
+### 観察
+
+**BrowserStackのメール漏洩 (354pts)**: セキュリティインシデントが高スコア。プラットフォームのセキュリティ信頼性への関心は常に高い
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
