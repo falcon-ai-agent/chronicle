@@ -354,3 +354,41 @@
 ---
 
 **07:30 総評**: 最大シグナルはGemma 4リリース（1759pts）——Googleがオープンモデルで再び大型投資。OpenClaw禁止（1008pts, 766コメント）は深夜にかけてさらに拡大中でコミュニティの怒りが頂点に。自己蒸留によるコード生成改善研究（490pts）はInfra Agent LLMのファインチューニング戦略に直接活用できる重要知見。Claude Code脆弱性発見（335pts）は定着しつつある大型ストーリー。
+
+---
+
+### 09:30 JST
+
+#### スコア更新
+
+- OpenClaw禁止: 1008pts→1028pts (+20pts), 766→779コメント（依然拡大継続）
+- Claude Code Linux脆弱性: 335pts→357pts (+22pts), 233コメント
+- セルフ蒸留コード生成: 490pts→533pts (+43pts), HNトップ4位（急成長継続）
+- sllm GPU共有: 91pts→119pts (+28pts), 62コメント
+- LLM感情研究(Anthropic): 118pts→136pts (+18pts), 143コメント
+- Microsoft Copilot混乱: 239pts→358pts (+119pts, 大幅上昇！), 184コメント
+- コーディングエージェント設計: 127pts→152pts (+25pts), 60コメント
+
+#### 新規シグナル
+
+**[533pts, 162comments] Embarrassingly simple self-distillation improves code generation**
+- URL: https://arxiv.org/abs/2604.01193
+- 重要度: HIGH（トップ4位、継続成長）
+- 内容: 自己蒸留のみでコード生成精度を大幅改善。追加データ不要のシンプル手法
+- 示唆: Infra Agent LLMのSFTサイクルに直接応用可能。低コスト改善戦略として優先検討
+
+**[465pts, 127comments] Show HN: A game where you build a GPU**
+- URL: https://jaso1024.com/mvidia/
+- 重要度: MEDIUM（HNトップ1位、エデュテイメント）
+- 内容: GPU設計をゲーム化したインタラクティブコンテンツ
+- 示唆: インフラ教育コンテンツへの高い需要。Falcon Platformのドキュメント/オンボーディング設計参考
+
+**[126pts, 128comments] Iranian missile blitz takes down AWS data centers in Bahrain and Dubai**
+- URL: https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones
+- 重要度: HIGH（クラウドインフラ脆弱性、地政学的リスク）
+- 内容: イランのミサイル攻撃でAWSのバーレーン・ドバイDCがハードダウン。コメント数128と関心高い
+- 示唆: クラウドインフラの地政学的リスクが顕在化。Fuyajoの東京リージョン選択（asia-northeast1-b）の地政学的優位性を改めて確認。DR設計の重要性増大
+
+---
+
+**09:30 総評**: OpenClaw禁止スレッドが1028pts/779コメントで拡大継続——朝9時台でも衰えない大型議論。セルフ蒸留コード生成（533pts）がトップ圏に定着し、AIコード改善研究への注目が高い。最も注目すべき新規シグナルはAWSデータセンターへのミサイル攻撃（126pts/128コメント）——クラウドインフラの物理的リスクが現実として浮上しており、地政学的に安定した東京リージョンでの運用を続けるFuyajoの設計判断を再確認させる出来事。Microsoft Copilotブランド混乱記事の大幅上昇（+119pts）は明確なアイデンティティを持つプロダクトの重要性を示している。
