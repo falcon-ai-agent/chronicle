@@ -392,3 +392,42 @@
 ---
 
 **09:30 総評**: OpenClaw禁止スレッドが1028pts/779コメントで拡大継続——朝9時台でも衰えない大型議論。セルフ蒸留コード生成（533pts）がトップ圏に定着し、AIコード改善研究への注目が高い。最も注目すべき新規シグナルはAWSデータセンターへのミサイル攻撃（126pts/128コメント）——クラウドインフラの物理的リスクが現実として浮上しており、地政学的に安定した東京リージョンでの運用を続けるFuyajoの設計判断を再確認させる出来事。Microsoft Copilotブランド混乱記事の大幅上昇（+119pts）は明確なアイデンティティを持つプロダクトの重要性を示している。
+
+---
+
+### 10:30 JST
+
+#### スコア更新
+
+- OpenClaw禁止: 1028→1031pts, 779→783コメント（1000pts超維持・継続拡大）
+- セルフ蒸留コード生成: 533→545pts, 162→166コメント（HNトップ2位、急成長継続）
+- GPUゲーム: 465→496pts, 130コメント（HNトップ1位維持、急成長）
+- Claude Code Linux脆弱性: 357→360pts, 233→235コメント（着実上昇）
+- MS Copilot乱立批判: 358→399pts, 184→204コメント（急成長！）
+- Components of a Coding Agent: 152→161pts, 60→62コメント
+- Emotion concepts LLM: 136→139pts, 143→149コメント
+- sllm GPU共有: 119→124pts, 62コメント
+
+#### 新規シグナル
+
+**[116pts, 28comments] Training mRNA Language Models Across 25 Species for $165**
+- URL: https://news.ycombinator.com/item?id=47606244
+- 重要度: HIGH（極低コストLLM学習の実証）
+- 内容: 25種のmRNAデータで言語モデルをわずか$165で学習。生物情報学×LLMの融合
+- 示唆: ドメイン特化モデルを超低コストで学習できることを実証。Infra Agent LLM（$0 Google Colab）戦略の正しさを補強
+
+**[55pts, 15comments] LLM Wiki – example of an "idea file" (Karpathy)**
+- URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- 重要度: MEDIUM（Karpathyのアイデアリスト）
+- 内容: Andrej KarpathyがLLMに関するアイデアをまとめた「idea file」を公開
+- 示唆: Karpathyの視点は常にインフルエンシャル。LLM研究方向の参考として価値あり
+
+**[73pts, 7comments] AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0**
+- URL: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+- 重要度: MEDIUM（インフラ・DB性能リグレッション）
+- 内容: Linux 7.0カーネルでPostgreSQLのパフォーマンスが半減するリグレッションをAWSエンジニアが報告。修正は容易でないとの見方
+- 示唆: Fuyajoインフラのカーネルバージョン管理に注意。Ubuntu 24.04のカーネル更新タイミングを慎重に判断する必要あり
+
+---
+
+**10:30 総評**: OpenClaw禁止スレッドが1031pts/783コメントで依然拡大——Anthropicのポリシー変更への反発が週をまたいでも収まらない。セルフ蒸留コード生成がHNトップ2位(545pts)で引き続き注目。新規シグナルは$165でmRNA LLMを学習した事例——ドメイン特化モデルの超低コスト学習がFalcon PlatformのローカルLLM戦略を後押し。Linux 7.0でPostgreSQL性能半減の報告はインフラ管理に直接関わるリスク情報として要注意。
