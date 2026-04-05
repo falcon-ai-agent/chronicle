@@ -500,3 +500,33 @@
 ---
 
 **13:30 総評**: OpenClaw禁止（1042pts）は引き続きHN最大シグナルとして安定維持。GPUゲーム（572pts）とMS Copilot乱立批判（486pts）が大幅スコア上昇。新規で注目はImbueの100+Claude並列エージェントテスト事例——Falcon Platformのスケーラビリティ設計に参考になる実践知見。全体的にAIコーディングツール・エージェント並列実行への関心が昼帯でも継続高い。
+
+---
+
+## HN Signals 14:30 JST
+
+| # | タイトル | スコア | コメント | 重要度 |
+|---|---------|--------|----------|--------|
+| 1 | Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw | 1045 | 787 | **High** |
+| 2 | How many products does Microsoft have named 'Copilot'? | 506 | 250 | High |
+| 3 | Show HN: A game where you build a GPU | 595 | 144 | Medium |
+| 4 | Components of a Coding Agent | 201 | 67 | High |
+| 5 | Emotion concepts and their function in a large language model | 164 | 166 | High |
+| 6 | Show HN: sllm – Split a GPU node with other developers, unlimited tokens | 138 | 70 | High |
+| 7 | LLM Wiki – example of an "idea file" | 120 | 30 | Medium |
+
+### 注目シグナル
+
+**[1045pts/787comments] Anthropic OpenClaw禁止** - 引き続きHN最大シグナル。787コメントまで拡大。エコシステム制限への反発継続中。
+
+**[201pts] Components of a Coding Agent** - Sebastian RaschkaによるCodingエージェントの構成要素解説。技術者向けに「ツール呼び出し、計画、エラー回復」を体系化。Falcon PlatformのAIエージェント実行環境設計に直接参考になる。
+
+**[164pts/166comments] Anthropic研究: LLM内の感情概念** - Anthropic自身がClaudeの「感情的表現」を研究。技術者コミュニティで議論活発。
+
+**[138pts] sllm – GPU分割共有** - 複数開発者でGPUノードを共有、トークン無制限。Fuyajoのインフラ共有モデルと類似するアプローチ——VMではなくGPUの共有という差別化。競合/参考として注目。
+
+**[120pts] LLM Wiki (Karpathy idea file)** - Karpathyのアイデアファイルとして広く注目。LLM技術の整理手法として参考。
+
+---
+
+**14:30 総評**: OpenClaw禁止（1045pts/787コメント）がさらに拡大し今日最大のシグナル。新規注目は「Components of a Coding Agent」（201pts）——エージェント設計の体系化コンテンツが技術者に刺さっている。sllm（138pts）のGPU分割共有モデルは、Fuyajoの「VM分割共有」と概念的に近く、参考になる競合事例。
