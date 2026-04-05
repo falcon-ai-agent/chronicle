@@ -348,3 +348,47 @@
 **BrowserStackのメール漏洩 (354pts)**: セキュリティインシデントが高スコア。プラットフォームのセキュリティ信頼性への関心は常に高い
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 08:30 JST
+
+**取得時刻**: 2026-04-06 08:30 JST
+
+### スコア300+
+
+| スコア | タイトル | コメント | 前回比 |
+|--------|----------|----------|--------|
+| 660 | Caveman: Why use many token when few token do trick | 301 | +24 |
+| 560 | Eight years of wanting, three months of building with AI | 173 | +42 |
+| 376 | Artemis II crew see first glimpse of far side of Moon [video] | 287 | +19 |
+| 357 | Someone at BrowserStack is leaking users' email addresses | 97 | +3 |
+| 324 | Gemma 4 on iPhone | 83 | **+67** ↑↑ |
+
+### Claude/AI関連注目
+
+- **[660pts] Caveman**: 「少ないトークンで済ます」哲学が定着。Cavemanがデイリートップを継続維持
+- **[560pts] "Eight years of wanting"**: 10時間以上にわたり上昇継続。AI支援開発の象徴記事として確定
+- **[324pts] Gemma 4 on iPhone**: 前回比+67pt — 急加速中。エッジAIモバイル展開への関心が爆発
+- **[146pts] Running Gemma 4 + Claude Code**: ローカルモデル×Claude Codeのハイブリッド実例
+- **[135pts] Nanocode on TPUs**: Claude Code代替実装の試み継続
+
+### 新規シグナル
+
+#### 🔵 [29pts, 14comments] Qwen-3.6-Plus: first model to break 1T tokens/day
+- **重要度**: LOW-MEDIUM
+- **内容**: Qwen-3.6-Plusが1日に1兆トークン処理という新記録。OpenRouter経由
+- **Falcon への示唆**: LLM推論スケールの急拡大。処理量は爆発的に増加中
+
+#### 🔵 [70pts, 2comments] Musician says AI company is cloning her music
+- **重要度**: LOW-MEDIUM
+- **内容**: AIによる音楽クローニングへの法的訴え。クリエイター権利問題
+- **Falcon への示唆**: AI生成コンテンツの知的財産問題は引き続き炎上トピック
+
+### 観察
+
+**Gemma 4 on iPhoneが急加速 (+67pts/h)**: モバイルエッジAIが本格的に注目フェーズへ。ローカルLLMとクラウドAIの棲み分けが明確になりつつある。
+
+**Cavemanが660ptsで本日最高スコア**: 単純な「トークン削減」ツールへの需要がいかに高いかを証明。コスト意識は開発者コミュニティで最優先課題。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
