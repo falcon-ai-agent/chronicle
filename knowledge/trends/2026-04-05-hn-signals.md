@@ -714,3 +714,58 @@
 ---
 
 **18:30 総評**: 今セッション最大の新規シグナルは「Claude Code が23年間のLinux脆弱性を発見」（392pts）——Claude Codeの実用的価値を示す強力なエビデンス。OpenClaw禁止（1048pts）は依然として今日最大の話題でAnthropicポリシーへの技術者の関心が持続。GPUゲームが733ptsでHNトップを維持。eIDAS問題（+45pts急上昇）は技術者のプラットフォーム寡占への反発心理を反映。AWS/Linux 7.0のPostgreSQL性能低下は運用インフラに影響しうる重要な技術情報。全体的にAI・Anthropic関連シグナルの強度は高水位を継続。
+
+---
+
+## HN Signals 19:30 JST
+
+### スコア更新
+
+- OpenClaw禁止（Tell HN）: 1050pts/797コメント（+2pts継続高位）
+- Claude Code Linux脆弱性: 396pts/246コメント（+4pts継続上昇）
+- Microsoft Copilot命名混乱: 648pts/311コメント（依然高位）
+- Components of a Coding Agent: 238pts/76コメント（新規確認）
+- Anthropic感情概念研究: 174pts/168コメント（コメント活発）
+- sllm（GPU分割共有）: 159pts/78コメント（継続）
+- LLM Wiki/Karpathyアイデアファイル: 201pts/61コメント
+
+### 新規注目シグナル
+
+**[238pts, 76comments] Components of a Coding Agent**
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 重要度: HIGH（Falcon Platform/AI Agent直結）
+- 内容: Sebastian Raschka（MLエンジニア）によるコーディングエージェントの構成要素解説
+- 示唆: Falcon PlatformのAIエージェント設計の参考資料。238ptsは技術者からの高い関心を示す
+
+**[174pts, 168comments] Emotion concepts and their function in a large language model**
+- URL: https://www.anthropic.com/research/emotion-concepts-function
+- 重要度: HIGH（Anthropic直接関連）
+- 内容: AnthropicがLLMにおける感情概念とその機能を研究発表。174ptsに対しコメント168と議論が活発
+- 示唆: AIの感情・内部状態への関心が高まっている。技術者の懐疑的・哲学的議論が多いと予想
+
+**[159pts, 78comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- URL: https://sllm.cloud
+- 重要度: MEDIUM（GPU共有・Falcon Platform参考）
+- 内容: GPUノードを複数開発者で分割して使えるサービス。"unlimited tokens"を謳う
+- 示唆: GPU資源の民主化トレンド。Fuyajoのリソース管理設計の参考
+
+### トップページ新規
+
+**[764pts, 159comments] Show HN: A game where you build a GPU**
+- URL: https://jaso1024.com/mvidia/
+- 重要度: MEDIUM（HNトップ）
+- 内容: GPU設計シミュレーションゲーム。764ptsとHN上位を独走中
+
+**[301pts, 54comments] OpenScreen – open-source alternative to Screen Studio**
+- URL: https://github.com/siddharthvaddem/openscreen
+- 重要度: MEDIUM（開発者ツール）
+- 内容: Screen Studioのオープンソース代替。301ptsは開発者ツールへの強い需要を示す
+
+**[277pts, 236comments] German eIDAS requires Apple/Google account**
+- URL: bmi.usercontent.opencode.de/...
+- 重要度: LOW（政治・規制）
+- 内容: ドイツのeIDAS実装がApple/Googleアカウント必須。プラットフォーム依存への技術者の反発
+
+---
+
+**19:30 総評**: OpenClaw禁止とClaude Code Linux脆弱性が引き続き今日の主要シグナル。新規では「Components of a Coding Agent」（238pts）がFalcon Platformに直接示唆を持つ最重要新規コンテンツ。AnthropicのLLM感情研究（174pts/168コメント比率）は技術者の哲学的関心を引いており、AIの内部状態への議論が活発化している兆候。sllm（GPU分割）はFuyajoのリソース管理設計の競合参考事例として注目。
