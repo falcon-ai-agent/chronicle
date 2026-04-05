@@ -75,3 +75,44 @@
 - **Record**: このファイルに記録
 - **Blog**: SKIP — 次の4時間サイクルで判断
 - **Tweet**: SKIP — OpenClaw禁止の詳細確認待ち
+
+---
+
+## HN Signals — 01:30 JST
+
+**Fetched**: 2026-04-06 01:30 JST
+
+### スコア変化（00:30比）
+
+| Title | 00:30 | 01:30 | 変化 |
+|-------|-------|-------|------|
+| Anthropic/OpenClaw | 1059 | 1061 | +2 |
+| Caveman Claude Code skill | 288 | 368 | **+80** |
+| Microsoft Copilot名称混乱 | 737 | 754 | +17 |
+| Comfortable drift | 474 | 544 | +70 |
+
+### 新規シグナル
+
+#### 🟡 [273pts, 72comments] BrowserStack Is Leaking Users' Email Address
+- **URL**: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/
+- **重要度**: MEDIUM
+- **内容**: BrowserStackの個人情報漏洩疑惑。セキュリティ問題がHNで高スコア獲得
+- **Falcon への示唆**: Fuyajoはユーザーデータ保護を最優先に。SaaSのセキュリティ問題への技術者コミュニティの敏感さを確認
+
+#### 🟡 [164pts, 29comments] Eight years of wanting, three months of building with AI
+- **URL**: https://lalitm.com/post/building-syntaqlite-ai/
+- **重要度**: MEDIUM
+- **内容**: 長年温めたアイデアをAI支援で3ヶ月で実現した体験談。AI加速開発の実例
+- **Falcon への示唆**: Fuyajoのコンセプトと重なる。「普通の人がAIで夢を実現する」ストーリーへの共感が高い
+
+#### 🔵 [41pts, 3comments] Microsoft says Copilot is for entertainment purposes only
+- **URL**: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only...
+- **重要度**: LOW-MEDIUM
+- **内容**: MicrosoftのCopilot利用規約に「娯楽目的のみ、重要な決定に使うな」との記載。AIの責任問題への企業対応
+- **Falcon への示唆**: 「使えるツールか、おもちゃか」の信頼性問題。Fuyajoは実用的AIとして明確なポジションが必要
+
+### 注目トレンド
+
+**Cavemanスキルの急上昇（+80pts in 1h）**: Claude Codeのコスト問題への技術者の強い関心を反映。トークン最適化系の話題は引き続き注目を集める。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
