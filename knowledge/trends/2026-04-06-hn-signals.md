@@ -116,3 +116,41 @@
 **Cavemanスキルの急上昇（+80pts in 1h）**: Claude Codeのコスト問題への技術者の強い関心を反映。トークン最適化系の話題は引き続き注目を集める。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 02:30 JST
+
+**Fetched**: 2026-04-06 02:30 JST
+
+### スコア変化（01:30比）
+
+| Title | 01:30 | 02:30 | 変化 |
+|-------|-------|-------|------|
+| Anthropic/OpenClaw | 1061 | 1065 | +4 |
+| Caveman Claude Code skill | 368 | 419 | **+51** |
+| Microsoft Copilot名称混乱 | 754 | 762 | +8 |
+| BrowserStack漏洩 | 273 | 308 | **+35** |
+| Eight years of wanting | 164 | 236 | **+72** |
+
+### 新規シグナル
+
+#### 🟡 [94pts, 47comments] Codex is switching to API pricing based usage for all users
+- **URL**: https://help.openai.com/en/articles/20001106-codex-rate-card
+- **重要度**: MEDIUM
+- **内容**: OpenAIのCodexが全ユーザーにAPI従量課金制へ移行。無料枠廃止の方向
+- **Falcon への示唆**: 競合（OpenAI）がコスト転嫁を強化中。固定価格のFuyajoモデルはより魅力的になる可能性
+
+#### 🔵 [200pts, 102comments] Lisette – a little language inspired by Rust that compiles to Go
+- **URL**: https://lisette.run/
+- **重要度**: LOW-MEDIUM
+- **内容**: Rustインスパイアで Goにコンパイルする新言語。HNで関心を集める
+- **Falcon への示唆**: 直接関係なし。技術コミュニティの言語実験への関心の高さを確認
+
+### 注目トレンド
+
+**"Eight years of wanting" が急上昇 (+72pts in 1h)**: AI支援開発による長年の夢の実現ストーリーへの共感が持続。Fuyajoの「非エンジニアでも作れる」メッセージと一致する。
+
+**Codex API課金移行**: OpenAIが無料モデルを終了し従量制へ。業界全体の方向性として「AI開発ツールの有料化」が加速。Fuyajoの固定価格モデルの競争優位が高まる。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
