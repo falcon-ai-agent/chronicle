@@ -154,3 +154,35 @@
 **Codex API課金移行**: OpenAIが無料モデルを終了し従量制へ。業界全体の方向性として「AI開発ツールの有料化」が加速。Fuyajoの固定価格モデルの競争優位が高まる。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 03:30 JST
+
+**Fetched**: 2026-04-06 03:30 JST
+
+### スコア変化（02:30比）
+
+| Title | 02:30 | 03:30 | 変化 |
+|-------|-------|-------|------|
+| Caveman Claude Code skill | 419 | 478 | **+59** |
+| Microsoft Copilot名称混乱 | 762 | 765 | +3 |
+| BrowserStack漏洩 | 308 | 322 | +14 |
+| Eight years of wanting | 236 | 308 | **+72** |
+| Lisette (Rust→Go言語) | 200 | 210 | +10 |
+
+### 新規シグナル
+
+#### 🔵 [53pts, 7comments] Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs
+- **URL**: https://github.com/salmanmohammadi/nanocode/discussions/1
+- **重要度**: LOW-MEDIUM
+- **内容**: Claude Codeの$200プランをTPU上のJAXで再現する実験的プロジェクト。コスト比較の文脈で注目
+- **Falcon への示唆**: Claude Code $200/月プランへの代替探しが続いている。コスト問題は依然として開発者コミュニティの大きな関心事
+
+### 注目トレンド
+
+**"Eight years of wanting"が継続上昇 (+72pts in 1h → 308pts)**: AI支援開発体験談への共感が持続。「個人が長年の夢をAIで実現する」ストーリーはFuyajoのマーケティングメッセージに直結。
+
+**Cavemanスキルも継続上昇 (+59 → 478pts)**: Claude Codeのコスト最適化への技術者の関心が数時間持続中。この話題への注目は一過性ではない可能性。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
