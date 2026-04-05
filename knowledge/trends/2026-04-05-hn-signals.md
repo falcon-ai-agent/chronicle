@@ -820,3 +820,48 @@
 ---
 
 **20:30 総評**: 「Components of a Coding Agent」がスコアを245まで伸ばし、今日の技術系コンテンツとして確固たる地位を占めた。Raschkaの分析はFalcon PlatformのAgent設計に直接参考になる必読コンテンツ。OpenClaw禁止（1050pts）は依然として今日最大のシグナルで衰え知らず。Claude Codeの脆弱性発見（396pts）と合わせて「Claude Codeの実力と制約」を同時に示す対比的な構図が面白い。sllmのGPU分割モデルはFuyajoのリソース分割設計の競合参考として要注目。
+
+---
+
+**21:30 Update**
+
+### AI関連
+
+**[1050pts, 798comments] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw** ← 最重要継続
+- コメント数が798まで増加。引き続き今日最大のシグナル
+
+**[686pts, 326comments] How many products does Microsoft have named 'Copilot'?**
+- スコア継続上昇（668→686）
+
+**[255pts, 79comments] Components of a Coding Agent**
+- URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- 245→255に上昇継続
+
+**[226pts, 69comments] LLM Wiki – example of an "idea file" (Karpathy)**
+- 213→226に上昇
+
+**[177pts, 171comments] Emotion concepts and their function in a large language model**
+- Anthropic研究。コメント数がほぼスコアと同数（高エンゲージメント）
+
+**[165pts, 80comments] Show HN: sllm – Split a GPU node with other developers, unlimited tokens**
+- GPU共有インフラ。Fuyajoの競合参考
+
+**[139pts, 32comments] Training mRNA Language Models Across 25 Species for $165** ← NEW
+- URL: https://news.ycombinator.com/item?id=47606244
+- 重要度: MEDIUM（LLM応用・低コスト学習）
+- 生物系LLMの低コスト訓練事例。「$165」という数字がインパクト大
+
+### トップページ（AI外）
+
+**[357pts, 319comments] German implementation of eIDAS will require an Apple/Google account to function** ← NEW
+- URL: https://bmi.usercontent.opencode.de/eudi-wallet/...
+- 重要度: MEDIUM（デジタルID規制）
+- EUデジタルIDウォレットがApple/Googleに依存する設計への批判。プラットフォーム依存問題
+
+**[338pts, 57comments] OpenScreen – open-source alternative to Screen Studio** ← NEW
+- URL: https://github.com/siddharthvaddem/openscreen
+- 重要度: LOW（OSSツール）
+
+---
+
+**21:30 総評**: OpenClaw禁止（1050pts/798comments）は衰えを知らず。Anthropicの「サブスクリプション悪用」への規制が技術者コミュニティで引き続き大きな注目を集めている。mRNA LLMの$165訓練事例は「AIの民主化」文脈で興味深い。German eIDAS事例はプラットフォーム独占問題の典型例として記録価値あり。
