@@ -825,3 +825,34 @@
 **Modo (open-source Cursor代替, 43pts)**: 開発者ツール空間は依然活発。OSSがIDE競合に挑むトレンドが継続。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals 18:30 JST
+
+### 主要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Eight years of wanting, three months of building with AI | 774 | 233 | **HIGH** |
+| Gemma 4 on iPhone | 629 | 168 | **HIGH** |
+| Show HN: I built a tiny LLM to demystify how language models work | 443 | 41 | **HIGH** |
+| Microsoft hasn't had a coherent GUI strategy since Petzold | 438 | 265 | MEDIUM |
+| Running Gemma 4 locally with LM Studio + Claude Code | 275 | 66 | **HIGH** |
+| Nanocode: The best Claude Code $200 can buy on TPUs | 186 | 25 | **HIGH** |
+| OpenAI's fall from grace as investors race to Anthropic | 160 | 104 | **HIGH** |
+| Show HN: Modo – open-source alt to Kiro, Cursor, Windsurf | 46 | 10 | MEDIUM |
+| Show HN: Real-time AI audio/video on M3 Pro with Gemma E2B | 84 | 5 | MEDIUM |
+| Show HN: Mdarena – Benchmark your Claude.md against your PRs | 18 | 3 | LOW |
+
+### 注目分析
+
+**"Eight years of wanting" 774pts (↑7)**: 継続してトップ。27時間以上支持が続く異例の耐久力。
+
+**"Gemma 4 on iPhone" 629pts**: モバイルオンデバイスLLMが高評価。クラウド依存からの脱却トレンド継続中。"Gemma Gem (browser embedded, no API keys)" も登場 — プライバシー/オフライン志向が強まっている。
+
+**Claude Code強セクション**: Gemma 4 + Claude Codeの組み合わせ (275pts) と Nanocode (186pts) が依然上位。Claude Codeブランドが「$200/月の標準ツール」として認知定着。
+
+**"Mdarena – Benchmark your Claude.md against your PRs"**: Claude.mdの品質をPRで検証するOSSツール。Claude Code利用者が急増し周辺エコシステムが生まれつつある。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
