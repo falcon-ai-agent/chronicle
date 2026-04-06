@@ -558,3 +558,63 @@
 **Copilot "entertainment only"**: MicrosoftがAI責任を回避する姿勢。業界全体のAI免責の動きとしてウォッチ継続
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 13:30 JST
+
+**取得時刻**: 2026-04-06 13:30 JST
+
+### スコア300+
+
+| スコア | タイトル | コメント | 11:30比 |
+|--------|----------|----------|---------|
+| 694 | Eight years of wanting, three months of building with AI | 216 | **+62** ↑↑ |
+| 495 | Gemma 4 on iPhone | 130 | **+57** ↑↑ |
+| 446 | Artemis II crew see first glimpse of far side of Moon | 341 | — |
+| 288 | Microsoft hasn't had a coherent GUI strategy since Petzold | 158 | NEW |
+
+### Claude/AI関連注目
+
+- **[694pts] "Eight years of wanting, three months of building with AI"**: 11:30から+62。本日の最高スコアを更新し続けている。AI支援個人開発の象徴記事として完全定着
+- **[495pts] Gemma 4 on iPhone**: 11:30から+57。エッジAIがモバイルで本格始動。上昇加速中
+- **[220pts] Running Gemma 4 locally with LM Studio headless CLI + Claude Code**: Claude CodeがローカルLLM実行ワークフローに組み込まれる実例として定着
+- **[176pts] Nanocode: Claude Code on TPUs**: 継続注目。Claude Code代替実装の試みが続く
+- **[128pts] OpenAI's fall from grace as investors race to Anthropic**: 11:30(78pts)から+50。Anthropicへの投資家移動が注目を集め続けている
+
+### 新規シグナル
+
+#### 🟡 [288pts, 158comments] Microsoft hasn't had a coherent GUI strategy since Petzold
+- **URL**: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+- **重要度**: MEDIUM-HIGH
+- **内容**: Microsoftの一貫性のないUI戦略への批判。技術界のベテランによる分析
+- **Falcon への示唆**: UIの一貫性と明確なデザイン哲学が長期的な信頼につながる。Fuyajoのシンプルさを維持する根拠に
+
+#### 🟡 [173pts, 12comments] Show HN: I built a tiny LLM to demystify how language models work (GuppyLM)
+- **URL**: https://github.com/arman-bd/guppylm
+- **重要度**: MEDIUM
+- **内容**: LLMの仕組みを理解するための小型実装。教育目的のShow HN
+- **Falcon への示唆**: 「LLMの仕組みを学ぶ」コンテンツへの需要が高い。Infra Agent LLMプロジェクトの学習コンテンツとして参考に
+
+#### 🔵 [80pts, 16comments] Copilot is 'for entertainment purposes only', per Microsoft's terms of use
+- **重要度**: LOW-MEDIUM（前回から横ばい）
+- **内容**: MicrosoftがCopilotを「娯楽目的のみ」と明記。AIの法的責任回避の動き
+- **Falcon への示唆**: 「実用的AIツール」としてのFuyajoの差別化に好機
+
+#### 🔵 [25pts, 2comments] Show HN: Modo – open-source alternative to Kiro, Cursor, and Windsurf
+- **URL**: https://github.com/mohshomis/modo
+- **重要度**: LOW（スコアは低いが競合領域）
+- **内容**: Cursor/Windsurf代替のオープンソースAIコーディングアシスタント
+- **Falcon への示唆**: AI開発ツールのオープンソース化が加速。差別化要因の再検討が必要
+
+### 観察
+
+**"Eight years wanting" 694pts**: 本日のトップシグナルが14時間以上にわたって維持されている。これは単なるバイラルではなく、技術コミュニティに深く刺さるメッセージの証拠
+
+**Gemma 4 on iPhone 495pts (+57/2h)**: 上昇ペースが落ちず。エッジAIのモバイル展開が2026年の主要トレンドとして確定しつつある
+
+**Anthropic投資家移動 128pts (+50/2h)**: 急加速。LA Timesの記事がHNで遅れて注目されている。OpenAIの信頼低下とAnthropicへの期待が交差
+
+**Microsoft GUI批判 288pts (NEW)**: 大型企業のUIの混乱が技術者の共感を呼ぶ。「明確な設計思想を持つ製品」への需要を示す
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
