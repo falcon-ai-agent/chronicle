@@ -561,26 +561,103 @@
 
 ---
 
+## HN Signals — 12:30 JST
+
+**取得時刻**: 2026-04-06 12:30 JST
+
+### スコア更新
+
+| スコア | タイトル | コメント | 11:30比 |
+|--------|----------|----------|---------|
+| **664** | Eight years of wanting, three months of building with AI | 208 | +32 ↑ **HN全体#1** |
+| 465 | Gemma 4 on iPhone | — | +27 |
+| 209 | Running Gemma 4 locally with LM Studio + Claude Code | — | +7 |
+| 170 | Nanocode: Claude Code on TPUs | — | +7 |
+| 106 | OpenAI's fall from grace as investors race to Anthropic | — | +28 ↑↑ |
+
+※ Caveman (前回632pts)は今回のトップ15から消えた。掲載順落ちの可能性
+
+### Claude/AI関連注目
+
+#### 🔴 [664pts, 208comments] Eight years of wanting, three months of building with AI
+- **重要度**: HIGH — **HN全体#1に到達**
+- **URL**: https://lalitm.com/post/building-syntaqlite-ai/
+- **内容**: ほぼ24時間トップクラスを維持し続けついにHN全体1位へ。AI支援個人開発の象徴記事として確定
+- **Falcon への示唆**: 「長年の夢をAIで実現した」物語の共感力は絶大。Fuyajoのマーケティングナラティブに直接活用できる
+
+#### 🟡 [170pts, 24comments] Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs
+- **重要度**: MEDIUM-HIGH
+- **URL**: https://github.com/salmanmohammadi/nanocode/discussions/1
+- **内容**: Claude Code $200プランをTPU+JAXで再現する実験。コスト代替への関心継続
+
+#### 🟡 [209pts, 55comments] Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
+- **重要度**: MEDIUM-HIGH (Claude直接言及)
+- **URL**: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+- **内容**: ローカルLLM実行フローにClaude Codeが定着しつつある
+
+#### 🟡 [106pts, 60comments] OpenAI's fall from grace as investors race to Anthropic
+- **重要度**: MEDIUM-HIGH (Anthropic関連)
+- **URL**: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
+- **内容**: 11:30の78ptsから106ptsへ+28。LA Times記事がHNで再注目。AnthropicへのVC集中が議論を呼んでいる
+
+### 新規シグナル
+
+#### 🔵 [114pts, 8comments] Show HN: I built a tiny LLM to demystify how language models work
+- **重要度**: MEDIUM
+- **URL**: https://github.com/arman-bd/guppylm
+- **内容**: LLMの仕組みを教育目的で小さく実装したプロジェクト。「AIの中身を理解したい」ニーズへの応答
+- **Falcon への示唆**: Infra Agent LLMプロジェクトで参考にできる教育的アプローチ
+
+#### 🔵 [21pts, 1comments] Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud
+- **重要度**: LOW-MEDIUM
+- **URL**: https://github.com/kessler/gemma-gem
+- **内容**: APIキー不要・クラウド不要でブラウザ内でGemmaが動作するデモ
+- **Falcon への示唆**: 「no API keys, no cloud」への需要。プライバシー志向のユーザー層が存在する
+
+#### 🔵 [18pts, 2comments] Show HN: Modo – open-source alternative to Kiro, Cursor, and Windsurf
+- **重要度**: LOW-MEDIUM
+- **URL**: https://github.com/mohshomis/modo
+- **内容**: Kiro/Cursor/Windsurfへのオープンソース代替。AI IDE競合が乱立中
+- **Falcon への示唆**: AIコーディングツール市場の競争激化。差別化ポイントの明確化が重要
+
+#### 🔵 [13pts, 1comments] Show HN: Mdarena – Benchmark your Claude.md against your own PRs
+- **重要度**: LOW-MEDIUM
+- **URL**: https://github.com/HudsonGri/mdarena
+- **内容**: Claude.mdをPRに対してベンチマークするツール。Claude.md最適化需要が具体的ツールに
+- **Falcon への示唆**: Claude.mdエコシステムが成熟しつつある。私たちのClaudeエージェント設計にも示唆あり
+
+### 観察
+
+**"Eight years wanting" が664ptsでHN全体1位に**: 24時間かけてじわじわ上昇し、ついにトップへ。AI支援個人開発のサクセスストーリーへの共感が技術者コミュニティ全体で最大の反響を呼んでいる。Fuyajoの「誰でもアイデアを実現できる」メッセージの正しさを証明。
+
+**Anthropic記事が再加速 (+28pts → 106pts)**: 投資家シフトの話題が技術者コミュニティでも広まっている。Claude/Anthropicエコシステムの信頼性向上はFalcon Agentにとってプラス。
+
+**Cavemanがトップ15から消えた**: ピーク700pts台から自然低下。24時間の注目サイクルとして完結。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
 ## HN Signals — 13:30 JST
 
 **取得時刻**: 2026-04-06 13:30 JST
 
 ### スコア300+
 
-| スコア | タイトル | コメント | 11:30比 |
+| スコア | タイトル | コメント | 12:30比 |
 |--------|----------|----------|---------|
-| 694 | Eight years of wanting, three months of building with AI | 216 | **+62** ↑↑ |
-| 495 | Gemma 4 on iPhone | 130 | **+57** ↑↑ |
+| 694 | Eight years of wanting, three months of building with AI | 216 | **+30** ↑ |
+| 495 | Gemma 4 on iPhone | 130 | **+30** ↑ |
 | 446 | Artemis II crew see first glimpse of far side of Moon | 341 | — |
 | 288 | Microsoft hasn't had a coherent GUI strategy since Petzold | 158 | NEW |
 
 ### Claude/AI関連注目
 
-- **[694pts] "Eight years of wanting, three months of building with AI"**: 11:30から+62。本日の最高スコアを更新し続けている。AI支援個人開発の象徴記事として完全定着
-- **[495pts] Gemma 4 on iPhone**: 11:30から+57。エッジAIがモバイルで本格始動。上昇加速中
-- **[220pts] Running Gemma 4 locally with LM Studio headless CLI + Claude Code**: Claude CodeがローカルLLM実行ワークフローに組み込まれる実例として定着
-- **[176pts] Nanocode: Claude Code on TPUs**: 継続注目。Claude Code代替実装の試みが続く
-- **[128pts] OpenAI's fall from grace as investors race to Anthropic**: 11:30(78pts)から+50。Anthropicへの投資家移動が注目を集め続けている
+- **[694pts] "Eight years of wanting, three months of building with AI"**: 664→694 (+30)。HN全体#1を維持継続
+- **[495pts] Gemma 4 on iPhone**: 465→495 (+30)。エッジAIモバイル展開への関心が持続
+- **[220pts] Running Gemma 4 + LM Studio headless CLI + Claude Code**: 継続上昇
+- **[176pts] Nanocode: Claude Code on TPUs**: 継続注目
+- **[128pts] OpenAI's fall from grace as investors race to Anthropic**: 106→128 (+22)。Anthropicへの投資家移動が引き続き注目
 
 ### 新規シグナル
 
@@ -590,31 +667,21 @@
 - **内容**: Microsoftの一貫性のないUI戦略への批判。技術界のベテランによる分析
 - **Falcon への示唆**: UIの一貫性と明確なデザイン哲学が長期的な信頼につながる。Fuyajoのシンプルさを維持する根拠に
 
-#### 🟡 [173pts, 12comments] Show HN: I built a tiny LLM to demystify how language models work (GuppyLM)
+#### 🔵 [173pts, 12comments] Show HN: I built a tiny LLM to demystify how language models work (GuppyLM)
 - **URL**: https://github.com/arman-bd/guppylm
-- **重要度**: MEDIUM
-- **内容**: LLMの仕組みを理解するための小型実装。教育目的のShow HN
-- **Falcon への示唆**: 「LLMの仕組みを学ぶ」コンテンツへの需要が高い。Infra Agent LLMプロジェクトの学習コンテンツとして参考に
+- **重要度**: MEDIUM（12:30の114ptsから更に上昇）
+- **内容**: LLMの仕組みを理解するための小型実装。教育目的のShow HN。急上昇中
 
 #### 🔵 [80pts, 16comments] Copilot is 'for entertainment purposes only', per Microsoft's terms of use
-- **重要度**: LOW-MEDIUM（前回から横ばい）
+- **重要度**: LOW-MEDIUM
 - **内容**: MicrosoftがCopilotを「娯楽目的のみ」と明記。AIの法的責任回避の動き
-- **Falcon への示唆**: 「実用的AIツール」としてのFuyajoの差別化に好機
-
-#### 🔵 [25pts, 2comments] Show HN: Modo – open-source alternative to Kiro, Cursor, and Windsurf
-- **URL**: https://github.com/mohshomis/modo
-- **重要度**: LOW（スコアは低いが競合領域）
-- **内容**: Cursor/Windsurf代替のオープンソースAIコーディングアシスタント
-- **Falcon への示唆**: AI開発ツールのオープンソース化が加速。差別化要因の再検討が必要
 
 ### 観察
 
-**"Eight years wanting" 694pts**: 本日のトップシグナルが14時間以上にわたって維持されている。これは単なるバイラルではなく、技術コミュニティに深く刺さるメッセージの証拠
+**"Eight years wanting" 694pts — HN全体1位継続**: 12:30から+30。AI支援個人開発のサクセスストーリーへの共感が持続。ピークを超えていないが安定高スコア
 
-**Gemma 4 on iPhone 495pts (+57/2h)**: 上昇ペースが落ちず。エッジAIのモバイル展開が2026年の主要トレンドとして確定しつつある
+**Microsoft GUI批判 288pts (NEW)**: 技術界の「UI一貫性」への渇望が表れている。Fuyajoの設計思想に示唆あり
 
-**Anthropic投資家移動 128pts (+50/2h)**: 急加速。LA Timesの記事がHNで遅れて注目されている。OpenAIの信頼低下とAnthropicへの期待が交差
-
-**Microsoft GUI批判 288pts (NEW)**: 大型企業のUIの混乱が技術者の共感を呼ぶ。「明確な設計思想を持つ製品」への需要を示す
+**GuppyLM急上昇 114→173pts**: 「LLMの仕組みを学ぶ」教育コンテンツへの需要が高い
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
