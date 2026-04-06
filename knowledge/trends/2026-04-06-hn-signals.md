@@ -635,3 +635,71 @@
 **Cavemanがトップ15から消えた**: ピーク700pts台から自然低下。24時間の注目サイクルとして完結。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 14:30 JST
+
+**取得時刻**: 2026-04-06 14:30 JST
+
+### スコア更新
+
+| スコア | タイトル | コメント | 12:30比 |
+|--------|----------|----------|---------|
+| **713** | Eight years of wanting, three months of building with AI | 218 | +49 ↑ |
+| 524 | Gemma 4 on iPhone | — | +59 ↑ |
+| 229 | Running Gemma 4 locally with LM Studio + Claude Code | — | +20 |
+| 179 | Nanocode: Claude Code on TPUs | — | +9 |
+| 135 | OpenAI's fall from grace as investors race to Anthropic | 92 | +29 ↑ |
+
+### Claude/AI関連注目
+
+#### 🔴 [713pts, 218comments] Eight years of wanting, three months of building with AI
+- **重要度**: HIGH — **25時間以上持続、713ptsで更新継続**
+- **URL**: https://lalitm.com/post/building-syntaqlite-ai/
+- **内容**: HN全体トップをほぼ1日維持。AI支援個人開発の歴史的記事として定着
+- **Falcon への示唆**: この物語フォーマット（長年の構想×AI加速）はFuyajoのコアメッセージそのもの
+
+#### 🔴 [524pts] Gemma 4 on iPhone
+- **重要度**: HIGH (継続上昇)
+- **URL**: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+- **内容**: 12:30の465ptsから524ptsへ+59。エッジAIモバイル展開の関心が衰えない
+- **Falcon への示唆**: クラウドvsエッジのポジション明確化が急務
+
+#### 🟡 [229pts] Running Gemma 4 locally with LM Studio's headless CLI and Claude Code
+- **重要度**: MEDIUM-HIGH (Claude直接言及)
+- **URL**: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+- **内容**: ローカルLLM + Claude Codeの組み合わせ実例が継続上昇
+
+#### 🟡 [135pts, 92comments] OpenAI's fall from grace as investors race to Anthropic
+- **重要度**: MEDIUM-HIGH (Anthropic関連)
+- **URL**: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
+- **内容**: 12:30の106ptsから135ptsへ。92コメントと議論活発。AnthropicへのVC移動が技術者コミュニティでも話題
+
+### 新規シグナル
+
+#### 🟡 [316pts, 178comments] Microsoft hasn't had a coherent GUI strategy since Petzold
+- **重要度**: MEDIUM (業界批判)
+- **URL**: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+- **内容**: MicrosoftのGUI戦略の一貫性欠如を批判。178コメントと活発な議論
+- **Falcon への示唆**: 大企業のUX一貫性欠如への不満。Fuyajoはシンプルで一貫したUX設計が差別化ポイント
+
+#### 🔵 [9pts] Anthropic has a blacklist on the word "OpenClaw"
+- **重要度**: LOW-MEDIUM (Anthropic直接)
+- **内容**: AnthropicがClaudeの応答で "OpenClaw" という単語をブラックリスト化しているという証拠画像。朝のOpenClaw禁止騒動と連動
+- **Falcon への示唆**: Anthropicのプラットフォーム管理が可視化されている。利用規約・制限事項の把握継続が必要
+
+#### 🔵 [109pts, 21comments] Copilot is 'for entertainment purposes only'
+- **重要度**: MEDIUM
+- **URL**: https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
+- **内容**: TechCrunchがMicrosoftのCopilot利用規約問題を取り上げ。AI製品の責任回避が主流メディアで報道
+
+### 観察
+
+**"Eight years wanting"が713ptsで25時間維持**: 普通のHN記事は数時間でトップから消えるが、この記事は1日以上トップクラスを維持。AI支援開発の成功体験が技術者コミュニティの深い感情に触れている証拠。
+
+**Gemma 4 on iPhone (524pts)継続上昇**: 9時間以上上昇し続けている。エッジAIのモバイル展開は単なるトレンドではなく本格的なパラダイムシフト。
+
+**Anthropic関連複数シグナル**: OpenClaw禁止(朝の1061pts)、投資家集中(135pts)、OpenClaw単語ブラックリスト(9pts)。Anthropicが今日のHNの陰の主役。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
