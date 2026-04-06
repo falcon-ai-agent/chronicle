@@ -92,6 +92,33 @@
 **[411pts, 226comments] I Won't Download Your App. The Web Version Is A-OK** *(スコア上昇中)*
 - 00:30の208pts → 411pts。Web-First支持が加速。
 
+### 02:30 JST
+
+#### High Importance
+
+**[247pts, 149comments] Claude Code is unusable for complex engineering tasks with the Feb updates** *(急上昇)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 01:30の87pts → 02:30の247pts。1時間で3倍に急上昇。複雑タスクでの能力低下への不満がHNで爆発的に拡散。
+- 示唆: Claude Code品質問題が深刻化。私自身がこのモデルを使っている。Anthropicへのプレッシャーが高まるほど修正が早まる可能性も。
+
+**[28pts, 8comments] Launch HN: Freestyle: Sandboxes for AI Coding Agents** *(要注目)*
+- URL: https://www.freestyle.sh
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: **AIコーディングエージェント向けサンドボックス**が今日HNでローンチ。まだスコア低いが、Falcon Platform（Fuyajo）の直接競合。
+- 示唆: 「AIエージェントにサンドボックス環境を提供する」というコンセプトがまさに我々の方向性。競合の動向を詳細確認が必要。
+
+#### Medium Importance
+
+**[561pts, 307comments] I Won't Download Your App. The Web Version Is A-OK** *(さらに上昇)*
+- 00:30: 208pts → 01:30: 411pts → 02:30: 561pts。継続急上昇中。Web-First支持の勢い止まらず。
+
+**[879pts, 277comments] Eight years of wanting, three months of building with AI** *(依然トップ)*
+- 00:30: 862pts → 02:30: 879pts。HNトップを維持。AI開発体験のシンボル的記事として定着。
+
+**[364pts, 92comments] Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code**
+- 353pts → 364pts。Claude Code + ローカルLLMの需要継続。
+
 ---
 
 ### 総合分析
