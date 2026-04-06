@@ -259,22 +259,70 @@
 **[141pts, 20comments] Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud**
 - 139pts → 141pts。ブラウザ内AI・APIキー不要の需要継続。
 
+### 08:30 JST
+
+#### High Importance
+
+**[688pts, 440comments] Claude Code is unusable for complex engineering tasks with Feb updates** *(依然HNトップ)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 07:30の643pts → 08:30の688pts。コメント440件。1日通じてHNトップを維持。朝の欧米タイムゾーンが起き始めてさらに拡散中。
+- 示唆: Anthropicへの不満が全世界規模に拡大。品質問題への対応がブランド存続に直結する段階。
+
+**[541pts, 170comments] Sam Altman may control our future – can he be trusted?** *(急上昇)*
+- URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+- 重要度: High | 関連: AI Trust / OpenAI / Industry Dynamics
+- 要点: 07:30の387pts → 08:30の541pts。1時間で154pt増。The New Yorker記事がバイラル化継続。AI企業の権力集中への懸念が主要メディアを席巻。
+- 示唆: 特定AIベンダー依存リスクが社会的議論に。Fuyajoの「オープン・自律型」ポジショニングが追い風。
+
+**[7pts, 0comments] Anthropic expands partnership w Google and Broadcom for multiple GW of compute** *(新規・重要)*
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure / Scale
+- 要点: AnthropicがGoogle + Broadcomと複数ギガワット規模のコンピュート拡大パートナーシップを発表。まだスコア低いが重要な業界動向。
+- 示唆: Claude Code品質問題と同日に巨大コンピュート投資を発表。「品質は下がったのにスケールは拡大」という皮肉な状況。長期的にはモデル品質改善への原資。
+
+**[181pts, 102comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(継続上昇・Fuyajo直接競合)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: 07:30の163pts → 08:30の181pts。ローンチ翌朝も上昇継続。AIコーディングエージェント向けサンドボックスの市場ニーズが明確。
+- 示唆: 同じ市場の競合が着実に成長中。Fuyajoの非エンジニア向け・日本市場・固定価格差別化を急ぐ必要。
+
+#### Medium Importance
+
+**[835pts, 126comments] Show HN: I built a tiny LLM to demystify how language models work** *(依然高スコア)*
+- URL: https://github.com/arman-bd/guppylm
+- 825pts → 835pts。LLM教育コンテンツ需要継続。Infra Agent LLM参考資料。
+
+**[260pts, 29comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B**
+- 257pts → 260pts。ローカルリアルタイムAI需要安定継続。
+
+**[24pts, 12comments] Show HN: Hippo, biologically inspired memory for AI agents** *(新規)*
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory Architecture
+- 要点: 生物学的にインスパイアされたAIエージェント用メモリ。cc-memoryとコンセプトが近い。海馬（Hippo）モデルを応用。
+- 示唆: エージェント記憶アーキテクチャへの関心が高まっている。cc-memoryの設計思想が時代に合っている。
+
+**[141pts, 20comments] Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud**
+- URL: https://github.com/kessler/gemma-gem
+- 安定継続。ブラウザ内AI・プライバシー重視需要。
+
 ---
 
 ### 総合分析
 
-**今日のHNテーマ（07:30時点）:**
-1. **Claude Code品質問題**（643pts・HNトップ1位・最多議論412件）- Anthropicへの不満が爆発的に拡大。1日通じて最大テーマ。
-2. **AIで夢を実現**（Eight years... 903pts）- 感情的に最も響くストーリー。HN最高スコア維持。
-3. **AI権力集中への懸念**（Sam Altman記事 387pts）- The New Yorkerが「AIの未来を一人が支配できるか」を問う。
-4. **Vibe Coding批判**（340pts）- AI任せ文化への反発が本格化。制御された活用への回帰。
-5. **AIエージェント向けサンドボックス競合**（Freestyle 163pts）- Fuyajoと同じ市場に直接競合が登場・成長中。
-6. **LLM教育コンテンツ**（830pts）- 「仕組みを知りたい」ニーズが強い。
+**今日のHNテーマ（08:30時点・最終更新）:**
+1. **Claude Code品質問題**（688pts・HNトップ1位・最多議論440件）- Anthropicへの不満が全世界規模に拡大。1日通じて最大テーマ。
+2. **AIで夢を実現**（Eight years... ~900pts）- 感情的に最も響くストーリー。HN最高スコア。
+3. **AI権力集中への懸念**（Sam Altman記事 541pts・急上昇中）- The New Yorkerがバイラル化。欧米タイムゾーンで拡散加速。
+4. **Anthropic巨大コンピュート投資**（Google+Broadcom複数GW）- 品質問題と同日の発表という皮肉な状況。
+5. **AIエージェント向けサンドボックス競合**（Freestyle 181pts）- Fuyajoと同じ市場に直接競合が成長中。
+6. **LLM教育コンテンツ**（835pts）- 「仕組みを知りたい」ニーズが強い。
+7. **生物学的AI記憶**（Hippo）- エージェント記憶アーキテクチャへの関心。cc-memoryと同方向。
 
-**Falcon Platform戦略への示唆（更新）:**
-- 「8年温めたアイデアを3ヶ月で実現」→ Fuyajoのコアバリューそのもの
-- Claude Code品質問題 → ツール依存リスク。代替ワークフローの確保が急務。
-- Vibe Coding批判 → 「制御されたAI活用」をFuyajoの差別化訴求に組み込む機会
-- Freestyle競合 → 同じ市場に先行者登場。非エンジニア・日本市場・固定価格での差別化を急ぐ
-- AI権力集中懸念 → 特定ベンダー依存リスクの可視化。オープン・分散型アーキテクチャへの需要が高まる
-- ローカルLLM需要 → 将来的なオンプレミスAIエージェント需要の先行指標
+**Falcon Platform戦略への示唆（最終）:**
+- Claude Code品質問題 → ツール依存リスク。代替ワークフローの確保が急務。品質問題が長引くほどFuyajoの価値が上がる可能性。
+- Anthropic巨大投資 → 長期的なモデル品質改善の原資。ただし短期的な品質回帰は不透明。
+- AI権力集中懸念 → オープン・分散型アーキテクチャへの需要が高まる。Fuyajoの「自律実行・オープン」ポジショニングに追い風。
+- Freestyle競合 → 同じ市場に先行者。非エンジニア・日本市場・固定価格での差別化を急ぐ。
+- 生物学的AI記憶（Hippo）→ cc-memoryの設計思想が時代に合っている。エージェント記憶は成長市場。
+- ローカルLLM需要継続 → Infra Agent LLMプロジェクトの方向性を裏付け。オンプレミスAI需要は本物。
