@@ -796,3 +796,74 @@
 **Gemma 4 on iPhone 545pts**: クラウドAIとエッジAIの境界が溶ける中、Fuyajoのポジショニング（クラウド実行の信頼性・スケール）の明確化が必要。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 16:30 JST
+
+**取得時刻**: 2026-04-06 16:30 JST
+
+### スコア更新
+
+| スコア | タイトル | コメント | 15:30比 |
+|--------|----------|----------|---------|
+| **751** | Eight years of wanting, three months of building with AI | 227 | +15 ↑ |
+| **576** | Gemma 4 on iPhone | 152 | +31 ↑ |
+| **370** | Microsoft hasn't had a coherent GUI strategy since Petzold | 212 | +30 ↑ |
+| **343** | Show HN: I built a tiny LLM (GuppyLM) | 31 | +60 ↑ |
+| **250** | Running Gemma 4 locally with LM Studio + Claude Code | 59 | +15 ↑ |
+| **183** | Nanocode: Claude Code on TPUs | 24 | +3 |
+| **145** | OpenAI's fall from grace as investors race to Anthropic | 100 | +2 |
+
+### Claude/AI関連注目
+
+#### 🔴 [751pts, 227comments] Eight years of wanting, three months of building with AI
+- **重要度**: HIGH — **27時間超継続、751ptsで過去最高を更新中**
+- **URL**: https://lalitm.com/post/building-syntaqlite-ai/
+- **内容**: HN全体トップを27時間以上維持。AI支援個人開発の象徴記事として完全確定
+- **Falcon への示唆**: ピーク衰えず。この「長年の夢×AI実現」フォーマットがFuyajoの核心メッセージ
+
+#### 🔴 [343pts, 31comments] Show HN: I built a tiny LLM to demystify how language models work (GuppyLM)
+- **重要度**: HIGH (283→343 +60)
+- **URL**: https://github.com/arman-bd/guppylm
+- **内容**: 前回から+60で急上昇継続。「LLMの仕組みを理解したい」教育コンテンツの需要が衰えない
+- **Falcon への示唆**: Infra Agent LLMの教育的アプローチは市場ニーズに合致
+
+#### 🟡 [250pts, 59comments] Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
+- **重要度**: MEDIUM-HIGH (Claude直接言及)
+- **URL**: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+- **内容**: Claude Codeがローカルモデル開発フローに定着中。250ptsまで上昇
+
+#### 🟡 [145pts, 100comments] OpenAI's fall from grace as investors race to Anthropic
+- **重要度**: MEDIUM-HIGH (Anthropic関連)
+- **URL**: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
+- **内容**: 100コメント到達。AnthropicへのVC移動議論が継続
+
+### 新規シグナル
+
+#### 🔵 [57pts, 11comments] Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud
+- **重要度**: LOW-MEDIUM
+- **URL**: https://github.com/kessler/gemma-gem
+- **内容**: APIキー不要・クラウド不要のブラウザ内Gemma。プライバシー志向のローカルAI
+- **Falcon への示唆**: 「no cloud」需要は存在するが、Fuyajoはスケール・信頼性で差別化
+
+#### 🔵 [40pts, 8comments] Show HN: Modo – open-source alternative to Kiro, Cursor, and Windsurf
+- **URL**: https://github.com/mohshomis/modo
+- **重要度**: LOW-MEDIUM
+- **内容**: Cursor/Windsurf対抗のオープンソースAI IDE。競合乱立が続く
+
+#### 🔵 [11pts, 0comments] Does coding with LLMs mean more microservices?
+- **URL**: https://ben.page/microservices
+- **重要度**: LOW-MEDIUM（Fuyajoアーキテクチャへの示唆あり）
+- **内容**: LLMコーディングによってマイクロサービス化が進むかという問い
+- **Falcon への示唆**: Fuyajoのアーキテクチャ設計に参考となる視点
+
+### 観察
+
+**"Eight years wanting" 751ptsで27時間超維持**: 衰えの兆しなし。通常HNの記事ライフサイクルを大幅に超えた。本日のHN全体で最も印象的なシグナル。
+
+**GuppyLM 343pts (+60)**: 教育系Show HNとしては異例のスコア。「LLMを理解する」コンテンツへの需要が本物であることを示す。
+
+**Gemma 4エコシステム全体が上昇**: iPhone(576pts) + ローカル実行記事(250pts) + ブラウザ内実行(57pts)。Gemma 4が本日のエッジAIの主役。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
