@@ -856,3 +856,35 @@
 **"Mdarena – Benchmark your Claude.md against your PRs"**: Claude.mdの品質をPRで検証するOSSツール。Claude Code利用者が急増し周辺エコシステムが生まれつつある。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals 19:30 JST
+
+### 主要シグナル
+
+| タイトル | スコア | コメント | 前回比 | 重要度 |
+|---------|--------|---------|--------|--------|
+| Eight years of wanting, three months of building with AI | **789** | 238 | +15 ↑ | **HIGH** |
+| Gemma 4 on iPhone | **646** | 180 | +17 ↑ | **HIGH** |
+| Show HN: I built a tiny LLM to demystify how language models work | **494** | 48 | +51 ↑↑ | **HIGH** |
+| Microsoft hasn't had a coherent GUI strategy since Petzold | 469 | 305 | +31 | MEDIUM |
+| Running Gemma 4 locally with LM Studio + Claude Code | 281 | 67 | +6 | **HIGH** |
+| Nanocode: The best Claude Code $200 can buy on TPUs | 189 | 26 | +3 | **HIGH** |
+| OpenAI's fall from grace as investors race to Anthropic | 164 | 106 | +4 | **HIGH** |
+| Show HN: Gemma Gem – AI in browser, no API keys, no cloud | 82 | 15 | — | MEDIUM |
+| Show HN: Modo – open-source alt to Kiro, Cursor, Windsurf | 51 | 10 | +5 | MEDIUM |
+| Does coding with LLMs mean more microservices? | 28 | 18 | NEW | LOW |
+| Show HN: Mdarena – Benchmark Claude.md against your PRs | 20 | 3 | +2 | LOW |
+
+### 注目分析
+
+**"Eight years of wanting" 789pts**: 28時間以上の超長期支持。前回774から+15。ゆっくりだが衰えない。AI支援個人開発の象徴記事として1日を通じてHN首位維持を確定
+
+**GuppyLM 494pts (+51)**: 18:30から1時間で51pts急上昇。コメント数48に対してスコア494という高率。「LLMの仕組みを理解したい」教育需要が今日後半に爆発中
+
+**"Does coding with LLMs mean more microservices?"**: 新規登場。LLMコーディングがアーキテクチャに与える影響を議論。28pts, 18コメント — スコアは低いがFuyajo設計に直接関連するトピック
+
+**OpenAI → Anthropicシフト 164pts, 106コメント**: 前回160から+4。議論が続いている。投資家と技術者両方の視点でAnthropicへの信頼が高まっている
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
