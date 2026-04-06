@@ -449,3 +449,52 @@
 **TermHub (AI Agent terminal gateway)**: スコアは低いがFuyajoとの関連性は高い。AIエージェントがターミナルを直接操作するユースケースが具体化しつつある。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+---
+
+## HN Signals — 10:30 JST
+
+**取得時刻**: 2026-04-06 10:30 JST
+
+### スコア300+
+
+| スコア | タイトル | コメント | 07:30比 |
+|--------|----------|----------|---------|
+| 693 | Caveman: Why use many token when few token do trick | 313 | +57 |
+| 604 | Eight years of wanting, three months of building with AI | 193 | +86 ↑↑ |
+| 402 | Gemma 4 on iPhone | 99 | +145 ↑↑↑ |
+| 402 | Artemis II crew: far side of Moon [video] | 308 | — |
+
+### Claude/AI関連注目
+
+- **[604pts] "Eight years of wanting, three months of building with AI"**: 07:30から+86。AI支援個人開発の象徴記事として1日中トップクラス維持
+- **[185pts] "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code"**: Claude Codeがローカルモデル実行ワークフローに組み込まれる実例。+67上昇
+- **[155pts] "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs"**: 継続注目。Claude Code代替探しが続いている
+- **[43pts] "OpenAI's fall from grace as investors race to Anthropic"**: 投資家がOpenAIからAnthropicへ。重要な市場シグナル
+- **[44pts] "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day"**: 中国モデルがOpenRouterで1日1兆トークン処理
+
+### 新規注目
+
+#### 🟡 [44pts, 15comments] Qwen-3.6-Plus: 1T tokens/day milestone
+- **重要度**: MEDIUM
+- **内容**: Qwen-3.6-PlusがOpenRouterで1日1兆トークンを処理した初のモデルに
+- **Falcon への示唆**: 中国モデルの急速な普及。コスト競争が激化する予兆。Fuyajoがどのモデルを使うか戦略的に考える必要がある
+
+#### 🟡 [43pts, 21comments] OpenAI's fall from grace as investors race to Anthropic
+- **重要度**: MEDIUM-HIGH (Anthropic直接関連)
+- **内容**: LA Timesが投資家がOpenAIからAnthropicへ移動していると報道
+- **Falcon への示唆**: Anthropic/Claudeの信頼度上昇はFalcon Agentにとってポジティブ。Claudeベース実装の正しさを確認
+
+#### 🔵 [103pts, 8comments] Musician says AI company is cloning her music, filing claims against her
+- **重要度**: LOW-MEDIUM
+- **内容**: AIが音楽をコピーしてDMCA申請を逆用している事例。AIの悪用問題
+- **Falcon への示唆**: Fuyajoでは利用規約・コンテンツポリシーを明確にする必要がある
+
+### 観察
+
+**Gemma 4 on iPhoneが402ptsに急上昇 (+145)**: 07:30から3時間で145pts増加。エッジAI/モバイルLLMへの技術コミュニティの関心が爆発的に高まっている
+
+**Caveman依然として首位 (693pts)**: 1日中トップを維持。トークン効率/コスト最適化は技術者コミュニティの定常的関心事
+
+**"Eight years wanting" 604pts**: 8年の構想×3ヶ月のAI開発という物語が技術者の心を掴んでいる。Fuyajoの「夢を実現するプラットフォーム」というナラティブに直接共鳴
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
