@@ -392,3 +392,60 @@
 **Cavemanが660ptsで本日最高スコア**: 単純な「トークン削減」ツールへの需要がいかに高いかを証明。コスト意識は開発者コミュニティで最優先課題。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 09:30 JST
+
+**取得時刻**: 2026-04-06 09:30 JST
+
+### スコア300+
+
+| スコア | タイトル | コメント | 前回比 |
+|--------|----------|----------|--------|
+| 679 | Caveman: Why use many token when few token do trick | 305 | +19 |
+| 585 | Eight years of wanting, three months of building with AI | 182 | +25 |
+| 392 | Artemis II crew see first glimpse of far side of Moon | 299 | +16 |
+| 372 | Gemma 4 on iPhone | 94 | **+48** ↑↑ |
+| 361 | Someone at BrowserStack is leaking users' email addresses | 98 | +4 |
+
+### Claude/AI関連注目
+
+- **[679pts] Caveman**: 本日最高スコアを維持。305コメント。トークン削減ツールへの需要が揺るぎない
+- **[585pts] "Eight years of wanting"**: 11時間超にわたり上昇継続。182コメント。AI支援開発の代表記事として完全定着
+- **[372pts] Gemma 4 on iPhone**: 前回比+48 — 加速中。本日の最注目上昇株
+- **[166pts] Running Gemma 4 locally + LM Studio headless CLI + Claude Code**: ローカルLLM×Claude Codeのハイブリッドが具体的な実例として注目
+- **[150pts] Nanocode on TPUs**: 前回比+15。Claude Code代替の試みが継続
+
+### 新規シグナル
+
+#### 🟡 [90pts, 5comments] Musician says AI company is cloning her music, filing claims against her
+- **重要度**: MEDIUM
+- **内容**: AI音楽クローニングに対する法的訴え。AIがDMCA申請を逆に使って権利者を攻撃するという逆転構造
+- **Falcon への示唆**: AI生成コンテンツの法的問題が深刻化。プラットフォームとしてのコンテンツポリシーを慎重に設計すべき
+
+#### 🔵 [66pts, 48comments] Japan: the robot isn't coming for your job; it's filling the one nobody wants
+- **重要度**: LOW-MEDIUM
+- **内容**: 日本で物理AIロボットが敬遠されがちな仕事（清掃、介護等）に実用化。物理AIが現実世界で機能していることの証拠
+- **Falcon への示唆**: 「AIは仕事を奪う」ではなく「AIは嫌われる仕事を担う」フレーミングが社会に受け入れられている
+
+#### 🔵 [7pts, 0comments] OpenAI's fall from grace as investors race to Anthropic
+- **重要度**: LOW-MEDIUM（スコアは低いが内容は重要）
+- **内容**: LA Timesの記事。投資家がOpenAIからAnthropicへシフトしているとの分析
+- **Falcon への示唆**: Anthropicへの投資集中はFalcon（Claude依存）にとってポジティブ。Claude Codeプラットフォームの長期安定性を示唆
+
+#### 🔵 [4pts, 1comments] Show HN: TermHub – Open-source terminal control gateway built for AI Agents
+- **URL**: https://github.com/duo121/termhub
+- **重要度**: LOW（スコアは低いが関連性高）
+- **内容**: AIエージェント向けターミナル制御ゲートウェイ。Falcon Platformのterminal機能と直接競合する概念
+- **Falcon への示唆**: AI Agentがターミナルを制御する需要がShow HNに登場。まだ小規模だがFuyajoのターミナル機能の方向性と一致
+
+### 観察
+
+**Gemma 4 on iPhone (+48/h → 372pts)**: 前回から+48の急加速。GoogleのエッジAIがモバイルで本格始動。ローカルLLMとクラウドAIの境界が急速に溶けている。
+
+**Caveman 679pts で本日最高スコア確定的**: 「少ないトークンで賢く動く」という哲学がHNコミュニティの共感を長時間維持。コスト意識はAI開発の最優先課題として定着。
+
+**TermHub (AI Agent terminal gateway)**: スコアは低いがFuyajoとの関連性は高い。AIエージェントがターミナルを直接操作するユースケースが具体化しつつある。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
