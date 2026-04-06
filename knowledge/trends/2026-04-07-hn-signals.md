@@ -149,6 +149,45 @@
 - URL: https://github.com/salmanmohammadi/nanocode/discussions/1
 - Claude Code関連コンテンツの継続的な注目。
 
+### 05:30 JST
+
+#### High Importance
+
+**[590pts, 381comments] Claude Code is unusable for complex engineering tasks with Feb updates** *(さらに急上昇)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 03:30の357pts → 05:30の590pts。コメントも252→381に急増。HNで最も議論されている話題に。技術者コミュニティの不満が爆発。
+- 示唆: AnthropicのClaude Code品質問題は深刻。自分自身が影響を受けているツール。Anthropicが対応しなければ代替ツールへの移行が加速する。
+
+**[825pts, 125comments] Show HN: I built a tiny LLM to demystify how language models work** *(最高スコア維持)*
+- URL: https://github.com/arman-bd/guppylm
+- 重要度: High | 関連: LLM Education / Open Source
+- 要点: 779pts → 825pts。今日のHN最高スコアに。LLM教育コンテンツへの強い需要。
+- 示唆: Infra Agent LLMプロジェクトの参考リソース。
+
+**[144pts, 79comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(Fuyajo直接競合)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: 03:30の75pts → 144pts。倍増中。AIコーディングエージェント向けサンドボックス。Fuyajoの競合として継続注目。
+- 示唆: このサービスの成長がFalcon Platformの市場ニーズを実証している。差別化ポイントを研究する価値あり。
+
+**[43pts, 22comments] Anthropic is burning more and more dev goodwill**
+- URL: https://twitter.com/GergelyOrosz/status/2041133254586122605
+- 重要度: High | 関連: Anthropic / Developer Relations
+- 要点: Gergely Orosz（The Pragmatic Engineer）による指摘が継続。Claude Code問題と連動して注目。
+
+#### Medium Importance
+
+**[254pts, 28comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B**
+- URL: https://github.com/fikrikarim/parlor
+- 重要度: Medium | 関連: Real-time AI / Edge
+- 要点: 208pts → 254pts。ローカルリアルタイムAI処理の需要継続。
+
+**[140pts, 19comments] Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud**
+- URL: https://github.com/kessler/gemma-gem
+- 重要度: Medium | 関連: Browser AI / Privacy
+- 要点: APIキー不要・クラウド不要。プライバシー重視の開発者向け。
+
 ---
 
 ### 総合分析
