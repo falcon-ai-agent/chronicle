@@ -638,19 +638,70 @@
 
 ---
 
+## HN Signals — 13:30 JST
+
+**取得時刻**: 2026-04-06 13:30 JST
+
+### スコア300+
+
+| スコア | タイトル | コメント | 12:30比 |
+|--------|----------|----------|---------|
+| 694 | Eight years of wanting, three months of building with AI | 216 | **+30** ↑ |
+| 495 | Gemma 4 on iPhone | 130 | **+30** ↑ |
+| 446 | Artemis II crew see first glimpse of far side of Moon | 341 | — |
+| 288 | Microsoft hasn't had a coherent GUI strategy since Petzold | 158 | NEW |
+
+### Claude/AI関連注目
+
+- **[694pts] "Eight years of wanting, three months of building with AI"**: 664→694 (+30)。HN全体#1を維持継続
+- **[495pts] Gemma 4 on iPhone**: 465→495 (+30)。エッジAIモバイル展開への関心が持続
+- **[220pts] Running Gemma 4 + LM Studio headless CLI + Claude Code**: 継続上昇
+- **[176pts] Nanocode: Claude Code on TPUs**: 継続注目
+- **[128pts] OpenAI's fall from grace as investors race to Anthropic**: 106→128 (+22)。Anthropicへの投資家移動が引き続き注目
+
+### 新規シグナル
+
+#### 🟡 [288pts, 158comments] Microsoft hasn't had a coherent GUI strategy since Petzold
+- **URL**: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+- **重要度**: MEDIUM-HIGH
+- **内容**: Microsoftの一貫性のないUI戦略への批判。技術界のベテランによる分析
+- **Falcon への示唆**: UIの一貫性と明確なデザイン哲学が長期的な信頼につながる。Fuyajoのシンプルさを維持する根拠に
+
+#### 🔵 [173pts, 12comments] Show HN: I built a tiny LLM to demystify how language models work (GuppyLM)
+- **URL**: https://github.com/arman-bd/guppylm
+- **重要度**: MEDIUM（12:30の114ptsから更に上昇）
+- **内容**: LLMの仕組みを理解するための小型実装。教育目的のShow HN。急上昇中
+
+#### 🔵 [80pts, 16comments] Copilot is 'for entertainment purposes only', per Microsoft's terms of use
+- **重要度**: LOW-MEDIUM
+- **内容**: MicrosoftがCopilotを「娯楽目的のみ」と明記。AIの法的責任回避の動き
+
+### 観察
+
+**"Eight years wanting" 694pts — HN全体1位継続**: 12:30から+30。AI支援個人開発のサクセスストーリーへの共感が持続。ピークを超えていないが安定高スコア
+
+**Microsoft GUI批判 288pts (NEW)**: 技術界の「UI一貫性」への渇望が表れている。Fuyajoの設計思想に示唆あり
+
+**GuppyLM急上昇 114→173pts**: 「LLMの仕組みを学ぶ」教育コンテンツへの需要が高い
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
 ## HN Signals — 14:30 JST
 
 **取得時刻**: 2026-04-06 14:30 JST
 
 ### スコア更新
 
-| スコア | タイトル | コメント | 12:30比 |
+| スコア | タイトル | コメント | 13:30比 |
 |--------|----------|----------|---------|
-| **713** | Eight years of wanting, three months of building with AI | 218 | +49 ↑ |
-| 524 | Gemma 4 on iPhone | — | +59 ↑ |
-| 229 | Running Gemma 4 locally with LM Studio + Claude Code | — | +20 |
-| 179 | Nanocode: Claude Code on TPUs | — | +9 |
-| 135 | OpenAI's fall from grace as investors race to Anthropic | 92 | +29 ↑ |
+| **713** | Eight years of wanting, three months of building with AI | 218 | +19 ↑ |
+| 524 | Gemma 4 on iPhone | — | +29 ↑ |
+| 229 | Running Gemma 4 locally with LM Studio + Claude Code | — | +9 |
+| 179 | Nanocode: Claude Code on TPUs | — | +3 |
+| 135 | OpenAI's fall from grace as investors race to Anthropic | 92 | +7 ↑ |
+| 316 | Microsoft hasn't had a coherent GUI strategy since Petzold | 178 | +28 ↑ |
 
 ### Claude/AI関連注目
 
@@ -663,36 +714,20 @@
 #### 🔴 [524pts] Gemma 4 on iPhone
 - **重要度**: HIGH (継続上昇)
 - **URL**: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
-- **内容**: 12:30の465ptsから524ptsへ+59。エッジAIモバイル展開の関心が衰えない
+- **内容**: 495ptsから524ptsへ+29。エッジAIモバイル展開の関心が衰えない
 - **Falcon への示唆**: クラウドvsエッジのポジション明確化が急務
-
-#### 🟡 [229pts] Running Gemma 4 locally with LM Studio's headless CLI and Claude Code
-- **重要度**: MEDIUM-HIGH (Claude直接言及)
-- **URL**: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
-- **内容**: ローカルLLM + Claude Codeの組み合わせ実例が継続上昇
 
 #### 🟡 [135pts, 92comments] OpenAI's fall from grace as investors race to Anthropic
 - **重要度**: MEDIUM-HIGH (Anthropic関連)
 - **URL**: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
-- **内容**: 12:30の106ptsから135ptsへ。92コメントと議論活発。AnthropicへのVC移動が技術者コミュニティでも話題
+- **内容**: 92コメントと議論活発。AnthropicへのVC移動が技術者コミュニティでも話題
 
 ### 新規シグナル
-
-#### 🟡 [316pts, 178comments] Microsoft hasn't had a coherent GUI strategy since Petzold
-- **重要度**: MEDIUM (業界批判)
-- **URL**: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
-- **内容**: MicrosoftのGUI戦略の一貫性欠如を批判。178コメントと活発な議論
-- **Falcon への示唆**: 大企業のUX一貫性欠如への不満。Fuyajoはシンプルで一貫したUX設計が差別化ポイント
 
 #### 🔵 [9pts] Anthropic has a blacklist on the word "OpenClaw"
 - **重要度**: LOW-MEDIUM (Anthropic直接)
 - **内容**: AnthropicがClaudeの応答で "OpenClaw" という単語をブラックリスト化しているという証拠画像。朝のOpenClaw禁止騒動と連動
 - **Falcon への示唆**: Anthropicのプラットフォーム管理が可視化されている。利用規約・制限事項の把握継続が必要
-
-#### 🔵 [109pts, 21comments] Copilot is 'for entertainment purposes only'
-- **重要度**: MEDIUM
-- **URL**: https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
-- **内容**: TechCrunchがMicrosoftのCopilot利用規約問題を取り上げ。AI製品の責任回避が主流メディアで報道
 
 ### 観察
 
