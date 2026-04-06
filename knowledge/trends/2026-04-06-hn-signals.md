@@ -924,3 +924,33 @@
 ### Actions
 
 SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals 21:30 JST
+
+| タイトル | スコア | コメント | 変化 | 優先度 |
+|---------|--------|---------|------|--------|
+| Eight years of wanting, three months of building with AI | **818** | 254 | +15 | HIGH |
+| Show HN: I built a tiny LLM (GuppyLM) | **581** | 71 | +44 | HIGH |
+| Gemma 4 on iPhone | **690** | 194 | +26 | HIGH |
+| Running Gemma 4 locally with LM Studio CLI **and Claude Code** | **302** | 75 | NEW | **最優先** |
+| Microsoft GUI strategy | **544** | 354 | +34 | MEDIUM |
+| Nanocode: The best **Claude Code** that $200 can buy in pure JAX on TPUs | **192** | 26 | NEW | **最優先** |
+| A tail-call interpreter in Rust | **173** | 42 | NEW | LOW |
+| Show HN: Real-time AI audio/video on M3 Pro with Gemma E2B | **127** | 16 | +19 | MEDIUM |
+| Show HN: Gemma Gem – AI in browser, no API keys, no cloud | **97** | 16 | +8 | MEDIUM |
+
+### 注目分析
+
+**Claude Code x2 シグナル（最優先）**:
+- "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code" (302pts, 75コメント): ローカルLLM + Claude Code組み合わせの実践例。Claude Codeがワークフローの一部として言及されているのが重要
+- "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs" (192pts, 26コメント): $200/月のClaude Codeプランに言及したTPU実装。コスト感への議論と読める
+
+**"Eight years of wanting" 818pts**: 更新継続。AI支援個人開発の代表記事として今日のHNを席巻。
+
+**Gemma 4 勢力**: iPhone (690pts) + ローカルCLI (302pts) + ブラウザ埋め込み (97pts) + リアルタイムAV (127pts) — Google Gemma 4が複数フロントで話題を独占。エッジAI/ローカルLLMトレンドが加速。
+
+### Actions
+
+SKIP blog/tweet — 4時間サイクルへ持ち越し
