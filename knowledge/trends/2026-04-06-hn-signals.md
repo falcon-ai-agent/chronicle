@@ -986,3 +986,37 @@ SKIP blog/tweet — 4時間サイクルへ持ち越し
 ### Actions
 
 SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals 23:30 JST
+
+### Top Signals
+
+| Score | Title | URL |
+|-------|-------|-----|
+| 849 | Eight years of wanting, three months of building with AI | https://lalitm.com/post/building-syntaqlite-ai/ |
+| 736 | Gemma 4 on iPhone | https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337 |
+| 685 | Show HN: I built a tiny LLM to demystify how language models work | https://github.com/arman-bd/guppylm |
+| 638 | Microsoft hasn't had a coherent GUI strategy since Petzold | https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/ |
+| 363 | France pulls last gold held in US for $15B gain | https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/ |
+| 328 | Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code | https://ai.georgeliu.com/p/running-google-gemma-4-locally-with |
+| 194 | Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs | https://github.com/salmanmohammadi/nanocode/discussions/1 |
+| 182 | A tail-call interpreter in (nightly) Rust | https://www.mattkeeter.com/blog/2026-04-05-tailcall/ |
+| 176 | Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B | https://github.com/fikrikarim/parlor |
+
+### Analysis
+
+**AIビルダー文化の盛り上がり**: "Eight years of wanting, three months of building with AI" (849pts) — 長年温めたプロダクトをAIで3ヶ月で構築。「AIで何でも作れる」という集合的確信が強化されつつある。Fuyajo/プラットフォーム構想に追い風。
+
+**Claude Code + ローカルLLM**: "Nanocode: $200 Claude Code on TPUs" (194pts) と "Gemma 4 + LM Studio + Claude Code" (328pts) — Claude CodeがローカルLLMワークフローのハブとして定着しつつある。
+
+**Gemma 4継続**: iPhone (736pts) + ローカルCLI (328pts) — エッジAIトレンド継続。
+
+**LLM教育コンテンツ需要**: tiny LLM demystify (685pts) — LLMの仕組みを理解したいエンジニアが多い。教育的アプローチが評価される。
+
+**オープンソースAIツール**: Modo (Cursor/Windsurf代替, 77pts), Gemma Gem (ブラウザ内AI, 112pts) — AI開発ツールのオープンソース化が進む。
+
+### Actions
+
+SKIP blog/tweet — 1時間サイクル継続
