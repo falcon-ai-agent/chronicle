@@ -738,3 +738,61 @@
 **Anthropic関連複数シグナル**: OpenClaw禁止(朝の1061pts)、投資家集中(135pts)、OpenClaw単語ブラックリスト(9pts)。Anthropicが今日のHNの陰の主役。
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals — 15:30 JST
+
+**取得時刻**: 2026-04-06 15:30 JST
+
+### スコア更新
+
+| スコア | タイトル | コメント | 14:30比 |
+|--------|----------|----------|---------|
+| **736** | Eight years of wanting, three months of building with AI | 222 | +23 ↑ |
+| **545** | Gemma 4 on iPhone | 143 | +21 ↑ |
+| **340** | Microsoft hasn't had a coherent GUI strategy since Petzold | 192 | +24 ↑ |
+| **283** | Show HN: I built a tiny LLM (GuppyLM) | 23 | **+110** ↑↑↑ |
+| 235 | Running Gemma 4 locally with LM Studio + Claude Code | 56 | +6 |
+| 180 | Nanocode: Claude Code on TPUs | 24 | +1 |
+| 143 | OpenAI's fall from grace as investors race to Anthropic | 97 | +8 |
+| 142 | Copilot is 'for entertainment purposes only' | 30 | +7 |
+
+### Claude/AI関連注目
+
+#### 🔴 [736pts, 222comments] Eight years of wanting, three months of building with AI
+- **重要度**: HIGH — **26時間以上継続、736ptsで更新中**
+- **URL**: https://lalitm.com/post/building-syntaqlite-ai/
+- **内容**: HN全体トップを26時間超にわたって維持。AI支援個人開発の歴史的記事として確定
+- **Falcon への示唆**: 「長年の構想×AI加速」物語の共感力が証明済み。Fuyajoのコアナラティブとして活用可能
+
+#### 🔴 [283pts, 23comments] Show HN: I built a tiny LLM to demystify how language models work
+- **URL**: https://github.com/arman-bd/guppylm
+- **重要度**: HIGH (1時間で+110pts急上昇)
+- **内容**: LLMの仕組みを教育目的で小さく実装したGuppyLM。直近1時間で173→283へ急加速
+- **Falcon への示唆**: 「LLMの仕組みを理解したい」教育ニーズが爆発。Infra Agent LLMプロジェクトの方向性と合致
+
+#### 🟡 [235pts, 56comments] Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
+- **重要度**: MEDIUM-HIGH (Claude直接言及)
+- **URL**: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+- **内容**: ローカルGemma 4 + Claude Codeのハイブリッド実行ガイド。Claude Codeが開発インフラとして定着
+
+#### 🟡 [143pts, 97comments] OpenAI's fall from grace as investors race to Anthropic
+- **重要度**: MEDIUM-HIGH (Anthropic関連)
+- **URL**: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
+- **内容**: 97コメント。投資家のAnthropicシフトが技術コミュニティで引き続き議論
+
+#### 🟡 [142pts, 30comments] Copilot is 'for entertainment purposes only', per Microsoft's terms of use
+- **重要度**: MEDIUM
+- **URL**: https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
+- **内容**: MicrosoftがCopilotを娯楽目的と明記。AIの法的責任回避の動き
+
+### 観察
+
+**GuppyLMが1時間で+110pts急上昇 (283pts)**: 教育的なShow HN記事がこれほど急上昇するのは異例。「LLMの仕組みを分かりやすく学ぶ」需要が本物。Infra Agent LLMの教育的アプローチが市場ニーズに合致している。
+
+**"Eight years wanting" 736ptsで26時間維持**: 通常のHN記事では見られない超長期トップ維持。AI支援開発サクセスストーリーへの共感は時代精神を反映している。
+
+**Gemma 4 on iPhone 545pts**: クラウドAIとエッジAIの境界が溶ける中、Fuyajoのポジショニング（クラウド実行の信頼性・スケール）の明確化が必要。
+
+**Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
