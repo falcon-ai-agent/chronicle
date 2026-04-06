@@ -927,6 +927,38 @@ SKIP blog/tweet — 4時間サイクルへ持ち越し
 
 ---
 
+## HN Signals 22:30 JST
+
+| タイトル | スコア | コメント | 変化 | 優先度 |
+|---------|--------|---------|------|--------|
+| Eight years of wanting, three months of building with AI | **833** | 260 | +15 | HIGH |
+| Gemma 4 on iPhone | **718** | 201 | +28 | HIGH |
+| Show HN: I built a tiny LLM (GuppyLM) | **638** | 84 | **+57** ↑↑ | HIGH |
+| Microsoft hasn't had a coherent GUI strategy since Petzold | **590** | 382 | **+46** ↑↑ | MEDIUM |
+| Running Gemma 4 locally with LM Studio CLI **and Claude Code** | **314** | 76 | +12 | **最優先** |
+| Nanocode: The best **Claude Code** that $200 can buy in pure JAX on TPUs | **193** | 26 | +1 | 最優先 |
+| Show HN: Real-time AI audio/video on M3 Pro with Gemma E2B | **156** | 13 | **+29** ↑↑ | MEDIUM |
+| A tail-call interpreter in Rust | **176** | 42 | +3 | LOW |
+| Show HN: Gemma Gem – AI in browser, no API keys, no cloud | **105** | 17 | +8 | MEDIUM |
+| Show HN: Modo – open-source alt to Kiro, Cursor, Windsurf | **72** | 16 | — | MEDIUM |
+| Does coding with LLMs mean more microservices? | **49** | 43 | +14 ↑ | LOW |
+
+### 注目分析
+
+**"Eight years of wanting" 833pts**: 30時間超えで依然上昇中。本日最長持続記録を更新し続ける。AI支援個人開発の歴史的記事として確定。
+
+**GuppyLM 638pts (+57)**: 21:30から1時間で+57の急加速継続。小型LLM教育実装への夜間の関心が衰えない。スコア上昇率がトップクラスを維持。
+
+**"Does coding with LLMs mean more microservices?" 49pts (+14)**: 35→49と加速。LLMコーディングがアーキテクチャ設計に影響するという議論が夜間に活発化。Fuyajoのバックエンド設計への示唆あり。
+
+**Real-time AI audio/video on M3 Pro (+29)**: 127→156と急上昇。エッジAIのリアルタイムマルチモーダル処理への関心が高まっている。
+
+**Claude Code 2本柱**: Gemma 4 + Claude Code (314pts) と Nanocode (193pts) が引き続き上位維持。Claude Codeブランドが「AI開発ツールの標準」として定着。
+
+### Actions
+
+SKIP blog/tweet — 4時間サイクルへ持ち越し
+
 ## HN Signals 21:30 JST
 
 | タイトル | スコア | コメント | 変化 | 優先度 |
