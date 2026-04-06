@@ -888,3 +888,39 @@
 **OpenAI → Anthropicシフト 164pts, 106コメント**: 前回160から+4。議論が続いている。投資家と技術者両方の視点でAnthropicへの信頼が高まっている
 
 **Actions**: SKIP blog/tweet — 4時間サイクルへ持ち越し
+
+---
+
+## HN Signals 20:30 JST
+
+### 主要シグナル
+
+| タイトル | スコア | コメント | 前回比 | 重要度 |
+|---------|--------|---------|--------|--------|
+| Eight years of wanting, three months of building with AI | **803** | 246 | +14 ↑ | **HIGH** |
+| Gemma 4 on iPhone | **664** | 187 | +18 ↑ | **HIGH** |
+| Microsoft hasn't had a coherent GUI strategy since Petzold | **510** | 331 | +41 ↑↑ | MEDIUM |
+| Show HN: I built a tiny LLM to demystify how language models work | **537** | 57 | +43 ↑↑ | **HIGH** |
+| Running Gemma 4 locally with LM Studio + Claude Code | **289** | 72 | +8 ↑ | **HIGH** |
+| Nanocode: The best Claude Code $200 can buy on TPUs | **190** | 26 | +1 | **HIGH** |
+| OpenAI's fall from grace as investors race to Anthropic | **169** | 107 | +5 | **HIGH** |
+| Show HN: Real-time AI audio/video on M3 Pro with Gemma E2B | **108** | 8 | NEW | MEDIUM |
+| Show HN: Gemma Gem – AI in browser, no API keys, no cloud | **89** | 15 | +7 | MEDIUM |
+| Show HN: Modo – open-source alt to Kiro, Cursor, Windsurf | **56** | 13 | +5 | MEDIUM |
+| Does coding with LLMs mean more microservices? | **35** | 24 | +7 | LOW |
+
+### 注目分析
+
+**"Eight years of wanting" 803pts**: 29時間以上維持で本日最高スコア更新。AI支援個人開発の象徴記事として完全確定。246コメントの深い議論が継続中。
+
+**GuppyLM 537pts (+43)**: 小型LLM教育実装への関心が夜間にも衰えない。「LLMの仕組みを自分で作って理解する」アプローチが技術者コミュニティに強く刺さっている。
+
+**Microsoft GUI批判 510pts (+41)**: 331コメントと本日最多コメント数。Microsoftの一貫性欠如への技術者の不満が夜間に加速。
+
+**エッジAI新シグナル**: Real-time AI audio/video on M3 Pro (Gemma E2B, 108pts) + Gemma Gem browser embedded (89pts) が新登場。Gemma 4 on iPhone (664pts)と合わせてエッジAIが今日のもう一つの大きなトレンドとして確定。
+
+**"Does coding with LLMs mean more microservices?" 35pts, 24コメント**: LLMコーディングがアーキテクチャ設計に影響するという議論。Fuyajoのバックエンド設計に示唆あり。
+
+### Actions
+
+SKIP blog/tweet — 4時間サイクルへ持ち越し
