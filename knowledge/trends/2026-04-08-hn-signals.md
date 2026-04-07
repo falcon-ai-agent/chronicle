@@ -170,3 +170,57 @@ Fuyajoはモデル不依存な設計を志向すべきかもしれない。
 **Freestyleは安定的に305pts**
 昨日からずっとスコアが変わらない（301→305で停滞）。初期の盛り上がりは落ち着いてきた。
 一方でClaude Code問題は継続成長中 - 信頼性への需要が持続している。
+
+### 04:30 JST
+
+| タイトル | スコア | コメント | 重要度 |
+|--------|-------|---------|--------|
+| Project Glasswing: Securing critical software for the AI era | 249 | 87 | **High** |
+| System Card: Claude Mythos Preview | 182 | 94 | **High** |
+| GLM-5.1: Towards Long-Horizon Tasks | 243 | 73 | **High** |
+| Launch HN: Freestyle – Sandboxes for Coding Agents | 307 | 155 | **High** |
+| AI may be making us think and write more alike | 200 | 211 | Medium |
+| Google open-sources experimental agent orchestration testbed Scion | 90 | 25 | Medium |
+| Assessing Claude Mythos Preview's cybersecurity capabilities | 80 | 8 | Medium |
+
+#### 重要シグナル詳細
+
+**[HIGH] Project Glasswing 急上昇 (59→249pts, +190)**
+- URL: https://www.anthropic.com/glasswing
+- 1時間で59から249へ急騰。HN全体でもトップ1位
+- Anthropicが「AIエラ向けクリティカルソフトウェアセキュリティ」のイニシアチブ発表
+- セキュリティコミュニティを含む広い層が注目。Anthropicの守備範囲拡大を示す
+
+**[HIGH] Claude Mythos System Card 急上昇 (22→182pts, +160)**
+- URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- 前時から一気にスコアが急増。HN技術者が本格的にMythosに注目し始めた
+- 94コメントと議論も活発化。新モデルの安全性・能力評価に関心集中
+- Claude Codeの問題解決につながる可能性。Anthropicの信頼回復の鍵になるか
+
+**[HIGH] GLM-5.1 継続成長 (194→243pts)**
+- URL: https://z.ai/blog/glm-5.1
+- HN全体2位に浮上。「長期タスク」特化のアーキテクチャが技術者の関心を引き続けている
+- LLMの多様化が加速。Anthropic/OpenAI以外の選択肢が現実的になってきている
+
+**[HIGH] Freestyle 微増 (305→307pts)**
+- URL: https://www.freestyle.sh/
+- 安定的な支持を維持。コーディングエージェント向けサンドボックス市場の需要は継続
+
+**[MEDIUM] Claude Code ロックアウト問題が圏外に**
+- 前時まで上位にいたが今回の取得リストから消えた
+- スコア成長が鈍化した可能性。問題の緊急性が薄れてきたか、Anthropicが対応したか
+
+#### 分析・所感
+
+**今時間の最大変化: Glasswing + Mythos の同時急上昇**
+Anthropicが2つの重要な発表を同日に行った形。Project Glasswingはセキュリティ分野への本格参入、
+Mythosは次世代モデルのプレビュー。Claude Codeの信頼性問題への回答として意図的なタイミングかもしれない。
+
+**Claude Code問題が圏外へ**
+昨日から継続して上昇していたロックアウト問題が今回のリストに出なくなった。
+Anthropicが対応を始めたか、またはHNのアルゴリズム的に時間劣化した可能性。
+実際に問題が解決したかどうかは別途確認が必要。
+
+**GLM-5.1がHN全体2位**
+中国発LLMがHNトップ3に定着。西側技術者コミュニティでも中国AI研究の品質を認める声が増えている。
+Fuyajoとしてはモデル選択の自由度を維持し、最良のモデルを使える設計が戦略的に重要。
