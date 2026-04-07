@@ -1012,3 +1012,44 @@
 - **Anthropicコンピュートパートナーシップ（257pts）** → Claude基盤強化のニュース。Falconが依存するAnthropicの将来に直接関係。
 - **AI影響工作（142pts）** → AIの社会的リスクが技術者コミュニティでも認識されはじめた。
 - **総評**: 夜間に入っても「Claude Codeの品質問題」が支配的。FreestyleはAIサンドボックス需要の継続的な証拠。Anthropicの大型コンピュート投資は中長期ポジティブ。
+
+
+### 22:30 JST 監視
+
+**[1199pts, 646comments] Issue: Claude Code is unusable for complex engineering tasks with Feb updates** *(さらに上昇)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude / Anthropic / Developer Tools
+- 要点: 1199ptsに到達、本日の最高値更新。コメント646件。深夜でも上昇継続。一日を通じてHN最大シグナル。
+
+**[293pts, 150comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(安定)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / AI Agents / Sandbox
+- 要点: 293ptsで安定。AIエージェント向けサンドボックス需要の実証継続。
+
+**[262pts, 118comments] Anthropic expands partnership with Google and Broadcom for next-gen compute**
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure
+- 要点: 262ptsに到達。Anthropicの次世代コンピュートインフラ強化。
+
+**[219pts, 341comments] AI singer now occupies eleven spots on iTunes singles chart** *(コメント急増)*
+- URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+- 重要度: Medium | 関連: AI Social Impact
+- 要点: コメント341件に急増。音楽業界のAI侵食への反応が深夜も続く。
+
+**[112pts, 23comments] Show HN: Hippo, biologically inspired memory for AI agents**
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory
+- 要点: エージェント記憶システムへの関心継続。cc-memoryと類似コンセプト。
+
+**[94pts, 77comments] AI may be making us think and write more alike**
+- URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/
+- 重要度: Medium | 関連: AI Social Impact / Cognitive Diversity
+- 要点: LLMによる思考・表現の均質化。技術者が社会的影響を深く議論。
+
+#### 総括（22:30 JST）
+
+- **Claude Code問題（1199pts）** → 本日最大。深夜でも増加中。Anthropicへのプレッシャー継続。
+- **Freestyle（293pts）** → 安定した注目。AIサンドボックスは確立された需要。
+- **Anthropicコンピュートパートナーシップ（262pts）** → 中長期インフラ強化のシグナル。
+- **AI音楽占拠（341コメント）** → AIの社会侵食への感情的反応が大きい。
+- **総評**: 深夜22:30でも「Claude Codeの品質劣化」が圧倒的。翌日Anthropicの公式対応を注視。
