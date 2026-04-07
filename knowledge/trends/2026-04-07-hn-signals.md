@@ -720,3 +720,73 @@
 - **Freestyle競合が258pts** → ローンチ後も健全成長。AIエージェント向けサンドボックス市場の実証が完了。
 - **Anthropic大規模コンピュート投資（228pts）** → 長期戦略を継続。Claude品質問題は短期の痛みとAnthropicは認識しているか。
 - **全体的なトレンド**: ローカルAI・プライバシー重視・クラウド不依存の方向性が1日通じて複数ストーリーで実証。Fuyajoの「VM上でAIを動かす」コンセプトは時代の流れに合っている。
+
+### 17:30 JST
+
+#### High Importance
+
+**[1032pts, 581comments] Issue: Claude Code is unusable for complex engineering tasks with Feb updates** *(1000pts突破・安定継続)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 16:30の1000pts → 17:30の1032pts。コメント581件。節目を超えて上昇継続。欧米の夕方でも議論が止まらず。1日を通じてHNトップクラスを維持し続けた象徴的ストーリー。
+- 示唆: Claude Code品質問題は今日の最大テーマとして完全に定着。Anthropicの沈黙が不満をさらに増幅。
+
+**[1327pts, 522comments] Sam Altman may control our future – can he be trusted?** *(HN全体トップ・1327pts)*
+- URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+- 重要度: High | 関連: AI Trust / OpenAI / Industry Dynamics
+- 要点: 16:30の1268pts → 17:30の1327pts。HN全体トップを終日独走。1日を通じてAI権力集中問題の象徴的記事として定着。コメント522件。
+- 示唆: AI企業への権力集中問題が社会的合意に近づいている。オープン・分散型AIへの需要が確実に高まっている。
+
+**[264pts, 145comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(Fuyajo直接競合・成長継続)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: 16:30の258pts → 17:30の264pts。ローンチ2日目も安定成長。AIコーディングエージェント向けサンドボックスとしてHNで存在感を確立。コメント145件。
+- 示唆: Fuyajoの同一市場に競合がポジションを固めつつある。差別化戦略の実装が優先事項。
+
+**[237pts, 102comments] Anthropic expands partnership with Google and Broadcom for next-gen compute** *(継続上昇)*
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure
+- 要点: 16:30の228pts → 17:30の237pts。Claude Code問題と同日の大規模コンピュート投資という皮肉な状況が継続。コメント102件。
+- 示唆: Anthropicの長期スケール戦略は揺るぎない。短期品質低下は意図的なトレードオフか。
+
+#### Medium Importance
+
+**[866pts, 128comments] Show HN: I built a tiny LLM to demystify how language models work** *(安定最高スコア)*
+- URL: https://github.com/arman-bd/guppylm
+- 重要度: Medium | 関連: LLM Education / Open Source
+- 要点: 865pts → 866pts。1日通じてLLM教育コンテンツの最高スコアを安定維持。Infra Agent LLM参考実装。
+
+**[449pts, 185comments] A cryptography engineer's perspective on quantum computing timelines** *(上昇継続)*
+- URL: https://words.filippo.io/crqc-timeline/
+- 重要度: Medium | 関連: Security / Long-term Tech
+- 要点: 438pts → 449pts。400pts超え安定。量子コンピューティングのリアルなタイムライン分析。長期インフラセキュリティへの技術者関心。
+
+**[358pts, 167comments] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS** *(上昇継続)*
+- URL: https://github.com/matthartman/ghost-pepper
+- 重要度: Medium | 関連: Local AI / Developer Tools
+- 要点: 350pts → 358pts。ローカル音声認識ツールが350pt超え安定。APIキー不要・プライバシー重視の方向性。
+
+**[271pts, 34comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B** *(安定継続)*
+- URL: https://github.com/fikrikarim/parlor
+- 重要度: Medium | 関連: Local AI / Edge Computing
+- 要点: 270pts → 271pts。ローカルリアルタイムAI需要が1日通じて安定継続。
+
+**[162pts, 254comments] AI singer now occupies eleven spots on iTunes singles chart** *(コメント急増)*
+- URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+- 重要度: Medium | 関連: AI Culture / Creative Industry Disruption
+- 要点: 150pts → 162pts。コメント234→254件と議論が拡大継続。AI歌手がiTunesチャートに11枠。AIの創造産業侵食が現実に。
+- 示唆: 非エンジニア領域でのAI浸透が加速。Fuyajoのターゲット市場の拡大を示すシグナル。
+
+**[89pts, 17comments] Show HN: Hippo, biologically inspired memory for AI agents**
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory Architecture
+- 要点: 85pts → 89pts。生物学的（海馬）にインスパイアされたAIエージェント用メモリ。cc-memoryと同コンセプト。エージェント記憶への関心継続。
+
+#### 総括（17:30 JST）
+
+- **Claude Code問題が1032pts・581コメントで終日維持** → Anthropicへの不満が技術者コミュニティの集合記憶に定着。今日の最大テーマとして完結。
+- **Sam Altman記事がHNトップ独走（1327pts）** → AI権力集中問題が1日の最大バイラルとして確定。特定AIベンダー依存リスクへの社会的合意形成が進む。
+- **Anthropic-Google-Broadcom投資（237pts）** → 品質問題と同日の大規模投資発表。長期vs短期のコントラストが今日の象徴。
+- **Freestyle競合（264pts）** → ローンチ2日目でポジション確立。Fuyajoの差別化戦略実装が急務。
+- **量子コンピューティング（449pts）** → 長期インフラセキュリティへの関心が高い。
+- **全体**: 今日のHNは「AIへの信頼危機」がテーマ。Claude Code品質低下・AI権力集中・AI文化侵食が並走し、技術者コミュニティのAI産業への複雑な感情が可視化された一日。
