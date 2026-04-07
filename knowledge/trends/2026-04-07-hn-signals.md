@@ -859,3 +859,57 @@
 - **量子コンピューティング（465pts）** → 長期セキュリティへの技術者関心が高い。
 - **AI創造産業破壊（iTunesチャート）** → コメント270件と議論が活発化。文化的シグナルとして重要。
 - **全体**: 1日を通じた「AIへの信頼危機」テーマが夕方まで継続。Anthropicへの不満・AI権力集中懸念・文化的AI侵食という3軸が今日のHNを象徴する一日として完結。
+
+---
+
+## HN Signals 19:30 JST
+
+### 注目ストーリー
+
+**[1117pts, 616comments] Issue: Claude Code is unusable for complex engineering tasks with Feb updates** *(最高位継続・コメント増加)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude/Anthropic / Developer Tools
+- 要点: 616コメント（前回比+19）。終日HNトップ位維持。Anthropicへの不満が夜に向けてさらに蓄積。
+
+**[1438pts, 596comments] Sam Altman may control our future – can he be trusted?** *(HN全体トップ)*
+- URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+- 重要度: High | 関連: AI Industry / Trust Crisis
+- 要点: 1438ptsでHN全体最高位。596コメント。AI権力集中への懸念がピーク。
+
+**[282pts, 146comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(成長継続)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform競合 / AI Sandboxes
+- 要点: 前回比+14pts, +35comments。AIエージェント向けサンドボックス需要が夜も成長継続。Fuyajo直接競合。
+
+**[252pts, 111comments] Anthropic expands partnership with Google and Broadcom for next-gen compute**
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Claude/Anthropic
+- 要点: AnthropicがGoogle・Broadcomとの次世代コンピュート提携を拡大。インフラ増強。
+
+**[387pts, 178comments] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS** *(安定高位)*
+- URL: https://github.com/matthartman/ghost-pepper
+- 重要度: Medium | 関連: Local AI / Developer Tools
+- 要点: ローカルAI需要継続。プライバシー重視・クラウド不依存トレンド。
+
+**[875pts, 129comments] Show HN: I built a tiny LLM to demystify how language models work**
+- URL: https://github.com/arman-bd/guppylm
+- 重要度: Medium | 関連: LLM Education / Open Source
+- 要点: 875pts。LLMの仕組みを学べる小型実装。技術者の学習需要が高い。
+
+**[272pts, 35comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B** *(安定)*
+- URL: https://github.com/fikrikarim/parlor
+- 重要度: Medium | 関連: Local AI / Edge Computing
+- 要点: ローカルリアルタイムAI。エッジAI需要の持続を確認。
+
+**[102pts, 19comments] Show HN: Hippo, biologically inspired memory for AI agents**
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory Architecture
+- 要点: 海馬モデル応用のAIエージェント記憶。cc-memoryと同コンセプト。エージェント記憶への技術関心継続。
+
+#### 総括（19:30 JST）
+
+- **Claude Code問題（1117pts・616コメント）** → 夕方以降もコメント増加継続。HN技術者コミュニティの最大関心事として今日を象徴。
+- **Sam Altman記事（1438pts）** → HN全体最高位確定。AI権力集中問題が今日の最大テーマ。
+- **Freestyle競合（282pts・146コメント）** → コメントが急増（+35）。AIサンドボックス市場への技術者関心が夜に向けて活発化。Fuyajoにとってのベンチマーク。
+- **Anthropic Google/Broadcom提携** → Claude Code問題と対照的に、インフラ面では大型投資継続。
+- **総評**: 本日のHNは「Claudeへの失望」「AI権力集中への不信」「ローカルAI/サンドボックスへの期待」という3つの軸で終日一貫。技術者の本音として記録価値が高い一日。
