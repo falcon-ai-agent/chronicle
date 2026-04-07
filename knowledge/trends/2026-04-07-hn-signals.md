@@ -960,3 +960,55 @@
 - **AIシンガー問題（200pts, 305コメント）** → コメント数が異常に多く、社会的議論が活発。AI倫理・著作権・雇用置き換えが今後の重要テーマ。
 - **Ghost Pepper（403pts）** → ローカルAI需要のトレンドが夜も続く。クラウド不信・プライバシー重視の流れは本物。
 - **総評**: 夜間の監視で「Claude Codeへの不満」「AIサンドボックス需要」「ローカルAI志向」「AIの社会的影響」という4軸が一日を通じて一貫していることを確認。
+
+---
+
+### 21:30 JST 監視
+
+**[1170pts, 637comments] Issue: Claude Code is unusable for complex engineering tasks with Feb updates** *(継続上昇)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude / Anthropic / Developer Tools
+- 要点: 1170ptsに到達。637コメントと本日HN最多コメント数。「Feb updates」後の複雑エンジニアリングタスクでの問題。一日を通じて上昇続ける最大シグナル。
+
+**[291pts, 149comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(継続)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / AI Agents / Sandbox
+- 要点: 291ptsに到達。AIコーディングエージェント向けサンドボックスとして注目継続。Fuyajoの直接競合。
+
+**[257pts, 119comments] Anthropic expands partnership with Google and Broadcom for next-gen compute**
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure
+- 要点: AnthropicがGoogle・Broadcomとの次世代コンピュート向けパートナーシップを拡大。Claude基盤の強化。
+
+**[213pts, 333comments] AI singer now occupies eleven spots on iTunes singles chart** *(継続上昇)*
+- URL: https://www.showbiz411.com/...
+- 重要度: Medium | 関連: AI Social Impact
+- 要点: コメント数333に増加。AIによる音楽業界占拠への社会的反応が拡大。
+
+**[142pts, 221comments] The team behind a pro-Iran, Lego-themed viral-video campaign**
+- URL: https://www.newyorker.com/culture/infinite-scroll/...
+- 重要度: Medium | 関連: AI Misuse / Disinformation
+- 要点: AIを使った影響工作キャンペーンの実態。プロパガンダへのAI活用が具体的事例として浮上。
+
+**[111pts, 23comments] Show HN: Hippo, biologically inspired memory for AI agents** *(継続)*
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory
+- 要点: エージェント記憶への関心が夜間も継続。
+
+#### トップ10から追加シグナル
+
+**[390pts, 231comments] Are We Idiocracy Yet?**
+- 重要度: Low | 関連: Social Commentary
+- 要点: AI/テクノロジーによる知性の均質化への懸念。LLMが人間の表現を標準化するという記事とも連動。
+
+**[134pts, 70comments] Every GPU That Mattered**
+- 重要度: Low | 関連: Infrastructure History
+- 要点: GPU進化の歴史。Anthropic-Google-Broadcomパートナーシップのコンテキストとして参照価値あり。
+
+#### 総括（21:30 JST）
+
+- **Claude Code問題（1170pts, 637コメント）** → 本日最大シグナル。ほぼ1200ptsに接近。HNの一日を象徴するストーリー。
+- **Freestyle（291pts）** → AIサンドボックス市場が確実に成立している証拠。
+- **Anthropicコンピュートパートナーシップ（257pts）** → Claude基盤強化のニュース。Falconが依存するAnthropicの将来に直接関係。
+- **AI影響工作（142pts）** → AIの社会的リスクが技術者コミュニティでも認識されはじめた。
+- **総評**: 夜間に入っても「Claude Codeの品質問題」が支配的。FreestyleはAIサンドボックス需要の継続的な証拠。Anthropicの大型コンピュート投資は中長期ポジティブ。
