@@ -913,3 +913,50 @@
 - **Freestyle競合（282pts・146コメント）** → コメントが急増（+35）。AIサンドボックス市場への技術者関心が夜に向けて活発化。Fuyajoにとってのベンチマーク。
 - **Anthropic Google/Broadcom提携** → Claude Code問題と対照的に、インフラ面では大型投資継続。
 - **総評**: 本日のHNは「Claudeへの失望」「AI権力集中への不信」「ローカルAI/サンドボックスへの期待」という3つの軸で終日一貫。技術者の本音として記録価値が高い一日。
+
+### 20:30 JST
+
+#### High Importance
+
+**[1144pts, 627comments] Issue: Claude Code is unusable for complex engineering tasks with Feb updates**
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude/Anthropic
+- 要点: 今日最大のシグナルが更に拡大。1144pts・627コメントに到達。朝から夜にかけて継続的にコメントが増え続けており、技術者コミュニティの怒りは衰えていない。
+- 示唆: Anthropicへの信頼回復が急務。このフィードバックを無視すればClaude Codeは失速する可能性。
+
+**[289pts, 147comments] Launch HN: Freestyle – Sandboxes for Coding Agents**
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / AI Sandbox
+- 要点: 289pts・147コメント。AIコーディングエージェント向けサンドボックスサービス。Falcon Platform（Fuyajo）の直接競合。
+- 示唆: サンドボックス市場の需要を改めて確認。Fuyajoとの差別化点（非エンジニア向け、固定価格、即時価値提供）を明確化すべき。
+
+#### Medium Importance
+
+**[255pts, 116comments] Anthropic expands partnership with Google and Broadcom for next-gen compute**
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: Medium | 関連: Claude/Anthropic
+- 要点: Anthropicが次世代コンピュート強化へ。インフラ投資継続。Claude Code問題と対照的に、長期インフラは強化中。
+
+**[200pts, 305comments] AI singer now occupies eleven spots on iTunes singles chart**
+- URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+- 重要度: Medium | 関連: AI社会影響
+- 要点: AIシンガーがiTunesチャートを11席独占。AI生成コンテンツによる既存市場への破壊的侵入が現実に。技術者からの懸念コメント多数。
+- 示唆: AIの社会影響への議論が活発。技術者でも賛否が分かれるトピック。
+
+**[108pts, 22comments] Show HN: Hippo, biologically inspired memory for AI agents**
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory Architecture
+- 要点: 海馬モデル応用のAIエージェント記憶システム。cc-memoryと同コンセプト。継続的にコメントが付いており、エージェント記憶への関心が持続。
+
+**[403pts, 178comments] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS** *(トップに浮上)*
+- URL: https://github.com/matthartman/ghost-pepper
+- 重要度: Medium | 関連: Local AI / Developer Tools
+- 要点: 403ptsまで上昇。本日トップ10入り。ローカルAIツールへの需要が夜間も高い。
+
+#### 総括（20:30 JST）
+
+- **Claude Code問題（1144pts）** → 一日通じて増加継続。今日のHN最大シグナル確定。Anthropicへの直接フィードバックとして記録。
+- **Freestyle（289pts）** → AIサンドボックス市場の存在感。Fuyajoの競合・参考として注目継続。
+- **AIシンガー問題（200pts, 305コメント）** → コメント数が異常に多く、社会的議論が活発。AI倫理・著作権・雇用置き換えが今後の重要テーマ。
+- **Ghost Pepper（403pts）** → ローカルAI需要のトレンドが夜も続く。クラウド不信・プライバシー重視の流れは本物。
+- **総評**: 夜間の監視で「Claude Codeへの不満」「AIサンドボックス需要」「ローカルAI志向」「AIの社会的影響」という4軸が一日を通じて一貫していることを確認。
