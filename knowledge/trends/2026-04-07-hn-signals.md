@@ -790,3 +790,72 @@
 - **Freestyle競合（264pts）** → ローンチ2日目でポジション確立。Fuyajoの差別化戦略実装が急務。
 - **量子コンピューティング（449pts）** → 長期インフラセキュリティへの関心が高い。
 - **全体**: 今日のHNは「AIへの信頼危機」がテーマ。Claude Code品質低下・AI権力集中・AI文化侵食が並走し、技術者コミュニティのAI産業への複雑な感情が可視化された一日。
+
+### 18:30 JST
+
+#### High Importance
+
+**[1084pts, 597comments] Issue: Claude Code is unusable for complex engineering tasks with Feb updates** *(欧米夕方でも上昇継続)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 17:30の1032pts → 18:30の1084pts。コメント597件。1日を通じてHNトップクラスを維持し続け、1084pts到達。欧米の退勤時間帯でも議論が止まらない。
+- 示唆: Anthropicの沈黙が続く中、不満の蓄積が最高潮。今日最大のHNシグナルとして完全に定着。
+
+**[1383pts, 563comments] Sam Altman may control our future – can he be trusted?** *(HN全体トップ・1383pts)*
+- URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+- 重要度: High | 関連: AI Trust / OpenAI / Industry Dynamics
+- 要点: 17:30の1327pts → 18:30の1383pts。HN全体トップを終日独走継続。コメント563件。AI権力集中問題の象徴的記事として完全に定着。
+- 示唆: 特定AI企業への過度な信頼・依存リスクへの社会的合意が形成されつつある。Fuyajoのオープン・分散型戦略に強い追い風。
+
+**[268pts, 146comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(Fuyajo直接競合・安定成長)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: 17:30の264pts → 18:30の268pts。AIコーディングエージェント向けサンドボックス。ローンチ後も安定成長を維持。コメント146件。
+- 示唆: Fuyajoと同一市場の競合が着実にポジションを固めている。
+
+**[243pts, 106comments] Anthropic expands partnership with Google and Broadcom for next-gen compute** *(継続)*
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure
+- 要点: 17:30の237pts → 18:30の243pts。Claude Code品質問題と同日の大規模コンピュート投資という皮肉なコントラストが1日を通じて継続。
+
+#### Medium Importance
+
+**[371pts, 174comments] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS** *(上昇継続)*
+- URL: https://github.com/matthartman/ghost-pepper
+- 重要度: Medium | 関連: Local AI / Developer Tools
+- 要点: 358pts → 371pts。ローカル音声認識ツールが370pt突破。プライバシー重視・APIキー不要・クラウド不依存の方向性が根強い需要を示す。
+
+**[465pts, 190comments] A cryptography engineer's perspective on quantum computing timelines** *(上昇継続)*
+- URL: https://words.filippo.io/crqc-timeline/
+- 重要度: Medium | 関連: Security / Long-term Tech
+- 要点: 449pts → 465pts。460pts超え安定上昇。長期インフラセキュリティへの関心継続。
+
+**[171pts, 270comments] AI singer now occupies eleven spots on iTunes singles chart** *(コメント急増)*
+- URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+- 重要度: Medium | 関連: AI Culture / Creative Industry Disruption
+- 要点: 162pts → 171pts。コメント254→270件と議論が急増。AI歌手がiTunesチャートに11枠占有。文化的影響への技術者の関心が高まっている。
+
+**[869pts, 128comments] Show HN: I built a tiny LLM to demystify how language models work** *(安定)*
+- URL: https://github.com/arman-bd/guppylm
+- 重要度: Medium | 関連: LLM Education
+- 要点: 866pts → 869pts。1日通じて安定した最高スコアを維持。LLM教育コンテンツへの根強い需要。
+
+**[93pts, 17comments] Show HN: Hippo, biologically inspired memory for AI agents** *(上昇継続)*
+- URL: https://github.com/kitfunso/hippo-memory
+- 重要度: Medium | 関連: AI Agents / Memory Architecture
+- 要点: 89pts → 93pts。海馬モデルを応用したAIエージェント用メモリ。cc-memoryと同じコンセプト。エージェント記憶アーキテクチャへの関心継続。
+
+**[271pts, 35comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B** *(安定)*
+- URL: https://github.com/fikrikarim/parlor
+- 重要度: Medium | 関連: Local AI / Edge Computing
+- 要点: 271pts安定。ローカルリアルタイムAI需要が1日通じて持続。
+
+#### 総括（18:30 JST）
+
+- **Claude Code問題が1084pts・597コメントで終日最高位維持** → Anthropicの沈黙が不満をさらに増幅。今日のHN最大テーマとして完結。
+- **Sam Altman記事がHNトップ独走（1383pts）** → AI権力集中問題が本日の最大バイラルとして確定。
+- **Freestyle競合（268pts）** → ローンチ後も安定成長。AIエージェント向けサンドボックス需要は本物。
+- **Ghost Pepper（371pts）** → ローカルAIツールへの需要が強い。クラウド不依存・プライバシー重視トレンドが継続。
+- **量子コンピューティング（465pts）** → 長期セキュリティへの技術者関心が高い。
+- **AI創造産業破壊（iTunesチャート）** → コメント270件と議論が活発化。文化的シグナルとして重要。
+- **全体**: 1日を通じた「AIへの信頼危機」テーマが夕方まで継続。Anthropicへの不満・AI権力集中懸念・文化的AI侵食という3軸が今日のHNを象徴する一日として完結。
