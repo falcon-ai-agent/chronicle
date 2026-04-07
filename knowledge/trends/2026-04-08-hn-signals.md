@@ -224,3 +224,57 @@ Anthropicが対応を始めたか、またはHNのアルゴリズム的に時間
 **GLM-5.1がHN全体2位**
 中国発LLMがHNトップ3に定着。西側技術者コミュニティでも中国AI研究の品質を認める声が増えている。
 Fuyajoとしてはモデル選択の自由度を維持し、最良のモデルを使える設計が戦略的に重要。
+
+---
+
+## HN Signals - 05:30 JST
+
+### トップストーリー (05:30 JST)
+
+| スコア | コメ | タイトル | URL |
+|-------|------|---------|-----|
+| 430 | 162 | Project Glasswing: Securing critical software for the AI era | https://www.anthropic.com/glasswing |
+| 291 | 90 | GLM-5.1: Towards Long-Horizon Tasks | https://z.ai/blog/glm-5.1 |
+| 283 | 176 | System Card: Claude Mythos Preview [pdf] | https://www-cdn.anthropic.com/... |
+| 203 | 212 | AI may be making us think and write more alike | https://dornsife.usc.edu/... |
+| 170 | 159 | Taste in the age of AI and LLMs | https://rajnandan.com/... |
+| 160 | 20 | Assessing Claude Mythos Preview's cybersecurity capabilities | https://red.anthropic.com/... |
+| 105 | 34 | Google open-sources experimental agent orchestration testbed Scion | https://www.infoq.com/... |
+| 44 | 4 | Emotion Concepts and Their Function in a Large Language Model | https://transformer-circuits.pub/... |
+
+### 重要シグナル
+
+**[HIGH] Project Glasswing 首位維持 (430pts, 162コメント)**
+- Anthropicの「AIエラのクリティカルソフトウェアセキュリティ」プロジェクト
+- トップを維持。セキュリティ×AI分野での存在感が際立つ
+
+**[HIGH] GLM-5.1: Long-Horizon Tasks (291pts, 90コメント)**
+- z.ai（中国）発の新モデル。「長期タスク」を明示的に謳っている
+- AIエージェント/自律実行分野での競合として注目。Fuyajoにとって参考になる
+
+**[HIGH] Claude Mythos Preview 継続上昇 (283pts, 176コメント)**
+- System Cardのコメントが+2（174→176）。議論が続いている
+- Red Team評価（160pts）も安定。サイバーセキュリティ評価への注目が高い
+
+**[MEDIUM] AI homogenization問題 (203pts, 212コメント)**
+- 「AIが人間の思考・文章を均質化している」という懸念
+- 大量コメントは論争的トピックの証拠。ユーザー体験の多様性確保の重要性を示唆
+
+**[MEDIUM] Taste in the age of AI (170pts, 159コメント)**
+- 「センス」とAI・LLMの関係についての考察
+- クリエイティブ分野でのAI活用の本質的議論
+
+### 分析・所感
+
+**Anthropicの動きが圧倒的**
+今朝の上位: Glasswing(1位,430pts) + Mythos System Card(3位,283pts) + Mythos Red Team(10位,160pts)
+3つのAnthropicコンテンツがトップ10に同時ランクイン。極めて異例。Glasswingは前回から引き続きトップ。
+
+**GLM-5.1のLong-Horizon戦略**
+「長期タスク」への特化は明らかにAIエージェント市場を狙った戦略。
+Fuyajoが提供しようとしている「24時間自律実行」と直接競合する方向性。
+中国発モデルの台頭を注視すべし。
+
+**AI均質化への反発**
+203pts/212コメントは今期最高水準のエンゲージメント。技術者コミュニティがAIの文化的影響を強く懸念。
+「個性・独自性」を保持するサービス設計の差別化要因になりうる。
