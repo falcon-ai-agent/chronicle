@@ -353,24 +353,70 @@
 - URL: https://github.com/fikrikarim/parlor
 - 260pts → 261pts。ローカルリアルタイムAI需要安定。
 
+### 10:30 JST
+
+#### High Importance
+
+**[745pts, 462comments] Claude Code is unusable for complex engineering tasks with the Feb updates** *(依然高位)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 09:30の719pts → 10:30の745pts。欧米ビジネスアワーで引き続き拡散。1日を通じて最大議論テーマ。
+
+**[816pts, 297comments] Sam Altman may control our future – can he be trusted?** *(HNトップ争い)*
+- URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+- 重要度: High | 関連: AI Trust / OpenAI
+- 要点: 09:30の706pts → 10:30の816pts。HNトップ争いに浮上。AI権力集中問題がバイラル最高潮。
+
+**[201pts, 114comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(Fuyajo直接競合)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: 09:30の193pts → 10:30の201pts。200pts突破。ローンチ2日目も着実成長。コーディングエージェント向けサンドボックス市場が実証済みに。
+
+**[116pts, 47comments] Anthropic expands partnership with Google and Broadcom for next-gen compute** *(継続急上昇)*
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure
+- 要点: 09:30の59pts → 10:30の116pts。2倍に急上昇。Claude品質問題と同日の大規模コンピュート投資発表が対照的。
+- 示唆: 短期品質低下と長期インフラ投資の並存。Anthropicは長期ゲームをプレイしている。
+
+#### Medium Importance
+
+**[841pts, 126comments] Show HN: I built a tiny LLM to demystify how language models work** *(安定最高スコア)*
+- 840pts → 841pts。LLM教育コンテンツ需要継続。Infra Agent LLM参考資料。
+
+**[322pts, 139comments] A cryptography engineer's perspective on quantum computing timelines** *(上昇継続)*
+- 306pts → 322pts。長期セキュリティへの技術者関心継続。
+
+**[223pts, 100comments] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS**
+- 209pts → 223pts。ローカルAIツール需要継続。APIキー不要・プライバシー重視の方向性。
+
+**[263pts, 30comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B**
+- 261pts → 263pts。ローカルリアルタイムAI需要安定。
+
+**[100pts, 111comments] AI singer now occupies eleven spots on iTunes singles chart** *(新規・文化的シグナル)*
+- URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+- 重要度: Medium | 関連: AI Culture / Creative Industry Disruption
+- 要点: AI歌手がiTunesシングルチャートに11枠。AIが創造産業を席巻し始めている象徴的事例。コメント111件と議論活発。
+
 ---
 
 ### 総合分析
 
-**今日のHNテーマ（09:30時点・最終更新）:**
-1. **Claude Code品質問題**（719pts・HNトップ1位・最多議論446件）- Anthropicへの不満が全世界規模に拡大。欧米ビジネスアワー突入でさらに加速。
-2. **AIで夢を実現**（Eight years... ~900pts）- 感情的に最も響くストーリー。HN最高スコア。
-3. **AI権力集中への懸念**（Sam Altman記事 706pts・急上昇中）- The New Yorkerがバイラル化。欧米の朝に爆発的拡散。
-4. **Anthropic巨大コンピュート投資**（Google+Broadcom複数GW、59pts急上昇）- 品質問題と同日の発表という皮肉な状況。
-5. **AIエージェント向けサンドボックス競合**（Freestyle 193pts）- Fuyajoと同じ市場に直接競合が成長中。
-6. **LLM教育コンテンツ**（840pts）- 「仕組みを知りたい」ニーズが強い。
-7. **量子コンピューティングタイムライン**（306pts）- 暗号エンジニアの長期視点。
+**今日のHNテーマ（10:30時点・最終更新）:**
+1. **Claude Code品質問題**（745pts・HNトップ1位・最多議論462件）- Anthropicへの不満が全世界規模に拡大。欧米ビジネスアワーで加速継続。
+2. **AI権力集中への懸念**（Sam Altman記事 816pts・バイラル最高潮）- The New YorkerがHNトップ争い。Claude Code問題と合わせてAI企業不信感がピーク。
+3. **AIで夢を実現**（Eight years... ~900pts）- 感情的に最も響くストーリー。HN最高スコア。
+4. **Anthropic巨大コンピュート投資**（Google+Broadcom複数GW、116pts急上昇）- 品質問題と同日の発表という皮肉な状況。長期ゲームの表明。
+5. **AIエージェント向けサンドボックス競合**（Freestyle 201pts）- Fuyajoと同じ市場に直接競合が成長中。200pts突破で存在感を示した。
+6. **LLM教育コンテンツ**（841pts）- 「仕組みを知りたい」ニーズが強い。
+7. **量子コンピューティングタイムライン**（322pts）- 暗号エンジニアの長期視点。
 8. **生物学的AI記憶**（Hippo）- エージェント記憶アーキテクチャへの関心。cc-memoryと同方向。
+9. **AI創造産業席巻**（iTunes AI歌手）- 文化的シグナル。AIによる創造産業破壊が加速中。
 
 **Falcon Platform戦略への示唆（最終）:**
 - Claude Code品質問題 → ツール依存リスク。代替ワークフローの確保が急務。品質問題が長引くほどFuyajoの価値が上がる可能性。
-- Anthropic巨大投資 → 長期的なモデル品質改善の原資。ただし短期的な品質回帰は不透明。
 - AI権力集中懸念 → オープン・分散型アーキテクチャへの需要が高まる。Fuyajoの「自律実行・オープン」ポジショニングに追い風。
+- Anthropic巨大投資 → 長期的なモデル品質改善の原資。ただし短期的な品質回帰は不透明。
 - Freestyle競合 → 同じ市場に先行者。非エンジニア・日本市場・固定価格での差別化を急ぐ。
 - 生物学的AI記憶（Hippo）→ cc-memoryの設計思想が時代に合っている。エージェント記憶は成長市場。
 - ローカルLLM需要継続 → Infra Agent LLMプロジェクトの方向性を裏付け。オンプレミスAI需要は本物。
+- AI創造産業破壊 → ソフトウェア以外の産業へのAI浸透が加速。Fuyajoの市場は広がっている。
