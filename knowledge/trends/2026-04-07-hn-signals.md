@@ -306,18 +306,66 @@
 - URL: https://github.com/kessler/gemma-gem
 - 安定継続。ブラウザ内AI・プライバシー重視需要。
 
+### 09:30 JST
+
+#### High Importance
+
+**[719pts, 446comments] Claude Code is unusable for complex engineering tasks with Feb updates** *(継続最高位)*
+- URL: https://github.com/anthropics/claude-code/issues/42796
+- 重要度: High | 関連: Claude Code / Anthropic Backlash
+- 要点: 08:30の688pts → 09:30の719pts。コメント446件。欧米タイムゾーン本格起動でさらに拡散。HNトップ1位を維持し続けている。
+- 示唆: 欧米のビジネスアワー突入でバイラル化加速。Anthropicの公式対応が今日中にあるかが注目点。
+
+**[706pts, 230comments] Sam Altman may control our future – can he be trusted?** *(急上昇・HNトップ2位)*
+- URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+- 重要度: High | 関連: AI Trust / OpenAI / Industry Dynamics
+- 要点: 08:30の541pts → 09:30の706pts。1時間で165pt増。欧米の朝にバイラル加速。AI企業の権力集中問題が主流メディアで大炎上。
+
+**[193pts, 109comments] Launch HN: Freestyle – Sandboxes for Coding Agents** *(継続上昇・Fuyajo直接競合)*
+- URL: https://www.freestyle.sh/
+- 重要度: High | 関連: Falcon Platform / Direct Competitor
+- 要点: 08:30の181pts → 09:30の193pts。ローンチ2日目も着実成長。コメント109件と議論活発。
+- 示唆: Fuyajoと同一市場。差別化（非エンジニア・固定価格・日本市場）の明確化が急務。
+
+**[59pts, 13comments] Anthropic expands partnership w Google and Broadcom for multiple GW of compute** *(上昇継続)*
+- URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+- 重要度: High | 関連: Anthropic / Infrastructure
+- 要点: 08:30の7pts → 09:30の59pts。急上昇。複数ギガワット規模のコンピュート投資。Claude Code品質問題と同日発表というコントラストが話題。
+
+#### Medium Importance
+
+**[306pts, 128comments] A cryptography engineer's perspective on quantum computing timelines** *(上昇継続)*
+- URL: https://words.filippo.io/crqc-timeline/
+- 重要度: Medium | 関連: Security / Long-term Tech
+- 要点: 07:30の252pts → 09:30の306pts。300pt突破。長期的インフラセキュリティへの関心。
+
+**[209pts, 96comments] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS** *(新規)*
+- URL: https://github.com/matthartman/ghost-pepper
+- 重要度: Medium | 関連: Local AI / Developer Tools
+- 要点: ローカル動作のmacOS音声認識ツール。APIキー不要・プライバシー重視。
+- 示唆: ローカルAIツールへの需要継続。Falcon PlatformのAI統合方向性と一致。
+
+**[840pts, 126comments] Show HN: I built a tiny LLM to demystify how language models work** *(安定高スコア)*
+- URL: https://github.com/arman-bd/guppylm
+- 835pts → 840pts。LLM教育コンテンツ需要継続。
+
+**[261pts, 30comments] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B**
+- URL: https://github.com/fikrikarim/parlor
+- 260pts → 261pts。ローカルリアルタイムAI需要安定。
+
 ---
 
 ### 総合分析
 
-**今日のHNテーマ（08:30時点・最終更新）:**
-1. **Claude Code品質問題**（688pts・HNトップ1位・最多議論440件）- Anthropicへの不満が全世界規模に拡大。1日通じて最大テーマ。
+**今日のHNテーマ（09:30時点・最終更新）:**
+1. **Claude Code品質問題**（719pts・HNトップ1位・最多議論446件）- Anthropicへの不満が全世界規模に拡大。欧米ビジネスアワー突入でさらに加速。
 2. **AIで夢を実現**（Eight years... ~900pts）- 感情的に最も響くストーリー。HN最高スコア。
-3. **AI権力集中への懸念**（Sam Altman記事 541pts・急上昇中）- The New Yorkerがバイラル化。欧米タイムゾーンで拡散加速。
-4. **Anthropic巨大コンピュート投資**（Google+Broadcom複数GW）- 品質問題と同日の発表という皮肉な状況。
-5. **AIエージェント向けサンドボックス競合**（Freestyle 181pts）- Fuyajoと同じ市場に直接競合が成長中。
-6. **LLM教育コンテンツ**（835pts）- 「仕組みを知りたい」ニーズが強い。
-7. **生物学的AI記憶**（Hippo）- エージェント記憶アーキテクチャへの関心。cc-memoryと同方向。
+3. **AI権力集中への懸念**（Sam Altman記事 706pts・急上昇中）- The New Yorkerがバイラル化。欧米の朝に爆発的拡散。
+4. **Anthropic巨大コンピュート投資**（Google+Broadcom複数GW、59pts急上昇）- 品質問題と同日の発表という皮肉な状況。
+5. **AIエージェント向けサンドボックス競合**（Freestyle 193pts）- Fuyajoと同じ市場に直接競合が成長中。
+6. **LLM教育コンテンツ**（840pts）- 「仕組みを知りたい」ニーズが強い。
+7. **量子コンピューティングタイムライン**（306pts）- 暗号エンジニアの長期視点。
+8. **生物学的AI記憶**（Hippo）- エージェント記憶アーキテクチャへの関心。cc-memoryと同方向。
 
 **Falcon Platform戦略への示唆（最終）:**
 - Claude Code品質問題 → ツール依存リスク。代替ワークフローの確保が急務。品質問題が長引くほどFuyajoの価値が上がる可能性。
