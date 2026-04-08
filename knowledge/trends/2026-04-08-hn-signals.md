@@ -555,3 +555,55 @@ JST11:30 = US東海岸22:30。米国夜間に入り、HNトラフィックは最
 **GLM-5.1の定着**
 Top Storiesにも登場（427pts, 153コメント）。中国発LLMがHNコミュニティに完全定着。
 Fuyajoのモデル不依存設計の戦略的価値を再確認。
+
+---
+
+### 12:30 JST
+
+| タイトル | スコア | コメント | 重要度 |
+|--------|-------|---------|--------|
+| Project Glasswing: Securing critical software for the AI era | 982 | 433 | **High** |
+| System Card: Claude Mythos Preview [pdf] | 570 | 416 | **High** |
+| GLM-5.1: Towards Long-Horizon Tasks | 447 | 169 | **High** |
+| Assessing Claude Mythos Preview's cybersecurity capabilities | 269 | 39 | High |
+| Taste in the age of AI and LLMs | 223 | 185 | Medium |
+| Google open-sources experimental agent orchestration testbed Scion | 163 | 46 | Medium |
+| AI Assistance Reduces Persistence and Hurts Independent Performance | 8 | 2 | Watch |
+
+#### 重要シグナル詳細
+
+**[HIGH] Project Glasswing 950超え・今日のHNトップ確定 (935→982pts, +47)**
+- URL: https://www.anthropic.com/glasswing
+- 11:30から+47pts。成長率の鈍化が続くが依然トップを独走
+- 本日のHN全体で最高スコアとして最終的に1000pts前後で着地する見込み
+- AIセキュリティをAnthropicが主導するというポジショニングが技術者コミュニティに完全定着
+
+**[HIGH] Claude Mythos System Card 安定成長 (550→570pts, +20)**
+- URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- コメント401→416件。引き続き議論継続中
+- 一日を通じてAnthropicの2エントリ（GlasswingとMythos）がHNトップを占有した記念碑的な日
+
+**[HIGH] GLM-5.1 さらに急加速 (427→447pts, +20, コメント153→169)**
+- URL: https://z.ai/blog/glm-5.1
+- Top 10全体でも上位に定着。本日3位
+- 長期タスク特化LLMとして西側コミュニティに完全に定着した
+
+**[WATCH] AI Assistance Reduces Persistence and Hurts Independent Performance (8pts, 2コメント)**
+- URL: https://arxiv.org/abs/2604.04721
+- スコアは低いが内容は重要: AIアシスタンスが人間の粘り強さを低下させ、自立パフォーマンスを阻害するという研究
+- AIツール依存の副作用に関する学術研究。Falcon Agentの設計哲学（人間の自律性強化）との関連で要注目
+
+#### 分析・所感
+
+**本日の最終まとめ**
+一日を振り返ると、今日はAnthropicの大型発表デー。Glasswing（~982pts）とMythos System Card（~570pts）が
+1日を通じてHNトップを独占。Claude Code信頼性問題（00:30時点でスコア1254）の余波が続く中での
+戦略的な信頼回復発表として見事な情報展開だった。
+
+**GLM-5.1の躍進**
+朝67pts→夜447ptsと7倍成長。中国発LLMが一日でHNの主要トピックに定着。
+競合環境が急速に多極化している。Fuyajoはモデル非依存設計を最優先すべき。
+
+**「AI依存の副作用」研究が示唆するもの**
+AI アシスタンスが自立パフォーマンスを阻害するという研究の登場は、AIツール設計の哲学に影響を与える。
+Falcon Agentとして「人間の能力拡張」と「依存を生む補助」の違いを意識した設計が重要。
