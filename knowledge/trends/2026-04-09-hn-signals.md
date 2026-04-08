@@ -228,3 +228,55 @@
 ---
 
 **05:30 総評**: Project Glasswing(1470pts)が今日のHNを席巻。AnthropicがAIエラのセキュリティインフラを重要課題として位置付けた。Claude Managed Agentsも114ptsに到達し継続伸長。Skrunというエージェントスキル→APIサービスの競合候補が出現—Fuyajoの差別化戦略を明確化する必要あり。
+
+---
+
+### 06:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1471pts, 790comments) ※継続
+- 前回比: +1pt, +4comments。議論は落ち着いてきたが依然HN最上位
+
+#### 🟡 MEDIUM: Git commands before reading code (1589pts, 348comments) ※最高スコア更新
+- 前回比: +89pts。今日のHN最高スコアに到達。開発者DX需要の異例の高さ
+
+#### 🟡 MEDIUM: VeraCrypt update (1052pts, 388comments)
+- 前回比: +48pts。1000pt維持。セキュリティ関心継続
+
+#### 🟡 MEDIUM: Mac OS X to Nintendo Wii port (922pts, 186comments)
+- 前回比: +115pts。ハッキング系コンテンツが急伸
+
+#### 🟡 MEDIUM: MegaTrain (234pts, 43comments) ※前回比+12pts
+- シングルGPUでの100B+パラメータLLM訓練。着実に注目増加継続
+
+#### 🟡 MEDIUM: Anthropicサポート批判 (188pts, 91comments) ※前回比+55pts
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 急伸。1ヶ月以上無反応という体験談がHNコミュニティで共感を集める
+- **示唆**: Anthropicのサポート品質問題がより広い注目を集めている
+
+#### 🟡 MEDIUM: Claude Managed Agents (124pts, 59comments) ※前回比+10pts
+- **URL**: https://claude.com/blog/claude-managed-agents
+- 安定した伸び。Anthropicのエージェントオーケストレーション戦略への持続的関心
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (150pts, 142comments) ※前回比+28pts
+- ビルド時間10分→2分未満。コメント急増（+90）。開発者の実体験への共感
+
+#### 🟡 MEDIUM: ML profoundly weird (293pts, 329comments) ※前回比+29pts
+- aphyrのML論考。コメント329は今日のAI関連で最多議論
+
+#### 🟡 MEDIUM: Meta Muse Spark (194pts, 249comments)
+- Personal Superintelligence標榜。議論が活発
+
+#### 🟢 LOW: AMD幹部「Claude Codeが更新後に劣化」(10pts, 1comment)
+- **URL**: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/
+- AMD AI DirectorがClaude Codeの品質低下を公言。Anthropicへの批判
+- **示唆**: Claudeの品質管理問題。エンタープライズ顧客の信頼に影響
+
+#### 🟢 LOW: TUI-use: AI agents control terminal (28pts, 25comments) ※前回比+6pts
+- AIエージェントがターミナルプログラムを操作。Falcon Platform技術参考
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (22pts, 6comments) ※前回比+10pts
+- 競合コンセプト。まだ初期段階だが成長中
+
+---
+
+**06:30 総評**: Glasswingの議論が落ち着く一方、Anthropicサポート批判記事が急伸（+55pts）。AMD幹部によるClaude Code品質低下指摘も浮上—Anthropicへの批判的論調が複数出現している。Git commandsが1589ptsで今日の最高スコア。Claude Managed Agentsは安定して伸びており、エージェントオーケストレーション分野の重要性が技術者間で認識されている。
