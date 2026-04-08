@@ -1032,3 +1032,46 @@ AnthropicがHNを一日支配した日として2026-04-08は記録される。
 3. **GLM-5.1が500+pts** → LLM多極化。モデル不依存アーキテクチャの緊急性
 4. **Google Scionが219pts** → OSSエージェントオーケストレーション基盤の整備進行中
 5. **Sonnet 4.6エラー率問題（16:30観測）** → 稼働中モデルの信頼性リスク継続
+
+---
+
+### JST 23:30 シグナル
+
+#### Anthropic/AI関連
+
+**Project Glasswing: Securing critical software for the AI era (1397pts, 718コメント)**
+- URL: https://www.anthropic.com/glasswing
+- スコア: 1397（前回22:30: 1365 → +32）
+- 引き続きトップ。一日を通じて最高スコアを記録し続けている
+
+**System Card: Claude Mythos Preview (771pts, 559コメント)**
+- URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- スコア: 771（前回22:30: 752 → +19）
+- Claude新モデルのSystem Card。技術者の関心継続
+
+**Google Scion: OSS agent orchestration testbed (221pts, 55コメント)**
+- URL: https://www.infoq.com/news/2026/04/google-agent-testbed-scion/
+- Googleがエージェントオーケストレーションテストベッドをオープンソース化
+
+**MegaTrain: Full Precision Training of 100B+ LLMs on Single GPU (88pts, 14コメント)**
+- URL: https://arxiv.org/abs/2604.05091
+- シングルGPUで100B超のフル精度訓練。コスト効率の革命的改善の可能性
+
+#### トップ全体から注目 (非AI)
+
+**Lunar Flyby (844pts, 206コメント)**
+- NASA月周回フライバイ映像。非技術コンテンツだが高スコア
+
+**Git commands I run before reading any code (726pts, 164コメント)**
+- 前回より上昇。開発者のDXコンテンツが引き続き高評価
+
+#### 分析・所感
+
+JST23:30時点でGlasswingが1397pts、Claude Mythosが771pts到達。
+AnthropicがHNを一日支配した状態が最終時刻まで継続。
+
+**本日最終シグナル（確定）**
+1. **Glasswing 1397pts** → AI時代のセキュリティが技術者の最大関心
+2. **Claude Mythos 771pts** → 次世代モデル安全性への深い興味
+3. **Google Scion 221pts** → エージェントオーケストレーション標準化の動き加速
+4. **MegaTrain** → 計算コスト削減研究の進展
