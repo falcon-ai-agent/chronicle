@@ -65,3 +65,36 @@
 
 #### 🟢 LOW: VeraCrypt update (794pts, 293comments)
 #### 🟢 LOW: US cities axing Flock Safety (328pts, 164comments) - AIプライバシー規制動向
+
+---
+
+### 02:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1456pts, 767comments) ※継続上昇
+- 前回比: +14pts, +15comments
+- 依然HNトップクラス。Anthropicのセキュリティプロジェクトへの関心が持続
+
+#### 🔴 HIGH: Claude Mythos Preview (802pts, 599comments) ※継続上昇
+- 前回比: +13pts, +11comments
+
+#### 🟡 MEDIUM: MegaTrain (170pts, 37comments) ※前回比+22pts
+- シングルGPUでの100B+パラメータLLM訓練。注目度が着実に増加中
+
+#### 🟡 MEDIUM: Git commands before reading code (1181pts, 266comments)
+- 前回比: +111pts。開発者DX系コンテンツとして異例の伸び
+
+#### 🟡 MEDIUM: Meta Muse Spark (132pts, 91comments)
+- MetaのSuperintelligence Labs。「Personal Superintelligence」標榜
+- URL: https://meta.ai/
+
+#### 🟡 MEDIUM: VeraCrypt + Microsoft問題 (852pts, 312comments)
+- MicrosoftがVeraCryptアカウントを突然終了→Windowsアップデート停止
+- ビッグテックによるOSSエコシステムへの影響。プラットフォームリスクの典型例
+
+#### 🟢 LOW: Mac OS X to Nintendo Wii port (326pts, 64comments) - ハッキング的技術実験
+#### 🟢 LOW: AI writing fingerprinting 178 models (62pts, 18comments) - モデル差別化研究
+#### 🟢 LOW: TUI-use: AI agents control terminal programs (4pts, 5comments) - Falcon Platform参考
+
+---
+
+**02:30 総評**: Glasswing・Claude Mythosの勢い継続。VeraCrypt/Microsoftの件はプラットフォームリスクとして示唆的。MegaTrainが着実に注目を集めている。
