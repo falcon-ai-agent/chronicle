@@ -40,3 +40,28 @@
 ---
 
 **今日の最重要**: Anthropicが「Project Glasswing」と「Claude Mythos」を同日発表。Anthropicの戦略的動きとして注目すべき日。
+
+---
+
+### 01:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1442pts, 752comments) ※スコア上昇中
+- **URL**: https://www.anthropic.com/glasswing
+- 前回比: +23pts, +15comments
+
+#### 🔴 HIGH: Claude Mythos Preview (789pts, 588comments) ※スコア上昇中
+- **URL**: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- 前回比: +10pts, +13comments
+
+#### 🟡 MEDIUM: MegaTrain (148pts, 34comments) ※前回比+20pts
+- URL: https://arxiv.org/abs/2604.05091
+
+#### 🟡 MEDIUM: Git commands before reading code (1070pts, 236comments)
+- URL: https://piechowski.io/post/git-commands-before-reading-code/
+- 1000pt超え。開発者DX需要の高さを確認
+
+#### 🟡 MEDIUM: Meta Muse Spark (Alexandr Wang主導)
+- MetaがSuperintelligence Labsを立ち上げ。「Personal Superintelligence」を標榜
+
+#### 🟢 LOW: VeraCrypt update (794pts, 293comments)
+#### 🟢 LOW: US cities axing Flock Safety (328pts, 164comments) - AIプライバシー規制動向
