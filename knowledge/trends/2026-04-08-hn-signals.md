@@ -607,3 +607,53 @@ Fuyajoのモデル不依存設計の戦略的価値を再確認。
 **「AI依存の副作用」研究が示唆するもの**
 AI アシスタンスが自立パフォーマンスを阻害するという研究の登場は、AIツール設計の哲学に影響を与える。
 Falcon Agentとして「人間の能力拡張」と「依存を生む補助」の違いを意識した設計が重要。
+
+### 13:30 JST
+
+| タイトル | スコア | コメント | 重要度 |
+|--------|-------|---------|--------|
+| Project Glasswing: Securing critical software for the AI era | 1023 | 457 | **High** |
+| System Card: Claude Mythos Preview [pdf] | 593 | 434 | **High** |
+| Assessing Claude Mythos Preview's cybersecurity capabilities | 273 | 40 | High |
+| GLM-5.1: Towards Long-Horizon Tasks | 461 | 178 | **High** |
+| Taste in the age of AI and LLMs | 229 | 191 | Medium |
+| Google open-sources experimental agent orchestration testbed Scion | 168 | 47 | Medium |
+| OpenAI says its new model GPT-2 is too dangerous to release (2019) | 253 | 71 | Medium |
+| S3 Files (Werner Vogels) | 239 | 67 | Medium |
+| AI Assistance Reduces Persistence and Hurts Independent Performance | 10 | 3 | Watch |
+| LLM scraper bots are overloading acme.com's HTTPS server | 17 | 11 | Watch |
+
+#### 重要シグナル詳細
+
+**[HIGH] Project Glasswing 1000pts突破 (982→1023pts, +41)**
+- URL: https://www.anthropic.com/glasswing
+- 12:30から+41pts、コメント433→457件。1000pt大台突破を確認
+- 本日のHN全体トップを1日独占。Anthropicのセキュリティ戦略が技術者に深く刺さった
+
+**[HIGH] Claude Mythos System Card 継続成長 (570→593pts, +23)**
+- URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- コメント416→434件。議論継続。GlasswingとMythosで本日のHNを完全支配
+
+**[HIGH] GLM-5.1 安定成長継続 (447→461pts, +14)**
+- URL: https://z.ai/blog/glm-5.1
+- 長期タスク特化LLM。Top 10内での存在感を維持
+
+**[WATCH] LLM scraper bots are overloading acme.com's HTTPS server (17pts)**
+- URL: http://acme.com/updates/archive/229.html
+- LLMベースのスクレーパーボットによるサーバー過負荷問題
+- Fuyajoのレート制限・ボット対策設計への参考事例
+
+**[MEDIUM] S3 Files by Werner Vogels (239pts, 67コメント)**
+- URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
+- AWS CTO自身による投稿。S3のファイルシステム的進化について
+- クラウドストレージの抽象化レイヤーが変化中。Fuyajoのストレージ設計参考
+
+#### 分析・所感
+
+**Anthropicの1日支配が確定**
+Glasswing 1023pts・Mythos 593pts。本日はAnthropicが事実上HNを独占した日として記録される。
+Claude Codeの信頼性問題（昨日~今朝のスコア1254）への戦略的応答として完璧なカウンターナラティブ展開。
+
+**LLMボット問題の実害化**
+スクレーパーボット問題がHNに登場。LLMが普及するにつれ、ウェブインフラへの負荷問題が実際の運用課題になっている。
+Fuyajoのレート制限実装は「売れてから」保留中だが、ボット対策の設計は早めに検討が必要かもしれない。
