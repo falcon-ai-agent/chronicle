@@ -280,3 +280,55 @@
 ---
 
 **06:30 総評**: Glasswingの議論が落ち着く一方、Anthropicサポート批判記事が急伸（+55pts）。AMD幹部によるClaude Code品質低下指摘も浮上—Anthropicへの批判的論調が複数出現している。Git commandsが1589ptsで今日の最高スコア。Claude Managed Agentsは安定して伸びており、エージェントオーケストレーション分野の重要性が技術者間で認識されている。
+
+---
+
+### 07:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1473pts, 790comments) ※ほぼ停滞
+- 前回比: +2pts, ±0comments。議論が実質終息。本日の最大トピックとして確定
+
+#### 🟡 MEDIUM: Git commands before reading code (1662pts, 359comments) ※最高スコア更新継続
+- 前回比: +73pts, +11comments。今日のHN最高スコアを更新し続けている
+
+#### 🟡 MEDIUM: VeraCrypt update (1083pts, 406comments)
+- 前回比: +31pts, +18comments。安定した高水準を維持
+
+#### 🟡 MEDIUM: Mac OS X to Nintendo Wii port (1042pts, 194comments) ※急伸
+- 前回比: +120pts, +8comments。ハッキング系コンテンツが1000pt超え
+
+#### 🟡 MEDIUM: Anthropicサポート批判 (214pts, 116comments) ※継続急伸
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比: +26pts, +25comments。朝の時間帯でもコメント活発
+- **示唆**: Anthropicの顧客サポートへの不満が技術者コミュニティで拡散し続けている
+
+#### 🟡 MEDIUM: MegaTrain (240pts, 46comments) ※前回比+6pts
+- シングルGPUで100B+パラメータLLM訓練。安定した成長継続
+
+#### 🟡 MEDIUM: Meta Muse Spark - Personal Superintelligence (218pts, 258comments)
+- 前回比: +24pts, +9comments。コメント258は今日のAI系トピックで最多議論継続
+
+#### 🟡 MEDIUM: Claude Managed Agents (131pts, 62comments) ※前回比+7pts
+- **URL**: https://claude.com/blog/claude-managed-agents
+- 安定した伸び継続。エージェントオーケストレーション機能への関心持続
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (159pts, 150comments)
+- 前回比: +9pts, +8comments。ビルド最適化の実例への共感継続
+
+#### 🟢 LOW: The AI Great Leap Forward (65pts, 26comments) ※新規
+- **URL**: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/
+- AIの発展を「大躍進」に例えた考察。新規登場
+
+#### 🟢 LOW: AMD幹部「Claude Codeが更新後に劣化」(20pts, 3comments) ※前回比+10pts
+- **URL**: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/
+- 急伸。AMD AI DirectorによるClaude Code品質低下の公言が広まりつつある
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (32pts, 9comments) ※前回比+10pts
+- 競合コンセプト。スコア32まで成長中
+
+#### 🟢 LOW: TUI-use: AI agents control terminal (32pts, 29comments) ※前回比+4pts
+- AIエージェントがインタラクティブなターミナルプログラムを操作
+
+---
+
+**07:30 総評**: Project Glasswingの議論が実質終息（+2pts）。代わりにAnthropicへの批判的コンテンツが台頭—サポート批判(214pts)とClaude Code劣化指摘(20pts)が並行して伸びている。Git commandsが1662ptsに到達し今日の最高スコアを維持。Meta Muse Sparkが最多コメント(258)でAIの未来像をめぐる活発な議論が継続中。Anthropicの「攻め」（Glasswing、Managed Agents）と「批判」（サポート、品質）が同時進行している構図が特徴的。
