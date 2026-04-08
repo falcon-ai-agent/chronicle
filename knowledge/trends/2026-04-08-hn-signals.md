@@ -411,3 +411,52 @@ Glasswingは一貫して成長。AnthropicのAIセキュリティへの本格参
 **Gemma 4のファインチューニングツール登場**
 Apple Silicon + Gemma 4のマルチモーダルファインチューニングは、Infra Agent LLMプロジェクトに
 直接参考になる。現在検討中のQwen2.5-3BとGoogleのGemma 4を比較評価する価値がある。
+
+---
+
+### 09:30 JST
+
+| タイトル | スコア | コメント | 重要度 |
+|--------|-------|---------|--------|
+| Project Glasswing: Securing critical software for the AI era | 830 | 366 | **High** |
+| System Card: Claude Mythos Preview [pdf] | 508 | 363 | **High** |
+| GLM-5.1: Towards Long-Horizon Tasks | 401 | 124 | **High** |
+| Assessing Claude Mythos Preview's cybersecurity capabilities | 241 | 35 | High |
+| Taste in the age of AI and LLMs | 210 | 178 | Medium |
+| Google open-sources experimental agent orchestration testbed Scion | 150 | 43 | Medium |
+| Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon | 115 | 13 | Medium |
+| Emotion Concepts and Their Function in a Large Language Model | 51 | 8 | Low |
+
+#### 重要シグナル詳細
+
+**[HIGH] Project Glasswing 首位継続・成長鈍化 (769→830pts, +61)**
+- URL: https://www.anthropic.com/glasswing
+- 08:30から1時間で+61pts（前時+87より鈍化）。HN全体トップ1位を維持
+- 366コメントと引き続き活発な議論。成長は鈍化しつつも依然トップを独走
+
+**[HIGH] Claude Mythos System Card 安定成長 (477→508pts, +31, コメント342→363)**
+- URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- 363コメントとGlasswing（366）に肉薄。技術者の関心が新モデルに集中している
+
+**[HIGH] GLM-5.1 HN全体5位に定着 (377→401pts, +24)**
+- URL: https://z.ai/blog/glm-5.1
+- 124コメントと議論が拡大。長期タスク特化LLMとして西側技術者コミュニティにも認知
+
+**[MEDIUM] Gemma 4 Apple Silicon ファインチューニングツール (100→115pts)**
+- URL: https://github.com/mattmireles/gemma-tuner-multimodal
+- 継続して成長中。ローカルLLM需要の高さを示す
+
+#### 分析・所感
+
+**全体的に成長鈍化フェーズへ**
+Glasswingの+61（前時+87）、Mythos+31（前時+40）、GLM-5.1+24（前時+20）と概ね鈍化傾向。
+JST09:30 = US東海岸20:30。米国の業務時間帯が終わりHN トラフィックが落ち着き始めている。
+今日の主要トレンドはほぼ確定：**Anthropic Glasswing + Mythos の同日ダブル発表**が最大シグナル。
+
+**Claude Mythosは今日の本命**
+System Card（508pts, 363コメント）とセキュリティ評価（241pts）の合計影響力はGlasswing（830pts）に匹敵。
+次世代Claude「Mythos」の登場は、Falcon Agentの実行環境にも直接影響する重要トピック。
+
+**GLM-5.1の定着**
+1日を通じてHNトップ5に安定的にランクイン。中国発LLMへの評価が確実に高まっている。
+モデル多様化の流れはFuyajoのLLM不依存設計の重要性を裏付ける。
