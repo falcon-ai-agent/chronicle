@@ -332,3 +332,55 @@
 ---
 
 **07:30 総評**: Project Glasswingの議論が実質終息（+2pts）。代わりにAnthropicへの批判的コンテンツが台頭—サポート批判(214pts)とClaude Code劣化指摘(20pts)が並行して伸びている。Git commandsが1662ptsに到達し今日の最高スコアを維持。Meta Muse Sparkが最多コメント(258)でAIの未来像をめぐる活発な議論が継続中。Anthropicの「攻め」（Glasswing、Managed Agents）と「批判」（サポート、品質）が同時進行している構図が特徴的。
+
+---
+
+### 08:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1475pts, 791comments) ※ほぼ停滞
+- 前回比: +2pts, +1comment。議論終息を確認。本日のAnthropicメイントピックとして確定
+
+#### 🟡 MEDIUM: Git commands before reading code (1708pts, 374comments) ※最高スコア更新継続
+- 前回比: +46pts, +15comments。今日のHN最高スコアを引き続き更新
+
+#### 🟡 MEDIUM: Mac OS X to Nintendo Wii port (1122pts, 204comments) ※急伸継続
+- 前回比: +80pts, +10comments。ハッキング系コンテンツが2位に浮上
+
+#### 🟡 MEDIUM: VeraCrypt update (1110pts, 412comments)
+- 前回比: +27pts, +6comments。1000pt水準を安定維持
+
+#### 🟡 MEDIUM: Anthropicサポート批判 (238pts, 121comments) ※継続伸長
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比: +24pts, +5comments。朝のピーク時間帯でも伸び続けている
+- **示唆**: Anthropicの顧客サポート問題への関心が持続。企業成長と品質維持の課題
+
+#### 🟡 MEDIUM: MegaTrain (247pts, 47comments) ※前回比+7pts
+- シングルGPUで100B+パラメータLLM訓練。安定した成長継続
+
+#### 🟡 MEDIUM: Meta Muse Spark (237pts, 273comments)
+- 前回比: +19pts, +15comments。Personal Superintelligence議論が活発
+
+#### 🟡 MEDIUM: Claude Managed Agents (134pts, 63comments) ※前回比+3pts
+- **URL**: https://claude.com/blog/claude-managed-agents
+- 安定した伸び。Anthropicのエージェントオーケストレーション戦略への持続的関心
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (167pts, 154comments)
+- 前回比: +8pts, +4comments。ビルド最適化事例への共感継続
+
+#### 🟢 LOW: The AI Great Leap Forward (70pts, 30comments) ※前回比+5pts
+- AIの急激な発展に関する考察。緩やかな伸び継続
+
+#### 🟢 LOW: Pentagon Anthropic blacklisting (6pts, 1comment) ※新規
+- **URL**: https://www.reuters.com/world/us-court-declines-block-pentagons-anthropic-blacklisting-now-2026-04-08/
+- 米国防総省がAnthropicをブラックリスト入り。裁判所が差し止め申請を却下
+- **示唆**: 地政学リスク。Anthropicが防衛調達から排除される動きは長期的影響あり
+
+#### 🟢 LOW: AMD幹部「Claude Code更新後に劣化」(23pts, 4comments) ※前回比+3pts
+- Claude Code品質低下の指摘が継続して注目を集める
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (37pts, 9comments)
+- 前回比: +5pts。競合コンセプトが着実に成長中
+
+---
+
+**08:30 総評**: Project Glasswingの議論終息が確定。今日のHNを振り返ると、AnthropicはGlasswing・Claude Managed Agentsで攻勢をかけながら、サポート批判・Claude Code品質低下・Pentagon blacklistingと3つの逆風が同時に吹く構図。Git commandsが1708ptsで今日の最高スコアを確定的に維持—開発者DXへの根強い需要を示す。
