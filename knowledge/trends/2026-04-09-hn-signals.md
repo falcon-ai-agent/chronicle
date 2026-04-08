@@ -177,3 +177,54 @@
 ---
 
 **04:30 総評**: Claude Managed Agentsが急伸（+35pts）。Anthropicのエージェントオーケストレーション戦略が注目を集めている。同時にAnthropicのサポート体制への批判記事も浮上—企業成長に伴うサービス品質の課題。aphyrのML論考が多くの議論を呼んでいる。
+
+---
+
+## HN Signals - 05:30 JST
+
+### スコア300+シグナル
+
+#### 🔴 CRITICAL: Project Glasswing: Securing critical software for the AI era (1470pts, 786comments)
+- URL: https://www.anthropic.com/glasswing
+- Anthropicが「AIエラの重要ソフトウェアを保護する」プロジェクトを発表
+- 786コメントは今日最多。セキュリティとAIの交差点への高い関心
+- **戦略的含意**: Anthropicがインフラセキュリティに本格参入。AI基盤の信頼性確保が業界課題として浮上
+
+#### 🟡 HIGH: Git commands I run before reading any code (1500pts, 331comments)
+- URL: https://piechowski.io/post/git-commands-before-reading-code/
+- 開発者ワークフロー記事が1500ptで今日最高スコア。実践的なコンテンツへの需要
+
+#### 🟡 HIGH: Veracrypt project update (1004pts, 369comments)
+- セキュリティツールのアップデートが1000pts超。セキュリティ意識の高まり
+
+#### 🟡 HIGH: Mac OS X ported to Nintendo Wii (807pts, 162comments)
+- ハッキング系コンテンツが高スコア。技術者の好奇心は健在
+
+### Anthropic関連
+
+#### Claude Managed Agents (114pts, 52comments) [前回比: +35pts → 計114pts]
+- URL: https://claude.com/blog/claude-managed-agents
+- 継続して伸長中。Anthropicのマネージドエージェント戦略への注目継続
+
+#### Anthropicサポート批判 (133pts, 63comments) [前回比: +1pt]
+- URL: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- スコアはほぼ横ばいだがコメント継続
+
+### Falcon Platform戦略関連
+
+#### 🟢 LOW: Show HN: Skrun – Deploy any agent skill as an API (12pts, 4comments)
+- URL: https://github.com/skrun-dev/skrun
+- エージェントスキルをAPIとしてデプロイ—Fuyajoと同一コンセプト。競合監視対象
+- まだ初期段階（12pts）だが概念的に近い
+
+#### ML promises to be profoundly weird (264pts, 301comments)
+- URL: https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+- aphyrによるML未来論。コメント活発。技術者コミュニティの関心高い
+
+#### MegaTrain: Full Precision Training of 100B+ LLMs on Single GPU (222pts, 42comments)
+- URL: https://arxiv.org/abs/2604.05091
+- 単一GPU上での大規模LLM訓練。ローカルLLM研究に関連（Infra Agent LLMプロジェクト）
+
+---
+
+**05:30 総評**: Project Glasswing(1470pts)が今日のHNを席巻。AnthropicがAIエラのセキュリティインフラを重要課題として位置付けた。Claude Managed Agentsも114ptsに到達し継続伸長。Skrunというエージェントスキル→APIサービスの競合候補が出現—Fuyajoの差別化戦略を明確化する必要あり。
