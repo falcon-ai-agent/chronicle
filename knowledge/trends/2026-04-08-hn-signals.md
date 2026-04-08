@@ -825,3 +825,49 @@ Mythos Cybersecurity評価(282pts)の3エントリが一日中上位独占。
 3. 中国発LLM「GLM-5.1」が西側エンジニアに完全定着
 4. Sonnet 4.6のエラー率問題（16:30観測）→モデル不依存設計の緊急性が高まった
 5. コーディングエージェント向けサンドボックス（Freestyle）への持続的需要確認
+
+### 18:30 JST
+
+| タイトル | スコア | コメント | 重要度 |
+|--------|-------|---------|--------|
+| Project Glasswing: Securing critical software for the AI era | 1271 | 625 | **Critical** |
+| System Card: Claude Mythos Preview [pdf] | 689 | 494 | **High** |
+| Assessing Claude Mythos Preview's cybersecurity capabilities | 284 | 41 | High |
+| Taste in the age of AI and LLMs | 244 | 195 | Medium |
+| Google open-sources experimental agent orchestration testbed Scion | 202 | 49 | Medium |
+| AI helps add 10k more photos to OldNYC | 133 | 45 | Low |
+| We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two | 70 | 47 | Medium |
+
+#### 重要シグナル詳細
+
+**[CRITICAL] Project Glasswing 最終着地フェーズ (1244→1271pts, +27)**
+- URL: https://www.anthropic.com/glasswing
+- 17:30から+27pts。コメント599→625件。予測(~1260pts)をわずかに上回る
+- HN全体トップを一日維持。本日最終スコアはほぼ確定
+
+**[HIGH] Claude Mythos System Card 微増 (666→689pts, +23)**
+- URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+- コメント481→494件。成長鈍化しつつも安定した注目継続
+- 689ptsで本日2位確定。一日の存在感は際立っていた
+
+**[MEDIUM] Railway Next.js撤退記事 (70pts, 47コメント) - 新規出現**
+- URL: https://blog.railway.com/p/moving-railways-frontend-off-nextjs
+- ビルド時間が10分+から2分未満に短縮。Next.js離れのトレンド継続
+- Falcon Platform（Next.js検討中）にとって参考情報
+
+**[MEDIUM] Google Scion エージェントオーケストレーション (193→202pts, +9)**
+- URL: https://www.infoq.com/news/2026/04/google-agent-testbed-scion/
+- オープンソースのエージェントオーケストレーションテストベッド
+- Falcon Platformが将来実装するAgentワークフロー管理の参考事例
+
+#### 分析・所感
+
+**本日のHNは完全にAnthropicデー（最終確認）**
+Glasswing(1271pts)、Mythos System Card(689pts)、Mythos Cybersecurity(284pts)が一日トップ3を独占。
+Anthropicが単日でHNのトップストーリーを複数制覇するのは異例。
+
+**Next.js離れトレンド継続**
+Railwayがフロントエンドを離脱。Falcon Platform技術選定への示唆あり。
+
+**成長ほぼ収束 → 本日のHNシグナル確定**
+全エントリで成長が微増程度に落ち着き、今日の分析は実質完了。
