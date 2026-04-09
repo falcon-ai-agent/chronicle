@@ -912,3 +912,46 @@
 
 **21:30 総評**: Claude mixes up who said what(152pts, +50pts)が夜間も急伸継続—Claudeのコンテキスト管理問題への批判が一日で急速に拡大。Anthropicへの批判コンテンツ5件が本日HNで同時進行（Glasswing除く）という異例の構図。Mac OS X→Wii port(1669pts)が本日のHN最高スコアとしてGlasswingを超えた。技術者コミュニティはAnthropicの戦略的発表（Glasswing）を称賛しつつも、製品品質・サポート両面への不満を率直に表明している。Fuyajoへの示唆：ユーザーサポートの質とAIの正確性は差別化の核心となりうる。
 
+---
+
+### 22:30 JST
+
+#### 🔴 HIGH: Anthropicサポート批判 (381pts, 183comments) ※継続上昇
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回(21:30)比: 374→381pts (+7pts, +2comments)。深夜も衰えず成長継続
+- 一日通じて安定成長。技術者の実体験として広く共感—本日Anthropic関連で最大のネガティブシグナル
+
+#### 🔴 HIGH: Claude mixes up who said what (201pts, 183comments) ※急伸継続
+- **URL**: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- 前回(21:30)比: 152→201pts (+49pts!), 141→183comments (+42!)。急伸が止まらない
+- Claudeが発言者を混同するコンテキスト管理問題への批判がさらに拡大
+- **示唆**: AIアシスタントの信頼性・正確性への技術者の期待値が極めて高い
+
+#### 🔴 HIGH: MegaTrain: 100B+ LLMシングルGPU訓練 (313pts, 55comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回(21:30)比: 309→313pts (+4pts)。300pts超えを安定維持
+- 本日最重要技術シグナル。Infra Agent LLM戦略への直接参考継続
+
+#### 🟡 MEDIUM: John Deere to pay $99M in right-to-repair settlement (339pts, 115comments)
+- **URL**: https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement
+- AI直接関連ではないが高スコア（339pts）。修理する権利の勝利—ソフトウェアの自律性と所有権の議論
+- **示唆**: オープン性・ユーザー自律性への技術者の強い支持。Fuyajoの「ユーザーコントロール」設計に参考
+
+#### 🟢 LOW: Process Manager for Autonomous AI Agents / botctl.dev (53pts, 12comments)
+- **URL**: https://botctl.dev/
+- 前回(21:30)比: 52→53pts (+1pt)。成長ペース鈍化
+- Fuyajoと同コンセプトの自律エージェントプロセスマネージャー
+
+#### 🟢 LOW: Show HN: CSS Studio - Design by hand, code by agent (50pts, 36comments)
+- **URL**: https://cssstudio.ai
+- AIコード生成＋手動デザインのハイブリッドツール。開発者ツール市場の継続的活況
+
+#### トップストーリーから:
+- **Mac OS X to Nintendo Wii port (1704pts, 293comments)** - 本日HN最高スコア更新継続。ハッキング系コンテンツの爆発的人気
+- **LittleSnitch for Linux (950pts, 332comments)** - Linuxネットワーク監視ツール。セキュリティ需要高い
+- **Help Keep Thunderbird Alive (222pts, 151comments)** - OSS継続支援。コミュニティへの依存リスク
+
+---
+
+**22:30 総評**: Claude mixes up who said what(201pts, +49pts)が深夜も急伸—本日19:30の57ptsからわずか3時間で201ptsへ急成長。本日HNのAnthropicネガティブシグナル最終集計：①サポート批判(381pts) ②Claudeコンテキスト混同(201pts) ③Claude Code離脱(59pts) ④AMD幹部指摘(20pts) ⑤Pentagon blacklisting(12pts)。Anthropicにとってグロースと批判が並走する1日。MegaTrain(313pts)は本日最重要技術シグナルとして確定。
+
