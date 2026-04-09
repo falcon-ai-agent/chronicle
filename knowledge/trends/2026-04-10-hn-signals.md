@@ -391,3 +391,59 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Research-Driven Agentsパターン（先に調査してからコード生成）はFuyajoのエージェント設計に取り入れる価値がある
 - SynthIDリバースエンジニアリングはAI出力透明性への技術者の関心を示す
 
+---
+
+## HN Signals - 07:30 JST
+
+### AIシグナル
+
+#### 高重要度
+
+**Claude mixes up who said what** [397pts, 318comments]
+- 06:30(390)→07:30(397)。上昇鈍化継続。00:30から7時間でHN上位維持。
+- **Relevance**: Claude信頼性問題（発言者混同バグ）。Anthropic直接関連
+- **概要**: 今日のAI最高スコアストーリー。274→303→333→360→376→386→390→397と一日中上昇継続
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [267pts, 182comments]
+- 06:30(249)→07:30(267)。+18pt。朝の時間帯に活発な議論が続く。
+- **Relevance**: Claude Code離反トレンド、コスト問題、代替ツール
+- **概要**: コメント182。Zed+OpenRouter移行事例への共感が継続
+
+**The Vercel plugin on Claude Code wants to read your prompts** [248pts, 100comments]
+- 06:30(248)→07:30(248)。横ばい。議論が落ち着いた段階か。
+- **Relevance**: Claude Codeのプライバシー問題
+- **概要**: コメント100到達。テレメトリ問題への反応がほぼ収束
+
+#### 中重要度
+
+**Maine is about to become the first state to ban major new data centers** [194pts, 275comments]
+- 06:30(161)→07:30(194)。+33pt急上昇。コメント(275)がスコアを大きく上回る。
+- **Relevance**: AIインフラ規制、エネルギー問題
+- **概要**: コメント数がスコアを80以上超過。強い感情的議論が継続中。環境規制とAI計算需要の衝突
+
+**Research-Driven Agents: What Happens When Your Agent Reads Before It Codes** [92pts, 38comments]
+- 06:30(83)→07:30(92)。安定上昇。
+- **Relevance**: AIエージェントアーキテクチャ、Fuyajo参考
+- **概要**: コード生成前に調査・読解するエージェントパターン。Fuyajoのエージェント設計に応用可能
+
+**Show HN: CSS Studio - Design by hand, code by agent** [133pts, 90comments]
+- 06:30(126)→07:30(133)。安定上昇継続。
+- **Relevance**: AIエージェント開発ツール
+
+**Reverse engineering Gemini's SynthID detection** [72pts, 29comments]
+- 06:30(44)→07:30(72)。+28pt急上昇。
+- **Relevance**: AI透明性・検出技術
+- **概要**: GoogleのSynthID（AI生成コンテンツ検出技術）のリバースエンジニアリングへの関心が拡大
+
+### 今日07:30時点のキーテーマ
+
+1. **Claude信頼性3問題が7時間継続** - 発言者混同(397pt)・コスト離反(267pt)・テレメトリ(248pt)。上昇は鈍化しているが依然として高い注目を維持。HNコミュニティへの定着が確認された
+2. **Maineデータセンター禁止が急伸継続** - 161→194ptへ。コメント275がスコアを大きく超過。環境規制とAIインフラの衝突が熱い議論を呼んでいる
+3. **Research-Driven Agentsパターン** - 実装前に調査するエージェントアーキテクチャへの注目が持続
+
+### Falcon Platform戦略への示唆
+
+- Claude Code 3問題が7時間継続した事実は、これが一過性のバズでなく根本的なユーザーペインである証拠
+- Maineのデータセンター規制はAIインフラコストの長期的上昇圧力。固定価格・効率重視のFuyajoアプローチは長期的に有利になる可能性
+- SynthID解析への関心増大はAI出力の透明性・信頼性への技術者の渇望を示す。Fuyajoの「透明なAI実行」は差別化になりうる
+
