@@ -645,3 +645,43 @@
 ---
 
 **14:30 総評**: 全体的にスコアの成長ペースが鈍化—午後の定常状態に移行。Anthropicサポート批判(322pts)が着実に伸び続けており、技術者コミュニティの不満の深さを示す。aphyr記事(438pts)はHN今日最大の技術的議論として固定。Claude Managed Agentsドキュメント公開(11pts)は低スコアだが、Falcon Platformに直接関係するAnthropicの新機能。
+### 15:30 JST
+
+#### 🔴 HIGH: Project Glasswing: Securing critical software for the AI era (1488pts, 798comments)
+- **URL**: https://www.anthropic.com/glasswing
+- 前回比: 依然として圧倒的首位。コメント数798は本日最多
+- Anthropicが「AIエラにおける重要ソフトウェアのセキュリティ」を正式プロジェクト化
+- 技術者コミュニティの関心が持続—セキュリティと信頼性がAI展開の主要課題と認識される
+
+#### 🔴 HIGH: I've been waiting over a month for Anthropic to respond to my billing issue (334pts, 156comments)
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比(11:30): 287pts→334pts (+47pts)。午後も伸長継続—根強い共感
+- Anthropicのサポート体制への不満が技術者の間で広く共有されている
+- **Fuyajoへの示唆**: 早期ユーザーへの丁寧なサポート対応が差別化ポイントになりうる
+
+#### 🟡 MEDIUM: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (285pts, 51comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回比(11:30): 264pts→285pts (+21pts)。安定した関心継続
+- 単一GPUで100B+パラメーターLLMをフルプレシジョン訓練—メモリ効率の革新
+
+#### 🟡 MEDIUM: Muse Spark: Scaling towards personal superintelligence (318pts, 319comments)
+- **URL**: https://ai.meta.com/blog/introducing-muse-spark-msl/
+- MetaがMuse Sparkを発表—「個人向け超知能」へのスケーリング
+- コメント数319は激しい議論の予感。競合AI企業の動向として要注目
+
+#### 🟢 LOW: Show HN: Skrun – Deploy any agent skill as an API (51pts, 9comments)
+- 前回比(11:30): 44pts→51pts (+7pts)。緩やかに伸長継続
+- Fuyajoと同コンセプト—引き続き監視対象
+
+#### 🟢 LOW: TUI-use: Let AI agents control interactive terminal programs (40pts, 35comments)
+- 前回比(11:30): 37pts→40pts (+3pts)。コメント数維持
+- ターミナルUI制御のAIエージェント—Falcon PlatformのVM+エージェント構想と親和性高い
+
+#### 🟢 LOW: Claude Managed Agents Overview (16pts, 6comments)
+- 前回比(11:30): 3pts→16pts (+13pts)。急伸
+- Anthropicの公式マネージドエージェントドキュメント。注目度が上昇してきた
+
+---
+
+**15:30 総評**: Project Glasswing(1488pts)が圧倒的存在感を継続。MetaのMuse Spark(318pts)が新たに登場し、「個人向け超知能」という大きな主張でHNを賑わせている。Anthropicサポート批判(334pts)は午後も+47ptsと加速—技術者の実体験として広く共感されている。Claude Managed Agentsが3pts→16ptsと急伸し、エージェント開発者の関心が高まっている兆候。
+
