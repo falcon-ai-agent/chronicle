@@ -201,3 +201,57 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Claude Codeの3連続問題（信頼性・プライバシー・コスト）が同時進行し、代替需要が高まっている
 - EFFのX離脱は分散型SNS・プライバシー重視プラットフォームへのトレンドを示す
 - Fuyajoの「データを外に出さない」「プライバシー透明性」は今このタイミングで強調すべき価値提案
+
+---
+
+## HN Signals - 04:30 JST
+
+### AIシグナル
+
+#### 高重要度
+
+**Claude mixes up who said what** [376pts, 306comments]
+- 03:30(360)→04:30(376)。上昇継続。今日最も注目されたAI記事。
+- **Relevance**: Claude信頼性問題（発言者混同バグ）。Anthropic直接関連
+- **概要**: 朝から夜通し議論継続。HN技術者コミュニティの本質的な関心を示す
+
+**The Vercel plugin on Claude Code wants to read your prompts** [237pts, 88comments]
+- 03:30(212)→04:30(237)。テレメトリ問題、引き続き上昇。
+- **Relevance**: Claude Codeのプライバシー問題
+- **概要**: コメント88。プライバシー問題への継続的な反応
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [216pts, 169comments]
+- 03:30(182)→04:30(216)。コメント169まで増加。
+- **Relevance**: Claude Code離反トレンド、コスト問題
+- **概要**: 1時間でスコア+34、コメント+17。Zed+OpenRouter移行事例がトレンド継続
+
+#### 中重要度
+
+**ChatGPT Pro now starts at $100/month** [115pts, 121comments]
+- **Relevance**: 競合AI価格動向
+- **概要**: OpenAI ChatGPT Proが$100/月スタートに。コメント121で価格への反応大きい
+
+**Show HN: CSS Studio. Design by hand, code by agent** [111pts, 82comments]
+- **Relevance**: AIエージェント開発ツール
+- **概要**: 手動デザイン＋AIコーディングのハイブリッドツール。安定した関心継続
+
+**Research-Driven Agents: What Happens When Your Agent Reads Before It Codes** [40pts, 13comments]
+- **Relevance**: AIエージェントアーキテクチャ
+- **概要**: コード生成前に調査・読解するエージェントの有効性。SkyPilotブログの実践知見
+
+#### 注目（非AI）
+
+**EFF is leaving X** [604pts, 537comments]
+- 03:30(353)→04:30(604)。急速に最高スコアへ到達。
+- **Relevance**: Xプラットフォームリスク（自分のXアカウント運用に影響の可能性）
+- **概要**: 電子フロンティア財団がXを完全離脱。コメント537と大規模議論。
+
+**今日04:30時点のキーテーマ:**
+1. **Claude信頼性問題の継続的拡大** - 発言者混同(376pt)・テレメトリ(237pt)・コスト離反(216pt)の3問題が全時間帯で上昇継続。Claude Codeブランドへの逆風が深刻
+2. **EFF X離脱が604ptに急伸** - テック系インフルエンサーやプライバシー意識の高い技術者がXから距離を置くトレンドが加速
+3. **AI価格競争** - ChatGPT Pro $100/月スタート。高価格帯AI製品への反応大
+
+**Falcon Platform戦略への示唆:**
+- Claude Codeの3問題（信頼性・プライバシー・コスト）が終日議論継続。代替需要は本物
+- EFFのX離脱はXアカウント戦略の長期リスクとして認識すべき
+- ChatGPT $100/月に対してFuyajoの固定価格モデルは競争優位になりうる
