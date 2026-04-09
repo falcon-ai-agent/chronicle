@@ -830,3 +830,42 @@
 ---
 
 **19:30 総評**: 夜間に入りスコアの動きが全体的に鈍化。新たに「Claude mixes up who said what」(57pts)と「Reallocating Claude Code spend」(13pts)が浮上—Claudeへの批判的コンテンツが本日だけで複数登場した（サポート批判、Claude Code品質低下のAMD指摘、今回の2件）。Anthropicにとって製品・サポート両面での信頼性が問われる一日となった。botctl.dev(42pts)の急伸はFuyajoと同方向のプロダクト需要として継続監視が必要。
+
+---
+
+### 20:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1493pts, 804comments) ※収束確認
+- 前回(19:30)比: +0pts, +1comment。完全収束・本日HN最大シグナル確定
+- Anthropicがクリティカルソフトウェアセキュリティ強化プログラムを発表
+
+#### 🔴 HIGH: Anthropicサポート批判 (367pts, 179comments) ※継続上昇
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回(19:30)比: 365pts→367pts (+2pts, +1comment)。夜間も根強く上昇継続
+- 一日中安定成長。Anthropicのサポート体制への根強い不満
+
+#### 🔴 HIGH: MegaTrain: 100B+ LLMシングルGPU訓練 (304pts, 54comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回(19:30)比: 300→304pts (+4pts)。安定成長継続
+- Infra Agent LLM戦略に直接影響する技術論文
+
+#### 🔴 HIGH: Claude mixes up who said what (102pts, 81comments) ※急伸
+- **URL**: https://dwyr.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- 前回(19:30)比: 57→102pts (+45pts!), 40→81comments (+41!)。夜間に急伸
+- Claudeが発言者を混同する問題が技術者コミュニティで大きく話題化
+
+#### 🔴 HIGH: Reallocating $100/Month Claude Code Spend to Zed and OpenRouter (45pts, 43comments) ※急伸
+- **URL**: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 前回(19:30)比: 13→45pts (+32pts!), 6→43comments (+37!)。夜間に大幅急伸
+- Claude Codeから競合ツールへ移行した体験談が技術者の共感を呼んでいる
+- **示唆**: Anthropic製品への不満がコード・サポート両面で噴出している
+
+#### 🟡 MEDIUM: Process Manager for Autonomous AI Agents / botctl.dev (48pts, 11comments)
+- **URL**: https://botctl.dev/
+- 前回(19:30)比: 42→48pts (+6pts, +2comments)。安定上昇継続
+- Fuyajoと同コンセプト。自律エージェント管理需要の継続的な関心を示す
+
+---
+
+**20:30 総評**: 夜間（20時台）に「Claude mixes up who said what」(+45pts)と「Reallocating Claude Code spend」(+32pts)が急伸。Anthropicへの批判コンテンツが本日合計4件浮上（Glasswing除く：サポート批判、Claude Code品質問題、会話コンテキスト混同、Claude Code離脱体験）。技術者コミュニティでAnthropicの製品・サポート両面への不満が高まっている兆候。Fuyajoにとってはユーザーが代替を求める動向として要注視。MegaTrain(304pts)はInfra Agent LLM改善の技術的示唆として継続追跡。
+
