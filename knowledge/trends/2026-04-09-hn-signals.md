@@ -726,3 +726,37 @@
 
 **16:30 総評**: Glasswing(1491pts)・サポート批判(343pts)が今日の最終スコアに向け収束しつつある。新規に「botctl.dev」（自律AIエージェント向けプロセスマネージャー）が登場—Fuyajoの概念に近い。Mac OS X→Wii port(1490pts)が今日のHN第2位まで急伸し、ハッキング文化への根強い需要を示す。
 
+### 17:30 JST
+
+#### 🔴 HIGH: Project Glasswing: Securing critical software for the AI era (1492pts, 802comments)
+- **URL**: https://www.anthropic.com/glasswing
+- 前回比(16:30): 1491pts→1492pts (+1pt)。ほぼ固定—本日HN1位確定
+- 成長ペースは鈍化しているが依然として技術者コミュニティの最大関心事
+
+#### 🔴 HIGH: I've been waiting over a month for Anthropic to respond to my billing issue (354pts, 172comments)
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比(16:30): 343pts→354pts (+11pts)。夕方も継続上昇—根深い問題として認識
+- **Fuyajoへの示唆**: サポート対応の差別化は依然として重要な機会
+
+#### 🟡 MEDIUM: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (298pts, 88comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回比(16:30): 288pts→298pts (+10pts)。コメント急増(51→88)—技術議論が活発化
+
+#### 🟡 MEDIUM: Claude Managed Agents Overview (22pts, 16comments)
+- **URL**: https://platform.claude.com/docs/en/managed-agents/overview
+- 前回比(16:30): 21pts→22pts (+1pt)。Anthropicの公式マネージドエージェント機能が注目継続
+
+#### 🟢 LOW: Process Manager for Autonomous AI Agents (22pts, 4comments)
+- **URL**: https://botctl.dev/
+- 前回比(16:30): 12pts→22pts (+10pts)。急伸—自律AIエージェント管理への関心高まり
+
+#### 🟢 LOW: Show HN: Skrun – Deploy any agent skill as an API (51pts, 9comments)
+- 変化なし—成長停止
+
+#### 🟢 LOW: Show HN: TUI-use: Let AI agents control interactive terminal programs (43pts, 35comments)
+- 前回比(16:30): 42pts→43pts (+1pt)。微増継続
+
+---
+
+**17:30 総評**: 本日の最終確認。Project Glasswing(1492pts, 802コメント)が本日HN最大のシグナルとして確定。Anthropicサポート批判(354pts)は夕方も+11ptsと継続—技術者の長期的不満として記憶すべき。MegaTrain(298pts)はコメントが51→88と急増し技術議論が深化。Process Manager for Autonomous AI Agents(12→22pts)が急伸し、エージェント管理インフラへの関心の高まりを示す。Fuyajoの「エージェント実行基盤」コンセプトは方向性として正しい。
+
