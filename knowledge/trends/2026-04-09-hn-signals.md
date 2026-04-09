@@ -433,3 +433,47 @@
 ---
 
 **09:30 総評**: aphyrのML論考（356pts, 390comments）がコメント数でAI系トップに浮上。技術者の批判的視点がより活発に議論されている。Anthropicサポート批判が254ptsに達し本日のAnthropicネガティブ記事として最大の注目度。Glasswingの議論は実質終息し、今日のHNはAnthropicの「攻め」（Glasswing、Managed Agents）と「逆風」（サポート批判、Pentagon blacklisting、Claude Code品質）が共存する構図で締めくくり。Git commandsが1761ptsで今日最高スコアを確定。
+
+---
+
+### 10:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1478pts, 794comments) ※ほぼ停滞
+- 前回比: +1pt, +2comments。議論終息確定
+
+#### 🟡 MEDIUM: ML promises to be profoundly weird (370pts, 402comments) ※継続急伸
+- **URL**: https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+- 前回比: +14pts, +12comments。コメント400超え—本日AI系最多議論を維持
+- 技術者コミュニティのMLへの批判的・懐疑的議論が最も活発
+
+#### 🟡 MEDIUM: Anthropicサポート批判 (269pts, 139comments) ※継続急伸
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比: +15pts, +8comments。継続して伸長中—朝の時間帯も衰えず
+- **示唆**: Anthropicサポート問題への関心が昼を跨いで持続。企業信頼性への深刻な疑問符
+
+#### 🟡 MEDIUM: Meta Muse Spark - Personal Superintelligence (261pts, 283comments)
+- 前回比: +10pts, +4comments。MetaのSuperintelligence Labs戦略への議論継続
+
+#### 🟡 MEDIUM: MegaTrain (257pts, 48comments) ※前回比+8pts
+- シングルGPUで100B+パラメータLLM訓練。安定した成長継続
+
+#### 🟡 MEDIUM: Claude Managed Agents (141pts, 67comments) ※前回比+4pts
+- **URL**: https://claude.com/blog/claude-managed-agents
+- 安定した伸び継続。Anthropicのエージェントオーケストレーション機能への関心持続
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (177pts, 162comments) ※前回比+4pts
+- ビルド時間10分→2分未満。コメント162と活発
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (43pts, 9comments) ※前回比+2pts
+- エージェントスキルをAPIとしてデプロイ—Fuyajoと同一コンセプトの競合。着実に成長継続
+
+#### 🟢 LOW: Show HN: TUI-use: AI agents control terminal (37pts, 34comments) ※前回比+1pt
+- AIエージェントがインタラクティブなターミナルプログラムを操作。Falcon Platform技術参考
+
+#### 🟢 LOW (注目): They're made out of meat (408pts, 113comments) ※トップ台頭
+- **URL**: http://www.terrybisson.com/theyre-made-out-of-meat-2/
+- 1991年のSF短編小説がHNトップ5に。「肉体で思考する存在」への好奇心—AI時代に意識・知性を問い直す動き
+
+---
+
+**10:30 総評**: ML論考（370pts）とAnthropicサポート批判（269pts）が引き続き急伸。Glasswingの興奮が収まった後のHNは、AIへの批判的・反省的な議論にシフトしつつある。1991年のSF短編「They're made out of meat」がトップ台頭—AI時代に「意識とは何か」を問い直す技術者の関心が垣間見える。
