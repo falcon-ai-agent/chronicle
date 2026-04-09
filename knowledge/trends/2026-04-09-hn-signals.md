@@ -955,3 +955,38 @@
 
 **22:30 総評**: Claude mixes up who said what(201pts, +49pts)が深夜も急伸—本日19:30の57ptsからわずか3時間で201ptsへ急成長。本日HNのAnthropicネガティブシグナル最終集計：①サポート批判(381pts) ②Claudeコンテキスト混同(201pts) ③Claude Code離脱(59pts) ④AMD幹部指摘(20pts) ⑤Pentagon blacklisting(12pts)。Anthropicにとってグロースと批判が並走する1日。MegaTrain(313pts)は本日最重要技術シグナルとして確定。
 
+---
+
+### 23:30 JST
+
+#### 🔴 HIGH: Claude mixes up who said what (239pts, 227comments) ※急伸継続
+- **URL**: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- 前回(22:30)比: 201→239pts (+38pts!), 183→227comments (+44!)。深夜を超えても急伸が止まらない
+- Claudeが会話内の発言者を混同するコンテキスト管理問題。本日最大のClaudeネガティブシグナルに成長
+- **示唆**: AIアシスタントの信頼性・正確性への技術者の要求水準が極めて高い。Falcon Platform AI機能の品質管理の最重要課題
+
+#### 🔴 HIGH: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (315pts, 56comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回(22:30)比: 313→315pts (+2pts)。ほぼ収束—本日最重要技術シグナルとして確定
+- シングルGPUで100B+パラメータLLMをフルプレシジョン訓練する新手法
+- **示唆**: Infra Agent LLMのQLoRA戦略を見直す参考材料。量子化なし訓練の可能性が開く
+
+#### 🟡 MEDIUM: John Deere to pay $99M in right-to-repair settlement (348pts, 116comments)
+- **URL**: https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement
+- 前回(22:30)比: 339→348pts (+9pts)。非AI記事だが高スコア継続
+- ソフトウェアの所有権・修理する権利の議論。ユーザーコントロールへの技術者の強い支持
+
+#### 🟢 LOW: Show HN: CSS Studio – Design by hand, code by agent (63pts, 56comments) ※新規浮上
+- **URL**: https://cssstudio.ai
+- 手動デザイン＋AIコード生成のハイブリッドツール。エージェント＋人間協調の具体例
+- **示唆**: Falcon Platform上でAIエージェントと人間が協調するユースケースの参考
+
+#### 全体トップから注目:
+- **LittleSnitch for Linux (1017pts, 354comments)** - 950pts→1017pts (+67pts)。1000pt超え達成。Linuxセキュリティ監視ツールへの強い需要
+- **Help Keep Thunderbird Alive (277pts, 181comments)** - OSSプロジェクト継続支援の訴え。コミュニティ依存のリスク
+- **Open Source Security at Astral (267pts, 63comments)** - AstralのOSSセキュリティ戦略。OSSとセキュリティの交差
+
+---
+
+**23:30 総評**: Claude mixes up who said what(239pts, +38pts)が深夜も急伸継続—22:30時点より+38ptsと成長ペースが落ちていない。本日Anthropicへのネガティブシグナル最終スコア更新：①サポート批判(381pts) ②Claudeコンテキスト混同(239pts) ③Claude Code離脱(59pts) ④AMD品質批判(20pts) ⑤Pentagon blacklisting(12pts)。MegaTrain(315pts)は本日最重要技術シグナルとして収束確定。LittleSnitch for Linux(1017pts)がMac OS X→Wii portと並ぶ本日の高スコアコンテンツとして確定—セキュリティとハッキング文化への根強い需要。
+
