@@ -447,3 +447,68 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Maineのデータセンター規制はAIインフラコストの長期的上昇圧力。固定価格・効率重視のFuyajoアプローチは長期的に有利になる可能性
 - SynthID解析への関心増大はAI出力の透明性・信頼性への技術者の渇望を示す。Fuyajoの「透明なAI実行」は差別化になりうる
 
+---
+
+## HN Signals - 08:30 JST
+
+### AIシグナル
+
+#### 高重要度
+
+**Claude mixes up who said what** [403pts, 319comments]
+- 07:30(397)→08:30(403)。400pt突破。00:30から8時間連続でAIトップ維持。
+- **Relevance**: Claude信頼性問題（発言者混同バグ）。Anthropic直接関連
+- **概要**: 274→303→333→360→376→386→390→397→403。一日かけて400pt超到達。HNで長時間にわたりトップを維持したClaude関連記事として記録的
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [277pts, 188comments]
+- 07:30(267)→08:30(277)。+10pt継続上昇。
+- **Relevance**: Claude Code離反トレンド、コスト問題、代替ツール
+- **概要**: コメント188。朝の時間帯も議論継続。Claude Code→Zed+OpenRouter移行事例
+
+**The Vercel plugin on Claude Code wants to read your prompts** [251pts, 100comments]
+- 07:30(248)→08:30(251)。微増。コメント100で安定。
+- **Relevance**: Claude Codeのプライバシー問題
+- **概要**: 議論は収束傾向だが依然250pt水準を維持
+
+#### 中重要度
+
+**Maine is about to become the first state to ban major new data centers** [219pts, 312comments]
+- 07:30(194)→08:30(219)。+25pt。コメントが194→312へ大幅増加。
+- **Relevance**: AIインフラ規制、エネルギー問題
+- **概要**: コメントがスコアを93も上回る。感情的議論が激化。AI計算需要vs環境規制の対立が焦点
+
+**Show HN: CSS Studio - Design by hand, code by agent** [138pts, 91comments]
+- 07:30(133)→08:30(138)。安定上昇。
+- **Relevance**: AIエージェント開発ツール
+
+**Research-Driven Agents: When an agent reads before it codes** [106pts, 38comments]
+- 07:30(92)→08:30(106)。+14ptで100pt突破。
+- **Relevance**: AIエージェントアーキテクチャ、Fuyajo参考
+- **概要**: コード生成前に調査・読解するエージェントパターンが100ptを超えた。実践的なエージェント設計論として注目継続
+
+**Reverse engineering Gemini's SynthID detection** [83pts, 36comments]
+- 07:30(72)→08:30(83)。+11pt。
+- **Relevance**: AI透明性・検出技術
+- **概要**: GoogleのAIウォーターマーク技術解析への関心が継続上昇
+
+**Instant 1.0 - a backend for AI-coded apps** [41pts, 24comments]
+- 新規登場。AI生成コードのためのバックエンドフレームワーク。
+- **Relevance**: AIコーディング基盤
+- **概要**: AIが書いたコードを動かすためのバックエンドインフラ。Show HN出身のInstantDB v1.0リリース
+
+### 今日08:30時点のキーテーマ
+
+1. **Claude信頼性3問題が8時間継続・400pt超到達** - 発言者混同(403pt)・コスト離反(277pt)・テレメトリ(251pt)。上昇鈍化は続くが400pt超は象徴的なマイルストーン
+2. **Maineデータセンター禁止のコメント数が爆発** - 219pt vs 312 comments。感情的議論が激化。環境規制とAI計算需要の衝突は2026年の主要争点になりつつある
+3. **Research-Driven Agentsが100pt突破** - 調査→コード生成の順序を守るエージェントアーキテクチャへの関心が本物のトレンドに
+4. **AI-coded apps向けバックエンド** - InstantDB v1.0がAIコーディング時代のインフラとして登場
+
+### Falcon Platform戦略への示唆
+
+- Claude mixes upが400pt突破。一日かけた上昇は技術者コミュニティへの深い定着を示す。代替プラットフォーム需要は確実に存在する
+- Maineのコメント数爆発（コメント>スコア）はAIインフラの持続可能性問題が感情を動かすほど重要なテーマになったことを示す
+- Research-Driven Agentsパターン（100pt突破）はFuyajoのエージェント設計の参考に。「まず調査してからコード生成」の原則は品質向上に直結する
+- InstantDB v1.0のようなAI-native backendへの注目はFuyajoのターゲット市場（AIコーディング基盤）の成長を示す
+
+---
+
