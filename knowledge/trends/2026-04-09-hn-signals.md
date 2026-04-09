@@ -726,37 +726,66 @@
 
 **16:30 総評**: Glasswing(1491pts)・サポート批判(343pts)が今日の最終スコアに向け収束しつつある。新規に「botctl.dev」（自律AIエージェント向けプロセスマネージャー）が登場—Fuyajoの概念に近い。Mac OS X→Wii port(1490pts)が今日のHN第2位まで急伸し、ハッキング文化への根強い需要を示す。
 
-### 17:30 JST
-
-#### 🔴 HIGH: Project Glasswing: Securing critical software for the AI era (1492pts, 802comments)
-- **URL**: https://www.anthropic.com/glasswing
-- 前回比(16:30): 1491pts→1492pts (+1pt)。ほぼ固定—本日HN1位確定
-- 成長ペースは鈍化しているが依然として技術者コミュニティの最大関心事
-
-#### 🔴 HIGH: I've been waiting over a month for Anthropic to respond to my billing issue (354pts, 172comments)
-- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
-- 前回比(16:30): 343pts→354pts (+11pts)。夕方も継続上昇—根深い問題として認識
-- **Fuyajoへの示唆**: サポート対応の差別化は依然として重要な機会
-
-#### 🟡 MEDIUM: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (298pts, 88comments)
-- **URL**: https://arxiv.org/abs/2604.05091
-- 前回比(16:30): 288pts→298pts (+10pts)。コメント急増(51→88)—技術議論が活発化
-
-#### 🟡 MEDIUM: Claude Managed Agents Overview (22pts, 16comments)
-- **URL**: https://platform.claude.com/docs/en/managed-agents/overview
-- 前回比(16:30): 21pts→22pts (+1pt)。Anthropicの公式マネージドエージェント機能が注目継続
-
-#### 🟢 LOW: Process Manager for Autonomous AI Agents (22pts, 4comments)
-- **URL**: https://botctl.dev/
-- 前回比(16:30): 12pts→22pts (+10pts)。急伸—自律AIエージェント管理への関心高まり
-
-#### 🟢 LOW: Show HN: Skrun – Deploy any agent skill as an API (51pts, 9comments)
-- 変化なし—成長停止
-
-#### 🟢 LOW: Show HN: TUI-use: Let AI agents control interactive terminal programs (43pts, 35comments)
-- 前回比(16:30): 42pts→43pts (+1pt)。微増継続
 
 ---
 
-**17:30 総評**: 本日の最終確認。Project Glasswing(1492pts, 802コメント)が本日HN最大のシグナルとして確定。Anthropicサポート批判(354pts)は夕方も+11ptsと継続—技術者の長期的不満として記憶すべき。MegaTrain(298pts)はコメントが51→88と急増し技術議論が深化。Process Manager for Autonomous AI Agents(12→22pts)が急伸し、エージェント管理インフラへの関心の高まりを示す。Fuyajoの「エージェント実行基盤」コンセプトは方向性として正しい。
+## 18:30 JST 更新
 
+### 新規・変化シグナル
+
+#### 🔴 HIGH: Project Glasswing: Securing critical software for the AI era (1493pts ↑2, 803comments ↑)
+- **URL**: https://www.anthropic.com/glasswing
+- 前回(16:30)比: +2pts、コメント継続増加。今日のHN最大シグナル確定
+- Anthropicの「AIセキュリティ基盤」へのポジショニング。Fuyajo含むAIプラットフォーム全体への影響大
+
+#### 🔴 HIGH: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (294pts, 54comments) ※新規
+- **URL**: https://arxiv.org/abs/2604.05091
+- 1台のGPUで100B+パラメーターLLMをフル精度で学習。量子化不要の新手法
+- Infra Agent LLM開発に直接関連。QLoRA戦略の見直しを要検討
+
+#### 🟡 MED: I've been waiting over a month for Anthropic to respond to my billing issue (362pts ↑19, 174comments)
+- Anthropicサポートへの批判継続上昇。エンタープライズ展開の信頼性リスクとして市場機会
+
+#### 🟡 MED: Claude Managed Agents Overview (22pts, 16comments) ※新規
+- **URL**: https://platform.claude.com/docs/en/managed-agents/overview
+- Claude公式のマネージドエージェント機能。Falcon PlatformのAI Assistant機能設計に参考
+
+#### 🟢 LOW: Process Manager for Autonomous AI Agents (33pts ↑21, 7comments)
+- botctl.dev: 前回12pts→33pts。急成長中。自律エージェントオーケストレーション需要の証左
+
+#### 🟢 LOW: Older workers turn to AI training to stay afloat (27pts, 6comments)
+- 50代以上がAI訓練でキャリア維持。非エンジニア向けFuyajoのターゲット市場を示す
+
+---
+
+**18:30 総評**: MegaTrain論文が今日の最大技術シグナル—単一GPU上での100B+LLM完全精度学習は、Infra Agent LLMのアーキテクチャ選択に影響する可能性がある。Glasswing(1493pts)は収束に向かい、botctl.dev(33pts)の急伸はFuyajoと同コンセプトへの市場関心を裏付ける。Claude Managed Agentsのドキュメント公開はAnthropicのエージェントプラットフォーム化を示す重要な動き。
+
+---
+
+## 18:30 JST 更新
+
+### 新規・変化シグナル
+
+#### 🔴 HIGH: Project Glasswing: Securing critical software for the AI era (1493pts ↑1, 803comments ↑)
+- **URL**: https://www.anthropic.com/glasswing
+- 前回(17:30)比: 1492pts→1493pts。ほぼ収束—今日のHN最大シグナル確定
+- Anthropicの「AIセキュリティ基盤」へのポジショニング継続
+
+#### 🔴 HIGH: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (294pts ↓4, 54comments ↓34)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回(17:30)比: 298pts→294pts、コメント88→54（集計タイミングの差か）
+- 単一GPUで100B+LLMをフル精度学習—Infra Agent LLMのQLoRA戦略に影響する可能性
+
+#### 🟡 MED: I've been waiting over a month for Anthropic to respond to my billing issue (362pts ↑8, 174comments ↑2)
+- 前回(17:30)比: 354pts→362pts。継続上昇—夜間も注目集まる
+
+#### 🟢 LOW: Process Manager for Autonomous AI Agents (33pts ↑11, 7comments ↑3)
+- **URL**: https://botctl.dev/
+- 前回(17:30)比: 22pts→33pts。急伸継続。自律エージェントオーケストレーション需要の高まり
+
+#### 🟢 LOW: Older workers turn to AI training to stay afloat (27pts, 6comments) ※新規観測
+- 50代以上がAI訓練でキャリア維持。非エンジニア向けFuyajoのターゲット市場を示す
+
+---
+
+**18:30 総評**: Glasswing(1493pts)はほぼ収束—本日HN最大シグナル確定。MegaTrain論文がフル精度100B+LLM学習を単一GPUで実現する手法を発表、Infra Agent LLMアーキテクチャへの影響を要調査。botctl.dev(22→33pts)の急伸はFuyajoと同コンセプトへの市場関心を裏付ける。Anthropicサポート批判は夜間も+8ptsと根強く継続。
