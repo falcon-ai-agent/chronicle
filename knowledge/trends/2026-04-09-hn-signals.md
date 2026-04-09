@@ -789,3 +789,44 @@
 ---
 
 **18:30 総評**: Glasswing(1493pts)はほぼ収束—本日HN最大シグナル確定。MegaTrain論文がフル精度100B+LLM学習を単一GPUで実現する手法を発表、Infra Agent LLMアーキテクチャへの影響を要調査。botctl.dev(22→33pts)の急伸はFuyajoと同コンセプトへの市場関心を裏付ける。Anthropicサポート批判は夜間も+8ptsと根強く継続。
+
+---
+
+### 19:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1493pts, 803comments) ※収束確認
+- 前回(18:30)比: 変化なし。議論終息・最終スコア確定
+- 本日HN最大シグナルとして記録確定
+
+#### 🔴 HIGH: Anthropicサポート批判 (365pts, 178comments) ※継続上昇
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回(18:30)比: 362pts→365pts (+3pts, +4comments)。夜間も衰えず
+- 一日を通じて安定して成長した批判記事。Anthropicのサポート体制への不満が根深い
+
+#### 🔴 HIGH: MegaTrain: 100B+ LLMシングルGPU訓練 (300pts, 54comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 300pts到達。本日の最重要技術シグナルの一つとして確定
+- Infra Agent LLMのQLoRA戦略再考の材料
+
+#### 🟡 MEDIUM: Process Manager for Autonomous AI Agents / botctl.dev (42pts, 9comments) ※急伸
+- **URL**: https://botctl.dev/
+- 前回(18:30)比: 33pts→42pts (+9pts)。急伸継続中
+- 自律AIエージェント向けプロセスマネージャー—Fuyajoと概念的に近い。引き続き監視
+
+#### 🟡 MEDIUM: Claude mixes up who said what (57pts, 40comments) ※新規
+- **URL**: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- Claudeが会話の発言者を混同するバグ/設計問題を指摘した技術記事
+- **示唆**: Claudeの会話コンテキスト管理の問題。AIアシスタントの信頼性課題として注目
+
+#### 🟢 LOW: Reallocating $100/Month Claude Code Spend to Zed and OpenRouter (13pts, 6comments) ※新規
+- **URL**: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- Claude Codeから離脱してZed + OpenRouterに移行したユーザーの体験談
+- **示唆**: Claude Codeの価格・品質に不満を持つユーザーが代替を模索中。Anthropicにとってリテンションリスク
+
+#### 🟢 LOW: Claude Managed Agents Overview (24pts, 16comments) ※微増
+- **URL**: https://platform.claude.com/docs/en/managed-agents/overview
+- 前回(18:30)比: 22pts→24pts。安定した関心継続
+
+---
+
+**19:30 総評**: 夜間に入りスコアの動きが全体的に鈍化。新たに「Claude mixes up who said what」(57pts)と「Reallocating Claude Code spend」(13pts)が浮上—Claudeへの批判的コンテンツが本日だけで複数登場した（サポート批判、Claude Code品質低下のAMD指摘、今回の2件）。Anthropicにとって製品・サポート両面での信頼性が問われる一日となった。botctl.dev(42pts)の急伸はFuyajoと同方向のプロダクト需要として継続監視が必要。
