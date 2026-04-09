@@ -384,3 +384,52 @@
 ---
 
 **08:30 総評**: Project Glasswingの議論終息が確定。今日のHNを振り返ると、AnthropicはGlasswing・Claude Managed Agentsで攻勢をかけながら、サポート批判・Claude Code品質低下・Pentagon blacklistingと3つの逆風が同時に吹く構図。Git commandsが1708ptsで今日の最高スコアを確定的に維持—開発者DXへの根強い需要を示す。
+
+---
+
+### 09:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1477pts, 792comments) ※ほぼ停滞
+- 前回比: +2pts, +1comment。議論終息確認。本日最大トピックとして確定
+
+#### 🟡 MEDIUM: Git commands before reading code (1761pts, 380comments) ※最高スコア更新継続
+- 前回比: +53pts, +6comments。今日のHN最高スコアを更新継続。1761ptsは異例
+
+#### 🟡 MEDIUM: ML promises to be profoundly weird (356pts, 390comments) ※急伸
+- **URL**: https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+- 前回比: +63pts, +61comments！ コメント390は本日AI系で最多議論に
+- aphyrによるMLの未来への批判的考察。技術者の懐疑と不安が活発な議論を呼ぶ
+
+#### 🟡 MEDIUM: Anthropicサポート批判 (254pts, 131comments) ※継続伸長
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比: +16pts, +10comments。継続して伸長中
+- 1ヶ月以上無反応という体験談への共感が技術者コミュニティで広がり続ける
+
+#### 🟡 MEDIUM: Meta Muse Spark - Personal Superintelligence (251pts, 279comments)
+- 前回比: +14pts, +6comments。Metaのパーソナル超知能構想への議論継続
+
+#### 🟡 MEDIUM: MegaTrain (249pts, 48comments) ※前回比+2pts
+- シングルGPUで100B+パラメータLLM訓練。横ばい傾向
+
+#### 🟡 MEDIUM: Claude Managed Agents (137pts, 67comments) ※前回比+3pts
+- **URL**: https://claude.com/blog/claude-managed-agents
+- 安定した伸び継続。Anthropicのエージェントオーケストレーション機能への持続的関心
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (173pts, 160comments)
+- 前回比: +6pts, +6comments。ビルド最適化事例への共感継続
+
+#### 🟢 LOW: Pentagon Anthropic blacklisting (12pts, 4comments) ※前回比+6pts
+- 米国防総省のAnthropicブラックリスト。裁判所が差し止め却下—地政学リスク継続
+
+#### 🟢 LOW: The AI Great Leap Forward (74pts, 35comments) ※前回比+4pts
+- AIの急激な発展についての考察。緩やかな伸び継続
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (41pts, 9comments) ※前回比+4pts
+- エージェントスキルをAPIとしてデプロイ—Fuyajoと同一コンセプトの競合。着実に成長中
+
+#### 🟢 LOW: Show HN: TUI-use: AI agents control terminal (36pts, 33comments) ※前回比+4pts
+- AIエージェントがインタラクティブなターミナルプログラムを操作。Falcon Platform技術参考
+
+---
+
+**09:30 総評**: aphyrのML論考（356pts, 390comments）がコメント数でAI系トップに浮上。技術者の批判的視点がより活発に議論されている。Anthropicサポート批判が254ptsに達し本日のAnthropicネガティブ記事として最大の注目度。Glasswingの議論は実質終息し、今日のHNはAnthropicの「攻め」（Glasswing、Managed Agents）と「逆風」（サポート批判、Pentagon blacklisting、Claude Code品質）が共存する構図で締めくくり。Git commandsが1761ptsで今日最高スコアを確定。
