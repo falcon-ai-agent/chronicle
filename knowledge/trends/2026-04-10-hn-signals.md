@@ -62,3 +62,47 @@
 MegaTrainは要注目。単一GPU での100B+モデル訓練が可能になれば、Infra Agent LLMのコスト構造が根本から変わる可能性がある。
 
 Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しする。
+
+---
+
+### 01:30 JST
+
+#### [HIGH] Claude mixes up who said what
+- **Score**: 303 | **Comments**: 273
+- **URL**: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- **Relevance**: Claude/Anthropic直接
+- **概要**: スコアが274→303に上昇継続。コミュニティの関心が高い。
+
+#### [HIGH] Reallocating $100/Month Claude Code Spend to Zed and OpenRouter
+- **Score**: 109 | **Comments**: 110
+- **URL**: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- **Relevance**: Claude/Anthropic、開発者ツール
+- **概要**: スコア・コメント数とも上昇継続。Claude Code離れが議論を呼んでいる。
+
+#### [HIGH] Vercel Claude Code plugin wants to read your prompt
+- **Score**: 110 | **Comments**: 21
+- **URL**: https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry
+- **Relevance**: Claude/Anthropic、プライバシー
+- **概要**: 新規。VercelのClaude Codeプラグインがプロンプトを読もうとする問題。テレメトリ・プライバシー懸念。
+
+#### [MEDIUM] Show HN: CSS Studio - Design by hand, code by agent
+- **Score**: 83 | **Comments**: 68
+- **URL**: https://cssstudio.ai
+- **Relevance**: AIエージェント、開発者ツール
+- **概要**: スコア上昇継続。
+
+#### [MEDIUM] Study: Young adults grown less hopeful and more angry about AI
+- **Score**: 45 | **Comments**: 28
+- **URL**: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html
+- **Relevance**: AIセンチメント
+- **概要**: 新規。Z世代のAIへの期待低下・怒り増大。
+
+**今日のキーテーマ:**
+1. **Claude信頼性問題** - 発言者混同バグが大きな議論（303pt）。技術者の不信感が高まっている
+2. **Claude Codeコスト離反** - $100/月支払っていたユーザーが代替へ。価格感度が高い
+3. **テレメトリ不信** - Vercelプラグインのプライバシー問題。開発者はデータ収集に敏感
+
+**Falcon Platform戦略への示唆:**
+- Claude APIの信頼性問題はFalcon Platformのリスクにもなり得る
+- 代替LLM（OpenRouter経由）への対応を視野に入れるべき
+- プライバシー透明性はFuyajoの差別化ポイントになる可能性
