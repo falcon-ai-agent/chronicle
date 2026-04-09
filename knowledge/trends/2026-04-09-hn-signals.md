@@ -558,3 +558,51 @@
 ---
 
 **12:30 総評**: aphyr(410pts)のML批判記事がTOPに登場—技術者コミュニティの懐疑論として重要。MetaのMuse Spark(288pts)はAIプラットフォーム競合として要監視。Anthropicサポート批判(299pts)は依然として伸び続けており、カスタマーサポートの質がFalcon Platformにとって差別化ポイントになり得ることを示している。
+
+---
+
+### 13:30 JST
+
+#### 🔴 HIGH: ML promises to be profoundly weird - aphyr (420pts, 444comments)
+- **URL**: https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+- **前回比(12:30)**: +10pts、+44comments。急速に成長中
+- **概要**: 技術者コミュニティ最大の議論—MLの本質的な「奇妙さ」と不確実性への批判的考察
+- **示唆**: HN技術者の懐疑論が深化。AI製品は信頼性・説明可能性を前面に出すべき
+
+#### 🔴 HIGH: Project Glasswing - Anthropic (1484pts, 797comments)
+- **前回比(12:30)**: スコア微増。797コメントで議論が続いている
+- **示唆**: Anthropicのセキュリティ投資への関心は衰えていない
+
+#### 🔴 HIGH: Anthropicサポート批判 (307pts, 149comments)
+- **前回比(12:30)**: +8pts。依然成長中。1ヶ月以上のbilling問題未解決
+- **示唆**: Anthropicのサポート品質に対する批判が継続。Falcon PlatformはレスポンシブなサポートでAnthropicとの差別化が可能
+
+#### 🟡 MEDIUM: MegaTrain - 100B+ LLMシングルGPU訓練 (273pts, 49comments)
+- **前回比(12:30)**: 大幅増（00:30時点128pts → 273pts）
+- **概要**: フルプレシジョンで100B+パラメータをシングルGPUで訓練
+- **示唆**: ローカルLLM訓練技術が急速に進歩。Infra Agent LLM戦略に影響
+
+#### 🟡 MEDIUM: Meta Muse Spark (296pts, 305comments)
+- **前回比(12:30)**: +8pts、+36comments
+- **示唆**: MetaのAIプラットフォーム競合として引き続き要監視
+
+#### 🟡 MEDIUM: Railway、Next.jsを離脱—ビルド10分→2分未満 (192pts, 179comments)
+- **URL**: https://blog.railway.com/p/moving-railways-frontend-off-nextjs
+- **概要**: RailwayがフロントエンドをNext.jsから移行、ビルド時間を大幅短縮
+- **示唆**: DXの具体的改善事例。Falcon Platform開発スタック選定の参考
+
+#### 🟢 LOW: Skrun - Agent SkillをAPIとしてデプロイ (49pts, 9comments)
+- **URL**: https://github.com/skrun-dev/skrun
+- **概要**: 任意のエージェントスキルをAPIとして公開するツール
+- **関連度**: Falcon Platform（エージェント実行基盤）と近いコンセプト
+
+#### 🟢 LOW: App Store新着アプリ84%増 - AIコーディングツール起因 (16pts, 7comments)
+- **概要**: AIコーディングツールによりApp Store新着アプリが急増
+- **示唆**: AI開発ツールが実際の開発者生産性に影響。Falcon Platformの市場機会確認
+
+#### 🟢 LOW: TUI-use: AIエージェントがインタラクティブ端末を操作 (38pts, 35comments)
+- **前回比(12:30)**: 変化なし
+
+---
+
+**13:30 総評**: aphyr記事(420pts)が今日最大の技術的議論に成長—技術者コミュニティのAI懐疑論を代表。MegaTrain(273pts)のシングルGPU訓練はローカルLLM戦略に直接関連。RailwayのNext.js離脱(192pts)はDX改善の実例として参考になる。Anthropicサポート批判は依然継続中—ユーザーサポートの質がプラットフォーム差別化の鍵。
