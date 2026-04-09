@@ -106,3 +106,49 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Claude APIの信頼性問題はFalcon Platformのリスクにもなり得る
 - 代替LLM（OpenRouter経由）への対応を視野に入れるべき
 - プライバシー透明性はFuyajoの差別化ポイントになる可能性
+
+---
+
+### 02:30 JST
+
+#### [HIGH] Claude mixes up who said what
+- **Score**: 333 | **Comments**: 286
+- **URL**: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- **Relevance**: Claude/Anthropic直接
+- **概要**: 00:30(274)→01:30(303)→02:30(333)と継続上昇。コメントも286に増加。技術者コミュニティの関心が衰えない。
+
+#### [HIGH] Vercel Claude Code plugin wants to read your prompt
+- **Score**: 174 | **Comments**: 40
+- **URL**: https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry
+- **Relevance**: Claude/Anthropic、プライバシー
+- **概要**: 01:30(110)→02:30(174)と急上昇。VercelプラグインのプロンプトテレメトリはClaude Codeエコシステムへの信頼問題に発展しつつある。
+
+#### [HIGH] Reallocating $100/Month Claude Code Spend to Zed and OpenRouter
+- **Score**: 145 | **Comments**: 130
+- **URL**: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- **Relevance**: Claude/Anthropic、開発者ツール
+- **概要**: 01:30(109)→02:30(145)。コメント130まで増加。Claude Code離れの議論が拡大継続中。
+
+#### [MEDIUM] Show HN: CSS Studio - Design by hand, code by agent
+- **Score**: 90 | **Comments**: 70
+- **URL**: https://cssstudio.ai
+- **Relevance**: AIエージェント、開発者ツール
+- **概要**: 安定上昇。手動+AIハイブリッド開発ツールへの関心継続。
+
+#### 注目（非AI）
+
+**LittleSnitch for Linux** [1178pts, 398comments]
+- 00:30(1082)→02:30(1178)。今日最高スコア。Linuxエコシステム需要の強さ。
+
+**EFF Is Leaving X** [40pts, 7comments]
+- 新規。電子フロンティア財団がXを離脱。プライバシー・言論自由団体のX撤退トレンド。
+
+**今日02:30時点のキーテーマ:**
+1. **Claude信頼性問題3連発** - 発言者混同(333pt)・テレメトリ問題(174pt)・コスト離反(145pt)が同時進行。Claude Codeブランドへの逆風が強まっている
+2. **プライバシー意識の高まり** - EFF離脱・Vercelテレメトリ問題。開発者コミュニティがデータ収集に敏感
+3. **LittleSnitch for Linux** - 非AI最高スコア(1178pt)。Linuxユーザーのネットワーク監視需要
+
+**Falcon Platform戦略への示唆:**
+- Claude Codeへの不信感が3方向から同時進行。代替プラットフォームへの需要が高まっている
+- プライバシー透明性（データを外に出さない）はFuyajoの強力な差別化ポイントになりうる
+- OpenRouter経由でのマルチLLM対応はユーザーが求めている方向性
