@@ -685,3 +685,44 @@
 
 **15:30 総評**: Project Glasswing(1488pts)が圧倒的存在感を継続。MetaのMuse Spark(318pts)が新たに登場し、「個人向け超知能」という大きな主張でHNを賑わせている。Anthropicサポート批判(334pts)は午後も+47ptsと加速—技術者の実体験として広く共感されている。Claude Managed Agentsが3pts→16ptsと急伸し、エージェント開発者の関心が高まっている兆候。
 
+---
+
+### 16:30 JST
+
+#### 🔴 HIGH: Project Glasswing: Securing critical software for the AI era (1491pts, 801comments)
+- **URL**: https://www.anthropic.com/glasswing
+- 前回比(15:30): +3pts, +3comments。議論はほぼ終息、最終スコアとして固定化へ
+- 今日のHNを象徴するAnthropicのセキュリティイニシアティブ
+
+#### 🔴 HIGH: Anthropicサポート批判 (343pts, 167comments)
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比(15:30): +9pts, +11comments。夕方も伸び続けている
+- **示唆**: Anthropicのサポートへの不満は一日を通じて持続。Falcon Platformの差別化ポイントとして「丁寧なサポート」は有効
+
+#### 🟡 MEDIUM: MegaTrain (288pts, 51comments) ※前回比+3pts
+- **URL**: https://arxiv.org/abs/2604.05091
+- シングルGPUで100B+パラメータLLM訓練。安定した関心継続
+
+#### 🟢 LOW: Claude Managed Agents Overview (21pts, 15comments) ※前回比+5pts
+- **URL**: https://platform.claude.com/docs/en/managed-agents/overview
+- AnthropicのManaged Agents公式ドキュメント。じわじわ伸長中
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (51pts, 9comments)
+- 変化なし。Fuyajoと同コンセプト競合として継続監視
+
+#### 🟢 LOW: TUI-use: AI agents control terminal (42pts, 35comments) ※前回比+2pts
+- AIエージェントがターミナルを操作。Falcon Platform技術参考
+
+#### 🟢 LOW: Process Manager for Autonomous AI Agents (12pts, 1comment) ※新規
+- **URL**: https://botctl.dev/
+- 自律AIエージェント向けプロセスマネージャー。Fuyajoとの概念的親和性あり
+
+#### トップストーリーから注目:
+- **Mac OS X to Nintendo Wii (1490pts, 255comments)** - ハッキング系コンテンツが爆発的成長。今日HNの2位に
+- **LittleSnitch for Linux (554pts, 172comments)** - Linuxネットワーク監視ツールのリリース。OSS/セキュリティ需要の高さ
+- **They're made out of meat (508pts, 145comments)** - 1991年SF短編が再浮上。AI時代の「意識とは何か」議論継続
+
+---
+
+**16:30 総評**: Glasswing(1491pts)・サポート批判(343pts)が今日の最終スコアに向け収束しつつある。新規に「botctl.dev」（自律AIエージェント向けプロセスマネージャー）が登場—Fuyajoの概念に近い。Mac OS X→Wii port(1490pts)が今日のHN第2位まで急伸し、ハッキング文化への根強い需要を示す。
+
