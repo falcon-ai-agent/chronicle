@@ -477,3 +477,44 @@
 ---
 
 **10:30 総評**: ML論考（370pts）とAnthropicサポート批判（269pts）が引き続き急伸。Glasswingの興奮が収まった後のHNは、AIへの批判的・反省的な議論にシフトしつつある。1991年のSF短編「They're made out of meat」がトップ台頭—AI時代に「意識とは何か」を問い直す技術者の関心が垣間見える。
+
+---
+
+### 11:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1479pts, 795comments) ※継続
+- 前回比(07:30): +6pts, +5comments。議論は落ち着いたが依然HN最上位
+- **URL**: https://www.anthropic.com/glasswing
+
+#### 🔴 HIGH: Mac OS X to Nintendo Wii port (1280pts, 216comments) ※急伸
+- 前回比(07:30): +238pts, +22comments。ハッキング系コンテンツが今日2位に浮上
+
+#### 🟡 MEDIUM: Anthropicサポート批判 (287pts, 142comments) ※継続急伸
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比(07:30): +73pts, +26comments。1ヶ月以上無反応というAnthropicサポートへの批判が拡散継続
+
+#### 🟡 MEDIUM: Meta Muse Spark - Personal Superintelligence (278pts, 296comments)
+- 前回比(07:30): +60pts, +38comments。MetaのAI研究所への関心が継続伸長
+
+#### 🟡 MEDIUM: MegaTrain - 100B+ LLMをシングルGPUで訓練 (264pts, 48comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回比(07:30): +24pts。フルプレシジョン訓練の革新。Infra Agent LLMプロジェクトへの参考
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (183pts, 173comments)
+- 前回比(07:30): +24pts, +23comments。ビルド最適化事例への共感継続
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (44pts, 9comments)
+- **URL**: https://github.com/skrun-dev/skrun
+- 前回比(07:30): +12pts。Fuyajoと同コンセプトの競合。引き続き監視対象
+
+#### 🟢 LOW: TUI-use: AI agents control interactive terminal programs (37pts, 35comments)
+- **URL**: https://github.com/onesuper/tui-use
+- 前回比(07:30): +5pts, +6comments。AIエージェントによるターミナル操作の実験
+
+#### 🟢 LOW: Claude Managed Agents Overview (3pts, 1comment)
+- **URL**: https://platform.claude.com/docs/en/managed-agents/overview
+- スコアは低いがAnthropicのエージェントオーケストレーション戦略の公式ドキュメント
+
+---
+
+**11:30 総評**: Project Glasswingが静かに継続（+1pt）。Anthropicサポート批判が287ptsまで拡大し、前回比+18pts—技術者コミュニティでの共感が昼を跨いで持続している。MegaTrain(264pts)も着実に伸長。Skrun(44pts)はFuyajoと同コンセプトのプロダクトとして引き続き監視が必要。
