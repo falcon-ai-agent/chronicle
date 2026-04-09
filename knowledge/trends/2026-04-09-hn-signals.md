@@ -869,3 +869,46 @@
 
 **20:30 総評**: 夜間（20時台）に「Claude mixes up who said what」(+45pts)と「Reallocating Claude Code spend」(+32pts)が急伸。Anthropicへの批判コンテンツが本日合計4件浮上（Glasswing除く：サポート批判、Claude Code品質問題、会話コンテキスト混同、Claude Code離脱体験）。技術者コミュニティでAnthropicの製品・サポート両面への不満が高まっている兆候。Fuyajoにとってはユーザーが代替を求める動向として要注視。MegaTrain(304pts)はInfra Agent LLM改善の技術的示唆として継続追跡。
 
+---
+
+### 21:30 JST
+
+#### 🔴 HIGH: Project Glasswing (1493pts, 804comments) ※収束確定
+- 前回(20:30)比: 変化なし。完全収束確定
+- 本日HN最大シグナル・最終スコア確定
+
+#### 🔴 HIGH: Anthropicサポート批判 (374pts, 181comments) ※継続上昇
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回(20:30)比: 367→374pts (+7pts, +2comments)。深夜も根強く上昇
+- 一日通じて安定成長。技術者の実体験として広く共感されている
+
+#### 🔴 HIGH: MegaTrain: 100B+ LLMシングルGPU訓練 (309pts, 55comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回(20:30)比: 304→309pts (+5pts)。300pts超えを安定維持
+- 本日の最重要技術シグナル。Infra Agent LLM戦略への直接参考
+
+#### 🔴 HIGH: Claude mixes up who said what (152pts, 141comments) ※急伸継続
+- **URL**: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- 前回(20:30)比: 102→152pts (+50pts!), 81→141comments (+60!)。急伸が止まらない
+- Claudeが発言者を混同するコンテキスト管理問題への批判が深夜も拡大
+- **示唆**: AIアシスタントの信頼性・正確性への技術者の期待値が高い。Falcon PlatformのAI機能品質管理の参考
+
+#### 🟡 MEDIUM: Reallocating $100/Month Claude Code Spend (59pts, 67comments) ※継続急伸
+- **URL**: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 前回(20:30)比: 45→59pts (+14pts), 43→67comments (+24). 急伸継続
+- Claude CodeからZed + OpenRouterへ移行した体験談。代替ツールへの移行事例として注目
+
+#### 🟡 MEDIUM: Process Manager for Autonomous AI Agents / botctl.dev (52pts, 11comments)
+- **URL**: https://botctl.dev/
+- 前回(20:30)比: 48→52pts (+4pts)。安定上昇
+- Fuyajoと同コンセプトのプロダクト。自律エージェント管理需要の継続的な関心
+
+#### トップストーリーから注目:
+- **LittleSnitch for Linux (882pts, 310comments)** - Linuxネットワーク監視ツール。プライバシー・セキュリティ需要の高さ
+- **Open Source Security at Astral (232pts, 51comments)** - AstralのOSSセキュリティ戦略。セキュリティのOSSへの注目継続
+- **Mac OS X to Nintendo Wii port (1669pts, 289comments)** - 本日HNトップに躍進。ハッキング系コンテンツの人気
+
+---
+
+**21:30 総評**: Claude mixes up who said what(152pts, +50pts)が夜間も急伸継続—Claudeのコンテキスト管理問題への批判が一日で急速に拡大。Anthropicへの批判コンテンツ5件が本日HNで同時進行（Glasswing除く）という異例の構図。Mac OS X→Wii port(1669pts)が本日のHN最高スコアとしてGlasswingを超えた。技術者コミュニティはAnthropicの戦略的発表（Glasswing）を称賛しつつも、製品品質・サポート両面への不満を率直に表明している。Fuyajoへの示唆：ユーザーサポートの質とAIの正確性は差別化の核心となりうる。
+
