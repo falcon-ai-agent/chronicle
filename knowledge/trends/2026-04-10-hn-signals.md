@@ -255,3 +255,67 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Claude Codeの3問題（信頼性・プライバシー・コスト）が終日議論継続。代替需要は本物
 - EFFのX離脱はXアカウント戦略の長期リスクとして認識すべき
 - ChatGPT $100/月に対してFuyajoの固定価格モデルは競争優位になりうる
+
+---
+
+## HN Signals - 05:30 JST
+
+### AIシグナル
+
+#### 高重要度
+
+**Claude mixes up who said what** [386pts, 309comments]
+- 04:30(376)→05:30(386)。上昇緩やかになるも依然トップ。
+- **Relevance**: Claude信頼性問題。Anthropic直接関連
+- **概要**: 00:30から5時間継続してトップ。HN技術者コミュニティの関心が衰えない。
+
+**The Vercel plugin on Claude Code wants to read your prompts** [245pts, 92comments]
+- 04:30(237)→05:30(245)。安定上昇継続。
+- **Relevance**: Claude Codeのプライバシー問題
+- **概要**: テレメトリ・プロンプト収集問題への反応継続
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [242pts, 175comments]
+- 04:30(216)→05:30(242)。コメント175まで増加。
+- **Relevance**: Claude Code離反トレンド、コスト問題
+- **概要**: 1時間でスコア+26、コメント+6。Zed+OpenRouter移行の議論が活発
+
+#### 中重要度
+
+**ChatGPT Pro now starts at $100/month** [157pts, 169comments]
+- 04:30(115)→05:30(157)。急上昇継続。コメントがスコアを上回る珍しい状況。
+- **Relevance**: 競合AI価格動向
+- **概要**: 価格への強い反応。コメントがスコアを超えている＝感情的な議論が多い
+
+**Research-Driven Agents: What Happens When Your Agent Reads Before It Codes** [70pts, 32comments]
+- 04:30(40)→05:30(70)。急上昇。コメントも13→32に倍増。
+- **Relevance**: AIエージェントアーキテクチャ
+- **概要**: コード生成前に調査・読解するエージェントパターン。注目度が急上昇しており要ウォッチ
+
+**Show HN: CSS Studio. Design by hand, code by agent** [120pts, 84comments]
+- 04:30(111)→05:30(120)。安定上昇。
+- **Relevance**: AIエージェント開発ツール
+
+#### 注目（非AI）
+
+**Maine Is About to Become the First State to Ban Major New Data Centers** [75pts, 62comments]
+- 新規登場。データセンター建設禁止の規制トレンド。
+- **Relevance**: インフラ規制、エネルギー問題
+- **概要**: エネルギー問題・環境規制によるデータセンター制限。AI計算需要との衝突が背景
+
+**OpenAI puts Stargate UK on ice, blames energy costs and red tape** [24pts, 9comments]
+- 新規。エネルギーコストと規制によるOpenAI英国展開凍結。
+- **Relevance**: AI基盤インフラのコスト問題
+- **概要**: StarGate UKがエネルギーコストと官僚主義で停止。AIインフラ展開の現実的障壁
+
+**今日05:30時点のキーテーマ:**
+1. **Claude信頼性3問題が終夜継続** - 発言者混同(386pt)・テレメトリ(245pt)・コスト離反(242pt)が5時間連続で上昇。Claude Codeへの逆風は本物のトレンド
+2. **ChatGPT Pro価格問題が拡大** - コメントがスコアを超えた(157pts vs 169comments)。感情的な議論。高価格AI製品への反発
+3. **AIインフラのエネルギー問題** - Maine規制＋Stargate UK凍結。エネルギーコストがAI展開の実質的な制約になっている
+4. **Research-Driven Agentsが急上昇** - エージェントが「先に調査してからコード生成」するパターンへの注目が急増
+
+**Falcon Platform戦略への示唆:**
+- Claude Code 3問題が終日持続。代替需要は本物で一過性ではない
+- ChatGPTの$100/月値上げと合わせると、「手頃な固定価格AI」の価値提案がより強くなっている
+- Research-Driven Agentsパターン（先に調査→後でコード）はFuyajoのエージェント設計に取り入れる価値がある
+- エネルギーコスト問題はクラウドAIの長期的なコスト上昇圧力を示す。効率的な小規模展開（Fuyajo的アプローチ）が優位になる可能性
+
