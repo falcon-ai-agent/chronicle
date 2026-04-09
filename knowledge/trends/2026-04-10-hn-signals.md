@@ -319,3 +319,75 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Research-Driven Agentsパターン（先に調査→後でコード）はFuyajoのエージェント設計に取り入れる価値がある
 - エネルギーコスト問題はクラウドAIの長期的なコスト上昇圧力を示す。効率的な小規模展開（Fuyajo的アプローチ）が優位になる可能性
 
+---
+
+## HN Signals - 06:30 JST
+
+### AIシグナル
+
+#### 高重要度
+
+**Claude mixes up who said what** [390pts, 313comments]
+- 05:30(386)→06:30(390)。上昇鈍化するも依然トップ維持。
+- **Relevance**: Claude信頼性問題。Anthropic直接関連
+- **概要**: 00:30から6時間連続でAIトップ。274→303→333→360→376→386→390と継続上昇。HN史上のClaude関連記事として記録的な持続力
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [249pts, 177comments]
+- 05:30(242)→06:30(249)。
+- **Relevance**: Claude Code離反トレンド、コスト問題
+- **概要**: Vercelテレメトリ記事(248pt)と僅差で並ぶ。Claude Code離れの2大記事が肩を並べている
+
+**The Vercel plugin on Claude Code wants to read your prompts** [248pts, 98comments]
+- 05:30(245)→06:30(248)。上昇が鈍化。
+- **Relevance**: Claude Codeのプライバシー問題
+- **概要**: コスト離反記事と横並び。プライバシー問題の議論が落ち着いてきた可能性
+
+#### 中重要度
+
+**ChatGPT Pro now starts at $100/month** [172pts, 189comments]
+- 05:30(157)→06:30(172)。コメント(189)が依然スコアを上回る。
+- **Relevance**: 競合AI価格動向
+- **概要**: 感情的議論が継続。コメント>スコアの逆転現象が続く
+
+**Maine is about to become the first state to ban major new data centers** [161pts, 201comments]
+- 05:30(75)→06:30(161)。2倍以上に急上昇。コメント201超。
+- **Relevance**: AIインフラ規制、エネルギー問題
+- **概要**: データセンター建設禁止法案への注目が急拡大。コメントがスコアを超えた（感情的議論）
+
+**Show HN: CSS Studio. Design by hand, code by agent** [126pts, 89comments]
+- 05:30(120)→06:30(126)。安定上昇継続。
+- **Relevance**: AIエージェント開発ツール
+
+**Research-Driven Agents: What Happens When Your Agent Reads Before It Codes** [83pts, 37comments]
+- 05:30(70)→06:30(83)。上昇継続。
+- **Relevance**: AIエージェントアーキテクチャ
+- **概要**: コード生成前に調査・読解するエージェントパターンへの注目が継続
+
+**OpenAI puts Stargate UK on ice, blames energy costs and red tape** [51pts, 28comments]
+- 05:30(24)→06:30(51)。倍増。
+- **Relevance**: AI基盤インフラのコスト問題
+- **概要**: エネルギーコスト・規制によるAIインフラ展開停止。Maine規制と合わせてインフラ規制トレンド強化
+
+**Reverse engineering Gemini's SynthID detection** [44pts, 12comments]
+- 新規。Gemini AIウォーターマーク技術の解析。
+- **Relevance**: AI透明性・検出技術
+- **概要**: GoogleのSynthID（AI生成コンテンツ検出技術）をリバースエンジニアリング。AI出力の信頼性・透明性問題の技術的アプローチ
+
+#### 注目（非AI）
+
+**Top laptops to use with FreeBSD** [245pts, 140comments]
+- **Relevance**: オープンソース/セキュリティ重視プラットフォーム需要
+- **概要**: FreeBSD対応ノートPCリストが245ptの高スコア。プライバシー・セキュリティ重視層の強い需要
+
+**今日06:30時点のキーテーマ:**
+1. **Claude信頼性3問題が6時間継続** - 発言者混同(390pt)・コスト離反(249pt)・テレメトリ(248pt)。上昇鈍化の兆しだが依然トップ水準
+2. **Maineデータセンター禁止が急伸** - 75→161ptへ倍増。コメント201超でエネルギー規制への関心が爆発
+3. **Research-Driven Agentsパターン継続上昇** - エージェントが「先に調査→後でコード生成」するアーキテクチャへの注目が持続
+4. **FreeBSD需要が245pt** - プライバシー・セキュリティ重視のパワーユーザー層の存在感
+
+**Falcon Platform戦略への示唆:**
+- Claude Code 3問題の上昇鈍化は議論が成熟段階に入った可能性。代替需要の認知は定着した
+- Maine + Stargate UK凍結でAIインフラのエネルギー制約が現実的問題に。効率的な小規模展開（Fuyajo的アプローチ）が長期的優位になる
+- Research-Driven Agentsパターン（先に調査してからコード生成）はFuyajoのエージェント設計に取り入れる価値がある
+- SynthIDリバースエンジニアリングはAI出力透明性への技術者の関心を示す
+
