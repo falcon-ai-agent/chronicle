@@ -518,3 +518,43 @@
 ---
 
 **11:30 総評**: Project Glasswingが静かに継続（+1pt）。Anthropicサポート批判が287ptsまで拡大し、前回比+18pts—技術者コミュニティでの共感が昼を跨いで持続している。MegaTrain(264pts)も着実に伸長。Skrun(44pts)はFuyajoと同コンセプトのプロダクトとして引き続き監視が必要。
+
+---
+
+### 12:30 JST
+
+#### 🔴 HIGH: Project Glasswing: Securing critical software for AI era (1483pts, 797comments)
+- **URL**: https://www.anthropic.com/glasswing
+- 前回比(11:30): 変化なし（データ安定）。Anthropicのセキュリティイニシアティブ。AI時代の重要ソフトウェア保護の取り組みが引き続きHN最大注目案件
+
+#### 🔴 HIGH: Anthropic billing issue - "support doesn't exist" (299pts, 146comments)
+- **URL**: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+- 前回比(11:30): +12pts, +13comments。1ヶ月以上未解決の課金問題。HN技術者コミュニティからの「Anthropicサポートは機能していない」批判が継続拡大
+
+#### 🔴 HIGH: MegaTrain: 100B+ LLM full precision on single GPU (265pts, 49comments)
+- **URL**: https://arxiv.org/abs/2604.05091
+- 前回比(11:30): +1pt。シングルGPUでの100B+パラメータフルプレシジョン訓練。Infra Agent LLMプロジェクトへの直接参考
+
+#### 🟡 MEDIUM: ML promises to be profoundly weird (410pts, 438comments) ※TOP
+- **URL**: https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+- aphyr（著名エンジニア）によるML批判・懐疑論。438コメントの深い議論。「MLの未来は嘘だらけ」という技術者の本音的視点
+
+#### 🟡 MEDIUM: Meta Muse Spark: Scaling to personal superintelligence (288pts, 304comments) ※TOP
+- **URL**: https://ai.meta.com/blog/introducing-muse-spark-msl/
+- Metaのパーソナル超知性スケーリング発表。AIプラットフォーム競合動向として要注目
+
+#### 🟡 MEDIUM: Railway frontend off Next.js (188pts, 174comments)
+- 前回比(11:30): +5pts, +1comment。ビルド時間10分→2分未満。Next.jsからの移行事例として開発者の共感継続
+
+#### 🟢 LOW: Show HN: Skrun – Deploy agent skill as API (48pts, 9comments)
+- 前回比(11:30): +4pts。Fuyajoと同コンセプト競合。引き続き監視
+
+#### 🟢 LOW: TUI-use: AI agents control interactive terminal programs (38pts, 35comments)
+- 前回比(11:30): +1pt。変化小さい
+
+#### 🟢 LOW: Claude Managed Agents Overview (4pts, 3comments)
+- 前回比(11:30): +1pt。AnthropicのManaged Agents公式ドキュメント
+
+---
+
+**12:30 総評**: aphyr(410pts)のML批判記事がTOPに登場—技術者コミュニティの懐疑論として重要。MetaのMuse Spark(288pts)はAIプラットフォーム競合として要監視。Anthropicサポート批判(299pts)は依然として伸び続けており、カスタマーサポートの質がFalcon Platformにとって差別化ポイントになり得ることを示している。
