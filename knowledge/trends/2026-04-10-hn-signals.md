@@ -1237,50 +1237,103 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP議論255ptで本日最大**: MCPファースト設計は時流と完全に一致。Falcon PlatformのMCP活用を前面に出すポジショニングが有効
 - **Microsoft OSSアカウント停止**: 大手プラットフォームへの依存が突然断ち切られる具体例。Fuyajoの「自律・分散・ベンダー非依存」メッセージの説得力が増す
 - **Research-Driven Agents終日定着(186pt)**: 朝から夜まで一貫した上昇。「実行前に調査する」エージェントパターンをFuyajoのAutopilot設計に採用すべき最重要原則として確立
+---
+
+## HN Signals 22:30 JST 2026-04-10
+
+### 新規・変動シグナル
+
+**[SURGE] I still prefer MCP over skills** [286pts, 241comments] ⬆️ さらに急騰
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 20:30の232pt/190から286pt/241へ。本日最終的に最高スコアを更新し続けている
+- 終日トップ議題として定着。Claude Code Skillsへの技術者コミュニティの反発は深夜も継続
+
+**[SURGE] France Launches Government Linux Desktop Plan** [658pts, 303comments] ⬆️ 本日首位奪取
+- 20:30の229pt/82から658pt/303へ急騰。本日最高スコアに上昇
+- フランス政府のWindows脱却が夕方以降爆発的に注目。EU主権派の支持を大量獲得
+- デジタル主権×オープンソース×脱Microsoft が深夜のHNメインテーマに
+
+**[SURGE] We've raised $17M to build what comes after Git** [199pts, 429comments] ⬆️ コメント急増
+- 20:30の160pt/350から199pt/429へ。コメント数が本日最多429に到達
+- スコアより圧倒的多コメントは「強い反論」の証拠。新ツール懐疑論がさらに深まる
+
+**[NEW] Microsoft suspends dev accounts for high-profile open source projects** [318pts, 85comments]
+- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/
+- 318ptで今夜の重大ニュース。MSがOSSプロジェクトのdev accountを停止
+- オープンソースコミュニティへのMicrosoft信頼失墜。France Linux移行ニュースとの相乗効果で「脱MS」感情が最高潮
+
+**[NEW] ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity** [169pts, 35comments]
+- URL: https://ethz.ch/en/news-and-events/eth-news/news/2026/04/...
+- 量子コンピュータの実用化マイルストーン。99.91%フィデリティは実用域に近い
+- 今夜の新顔。中長期的インパクトは大きいがHN議論はまだ小規模
+
+**[STABLE] How NASA built Artemis II's fault-tolerant computer** [464pts, 178comments]
+- 20:30の422ptから安定上昇継続
+
+**[STABLE] Research-Driven Agents** [191pts, 50comments]
+- 終日安定。「先調査→後実行」エージェント設計論の地位が完全に確立
+
+#### 22:30時点のキーテーマ
+
+1. **脱Microsoft/脱ビッグテック夜が最高潮** - France Linux 658pt首位 + MS OSSアカウント停止 318pt が同時ランクイン。「技術主権」がHN夜の最大テーマ
+2. **MCP vs Skills終日首位** - 286pt/241コメントで本日通じての最大議題に。Claude Code Skillsへの不満がHNを席巻
+3. **Git後継コメント429件** - スコア以上のコメントは深夜も止まらず。新ツールへの懐疑論が根強い
+
+#### Falcon Platform戦略への示唆（22:30）
+
+- **脱ビッグテックの波が加速**: France Linux 658pt + MS OSSアカウント停止 318ptの同日ランクインは偶然ではない。「ベンダーロックイン回避」「デジタル主権」は市場トレンドとして確立。Fuyajoの固定価格・独立設計は時流に合っている
+- **MCPファースト設計は今日の最優先事項**: 286pt/241コメントは本日HN最大議論。エージェント連携でMCPを中核に据える判断は正解。Skillsへの反発を逆手に取る
+- **量子コンピュータ中長期リスク**: ETH Zurichの99.91%フィデリティは「量子暗号脅威」の現実化が近い。今から暗号agility（アルゴリズム切り替え可能な設計）を考慮すべきタイミング
+
+---
+
+## HN Signals 23:30 JST 2026-04-10
 
 ### 23:30 JST
 
 #### HIGH importance
 
-**I still prefer MCP over skills** [304pts, 260comments]
+**[SURGE] I still prefer MCP over skills** [304pts, 260comments] ⬆️ 終日首位継続
 - URL: https://david.coffee/i-still-prefer-mcp-over-skills/
-- MCP vs Skillsの設計論争が継続・深化。本日累計で最大の持続議論。MCPファースト設計の正当性が技術者コミュニティで検証中
+- 22:30の286ptから304ptへ。本日通算でHN AI関連最高スコア達成
+- MCP vs Skillsの設計論争が終日継続・深化。MCPファースト設計の正当性が技術者コミュニティで検証・確認された一日
 
 **OpenAI backs Illinois bill that would limit when AI labs can be held liable** [284pts, 173comments]
 - URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/
-- OpenAIが自社の法的免責を求めてロビー活動。AIガバナンスの方向性に直接影響。規制回避姿勢への批判がHNで激化
+- OpenAIが自社の法的免責を求めてロビー活動。AIガバナンスの方向性に直接影響
+- 規制回避姿勢への批判がHNで激化。「大手AI企業vs技術者コミュニティ」の構図が鮮明
 
 **How NASA built Artemis II's fault-tolerant computer** [486pts, 187comments]
 - URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
-- 本日最高スコア2位。フォールトトレラント設計への技術者の強い関心。Fuyajoの耐障害性設計に参考
+- 本日最終トップ2。フォールトトレラント設計への技術者の強い関心が持続
 
 #### MEDIUM importance
 
 **We've raised $17M to build what comes after Git** [217pts, 470comments]
 - URL: https://blog.gitbutler.com/series-a
-- GitButlerが開発ツール次世代を標榜してシリーズA。コメント数がスコアの2倍超（470件）で技術者の懐疑心と関心が混在。継続観察
+- GitButlerシリーズA。コメント数470件でスコアの2倍超。懐疑心と関心が混在し継続観察
 
 **Research-Driven Agents: When an agent reads before it codes** [195pts, 51comments]
 - URL: https://blog.skypilot.co/research-driven-agents/
-- 朝から夜まで上昇継続。「実行前に調査する」エージェントパターンの定着
+- 朝から夜まで安定上昇継続。「実行前に調査する」エージェントパターンの完全定着
 
 **Instant 1.0, a backend for AI-coded apps** [186pts, 90comments]
 - URL: https://www.instantdb.com/essays/architecture
-- AIコーディングアプリ向けバックエンド。Falcon Platformのターゲット層と重複する競合観察対象
+- AIコーディングアプリ向け特化バックエンド。Falcon Platformのターゲット層と重複する競合
 
 **Reverse engineering Gemini's SynthID detection** [166pts, 52comments]
 - URL: https://github.com/aloshdenny/reverse-SynthID
-- GeminiのAI生成コンテンツ検出機構をリバースエンジニアリング。AIウォーターマーキング技術の脆弱性研究
+- GeminiのAI生成コンテンツ検出機構をリバースエンジニアリング。AIウォーターマーキング脆弱性研究
 
 ### 23:30時点のキーテーマ
 
-1. **MCP議論304ptで本日最終首位（AI関連）** - 朝から夜まで一貫して上昇。MCPがエージェント設計標準として完全に確立された一日
-2. **OpenAI法的免責ロビー(284pt)** - 規制回避姿勢が技術者の反感を呼ぶ構図。AI業界のガバナンス問題が表面化
-3. **GitButler470コメント** - 「Gitの次」という大言壮語への技術者の強い懐疑心が本日も持続
+1. **MCP議論304ptで本日AI関連最終首位** - 朝から深夜まで一貫して上昇。MCPがエージェント設計標準として完全確立した一日として記録される
+2. **OpenAI法的免責ロビー(284pt)** - 規制回避姿勢が技術者の反感を呼ぶ。AI業界のガバナンス問題が表面化しており注視必要
+3. **Instant 1.0登場** - 「AIコーディングアプリのバックエンド」という新カテゴリーが186ptで存在感。Fuyajoの差別化を明確化すべきシグナル
 
 ### Falcon Platform戦略への示唆（23:30）
 
-- **MCP議論が本日AI最終首位(304pt)**: MCPファースト・スキルズ廃止の方向性が技術コミュニティで支持されていることが確認。Falcon PlatformのMCP統合を核心的差別化要素として位置づけるべき
-- **Instant 1.0 (186pt)**: AI生成コードのバックエンドとして特化したDB製品。「AIネイティブなインフラ」というFuyajoのポジションと重なる競合。設計思想を参照すべき
-- **OpenAIのロビー活動**: 大手AI企業が自己免責に動いている。オープンで説明責任を持つプラットフォームとしてのFuyajoの差別化メッセージに活用できる
-- **Research-Driven Agents終日上昇(195pt)**: Autopilotの設計原則として「コードを書く前に調査する」を正式に採用する根拠が揃った
+- **MCPファースト設計は今日の最終結論(304pt)**: 終日トップを維持したMCP議論が本日最大のシグナル。Falcon PlatformにおけるMCP統合を核心的差別化要素として正式に位置づけるべき
+- **Instant 1.0が示す競合地形**: 「AIコーディングアプリ向けバックエンド」という特化サービスの登場。Fuyajoは「実行環境+AI統合」という上位レイヤーへの明確な差別化が必要
+- **OpenAIのロビー活動が生む機会**: 大手AIがロビー→免責→不透明化へと向かう中、Fuyajoが「透明・説明責任・開発者主権」を掲げる対比ポジションは説得力を増す
+- **Research-Driven Agents終日定着(195pt)**: Autopilotの設計原則として「コードを書く前に調査する」を正式採用する十分な根拠が揃った。次回スプリントでの実装を検討
