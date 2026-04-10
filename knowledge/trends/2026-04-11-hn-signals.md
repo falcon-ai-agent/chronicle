@@ -275,3 +275,45 @@
 2. **macOS Privacy問題がトップ1位**: 開発者コミュニティのmacOSへの信頼に揺らぎ
 3. **Sam Altman自宅襲撃**: AI業界への社会的反発が物理的暴力に。AI倫理/社会的影響の議論が加速する可能性
 4. **サプライチェーン攻撃トレンド継続**: CPU-Z実害+Rust理論。開発者環境のセキュリティが最優先課題
+
+### 05:30 JST
+
+#### AI関連シグナル
+
+**[MEDIUM] Marimo pair – Reactive Python notebooks as environments for agents** [113pts, 28comments] ↑6pts
+- URL: https://github.com/marimo-team/marimo-pair
+- 前回107→113ptsに上昇継続。エージェント向けリアクティブノートブック環境として定着
+- AI開発ツール多様化の象徴的事例
+
+**[MEDIUM] We've raised $17M to build what comes after Git** [294pts, 638comments] ↑10pts/+14 comments
+- URL: https://blog.gitbutler.com/series-a
+- コメント数638と引き続き増加。開発者ツール議論が朝方も継続
+
+**[MEDIUM] Supply chain nightmare: How Rust will be attacked** [97pts, 53comments] ↑5pts
+- URL: https://kerkour.com/rust-supply-chain-nightmare
+- 前回92→97ptsに上昇。Rustエコシステムのサプライチェーンリスク議論継続
+
+**[LOW] AI assistance when contributing to the Linux kernel** [47pts, 26comments]
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- Linuxカーネル公式ドキュメントにAIアシスタント利用のガイドラインが追加
+- 大規模OSSプロジェクトでのAI利用が公式に議論されている点が重要
+
+**[LOW] Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [24pts, 21comments]
+- URL: https://twill.ai
+- YC S25採択。Fuyajoに近いクラウドエージェント概念。スコアはまだ低め
+
+**[LOW] Suspect Arrested for Throwing Molotov Cocktail at Sam Altman's Home** [14pts, 2comments]
+- AI業界への物理的反発。前回より注目度落ち着き
+
+#### Top Stories (新規)
+
+**[INFO] JSON Formatter Chrome Plugin Now Closed and Injecting Adware** [47pts, 22comments]
+- URL: https://github.com/callumlocke/json-formatter
+- 開発者向け定番Chrome拡張がアドウェア注入。サプライチェーン攻撃トレンドを再確認
+- CPU-Z・HWMonitor汚染と同パターン。開発者ツール全般への信頼低下
+
+### キー議論サマリー (05:30)
+
+1. **Linuxカーネル公式AIガイドライン**: OSSの最大プロジェクトがAI利用を公式に認め指針を策定。AI活用の主流化を示す
+2. **サプライチェーン攻撃トレンド継続**: JSON Formatter拡張も感染。Rust/CPU-Z/HWMonitorに続き3件目。開発者ツール汚染が深刻
+3. **GitButler議論終息せず(638コメント)**: 開発者ツール市場の変革への関心は朝方も衰えず
