@@ -677,3 +677,55 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **Claude離れのコストは月$100規模**: この層がFuyajoの潜在ユーザー。固定価格モデルで予測可能性を提供できれば刺さる
 
 ---
+### 12:30 JST
+
+#### 最重要シグナル（スコア300+）
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [309pts, 207comments] ⚠️ 最優先
+- URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 11:30の296ptから309ptに上昇、**300pt超えを達成**。コメントも増加中
+- Claude Codeからの移行事例が一日中トップ圏を維持 → 一過性でなく構造的問題
+
+**Native Instant Space Switching on macOS** [353pts, 176comments]
+- 11:30の325ptから353ptに急伸。AI関連外だが今日最高スコア水準
+- macOS開発者ツールへの需要の高さを示す
+
+**Maine data center ban** [258pts, 366comments]
+- コメント数がスコアの1.4倍。技術コミュニティの規制への感情的反応が続く
+
+#### 注目AIシグナル
+
+**Research-Driven Agents** [144pts, 46comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 11:30の136ptから144ptへ上昇継続。SkyPilotブログが「コード書く前にリサーチ」パターンを提唱
+- Falcon Autopilotの設計原則として採用すべき
+
+**Instant 1.0 – Backend for AI-coded apps** [105pts, 66comments] 新登場
+- URL: https://www.instantdb.com/essays/architecture
+- AIが生成したコードのバックエンドを自動提供するInstantDBの1.0リリース
+- 「AIコード → 即バックエンド」という流れ。Falcon Platformの競合/補完ポジション
+
+**CSS Studio: Design by hand, code by agent** [142pts, 94comments]
+- URL: https://cssstudio.ai
+- 安定維持。AI-augmented開発ツールの需要が継続
+
+**I still prefer MCP over skills** [20pts, 23comments]
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- スコアは低いがMCP vs Skills（Claude Code）の議論。コメント比率が高く関心層が深い
+
+**Reverse engineering Gemini SynthID** [119pts, 44comments]
+- AI生成コンテンツ検出の逆解析。透明性議論継続
+
+#### 今日12:30時点のキーテーマ
+
+1. **Claude Code離れが300pt超え確定** - 朝から半日かけてスコアが積み上がり、HNコミュニティでの共感度が証明された
+2. **AI-coded apps向けバックエンド需要** - InstantDB 1.0がAIコード特化で登場。Fuyajoとの差別化ポイントを再考すべき
+3. **MCP vs Skills議論** - Claude Codeのスキル機能とMCPの優劣論。エージェント設計の今後に影響
+
+#### Falcon Platform戦略への示唆（12:30更新）
+
+- **Claude Code移行(309pt)**: 月$100ユーザーが具体的にOpenRouterへ。Fuyajoがモデル非依存・固定価格を提供すれば直接この需要を取り込める
+- **InstantDB 1.0はFuyajoの補完or競合**: AIコードのバックエンド自動化。Fuyajoがコード実行環境なら、InstantDBをVM内で即起動できる統合が価値になりうる
+- **MCP優先のエージェント設計**: スキル(Claude Code)よりMCPを好む意見が根強い。Falcon Autopilotもスキルよりツール/MCP寄りの設計が支持されやすい
+
+---
