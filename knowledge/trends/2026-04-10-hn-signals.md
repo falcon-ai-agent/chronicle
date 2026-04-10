@@ -1237,3 +1237,50 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP議論255ptで本日最大**: MCPファースト設計は時流と完全に一致。Falcon PlatformのMCP活用を前面に出すポジショニングが有効
 - **Microsoft OSSアカウント停止**: 大手プラットフォームへの依存が突然断ち切られる具体例。Fuyajoの「自律・分散・ベンダー非依存」メッセージの説得力が増す
 - **Research-Driven Agents終日定着(186pt)**: 朝から夜まで一貫した上昇。「実行前に調査する」エージェントパターンをFuyajoのAutopilot設計に採用すべき最重要原則として確立
+---
+
+## HN Signals 22:30 JST 2026-04-10
+
+### 新規・変動シグナル
+
+**[SURGE] I still prefer MCP over skills** [286pts, 241comments] ⬆️ さらに急騰
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 20:30の232pt/190から286pt/241へ。本日最終的に最高スコアを更新し続けている
+- 終日トップ議題として定着。Claude Code Skillsへの技術者コミュニティの反発は深夜も継続
+
+**[SURGE] France Launches Government Linux Desktop Plan** [658pts, 303comments] ⬆️ 本日首位奪取
+- 20:30の229pt/82から658pt/303へ急騰。本日最高スコアに上昇
+- フランス政府のWindows脱却が夕方以降爆発的に注目。EU主権派の支持を大量獲得
+- デジタル主権×オープンソース×脱Microsoft が深夜のHNメインテーマに
+
+**[SURGE] We've raised $17M to build what comes after Git** [199pts, 429comments] ⬆️ コメント急増
+- 20:30の160pt/350から199pt/429へ。コメント数が本日最多429に到達
+- スコアより圧倒的多コメントは「強い反論」の証拠。新ツール懐疑論がさらに深まる
+
+**[NEW] Microsoft suspends dev accounts for high-profile open source projects** [318pts, 85comments]
+- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/
+- 318ptで今夜の重大ニュース。MSがOSSプロジェクトのdev accountを停止
+- オープンソースコミュニティへのMicrosoft信頼失墜。France Linux移行ニュースとの相乗効果で「脱MS」感情が最高潮
+
+**[NEW] ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity** [169pts, 35comments]
+- URL: https://ethz.ch/en/news-and-events/eth-news/news/2026/04/...
+- 量子コンピュータの実用化マイルストーン。99.91%フィデリティは実用域に近い
+- 今夜の新顔。中長期的インパクトは大きいがHN議論はまだ小規模
+
+**[STABLE] How NASA built Artemis II's fault-tolerant computer** [464pts, 178comments]
+- 20:30の422ptから安定上昇継続
+
+**[STABLE] Research-Driven Agents** [191pts, 50comments]
+- 終日安定。「先調査→後実行」エージェント設計論の地位が完全に確立
+
+#### 22:30時点のキーテーマ
+
+1. **脱Microsoft/脱ビッグテック夜が最高潮** - France Linux 658pt首位 + MS OSSアカウント停止 318pt が同時ランクイン。「技術主権」がHN夜の最大テーマ
+2. **MCP vs Skills終日首位** - 286pt/241コメントで本日通じての最大議題に。Claude Code Skillsへの不満がHNを席巻
+3. **Git後継コメント429件** - スコア以上のコメントは深夜も止まらず。新ツールへの懐疑論が根強い
+
+#### Falcon Platform戦略への示唆（22:30）
+
+- **脱ビッグテックの波が加速**: France Linux 658pt + MS OSSアカウント停止 318ptの同日ランクインは偶然ではない。「ベンダーロックイン回避」「デジタル主権」は市場トレンドとして確立。Fuyajoの固定価格・独立設計は時流に合っている
+- **MCPファースト設計は今日の最優先事項**: 286pt/241コメントは本日HN最大議論。エージェント連携でMCPを中核に据える判断は正解。Skillsへの反発を逆手に取る
+- **量子コンピュータ中長期リスク**: ETH Zurichの99.91%フィデリティは「量子暗号脅威」の現実化が近い。今から暗号agility（アルゴリズム切り替え可能な設計）を考慮すべきタイミング
