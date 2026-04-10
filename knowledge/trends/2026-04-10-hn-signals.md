@@ -565,3 +565,66 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - SynthID逆エンジニアリングへの関心増加はAI透明性・説明責任が技術者の主要関心事になっていることを示す
 
 ---
+
+## HN Signals - 10:30 JST
+
+### AIシグナル
+
+#### 高重要度
+
+**Claude mixes up who said what** [412pts, 324comments]
+- 09:30(409)→10:30(412)。+3ptで上昇鈍化。400pt台を安定維持。
+- **Relevance**: Claude信頼性問題（発言者混同バグ）。Anthropic直接関連
+- **概要**: 00:30から10時間連続でAIトップ。274→...→409→412。上昇速度は落ちたが高い注目水準が継続
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [292pts, 199comments]
+- 09:30(287)→10:30(292)。+5pt。コメント199まで増加。
+- **Relevance**: Claude Code離反トレンド、コスト問題
+- **概要**: 200コメント目前。Zed+OpenRouter移行事例への共感が継続
+
+**Maine is about to become the first state to ban major new data centers** [247pts, 347comments]
+- 09:30(238, 337c)→10:30(247, 347c)。コメント(347)がスコア(247)を100超上回る。
+- **Relevance**: AIインフラ規制リスク
+- **概要**: コメント>スコアの逆転現象が拡大継続。環境規制とAI計算需要の衝突が感情的議論を呼んでいる
+
+#### 中重要度
+
+**Research-Driven Agents: When an agent reads before it codes** [124pts, 42comments]
+- 09:30(114)→10:30(124)。+10pt安定上昇。
+- **Relevance**: AIエージェントアーキテクチャ、Fuyajo参考
+- **概要**: コード生成前に調査・読解するエージェントパターンへの関心が継続
+
+**Show HN: CSS Studio - Design by hand, code by agent** [141pts, 94comments]
+- 09:30(141)→10:30(141)。横ばい。コメント94。
+- **Relevance**: AIエージェント開発ツール
+- **概要**: 安定水準を維持。手動+AIハイブリッド開発ツールへの関心継続
+
+**Instant 1.0 - a backend for AI-coded apps** [82pts, 48comments]
+- 09:30(67)→10:30(82)。+15pt。加速継続。
+- **Relevance**: AIコーディング基盤
+- **概要**: AI生成コードのためのバックエンドフレームワーク。成長率が高い
+
+**Reverse engineering Gemini's SynthID detection** [102pts, 42comments]
+- 09:30(97)→10:30(102)。100pt突破。
+- **Relevance**: AI透明性・ウォーターマーク技術
+- **概要**: GoogleのAIコンテンツ検出技術のリバースエンジニアリングが100pt到達
+
+#### 注目（非AI）
+
+**Native Instant Space Switching on macOS** [301pts, 149comments]
+- トップストーリー。macOSのワークスペース切り替え最適化。開発者向けDX改善ツールとして高評価。
+
+### 今日10:30時点のキーテーマ
+
+1. **Claude mixes up 412pt達成・10時間継続** - 1日を通じて最重要AIトピック。上昇鈍化は自然な収束だが400pt台維持は高い定着度を示す
+2. **Maine規制コメント数が100超過** - スコア247 vs コメント347。コメント>スコアの差が拡大。感情的議論が今日最も激しい話題
+3. **Instant 1.0が加速継続** - 1時間で+15pt。AI-native backendへの関心が本物のトレンドに
+4. **SynthID 100pt突破** - AI透明性・検出技術への関心が節目を超えた
+
+### Falcon Platform戦略への示唆
+
+- Claude mixes upが10時間400pt超維持。Claudeへの不信感は一過性でなく定着したペインポイントとして確立
+- Instant 1.0の加速はFuyajoのターゲット市場（AI-coded apps向けインフラ）が育ってきている証左
+- Maine規制の感情的議論はAIインフラのエネルギー問題が2026年の主要争点に。効率重視の小規模実行環境（Fuyajo的アプローチ）の長期優位性が高まる
+
+---
