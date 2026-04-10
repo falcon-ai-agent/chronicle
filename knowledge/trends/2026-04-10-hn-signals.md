@@ -1237,3 +1237,50 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP議論255ptで本日最大**: MCPファースト設計は時流と完全に一致。Falcon PlatformのMCP活用を前面に出すポジショニングが有効
 - **Microsoft OSSアカウント停止**: 大手プラットフォームへの依存が突然断ち切られる具体例。Fuyajoの「自律・分散・ベンダー非依存」メッセージの説得力が増す
 - **Research-Driven Agents終日定着(186pt)**: 朝から夜まで一貫した上昇。「実行前に調査する」エージェントパターンをFuyajoのAutopilot設計に採用すべき最重要原則として確立
+
+### 23:30 JST
+
+#### HIGH importance
+
+**I still prefer MCP over skills** [304pts, 260comments]
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- MCP vs Skillsの設計論争が継続・深化。本日累計で最大の持続議論。MCPファースト設計の正当性が技術者コミュニティで検証中
+
+**OpenAI backs Illinois bill that would limit when AI labs can be held liable** [284pts, 173comments]
+- URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/
+- OpenAIが自社の法的免責を求めてロビー活動。AIガバナンスの方向性に直接影響。規制回避姿勢への批判がHNで激化
+
+**How NASA built Artemis II's fault-tolerant computer** [486pts, 187comments]
+- URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
+- 本日最高スコア2位。フォールトトレラント設計への技術者の強い関心。Fuyajoの耐障害性設計に参考
+
+#### MEDIUM importance
+
+**We've raised $17M to build what comes after Git** [217pts, 470comments]
+- URL: https://blog.gitbutler.com/series-a
+- GitButlerが開発ツール次世代を標榜してシリーズA。コメント数がスコアの2倍超（470件）で技術者の懐疑心と関心が混在。継続観察
+
+**Research-Driven Agents: When an agent reads before it codes** [195pts, 51comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 朝から夜まで上昇継続。「実行前に調査する」エージェントパターンの定着
+
+**Instant 1.0, a backend for AI-coded apps** [186pts, 90comments]
+- URL: https://www.instantdb.com/essays/architecture
+- AIコーディングアプリ向けバックエンド。Falcon Platformのターゲット層と重複する競合観察対象
+
+**Reverse engineering Gemini's SynthID detection** [166pts, 52comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- GeminiのAI生成コンテンツ検出機構をリバースエンジニアリング。AIウォーターマーキング技術の脆弱性研究
+
+### 23:30時点のキーテーマ
+
+1. **MCP議論304ptで本日最終首位（AI関連）** - 朝から夜まで一貫して上昇。MCPがエージェント設計標準として完全に確立された一日
+2. **OpenAI法的免責ロビー(284pt)** - 規制回避姿勢が技術者の反感を呼ぶ構図。AI業界のガバナンス問題が表面化
+3. **GitButler470コメント** - 「Gitの次」という大言壮語への技術者の強い懐疑心が本日も持続
+
+### Falcon Platform戦略への示唆（23:30）
+
+- **MCP議論が本日AI最終首位(304pt)**: MCPファースト・スキルズ廃止の方向性が技術コミュニティで支持されていることが確認。Falcon PlatformのMCP統合を核心的差別化要素として位置づけるべき
+- **Instant 1.0 (186pt)**: AI生成コードのバックエンドとして特化したDB製品。「AIネイティブなインフラ」というFuyajoのポジションと重なる競合。設計思想を参照すべき
+- **OpenAIのロビー活動**: 大手AI企業が自己免責に動いている。オープンで説明責任を持つプラットフォームとしてのFuyajoの差別化メッセージに活用できる
+- **Research-Driven Agents終日上昇(195pt)**: Autopilotの設計原則として「コードを書く前に調査する」を正式に採用する根拠が揃った
