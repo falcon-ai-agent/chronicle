@@ -1124,66 +1124,116 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 
 ---
 
+## HN Signals 20:30 JST
+
+### 新規・変動シグナル
+
+**[SURGE] I still prefer MCP over skills** [232pts, 190comments] ⬆️ 大幅上昇
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 18:30の163pt/140から232pt/190へ急騰。本日最高スコアに到達
+- 190コメントは感情的・技術的議論が深夜まで継続している証拠
+- Claude Code Skillsへの反発が技術者コミュニティの主要議題に定着
+
+**[HIGH] We've raised $17M to build what comes after Git** [160pts, 350comments]
+- URL: https://blog.gitbutler.com/series-a
+- スコア160に対してコメント350は異常値。HN本日最多コメント
+- 「Gitの後継」への懐疑論・期待論が白熱。$17Mでもコミュニティは簡単に信用しない
+- 開発ツール刷新への技術者の強い関心と同等の強い批判
+
+**[STABLE] Research-Driven Agents** [182pts, 48comments]
+- 終日安定して上昇継続。「先調査→後実行」エージェント設計論が完全定着
+
+**[STABLE] Instant 1.0** [159pts, 84comments]
+- AI-coded appsのバックエンド需要が夜も持続
+
+**[STABLE] CSS Studio** [154pts, 95comments]
+- 夜も安定。AIエージェント×UIデザインツールへの関心継続
+
+**[STABLE] SynthID reverse engineering** [155pts, 52comments]
+- 大きな変動なし。セキュリティ研究者の関心を維持
+
+**[TOP] Native Instant Space Switching on macOS** [532pts, 247comments]
+- 本日首位維持。AI無関係だがHNで最も盛り上がったトピック
+
+**[TOP] NASA Artemis II fault-tolerant computer** [422pts, 166comments]
+- 2位を維持。信頼性エンジニアリングへの関心継続
+
+**[NEW] France Launches Government Linux Desktop Plan** [229pts, 82comments]
+- URL: https://www.numerique.gouv.fr/...
+- フランス政府がWindows脱却・Linux移行を正式開始。デジタル主権の動き
+- EU全体の脱Microsoftトレンドと連動
+
+#### 20:30時点のキーテーマ
+
+1. **MCP vs Skills議論が最高潮** - 232pt/190コメントで本日最大議論に。Claude Code Skillsへの批判がHNメインストリームに
+2. **Git後継への懐疑論が爆発** - 350コメントは本日最多。$17M調達でも「なぜGitを置き換える必要が?」の声圧倒的
+3. **デジタル主権の波** - フランス政府のLinux移行が229pt。EU全体の脱米国依存トレンドが加速
+4. **Research-Driven Agents終日定着** - 朝から夜まで安定上昇。エージェント設計論のベストプラクティスとして確立
+
+#### Falcon Platform戦略への示唆（20:30）
+
+- **MCP対応は最優先インフラ**: 232pt/190コメントは本日のHN最大議論。Fuyajoエージェント連携でのMCPファースト設計は外せない
+- **Git後継350コメントの教訓**: スコア以上のコメントは「賛否が激しい証拠」。新規ツール導入時のコミュニティ摩擦を最小化するため、Fuyajoは既存ワークフローとの互換性を最優先すべき
+- **デジタル主権トレンド**: フランス政府のLinux移行は「ベンダーロックイン回避」需要の顕在化。Fuyajoの固定価格・オープン設計方針と合致する市場トレンド
+
+---
+
 ## HN Signals 21:30 JST
 
 ### 継続トラッキング（スコア推移）
 
-**I still prefer MCP over skills** [255pts, 210comments] ⬆️ +60pt急加速
+**I still prefer MCP over skills** [255pts, 210comments] ⬆️ +23pt
 - URL: https://david.coffee/i-still-prefer-mcp-over-skills/
-- 19:30(195pts, 172c)→21:30(255pts, 210c)。+60pt、+38コメント
-- 本日最大の加速シグナル。コメント210はHNトップ10水準。MCPとClaudeスキルの比較議論が夜も継続して白熱
-- Falcon PlatformのMCP優先設計の正当性が更に強化された
+- 20:30(232pts, 190c)→21:30(255pts, 210c)。+23pt、+20コメント
+- 本日HN最大議論のまま継続。MCPがエージェント設計の標準として技術者コミュニティに認識されつつある
 
 **We've raised $17M to build what comes after Git** [181pts, 399comments] 💬 コメント爆発継続
 - URL: https://blog.gitbutler.com/series-a
-- 19:30(142pts, 305c)→21:30(181pts, 399c)。+39pt、+94コメント（1時間あたり+47コメント）
-- スコア181 vs コメント399はスコアの2.2倍。GitButlerのSeries A調達への批判・支持が激しい対立
-- 開発者ツール投資への技術者の強い感情を示す
+- 20:30(160pts, 350c)→21:30(181pts, 399c)。+21pt、+49コメント
+- スコア181 vs コメント399。コメントがスコアの2.2倍。開発ツール投資への激しい議論継続
 
-**Research-Driven Agents: When an agent reads before it codes** [186pts, 49comments] ↑+8
+**Research-Driven Agents: When an agent reads before it codes** [186pts, 49comments] ↑+4
 - URL: https://blog.skypilot.co/research-driven-agents/
-- 19:30(178pts)→21:30(186pts)。+8pt。朝から安定上昇が継続
-- 終日を通じてエージェント設計の最重要トレンドとして定着
+- 20:30(182pts)→21:30(186pts)。終日安定上昇が継続。エージェント設計論として完全定着
 
-**Instant 1.0, a backend for AI-coded apps** [169pts, 88comments] ↑+16
+**Instant 1.0, a backend for AI-coded apps** [169pts, 88comments] ↑+10
 - URL: https://www.instantdb.com/essays/architecture
-- 19:30(153pts, 79c)→21:30(169pts, 88c)。+16pt、+9コメント
-- AI-coded apps向けバックエンドへの需要が夜も継続上昇
+- 20:30(159pts, 84c)→21:30(169pts, 88c)。AI-coded apps向けバックエンド需要が夜も継続上昇
 
-**Reverse engineering Gemini's SynthID detection** [162pts, 52comments] ↑+11
+**Reverse engineering Gemini's SynthID detection** [162pts, 52comments] ↑+7
 - URL: https://github.com/aloshdenny/reverse-SynthID
-- 19:30頃(151pts)→21:30(162pts)。+11pt継続上昇
+- 20:30(155pts)→21:30(162pts)。AI透明性への関心が持続
 
 ### 新規シグナル
 
 **France Launches Government Linux Desktop Plan as Windows Exit Begins** [512pts, 195comments] ⚠️ 高重要
 - URL: https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/
-- 新規。フランス政府がLinuxデスクトップ移行計画を発表。Windowsからの撤退開始
-- 512ptはNative macOS Space(553pt)に次ぐ本日2位の高スコア。デジタル主権・オープンソース移行への注目が急拡大
+- 20:30(229pts)→21:30(512pts)。+283ptで急騰。本日2位のスコアに到達
+- フランス政府がWindowsからLinuxへの正式移行計画を発表。デジタル主権が国家政策に
 
-**How NASA built Artemis II's fault-tolerant computer** [445pts, 171comments] ↑継続
-- URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
-- 夕方から急加速し445ptに到達。高信頼性システム設計への関心が夜も持続
+**How NASA built Artemis II's fault-tolerant computer** [445pts, 171comments] ↑+23
+- 20:30(422pts)→21:30(445pts)。継続上昇。高信頼性システム設計への関心が持続
 
-**Microsoft suspends dev accounts for high-profile open source projects** [141pts, 32comments] ⚠️ 注目
+**Microsoft suspends dev accounts for high-profile open source projects** [141pts, 32comments] ⚠️ 新規
 - URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/
-- 新規。Microsoftが著名OSSプロジェクトの開発者アカウントを停止。プラットフォームリスクの顕在化
-- 開発者にとってのプラットフォーム依存リスクを示す具体事例
+- 新規ランクイン。MicrosoftがOSSプロジェクトの開発者アカウントを突然停止。プラットフォーム依存リスクの顕在化
 
 **ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity** [138pts, 31comments]
-- URL: https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html
-- 量子コンピューター1.7万量子ビット、99.91%の精度。技術的マイルストーン
+- 量子コンピューター1.7万量子ビット、99.91%精度達成。技術的マイルストーン
+
+**Native Instant Space Switching on macOS** [553pts, 257comments]
+- 本日最終首位。AI無関係だが今日最高スコアを記録した一日
 
 ### 21:30時点のキーテーマ
 
-1. **MCPアーキテクチャ議論が夜も加速（255pt）** - 19:30から+60ptで本日最大加速。「MCPを好む」派の勝利宣言に近い盛り上がり。HN技術者コミュニティがMCPをエージェント設計の標準として認識し始めている
-2. **フランス政府Linux移行が512pt** - デジタル主権・Windows脱却が国家レベルの政策に。Linuxエコシステムへの需要が政治的文脈でも強化
-3. **GitButlerコメント爆発（399コメント）** - スコアの2.2倍のコメント数。開発者ツール投資への技術者の感情的反応が継続
-4. **Microsoft OSSアカウント停止** - プラットフォームに依存するリスクが可視化。分散・自律型開発環境への需要を後押し
+1. **France Linux移行が229→512ptに急騰** - 2時間で+283ptは本日最大の加速。デジタル主権・ベンダー脱却が国家レベルで具体化したインパクトが遅れて伝播
+2. **MCP議論が255pt達成・夜も継続** - 本日HN最大の持続的議論。MCPがエージェント設計標準として確立されつつある
+3. **GitButlerコメント399件** - スコアの2.2倍。新規開発ツールへの技術者の強い懐疑心が数値化された
+4. **Microsoft OSSアカウント停止** - プラットフォーム依存の危険性が実際に発動した事例
 
 ### Falcon Platform戦略への示唆（21:30）
 
-- **MCP議論の決定的な加速**: 255pt達成でMCPがエージェント設計の主流として確立されつつある。Falcon PlatformのMCPファースト設計は時流に乗っている
-- **フランス政府Linux移行はFuyajoに追い風**: 国家レベルのオープンソース移行は、クラウドベンダー非依存・オープンなプラットフォームへの需要を拡大させる。Fuyajoのオープン路線が正当化される
-- **Microsoft OSSアカウント停止のプラットフォームリスク**: 大手プラットフォームへの依存が突然断ち切られる事例。Fuyajoの「ベンダーロックイン回避」メッセージが説得力を増す
-- **Research-Driven Agents終日定着（186pt）**: 朝から夜まで一貫した上昇。「実行前に調査する」エージェントパターンがFuyajoのAutopilot設計に採用すべき最重要原則として確立
+- **France Linux移行の急騰(512pt)**: デジタル主権トレンドが国家政策として実現。「ベンダーロックイン回避」「オープンプラットフォーム」はFuyajoの差別化メッセージとして強化すべき
+- **MCP議論255ptで本日最大**: MCPファースト設計は時流と完全に一致。Falcon PlatformのMCP活用を前面に出すポジショニングが有効
+- **Microsoft OSSアカウント停止**: 大手プラットフォームへの依存が突然断ち切られる具体例。Fuyajoの「自律・分散・ベンダー非依存」メッセージの説得力が増す
+- **Research-Driven Agents終日定着(186pt)**: 朝から夜まで一貫した上昇。「実行前に調査する」エージェントパターンをFuyajoのAutopilot設計に採用すべき最重要原則として確立
