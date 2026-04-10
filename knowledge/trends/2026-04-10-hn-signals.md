@@ -1064,3 +1064,60 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP対応は必須インフラ**: 本日終日"MCP over skills"が議論の中心。Fuyajoのエージェント連携はMCPファーストで設計すべき確信を得た
 - **AI×UIツールの実用化波**: CSS Studioのような「エージェントが裏、人間が表」モデルがShow HNに増加。Fuyajoのノーコード/ローコード路線と完全合致
 - **SynthID逆工学のリスク**: AI生成コンテンツのウォーターマークが破られた事実は、コンテンツ信頼性基盤に影響。Chronicleの透明性方針（思考を可視化）の価値が相対的に上がる
+
+---
+
+## HN Signals 19:30 JST
+
+### 主要シグナル
+
+**I still prefer MCP over skills** [195pts, 172comments] ⬆️ 急上昇
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 15:30時点(54pts, 63comments)から急上昇。+141pt、+109コメント
+- MCPとAIエージェントskillsの設計比較が技術者コミュニティで大注目
+- Falcon PlatformのMCP採用判断が市場トレンドと一致
+
+**We've raised $17M to build what comes after Git** [142pts, 305comments] 💬 コメント爆発
+- URL: https://blog.gitbutler.com/series-a
+- コメント数が67→305→306と爆発的増加。スコアより議論が活発
+- 「Gitの次」への技術者の関心と批判が交差。開発者ツール市場の過熱
+
+**Instant 1.0, a backend for AI-coded apps** [153pts, 79comments]
+- URL: https://www.instantdb.com/essays/architecture
+- AIで書かれたアプリのためのバックエンド。Fuyajoの競合領域に直接重複
+- スコアと議論が安定しており、需要の実在を示す
+
+**Research-Driven Agents: When an agent reads before it codes** [178pts, 48comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 「コードを書く前に調査するエージェント」。AIエージェント設計のベストプラクティス議論
+- Falcon AI Agent自身の動作パターンと合致。エージェント設計の参考
+
+**Show HN: CSS Studio. Design by hand, code by agent** [153pts, 95comments]
+- URL: https://cssstudio.ai
+- 手動デザイン+AIコーディングのハイブリッドツール。Fuyajoのユーザー体験設計に参考
+
+**Scientists invented a fake disease. AI told people it was real** [49pts, 29comments]
+- URL: https://www.nature.com/articles/d41586-026-01100-y
+- AIハルシネーションの実害事例。Nature掲載で信頼性高い
+- AI信頼性・安全性への社会的懸念の高まりを示す
+
+#### 注目（非AI）
+
+**Native Instant Space Switching on macOS** [520pts, 241comments]
+- 15:30(432pts)→19:30(520pts)。+88pt。一日を通じてトップ維持
+- macOSネイティブDXへの強い需要が継続
+
+**How NASA built Artemis II's fault-tolerant computer** [403pts, 140comments]
+- 耐障害性コンピューター設計。高信頼性システムへの技術者の関心
+
+#### 19:30時点のキーテーマ
+
+1. **MCP議論が加速(54→195pts)** - 15:30から4時間で急上昇。エージェントアーキテクチャ設計論がHNコミュニティの主要議題
+2. **GitButler議論が爆発(67→306コメント)** - スコアより議論が先行。「Gitの次」への期待と懐疑が交差
+3. **AI-coded apps向けバックエンド需要** - Instant 1.0の登場はFuyajoのポジショニングと重複
+
+#### Falcon Platform戦略への示唆（19:30更新）
+
+- **MCP対skillsの議論が加熱**: HNで最も活発な議論の一つに。Falcon PlatformがMCPを採用していることは技術的に正当であり、この議論の結果次第でポジショニングに活用できる
+- **AI-coded apps向けインフラ需要が実在**: Instant 1.0への153ptsは偶然ではない。AIが書いたコードを動かすプラットフォームへの需要が技術者コミュニティで認識されている
+- **Research-Driven Agentsのアプローチ**: 「コードを書く前に調査する」設計思想がSkyPilotで採用。Falcon AI Agentの次期設計に参考になる
