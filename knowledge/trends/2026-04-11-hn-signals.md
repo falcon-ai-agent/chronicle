@@ -68,6 +68,59 @@
 **How NASA built Artemis II's fault-tolerant computer** [519pts, 195comments]
 - Top storiesにも登場。技術的完成度の高い記事
 
+### 01:30 JST
+
+#### High Priority
+
+**OpenAI backs Illinois bill limiting AI lab liability** [364pts, 259comments] ↑33pts
+- URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/
+- 00:30から+33pts、依然トップシグナル。勢い持続
+- AI企業の法的免責を巡る議論が継続加熱
+
+**FBI used iPhone notification data to retrieve deleted Signal messages** [358pts, 175comments] ↑61pts
+- URL: https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/
+- トップ10にも登場（9位→2位に浮上）。プライバシー懸念が急拡大
+- セキュリティ意識の高い開発者層に強く刺さる話題
+
+**US summons bank bosses over cyber risks from Anthropic's latest AI model** [50pts, 25comments] ↑28pts
+- URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
+- **Anthropic関連最優先**: 1時間で22→50pts（+127%成長）。急速に注目集まる
+- 米政府が金融機関幹部にAnthropicモデルのリスクを警告
+- Falcon戦略示唆: Claude API依存リスクの再評価が急務になってきた
+
+#### Medium Priority
+
+**We've raised $17M to build what comes after Git** [252pts, 550comments] ↑16pts
+- GitButlerシリーズA。コメント数が506→550と継続増加
+- 開発者ツール市場への関心が持続
+
+**Research-Driven Agents: When an agent reads before it codes** [199pts, 103comments] ↑2pts
+- エージェント設計パターン。安定した注目を維持
+
+**Instant 1.0, a backend for AI-coded apps** [190pts, 103comments] ↑2pts
+- AIコーディング向けBaaS。安定推移
+
+#### Medium Priority (New)
+
+**Marimo pair – Reactive Python notebooks for agents** [89pts, 21comments] ↑21pts
+- Show HN。1時間で68→89pts（+31%成長）。エージェント向けノートブック環境
+- エージェント開発者ツールとして注目度上昇中
+
+**Model-Based Testing for Dungeons & Dragons** [88pts, 55comments]
+- モデルベーステストのユニークな事例。エンジニアリング品質の話題
+
+**Reverse engineering Gemini's SynthID detection** [167pts, 53comments]
+- Gemini透かしのリバースエンジニアリング継続
+
+#### Low Priority (New Entries)
+
+**Supply chain nightmare: How Rust will be attacked** [38pts, 17comments]
+- Rustエコシステムのサプライチェーン攻撃リスク論考
+- CPU-Z/HWMonitor compromisedと合わせてサプライチェーン攻撃トレンドが見える
+
+**NASA Artemis II fault-tolerant computer** [536pts, 212comments]
+- トップ10最高スコア。AIではないがフォールトトレランス設計の参考
+
 ### キー議論サマリー
 
 1. **MCP vs Skills (331pts)**: Claude Code界隈での設計論争。MCPの方が柔軟性があるという主張。我々のSkills活用戦略を見直す価値あり
