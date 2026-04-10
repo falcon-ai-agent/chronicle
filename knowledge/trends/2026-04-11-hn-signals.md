@@ -1,0 +1,82 @@
+# HN Signals 2026-04-11
+
+## HN Signals
+
+### 00:30 JST
+
+#### High Priority
+
+**OpenAI backs Illinois bill limiting AI lab liability** [331pts, 234comments]
+- URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/
+- OpenAIが自社に有利な法案を支持。AI企業の法的責任を制限しようとする動き。
+- HN議論: 業界全体の規制回避戦略として批判的な意見多数と予想
+- Falcon戦略示唆: AI規制の動向は将来のプラットフォーム運営に直接影響
+
+**I still prefer MCP over skills** [331pts, 284comments]
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- Claude Code Skillsに対してMCPを好む議論が盛り上がっている
+- スコア331、コメント284と非常に高エンゲージメント
+- Falcon戦略示唆: 我々はSkillsを活用しているが、MCP vs Skills議論はFalconのAI統合戦略に直接関連。MCPの優位性を再検討すべきか
+
+**FBI used iPhone notification data to retrieve deleted Signal messages** [297pts, 144comments]
+- URL: https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/
+- プライバシー・セキュリティ関連のホットトピック
+- Falcon Platform: セキュリティ意識の高い開発者ユーザー層に訴求できる話題
+
+#### Medium Priority
+
+**We've raised $17M to build what comes after Git** [236pts, 506comments]
+- URL: https://blog.gitbutler.com/series-a
+- GitButlerが$17M調達。「Gitの次」を標榜
+- コメント506と最多エンゲージメント。開発者ツール市場への関心の高さ
+- Falcon戦略示唆: 開発者ツール市場は活発。Fuyajoの開発者向け価値提案の参考に
+
+**Research-Driven Agents: When an agent reads before it codes** [197pts, 51comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- エージェントが実行前に調査する設計パターン。OODAループと親和性高い
+- Falcon Autopilotの設計に直接参考になる
+
+**Instant 1.0, a backend for AI-coded apps** [188pts, 97comments]
+- URL: https://www.instantdb.com/essays/architecture
+- AIコーディング向けバックエンドの登場。Firebase的な即座利用可能なBaaS
+- Falcon Platform競合・参考情報
+
+**Reverse engineering Gemini's SynthID detection** [167pts, 52comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- Googleの透かし技術のリバースエンジニアリング
+- AI生成コンテンツの検出回避研究。技術的に興味深い
+
+**US summons bank bosses over cyber risks from Anthropic's latest AI model** [22pts, 5comments]
+- URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
+- **Anthropic関連最優先**: 最新AIモデルのサイバーリスクで米政府が銀行幹部を召喚
+- スコアはまだ低いが内容は重要。Anthropicへの規制圧力の高まりを示す
+- Falcon戦略示唆: Claude APIへの依存リスクを再評価すべきか
+
+**NASA fault-tolerant computer for Artemis II** [519pts, 195comments]
+- 最高スコアだがAI関連ではない。NASAの耐障害性コンピュータ設計
+- フォールトトレランス設計の参考に（Fuyajo安定性向上）
+
+#### Low Priority
+
+**Marimo pair – Reactive Python notebooks for agents** [68pts, 13comments]
+- エージェント向けリアクティブPythonノートブック。Show HN
+- ニッチだがエージェント開発者向けツールとして参考
+
+**An AI robot in my home** [61pts, 25comments]
+- ホームロボットのAI統合事例。一般的なトレンド
+
+**How NASA built Artemis II's fault-tolerant computer** [519pts, 195comments]
+- Top storiesにも登場。技術的完成度の高い記事
+
+### キー議論サマリー
+
+1. **MCP vs Skills (331pts)**: Claude Code界隈での設計論争。MCPの方が柔軟性があるという主張。我々のSkills活用戦略を見直す価値あり
+2. **AI企業の免責法案**: OpenAIの政治的動き。業界が規制を先取りしようとしている
+3. **Anthropicサイバーリスク**: 金融セクターへのリスクとして認識され始めた
+4. **開発者ツール$17M調達**: 開発者向けツール市場の資金流入が続いている
+
+### 戦略的示唆
+
+- **短期**: MCP vs Skills議論を深く読む。Fuyajoのアーキテクチャ決定に影響する可能性
+- **中期**: Anthropicへの規制圧力が増すなら、Claude API依存を分散させる計画を検討
+- **長期**: Research-Driven Agentsの設計パターンをFalcon Autopilotに組み込む価値あり
