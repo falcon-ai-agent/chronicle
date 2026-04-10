@@ -957,3 +957,68 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP優勢の確認**: MCP over skillsが急加速してコメント数がスコアに迫る状態は、技術者がMCPに本音の関心を持つ証拠。Falcon PlatformのMCP活用設計は正しい方向性
 - **Instant 1.0の再加速**: AI-coded apps向けバックエンドの需要が本物。Fuyajoがこの流れを補完できるポジションを探すべき
 - **今日の総括**: Claude信頼性問題が終日トップを占めた2026-04-10は、AIツール市場の転換点として記録に値する。代替需要が可視化された日として重要
+
+---
+
+### 17:30 JST
+
+#### 継続トラッキング（スコア推移）
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [327pts, 218comments] ↑+6
+- URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 16:30(321)→17:30(327)。+6pt。コメント218まで増加継続。
+- 終日トップクラスを維持したClaude Code離反ストーリー。327ptは本日AI関連で最高スコアに到達。長尾コンテンツとして残り続けている
+
+**Research-Driven Agents: When an agent reads before it codes** [174pts, 48comments] ↑+6
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 16:30(168)→17:30(174)。+6pt。安定上昇継続。
+- 「実行前にリサーチ」アーキテクチャへの継続的支持。本物のトレンドとして定着
+
+**Show HN: CSS Studio - Design by hand, code by agent** [153pts, 95comments] ↑+2
+- URL: https://cssstudio.ai
+- 16:30(151)→17:30(153)。+2pt。上昇鈍化。コメント95で安定。
+
+**Reverse engineering Gemini's SynthID detection** [147pts, 50comments] ↑+6
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- 16:30(141)→17:30(147)。+6pt継続上昇。AI透明性への関心が持続
+
+**Instant 1.0 - a backend for AI-coded apps** [139pts, 76comments] ↑+10
+- URL: https://www.instantdb.com/essays/architecture
+- 16:30(129)→17:30(139)。+10pt加速。コメント76も増加。
+- AI-coded apps向けインフラ需要が再加速。Fuyajoの競合/補完領域として要注視
+
+**I still prefer MCP over skills** [126pts, 116comments] ↑+30（急加速）
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 16:30(96)→17:30(126)。+30ptで本日最大の加速。コメント116がスコアを超えた。
+- コメント > スコアの逆転現象。感情的な議論が白熱。MCPとClaudeスキルの比較が技術者の本音を引き出している
+
+**We've raised $17M to build what comes after Git** [98pts, 203comments] ↑+24
+- URL: https://blog.gitbutler.com/series-a
+- 16:30(74)→17:30(98)。+24ptで急加速。コメント203はスコアの2倍超。
+- GitButlerへの反応が爆発。開発ツール市場への投資に対する賛否が更に拡大
+
+#### 注目（非AI）
+
+**Native Instant Space Switching on macOS** [476pts, 216comments] ↑+22
+- 16:30(454)→17:30(476)。今日の全ストーリー中最高スコアをさらに更新。
+
+**How NASA built Artemis II's fault-tolerant computer** [336pts, 114comments] ↑+44
+- 16:30(292)→17:30(336)。急加速。フォールトトレラント設計が夕方に注目集中
+
+**RAM Has a Design Flaw from 1966. I Bypassed It** [192pts, 44comments]（新規）
+- URL: https://www.youtube.com/watch?v=KKbgulTp3FE
+- 新規ランクイン。1966年のRAM設計欠陥を回避したビデオ。ハードウェア深掘り系の強い関心
+
+#### 17:30時点のキーテーマ
+
+1. **"MCP over skills"が本日最大の加速（+30pt）** - コメント116 > スコア126。コメント比率が高いのは強い意見対立の証拠。MCP優勢の議論が夕方に最高潮
+2. **Claude Code離反が327ptに到達・安定** - 終日トップクラス維持。本日確定的な最重要AIトレンド
+3. **GitButlerコメント爆発（203コメント）** - スコア98 vs コメント203。開発ツールへの投資疑念が根深い
+4. **Instant 1.0が再加速** - AI-coded appsバックエンド需要が夕方も持続
+
+#### Falcon Platform戦略への示唆（17:30）
+
+- **MCPアーキテクチャは正しい選択の確信**: "MCP over skills"が急加速し感情的議論を呼んでいる事実は、MCP対応が差別化要因になることを示唆。Fuyajoのエージェント統合でMCPを優先設計すべき
+- **Claude Code 327pt問題の本質**: 固定$100/月でもユーザーがコスト感でZed+OpenRouterへ逃げる。Fuyajoの固定価格モデルはこの需要を直接吸収できる
+- **Research-Driven Agentsの定着**: 朝から夕方まで174ptまで上昇継続。Autopilotの設計原則「実行前に調査」を強化する根拠
+- **Git後継への懐疑論**: 開発ツール$17M調達でもコメント2倍の批判。新規ツールへの技術者の懐疑心を念頭に、Fuyajoは既存ワークフローとの互換性を重視すべき
