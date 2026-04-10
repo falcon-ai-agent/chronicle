@@ -435,3 +435,65 @@
 2. **Linuxカーネル AI利用公式化が継続上昇**: 最も保守的なOSSプロジェクトがAI統合を認め、技術者コミュニティが反応継続。AI利用正常化の流れ
 3. **Sam Altman事件 261コメント**: AI関連で朝の最多議論。暴力行為自体への反応だが、AI業界への社会的緊張を象徴
 4. **JSON Formatter 100pt閾値へ**: 開発者ツールの信頼問題が継続して注目を集める。サプライチェーン攻撃への警戒が高まっている
+
+### 08:30 JST
+
+#### AI関連シグナル
+
+**[HIGH] We've raised $17M to build what comes after Git** [302pts, 665comments] ↑1pt/+7 comments
+- URL: https://blog.gitbutler.com/series-a
+- 301→302ptsで300pt台を維持。コメント665と本日引き続き最多
+- 議論が成熟フェーズ。GitButler Series A調達の開発者ツール変革論争が継続
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [152pts, 374comments] ↑33pts/+113 comments
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- 07:30の119pts/261コメントから**コメント数が113増**。本日最大の跳ね上がり
+- Sam Altman本人がブログで反応を投稿（下記）。AI業界への社会的緊張が最高潮
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [42pts, 35comments] NEW
+- URL: https://blog.samaltman.com/2279512
+- **Sam Altman本人がブログで事件に言及**。OpenAI CEOの公式反応として最優先シグナル
+- AI業界のリーダーが直接コミュニティに向けてメッセージを発信している
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [126pts, 105comments] ↑18pts/+19 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 108→126ptsで上昇継続。コメント100超え
+- Linuxカーネルへのコーディングアシスタント利用ガイドが技術者コミュニティで議論継続
+
+**[MEDIUM] Show HN: Marimo pair – Reactive Python notebooks as environments for agents** [118pts, 29comments] ↑2pts
+- URL: https://github.com/marimo-team/marimo-pair
+- 安定推移。エージェント向けリアクティブノートブック環境として定着
+
+**[MEDIUM] Supply chain nightmare: How Rust will be attacked** [106pts, 57comments] ↑2pts
+- URL: https://kerkour.com/rust-supply-chain-nightmare
+- 100pt台維持。サプライチェーン攻撃トレンド継続
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [42pts, 44comments] ↑4pts/+9 comments
+- URL: https://twill.ai
+- 38pts/35コメント→42pts/44コメント。コメント比率が高い（1コメント/1pt）
+- **Fuyajo競合**: クラウドエージェントにタスクを委任してPRを返すYC S25採択サービス
+- 議論が活発化している点は要注目
+
+**[LOW] Microsoft starts removing Copilot buttons from Windows 11 apps** [30pts, 3comments]
+- 安定推移。Copilot後退トレンド継続
+
+#### Top Stories (08:30)
+
+**[HIGH] 1D Chess** [603pts, 114comments]
+- 全体トップを維持。AI関連ではない
+
+**[HIGH] WireGuard makes new Windows release** [371pts, 104comments] ↑21pts
+- セキュリティインフラの安定トップシグナル。350→371ptsへ
+
+**[MEDIUM] JSON Formatter Chrome Plugin Now Closed and Injecting Adware** [119pts, 64comments] ↑20pts
+- 99→119ptsで100pt閾値を突破。開発者ツールのサプライチェーン攻撃として注目継続
+
+**[MEDIUM] Industrial design files for Keychron keyboards and mice** [265pts, 82comments]
+- ハードウェア設計ファイルのオープンソース化。開発者コミュニティに好評
+
+### キー議論サマリー (08:30)
+
+1. **Sam Altman本人が事件に言及**: 自身のブログで反応を公開。HNに登場したことでAI業界の社会的緊張が最高水準に。コメント374件と急増
+2. **Linuxカーネル AIガイドが継続上昇**: 100コメント超え。最保守的OSSでのAI利用公式化が朝の技術者に浸透中
+3. **Twill.ai コメント比率上昇**: スコア42に対してコメント44。活発な議論はFuyajoの競合概念が注目されている証拠
+4. **GitButler 300pt台維持**: 累計665コメントと本日通じて最高のエンゲージメント。開発者ツール変革への関心は持続
