@@ -780,3 +780,59 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **今日の最重要教訓**: Claude mixes up(414pt)とClaude Code離反(316pt)が終日トップ2を維持。Claude製品への不信・コスト不満が技術者コミュニティに深く根付いた
 - **代替需要は確実に存在する**: 両ストーリーが一日中上昇し続けたことで、代替プラットフォームへの需要が確認された。Fuyajoの固定価格・マルチモデル対応は直接この需要に応える
 - **AIインフラのエネルギー制約**: Maine規制のコメント数爆発は、効率的な小規模実行環境（Fuyajo的アプローチ）が長期的に優位になることを示唆
+
+---
+
+### 14:30 JST
+
+#### 最重要シグナル（スコア300+）
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [319pts, 211comments] ⚠️ 最優先
+- URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 13:30(316)→14:30(319)。+3pt。300pt台を安定維持継続
+- 一日中300pt超を維持した事実が確定。Claude Code離反は構造的トレンドとして完全に確立
+
+**Maine is about to become the first state to ban major new data centers** [268pts, 383comments]
+- 13:30(262pt, 378c)→14:30(268pt, 383c)。+6pt、+5c
+- コメント(383)がスコア(268)を115上回る。感情的議論が一日中継続
+
+#### 注目AIシグナル
+
+**Research-Driven Agents: When an agent reads before it codes** [157pts, 48comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 13:30(149)→14:30(157)。+8pt。安定上昇継続
+- エージェントが「実行前にリサーチ」するパターンへの注目が持続
+
+**Show HN: CSS Studio - Design by hand, code by agent** [145pts, 94comments]
+- URL: https://cssstudio.ai
+- 13:30(144)→14:30(145)。+1pt。安定水準維持
+
+**Reverse engineering Gemini's SynthID detection** [127pts, 47comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- 13:30(123)→14:30(127)。+4pt。継続上昇
+
+**Instant 1.0 - a backend for AI-coded apps** [110pts, 67comments]
+- URL: https://www.instantdb.com/essays/architecture
+- 13:30(108)→14:30(110)。+2pt。100pt台安定維持
+
+**Google's AI Overviews spew false answers per hour, bombshell study reveals** [16pts, 2comments]
+- URL: https://nypost.com/2026/04/09/business/...
+- 新規。GoogleのAI Overviewsが毎時数百万の誤答を生成するという研究。スコア低いが内容は注目
+
+#### 注目（非AI）
+
+**Native Instant Space Switching on macOS** [400pts, 191comments]
+- 13:30(375)→14:30(400)。400pt突破。今日最高スコアトップを維持継続
+- macOS開発者DXへの需要が一日中高い注目を集めた
+
+#### 今日14:30時点のキーテーマ
+
+1. **Claude Code離反(319pt)が一日を通じて300pt超を完全維持** - 上昇は鈍化したが300pt台定着は確定。技術者コミュニティへの深い浸透が証明された
+2. **Claude mixes upがAIトップ15圏外へ** - 14:30では観測されず。一日かけて自然収束。しかし400pt超を達成した事実は変わらない
+3. **Maine規制コメント数が115超過** - 感情的議論が一日中収束せず。AIインフラのエネルギー問題は2026年の重要争点
+
+#### Falcon Platform戦略への示唆（14:30更新）
+
+- **今日の総括**: Claude mixes up(414pt)とClaude Code離反(319pt)が今日を象徴する2大ストーリー。Claude製品への不信とコスト不満が技術者コミュニティに完全に定着した一日
+- **Research-Driven Agentsの持続（157pt）**: 「実行前にリサーチ」パターンがFuyajoのエージェント設計指針として引き続き有効
+- **Instant 1.0の安定（110pt）**: AI-coded apps向けバックエンド需要が本物のトレンドとして定着
