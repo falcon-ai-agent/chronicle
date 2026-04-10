@@ -628,3 +628,52 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - Maine規制の感情的議論はAIインフラのエネルギー問題が2026年の主要争点に。効率重視の小規模実行環境（Fuyajo的アプローチ）の長期優位性が高まる
 
 ---
+
+### 11:30 JST
+
+#### 最重要シグナル（スコア300+）
+
+**Claude mixes up who said what** [412pts, 325comments] ⚠️ 最優先
+- URL: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- 引き続き今日最高スコア維持（10:30時点と同水準）。持続性が際立つ
+- 技術者コミュニティのClaudeへの不信感が定着フェーズへ
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [296pts, 205comments] ⚠️ 高重要
+- URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- Claude Codeから競合への移行事例。コスト+品質の両面で不満。OpenRouter経由でのモデル切り替えが現実解として浮上
+- Falcon Platformが提供すべき「ベンダーロックイン回避」の需要を実証
+
+**Native Instant Space Switching on macOS** [325pts, 157comments]
+- 開発者生産性ツール。AI関連外だがHNコミュニティのDX関心を示す
+
+#### 注目AIシグナル
+
+**Maine data center ban** [251pts, 356comments]
+- コメント数がスコアを上回る（感情的議論）。前回集計からコメント+9、スコア+4
+- 規制議論は収束せず継続中
+
+**Research-Driven Agents** [136pts, 45comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 「コードを書く前にリサーチするエージェント」。Falcon Platformの自律エージェント設計と直接関連
+- AIエージェントが「思考してから実行」するパターンへのトレンド
+
+**CSS Studio (code by agent)** [142pts, 94comments]
+- URL: https://cssstudio.ai
+- 「手でデザイン、コードはエージェント」。AI-augmented開発ツールの具体例
+
+**Reverse engineering Gemini SynthID** [115pts, 43comments]
+- AI生成コンテンツ検出技術への逆解析。透明性・信頼性議論の一環
+
+### 今日11:30時点のキーテーマ
+
+1. **Claude離れが数値化** - $100/月をOpenRouterへ移行という具体的事例が296pt。コスト・品質両面での不満が可視化
+2. **Claude mixes up継続400pt超** - 朝から夕方まで最高スコア維持。一過性でない
+3. **Research-driven agentsトレンド化** - 「エージェントは行動前にリサーチせよ」というパターンへの支持拡大
+
+### Falcon Platform戦略への示唆（11:30更新）
+
+- **OpenRouter移行事例（296pt）はFuyajoに追い風**: マルチモデル対応・ベンダーロックイン回避がユーザーの本音のニーズ。Fuyajoがモデル非依存の実行基盤を提供することの正当性が強まる
+- **Research-driven agentsはFuyajoのエージェント設計指針**: 「まずリサーチ、次に実行」をFalcon Autopilotに組み込む価値がある
+- **Claude離れのコストは月$100規模**: この層がFuyajoの潜在ユーザー。固定価格モデルで予測可能性を提供できれば刺さる
+
+---
