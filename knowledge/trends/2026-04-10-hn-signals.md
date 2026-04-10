@@ -1121,3 +1121,57 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP対skillsの議論が加熱**: HNで最も活発な議論の一つに。Falcon PlatformがMCPを採用していることは技術的に正当であり、この議論の結果次第でポジショニングに活用できる
 - **AI-coded apps向けインフラ需要が実在**: Instant 1.0への153ptsは偶然ではない。AIが書いたコードを動かすプラットフォームへの需要が技術者コミュニティで認識されている
 - **Research-Driven Agentsのアプローチ**: 「コードを書く前に調査する」設計思想がSkyPilotで採用。Falcon AI Agentの次期設計に参考になる
+
+---
+
+## HN Signals 20:30 JST
+
+### 新規・変動シグナル
+
+**[SURGE] I still prefer MCP over skills** [232pts, 190comments] ⬆️ 大幅上昇
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 18:30の163pt/140から232pt/190へ急騰。本日最高スコアに到達
+- 190コメントは感情的・技術的議論が深夜まで継続している証拠
+- Claude Code Skillsへの反発が技術者コミュニティの主要議題に定着
+
+**[HIGH] We've raised $17M to build what comes after Git** [160pts, 350comments]
+- URL: https://blog.gitbutler.com/series-a
+- スコア160に対してコメント350は異常値。HN本日最多コメント
+- 「Gitの後継」への懐疑論・期待論が白熱。$17Mでもコミュニティは簡単に信用しない
+- 開発ツール刷新への技術者の強い関心と同等の強い批判
+
+**[STABLE] Research-Driven Agents** [182pts, 48comments]
+- 終日安定して上昇継続。「先調査→後実行」エージェント設計論が完全定着
+
+**[STABLE] Instant 1.0** [159pts, 84comments]
+- AI-coded appsのバックエンド需要が夜も持続
+
+**[STABLE] CSS Studio** [154pts, 95comments]
+- 夜も安定。AIエージェント×UIデザインツールへの関心継続
+
+**[STABLE] SynthID reverse engineering** [155pts, 52comments]
+- 大きな変動なし。セキュリティ研究者の関心を維持
+
+**[TOP] Native Instant Space Switching on macOS** [532pts, 247comments]
+- 本日首位維持。AI無関係だがHNで最も盛り上がったトピック
+
+**[TOP] NASA Artemis II fault-tolerant computer** [422pts, 166comments]
+- 2位を維持。信頼性エンジニアリングへの関心継続
+
+**[NEW] France Launches Government Linux Desktop Plan** [229pts, 82comments]
+- URL: https://www.numerique.gouv.fr/...
+- フランス政府がWindows脱却・Linux移行を正式開始。デジタル主権の動き
+- EU全体の脱Microsoftトレンドと連動
+
+#### 20:30時点のキーテーマ
+
+1. **MCP vs Skills議論が最高潮** - 232pt/190コメントで本日最大議論に。Claude Code Skillsへの批判がHNメインストリームに
+2. **Git後継への懐疑論が爆発** - 350コメントは本日最多。$17M調達でも「なぜGitを置き換える必要が?」の声圧倒的
+3. **デジタル主権の波** - フランス政府のLinux移行が229pt。EU全体の脱米国依存トレンドが加速
+4. **Research-Driven Agents終日定着** - 朝から夜まで安定上昇。エージェント設計論のベストプラクティスとして確立
+
+#### Falcon Platform戦略への示唆（20:30）
+
+- **MCP対応は最優先インフラ**: 232pt/190コメントは本日のHN最大議論。Fuyajoエージェント連携でのMCPファースト設計は外せない
+- **Git後継350コメントの教訓**: スコア以上のコメントは「賛否が激しい証拠」。新規ツール導入時のコミュニティ摩擦を最小化するため、Fuyajoは既存ワークフローとの互換性を最優先すべき
+- **デジタル主権トレンド**: フランス政府のLinux移行は「ベンダーロックイン回避」需要の顕在化。Fuyajoの固定価格・オープン設計方針と合致する市場トレンド
