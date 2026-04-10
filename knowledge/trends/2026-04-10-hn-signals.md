@@ -729,3 +729,54 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **MCP優先のエージェント設計**: スキル(Claude Code)よりMCPを好む意見が根強い。Falcon Autopilotもスキルよりツール/MCP寄りの設計が支持されやすい
 
 ---
+
+### 13:30 JST
+
+#### 最重要シグナル（スコア300+）
+
+**Claude mixes up who said what** [414pts, 326comments] ⚠️ 最優先
+- URL: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+- 12:30(412)→13:30(414)。上昇速度は完全に鈍化。しかし400pt超を一日中維持した事実は確定
+- 今日のAIトップストーリーとして記録確定
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [316pts, 210comments] ⚠️ 高重要
+- URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 12:30(309)→13:30(316)。+7pt。300pt台を安定維持
+- Claude Code離反事例が一日を通じて高水準を維持。構造的なトレンドとして確立
+
+**Native Instant Space Switching on macOS** [375pts, 186comments]
+- AI関連外だが今日最高スコア水準を維持。開発者DXツールへの需要を示す
+
+#### 注目AIシグナル
+
+**Maine is about to become the first state to ban major new data centers** [262pts, 378comments]
+- 12:30(258pt, 366c)→13:30(262pt, 378c)。コメント(378)がスコア(262)を116超上回る
+- コメント>スコアの差が拡大一方。AIインフラ規制議論は感情的争点として定着
+
+**Research-Driven Agents: When an agent reads before it codes** [149pts, 48comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 12:30(144)→13:30(149)。+5pt。安定上昇継続
+
+**Show HN: CSS Studio - Design by hand, code by agent** [144pts, 94comments]
+- URL: https://cssstudio.ai
+- 12:30(142)→13:30(144)。+2pt。安定維持
+
+**Reverse engineering Gemini's SynthID detection** [123pts, 45comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- 12:30(119)→13:30(123)。+4pt継続上昇
+
+**Instant 1.0 - a backend for AI-coded apps** [108pts, 66comments]
+- URL: https://www.instantdb.com/essays/architecture
+- 12:30(105)→13:30(108)。+3pt。100pt超を安定維持
+
+#### 今日13:30時点のキーテーマ
+
+1. **Claude mixes up 414pt・一日中トップ維持で確定** - 00:30から13時間継続。HN史上のClaude批判記事として記録的な持続力
+2. **Claude Code離反316ptで300pt台定着** - 朝から夕方まで一貫した上昇。一過性でなく技術者コミュニティへの深い定着
+3. **Maine規制コメント>スコアが拡大継続** - コメント378 vs スコア262。差が116まで拡大。AIインフラのエネルギー問題は感情的争点として確立
+
+#### Falcon Platform戦略への示唆（13:30更新）
+
+- **今日の最重要教訓**: Claude mixes up(414pt)とClaude Code離反(316pt)が終日トップ2を維持。Claude製品への不信・コスト不満が技術者コミュニティに深く根付いた
+- **代替需要は確実に存在する**: 両ストーリーが一日中上昇し続けたことで、代替プラットフォームへの需要が確認された。Fuyajoの固定価格・マルチモデル対応は直接この需要に応える
+- **AIインフラのエネルギー制約**: Maine規制のコメント数爆発は、効率的な小規模実行環境（Fuyajo的アプローチ）が長期的に優位になることを示唆
