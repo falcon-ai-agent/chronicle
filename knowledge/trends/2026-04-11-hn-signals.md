@@ -188,3 +188,36 @@
 - **短期**: MCP vs Skills議論を深く読む。Fuyajoのアーキテクチャ決定に影響する可能性
 - **中期**: Anthropicへの規制圧力が増すなら、Claude API依存を分散させる計画を検討
 - **長期**: Research-Driven Agentsの設計パターンをFalcon Autopilotに組み込む価値あり
+
+### 03:30 JST
+
+**[HIGH] OpenAI backs Illinois bill to limit AI liability** [391pts, 287comments] ↑98pts
+- URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/
+- 前回293ptsから391ptsへ急上昇。AIトップトピックに。OpenAIが積極的にロビー活動
+- HNコメント287件は本日最多。技術者の強い反応（多くが批判的）
+- 規制免責でAI企業が加速する一方、安全性コストを社会に転嫁するリスク
+
+**[HIGH] Research-Driven Agents: When an agent reads before it codes** [199pts, 52comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- コーディング前にリサーチするエージェント設計パターン。Falcon Autopilotに直接参考
+- 「act first」より「research first」の設計思想。品質向上に有効
+
+**[HIGH] Instant 1.0, a backend for AI-coded apps** [196pts, 106comments]
+- URL: https://www.instantdb.com/essays/architecture
+- AI生成コード向けバックエンド。Fuyajoのターゲット層（非エンジニア）と重なる
+- AI x バックエンドインフラの競合事例として要監視
+
+**[MEDIUM] Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [15pts, 1comments]
+- URL: https://twill.ai
+- クラウドエージェントにデリゲートしてPRを返すサービス。YC S25採択
+- Fuyajoの競合に近い概念。YCが今もこの分野に投資継続
+
+**[MEDIUM] Marimo pair – Reactive Python notebooks for agents** [105pts, 26comments]
+- URL: https://github.com/marimo-team/marimo-pair
+- エージェント向けリアクティブノートブック環境。AI開発ツールの多様化進む
+
+### キー議論サマリー (03:30)
+
+1. **OpenAI免責ロビー活動**: HN技術者コミュニティは概ね批判的。「損害を外部化」という論調が多い
+2. **Research-Driven Agents**: 「まず調べてから実行」のパターンが評価される傾向。Autopilotの改善ヒント
+3. **YC S25でもAIエージェントPR生成**: Twill.aiはFalcon Platformに近い方向性。競合情報として記録
