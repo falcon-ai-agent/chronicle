@@ -512,3 +512,56 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 
 ---
 
+
+## HN Signals 09:30 JST
+
+**Claude mixes up who said what** [409pts, 321comments]
+- 08:30(403)→09:30(409)。+6ptで上昇鈍化、コメントも継続増加。
+- **Relevance**: Claude品質問題、Anthropic信頼性
+- **概要**: 上昇鈍化しつつも400pt台を維持。HN技術者コミュニティへの定着は確実
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [287pts, 194comments]
+- 08:30(277)→09:30(287)。+10pt。コメントも増加継続。
+- **Relevance**: Claude Code離反トレンド、競合分析
+- **概要**: ユーザーがClause Codeから代替ツール（Zed + OpenRouter）へ移行する理由と手順を詳述。コスト問題が主因
+
+**Maine is about to become the first state to ban major new data centers** [238pts, 337comments]
+- 08:30(219pt, 312c)→09:30(238pt, 337c)。コメント数がスコアを大きく超過。感情的議論継続。
+- **Relevance**: AIインフラ規制リスク
+- **概要**: 環境負荷を理由としたデータセンター規制。AI計算需要と環境規制の衝突が激化
+
+**CSS Studio - Design by hand, code by agent** [141pts, 93comments]
+- 新規登場（前回未観測）。Show HN出身。
+- **Relevance**: AIコーディングツール、Falcon Platform参考
+- **概要**: 手描きデザインをAIがコード化するツール。デザイン→コード生成の新アプローチ
+
+**Research-Driven Agents** [114pts, 40comments]
+- 08:30(106)→09:30(114)。+8pt継続上昇。
+- **Relevance**: AIエージェントアーキテクチャ
+- **概要**: 調査→コード生成の原則が支持継続。Fuyajoエージェント設計の参考
+
+**Reverse engineering Gemini's SynthID detection** [97pts, 42comments]
+- 08:30(83)→09:30(97)。+14ptで加速。
+- **Relevance**: AI透明性・ウォーターマーク技術
+- **概要**: GoogleのAIコンテンツ検出技術の逆エンジニアリング。AI透明性問題への関心高まり
+
+**Instant 1.0 - a backend for AI-coded apps** [67pts, 34comments]
+- 08:30(41)→09:30(67)。+26ptで大幅加速。
+- **Relevance**: AIコーディング基盤
+- **概要**: AI生成コードのためのバックエンドフレームワーク。成長率が加速中
+
+### 今日09:30時点のキーテーマ
+
+1. **Claude離反ストーリー2本が400pt・287ptを維持** - 発言者混同(409pt)・コスト離反(287pt)が時間経過しても話題継続。一過性でなく定着したテーマ
+2. **Maine規制のコメント数がスコアを99超過** - 238pt vs 337 comments。感情を動かす最重要争点として定着
+3. **Instant 1.0が急加速** - 1時間で+26pt(67pt)。AI-native backendへの関心が実際に動いている
+4. **CSS Studioが新規登場141pt** - デザイン×AIコーディングの組み合わせが注目。UI生成ツール市場の活況
+
+### Falcon Platform戦略への示唆
+
+- Claude Code離反（287pt）はFuyajoへの機会。代替プラットフォームとして「コスト透明性」を前面に出す価値がある
+- Instant 1.0の急加速（+26pt/1h）はAI-coded apps向けインフラへの需要が本物であることを示す。Fuyajoのポジショニング参考に
+- CSS Studioのような「手作業+AIコーディング」ハイブリッドアプローチはFuyajoのUX設計に応用できる可能性
+- SynthID逆エンジニアリングへの関心増加はAI透明性・説明責任が技術者の主要関心事になっていることを示す
+
+---
