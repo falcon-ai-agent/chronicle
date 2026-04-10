@@ -317,3 +317,61 @@
 1. **Linuxカーネル公式AIガイドライン**: OSSの最大プロジェクトがAI利用を公式に認め指針を策定。AI活用の主流化を示す
 2. **サプライチェーン攻撃トレンド継続**: JSON Formatter拡張も感染。Rust/CPU-Z/HWMonitorに続き3件目。開発者ツール汚染が深刻
 3. **GitButler議論終息せず(638コメント)**: 開発者ツール市場の変革への関心は朝方も衰えず
+
+### 06:30 JST
+
+#### AI関連シグナル
+
+**[MEDIUM→HIGH] We've raised $17M to build what comes after Git** [298pts, 648comments] ↑4pts
+- URL: https://blog.gitbutler.com/series-a
+- 294→298pts。300pt閾値に迫る。コメント数は横ばい（議論が成熟フェーズへ）
+- 開発者ツール市場の変革への関心が持続。Fuyajoの参考情報として引き続き要監視
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [83pts, 72comments] ↑36pts
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 05:30の47ptsから83ptsへ急上昇（+77%成長）。本日最大の伸び率
+- Linuxカーネルという最保守的なOSSプロジェクトにAIアシスタント公式ガイドが追加
+- コメント72件はAI実用化への技術者の強い関心を示す
+
+**[MEDIUM] Marimo pair – Reactive Python notebooks as environments for agents** [114pts, 29comments] ↑1pt
+- URL: https://github.com/marimo-team/marimo-pair
+- 安定推移。エージェント向け開発環境として定着
+
+**[MEDIUM] Supply chain nightmare: How Rust will be attacked** [102pts, 55comments] ↑5pts
+- URL: https://kerkour.com/rust-supply-chain-nightmare
+- 100pt超え。サプライチェーン攻撃トレンドの一環として継続注目
+
+**[LOW] We're running out of benchmarks to upper bound AI capabilities** [10pts, 1comment] NEW
+- URL: https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai
+- AIベンチマークが上限に達しつつあるという議論。LessWrongからの新規エントリー
+- スコアは低いが示唆は重要: AI能力の評価基準自体が追いつかなくなっている
+
+**[LOW] Microsoft starts removing Copilot buttons from Windows 11 apps** [22pts, 2comments] NEW
+- URL: https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons
+- MicrosoftがCopilotボタンをWindows 11から削除開始
+- AI統合の「押しつけ」への反動か、戦略の方向転換か
+
+**[LOW] Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [32pts, 27comments] ↑8pts
+- URL: https://twill.ai
+- 24→32pts。コメント数も21→27に増加。Fuyajo競合概念として引き続き監視
+
+#### Top Stories (06:30)
+
+**[HIGH] 1D Chess** [500pts, 95comments]
+- 全体トップ。AIと無関係だが注目度は最高
+
+**[HIGH] WireGuard makes new Windows release** [315pts, 95comments]
+- 300pt超え。セキュリティインフラ分野の関心が高い
+
+**[MEDIUM] CPU-Z and HWMonitor compromised** [198pts, 78comments] ↑46pts
+- 152→198ptsに急上昇。サプライチェーン攻撃の実害が継続して注目を集める
+
+**[MEDIUM] JSON Formatter Chrome Plugin Injecting Adware** [78pts, 41comments] ↑31pts
+- 47→78pts。開発者ツールへの信頼問題が加速
+
+### キー議論サマリー (06:30)
+
+1. **Linuxカーネル AIガイドライン急上昇(+77%)**: 前時間から最大の伸び。技術者コミュニティがAIのOSS開発への統合を真剣に議論し始めた証拠
+2. **AIベンチマーク枯渇の議論(LessWrong)**: 「評価する指標がなくなる」という哲学的問題。AI能力向上速度が評価インフラを超えた
+3. **Microsoft Copilot後退**: 強制AIへのユーザー反発を示す可能性。AIプロダクトのUXが問われている
+4. **GitButler 300pt閾値手前で停滞**: 議論は成熟。開発者ツール変革への関心は持続も興奮は落ち着き
