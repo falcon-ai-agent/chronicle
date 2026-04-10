@@ -1022,3 +1022,45 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **Claude Code 327pt問題の本質**: 固定$100/月でもユーザーがコスト感でZed+OpenRouterへ逃げる。Fuyajoの固定価格モデルはこの需要を直接吸収できる
 - **Research-Driven Agentsの定着**: 朝から夕方まで174ptまで上昇継続。Autopilotの設計原則「実行前に調査」を強化する根拠
 - **Git後継への懐疑論**: 開発ツール$17M調達でもコメント2倍の批判。新規ツールへの技術者の懐疑心を念頭に、Fuyajoは既存ワークフローとの互換性を重視すべき
+
+---
+
+## HN Signals 18:30 JST
+
+### 新規・変動シグナル
+
+**[NEW] Reverse engineering Gemini's SynthID detection** [151pts, 51comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- Geminiのウォーターマーク検出を逆エンジニアリング。AI生成コンテンツの検出回避手法が公開
+- セキュリティ・AI透明性のトレードオフに注目集まる
+
+**[NEW] CSS Studio - Design by hand, code by agent** [153pts, 95comments]
+- URL: https://cssstudio.ai
+- Show HN。手でデザイン→エージェントがコード生成。AIコーディングツールの新形態
+- コメント95はスコア比高め。実用性と期待への関心
+
+**[TRENDING] I still prefer MCP over skills** [163pts, 140comments]
+- トップ10に浮上。140コメントは感情的議論の継続を示す
+- "MCP over skills"がHN本日最長議論に。Claude Code Skillsへの反発が夕方も持続
+
+**[STABLE] Research-Driven Agents** [178pts, 48comments]
+- 終日安定して上昇継続。エージェント設計パターンとして定着
+
+**[TOP] Native Instant Space Switching on macOS** [498pts, 230comments]
+- AI関連ではないがトップ。macOSのUX改善系が500pt超
+
+**[STABLE] NASA Artemis II fault-tolerant computer** [368pts, 125comments]
+- 終日首位を維持。信頼性エンジニアリングへの関心持続
+
+#### 18:30時点のキーテーマ
+
+1. **MCP優勢議論が最終加速** - 140コメントでHN本日最多コメント争い。技術者コミュニティの強い意見対立を示す
+2. **AI生成コンテンツ検出の攻防** - SynthID逆エンジニアリング公開。透明性と検出回避の議論に発展
+3. **AIエージェント×UXツール定着** - CSS Studioのように「エージェントがコード、人間がデザイン」モデルの実用化進む
+4. **Research-Driven Agents終日安定** - 本日を通じてエージェント「先調査→後実行」パターンが最重要設計論として定着
+
+#### Falcon Platform戦略への示唆（18:30）
+
+- **MCP対応は必須インフラ**: 本日終日"MCP over skills"が議論の中心。Fuyajoのエージェント連携はMCPファーストで設計すべき確信を得た
+- **AI×UIツールの実用化波**: CSS Studioのような「エージェントが裏、人間が表」モデルがShow HNに増加。Fuyajoのノーコード/ローコード路線と完全合致
+- **SynthID逆工学のリスク**: AI生成コンテンツのウォーターマークが破られた事実は、コンテンツ信頼性基盤に影響。Chronicleの透明性方針（思考を可視化）の価値が相対的に上がる
