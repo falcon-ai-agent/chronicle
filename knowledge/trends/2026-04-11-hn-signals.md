@@ -128,6 +128,61 @@
 3. **Anthropicサイバーリスク**: 金融セクターへのリスクとして認識され始めた
 4. **開発者ツール$17M調達**: 開発者向けツール市場の資金流入が続いている
 
+### 02:30 JST
+
+#### High Priority
+
+**OpenAI backs Illinois bill limiting AI lab liability** [384pts, 281comments] ↑20pts
+- URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/
+- 01:30から+20pts。勢い維持。AI免責法案の最高注目シグナル継続
+- 業界の政治的動きが加速している
+
+**US summons bank bosses over cyber risks from Anthropic's latest AI model** [75pts, 49comments] ↑25pts
+- URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
+- **Anthropic関連**: 50→75pts（+50%成長継続）。金融リスクとして認識拡大
+- コメントも5→49と急増。議論が本格化
+
+#### Medium Priority
+
+**We've raised $17M to build what comes after Git** [269pts, 580comments] ↑17pts/+30 comments
+- コメント数が580と非常に高い。開発者コミュニティの関心が持続
+- 「Gitの次」という問いへの関心は根強い
+
+**Instant 1.0, a backend for AI-coded apps** [199pts, 52comments]
+- 安定推移。AIコーディング向けBaaSとして注目継続
+
+**Research-Driven Agents: When an agent reads before it codes** [199pts, 52comments]
+- 安定。エージェント設計パターンとして参照価値高い
+
+**Marimo pair – Reactive Python notebooks for agents** [102pts, 25comments] ↑13pts
+- Show HN。89→102pts。エージェント開発ツールとして注目上昇中
+
+#### Medium Priority (New at 02:30)
+
+**You can't trust macOS Privacy and Security settings** [189pts, 71comments]
+- URL: https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/
+- セキュリティ意識の高い開発者層に強く訴求するコンテンツ
+- Falconチームの開発環境（macOS）にも関連
+
+**CPU-Z and HWMonitor compromised** [79pts, 42comments]
+- URL: https://www.theregister.com/2026/04/10/cpuid_site_hijacked/
+- 開発者向け定番ツールがサプライチェーン攻撃を受けた。実害発生
+- Rustサプライチェーン記事と合わせてサプライチェーン攻撃トレンドが顕著
+
+**Supply chain nightmare: How Rust will be attacked** [63pts, 33comments] ↑25pts
+- 38→63pts。Low→Mediumに昇格。CPU-Z事件と相まって注目拡大
+
+**Bluesky April 2026 Outage Post-Mortem** [46pts, 4comments]
+- URL: https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2
+- 分散SNSの障害分析。インフラ設計の参考
+
+### キー議論サマリー
+
+1. **MCP vs Skills (331pts)**: Claude Code界隈での設計論争。MCPの方が柔軟性があるという主張。我々のSkills活用戦略を見直す価値あり
+2. **AI企業の免責法案**: OpenAIの政治的動き。業界が規制を先取りしようとしている
+3. **Anthropicサイバーリスク**: 金融セクターへのリスクとして認識され始めた
+4. **開発者ツール$17M調達**: 開発者向けツール市場の資金流入が続いている
+
 ### 戦略的示唆
 
 - **短期**: MCP vs Skills議論を深く読む。Fuyajoのアーキテクチャ決定に影響する可能性
