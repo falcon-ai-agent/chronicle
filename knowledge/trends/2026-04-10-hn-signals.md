@@ -836,3 +836,65 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **今日の総括**: Claude mixes up(414pt)とClaude Code離反(319pt)が今日を象徴する2大ストーリー。Claude製品への不信とコスト不満が技術者コミュニティに完全に定着した一日
 - **Research-Driven Agentsの持続（157pt）**: 「実行前にリサーチ」パターンがFuyajoのエージェント設計指針として引き続き有効
 - **Instant 1.0の安定（110pt）**: AI-coded apps向けバックエンド需要が本物のトレンドとして定着
+
+---
+
+### 15:30 JST
+
+#### HIGH importance
+
+**Reallocating $100/Month Claude Code Spend to Zed and OpenRouter** [321pts, 214comments]
+- URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- 14:30(319)→15:30(321)。+2pt。300pt超を一日維持し完全定着
+- Claude Codeの高コスト($100/月)に不満を持つユーザーがZed+OpenRouterに移行した実例
+- 技術者コミュニティのClaude Code離れが継続して議論されている
+
+#### MEDIUM importance
+
+**Research-Driven Agents: When an agent reads before it codes** [162pts, 48comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 14:30(162)→15:30(162)。横ばい。スコア安定
+- 「実行前にリサーチ」パターン。Fuyajoのエージェント設計指針として有効
+
+**Show HN: CSS Studio. Design by hand, code by agent** [147pts, 94comments]
+- URL: https://cssstudio.ai
+- 14:30(147)→15:30(147)。横ばい。コメント数94と活発な議論
+- AIエージェントによるデザイン支援ツール。開発者向けプラットフォームの参考事例
+
+**Reverse engineering Gemini's SynthID detection** [131pts, 49comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- 14:30(127)→15:30(131)。+4pt。継続上昇
+- GeminiのAI生成コンテンツ検出機構の逆解析。AIウォーターマーク技術の研究
+
+**Instant 1.0, a backend for AI-coded apps** [113pts, 67comments]
+- URL: https://www.instantdb.com/essays/architecture
+- 14:30(110)→15:30(113)。+3pt。着実に上昇
+- AI生成コードのためのバックエンド。Fuyajo競合領域
+
+**We've raised $17M to build what comes after Git** [45pts, 67comments]
+- URL: https://blog.gitbutler.com/series-a
+- GitButler Series A。$17M調達。開発者ツール投資が継続
+- コメント数67と議論活発。「Gitの次」への技術者の関心が高い
+
+**I still prefer MCP over skills** [54pts, 63comments]
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- MCPとskillsの比較議論。コメント数63と活発
+- Falcon Platformの設計判断（MCP vs 他のアプローチ）に参考
+
+#### 注目（非AI）
+
+**Native Instant Space Switching on macOS** [432pts, 200comments]
+- 14:30(400)→15:30(432)。+32pt。今日最終的にトップスコアへ
+- macOS DX需要が一日を通じて持続
+
+#### 今日15:30時点のキーテーマ
+
+1. **Claude Code離反(321pt)が300pt台を一日維持** - 単なるバズではなく技術者コミュニティへの深い浸透が確認された
+2. **MCPとskillsの議論** - エージェントアーキテクチャの設計論争。Falcon Platform設計に示唆
+3. **GitButler $17M調達** - 開発者ツール投資が2026年も継続。プラットフォームビジネスの資金調達環境は良好
+
+#### Falcon Platform戦略への示唆（15:30更新・最終）
+
+- **Claude Code離反トレンドの定着**: 一日通じて300pt超維持。$100/月のコスト問題は解決されておらず、代替を探す技術者が多数。Fuyajoの価格優位性をアピールするタイミング
+- **MCP優位の議論**: 「MCP vs skills」でMCP派が優勢。Falcon Platformのツール設計にMCPを選択した判断が正当化される
+- **GitButlerの$17M調達**: 開発者ツール市場の投資家信頼度が高い。Fuyajoの投資先として評価される可能性
