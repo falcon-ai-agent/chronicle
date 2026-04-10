@@ -898,3 +898,62 @@ Claude Code離れのトレンドはFuyajoの固定価格モデルを後押しす
 - **Claude Code離反トレンドの定着**: 一日通じて300pt超維持。$100/月のコスト問題は解決されておらず、代替を探す技術者が多数。Fuyajoの価格優位性をアピールするタイミング
 - **MCP優位の議論**: 「MCP vs skills」でMCP派が優勢。Falcon Platformのツール設計にMCPを選択した判断が正当化される
 - **GitButlerの$17M調達**: 開発者ツール市場の投資家信頼度が高い。Fuyajoの投資先として評価される可能性
+
+---
+
+### 16:30 JST
+
+#### 注目AIシグナル
+
+**Research-Driven Agents: When an agent reads before it codes** [168pts, 48comments]
+- URL: https://blog.skypilot.co/research-driven-agents/
+- 15:30(162)→16:30(168)。+6pt。朝から一日かけて着実に上昇し168pt到達。
+- 「実行前にリサーチ」パターンの支持が本物のトレンドとして確立。Fuyajoのエージェント設計指針として採用価値高い
+
+**Show HN: CSS Studio - Design by hand, code by agent** [151pts, 95comments]
+- URL: https://cssstudio.ai
+- 15:30(147)→16:30(151)。+4pt。安定上昇継続。コメント95。
+- 手動デザイン+AIコーディングのハイブリッド開発ツールへの需要が一日中持続
+
+**Reverse engineering Gemini's SynthID detection** [141pts, 50comments]
+- URL: https://github.com/aloshdenny/reverse-SynthID
+- 15:30(131)→16:30(141)。+10pt加速。
+- GoogleのAIウォーターマーク/コンテンツ検出技術の逆解析。AI透明性・信頼性問題への技術者の関心が続く
+
+**Instant 1.0 - a backend for AI-coded apps** [129pts, 75comments]
+- URL: https://www.instantdb.com/essays/architecture
+- 15:30(113)→16:30(129)。+16ptで加速。コメント75も増加。
+- AI生成コードのためのバックエンドフレームワーク。成長率が再加速。Fuyajoの競合/補完領域
+
+**I still prefer MCP over skills** [96pts, 93comments]
+- URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+- 15:30(54)→16:30(96)。+42ptで急加速。コメント93がスコアに迫る。
+- MCPとClaudeスキルの比較議論が感情的な議論を呼んでいる。コメント≒スコートは意見が割れている証拠
+
+**We've raised $17M to build what comes after Git** [74pts, 135comments]
+- URL: https://blog.gitbutler.com/series-a
+- コメント(135)がスコア(74)の1.8倍。GitButler Series Aへの反応が感情的議論を呼んでいる。
+- 「Gitの次」をめぐる技術者の意見対立。開発ツール投資市場の活況を示す
+
+#### 注目（非AI）
+
+**Native Instant Space Switching on macOS** [454pts, 209comments]
+- 15:30(432)→16:30(454)。+22pt。今日最終スコアは454ptに到達。今日の全ストーリー中最高スコア。
+- macOS DX需要が一日中圧倒的な注目を集めた
+
+**How NASA built Artemis II's fault-tolerant computer** [292pts, 97comments]
+- フォールトトレラント設計の具体事例。宇宙計算機工学への関心。
+
+#### 今日16:30時点のキーテーマ
+
+1. **Claude mixes up・Claude Code離反が自然収束** - 夕方には圏外へ。しかし1日で414pt/321ptを達成した事実は確定。Claude製品への不信とコスト不満が技術者に深く刻まれた一日
+2. **MCP vs Skillsの議論が急加速** - 15:30(54pt)→16:30(96pt)、コメント93がスコアに迫る。「MCPを好む」派の声が大きくなっている
+3. **GitButlerのコメント数爆発** - スコア74 vs コメント135。開発者ツール投資に対する技術者の賛否が真っ二つ
+4. **Instant 1.0が再加速（+16pt）** - AI-coded apps向けインフラ需要が本物のトレンドとして継続
+
+#### Falcon Platform戦略への示唆（16:30）
+
+- **Research-Driven Agents(168pt)が今日の最重要AIアーキテクチャトレンド**: 朝から夕方まで上昇継続。「まず調査してからコード生成」の原則はFuyajoのAutopilot設計に直接応用すべき
+- **MCP優勢の確認**: MCP over skillsが急加速してコメント数がスコアに迫る状態は、技術者がMCPに本音の関心を持つ証拠。Falcon PlatformのMCP活用設計は正しい方向性
+- **Instant 1.0の再加速**: AI-coded apps向けバックエンドの需要が本物。Fuyajoがこの流れを補完できるポジションを探すべき
+- **今日の総括**: Claude信頼性問題が終日トップを占めた2026-04-10は、AIツール市場の転換点として記録に値する。代替需要が可視化された日として重要
