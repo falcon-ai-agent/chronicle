@@ -824,3 +824,54 @@
 2. **Linuxカーネル AIガイド最高スコア更新(242pts)**: 本日を通じて最も一貫した上昇。214→242pts（+28pts）は本時間最大の伸び。AI利用主流化の象徴的存在として1日を締めくくる
 3. **GitButler完全収束**: 311pts/685コメントで停滞。本日のメガトレンドが収束フェーズへ完全移行
 4. **Artemis II急上昇継続**: 宇宙ミッション成功が技術者コミュニティに強く刺さる。592→660pts（+68pts）
+
+### 15:30 JST
+
+#### AI関連シグナル
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [259pts, 172comments] ↑17pts/+15 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 242→259ptsで上昇継続。Top Stories 10位にも登場
+- 1日を通じて最も安定した継続上昇。AI利用主流化の象徴的シグナルが夕方も健在
+
+**[MEDIUM] Molotov cocktail is hurled at home of Sam Altman** [220pts, 527comments] ↑6pts/+7 comments
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- 214→220pts。上昇ペース鈍化。コメント527件で引き続き高水準維持
+- Sam Altman反応記事と合わせてAI社会的緊張の議論が午後も継続
+
+**[HIGH] We've raised $17M to build what comes after Git** [311pts, 685comments] ±0pts/±0 comments
+- URL: https://blog.gitbutler.com/series-a
+- 完全収束フェーズ。前時間から変化なし
+- 本日通じて最多685コメントを記録した開発者ツール変革議論が完全終息
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [65pts, 58comments] ±0pts/+2 comments
+- URL: https://twill.ai
+- スコア横ばい。コメントのみ微増。Fuyajo競合概念として継続監視
+
+#### Top Stories (15:30)
+
+**[HIGH] 1D Chess** [759pts, 136comments] ↑23pts
+- 736→759pts。全体トップ維持継続
+
+**[HIGH] Artemis II safely splashes down** [741pts, 253comments] ↑81pts
+- 660→741ptsで大幅上昇。本日の最大急上昇。有人月ミッション帰還への技術者興奮が最高潮
+
+**[HIGH] Filing the corners off my MacBooks** [633pts, 331comments] ↑58pts
+- 575→633pts。技術者DIYユーモア記事として引き続き急伸
+
+**[HIGH] WireGuard makes new Windows release** [445pts, 125comments] ↑15pts
+- セキュリティインフラの安定した高スコア継続
+
+**[MEDIUM] Chimpanzees in Uganda locked in eight-year 'civil war', say researchers** [300pts, 158comments] NEW
+- 新規エントリー。AI関連ではないがTop 5入り。自然界の集団行動への関心
+
+**[MEDIUM] Installing every* Firefox extension** [287pts, 30comments] NEW
+- 新規エントリー。ブラウザ拡張の網羅的実験。開発者の遊び心的調査
+
+### キー議論サマリー (15:30)
+
+1. **Linuxカーネル AIガイドが259pts到達**: 242→259pts（+17pts）で1日を通じて最も安定した上昇を達成。最保守的OSSでのAI公式認定が夕方時間帯まで技術者に浸透し続けている。AI利用主流化の本日最重要長期シグナル
+2. **Sam Altman関連上昇鈍化**: モロトフ事件記事が+6pts/+7コメントと大幅鈍化。議論が収束フェーズへ移行しつつある
+3. **GitButler完全収束確認**: 311pts/685コメントで前時間比ゼロ変化。本日のメガ議論が完全終息
+4. **Artemis II最大急上昇(+81pts)**: 660→741ptsは本時間の全カテゴリ最大伸び。有人宇宙飛行の成功が日中のピークを超えて加速
+
