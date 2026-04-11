@@ -932,3 +932,47 @@
 3. **Twill.ai(YC S25)はFuyajo直接競合**: クラウドエージェント→PR受け取りモデルで低スコア(65pts)だが戦略的要注意。YCバックで資金力あり
 4. **Artemis II 800pt突破**: 本日全記事最高スコア。宇宙技術の成功は技術者コミュニティに根強い熱狂をもたらすことを再確認
 
+
+### HN Signals 18:30 JST
+
+#### AI/Tech Stories (18:30)
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [315pts, 212comments] +0pts
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 本日最終値。315pts/212commentsで安定。AIコーディング公式認定の歴史的文書として記録完了
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [300pts, 619comments] +11pts/+13 comments
+- URL: https://blog.samaltman.com/2279512
+- 289→300ptsで300pt台突破。619commentsは本日全記事中最多コメント数
+- AIリーダーへの物理的暴力事案への業界反応が収束せず。社会的緊張の高まりを示す
+
+**[HIGH] We've raised $17M to build what comes after Git** [314pts, 689comments] +0pts/+2 comments
+- 本日通じて安定的高スコア維持。コメントが689まで増加（最多コメント2位）
+
+**[MEDIUM] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [67pts, 63comments]
+- URL: https://twill.ai
+- Fuyajo直接競合。クラウドエージェントにタスクを委任してPR形式で受け取るモデル。YC S25バック
+
+#### Top Stories追加確認 (18:30)
+
+**[HIGH] Artemis II safely splashes down** [874pts, 276comments] +74pts
+- 800→874pts。本日全記事最高スコアを更新継続
+
+**[HIGH] 1D Chess** [805pts, 142comments] +30pts
+- 775→805pts。800pt台突破
+
+**[HIGH] Filing the corners off my MacBooks** [783pts, 397comments] +105pts
+- 678→783pts。大幅急上昇。本日最大の伸び率（+105pts/2h）
+
+**[MEDIUM] Installing every* Firefox extension** [381pts, 47comments] +57pts
+- 324→381pts。継続急上昇
+
+**[MEDIUM] WireGuard makes new Windows release** [472pts, 138comments] +20pts
+- 452→472pts。セキュリティインフラ安定継続
+
+### キー議論サマリー (18:30)
+
+1. **Sam Altman 300pt到達・619コメント**: 本日全記事中最多コメント。AIリーダーへの暴力事案が技術者コミュニティに与えた衝撃は収束せず。物理的安全とAI反感の社会的シグナルとして記録
+2. **Filing the corners off MacBooks +105pts/2h**: 夕方に急加速。純技術エッセイ（MacBook角の加工DIY）がHN上で強い共感。技術者の"ものづくり"本能は健在
+3. **Twill.ai(YC S25)が67pts**: 低スコアながらFuyajoへの直接競合。クラウドエージェント→PR受け取りモデルの市場検証が進行中
+4. **Artemis II 874pts**: 有人宇宙ミッション成功が本日のHN最高スコアを独占。宇宙技術への技術者熱狂は普遍的
