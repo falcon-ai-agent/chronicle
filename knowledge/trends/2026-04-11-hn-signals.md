@@ -875,3 +875,61 @@
 3. **GitButler完全収束確認**: 311pts/685コメントで前時間比ゼロ変化。本日のメガ議論が完全終息
 4. **Artemis II最大急上昇(+81pts)**: 660→741ptsは本時間の全カテゴリ最大伸び。有人宇宙飛行の成功が日中のピークを超えて加速
 
+### 16:30 JST
+
+#### AI関連シグナル
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [295pts, 193comments] ↑36pts/+21 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- **259→295pts（+36pts）は本時間AI系最大の伸び**。300pt閾値に迫る勢い
+- コメント193件も大幅増加。Linuxカーネル公式AIガイドが本日を通じて最も安定した上昇を継続
+- 夕方になっても失速せず。AI利用主流化の本日最重要シグナルとして本日最高スコアを更新中
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [296pts, 588comments] ↑44pts/+53 comments
+- URL: https://blog.samaltman.com/2279512
+- 252→296pts（+44pts）。コメント535→588と依然活発な議論継続
+- 300pt閾値に迫る。AI業界リーダーへの物理的攻撃とその公式反応が夕方も拡大
+- 本日の社会的緊張最大テーマとして継続記録
+
+**[MEDIUM] We've raised $17M to build what comes after Git** [314pts, 687comments] ↑3pts/+2 comments
+- URL: https://blog.gitbutler.com/series-a
+- 311→314ptsで微増。コメント数もほぼ横ばい（685→687）
+- 完全収束フェーズ継続。本日通じてコメント数最多を維持したまま終息へ
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [66pts, 62comments] ↑1pt/+4 comments
+- URL: https://twill.ai
+- 65→66pts微増。コメント58→62と小幅増加。Fuyajo競合概念として継続監視
+- スコアは低いが1日を通じて着実に積み上げ。YC S25採択のクラウドエージェントサービス
+
+#### Top Stories (16:30)
+
+**[HIGH] Artemis II safely splashes down** [838pts, 267comments] ↑97pts
+- 741→838ptsで本時間最大の急上昇。全体トップ2位に浮上
+- 有人月ミッション帰還への技術者興奮が夕方も加速継続
+
+**[HIGH] 1D Chess** [788pts, 142comments] ↑29pts
+- 759→788pts。全体1位を維持
+
+**[HIGH] Filing the corners off my MacBooks** [739pts, 372comments] ↑106pts
+- 633→739ptsと大幅上昇。コメント331→372も増加。技術者DIYユーモア記事が夕方に最高値
+
+**[HIGH] WireGuard makes new Windows release** [462pts, 133comments] ↑17pts
+- 445→462pts。セキュリティインフラの安定した高スコア継続
+
+**[MEDIUM] Installing every* Firefox extension** [359pts, 43comments] ↑72pts
+- 287→359ptsで大幅上昇。ブラウザ拡張全インストール実験が夕方に急伸
+
+**[MEDIUM] Chimpanzees civil war** [321pts, 180comments] ↑21pts
+- 300→321pts。継続上昇
+
+**[INFO] 20 years on AWS and never not my job** [123pts, 16comments] NEW
+- URL: https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html
+- AWSエンジニアの20年キャリア振り返り。クラウドインフラの長期運用視点として参考
+
+### キー議論サマリー (16:30)
+
+1. **Linuxカーネル AIガイドが295pt到達**: 259→295pts（+36pts）で本時間AI系最大の伸び。300pt閾値まであと5pts。1日を通じて最も一貫した上昇を示したAIシグナル。AI利用正常化の象徴的存在として本日の主役
+2. **Sam Altman反応が296pt**: 252→296pts（+44pts）。コメント588件と依然活発。モロトフ事件とその公式反応合計で1100コメント以上。AI業界の社会的緊張が夕方も収束せず
+3. **GitButler成熟収束**: 314pts/687コメントで微増のみ。本日のメガ議論が自然終息へ
+4. **Artemis II全体2位浮上(+97pts)**: 有人宇宙飛行成功への技術者興奮が夕方に最高潮。AIと無関係だが技術者コミュニティの総合的関心を示す
+
