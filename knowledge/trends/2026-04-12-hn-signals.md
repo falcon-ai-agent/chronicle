@@ -44,3 +44,26 @@
 - **Relevance**: Small LLM / Cybersecurity
 - **Summary**: Mythosが発見した脆弱性を小型モデルも発見できることを実証。大型モデル不要論の具体的事例。
 - **Key insight**: ローカル・小型LLMでもセキュリティ応用が可能。Infra Agent LLM戦略（Qwen2.5-3B）の方向性を支持するデータ。
+
+### 03:30 JST
+
+#### [HIGH] AI assistance when contributing to the Linux kernel *(継続トレンド)*
+- **Score**: 450↑ (+15) | **Comments**: 337↑ (+20)
+- **URL**: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- **Trend**: 3時間以上トップクラスを維持。OSS + AI協働の制度化議論が長寿命。
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(急上昇)*
+- **Score**: 244↑ (+167) | **Comments**: 76↑ (+59)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 1時間でスコア3倍以上の急騰。小型モデルのセキュリティ実用性への関心が爆発。
+- **Key insight**: Qwen2.5-3B等の小型モデルがセキュリティ領域で大型モデルに匹敵するという実証は、コスト面でのFuyajo戦略（小型・高速・安価）を後押し。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(継続トレンド)*
+- **Score**: 177↑ (+25) | **Comments**: 86↑ (+15)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定した関心継続。OpenAIのインフラ取り込み戦略への業界注目。
+
+#### [MEDIUM] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs *(継続)*
+- **Score**: 75 | **Comments**: 81
+- **URL**: https://twill.ai
+- **Trend**: スコア横ばいだがコメント活発。競合として継続監視。
