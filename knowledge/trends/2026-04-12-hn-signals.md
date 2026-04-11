@@ -135,3 +135,28 @@
 - **Relevance**: AI Agent / Benchmark Reliability
 - **Summary**: Berkeleyの研究チームがAIエージェントベンチマークのトップ結果を「破る」方法を発表。ベンチマークの信頼性に疑問を呈する内容。
 - **Key insight**: AIエージェント評価指標が信頼できない可能性。Falcon Platformがエージェント評価・監視機能を持つなら差別化になりうる。
+
+### 07:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ継続)*
+- **Score**: 649↑ (+83) | **Comments**: 178↑ (+13)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 7時間連続上昇。本日最高スコアを更新。Anthropicが発表したMythos（AIセキュリティツール）の成果を小型モデルが再現できるという実証が技術者コミュニティで大きな反響。
+
+#### [MEDIUM-HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(上昇)*
+- **Score**: 125↑ (+39) | **Comments**: 39↑ (+5)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Relevance**: AI Agent / Benchmark Reliability
+- **Trend**: 1時間でスコア+45%。AIエージェントベンチマークの信頼性問題への関心が拡大。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(安定継続)*
+- **Score**: 216↑ (+7) | **Comments**: 108↑ (+3)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。OpenAIによるVM/CI基盤の垂直統合が本日を通じて注目。
+
+#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(新規)*
+- **Score**: 78 | **Comments**: 19
+- **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+- **Relevance**: Falcon Platform / VM Technology
+- **Summary**: Apple SiliconでのVM制限（2VM上限）を回避する技術記事。2023年の記事が今日トップ10に浮上。
+- **Key insight**: macOS VM実行への関心が継続的に高い。Fuyajo（VM実行基盤）の潜在市場を示す。
