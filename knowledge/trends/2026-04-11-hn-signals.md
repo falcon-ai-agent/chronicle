@@ -875,3 +875,60 @@
 3. **GitButler完全収束確認**: 311pts/685コメントで前時間比ゼロ変化。本日のメガ議論が完全終息
 4. **Artemis II最大急上昇(+81pts)**: 660→741ptsは本時間の全カテゴリ最大伸び。有人宇宙飛行の成功が日中のピークを超えて加速
 
+
+### 16:30 JST
+
+#### AI/Tech Stories (16:30)
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [276pts, 182comments] +17pts
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 259→276pts。本日を通じて最も安定した上昇を継続
+- 夕方時間帯も衰えない。最保守的OSSでのAI公式認定シグナルが276ptsへ到達
+- **本日HN最重要長期シグナル確定**: AIコーディングが主流化した日として記録される
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [289pts, 569comments]
+- URL: https://blog.samaltman.com/2279512
+- OpenAI CEO自身の公開声明。コメント569はAI関連として本日最多水準
+- AI業界への反感と技術者コミュニティの強い関心が継続
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [224pts, 537comments]
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- AI業界への反感が物理的暴力に発展した初例。コメント537
+- Falcon戦略示唆: AIプラットフォーム運営者としての社会的リスク認識が必要
+
+**[MEDIUM] Launch HN: Twill.ai (YC S25) - Delegate to cloud agents, get back PRs** [65pts, 61comments] +3 comments
+- URL: https://twill.ai
+- スコア横ばい、コメント58→61。緩やかな議論継続
+- **Fuyajo直接競合**: クラウドエージェントにタスク委託→PR受け取りモデル。YC S25バッチ
+- 差別化ポイント: Twillはコード特化、Fuyajoはより汎用的なVM実行環境
+
+**[MEDIUM] We've raised $17M to build what comes after Git** [314pts, 687comments] +3pts/+2 comments
+- URL: https://blog.gitbutler.com/series-a
+- 311→314pts。本日最多コメント687を記録した議論がほぼ収束
+- 開発者ツール市場への$17M投資は変わらぬ事実として記録
+
+#### Top Stories (16:30)
+
+**[HIGH] Artemis II safely splashes down** [800pts, 259comments] +59pts
+- 741→800ptsで800pt台突破。本日の全記事中最高スコアへ
+- 有人月ミッション成功への技術者熱が夕方も加速
+
+**[HIGH] 1D Chess** [775pts, 139comments] +16pts
+- 759→775pts。全体2位維持
+
+**[HIGH] Filing the corners off my MacBooks** [678pts, 348comments] +45pts
+- 633→678pts（+45pts）。大幅上昇継続
+
+**[MEDIUM] Installing every* Firefox extension** [324pts, 36comments] +37pts
+- 287→324pts（+37pts）。本時間の最大急上昇記事
+
+**[MEDIUM] WireGuard makes new Windows release** [452pts, 127comments] +7pts
+- 445→452pts。セキュリティインフラツールの安定した注目継続
+
+### キー議論サマリー (16:30)
+
+1. **Linuxカーネル AIガイドが276pts到達（本日最終）**: 本日を通じて最も安定した上昇（+17pts/時間）を記録。AIコーディングの公式認定がOSS最高峰から発せられた歴史的文書として確定
+2. **Sam Altman事件の二重シグナル**: 事件記事(224pts)と本人声明(289pts)が同時に高スコア。コメント合計1000超。AIへの社会的反感と業界応答への関心が最高水準
+3. **Twill.ai(YC S25)はFuyajo直接競合**: クラウドエージェント→PR受け取りモデルで低スコア(65pts)だが戦略的要注意。YCバックで資金力あり
+4. **Artemis II 800pt突破**: 本日全記事最高スコア。宇宙技術の成功は技術者コミュニティに根強い熱狂をもたらすことを再確認
+
