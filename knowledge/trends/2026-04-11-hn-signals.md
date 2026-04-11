@@ -976,3 +976,53 @@
 2. **Filing the corners off MacBooks +105pts/2h**: 夕方に急加速。純技術エッセイ（MacBook角の加工DIY）がHN上で強い共感。技術者の"ものづくり"本能は健在
 3. **Twill.ai(YC S25)が67pts**: 低スコアながらFuyajoへの直接競合。クラウドエージェント→PR受け取りモデルの市場検証が進行中
 4. **Artemis II 874pts**: 有人宇宙ミッション成功が本日のHN最高スコアを独占。宇宙技術への技術者熱狂は普遍的
+
+### 19:30 JST
+
+#### AI/Tech Stories (19:30)
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [334pts, 230comments] ↑19pts/+18 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 315→334pts。本日最高値更新継続。コメントも212→230へ増加
+- **本日最長持続シグナル**: 早朝47ptsから夜間334ptsまで7倍以上に成長。AIコーディング主流化の最強証拠
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [305pts, 645comments] ↑5pts/+26 comments
+- URL: https://blog.samaltman.com/2279512
+- 300→305pts。コメント619→645件（+26件）。300pt台を維持しながら議論継続
+- 本日全記事中最多コメント記録を更新継続。AI業界への社会的反感と応答への関心が夜間も持続
+
+**[HIGH] We've raised $17M to build what comes after Git** [315pts, 692comments] ↑1pt/+3 comments
+- URL: https://blog.gitbutler.com/series-a
+- 314→315pts。コメント689→692と微増。ほぼ完全収束
+- 本日を通じて682コメントを維持した開発者ツール変革議論が静かに幕を閉じる
+
+**[MEDIUM] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [67pts, 69comments] ±0pts/+6 comments
+- URL: https://twill.ai
+- スコア横ばいだがコメント63→69へ増加（+6件）。夜間も議論継続中
+- **Fuyajo直接競合**: クラウドエージェント→PR受け取りモデル。スコアより議論の質に注目
+
+#### Top Stories (19:30)
+
+**[HIGH] Artemis II safely splashes down** [906pts, 281comments] ↑32pts
+- 874→906pts。900pt台突破。本日全記事最高スコアをさらに更新
+- 有人月ミッション帰還への技術者熱狂が夜間も持続
+
+**[HIGH] Filing the corners off my MacBooks** [828pts, 408comments] ↑45pts
+- 783→828pts（+45pts）。800pt台突破。コメント397→408と増加
+- 技術者DIYエッセイが夜間も強い勢いで上昇
+
+**[HIGH] 1D Chess** [823pts, 142comments] ↑18pts
+- 805→823pts。800pt台を維持
+
+**[MEDIUM] Installing every* Firefox extension** [398pts, 55comments] ↑17pts
+- 381→398pts。400pt閾値に迫る
+
+**[MEDIUM] Chimpanzees in Uganda locked in eight-year 'civil war'** [335pts, 194comments]
+- 新規エントリー。AI非関連だが300pt超え。自然界の集団行動への関心
+
+### キー議論サマリー (19:30)
+
+1. **Linuxカーネル AIガイドが本日最高値334pts**: 早朝47ptsから334ptsへ夜間も上昇継続。本日最長持続・最大成長シグナル。「AI利用が最保守的OSSで公式認定された日」として2026-04-11を歴史的記録として刻む
+2. **Sam Altman事件645コメント**: 5ptsの緩やかな上昇と+26コメントで夜間も議論継続。AI業界への社会的反感が一過性ではないことを示す
+3. **Twill.aiコメント増加**: スコアより議論が活発（69コメント/67pt比率）。Fuyajoの直接競合として夜間も関心を集めている点は要注意
+4. **Artemis II 900pt突破**: 本日全記事最高スコアが900pt超え。宇宙技術への技術者熱狂は時間が経つほど高まる
