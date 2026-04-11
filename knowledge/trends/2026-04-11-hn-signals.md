@@ -652,3 +652,61 @@
 2. **GitButler 680コメント**: 本日最多コメントを維持。開発ツールの次世代化議論が最高潮
 3. **Artemis II急上昇(+113pts)**: 有人宇宙飛行成功が技術者コミュニティで熱狂的支持
 4. **Linuxカーネル AIガイド安定**: 169pts/130コメントで影響力維持。AI主流化の長期シグナル
+
+### 12:30 JST
+
+#### AI関連シグナル
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [211pts, 407comments] ↑30pts/+58 comments
+- URL: https://blog.samaltman.com/2279512
+- 181→211pts。コメント349→407と引き続き増加。Top Stories 3位に登場
+- AI業界リーダーへの物理的攻撃とその公式反応がHN全体で議論継続
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [201pts, 493comments] ↑3pts/+14 comments
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- 198→201ptsで緩やか上昇。コメント493件はAI系で本日最多を維持
+- Sam Altman反応記事と合わせて2件で合計900コメント。AI社会的緊張のメガトレンド
+
+**[HIGH] We've raised $17M to build what comes after Git** [308pts, 682comments] ↑1pt/+2 comments
+- URL: https://blog.gitbutler.com/series-a
+- 307→308ptsでほぼ横ばい。成熟・収束フェーズへ。コメント682と本日通じて最多を維持
+- 開発者ツール変革の議論が1日かけて結論フェーズへ
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [191pts, 140comments] ↑22pts/+10 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 169→191ptsで引き続き上昇。Top Stories 9位に登場
+- Linuxカーネル公式AIガイドが昼時間帯も技術者の関心を集め続けている
+
+**[MEDIUM] Why do we tell ourselves scary stories about AI?** [36pts, 93comments] NEW
+- URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/
+- 新規エントリー。スコア36だがコメント93はスコア比最高（2.6コメント/pt）
+- Quanta Magazineによる「なぜAIについて怖い話を語るのか」という問い。Sam Altman事件と共鳴
+- Falcon戦略示唆: AI恐怖論への反論・対話コンテンツとして参考価値高い
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [59pts, 52comments] ↑5pts/+2 comments
+- URL: https://twill.ai
+- 54→59pts微増。Fuyajo競合概念として継続監視
+
+#### Top Stories (12:30)
+
+**[HIGH] 1D Chess** [690pts, 130comments]
+- 全体トップを引き続き維持。技術者コミュニティの圧倒的関心
+
+**[HIGH] Artemis II safely splashes down** [499pts, 181comments] ↑90pts
+- 409→499ptsで急上昇。有人月ミッション帰還成功が技術者に強く刺さる
+
+**[HIGH] WireGuard makes new Windows release** [413pts, 112comments] ↑5pts
+- 安定した高スコア。セキュリティインフラの主要シグナル継続
+
+**[HIGH] Filing the corners off my MacBooks** [462pts, 250comments] ↑78pts
+- 384→462ptsと大幅上昇。技術者のDIYユーモア記事として急伸
+
+**[HIGH] Industrial design files for Keychron keyboards and mice** [325pts, 99comments] ↑9pts
+- オープンソースハードウェアへの関心継続
+
+### キー議論サマリー (12:30)
+
+1. **Sam Altman関連2件で合計900コメント超**: 11:30の828コメントから拡大。AI業界への社会的反発議論が昼時間帯も最高水準維持
+2. **「AIの怖い話」がコメント比率最高(2.6/pt)**: スコアは低いが最も活発な議論。Sam Altman事件と相まってAIへの恐怖・不安の議論が加熱
+3. **Linuxカーネル AIガイド継続上昇**: 191pts到達でTop Stories 9位にも登場。AI利用主流化の安定シグナル
+4. **GitButler収束**: 308pts/682コメントでほぼ横ばい。議論が収束フェーズへ
