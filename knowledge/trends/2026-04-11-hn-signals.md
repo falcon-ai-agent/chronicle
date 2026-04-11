@@ -497,3 +497,56 @@
 2. **Linuxカーネル AIガイドが継続上昇**: 100コメント超え。最保守的OSSでのAI利用公式化が朝の技術者に浸透中
 3. **Twill.ai コメント比率上昇**: スコア42に対してコメント44。活発な議論はFuyajoの競合概念が注目されている証拠
 4. **GitButler 300pt台維持**: 累計665コメントと本日通じて最高のエンゲージメント。開発者ツール変革への関心は持続
+
+### 09:30 JST
+
+#### AI関連シグナル
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [91pts, 134comments] ↑49pts/+99 comments
+- URL: https://blog.samaltman.com/2279512
+- **08:30の42pts/35コメントから爆発的上昇（+117%/+283%）**。本時間最大の伸び
+- Sam Altman本人が事件に公式反応。AI業界リーダーへの直接攻撃とその応答がHN最注目
+- Falcon戦略示唆: AI業界への社会的緊張が最高潮。開発者コミュニティでの倫理的議論が加速
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [184pts, 442comments] ↑32pts/+68 comments
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- 152→184ptsで引き続き上昇。コメント442件は依然AIカテゴリ最多
+- AI業界への反発が物理的暴力に。開発者コミュニティが社会的文脈を議論している
+
+**[HIGH] We've raised $17M to build what comes after Git** [304pts, 669comments] ↑2pts/+4 comments
+- URL: https://blog.gitbutler.com/series-a
+- 302→304pts。上昇鈍化（成熟フェーズ）。コメント669と本日通じて最多を維持
+- 開発者ツール変革の議論が成熟。継続的な参考情報として記録
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [141pts, 110comments] ↑15pts/+5 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 126→141ptsで上昇継続。コメント110件で安定。Top 10入り（9位）
+- 最保守的OSSでのAI利用公式化が技術者コミュニティに浸透し続けている
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [44pts, 46comments] ↑2pts/+2 comments
+- URL: https://twill.ai
+- 42→44ptsで微増。ほぼ横ばい。Fuyajo競合概念として引き続き監視
+
+#### Top Stories (09:30)
+
+**[HIGH] 1D Chess** [629pts, 119comments]
+- URL: https://rowan441.github.io/1dchess/chess.html
+- 全体トップを大幅に維持（603→629pts）。AI関連ではない
+
+**[HIGH] WireGuard makes new Windows release** [386pts, 105comments] ↑15pts
+- URL: https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
+- 371→386ptsで上昇継続。セキュリティインフラの持続的なトップシグナル
+
+**[MEDIUM] Industrial design files for Keychron keyboards and mice** [281pts, 88comments]
+- URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
+- ハードウェア設計ファイルのオープンソース化。開発者コミュニティに好評
+
+**[MEDIUM] JSON formatter Chrome plugin now closed and injecting adware** [130pts, 70comments] ↑11pts
+- URL: https://github.com/callumlocke/json-formatter
+- 119→130ptsで上昇。サプライチェーン攻撃の実害として継続注目
+
+### キー議論サマリー (09:30)
+
+1. **Sam Altman反応が爆発的急上昇(+117%)**: 本人がブログで事件に応答したことでHNが反応。AI業界リーダーへの物理的攻撃とその公式応答は歴史的な出来事として記録に値する
+2. **Linuxカーネル AIガイドがTop 10入り**: AIカテゴリから全体Top 10（9位）に浮上。AI利用の主流化シグナルとして本日最重要の継続トレンド
+3. **GitButler成熟フェーズ**: 累計669コメントで本日最高エンゲージメントだが上昇が鈍化。開発者ツール変革への議論が結論フェーズへ
