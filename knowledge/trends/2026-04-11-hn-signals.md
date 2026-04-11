@@ -769,3 +769,58 @@
 2. **「AIの怖い話」が+167%急上昇**: 36→98ptsへ爆発的成長。Sam Altman事件との感情的共鳴でAIへの恐怖・不安テーマが加速。AI倫理・社会的影響の議論が本格化
 3. **Linuxカーネル AIガイドがTop 10入り**: 214pts到達。最保守的OSSでのAI公式認定が昼時間帯も技術者に浸透し続けている
 4. **GitButler Top Stories 4位**: 310pts/685コメントでTop 4に浮上。開発者ツール変革は1日を通じて一貫したメガトレンド
+
+### 14:30 JST
+
+#### AI関連シグナル
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [252pts, 535comments] ↑19pts/+64 comments
+- URL: https://blog.samaltman.com/2279512
+- 233→252pts、471→535コメント。上昇継続。Top Stories 3位圏内を維持
+- AI業界リーダーへの物理的攻撃とその公式反応が午後も拡大。コメントが日中最大伸び
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [214pts, 520comments] ↑6pts/+9 comments
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- 208→214pts。コメント520件でAI系最多維持。上昇ペースは鈍化
+- Sam Altman反応記事と合わせて2件で合計**1055コメント**超え。AI社会的緊張が1000コメント突破
+
+**[HIGH] We've raised $17M to build what comes after Git** [311pts, 685comments] ↑1pt/0 comments
+- URL: https://blog.gitbutler.com/series-a
+- 310→311ptsで横ばい。コメント数も停滞。完全収束フェーズへ
+- 本日を通じて本日最多コメントを維持したまま議論が終息
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [242pts, 157comments] ↑28pts/+11 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 214→242ptsで本時間最大の伸び。Top Stories 8位に登場
+- AI利用主流化のシグナルとして本日を通じて最も安定した継続上昇。夕方前に最高スコア更新
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [65pts, 56comments] ↑4pts/+1 comments
+- URL: https://twill.ai
+- 61→65pts微増継続。Fuyajo競合概念として継続監視
+
+#### Top Stories (14:30)
+
+**[HIGH] 1D Chess** [736pts, 133comments] ↑18pts
+- 718→736pts。全体トップを引き続き維持。AI非関連
+
+**[HIGH] Artemis II safely splashes down** [660pts, 248comments] ↑68pts
+- 592→660ptsで大幅上昇。有人月ミッション帰還が午後も急上昇継続。本日2位に浮上
+
+**[HIGH] Filing the corners off my MacBooks** [575pts, 305comments] ↑52pts
+- 523→575ptsで大幅上昇。技術者DIYユーモアの最高スコア
+
+**[HIGH] WireGuard makes new Windows release** [430pts, 116comments] ↑10pts
+- セキュリティインフラの安定高スコア継続
+
+**[MEDIUM] Industrial design files for Keychron keyboards and mice** [340pts, 107comments] ↑9pts
+- ハードウェアオープンソース化として安定推移
+
+**[MEDIUM] JSON formatter Chrome plugin now closed and injecting adware** [184pts, 100comments]
+- サプライチェーン攻撃トレンドの一環として継続注目
+
+### キー議論サマリー (14:30)
+
+1. **Sam Altman関連2件で累計1055コメント突破**: 前回982から+73コメント。1000コメント突破という歴史的水準に。AI業界への物理的反発議論がHNで記録的エンゲージメント達成
+2. **Linuxカーネル AIガイド最高スコア更新(242pts)**: 本日を通じて最も一貫した上昇。214→242pts（+28pts）は本時間最大の伸び。AI利用主流化の象徴的存在として1日を締めくくる
+3. **GitButler完全収束**: 311pts/685コメントで停滞。本日のメガトレンドが収束フェーズへ完全移行
+4. **Artemis II急上昇継続**: 宇宙ミッション成功が技術者コミュニティに強く刺さる。592→660pts（+68pts）
