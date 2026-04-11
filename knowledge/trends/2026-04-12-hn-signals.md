@@ -89,3 +89,25 @@
 - **Score**: 75 | **Comments**: 81
 - **URL**: https://twill.ai
 - **Trend**: スコア横ばい継続。コメント数変化なし。
+
+### 05:30 JST
+
+#### [HIGH] AI assistance when contributing to the Linux kernel *(継続トレンド)*
+- **Score**: 470↑ (+9) | **Comments**: 355↑ (+7)
+- **URL**: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- **Trend**: 5時間以上のロングラン。AIコーディング支援の公式化が続く注目テーマ。
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(継続高騰)*
+- **Score**: 484↑ (+110) | **Comments**: 145↑ (+34)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 急上昇継続。本日最高スコア。小型モデルのセキュリティ実用性への強い関心。
+
+#### [HIGH] Cirrus Labs to join OpenAI *(継続)*
+- **Score**: 197↑ (+8) | **Comments**: 100↑ (+7)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。OpenAIによるマイクロVM/CI基盤の取り込みはFalcon Platformと競合軸。
+
+#### [MEDIUM] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs *(継続)*
+- **Score**: 75 | **Comments**: 81
+- **URL**: https://twill.ai
+- **Trend**: スコア横ばい。コメント活発なまま維持。
