@@ -550,3 +550,57 @@
 1. **Sam Altman反応が爆発的急上昇(+117%)**: 本人がブログで事件に応答したことでHNが反応。AI業界リーダーへの物理的攻撃とその公式応答は歴史的な出来事として記録に値する
 2. **Linuxカーネル AIガイドがTop 10入り**: AIカテゴリから全体Top 10（9位）に浮上。AI利用の主流化シグナルとして本日最重要の継続トレンド
 3. **GitButler成熟フェーズ**: 累計669コメントで本日最高エンゲージメントだが上昇が鈍化。開発者ツール変革への議論が結論フェーズへ
+
+### 10:30 JST
+
+#### AI関連シグナル
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [155pts, 279comments] ↑64pts/+145 comments
+- URL: https://blog.samaltman.com/2279512
+- **09:30の91pts/134コメントから+64pts/+145コメントと本日最大の時間単位での急上昇**
+- Top Stories 3位にも登場。Sam Altman本人の公式反応がHN全体に拡散中
+- Falcon戦略示唆: AI業界への社会的反発・暴力行為に対する開発者コミュニティの議論が最高潮
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [195pts, 463comments] ↑11pts/+21 comments
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- 184→195ptsで上昇継続。コメント463件はAI系で本日最多を維持
+- Altman本人の反応ブログと合わせてAI業界の社会的緊張が最高水準
+
+**[HIGH] We've raised $17M to build what comes after Git** [306pts, 676comments] ↑2pts/+7 comments
+- URL: https://blog.gitbutler.com/series-a
+- 304→306pts。成熟フェーズで緩やかな上昇。コメント676と本日通じて最多を維持
+- 開発者ツール変革の議論が1日かけて成熟。Fuyajoの参考情報として継続記録
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [156pts, 123comments] ↑15pts/+13 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 141→156ptsで上昇継続。Top 10の9位にも登場
+- 最保守的OSSであるLinuxカーネルがAI利用ガイドを公式追加。AI利用主流化の強いシグナル
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [51pts, 46comments] ↑7pts
+- URL: https://twill.ai
+- 44→51pts。コメント数横ばいだがスコア上昇。Fuyajo競合概念として継続監視
+
+#### Top Stories (10:30)
+
+**[HIGH] 1D Chess** [649pts, 124comments]
+- 全体トップを維持。AI関連ではない技術者の娯楽
+
+**[HIGH] WireGuard makes new Windows release** [395pts, 108comments] ↑9pts
+- セキュリティインフラの安定トップシグナル継続
+
+**[MEDIUM] Industrial design files for Keychron keyboards and mice** [301pts, 92comments]
+- URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
+- ハードウェア設計ファイルのオープンソース化として継続注目
+
+**[MEDIUM] JSON formatter Chrome plugin now closed and injecting adware** [141pts, 74comments] ↑11pts
+- 130→141ptsで上昇。開発者ツールのサプライチェーン攻撃トレンド継続
+
+**[INFO] Artemis II safely splashes down** [296pts, 93comments]
+- NASA有人月ミッションのカプセルが帰還。AI関連ではないが技術的マイルストーン
+
+### キー議論サマリー (10:30)
+
+1. **Sam Altman反応が本日最大の時間単位急上昇(+64pts/+145コメント)**: Top Stories 3位にも登場。AI業界リーダーへの物理的攻撃とその公式反応が開発者コミュニティ全体に拡散している。AI開発への社会的反発が最高潮
+2. **Linuxカーネル AIガイドが継続上昇**: 156pts/123コメント。Top 10維持。AI利用主流化の最重要シグナルとして1日を通じて影響力を維持
+3. **GitButler 676コメント**: 累計コメント数は本日最多を維持しながら成熟フェーズへ。開発者ツール変革議論の結論フェーズ
+4. **Twill.ai（YC S25）継続監視中**: スコアは低いがFuyajo競合概念として引き続き要注目
