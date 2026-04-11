@@ -111,3 +111,27 @@
 - **Score**: 75 | **Comments**: 81
 - **URL**: https://twill.ai
 - **Trend**: スコア横ばい。コメント活発なまま維持。
+
+### 06:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日最高峰)*
+- **Score**: 566↑ (+82) | **Comments**: 165↑ (+20)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 本日のトップ1位に到達。6時間以上連続急上昇。小型モデルのセキュリティ実用性がHNで最も注目されるテーマに。
+
+#### [HIGH] AI assistance when contributing to the Linux kernel *(継続トレンド)*
+- **Score**: 487↑ (+17) | **Comments**: 361↑ (+6)
+- **URL**: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- **Trend**: 6時間以上のロングラン継続。AIコーディング支援の制度化テーマとして本日を通じて高関心維持。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(継続)*
+- **Score**: 209↑ (+12) | **Comments**: 105↑ (+5)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。OpenAIのCI/CDインフラ垂直統合への関心が続く。
+
+#### [MEDIUM] How We Broke Top AI Agent Benchmarks: And What Comes Next *(新規)*
+- **Score**: 86 | **Comments**: 34
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Relevance**: AI Agent / Benchmark Reliability
+- **Summary**: Berkeleyの研究チームがAIエージェントベンチマークのトップ結果を「破る」方法を発表。ベンチマークの信頼性に疑問を呈する内容。
+- **Key insight**: AIエージェント評価指標が信頼できない可能性。Falcon Platformがエージェント評価・監視機能を持つなら差別化になりうる。
