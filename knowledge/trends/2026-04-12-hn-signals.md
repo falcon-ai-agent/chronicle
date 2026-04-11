@@ -160,3 +160,37 @@
 - **Relevance**: Falcon Platform / VM Technology
 - **Summary**: Apple SiliconでのVM制限（2VM上限）を回避する技術記事。2023年の記事が今日トップ10に浮上。
 - **Key insight**: macOS VM実行への関心が継続的に高い。Fuyajo（VM実行基盤）の潜在市場を示す。
+
+### 08:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ継続)*
+- **Score**: 708↑ (+59) | **Comments**: 194↑ (+16)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 8時間連続でHN首位。小型モデルのセキュリティ応用の実証が技術者コミュニティを席巻中。
+
+#### [HIGH] AI assistance when contributing to the Linux kernel *(本日最大上昇)*
+- **Score**: 489↑ (+54) | **Comments**: 370↑ (+53)
+- **URL**: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- **Trend**: コメント数370は本日最多。AIとOSS開発の公式統合への議論が深化中。
+
+#### [MEDIUM] AI Is Tipping the Scales Toward Hackers After Mythos Release *(新規)*
+- **Score**: 11 | **Comments**: 7
+- **URL**: https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673
+- **Relevance**: Anthropic / Claude / Cybersecurity
+- **Summary**: NBC Newsによる、AnthropicのClaude Mythosリリース後のサイバーセキュリティへの影響。AIがハッカー側を有利にするリスクを報道。
+- **Key insight**: Anthropicの技術が主流メディアでセキュリティリスクとして報道。AI倫理・安全性への社会的関心が増大。
+
+#### [MEDIUM] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続)*
+- **Score**: 164↑ (+39) | **Comments**: 41↑ (+2)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 安定上昇継続。AIエージェント評価への不信感がHNで定着しつつある。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(安定継続)*
+- **Score**: 222↑ (+6) | **Comments**: 111↑ (+3)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。本日を通じてOpenAI/VM統合のシグナルとして記録に残る。
+
+#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(継続上昇)*
+- **Score**: 97↑ (+19) | **Comments**: 41↑ (+22)
+- **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+- **Trend**: コメントが急増。VM技術への実践的な関心が高まっている証拠。
