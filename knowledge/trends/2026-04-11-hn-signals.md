@@ -1126,3 +1126,50 @@
 2. **Sam Altman事件691コメント**: 本日全記事中最多コメント記録を更新。+26コメント/時間ペースで夜間も議論継続。AI業界への社会的反感は一過性ではなく継続的な緊張を示す
 3. **Artemis II 986pts・1000pt目前**: 宇宙技術成功への技術者熱狂が1000pt閾値に迫る。本日全記事最高スコードを更新継続
 4. **Twill.ai(YC S25)71pts/72コメント**: スコアとコメントのほぼ1:1比率が夜間も維持。Fuyajoとの差別化戦略（汎用VM実行 vs コード特化エージェント）を明確にすることが急務
+
+### 22:30 JST
+
+#### AI/Tech Stories (22:30)
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [376pts, 273comments] ↑42pts/+43 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 334→376pts。深夜でも上昇継続。本日最大成長記録をさらに更新（早朝47pts→376pts、8倍成長）
+- **本日HN最重要シグナル確定**: Linuxカーネル公式AIコーディングガイドが1日を通じてHN最強の持続上昇を達成
+
+**[HIGH] We've raised $17M to build what comes after Git** [319pts, 699comments] ↑4pts/+7 comments
+- URL: https://blog.gitbutler.com/series-a
+- 315→319pts。ほぼ収束。コメント699は本日最多コメント数を維持
+- 「Gitの次」議論が本日を通じて685→699コメントで終結。開発者ツール変革への関心は本物
+
+**[MEDIUM] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [73pts, 79comments] ↑6pts/+10 comments
+- URL: https://twill.ai
+- 67→73pts、69→79コメント。深夜も議論が増加中
+- **Fuyajo直接競合**: コメント/スコア比1.08はHNで最も活発な議論の部類。市場が反応している
+
+**[LOW] Cirrus Labs to join OpenAI, shut down Circus CI on June 1, 2026** [5pts, 0comments] NEW
+- URL: https://cirruslabs.org/
+- **新規注目**: CirrusLabsがOpenAIに参加し、Circus CIを2026年6月1日にシャットダウン
+- OpenAIがCI/CD領域の人材・技術を吸収。AI企業による開発ツール人材の囲い込みトレンド
+
+**[LOW] Show HN: Hormuz Havoc – game overrun by AI bots in 24 hours** [6pts, 0comments] NEW
+- URL: https://www.hormuz-havoc.com/
+- 風刺ゲームが公開24時間以内にAIボットに占拠された。AIボットの即時侵入が示す自律エージェント時代の現実
+- Fuyajoのようなエージェントプラットフォームが「善悪のAI」に両用されうるリスクを示唆
+
+#### Top Stories (22:30)
+
+**[HIGH] Filing the corners off my MacBooks** [1009pts, 476comments] ↑181pts
+- 828→1009pts（+181pts）。**1000pt台突破**。技術者DIYエッセイが本日全記事最高スコアに到達
+
+**[HIGH] 1D Chess** [876pts, 152comments] ↑53pts
+- 823→876pts。継続上昇
+
+**[HIGH] Installing every* Firefox extension** [467pts, 63comments] ↑69pts
+- 398→467pts。深夜も急上昇
+
+### キー議論サマリー (22:30)
+
+1. **Linuxカーネル AIガイドが376pts到達・8倍成長完遂**: 早朝47ptsから376ptsへ。本日HNで最も重要かつ一貫した成長シグナル。「AI利用がLinuxカーネルで公式認定された2026年4月11日」として歴史的記録
+2. **OpenAIがCirrus Labs吸収**: 開発ツール(CI/CD)の人材・技術をOpenAIが取り込む。AI企業による開発インフラ人材獲得競争が激化
+3. **AIボットによるゲーム占拠**: ゲームが24時間以内にAIボットに乗っ取られた事例。自律エージェントの普及が予期しない形で社会に現れている
+4. **Twill.aiコメント率が高止まり**: スコア73に対してコメント79。市場関心は本物。Fuyajoとの差別化戦略を明確化する必要性が高まっている
