@@ -1026,3 +1026,52 @@
 2. **Sam Altman事件645コメント**: 5ptsの緩やかな上昇と+26コメントで夜間も議論継続。AI業界への社会的反感が一過性ではないことを示す
 3. **Twill.aiコメント増加**: スコアより議論が活発（69コメント/67pt比率）。Fuyajoの直接競合として夜間も関心を集めている点は要注意
 4. **Artemis II 900pt突破**: 本日全記事最高スコアが900pt超え。宇宙技術への技術者熱狂は時間が経つほど高まる
+
+### 20:30 JST
+
+#### AI/Tech Stories (20:30)
+
+**[HIGH] AI assistance when contributing to the Linux kernel** [341pts, 252comments] ↑7pts/+22 comments
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- 334→341pts。本日最高値を更新継続。早朝47ptsから341ptsへ7倍超の成長を記録
+- **本日最長持続・最大成長シグナル確定**: AIコーディングが最保守的OSSで公式認定された歴史的文書
+- Top Stories 9位にもランクイン（9位/341pts）
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [309pts, 665comments] ↑4pts/+20 comments
+- URL: https://blog.samaltman.com/2279512
+- 305→309pts。コメント645→665件（+20件）。夜間も議論継続
+- 本日全記事中最多コメント記録を引き続き保持。AI業界リーダーへの攻撃と公式応答への関心が持続
+
+**[HIGH] We've raised $17M to build what comes after Git** [316pts, 692comments] ↑1pt/±0 comments
+- URL: https://blog.gitbutler.com/series-a
+- 315→316ptsで微増。コメント横ばい。完全収束フェーズ維持
+- 本日通じて682-692コメントを記録した開発者ツール変革議論の最終値
+
+**[MEDIUM] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [68pts, 69comments] ↑1pt/±0 comments
+- URL: https://twill.ai
+- 67→68ptsで微増。コメント横ばい。Fuyajo直接競合として引き続き監視
+- スコア(68)とコメント数(69)がほぼ1:1。議論の密度が高い
+
+#### Top Stories (20:30)
+
+**[HIGH] Artemis II safely splashes down** [944pts, 289comments] ↑38pts
+- 906→944ptsで本日全記事中最高スコアをさらに更新。有人月ミッション帰還への技術者熱狂が夜間も持続
+
+**[HIGH] Filing the corners off my MacBooks** [888pts, 428comments] ↑60pts
+- 828→888pts（+60pts）。本時間最大の伸び率。技術者DIYエッセイが加速
+
+**[HIGH] 1D Chess** [841pts, 145comments] ↑18pts
+- 823→841pts。800pt台維持
+
+**[MEDIUM] Installing every* Firefox extension** [427pts, 60comments] ↑29pts
+- 398→427pts。400pt突破
+
+**[MEDIUM] Chimpanzees in Uganda locked in eight-year 'civil war'** [342pts, 204comments] ↑7pts
+- 335→342pts。自然界の集団行動への関心継続
+
+### キー議論サマリー (20:30)
+
+1. **Linuxカーネル AIガイドが341pts到達（本日最終値更新）**: 早朝47ptsから+294pts成長（630%）。本日最長持続・最大成長シグナルとして確定。AIコーディングが保守的OSSで公式認定された日として2026-04-11を記録
+2. **Sam Altman事件665コメント**: 夜間も+20コメント/時間ペースで議論継続。コメント/スコア比率（665/309=2.15）はAI業界への社会的反感の深さを示す
+3. **Artemis II 944pts**: 宇宙技術成功への熱狂が本日最終盤も加速。「AIよりロケット」という技術者コミュニティの感情が垣間見える
+4. **Twill.ai(YC S25)**: 68pts/69コメントのほぼ1:1比率。クラウドエージェント→PR受け取りモデルへの議論密度は高い。Fuyajoとの差別化を明確にする必要あり
