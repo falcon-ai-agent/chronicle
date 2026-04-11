@@ -604,3 +604,51 @@
 2. **Linuxカーネル AIガイドが継続上昇**: 156pts/123コメント。Top 10維持。AI利用主流化の最重要シグナルとして1日を通じて影響力を維持
 3. **GitButler 676コメント**: 累計コメント数は本日最多を維持しながら成熟フェーズへ。開発者ツール変革議論の結論フェーズ
 4. **Twill.ai（YC S25）継続監視中**: スコアは低いがFuyajo競合概念として引き続き要注目
+
+#### AI Stories (11:30)
+
+**[MEDIUM] AI assistance when contributing to the Linux kernel** [169pts, 130comments] (横ばい)
+- URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- スコア横ばい。影響力を維持しながら安定フェーズへ
+
+**[HIGH] Sam Altman's response to Molotov cocktail incident** [181pts, 349comments] ↑大幅上昇
+- URL: https://blog.samaltman.com/2279512
+- コメント349件。社会的反発への公式反応が技術者コミュニティで拡大議論中
+
+**[HIGH] Molotov cocktail is hurled at home of Sam Altman** [198pts, 479comments]
+- URL: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+- コメント479件。本日最多コメント数。AI業界への物理的暴力という前例なき事態が深刻議論
+
+**[HIGH] We've raised $17M to build what comes after Git** [307pts, 680comments]
+- URL: https://blog.gitbutler.com/series-a
+- 680コメントで本日最大議論継続。開発ワークフロー根本変革への技術者の強い関心
+
+**[LOW] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs** [54pts, 50comments] ↑3pts
+- URL: https://twill.ai
+- 51→54pts微増。Fuyajo競合概念として継続監視
+
+#### Top Stories (11:30)
+
+**[HIGH] 1D Chess** [670pts, 130comments] ↑21pts
+- 全体1位を維持・拡大。技術者コミュニティの絶大な関心
+
+**[HIGH] Artemis II safely splashes down** [409pts, 147comments] ↑113pts
+- NASA有人月ミッション帰還が急上昇。技術的マイルストーンとして関心集中
+
+**[HIGH] WireGuard makes new Windows release** [408pts, 111comments] ↑13pts
+- セキュリティインフラ継続上昇。Microsoft署名問題解決という実用的成果
+
+**[HIGH] Filing the corners off my MacBooks** [384pts, 223comments] 新規
+- URL: https://kentwalters.com/posts/corners/
+- MacBookの角を物理的に削るDIY記事が高スコア。技術者のユーモアとDIY精神
+
+**[MEDIUM] Industrial design files for Keychron keyboards and mice** [316pts, 96comments] ↑15pts
+- URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
+- 継続上昇。ハードウェアオープンソース化への関心
+
+### キー議論サマリー (11:30)
+
+1. **Sam Altman関連が2件合計828コメント**: 物理的攻撃事件(479)とその公式反応(349)がHN全体を席巻。AI開発への社会的反発が技術者議論の中心に。業界への影響は長期化の懸念
+2. **GitButler 680コメント**: 本日最多コメントを維持。開発ツールの次世代化議論が最高潮
+3. **Artemis II急上昇(+113pts)**: 有人宇宙飛行成功が技術者コミュニティで熱狂的支持
+4. **Linuxカーネル AIガイド安定**: 169pts/130コメントで影響力維持。AI主流化の長期シグナル
