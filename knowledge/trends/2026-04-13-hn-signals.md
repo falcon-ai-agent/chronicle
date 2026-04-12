@@ -66,6 +66,32 @@
 
 ---
 
+### 05:30 JST
+
+#### スコア更新 (前回比)
+- Small Models / Mythos: 1212→1219pts (+7)
+- AI Benchmark Exploiting: 471→475pts (+4)
+- Anthropic Cache TTL: 376→409pts (+33) ← 引き続き急伸
+- Docker/Cloudflare Spain: 439→509pts (+70) ← 最大急伸
+- Claudraband: 18→43pts (+25) ← 急成長
+- OpenAI Study Mode: 156→157pts (横ばい)
+
+#### 🟡 NEW: Bring Back Idiomatic Design
+- **Score**: 334pts, 157 comments
+- **URL**: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+- **Relevance**: Developer Tools / Product Design
+- **Summary**: 各OSのネイティブデザイン慣習（Idiomatic Design）への回帰を訴える論考。クロスプラットフォームUIが「どこでも中途半端」になる問題提起。HNで高い共感。
+- **Implication**: Falcon Platformのフロントエンド設計に参考。ネイティブ感・UX品質がユーザーリテンションに影響する。
+
+#### 🟡 NEW: European AI – A Playbook to Own It (Mistral)
+- **Score**: 56pts, 16 comments
+- **URL**: https://europe.mistral.ai/
+- **Relevance**: AI Infrastructure / Competitive Landscape
+- **Summary**: MistralがEuropean AI自立性を訴えるプレイブックを公開。欧州データ主権・規制対応・ローカルモデルの重要性を強調。
+- **Implication**: 地域特化AIプラットフォームの需要。Falcon Platformが日本市場向けにローカライズ・データ主権を訴求できるか。
+
+---
+
 ### キーテーマ
 
 1. **小型モデルの逆襲**: 特定ドメインでは大型モデル不要。infra-agent-llm戦略を加速すべき。
