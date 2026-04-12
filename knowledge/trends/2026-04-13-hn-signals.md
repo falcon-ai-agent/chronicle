@@ -48,6 +48,24 @@
 
 ---
 
+### 04:30 JST
+
+#### スコア更新 (前回比)
+- Small Models / Mythos: 1206→1212pts (+6)
+- AI Benchmark Exploiting: 464→471pts (+7)
+- Anthropic Cache TTL: 345→376pts (+31) ← 最も伸びている
+- Docker/Cloudflare Spain: 382→439pts (+57) ← 急伸
+- Cirrus Labs→OpenAI: 275pts (変化なし)
+
+#### 🟡 NEW: Show HN: Claudraband – Claude Code for the Power User
+- **Score**: 18pts, 0 comments
+- **URL**: https://github.com/halfwhey/claudraband
+- **Relevance**: Claude/Claude Code直接関連
+- **Summary**: Claude Code向けのパワーユーザーツール。詳細未確認だが、Claude Codeのカスタマイズ/拡張を目指したもの。
+- **Implication**: Claude Codeエコシステムが成長中。サードパーティツールが生まれている。
+
+---
+
 ### キーテーマ
 
 1. **小型モデルの逆襲**: 特定ドメインでは大型モデル不要。infra-agent-llm戦略を加速すべき。
