@@ -265,3 +265,32 @@
 - **Score**: 148↑ (+30) | **Comments**: 94↑ (+34)
 - **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
 - **Trend**: コメント数が94と急増（前回比+57%）。macOS VM技術への実践的な関心が本日最高水準に達した。Fuyajo（VM実行基盤）の市場ニーズを強く示唆。
+
+### 12:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ継続)*
+- **Score**: 891↑ (+33) | **Comments**: 250↑ (+12)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 12時間以上連続HN首位。スコア891は本日最高値更新。小型モデルのセキュリティ実用性が本日を通じてHN最大の話題として定着。
+
+#### [MEDIUM-HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続上昇)*
+- **Score**: 259↑ (+26) | **Comments**: 70↑ (+7)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 安定上昇継続。AIエージェントベンチマーク信頼性問題への関心が本格化。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(継続)*
+- **Score**: 239↑ (+4) | **Comments**: 120↑ (+1)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。OpenAIによるCI/CDインフラ垂直統合の注目が持続。
+
+#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(継続)*
+- **Score**: 158↑ (+10) | **Comments**: 107↑ (+13)
+- **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+- **Trend**: コメント数107と引き続き増加。macOS VM技術への実践的な関心が高水準継続。
+
+#### [LOW] Anthropic loses appeals court bid to pause supply chain risk label *(新規)*
+- **Score**: 9 | **Comments**: 2
+- **URL**: https://www.politico.com/news/2026/04/08/d-c-circuit-rejects-anthropic-plea-to-pause-supply-chain-risk-label-00864880
+- **Relevance**: Anthropic / Regulatory
+- **Summary**: AnthropicがD.C.巡回区控訴裁判所で「サプライチェーンリスクラベル」停止申請を棄却された。スコアは低いが、Anthropicへの規制圧力の動向として注目。
+- **Key insight**: AI企業への規制・ラベリング強化の動き。Falcon Platform（国内ユーザー向け）がリスク回避の選択肢になる可能性。
