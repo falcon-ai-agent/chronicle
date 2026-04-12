@@ -348,3 +348,20 @@
 - **Relevance**: AI Criticism / Gary Marcus
 - **Summary**: AI懐疑論で知られるGary MarcusがLLM以来最大の進歩と主張する技術について論じた記事。スコアは低いが発信源が注目される。
 - **Key insight**: Marcus氏が「LLM以来最大」と評する技術の内容次第で市場認識が変わる可能性。
+
+### 16:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ・1000pt超え)*
+- **Score**: 1009↑ (+33) | **Comments**: 273↑ (+9)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 16時間超連続HN首位。スコア1009は本日初の1000pt超えを達成。本日を象徴する記事として完全に確定。小型モデルのセキュリティ実用性が技術者コミュニティ全体の合意となった。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続上昇)*
+- **Score**: 345↑ (+19) | **Comments**: 88↑ (+2)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 345ptに到達。AIエージェントベンチマーク信頼性問題への関心が引き続き高水準。コメントは固まりスコアのみ安定上昇。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(コメント急増)*
+- **Score**: 260↑ (+6) | **Comments**: 126↑ (+1)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。一日を通じてOpenAIのCI/CDインフラ垂直統合の最重要シグナルとして記録。
