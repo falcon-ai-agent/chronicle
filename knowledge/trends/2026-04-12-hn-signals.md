@@ -269,24 +269,26 @@
 ### 12:30 JST
 
 #### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ継続)*
-- **Score**: 891↑ (+33) | **Comments**: 250↑ (+12)
+- **Score**: 918↑ (+60) | **Comments**: 255↑ (+17)
 - **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
-- **Trend**: 12時間以上連続HN首位。スコア891は本日最高値更新。小型モデルのセキュリティ実用性が本日を通じてHN最大の話題として定着。
+- **Trend**: 12時間超連続HN首位。スコア918は本日最高値更新。小型モデルのセキュリティ応用が技術者コミュニティの最大関心事として一日中維持。Infra Agent LLM（Qwen2.5-3B）戦略の正しさをHNが裏付け続けている。
 
-#### [MEDIUM-HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続上昇)*
-- **Score**: 259↑ (+26) | **Comments**: 70↑ (+7)
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(HIGH昇格)*
+- **Score**: 276↑ (+43) | **Comments**: 78↑ (+15)
 - **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
-- **Trend**: 安定上昇継続。AIエージェントベンチマーク信頼性問題への関心が本格化。
+- **Relevance**: AI Agent / Benchmark Reliability
+- **Trend**: スコア276に到達しHIGH基準超え。Berkeley RDIによるAIエージェントベンチマーク破壊の実証がHNで本格的な支持を集める。AIエージェント評価の信頼性問題が主流の議論に。
+- **Key insight**: ベンチマーク不信論の台頭は、Falcon Platform差別化のチャンス。「実際の業務タスク達成率」など実用的な評価軸を前面に出す戦略が有効。
 
-#### [MEDIUM] Cirrus Labs to join OpenAI *(継続)*
-- **Score**: 239↑ (+4) | **Comments**: 120↑ (+1)
+#### [MEDIUM] Cirrus Labs to join OpenAI *(終盤安定)*
+- **Score**: 246↑ (+11) | **Comments**: 121↑ (+2)
 - **URL**: https://cirruslabs.org/
-- **Trend**: 安定継続。OpenAIによるCI/CDインフラ垂直統合の注目が持続。
+- **Trend**: 安定継続。一日を通じてOpenAIのCI/CDインフラ垂直統合を示す重要シグナルとして記録完了。
 
-#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(継続)*
-- **Score**: 158↑ (+10) | **Comments**: 107↑ (+13)
+#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(継続上昇)*
+- **Score**: 168↑ (+20) | **Comments**: 116↑ (+22)
 - **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
-- **Trend**: コメント数107と引き続き増加。macOS VM技術への実践的な関心が高水準継続。
+- **Trend**: コメント116と本日最高値。2023年の古い記事が本日を通じてトップ10入り継続。macOS VM技術への根強い実践的関心がFuyajo市場の存在を示す。
 
 #### [LOW] Anthropic loses appeals court bid to pause supply chain risk label *(新規)*
 - **Score**: 9 | **Comments**: 2
