@@ -556,3 +556,41 @@
 - **Score**: 272 | **Comments**: 132
 - **URL**: https://cirruslabs.org/
 - **Trend**: 安定維持。OpenAIのインフラ垂直統合戦略が引き続き注目。
+
+### 23:30 JST
+
+#### [CRITICAL] Small models also found the vulnerabilities that Mythos found *(終日首位・最終記録)*
+- **Score**: 1159↑ (+11) | **Comments**: 313↑ (+4)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 本日最終スコア1159pt。23時間以上のHN首位として本日最大シグナルの記録を締めくくる。
+
+#### [CRITICAL] Claude Code Pro Max Quota Exhausted in 1.5 Hours *(夜間爆発)*
+- **Score**: 208↑ (+171) | **Comments**: 137↑ (+133)
+- **URL**: https://github.com/anthropics/claude-code/issues/45756
+- **Relevance**: Claude Code / Anthropic / Quota
+- **Trend**: 22:30時点で37/4から208/137へ爆発的上昇。HN全体トップ1位に浮上。1時間でスコア+171、コメント+133。
+- **Key insight**: Claude Code Pro Maxの5xクォータが「モデレートな使用」で1.5時間で枯渇。Anthropicの制限問題が複数スレッドで同時炎上中。Claude Code依存のFuyajoインフラ戦略に直接影響するリスク。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続)*
+- **Score**: 433↑ (+11) | **Comments**: 108↑ (+3)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 安定継続。AIエージェントベンチマーク信頼性問題への関心が終日維持。
+
+#### [HIGH] AI Will Be Met with Violence, and Nothing Good Will Come of It *(急上昇)*
+- **Score**: 160↑ (+52) | **Comments**: 262↑ (+92)
+- **URL**: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and
+- **Relevance**: AI社会リスク / 反AI感情
+- **Trend**: 1時間でコメント+92と急増。AI反発テーマが深夜にバイラル化。議論が過熱。
+- **Key insight**: AIへの暴力的反発可能性という重いテーマで技術者が議論を深めている。透明性・倫理の重要性がより鮮明に。
+
+#### [HIGH] Anthropic silently downgraded cache TTL *(継続上昇)*
+- **Score**: 206↑ (+38) | **Comments**: 161↑ (+17)
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Trend**: 22:30時点168→206。Quota問題とダブルでAnthropicへの不満が深夜も継続上昇。
+
+#### [NEW] Why AI Sucks at Front End
+- **Score**: 43 | **Comments**: 33
+- **URL**: https://nerdy.dev/why-ai-sucks-at-front-end
+- **Relevance**: AI限界 / フロントエンド開発
+- **Summary**: AIがフロントエンド開発で苦手とする理由を論じた記事。深夜に浮上。
+- **Key insight**: AI開発ツールの限界領域に関心が高まっている。Fuyajoがフロントエンド開発支援をするなら考慮すべき制約。
