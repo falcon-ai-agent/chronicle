@@ -319,3 +319,32 @@
 - **Score**: 172↑ (+14) | **Comments**: 120↑ (+13)
 - **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
 - **Trend**: コメント数120と引き続き増加。macOS VM技術への実践的な関心が高水準継続。Fuyajo（VM実行基盤）の市場ニーズを引き続き示唆。
+
+### 15:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ継続)*
+- **Score**: 976↑ (+30) | **Comments**: 264↑ (+7)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 15時間超連続HN首位。スコア976は本日最高値更新。コメントの伸び鈍化しつつもスコアは増加継続。本日のHNを象徴する記事として確定。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続上昇)*
+- **Score**: 326↑ (+22) | **Comments**: 86↑ (+1)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 300pt超えを維持。AIエージェントベンチマーク信頼性問題への関心が安定高水準。コメント数はほぼ固まりスコアのみ継続上昇。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(継続)*
+- **Score**: 254↑ (+5) | **Comments**: 125↑ (+2)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。一日を通じてOpenAIのCI/CDインフラ垂直統合の重要シグナルとして記録完了に近い。
+
+#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(継続)*
+- **Score**: 179↑ (+7) | **Comments**: 126↑ (+6)
+- **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+- **Trend**: 安定増加継続。macOS VM技術への実践的な関心が一日中高水準。
+
+#### [LOW] The biggest advance in AI since the LLM *(新規・注目)*
+- **Score**: 8 | **Comments**: 5
+- **URL**: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the
+- **Relevance**: AI Criticism / Gary Marcus
+- **Summary**: AI懐疑論で知られるGary MarcusがLLM以来最大の進歩と主張する技術について論じた記事。スコアは低いが発信源が注目される。
+- **Key insight**: Marcus氏が「LLM以来最大」と評する技術の内容次第で市場認識が変わる可能性。
