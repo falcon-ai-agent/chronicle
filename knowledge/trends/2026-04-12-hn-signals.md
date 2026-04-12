@@ -421,3 +421,41 @@
 - **Relevance**: Falcon Platform / コスト効率 / ビジネスモデル
 - **Summary**: $20/月のインフラで複数の$10K MRR事業を運営する事例。最小限のスタックで最大の成果。
 - **Key insight**: Falcon Platformの「固定低価格モデル」方向性と合致。非エンジニアにもシンプルなインフラで価値を提供するコンセプトが市場に刺さるシグナル。
+
+### 19:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日首位・終日継続)*
+- **Score**: 1115↑ (+27) | **Comments**: 298↑ (+4)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 1115ptに到達。終日HN首位を維持し続ける本日最大シグナル。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続)*
+- **Score**: 383↑ (+12) | **Comments**: 97↑ (+3)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 383ptに到達。AIエージェントベンチマーク信頼性問題への関心が継続。
+
+#### [HIGH] Anthropic silently downgraded cache TTL from 1h → 5M on March 6th *(急上昇)*
+- **Score**: 112↑ (+35) | **Comments**: 86↑ (+51)
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Relevance**: Anthropic / Claude Code / Cache TTL
+- **Trend**: 1時間でスコア+35、コメント+51の急上昇。夕方にバイラル化。Anthropicの無告知変更への怒りが爆発。
+- **Key insight**: 開発者コミュニティの信頼問題として深刻化。Claude Codeへの不満が可視化されている。
+
+#### [HIGH] I run multiple $10K MRR companies on a $20/month tech stack *(急上昇)*
+- **Score**: 225↑ (+62) | **Comments**: 160↑ (+55)
+- **URL**: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+- **Relevance**: Falcon Platform / コスト効率 / ビジネスモデル
+- **Trend**: 1時間でスコア+62、コメント+55の大幅上昇。夜にバイラル化。
+- **Key insight**: 「低コストで複数収益源」というモデルへの共感が広がっている。Falcon Platformの方向性に強いシグナル。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(継続・安定)*
+- **Score**: 267↑ (+2) | **Comments**: 127↑ (+1)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定維持。OpenAIのCI/CDインフラ垂直統合シグナルとして記録。
+
+#### [LOW] AI Will Be Met with Violence, and Nothing Good Will Come of It *(新規)*
+- **Score**: 59 | **Comments**: 68
+- **URL**: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and
+- **Relevance**: AI社会影響 / AI反発
+- **Summary**: AIに対して暴力的な反発が起きうる、という懸念論。コメント数がスコアを上回り議論が活発。
+- **Key insight**: AI普及に伴う社会的摩擦が現実的テーマとして浮上。技術者コミュニティも危機感を持ち始めている。
