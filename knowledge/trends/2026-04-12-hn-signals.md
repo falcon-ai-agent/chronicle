@@ -389,3 +389,35 @@
 - **Relevance**: Anthropic / Claude Code / Cache
 - **Summary**: AnthropicがMarch 6日にキャッシュTTLを1時間から5分に無告知でダウングレード。Claude Codeのissueとして報告。スコアは低いがAnthropicの動向として注目。
 - **Key insight**: Anthropicがキャッシュ設定を密かに変更するのは、コスト最適化の圧力を示す可能性。Claude Code利用者への影響が潜在的に大きい変更。
+
+### 18:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日首位・継続)*
+- **Score**: 1088 | **Comments**: 294
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 本日を通じてHN首位を維持。1088ptに到達。終日首位の歴史的なAIセキュリティシグナル。
+- **Key insight**: 小型モデルの実用的セキュリティ能力が技術コミュニティの認識として定着。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続)*
+- **Score**: 371 | **Comments**: 94
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 371ptに到達。AIエージェントベンチマーク信頼性問題への関心が終日高水準。
+
+#### [HIGH] Cirrus Labs to join OpenAI *(継続)*
+- **Score**: 265 | **Comments**: 126
+- **URL**: https://cirruslabs.org/
+- **Trend**: 265ptで安定。OpenAIのインフラ垂直統合シグナルとして終日記録。
+
+#### [MEDIUM] Anthropic silently downgraded cache TTL from 1h → 5M on March 6th *(Anthropic関連・スコア上昇)*
+- **Score**: 75→77 | **Comments**: 35
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Relevance**: Anthropic / Claude Code / Cache TTL
+- **Trend**: 終日緩やかに上昇。75→77pt、コメントも35に増加。
+- **Key insight**: Anthropicの無告知キャッシュ変更への不満が積み重なっている。開発者信頼の問題。
+
+#### [MEDIUM] I run multiple $10K MRR companies on a $20/month tech stack
+- **Score**: 163 | **Comments**: 105
+- **URL**: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+- **Relevance**: Falcon Platform / コスト効率 / ビジネスモデル
+- **Summary**: $20/月のインフラで複数の$10K MRR事業を運営する事例。最小限のスタックで最大の成果。
+- **Key insight**: Falcon Platformの「固定低価格モデル」方向性と合致。非エンジニアにもシンプルなインフラで価値を提供するコンセプトが市場に刺さるシグナル。
