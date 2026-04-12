@@ -216,3 +216,30 @@
 - **Score**: 118↑ (+21) | **Comments**: 60↑ (+19)
 - **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
 - **Trend**: コメント数が引き続き急増。macOS VM技術への実践的な関心が高水準。Fuyajo（VM実行基盤）の潜在市場を継続確認。
+
+### 10:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(本日トップ更新)*
+- **Score**: 822↑ (+49) | **Comments**: 223↑ (+12)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 10時間連続上昇。本日最高スコア更新。HN全体トップ1位を維持。小型モデルのセキュリティ実用性が技術者コミュニティ最大の話題として定着。
+
+#### [HIGH] AI assistance when contributing to the Linux kernel *(継続トレンド)*
+- **Score**: 495↑ (+6) | **Comments**: 373↑ (+3)
+- **URL**: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- **Trend**: 10時間以上のロングラン継続。コメント373はHNで非常に活発な議論。AIコーディング支援の制度化が本日を通じて持続的に注目。
+
+#### [MEDIUM-HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続上昇)*
+- **Score**: 209↑ (+20) | **Comments**: 58↑ (+9)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 安定上昇継続。AIエージェントベンチマーク信頼性問題への関心が本格化。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(安定継続)*
+- **Score**: 233↑ (+6) | **Comments**: 115↑ (+2)
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。OpenAIによるCI/CDインフラ垂直統合の注目が持続。
+
+#### [MEDIUM] Apple Silicon and Virtual Machines: Beating the 2 VM Limit *(継続)*
+- **Score**: 142↑ (+24) | **Comments**: 79↑ (+19)
+- **URL**: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+- **Trend**: スコア・コメント両方増加継続。macOS VM技術への関心が拡大中。
