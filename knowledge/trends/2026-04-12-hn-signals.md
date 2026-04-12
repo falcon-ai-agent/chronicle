@@ -365,3 +365,27 @@
 - **Score**: 260↑ (+6) | **Comments**: 126↑ (+1)
 - **URL**: https://cirruslabs.org/
 - **Trend**: 安定継続。一日を通じてOpenAIのCI/CDインフラ垂直統合の最重要シグナルとして記録。
+
+### 17:30 JST
+
+#### [HIGH] Small models also found the vulnerabilities that Mythos found *(1050pt・本日トップ継続)*
+- **Score**: 1050↑ (+41) | **Comments**: 286↑ (+13)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 17時間以上連続HN首位。1050ptに到達。本日を完全に象徴する記事として確定。小型モデルのセキュリティ実用性が技術者コミュニティの総意となった歴史的なHNシグナル。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続上昇)*
+- **Score**: 360↑ (+15) | **Comments**: 93↑ (+5)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 360ptに到達。AIエージェントベンチマーク信頼性問題への関心が安定高水準維持。
+
+#### [MEDIUM] Cirrus Labs to join OpenAI *(終日継続)*
+- **Score**: 263↑ (+3) | **Comments**: 126
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定継続。OpenAIのCI/CDインフラ垂直統合シグナルとして本日の記録を締めくくる。
+
+#### [LOW] Anthropic silently downgraded cache TTL from 1h → 5M on March 6th *(新規・Anthropic関連)*
+- **Score**: 8 | **Comments**: 1
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Relevance**: Anthropic / Claude Code / Cache
+- **Summary**: AnthropicがMarch 6日にキャッシュTTLを1時間から5分に無告知でダウングレード。Claude Codeのissueとして報告。スコアは低いがAnthropicの動向として注目。
+- **Key insight**: Anthropicがキャッシュ設定を密かに変更するのは、コスト最適化の圧力を示す可能性。Claude Code利用者への影響が潜在的に大きい変更。
