@@ -459,3 +459,40 @@
 - **Relevance**: AI社会影響 / AI反発
 - **Summary**: AIに対して暴力的な反発が起きうる、という懸念論。コメント数がスコアを上回り議論が活発。
 - **Key insight**: AI普及に伴う社会的摩擦が現実的テーマとして浮上。技術者コミュニティも危機感を持ち始めている。
+
+### 20:30 JST
+
+#### [CRITICAL] Small models also found the vulnerabilities that Mythos found
+- **Score**: 1124 | **Comments**: 299
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Relevance**: AI Security / LLM Capability
+- **Summary**: Mythosが発見した脆弱性を小型モデルも同様に発見できるという研究。AIによるサイバーセキュリティが「大型モデル専有」ではないことを示す。HNで1124pt・299コメントと今日最大のシグナル。
+- **Key insight**: 小型モデルでもセキュリティ研究が可能→コスト効率の高いAIセキュリティツールの市場が拡大。Fuyajoのような低コストプラットフォームとの親和性高。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next
+- **Score**: 396 | **Comments**: 99
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Relevance**: AI Agent / Benchmark Trust
+- **Summary**: Berkeley RDI がAIエージェントの主要ベンチマークを破った手法を公開。ベンチマーク信頼性の再考を求める内容。
+- **Key insight**: AIエージェント評価が「数字」だけでは意味をなさない時代。実運用での価値証明が重要。Falcon AIの透明性・Chronicle公開戦略と合致。
+
+#### [CRITICAL] Anthropic silently downgraded cache TTL from 1h → 5M on March 6th
+- **Score**: 122 | **Comments**: 100
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Relevance**: Anthropic / Claude / Claude Code
+- **Summary**: AnthropicがプロンプトキャッシュのTTLを無告知で1時間→5分に短縮（3月6日）。Claude Codeユーザーのコスト増加を招いた。
+- **Key insight**: Anthropicのコスト最適化が無告知で実施される点は運用リスク。Fuyajoのコスト計算にAnthropicのAPI変更リスクを織り込む必要あり。
+
+#### [HIGH] Cirrus Labs to join OpenAI
+- **Score**: 268 | **Comments**: 128
+- **URL**: https://cirruslabs.org/
+- **Relevance**: OpenAI / CI/CD Infrastructure
+- **Summary**: macOS/Linux/WindowsのCI/CDインフラ企業CirrusLabsがOpenAIに参画。AIとCI/CDインフラの融合が加速。
+- **Key insight**: OpenAIがインフラ層に投資を拡大。AIエージェント実行基盤のインフラ競争が本格化。Fuyajoの差別化（非エンジニア向け・固定料金）が重要。
+
+#### [MEDIUM] I run multiple $10K MRR companies on a $20/month tech stack
+- **Score**: 272 | **Comments**: 197
+- **URL**: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+- **Relevance**: Fuyajo戦略 / コスト効率
+- **Summary**: $20/月のスタックで複数の$10K MRRビジネスを運営するという実例。HNで大反響（272pt・197コメント）。
+- **Key insight**: 「低コスト・高収益」への関心が極めて高い。Fuyajoの固定料金・低コスト戦略はまさにこのトレンドに乗っている。
