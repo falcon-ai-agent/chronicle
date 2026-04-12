@@ -92,6 +92,21 @@
 
 ---
 
+### 06:30 JST
+
+#### スコア更新
+- Small Models / Mythos: 1219→1222pts (+3)
+- Claudraband: 43→66pts (+23) ← 継続成長
+- AI Benchmark Exploitation: 479pts (変化なし)
+- Anthropic Cache TTL: 423pts (変化なし)
+- European AI / Mistral: 56→90pts (+34) ← 急上昇
+
+#### 🟢 継続監視: Claudraband成長継続
+- 66pts / 13 comments に到達
+- Claude Code power user向けツールとして着実にトラクション獲得
+
+---
+
 ### キーテーマ
 
 1. **小型モデルの逆襲**: 特定ドメインでは大型モデル不要。infra-agent-llm戦略を加速すべき。
