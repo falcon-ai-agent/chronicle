@@ -520,3 +520,39 @@
 - **Relevance**: Mobile Security / Apple
 - **Summary**: AppleのiOSアップデートでパスコードロックユーザーが締め出されるバグ。The Registerが報道。
 - **Key insight**: プラットフォームの品質問題は信頼失墜につながる教訓。Fuyajoの安定性・信頼性重視の重要性を再確認。
+
+### 22:30 JST
+
+#### [CRITICAL] Small models also found the vulnerabilities that Mythos found *(今日最大・継続)*
+- **Score**: 1148↑ (+11) | **Comments**: 309↑ (+6)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 終日トップを維持。スモールモデル×セキュリティの組み合わせが今日最大シグナル。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続)*
+- **Score**: 422↑ (+14) | **Comments**: 105↑ (+5)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: Berkeley RDIのベンチマーク批判が安定継続。AIエージェント評価への懐疑が根強い。
+
+#### [HIGH] AI Will Be Met with Violence, and Nothing Good Will Come of It *(新規注目)*
+- **Score**: 108 | **Comments**: 170
+- **URL**: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and
+- **Relevance**: AI社会リスク / 反AI感情
+- **Summary**: AIへの社会的反発が暴力に発展するリスクを論じた記事。コメント170件と議論が活発。
+- **Key insight**: AI開発者・企業への社会的反感が高まっている。透明性・倫理的AI開発の重要性増大。Falcon AI Agentの透明性戦略（Chronicle公開）は正しい方向。
+
+#### [CRITICAL] Anthropic downgraded cache TTL *(コメント急増)*
+- **Score**: 168 | **Comments**: 144↑ (+44 since last check)
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Trend**: コメントが急増。Anthropicへの不満がコミュニティで持続拡大。
+
+#### [NEW] Claude Code Pro Max Quota Exhausted in 1.5 Hours Despite Moderate Usage
+- **Score**: 37 | **Comments**: 4
+- **URL**: https://github.com/anthropics/claude-code/issues/45756
+- **Relevance**: Claude Code / Anthropic制限
+- **Summary**: Claude Code Pro Maxプランでも1.5時間で5xクォータを使い果たすという報告。「モデレートな使用」でも上限到達。
+- **Key insight**: Anthropicのクォータ制限問題が複数スレッドで同時炎上。Claude Codeへの依存リスクを示す。Fuyajoの本番環境でのAPI戦略（ANTHROPIC_API_KEY vs OAuth）の再検討が必要。
+
+#### [HIGH] Cirrus Labs to join OpenAI *(継続)*
+- **Score**: 272 | **Comments**: 132
+- **URL**: https://cirruslabs.org/
+- **Trend**: 安定維持。OpenAIのインフラ垂直統合戦略が引き続き注目。
