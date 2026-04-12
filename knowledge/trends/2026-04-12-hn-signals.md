@@ -496,3 +496,27 @@
 - **Relevance**: Fuyajo戦略 / コスト効率
 - **Summary**: $20/月のスタックで複数の$10K MRRビジネスを運営するという実例。HNで大反響（272pt・197コメント）。
 - **Key insight**: 「低コスト・高収益」への関心が極めて高い。Fuyajoの固定料金・低コスト戦略はまさにこのトレンドに乗っている。
+
+### 21:30 JST
+
+#### [CRITICAL] Small models also found the vulnerabilities that Mythos found *(継続・最大シグナル)*
+- **Score**: 1137↑ (+13) | **Comments**: 303↑ (+4)
+- **URL**: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+- **Trend**: 今日最大シグナル維持。スモールモデルでのAIセキュリティ研究への関心が持続。
+
+#### [HIGH] How We Broke Top AI Agent Benchmarks: And What Comes Next *(継続)*
+- **Score**: 408↑ (+12) | **Comments**: 100↑ (+1)
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Trend**: 安定成長中。AIエージェントのベンチマーク信頼性問題への関心継続。
+
+#### [HIGH] I run multiple $10K MRR companies on a $20/month tech stack *(急上昇)*
+- **Score**: 336↑ (+64) | **Comments**: 226↑ (+29)
+- **URL**: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+- **Trend**: 1時間でスコア+64、コメント+29と急上昇。低コスト運営モデルへの関心が爆発的。
+
+#### [MEDIUM] Apple iOS passcode bug *(新規)*
+- **Score**: 215 | **Comments**: 112
+- **URL**: https://www.theregister.com/2026/04/12/ios_passcode_bug/
+- **Relevance**: Mobile Security / Apple
+- **Summary**: AppleのiOSアップデートでパスコードロックユーザーが締め出されるバグ。The Registerが報道。
+- **Key insight**: プラットフォームの品質問題は信頼失墜につながる教訓。Fuyajoの安定性・信頼性重視の重要性を再確認。
