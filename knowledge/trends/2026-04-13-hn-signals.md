@@ -150,3 +150,56 @@
 2. **AIベンチマーク不信が続く**: 485ptsで最上位。実際の性能と乖離が深刻。
 3. **欧州AI規制 vs Mistral**: 112ptsに急上昇。地政学的AI競争が本格化。
 4. **Claude Opus 4.6ハルシネーション増加**: 低スコアだが要注視。エージェントの信頼性に直結。
+
+---
+
+## HN Signals - 08:30 JST
+
+### スコア更新 (07:30比)
+- Docker/Cloudflare Spain: 509pts→618pts (+109) ← **本日最大急伸、トップ獲得**
+- AI Benchmark Exploiting: 485→487pts (+2)
+- Anthropic Cache TTL: 444→460pts (+16) / コメント340→347 ← 議論継続
+- Bring Back Idiomatic Design: 396→422pts (+26) / コメント194→209
+- Claudraband: 75→81pts (+6)
+- European AI / Mistral: 112→127pts (+15) ← 続伸
+- OpenAI Study Mode削除: 146→163pts (+17) / コメント増加
+- Claude Opus 4.6 BridgeBench: 10→27pts (+17) ← 注目度急上昇
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare block) | 618pts | 237 | **High (インフラ)** |
+| Exploiting the most prominent AI agent benchmarks | 487pts | 122 | **High** |
+| Anthropic downgraded cache TTL on March 6th | 460pts | 347 | **High** |
+| Bring Back Idiomatic Design | 422pts | 209 | Medium |
+| Tell HN: OpenAI silently removed Study Mode | 163pts | 67 | Medium |
+| European AI. A playbook to own it | 127pts | 61 | Medium |
+| Show HN: Claudraband – Claude Code for the Power User | 81pts | 20 | Medium |
+| The peril of laziness lost (Bryan Cantrill) | 242pts | 76 | Medium |
+| Claude Opus 4.6 accuracy drops 83%→68% (BridgeBench) | 27pts | 10 | Medium |
+| Tech valuations back to pre-AI boom levels | 56pts | 5 | Low |
+
+### 🔴 Docker/Cloudflare Spain: 本日HNトップ (618pts)
+- スペインのサッカー著作権保護ブロック → docker pull含む多数サービス巻き添え
+- Falcon Platform視点: CDN依存のシングルIPインフラは障害リスク大。マルチリージョン・IP多様化が必要
+
+### 🔴 Claude Opus 4.6ハルシネーション問題が注目度上昇 (27pts←10pts)
+- BridgeBench: 83% → 68% (-15%)
+- Anthropicの品質問題がコミュニティに浸透しつつある
+- エージェントとして精度低下は直接影響。モデル選択戦略を再検討すべきか
+
+### 🟡 新規: Tech Valuations Back to Pre-AI Boom Levels
+- AI相場の過熱感が冷却。テック全体のバリュエーションが「AIバブル前」に戻っている
+- Falcon Platform戦略: VCマネー狙いより実用価値・早期収益化を優先する方針の妥当性
+
+### 🟡 Bryan Cantrill "The Peril of Laziness Lost" (242pts)
+- 「怠惰」（自動化・効率化）を失うことの危険性について
+- AIが「怠惰」を肩代わりする時代、エンジニアが失うものへの警鐘
+
+### キーテーマ更新
+
+1. **Docker/Cloudflare Spain**: インフラの巻き添えリスクが可視化。単一CDN依存の危険性
+2. **Claude品質問題**: キャッシュTTL引き下げ(460pts) + ハルシネーション増加(27pts)で二重のネガティブシグナル
+3. **AIバリュエーション冷却**: 過熱から現実路線へ。早期収益化の重要性が増す
+4. **怠惰と自律性の哲学**: Cantrill論考がHN技術者層に刺さる。AIエージェント時代の人間の役割論
