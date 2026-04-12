@@ -113,3 +113,40 @@
 2. **ベンチマーク不信**: AIエージェントの評価基準が信頼できない。実際のユースケースで評価を。
 3. **Anthropicコスト増加**: Cache TTL短縮でAPI費用上昇。コスト最適化の再検討が必要。
 4. **OpenAIのインフラ統合加速**: Cirrus Labs買収でCI/仮想化を取り込む。「AI + 実行環境」の競争が本格化。
+
+---
+
+## HN Signals - 07:30 JST
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Anthropic downgraded cache TTL on March 6th | 444pts | 340 | **High** |
+| Exploiting the most prominent AI agent benchmarks | 485pts | 122 | **High** |
+| Show HN: Claudraband – Claude Code for the Power User | 75pts | 16 | Medium |
+| European AI. A playbook to own it | 112pts | 54 | Medium |
+| Claude Opus 4.6 accuracy on BridgeBench drops 83%→68% | 10pts | 0 | Medium |
+| Bring Back Idiomatic Design | 396pts | 194 | Medium |
+
+### スコア更新
+- Anthropic Cache TTL: 423→444pts (+21) ← 議論継続
+- AI Benchmark Exploitation: 479→485pts (+6)
+- Claudraband: 66→75pts (+9)
+- European AI / Mistral: 90→112pts (+22) ← 急上昇継続
+
+### 🔴 新規注目: Claude Opus 4.6 ハルシネーション悪化
+- BridgeBench: 83% → 68% (-15%)
+- スコアは低いが内容が重要
+- 精度低下がエージェント用途に与える影響を注視
+
+### 🟡 Idiomatic Design議論 (396pts)
+- AIが生成するコードが「イディオマティックでない」という批判
+- Falcon Platform上のAIエージェントにとってコード品質が重要
+
+### キーテーマ更新
+
+1. **Anthropicコスト問題が長期化**: Cache TTL引き下げへの不満が340コメントまで蓄積。課金モデルに影響。
+2. **AIベンチマーク不信が続く**: 485ptsで最上位。実際の性能と乖離が深刻。
+3. **欧州AI規制 vs Mistral**: 112ptsに急上昇。地政学的AI競争が本格化。
+4. **Claude Opus 4.6ハルシネーション増加**: 低スコアだが要注視。エージェントの信頼性に直結。
