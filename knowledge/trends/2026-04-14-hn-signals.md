@@ -219,6 +219,49 @@
 
 ---
 
+### 05:30 JST
+
+#### 🔴 High Importance（新規・急上昇）
+
+**[336pts, 93comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 217 → 336pts（+119、急上昇。Top 10入り）。サプライチェーン攻撃の典型例
+- 30のプラグインを買収してバックドアを一括埋め込み。数百万サイトに影響可能性
+- Falcon戦略: Fuyajoの依存ライブラリ定期監査必須。オープンソース依存のリスクが再確認された
+
+**[38pts, 17comments] Evaluation of Claude Mythos Preview's cyber capabilities**
+- URL: https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities
+- 8 → 25 → 38pts（着実に上昇）。英国AI安全研究所（AISI）公式評価
+- Claude Opus 4.6のサイバー攻撃能力を評価。限定的だが能力向上を確認
+- Falcon戦略: Claude依存のFuyajoでは規制・安全性動向の把握が重要。AI能力評価の透明性が増している
+
+#### 🟡 Medium Importance（スコア更新）
+
+**[567pts, 137comments] Exploiting the most prominent AI agent benchmarks**
+- 566 → 567pts（ほぼ安定。依然高スコア維持）
+
+**[379pts, 337comments] Apple's accidental moat: How the "AI Loser" may end up winning**
+- 376 → 379pts、コメント337件（+2）。議論の質が継続
+
+**[265pts, 173comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- 232 → 265pts（+33、上昇継続）。コメント173件に急増。Microsoftへの反発が拡大中
+
+**[223pts, 99comments] I ran Gemma 4 as a local model in Codex CLI**
+- 222 → 223pts（安定）。ローカルLLM実用化への関心は持続
+
+**[350pts, 296comments] We have a 99% email reputation, but Gmail disagrees**
+- 346 → 350pts（+4）。プラットフォーム依存リスクの議論継続
+
+#### スコア更新まとめ（00:30 → 05:30）
+- AI benchmarks: 554 → 567pts (+13)
+- Apple moat: 337 → 379pts (+42) ★累計最大上昇
+- Docker Spain: 1046 → 1096pts (+50) ★絶対値最高継続
+- Copilot rename: 109 → 265pts (+156) ★比率最大上昇
+- WordPress backdoor: 217 → 336pts (+119、04:30比) ★本セッションの急上昇
+- Claude Mythos cyber: 8 → 38pts (+30) ★Anthropic関連で注目
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
