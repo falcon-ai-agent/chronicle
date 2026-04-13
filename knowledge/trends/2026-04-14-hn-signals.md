@@ -365,6 +365,59 @@
 
 ---
 
+### 08:30 JST
+
+#### 🔴 High Importance（急上昇・新規）
+
+**[582pts, 160comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 512 → 582pts（+70、1時間で急上昇継続。本日のトップ記事に確定）
+- サプライチェーン攻撃として今最もホットなトピック。Hacker News歴史的事例レベル
+- Falcon戦略: npm/PyPI含めた依存関係の継続的監査が必須
+
+**[17pts, 2comments] Claude Code may be burning your limits with invisible tokens**
+- URL: https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/
+- NEW。Claude Codeが不可視のトークンでレート制限を消費している問題
+- 内容: キャッシュトークン、システムプロンプト、コンテキストウィンドウ管理で見えないトークン消費
+- Falcon戦略: Claude Code利用のコスト管理に直接影響。トークン使用量の可視化・最適化が必要
+
+#### 🟡 Medium Importance（スコア更新・新規）
+
+**[154pts, 195comments] Stanford report highlights growing disconnect between AI insiders and everyone**
+- URL: https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/
+- 114 → 154pts、コメント195件（大幅増）。AI業界と一般の認識ギャップが話題に
+- HN議論: 「AIを作る人と使う人で期待値が全く違う」「現場での実用性が問われている」
+- Falcon戦略: 非エンジニア向けFuyajoは正しい方向。技術者視点より実用性重視が差別化軸
+
+**[311pts, 226comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- 300 → 311pts、コメント226件（+16）。Microsoftへの反発が持続
+- HN本音: 「名前を変えても嫌われる」「AIの強制統合への反感」
+
+**[320pts, 198comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- 258 → 320pts（+62、大幅上昇）。GitHubのStacked PR公式サポート
+- 開発者ワークフロー改善として注目。Claude Codeとのシナジー可能性
+
+**[57pts, 11comments] (AMD) Build AI Agents That Run Locally**
+- URL: https://amd-gaia.ai/docs
+- NEW。AMDがローカルAIエージェント構築ドキュメントを公開
+- Intel/NVIDIAに対抗してAMDがローカルLLM市場に参入。エコシステム拡大
+- Falcon戦略: infra-agent-llmのハードウェア選択肢としてAMD GPUも検討対象
+
+**[402pts, 135comments] Servo is now available on crates.io**
+- URL: https://servo.org/blog/2026/04/13/servo-0.1.0-release/
+- 386 → 402pts（安定上昇継続）。Rustエコシステムの拡大として関心継続
+
+#### スコア更新まとめ（00:30 → 08:30）
+- WordPress backdoor: 217 → 582pts (+365) ★本日最大・本日トップ記事
+- AI benchmarks: 554 → 571pts (+17, 安定)
+- Copilot rename: 109 → 311pts (+202) ★比率最大累計
+- GitHub Stacked PRs: (new) → 320pts ★開発者ツールで急上昇
+- Stanford AI disconnect: (new) → 154pts ★コメント急増
+- Claude Code tokens: (new) ★Claude直接関連の新規シグナル
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
