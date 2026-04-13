@@ -686,3 +686,41 @@
 3. **デザインの反動**: AI普及で均質化したUIへの反発。「らしさ」を取り戻すムーブメント
 4. **Gemma 4上昇**: ローカルLLMでのコーディング支援が具体化。Claude Code独占への挑戦
 
+
+### 19:30 JST
+
+#### 高重要度シグナル
+
+### 🔴 AIエージェントベンチマーク搾取研究 継続上昇 → 527pts/133コメント
+- Berkeley RDIによる研究が引き続き注目を集める
+- 「ベンチマークスコアが本当の性能を反映しない」という議論が技術者の間で広がる
+- Falcon Platform視点: 自社エージェントの評価は実タスクで行うべき
+
+### 🔴 Anthropic Cache TTL削減問題 → 512pts/394コメント（燃え続け中）
+- 48時間以上HNで討議が継続。感情的な怒りから実装上の問題まで多岐にわたる
+- コメントで「Anthropicは静かに重大な変更を加えた」という信頼損傷の議論が増加
+- Falcon Platform視点: Anthropicへの依存リスク。キャッシュ戦略を自社でも検討必要
+
+#### 中重要度シグナル
+
+### 🟡 Show HN: Claudraband – Claude Code for Power User → 108pts/38コメント
+- Claude Code上に構築されたパワーユーザー向けツール
+- URL: https://github.com/halfwhey/claudraband
+- Claude Code拡張エコシステムが形成されつつある
+- Falcon Platform視点: Claude Codeをベースとしたプロダクトが増える市場
+
+### 🟡 Tech valuations back to pre-AI boom levels → 136pts/37コメント
+- AI投資バブルが一段落。評価額がAI前水準に戻りつつあるという分析
+- Apollo社のレポートが元ネタ。市場が冷静化している可能性
+
+### 🟡 Why AI Sucks at Front End → 86pts/102コメント
+- スコアに対してコメントが多い（エンゲージメント高）
+- 「フロントエンドは状態管理とユーザー意図の文脈が複雑すぎてAIが苦手」という議論
+- Falcon Platform視点: UIを自動生成する際の限界を理解しておく
+
+### キーテーマ更新（19:30時点）
+
+1. **Anthropic信頼危機の継続**: Cache TTL問題が512pts/394コメントへ拡大。2日間燃え続ける異常事態
+2. **ベンチマーク不信の深化**: 527ptsまで上昇。「AIエージェントの評価方法自体が問題」というコンセンサスが形成
+3. **Claude Codeエコシステム形成**: Claudrabandのような拡張ツールが登場。Claude Codeが開発者プラットフォームとして定着
+4. **AI投資バブル冷却**: テック評価額がAI前水準へ。慎重な資本配分フェーズへ移行
