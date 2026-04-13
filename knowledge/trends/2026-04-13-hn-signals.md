@@ -294,3 +294,48 @@
 2. **Anthropicへの不満継続**: Cache TTL問題のコメントが368まで累積。開発者コミュニティの不信感が根強い
 3. **AIバリュエーション現実路線**: Tech valuations(105pts)が急上昇。VCバブル終焉、収益化競争が本格化
 4. **「怠惰の哲学」定着**: Cantrill(307pts)が300pt超。AI時代のエンジニア哲学として議論が定着
+
+---
+
+## HN Signals - 11:30 JST
+
+### スコア更新 (10:30比)
+- Docker/Cloudflare Spain: 664→684pts (+20) / コメント258→265 ← **引き続きHNトップ**
+- Anthropic Cache TTL: 477→486pts (+9) / コメント368→377 ← **議論継続**
+- AI Benchmark Exploiting: 492→495pts (+3) / コメント128→129
+- Bring Back Idiomatic Design: 453→467pts (+14) / コメント232→242
+- Tech valuations pre-AI boom: 105→117pts (+12) ← **続伸**
+- European AI / Mistral: 143→156pts (+13) ← **続伸**
+- Claudraband: 88→92pts (+4)
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 684pts | 265 | **High (インフラ)** |
+| Exploiting the most prominent AI agent benchmarks | 495pts | 129 | **High** |
+| Anthropic downgraded cache TTL on March 6th | 486pts | 377 | **High** |
+| Bring Back Idiomatic Design | 467pts | 242 | Medium |
+| European AI. A playbook to own it | 156pts | 90 | Medium |
+| Tech valuations back to pre-AI boom levels | 117pts | 25 | Medium |
+| Why AI Sucks at Front End | 68pts | 74 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 92pts | 30 | Medium |
+| Bouncer: Block "crypto"/"rage politics" from X feed using AI | 40pts | 61 | Low |
+| I ran Gemma 4 as a local model in Codex CLI | 13pts | 6 | Low |
+
+### 🟡 新規: Why AI Sucks at Front End (68pts, 74コメント)
+- コメント/スコア比が高い（1.08）= 活発な議論
+- AIが生成するフロントエンドコードの品質問題。スタイリング・状態管理・アクセシビリティに弱い
+- Falcon Platform視点: AIエージェントがUIを生成するユースケースでは品質保証レイヤーが必要
+
+### 🟢 新規: Bouncer – AI for X Feed Filtering (40pts, 61コメント)
+- 「crypto」「rage politics」などをAIで自動フィルタリング
+- コメント数が多い（議論喚起型）
+- X活用の副作用（ノイズ）をAIで解決するというアプローチ。Falcon Agentのタイムライン監視と対照的
+
+### キーテーマ更新
+
+1. **インフラ巻き添えリスク継続**: Docker/Spain(684pts)が一日を通じてHNトップ維持。CDN単一障害点の危険性が広く認知された
+2. **Anthropicへの不満が最多コメント**: Cache TTL問題(377コメント)がコメント数でもトップ水準。開発者の根強い不信
+3. **AIのUI生成限界が議論化**: "Why AI Sucks at Front End"がコメント活発。AIエージェントの実用限界を示す
+4. **AIバリュエーション現実路線**: Tech valuations(117pts)続伸。VCバブル後の収益化競争が本格化
