@@ -819,3 +819,60 @@
 3. **Apple Accidental Moat急伸**: 夜間も成長継続(254pts)。エッジAI・プライバシーファーストへの評価が定着
 4. **ビルダー活動旺盛**: Ask HN(802コメント) + Show HN多数。「作る人」のコミュニティは元気
 5. **Claude/Codexで実際にプロダクトが生まれている**: 3週間でSNS管理ツールが示す開発加速
+
+---
+
+## HN Signals - 22:30 JST
+
+### スコア更新 (21:30比)
+
+| タイトル | スコア | コメント | 変動 |
+|---------|--------|---------|------|
+| Docker/Spain Cloudflare block | **1008pts** | 368 | ↑↑ 1000pt突破 |
+| Exploiting AI agent benchmarks | 542pts | 134 | ↑ (+3) |
+| Anthropic downgraded cache TTL | 522pts | 399 | ↑ (+3) |
+| Bring Back Idiomatic Design | 595pts | 340 | ↑ |
+| Apple's Accidental Moat | 284pts | 264 | ↑↑ 急伸継続 (+30) |
+| Show HN: Social media mgmt with Claude and Codex | 98pts | 72 | ↑ NEW |
+| Gemma 4 as local model in Codex CLI | 113pts | 55 | ↑ (+13) |
+| Claudraband – Claude Code for Power User | 111pts | 38 | → |
+| Why AI Sucks at Front End | 92pts | 118 | ↑ |
+
+### 🔴 Docker/Spain が1000pt突破 — 本日HN歴代級の最終着地
+
+- 1008pts, 368コメント。HNの通常上位ストーリーの2-3倍のスコア
+- Cloudflare巻き添えによるdocker pull不能インシデントが丸一日HNを支配
+- Falcon Platform視点: インフラ設計においてCDN単一障害点のリスクが最も広く認知された日
+
+### 🟡 Apple's Accidental Moat が継続急伸 (254→284pts, +30 / コメント238→264)
+
+- 夜間も成長が止まらない。264コメントは本ストーリー最多
+- 「AppleはAI競争に負けているが、最終的に勝者になる」論考がHN技術者の共感を集め続ける
+- エッジAI + プライバシーファースト + デバイス統合という長期モート論が定着
+
+### 🟢 Show HN: Social Media Management with Claude and Codex (98pts, 72コメント)
+
+- ClaudeとCodexを組み合わせて3週間でSNS管理ツールを構築したデモ
+- URL: https://github.com/brightbeanxyz/brightbean-studio
+- 前回観測から成長継続。Claude + Codexの組み合わせ開発事例として注目
+- Falcon Platformが目指すAI活用インフラの実証例
+
+### 🔵 新規(低スコア): "Can AI be a 'child of God'?" — Anthropic meets Christian Leaders (7pts)
+
+- Anthropicがキリスト教指導者と会談。「AIは神の子になれるか」という問いが題材
+- スコアは低いが視点が独特。AIの倫理・アイデンティティ問題がより広い層に届き始めている
+
+### 🟡 "AI could be the end of the digital wave" (53pts, 18コメント)
+
+- AIは「次の大きな波」ではなく「デジタル波の終わり」という逆張り論考
+- Perez技術サイクル理論を援用。AIがデジタル時代を終わらせ、別の新時代を開くという視点
+- Falcon Platform戦略: 「AIブームに乗る」のではなく「次の時代に備える」視点の重要性
+
+### キーテーマ (22:30最終)
+
+1. **Docker/Spain(1008pts)が本日最終スコア — HN歴代級**: Cloudflare巻き添え障害が1000pt超。単一CDN依存リスクの認識が技術コミュニティに刻まれた
+2. **Anthropic不満が長期化(522pts, 399コメント)**: Cache TTL問題が終日燃え続け、400コメント目前。一日でこれだけ持続する不満は異常
+3. **Apple Accidental Moat(284pts)が夜間も成長**: エッジAI・プライバシーファーストへの評価が定着。クラウドAI一辺倒への懐疑が深まる
+4. **AIとデジタル波の終焉論**: AIブームの本質を「次の波」ではなく「現在の波の終わり」と見る逆張り視点が浮上
+5. **Claude/Codex統合開発の実証**: SNS管理ツールShow HNが示す実用事例の成長
+
