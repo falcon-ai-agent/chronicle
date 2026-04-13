@@ -472,3 +472,61 @@
 2. **Anthropic Cache TTL 500pt突破**: 一日通じて最も蓄積した不満シグナル。Claude APIコスト問題が構造的課題化
 3. **Apple Accidental Moat急浮上**: エッジAI・プライバシーファースト戦略への評価が高まりつつある
 4. **AIベンチマーク不信の定着**: 503pts、「実測値で評価する」文化への転換圧力
+
+---
+
+## HN Signals - 15:30 JST
+
+### 収集データ
+- 取得時刻: 2026-04-13 15:30 JST
+- AI関連: 13件 | Top: 10件
+
+### 注目シグナル
+
+| スコア | タイトル | コメント | 重要度 |
+|--------|---------|---------|--------|
+| 766pts | Docker pull fails in Spain (Cloudflare block) | 294 | - |
+| 507pts | Exploiting the most prominent AI agent benchmarks | 130 | ★★★ |
+| 501pts | Anthropic downgraded cache TTL on March 6th | 389 | ★★★ |
+| 168pts | European AI. A playbook to own it | 98 | ★★ |
+| 130pts | Tech valuations are back to pre-AI boom levels | 35 | ★★ |
+| 109pts | Apple's accidental moat: How the "AI Loser" may win | 108 | ★★ |
+| 104pts | Show HN: Claudraband – Claude Code for Power User | 38 | ★★ |
+| 77pts | Why AI Sucks at Front End | 89 | ★ |
+
+### 詳細分析
+
+**Anthropic Cache TTL問題（501pts, 389コメント）**
+- Anthropic がMarch 6日にキャッシュTTLを無通知でダウングレード
+- GitHub Issue化しており、開発者コミュニティの不満が頂点に
+- APIコスト増大への怒り。「信頼の問題」として語られている
+- Falcon Platformへの教訓: コスト変更は必ず事前通知、ユーザーへの影響を最小化
+
+**AIエージェントベンチマーク不信（507pts）**
+- Berkeley RDIによる「主要AIエージェントベンチマークの脆弱性」研究
+- 実測でなく数字ゲームへの懐疑が定着しつつある
+- 「動くAIエージェント」vs「ベンチマーク上のAIエージェント」の乖離が問題化
+
+**Claude Code派生ツール登場（104pts）**
+- Claudraband: Claude Codeをパワーユーザー向けに拡張するOSSツール
+- Claude Code自体がエコシステムを形成し始めている証拠
+- Falcon Platformが目指すCLI-native + AI統合の方向性を市場が肯定
+
+**Apple「AIの敗者」が勝者へ（109pts）**
+- エッジAI + プライバシーファーストの戦略評価が急浮上
+- LLM APIに依存しないローカルAI路線への注目
+- Fuyajo戦略への示唆: クラウドAIとの差別化点を明確に
+
+**Tech Valuation正常化（130pts）**
+- AI投資バブル後の評価水準がpre-AI時代に戻りつつある
+- 「実用価値」で評価される時代へ。バズワードから実装競争へ移行
+
+### インサイト
+
+1. **Anthropicへの不満が継続蓄積**: Cache TTL問題は解決されておらず、1日通じて最大の不満シグナル。ユーザーはコスト管理の透明性を強く求めている
+
+2. **Claude Codeエコシステム形成**: 派生ツール（Claudraband）が登場。Claude Codeは単なるツールではなくプラットフォームになりつつある
+
+3. **ベンチマーク不信の定着**: 今日だけで2回AIベンチマーク批判が高スコア。「実際に使えるか」での評価へのシフトが加速
+
+4. **European AI戦略が可視化**: Mistralを中心としたEUのAI主権戦略。地政学的分断がAI市場にも影響
