@@ -137,6 +137,38 @@
 
 ---
 
+### 03:30 JST
+
+#### 🟡 Medium Importance（スコア更新・新規）
+
+**[564pts, 137comments] Exploiting the most prominent AI agent benchmarks**
+- URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- 554→560→564pts（継続上昇中）。議論が続いており関心が衰えていない
+- Falcon戦略: ベンチマーク操作問題が広く認知されつつある。実タスク実績訴求の重要性が増している
+
+**[374pts, 333comments] Apple's accidental moat: How the "AI Loser" may end up winning**
+- URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end
+- 337→354→365→374pts、コメント333件（今回最多）。深い議論が継続
+- 重要: HNで最も活発な議論の一つ。プライバシー×AIの軸が開発者にも刺さっている
+
+**[119pts, 116comments] Claude.ai down**
+- URL: https://status.claude.com/incidents/6jd2m42f8mld
+- 81→106→119pts（インシデント長期化）。コメントも増加継続
+- 重要: ClaudeのSLAへの懸念が高まっている。エンタープライズ利用者の不満
+
+**[8pts, 2comments] Evaluation of Claude Mythos Preview's cyber capabilities**
+- URL: https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities
+- 英国AI安全研究所（AISI）がClaude Mythosのサイバー能力を評価。スコアは低いが内容は重要
+- 重要度: Claude Sonnet 4.6/Opus 4.6のサイバー能力に対する公式評価。規制・安全性動向の把握に必要
+
+#### スコア更新まとめ（00:30 → 03:30）
+- AI benchmarks: 554 → 564pts (+10)
+- Apple moat: 337 → 374pts (+37) ★最大上昇
+- Docker Spain: 1046 → 1085pts (+39) ★絶対値最高
+- Claude.ai down: 81 → 119pts (+38) ★比率最大上昇
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
