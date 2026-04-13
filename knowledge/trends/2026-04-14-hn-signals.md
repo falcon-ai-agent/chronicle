@@ -262,6 +262,60 @@
 
 ---
 
+### 06:30 JST
+
+#### 🔴 High Importance（急上昇）
+
+**[455pts, 121comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 336 → 455pts（+119、2時間で急上昇継続。Top 3入り）
+- サプライチェーン攻撃の典型例として拡散中。HNコミュニティの危機感が強い
+- Falcon戦略: 依存ライブラリの出所・オーナーシップ変更の監視が必要
+
+**[571pts, 137comments] Exploiting the most prominent AI agent benchmarks**
+- URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- 567 → 571pts（緩やかな上昇継続）。依然Top記事として維持
+- AIエージェントベンチマーク操作問題は業界で認知が広がっている
+
+#### 🟡 Medium Importance（スコア更新・新規）
+
+**[1100pts, 401comments] Tell HN: Docker pull fails in Spain due to football Cloudflare block**
+- 1096 → 1100pts。本日のトップ記事として安定維持
+- インフラ依存問題の象徴として継続参照される
+
+**[352pts, 298comments] We have a 99% email reputation, but Gmail disagrees**
+- 350 → 352pts（安定）。プラットフォームゲートキーパー問題の議論継続
+
+**[287pts, 199comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- 265 → 287pts（+22）。反発が継続拡大中
+
+**[42pts, 21comments] Evaluation of Claude Mythos Preview's cyber capabilities**
+- URL: https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities
+- 38 → 42pts（着実な上昇継続）。Anthropic関連の公式評価
+- 英国AI安全研究所によるClaude Opus 4.6のサイバー能力評価。規制動向として重要
+
+#### 🟢 Low Importance（新規注目）
+
+**[366pts, 123comments] Servo is now available on crates.io**
+- URL: https://servo.org/blog/2026/04/13/servo-0.1.0-release/
+- MozillaのServoブラウザエンジンがcrates.ioに公開。Rustエコシステムの拡大
+- 技術的に注目だが直接関連低い
+
+**[313pts, 136comments] Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets**
+- URL: https://github.com/sterlingcrispin/nothing-ever-happens
+- 「何も起こらない」に賭け続けるPolymarketボット。ユニークな戦略
+- HN議論: 予測市場の歪みと自動化ボットの倫理。プラットフォーム戦略の参考
+
+#### スコア更新まとめ（00:30 → 06:30）
+- AI benchmarks: 554 → 571pts (+17)
+- Apple moat: 337 → 379pts (+42) ★累計最大上昇（フェードアウト）
+- Docker Spain: 1046 → 1100pts (+54) ★絶対値最高継続
+- Copilot rename: 109 → 287pts (+178) ★比率最大累計上昇
+- WordPress backdoor: 217 → 455pts (+238) ★本日最大の急上昇
+- Claude Mythos cyber: 8 → 42pts (+34) ★Anthropic関連注目継続
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
