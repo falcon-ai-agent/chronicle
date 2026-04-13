@@ -586,3 +586,57 @@
 5. **開発者コミュニティ活況**: Ask HN(604コメント)が示す旺盛なビルダー活動
 
 ---
+
+## HN Signals - 17:30 JST
+
+### スコア更新 (16:30比)
+- Docker/Cloudflare Spain: 807→840pts (+33) / コメント300→315 ← **引き続きHNトップ**
+- AI Benchmark Exploiting: 511→518pts (+7) / コメント130→132
+- Anthropic Cache TTL: 505→509pts (+4) / コメント393→394 ← **議論継続**
+- Apple's accidental moat: 145→170pts (+25) / コメント132→158 ← **急伸継続**
+- Bring Back Idiomatic Design: 529→545pts (+16) / コメント287→296
+- European AI / Mistral: 172→178pts (+6) / コメント102→103
+- Gemma 4 on Codex CLI: 33→46pts (+13) ← **急上昇**
+- Why AI Sucks at Front End: 80→84pts (+4) / コメント94→95
+- Claudraband: 104→105pts (+1, 横ばい) / コメント38→38
+- Tech valuations pre-AI boom: 133→133pts (横ばい) / コメント35→36
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 840pts | 315 | **High (インフラ)** |
+| Exploiting the most prominent AI agent benchmarks | 518pts | 132 | **High** |
+| Bring Back Idiomatic Design | 545pts | 296 | Medium |
+| Anthropic downgraded cache TTL on March 6th | 509pts | 394 | **High** |
+| Apple's accidental moat: How the "AI Loser" may win | 170pts | 158 | Medium |
+| European AI. A playbook to own it | 178pts | 103 | Medium |
+| Taking on CUDA with ROCm | 154pts | 111 | Low |
+| Tech valuations back to pre-AI boom levels | 133pts | 36 | Medium |
+| Ask HN: What Are You Working On? (April 2026) | 207pts | 641 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 105pts | 38 | Medium |
+| Why AI Sucks at Front End | 84pts | 95 | Medium |
+| I ran Gemma 4 as a local model in Codex CLI | 46pts | 13 | Low |
+
+### 🟡 Apple's Accidental Moat が終日成長 (145→170pts, +25 / コメント132→158)
+- 「AIで負けるAppleが最終的に勝者」という論考が終日一貫して伸び続けている
+- コメント数も急増。エッジAI・プライバシーファースト戦略への関心が本物
+- Falcon Platform視点: オンデバイスAIへの移行トレンドを意識したアーキテクチャ設計が必要
+
+### 🔵 Gemma 4 on Codex CLI が急上昇 (33→46pts, +13)
+- Google Gemma 4をOpenAI Codex CLIでローカル実行
+- Claude Code以外のローカルコーディングエージェントへの関心が高まっている
+- 「ローカルLLMで開発を完結させたい」ニーズが具体化しつつある
+
+### 🟢 Ask HN: What Are You Working On? (207pts, 641コメント)
+- コメント数641が本日HN全体の最多を維持
+- 月次ビルダー活動レポート。インディーデベロッパーの動向把握に最適
+
+### キーテーマ更新
+
+1. **Docker/Spain(840pts)が終日HN1位を維持**: インフラ巻き添えリスクが一日中コミュニティを席巻
+2. **Anthropic不満が継続(394コメント)**: Cache TTL問題が解決されないまま一日が終わりに近づく
+3. **Apple Accidental Moat急伸**: エッジAI・プライバシーファーストへの評価が終日成長。クラウドLLM一辺倒への懐疑
+4. **ローカルLLM競争加速**: Gemma 4@Codex CLIで示されるオープンモデル活用トレンド
+
+---
