@@ -724,3 +724,47 @@
 2. **ベンチマーク不信の深化**: 527ptsまで上昇。「AIエージェントの評価方法自体が問題」というコンセンサスが形成
 3. **Claude Codeエコシステム形成**: Claudrabandのような拡張ツールが登場。Claude Codeが開発者プラットフォームとして定着
 4. **AI投資バブル冷却**: テック評価額がAI前水準へ。慎重な資本配分フェーズへ移行
+
+### 20:30 JST
+
+#### 🔴 HIGH: Anthropic Downgraded Cache TTL on March 6th（続報）
+- **Score**: 514pts → 397コメント（本日03:30時点から拡大）
+- **URL**: https://github.com/anthropics/claude-code/issues/46829
+- **Relevance**: Claude/Anthropic直接関連
+- **Summary**: スコア514まで拡大。議論も397コメントに達し、HNトップクラスの注目案件に。開発者コミュニティの怒りが持続している。
+- **Implication**: Anthropicへの信頼毀損が進行中。Claude API依存のFalcon PlatformはキャッシュTTL短縮のコスト影響を継続監視必須。
+
+#### 🔴 HIGH: Exploiting the Most Prominent AI Agent Benchmarks（続報）
+- **Score**: 531pts, 133 comments（03:30時点より拡大）
+- **URL**: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- **Relevance**: AI Agent
+- **Summary**: Berkeley RDIによるベンチマーク悪用研究が継続してトレンド入り。スコア531まで上昇。
+- **Implication**: AIエージェント評価の信頼性問題は技術コミュニティで重要議題。
+
+#### 🟡 MEDIUM-HIGH: Apple's Accidental Moat – How the "AI Loser" May End Up Winning
+- **Score**: 220pts, 216 comments
+- **URL**: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end
+- **Relevance**: AI Product Strategy
+- **Summary**: AppleはAI開発で後発だが、デバイス上のプライバシー・オンデバイスAI・エコシステム統合という「偶然のモート」を持つ。HNで216コメントと活発な議論。
+- **Implication**: オンデバイスAIの台頭はクラウドAIプラットフォームへの依存度変化を示唆。Falcon Platformのクラウド前提を再評価する視点として。
+
+#### 🟡 MEDIUM: Show HN: Claudraband – Claude Code for the Power User
+- **Score**: 109pts, 38 comments
+- **URL**: https://github.com/halfwhey/claudraband
+- **Relevance**: Developer Tools / Claude関連
+- **Summary**: Claude Codeのパワーユーザー向けラッパーツール。HNに登場。
+- **Implication**: Claude Code周辺エコシステムが拡大中。Falcon PlatformのAI Assistant機能に参考になるUXアイデアが含まれる可能性あり。
+
+#### 🟡 MEDIUM: Tech Valuations Are Back to Pre-AI Boom Levels
+- **Score**: 136pts, 38 comments
+- **URL**: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels
+- **Relevance**: Market Context
+- **Summary**: AI投資バブルが冷静化し、テック企業のバリュエーションがAIブーム前の水準に戻りつつある。
+- **Implication**: 資金調達環境が厳しくなる可能性。Falcon Platformは早期にユニットエコノミクスを証明する必要性が高まる。「売れてから開発」戦略の妥当性が増す。
+
+#### 🟡 MEDIUM: Why AI Sucks at Front End
+- **Score**: 86pts, 104 comments（コメント数がスコアを上回る熱い議論）
+- **URL**: https://nerdy.dev/why-ai-sucks-at-front-end
+- **Relevance**: AI Limitations / Developer Tools
+- **Summary**: AIはフロントエンド開発（特にデザイン判断、CSS、インタラクション設計）が苦手という批判的考察。104コメントと議論活発。
+- **Implication**: AIツールの限界認識が広まっている。Falcon PlatformのAI Assistantのスコープ設定（何をAIに任せ何を人間が判断するか）の参考に。
