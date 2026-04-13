@@ -427,3 +427,48 @@
 2. **Anthropic不満が継続(384コメント)**: Cache TTL問題が一日中コミュニティ最大の話題
 3. **AIベンチマーク信頼性崩壊**: 501pts, 主要ベンチマークへの組織的不信が広がる
 4. **Claude Code周辺エコシステム**: Claudrabandが示す開発者ツール需要の高まり
+
+---
+
+## HN Signals - 14:30 JST
+
+### スコア更新 (13:30比)
+- Docker/Cloudflare Spain: 721→739pts (+18) / コメント279→288 ← **引き続きHNトップ**
+- AI Benchmark Exploiting: 501→503pts (+2) / コメント130→130
+- Anthropic Cache TTL: 498→500pts (+2) / コメント384→389 ← **議論継続、500pt突破**
+- Claudraband: 101→103pts (+2) / コメント36→38
+- European AI / Mistral: 158→165pts (+7) / コメント96→97
+- Tech valuations pre-AI boom: 125→128pts (+3) / コメント33→35
+- Why AI Sucks at Front End: 74→75pts (+1) / コメント81→85
+- Apple's accidental moat: 48→**83pts (+35)** / コメント38→68 ← **急上昇**
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 739pts | 288 | **High (インフラ)** |
+| Anthropic downgraded cache TTL on March 6th | 500pts | 389 | **High** |
+| Exploiting the most prominent AI agent benchmarks | 503pts | 130 | **High** |
+| European AI. A playbook to own it | 165pts | 97 | Medium |
+| Tech valuations back to pre-AI boom levels | 128pts | 35 | Medium |
+| Apple's accidental moat: How the "AI Loser" may end up winning | 83pts | 68 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 103pts | 38 | Medium |
+| Why AI Sucks at Front End | 75pts | 85 | Medium |
+| Bouncer: Block "crypto"/"rage politics" from X using AI | 44pts | 76 | Low |
+
+### 🟡 Apple's Accidental Moat が急伸 (48→83pts, +35)
+- 「AIで後れを取るAppleが最終的に勝者になるかもしれない」という論考が急加速
+- プライバシー・オンデバイスAI・ハードウェア統合が長期的モートになるという視点
+- HNコメントでは「iPhoneの90%普及率がAppleに圧倒的なエッジAIアドバンテージ」という議論
+- Falcon Platform視点: クラウドAI vs エッジAIの競争構造。プライバシーファーストが差別化になりうる
+
+### 🔴 Anthropic Cache TTL が500pts突破
+- 一日中議論が続き500pt・389コメントに達した
+- Claude API依存コストへの開発者の根強い不満が可視化
+
+### キーテーマ更新
+
+1. **Docker/Spain(739pts)が終日HNトップ継続**: Cloudflare巻き添え障害がコミュニティの記憶に刻まれた
+2. **Anthropic Cache TTL 500pt突破**: 一日通じて最も蓄積した不満シグナル。Claude APIコスト問題が構造的課題化
+3. **Apple Accidental Moat急浮上**: エッジAI・プライバシーファースト戦略への評価が高まりつつある
+4. **AIベンチマーク不信の定着**: 503pts、「実測値で評価する」文化への転換圧力
