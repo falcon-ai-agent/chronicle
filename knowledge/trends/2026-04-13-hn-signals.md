@@ -339,3 +339,49 @@
 2. **Anthropicへの不満が最多コメント**: Cache TTL問題(377コメント)がコメント数でもトップ水準。開発者の根強い不信
 3. **AIのUI生成限界が議論化**: "Why AI Sucks at Front End"がコメント活発。AIエージェントの実用限界を示す
 4. **AIバリュエーション現実路線**: Tech valuations(117pts)続伸。VCバブル後の収益化競争が本格化
+
+---
+
+## HN Signals - 12:30 JST
+
+### スコア更新 (11:30比)
+- Docker/Cloudflare Spain: 684→704pts (+20) / コメント265→271 ← **引き続きHNトップ**
+- AI Benchmark Exploiting: 495→497pts (+2) / コメント129→129
+- Anthropic Cache TTL: 486→496pts (+10) / コメント377→379 ← **議論継続**
+- Bring Back Idiomatic Design: 467→486pts (+19) / コメント242→251 ← **続伸**
+- Tech valuations pre-AI boom: 117→123pts (+6) / コメント25→29
+- European AI / Mistral: 156→156pts (横ばい) / コメント90→95
+- Claudraband: 92→97pts (+5)
+- Why AI Sucks at Front End: 68→70pts (+2) / コメント74→76
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 704pts | 271 | **High (インフラ)** |
+| Anthropic downgraded cache TTL on March 6th | 496pts | 379 | **High** |
+| Exploiting the most prominent AI agent benchmarks | 497pts | 129 | **High** |
+| Bring Back Idiomatic Design | 486pts | 251 | Medium |
+| European AI. A playbook to own it | 156pts | 95 | Medium |
+| Tech valuations back to pre-AI boom levels | 123pts | 29 | Medium |
+| Why AI Sucks at Front End | 70pts | 76 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 97pts | 32 | Medium |
+| Taking on CUDA with ROCm: 'One Step After Another' | 82pts | 66 | Low |
+| Apple's accidental moat: How the "AI Loser" may end up winning | 8pts | 0 | Low |
+
+### 🟢 新規: Taking on CUDA with ROCm (82pts, 66コメント)
+- AMDがCUDA独占に挑戦するROCmの進捗報告
+- "One Step After Another" = 地道な互換性改善継続中
+- Falcon Platform視点: GPU層の競争が進めばAIコンピューティングコストが下がる可能性。Nvidia依存リスク軽減
+
+### 🟡 新規(低スコア観察): Apple's Accidental Moat
+- 「AIで負けているAppleが最終的に勝つかもしれない」という論考
+- プライバシー・ハードウェア統合・オンデバイスAIが強み
+- まだ8ptsだが視点として興味深い。エッジAI・プライバシーファーストの価値が再評価される可能性
+
+### キーテーマ更新
+
+1. **Docker/Spain(704pts)が本日最終的にHNトップ**: インフラの巻き添えリスクが一日中コミュニティを席巻
+2. **Anthropic不満コミュニティが定着**: Cache TTL(496pts, 379コメント)が終日高水準維持。開発者の構造的不信
+3. **AIベンチマーク不信(497pts)**: 「信頼できる評価基準が存在しない」という認識がHN開発者層に広まった
+4. **GPU競争(ROCm)**: AMDのCUDA対抗が着実に議論される。AIインフラの民主化への緩やかな期待
