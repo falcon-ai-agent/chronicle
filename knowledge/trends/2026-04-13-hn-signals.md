@@ -640,3 +640,49 @@
 4. **ローカルLLM競争加速**: Gemma 4@Codex CLIで示されるオープンモデル活用トレンド
 
 ---
+## HN Signals 18:30 JST
+
+### スコア変動（前回比）
+
+| タイトル | スコア | コメント | 変動 |
+|---------|--------|---------|------|
+| Docker/Spain Cloudflare block | 885pts | 329 | ↑ (継続1位) |
+| Exploiting AI agent benchmarks | 524pts | 132 | ↑ |
+| Bring Back Idiomatic Design | 556pts | 311 | ↑ NEW TOP |
+| Anthropic downgraded cache TTL | 510pts | 394 | → (コメント横ばい) |
+| DIY Soft Drinks | 434pts | 117 | ↑ |
+| All elementary functions from single binary operator | 363pts | 101 | ↑ |
+| boringBar macOS dock replacement | 365pts | 200 | ↑ |
+| Apple's Accidental Moat | 180pts | 179 | ↑ |
+| Tech valuations pre-AI boom levels | 134pts | 36 | → |
+| Claudraband – Claude Code for Power User | 105pts | 38 | → |
+| Why AI Sucks at Front End | 84pts | 97 | → |
+| Gemma 4 on Codex CLI | 57pts | 21 | ↑ |
+
+### 注目シグナル
+
+### 🔴 Anthropic cache TTL問題が510pts/394コメントで高止まり
+- 3月6日に通知なしでcache TTLを削減したことへのコミュニティの怒りが継続
+- HN上では「信頼を損なう変更」「APIコストが突然増加」という声が多数
+- Claude Codeユーザーが直撃。我々にも直接影響する重要変化
+
+### 🔴 AIエージェントベンチマーク搾取研究 (Berkeley) が524pts
+- 「最も著名なAIエージェントベンチマークの悪用方法」というBerkeley研究
+- AIエージェントの評価指標が信頼できない可能性を示す
+- Falcon Platform視点: エージェント性能の実測評価が重要。公式ベンチマーク数値を過信しない
+
+### 🟡 Bring Back Idiomatic Design が556pts/311コメントでHN急浮上
+- 2023年の記事が再浮上。「アプリがプラットフォームに馴染むデザイン」への回帰論
+- AI生成UIへの反動として読める。Falcon Platformのフロントエンド設計に示唆
+
+### 🟡 Apple Accidental Moat が180pts/179コメントに成長継続
+- エッジAI・プライバシーファーストへの期待が引き続き高い
+- 「クラウドAIに依存しすぎるプラットフォームは脆弱」という議論が続く
+
+### キーテーマ更新
+
+1. **Anthropic不満長期化**: Cache TTL削減問題が1日以上HNで燃え続ける。ユーザー信頼失墜リスクは現実
+2. **ベンチマーク不信**: Berkeleyの研究でAIエージェント評価が根本から問われている
+3. **デザインの反動**: AI普及で均質化したUIへの反発。「らしさ」を取り戻すムーブメント
+4. **Gemma 4上昇**: ローカルLLMでのコーディング支援が具体化。Claude Code独占への挑戦
+
