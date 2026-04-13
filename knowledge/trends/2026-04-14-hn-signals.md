@@ -169,6 +169,56 @@
 
 ---
 
+### 04:30 JST
+
+#### スコア更新（継続追跡）
+
+**[566pts, 137comments] Exploiting the most prominent AI agent benchmarks**
+- 564 → 566pts（緩やかな上昇継続）。議論は落ち着いてきたが依然高スコア維持
+
+**[376pts, 335comments] Apple's accidental moat: How the "AI Loser" may end up winning**
+- 374 → 376pts、コメント335件（+2）。引き続き活発
+
+**[1090pts, 398comments] Tell HN: Docker pull fails in Spain due to football Cloudflare block**
+- 1085 → 1090pts。依然トップ。インフラ依存リスクへの関心は衰えず
+
+#### 🔴 High Importance（新規）
+
+**[346pts, 295comments] We have a 99% email reputation, but Gmail disagrees**
+- URL: https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/
+- 高評価メール配信でもGmailが独自判断でスパム扱い。プラットフォーム依存のリスク
+- Falcon戦略: Fuyajoの通知機能でメール使う場合の設計注意。Gmailの独占的ゲートキーパー問題
+
+#### 🟡 Medium Importance（新規・更新）
+
+**[232pts, 155comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- 154 → 232pts（大幅上昇）。Microsoftへの反発がじわじわ広がっている
+
+**[222pts, 94comments] I ran Gemma 4 as a local model in Codex CLI**
+- 184 → 222pts（継続上昇）。ローカルLLM実用化への関心が継続
+
+**[217pts, 51comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 30のWordPressプラグインを買収してバックドア埋め込み。サプライチェーン攻撃の手口
+- Falcon戦略: Fuyajoのプラグイン/依存管理の安全性確認。オープンソース依存のリスク
+
+**[168pts, 112comments] Show HN: I built a social media management tool in 3 weeks with Claude and Codex**
+- 154 → 168pts（継続上昇）。Claude活用の実例として関心継続
+
+**[25pts, 13comments] Evaluation of Claude Mythos Preview's cyber capabilities**
+- URL: https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities
+- 英国AI安全研究所によるClaude Mythosのサイバー能力評価。スコア低いが内容は重要
+- 重要度: Claude Opus 4.6の能力上限と安全制約の公式評価
+
+#### スコア更新まとめ（00:30 → 04:30）
+- AI benchmarks: 554 → 566pts (+12)
+- Apple moat: 337 → 376pts (+39) ★最大累計上昇
+- Docker Spain: 1046 → 1090pts (+44) ★絶対値最高継続
+- Copilot rename: 109 → 232pts (+123) ★比率最大上昇（後半から急上昇）
+- Gemma 4 local: 168 → 222pts (+54)
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
