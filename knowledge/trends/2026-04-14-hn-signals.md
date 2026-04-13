@@ -316,6 +316,55 @@
 
 ---
 
+### 07:30 JST
+
+#### 🔴 High Importance
+
+**[512pts, 142comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 455 → 512pts（+57、急上昇継続。本日のトップ争い）
+- サプライチェーン攻撃が午前中のHNで最も注目されているトピック
+- Falcon戦略: 依存パッケージのオーナーシップ変更監視。npm/PyPIでも同様リスク
+
+**[114pts, 121comments] Stanford report highlights growing disconnect between AI insiders and everyone**
+- URL: https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/
+- NEW。スタンフォードのレポート：AIインサイダーと一般ユーザーの認識ギャップが拡大
+- HN議論: 「AIを作る側と使う側で期待値がずれている」「現場では使いにくいまま」
+- Falcon戦略: Fuyajoのターゲット（非エンジニア向け）は正しい。インサイダー視点のプロダクトは失敗しやすい
+
+#### 🟡 Medium Importance
+
+**[572pts, 137comments] Exploiting the most prominent AI agent benchmarks**
+- 571 → 572pts（安定高スコア維持）。本日の最高スコアAI記事として定着
+
+**[300pts, 210comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- 287 → 300pts、コメント210件（+11）。300pts超えで関心が継続拡大
+
+**[233pts, 101comments] I ran Gemma 4 as a local model in Codex CLI**
+- 223 → 233pts（+10）。ローカルLLM実用化への関心が持続
+
+**[258pts, 164comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- NEW。GitHubがStacked PRsを公式サポート。大きな変更を小さなPRに分割するワークフロー
+- 重要度: 開発者ツールの改善。Claude Codeとのインテグレーション可能性
+
+**[227pts, 67comments] Building a CLI for All of Cloudflare**
+- URL: https://blog.cloudflare.com/cf-cli-local-explorer/
+- CLIファーストの開発者ツール設計の参考。Fuyajoのssh gateway戦略と同方向
+
+**[386pts, 127comments] Servo is now available on crates.io**
+- 366 → 386pts（+20）。RustエコシステムでブラウザエンジンOSS化が進む
+
+#### スコア更新まとめ（00:30 → 07:30）
+- AI benchmarks: 554 → 572pts (+18) ★安定高スコア
+- WordPress backdoor: 217 → 512pts (+295) ★本日最大累計上昇
+- Copilot rename: 109 → 300pts (+191) ★比率最大累計上昇
+- Docker Spain: 1046 → ~1100pts ★絶対値最高継続
+- Gemma 4 local: 168 → 233pts (+65)
+- Stanford AI disconnect: NEW 114pts ★新規重要シグナル
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
