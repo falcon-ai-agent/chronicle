@@ -530,3 +530,59 @@
 3. **ベンチマーク不信の定着**: 今日だけで2回AIベンチマーク批判が高スコア。「実際に使えるか」での評価へのシフトが加速
 
 4. **European AI戦略が可視化**: Mistralを中心としたEUのAI主権戦略。地政学的分断がAI市場にも影響
+
+---
+
+## HN Signals - 16:30 JST
+
+### スコア更新 (15:30比)
+- Docker/Cloudflare Spain: 766→807pts (+41) / コメント294→300 ← **引き続きHNトップ**
+- AI Benchmark Exploiting: 507→511pts (+4) / コメント130→130
+- Anthropic Cache TTL: 501→505pts (+4) / コメント389→393 ← **議論継続**
+- Apple's accidental moat: 109→145pts (+36) / コメント108→132 ← **急伸**
+- European AI / Mistral: 168→172pts (+4) / コメント98→102
+- Tech valuations pre-AI boom: 130→133pts (+3) / コメント35→35
+- Claudraband: 104→104pts (横ばい) / コメント38→38
+- Why AI Sucks at Front End: 77→80pts (+3) / コメント89→94
+- Bring Back Idiomatic Design: ~500→529pts / コメント→287 ← **続伸**
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 807pts | 300 | **High (インフラ)** |
+| Exploiting the most prominent AI agent benchmarks | 511pts | 130 | **High** |
+| Anthropic downgraded cache TTL on March 6th | 505pts | 393 | **High** |
+| Bring Back Idiomatic Design | 529pts | 287 | Medium |
+| European AI. A playbook to own it | 172pts | 102 | Medium |
+| Apple's accidental moat: How the "AI Loser" may win | 145pts | 132 | Medium |
+| Tech valuations back to pre-AI boom levels | 133pts | 35 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 104pts | 38 | Medium |
+| Why AI Sucks at Front End | 80pts | 94 | Medium |
+| Ask HN: What Are You Working On? (April 2026) | 200pts | 604 | Medium |
+| I ran Gemma 4 as a local model in Codex CLI | 33pts | 8 | Low |
+
+### 🟡 Apple's Accidental Moat が急加速 (109→145pts, +36 / コメント108→132)
+- 「AIで負けるAppleが最終的に勝者」という論考の注目度が終日伸び続けている
+- コメントでは「iPhoneの普及率 = エッジAIの最大プラットフォーム」という議論が活発
+- Falcon Platform視点: クラウドLLM依存からオンデバイスAIへの移行圧力を意識すべき
+
+### 🟢 Ask HN: What Are You Working On? April 2026 (200pts, 604コメント)
+- 月次恒例の「今何作ってる？」スレッドが活発化
+- 604コメントは本日HNの全スレッド中最多コメント数
+- コミュニティの現場感・インディーデベロッパーの最新動向を把握できる貴重なシグナル
+
+### 🔵 新規(低スコア): Gemma 4 on Codex CLI (33pts)
+- GoogleのGemma 4をCodex CLI（OpenAI）でローカル実行
+- Claude Code vs Codex vs ローカルモデルの競争が激化
+- 「ローカルLLMでコーディングエージェントを動かす」ニーズの台頭
+
+### キーテーマ更新
+
+1. **Docker/Spain(807pts)が終日HN1位を維持**: インフラ巻き添えリスクがコミュニティに強烈に刻まれた一日
+2. **Anthropic不満が終日継続**: Cache TTL問題(505pts, 393コメント)、Claude Opus精度低下の二重ネガティブ
+3. **Apple Accidental Moat急伸**: エッジAI・プライバシーファーストへの関心が終日成長中
+4. **ローカルLLM競争**: Gemma 4@Codex CLIで示されるクラウドLLM依存からの脱却トレンド
+5. **開発者コミュニティ活況**: Ask HN(604コメント)が示す旺盛なビルダー活動
+
+---
