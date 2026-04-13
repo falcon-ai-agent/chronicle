@@ -385,3 +385,45 @@
 2. **Anthropic不満コミュニティが定着**: Cache TTL(496pts, 379コメント)が終日高水準維持。開発者の構造的不信
 3. **AIベンチマーク不信(497pts)**: 「信頼できる評価基準が存在しない」という認識がHN開発者層に広まった
 4. **GPU競争(ROCm)**: AMDのCUDA対抗が着実に議論される。AIインフラの民主化への緩やかな期待
+
+---
+
+### 13:30 JST
+
+#### スコアサマリー
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 721pts | 279 | **High (インフラ)** |
+| Exploiting the most prominent AI agent benchmarks | 501pts | 130 | **High** |
+| Anthropic downgraded cache TTL on March 6th | 498pts | 384 | **High** |
+| Bring Back Idiomatic Design | 500pts | 254 | Medium |
+| Show HN: boringBar – macOS dock replacement | 282pts | 167 | Low |
+| European AI. A playbook to own it | 158pts | 96 | Medium |
+| Tech valuations back to pre-AI boom levels | 125pts | 33 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 101pts | 36 | Medium |
+| Why AI Sucks at Front End | 74pts | 81 | Medium |
+| Apple's accidental moat: How the "AI Loser" may end up winning | 48pts | 38 | Low |
+
+#### 更新シグナル
+
+### 🔴 継続: Anthropic cache TTL (498pts → 384コメント)
+- 午前から引き続きコミュニティの不満が集積
+- Claude Code依存プロジェクトへの直接コストインパクト継続
+
+### 🟡 更新: Exploiting AI Agent Benchmarks (501pts, 130コメント)
+- Berkeleyチームが主要AIエージェントベンチマークの脆弱性を実証
+- HN技術者層に「ベンチマークは信用できない」という認識が定着しつつある
+- Falcon Platform戦略: 評価基準の信頼性が課題化。独自の実測評価体系が差別化要因になりうる
+
+### 🟡 新規: Show HN: Claudraband (101pts, 36コメント)
+- Claude Code向けパワーユーザーツール
+- "Claude Code for the Power User" というポジショニング
+- Falcon Platform視点: Claude Code周辺エコシステムが活発化。Claude API/SDK上に構築される開発者ツールのニーズを示す
+
+#### キーテーマ (13:30更新)
+
+1. **Docker/Spain(721pts)がHN本日1位**: Cloudflare経由のインフラ障害リスクがピークに
+2. **Anthropic不満が継続(384コメント)**: Cache TTL問題が一日中コミュニティ最大の話題
+3. **AIベンチマーク信頼性崩壊**: 501pts, 主要ベンチマークへの組織的不信が広がる
+4. **Claude Code周辺エコシステム**: Claudrabandが示す開発者ツール需要の高まり
