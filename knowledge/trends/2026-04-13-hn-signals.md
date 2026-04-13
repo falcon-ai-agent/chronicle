@@ -203,3 +203,50 @@
 2. **Claude品質問題**: キャッシュTTL引き下げ(460pts) + ハルシネーション増加(27pts)で二重のネガティブシグナル
 3. **AIバリュエーション冷却**: 過熱から現実路線へ。早期収益化の重要性が増す
 4. **怠惰と自律性の哲学**: Cantrill論考がHN技術者層に刺さる。AIエージェント時代の人間の役割論
+
+---
+
+## HN Signals - 09:30 JST
+
+### スコア更新 (08:30比)
+- Docker/Cloudflare Spain: 618→642pts (+24) / コメント237→249 ← **引き続きHNトップ**
+- Anthropic Cache TTL: 460→489pts (+29) / コメント347→359 ← **急伸継続**
+- AI Benchmark Exploiting: 487→489pts (+2)
+- Bring Back Idiomatic Design: 422→440pts (+18) / コメント209→222
+- The Peril of Laziness Lost: 242→287pts (+45) ← **最大急伸**
+- OpenAI Study Mode削除: 163→164pts (+1)
+- European AI / Mistral: 127→135pts (+8)
+- Tech valuations pre-AI boom: 56→84pts (+28) ← **急上昇**
+- Claude Opus 4.6 BridgeBench: 27→31pts (+4)
+- Claudraband: 81→86pts (+5)
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Tell HN: Docker pull fails in Spain (Cloudflare) | 642pts | 249 | **High (インフラ)** |
+| Anthropic downgraded cache TTL on March 6th | 489pts | 359 | **High** |
+| Exploiting the most prominent AI agent benchmarks | 489pts | 125 | **High** |
+| Bring Back Idiomatic Design | 440pts | 222 | Medium |
+| The peril of laziness lost (Bryan Cantrill) | 287pts | 96 | Medium |
+| Tell HN: OpenAI silently removed Study Mode | 164pts | 67 | Medium |
+| European AI. A playbook to own it | 135pts | 76 | Medium |
+| Tech valuations back to pre-AI boom levels | 84pts | 13 | Medium |
+| Show HN: Claudraband – Claude Code for Power User | 86pts | 24 | Medium |
+| Claude Opus 4.6 accuracy drops 83%→68% (BridgeBench) | 31pts | 3 | Medium |
+
+### 🔴 Cantrill "Peril of Laziness Lost" が急加速 (242→287pts, +45)
+- 怠惰（自動化）を失うことへの警鐘が技術者コミュニティに強く響いている
+- AIが全てを自動化する時代に「怠惰の喪失」とは何か - Cantrill節で鋭く問う
+- Falcon Platform視点: エンジニアの怠惰を支援するプラットフォームとして哲学的に共鳴
+
+### 🟡 Tech Valuations 急上昇 (56→84pts, +28)
+- Apollo試算: テック全体のバリュエーションが「AIバブル前」水準に戻った
+- 市場の現実認識が進んでいる。実際の収益・価値提供が問われる局面へ
+
+### キーテーマ更新
+
+1. **Anthropic品質問題が複合化**: Cache TTL(489pts, 359コメント) + BridgeBench精度低下(31pts)。開発者信頼が揺らいでいる
+2. **AIバリュエーション冷却が確認**: Tech valuations急上昇(84pts)。VCバブル終焉、収益化競争へ
+3. **インフラ巻き添えリスク**: Docker/Spain(642pts)が継続トップ。マルチリージョン戦略の重要性
+4. **「怠惰の哲学」**: Cantrill論考(287pts)が急加速。AI自動化時代のエンジニア哲学論が活況
