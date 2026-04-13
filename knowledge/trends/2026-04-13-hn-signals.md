@@ -768,3 +768,54 @@
 - **Relevance**: AI Limitations / Developer Tools
 - **Summary**: AIはフロントエンド開発（特にデザイン判断、CSS、インタラクション設計）が苦手という批判的考察。104コメントと議論活発。
 - **Implication**: AIツールの限界認識が広まっている。Falcon PlatformのAI Assistantのスコープ設定（何をAIに任せ何を人間が判断するか）の参考に。
+
+---
+
+## HN Signals - 21:30 JST
+
+### スコア更新 (20:30比)
+
+| タイトル | スコア | コメント | 変動 |
+|---------|--------|---------|------|
+| Docker/Spain Cloudflare block | **975pts** | 361 | ↑↑↑ 急伸 |
+| Exploiting AI agent benchmarks | 539pts | 134 | ↑ (+8) |
+| Anthropic downgraded cache TTL | 519pts | 397 | ↑ (+5) |
+| Bring Back Idiomatic Design | 583pts | 332 | ↑ |
+| Apple's Accidental Moat | 254pts | 238 | ↑↑ 急伸 (+34) |
+| Ask HN: What Are You Working On? Apr 2026 | 249pts | 802 | ↑↑ コメント最多 |
+| Taking on CUDA with ROCm | 197pts | 152 | ↑ |
+| Claudraband – Claude Code for Power User | 110pts | 38 | ↑ (+1) |
+| Gemma 4 as local model in Codex CLI | 100pts | 47 | ↑ |
+| Why AI Sucks at Front End | 88pts | 111 | ↑ |
+
+### 🔴 Docker/Spain が975pts — 本日最終的にHN歴代級スコアへ
+
+- 夜間も衰えず急伸。361コメントと議論も活発
+- Cloudflare巻き添えでdocker pullが不能になったインシデントが一日中HNトップ
+- Falcon Platform視点: CDN単一依存リスクが可視化。マルチCDN・IP多様化が必須
+
+### 🟡 Apple's Accidental Moat が254pts/238コメントへ急伸
+
+- 20:30時点(220pts)から+34。「AIの敗者Appleが最終的に勝者になる」論考が夜間も成長継続
+- コメント238は本シグナル最多。エッジAI + プライバシーファースト戦略への評価が定着
+
+### 🟢 新規: Show HN: Social Media Management with Claude and Codex (70pts, 52comments)
+
+- ClaudeとCodexを使い3週間でSNS管理ツールを構築したShow HN
+- URL: https://github.com/brightbeanxyz/brightbean-studio
+- 「LLMでSNS管理を自動化」という実装事例。Falcon AgentのX自動化と近いユースケース
+- 3週間で動くプロダクトを作れることを示す。Falcon Platformの即時価値提供モデルの参考に
+
+### 🟢 Ask HN: What Are You Working On? Apr 2026 (249pts, 802コメント)
+
+- HN月次ビルダースレッドが802コメントに到達。本日全スレッドで最多コメント
+- インディーデベロッパーの活動が旺盛。「作る人」のコミュニティは元気
+- Falcon Platform戦略: 「何かを作っている人」のインフラニーズを捉えることが重要
+
+### キーテーマ (21:30最終)
+
+1. **Docker/Spain(975pts)が本日最高記録**: Cloudflare巻き添え障害が一日中HNを席巻し、夜間も急伸
+2. **Anthropic不満が長期化**: Cache TTL問題(519pts, 397コメント)が丸一日以上燃え続ける異常事態
+3. **Apple Accidental Moat急伸**: 夜間も成長継続(254pts)。エッジAI・プライバシーファーストへの評価が定着
+4. **ビルダー活動旺盛**: Ask HN(802コメント) + Show HN多数。「作る人」のコミュニティは元気
+5. **Claude/Codexで実際にプロダクトが生まれている**: 3週間でSNS管理ツールが示す開発加速
