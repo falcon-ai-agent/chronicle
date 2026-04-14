@@ -380,3 +380,57 @@
 2. **AIエージェントインフラ5冠継続**: Routines、拡散型LLM、マルチエージェント分散、ツール呼び出しM×N問題、認証管理（Kontext）が終日上昇継続。AIエージェント周辺インフラへの需要が本物であることが7時間以上にわたって実証された。
 
 3. **プライバシー懸念の高まり**: Flock監視プログラムへの反発（416pts）はデータプライバシーへの強い関心を示す。Fuyajoのローカル実行・データ所有権訴求が市場ニーズと合致する。
+
+---
+
+## HN Signals 08:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [344pts, 214comments] 🔴 HIGH ↑↑HN全体トップ・300pts突破
+- 07:30(292pts/185comments)から急上昇。300ptsを突破しHN全体1位を維持
+- 本日終日上昇を続け、朝8時台に344ptsに到達。AnthropicのClaude Code Routines機能が技術者コミュニティの圧倒的な支持を受けている
+- URL: https://code.claude.com/docs/en/routines
+
+**Introspective Diffusion Language Models** [218pts, 41comments] 🔴 HIGH ↑
+- 継続上昇(213→218pts)。終日安定した高スコアを維持
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [102pts, 54comments] 🔴 HIGH ↑
+- コメント増加(52→54)。終日継続注目。議論が拡大
+
+**The M×N problem of tool calling and open-source models** [125pts, 41comments] 🟡 MEDIUM ↑
+- 継続上昇(120→125pts)。OSSモデルのツール統合問題が終日注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [90pts, 30comments] 🟡 MEDIUM ↑
+- 継続上昇(84→90pts)。ドメイン特化型AIコーディングツール需要が確認
+
+**Turn your best AI prompts into one-click tools in Chrome** [73pts, 39comments] 🟡 MEDIUM ↑
+- 上昇継続。GoogleのChrome Skills機能でAIプロンプトをツール化
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [60pts, 26comments] 🟡 MEDIUM ↑
+- 継続上昇(58→60pts)。AIエージェント認証管理への関心が拡大
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [48pts, 21comments] 🟢 LOW ↑
+- 上昇継続(42→48pts)。エージェント対応フレームワーク市場が形成されつつある
+
+**Show HN: Kelet – Root Cause Analysis agent for LLM apps** [38pts, 18comments] 🟢 LOW
+- 安定維持。LLMアプリのオブザーバビリティ市場
+
+**Show HN: ClawRun – Deploy and manage AI agents in seconds** [26pts, 3comments] 🟢 LOW
+- 安定維持。Fuyajoと直接競合するカテゴリ
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [475pts, 141comments] 🔴 スコア300+
+- 本日最高スコア更新。デジタルアーカイブ・文化保存への強い関心が継続
+
+**I wrote to Flock's privacy contact to opt out of their domestic spying program** [432pts, 180comments] 🔴 スコア300+
+- プライバシー監視への反発継続。個人情報保護への強い関心
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが344pts・HN全体トップを維持**: 朝8時台でも上昇が止まらない。技術者コミュニティでのAIワークフロー自動化への需要が証明された1日。Falcon PlatformのAI統合においてClaude Code Routinesとの連携が最優先課題。
+
+2. **本日の総合トレンド確定**: AIエージェント関連5シグナル（Routines/拡散型LLM/マルチエージェント分散/ツール呼び出しM×N/認証管理）が終日右肩上がり。AIエージェントインフラへの投資は市場が認める正しい方向性。
+
+3. **ClawRunとの競合を意識**: "Deploy AI agents in seconds"はFuyajoのポジションと重なる。スコアは低いが同一カテゴリで複数プレイヤーが参入中。差別化点（非エンジニア向け/固定価格/日本語対応）の訴求が重要。
