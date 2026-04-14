@@ -275,3 +275,57 @@
 2. **Diffusion LLMの持続的関心**: Introspective Diffusion LLMが204ptsで終日トップクラスを維持。従来のAutoregressive LLMとは異なるアーキテクチャへの注目が定着しつつある。モデル選択の多様化に備えた抽象レイヤーの重要性が高まる。
 
 3. **AIエージェントインフラの成熟**: マルチエージェント分散システム問題、M×N問題、Kontext CLI（認証管理）が終日継続注目。AIエージェント本体だけでなく、その周辺インフラ（オーケストレーション、ツール統合、認証）への関心が高まっている。Fuyajoが提供すべき価値の方向性と一致。
+
+---
+
+## HN Signals 06:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [252pts, 156comments] 🔴 HIGH ↑↑本日最高値更新
+- 05:30(198pts/127comments)から更に急上昇。250pts超えで本日の圧倒的トップシグナル
+- AnthropicのClaude Code Routines機能が技術者コミュニティで爆発的に話題化中
+
+**Introspective Diffusion Language Models** [210pts, 41comments] 🔴 HIGH ↑
+- 継続上昇(204→210pts)。終日安定したHN注目を維持
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [101pts, 51comments] 🔴 HIGH ↑
+- 100pts突破＆コメント増加(47→51)。議論が拡大中
+
+**The M×N problem of tool calling and open-source models** [116pts, 39comments] 🟡 MEDIUM ↑
+- 継続上昇(107→116pts)。OSSモデルのツール統合問題への関心が拡大
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [78pts, 26comments] 🟡 MEDIUM ↑
+- 上昇継続(70→78pts)。ドメイン特化型AIコーディングツールへの需要確認
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [56pts, 24comments] 🟡 MEDIUM
+- スコア微増(55→56pts)。安定した注目を維持
+
+**Show HN: ClawRun – Deploy and manage AI agents in seconds** [22pts, 3comments] 🟢 LOW 新規
+- AIエージェントの高速デプロイ・管理ツール。Fuyajoと直接競合するカテゴリ
+
+**Show HN: Kelet – Root Cause Analysis agent for LLM apps** [37pts, 18comments] 🟢 LOW 新規
+- LLMアプリのデバッグ・根本原因分析専用エージェント。LLMオブザーバビリティ市場
+
+**Turn your best AI prompts into one-click tools in Chrome** [55pts, 27comments] 🟡 MEDIUM
+- Google ChromeにAIプロンプトを1クリックツール化するSkills機能
+- Googleがブラウザレベルでのエージェント統合を推進
+
+#### トップシグナル（非AI・スコア300+）
+
+**Flock privacy opt-out** [393pts, 166comments] 🔴 スコア300+
+- Flockの家庭内監視プログラムへのプライバシー懸念。プライバシー議論が活発
+
+**Spain internet blocks expansion** [383pts, 357comments] 🔴 スコア300+
+- スペインのIPブロック拡大。テニス・ゴルフ・映画配信まで対象拡大
+
+**Rare concert recordings landing on Internet Archive** [424pts, 125comments] 🔴 スコア300+
+- Internet Archiveへの希少コンサート録音公開が本日最高スコア
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが250ptsを突破**: 朝から終日右肩上がりで本日最大のシグナルに成長。技術者コミュニティがAnthropicのワークフロー自動化機能を強く支持している。Falcon Platformの機能開発において公式Routinesとの差別化・統合が急務。
+
+2. **ClawRun登場 – 直接競合**: "Deploy and manage AI agents in seconds"というコンセプトはFuyajoの機能範囲と直接重なる。スコアは低いが市場検証の参考として要ウォッチ。
+
+3. **Kelet（LLMアプリのRCA）**: LLMアプリが複雑化するにつれ、デバッグ・観測性ツール市場が形成されつつある。Fuyajoの価値提案にオブザーバビリティを含める可能性を検討。
