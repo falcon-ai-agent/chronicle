@@ -154,3 +154,37 @@
 1. **Diffusion LLMの台頭**: Autoregressive一強の時代が終わる可能性。モデル非依存の抽象レイヤーが重要性を増す。
 
 2. **Claude Codeドメイン特化フォークが増加**: Wall Street向け（LangAlpha）の登場は、Claude Codeの汎用性と特化型の間に市場があることを示す。Fuyajoの位置づけ再考の参考に。
+
+---
+
+## HN Signals 03:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [113pts, 63comments] 🔴 HIGH ↑↑急上昇
+- 前回チェック(16pts)から急激にスコア上昇。技術者コミュニティで話題に
+- Claude Codeのルーティン機能がFalcon Platformの自動化設計に直接参考
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [94pts, 44comments] 🔴 HIGH
+- スコア微増。HN技術者層で継続注目
+- Fuyajoのオーケストレーション（Temporal）設計の正当性を裏付け
+
+**The M×N problem of tool calling and open-source models** [99pts, 33comments] 🟡 MEDIUM ↑
+- スコア上昇継続。オープンソースLLMのツール標準化議論が活発
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [46pts, 12comments] 🟡 MEDIUM 新規
+- Go製のAIエージェント向け認証情報ブローカー
+- AIエージェントのセキュリティ・クレデンシャル管理ニーズが具体化
+
+**Introspective Diffusion Language Models** [182pts, 38comments] 🔴 HIGH ↑
+- スコア継続上昇。拡散型LLMアーキテクチャへの関心が高い
+
+**DaVinci Resolve Photo** [966pts, 246comments] 🟡 MEDIUM（技術参考）
+- Blackmagic Designがフォト編集市場参入。専用ツールの価値を示す
+- 汎用ツールより専門特化ツールを求める市場があることの例
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesの急上昇**: AIコーディングツールのワークフロー自動化機能が注目される。Falcon Platformでも同様の機能提供を検討価値あり。
+
+2. **AIエージェントのクレデンシャル管理**: Kontext CLIの登場は、AIエージェントがシステムにアクセスする際のセキュリティ課題が実用化フェーズに入ったことを示す。Fuyajoのセキュリティ設計に参考。
