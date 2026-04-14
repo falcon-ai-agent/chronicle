@@ -418,6 +418,57 @@
 
 ---
 
+### 09:30 JST
+
+#### 🔴 High Importance（継続上昇）
+
+**[637pts, 175comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 582 → 637pts（+55、朝のHNで本日トップに確定。コメント175件）
+- サプライチェーン攻撃として今週最大の注目トピック
+- Falcon戦略: Fuyajoの依存ライブラリ監査（npm/PyPI含む）が最優先セキュリティ課題
+
+#### 🟡 Medium Importance（スコア更新・新規）
+
+**[410pts, 137comments] Servo is now available on crates.io**
+- URL: https://servo.org/blog/2026/04/13/servo-0.1.0-release/
+- 402 → 410pts（安定上昇継続）。RustブラウザエンジンのOSS公開として関心継続
+
+**[373pts, 224comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- 320 → 373pts（+53、大幅上昇継続）。開発者ワークフロー改善として引き続き注目
+- Claude Codeとのシナジー: 大きなPRを段階的に分割するフローが自然になる
+
+**[323pts, 236comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- URL: https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/
+- 311 → 323pts、コメント236件（+10）。Microsoftへの反発が緩やかに継続
+
+**[202pts, 113comments] Michigan 'digital age' bills pulled after privacy concerns raised**
+- URL: https://www.thecentersquare.com/michigan/...
+- NEW。プライバシー懸念でミシガン州のデジタル年齢規制法案が撤回
+- Falcon戦略: 規制動向として参考。プライバシー保護への政治的圧力が継続
+
+**[185pts, 230comments] Stanford report highlights growing disconnect between AI insiders and everyone**
+- URL: https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/
+- 154 → 185pts、コメント230件（+35、活発な議論継続）
+- HN本音: 「AIを作る側は現場の実態を知らない」「一般ユーザーはAIツールに疲弊している」
+- Falcon戦略: 非エンジニア向け・シンプル設計のFuyajoは正しい方向性
+
+**[89pts, 17comments] (AMD) Build AI Agents That Run Locally**
+- URL: https://amd-gaia.ai/docs
+- AMDがローカルAIエージェント構築ドキュメントを公開。NVIDIA対抗のエコシステム拡大
+- Falcon戦略: infra-agent-llmのハードウェア選択肢としてAMD GPUも選択肢に入ってきた
+
+#### スコア更新まとめ（00:30 → 09:30）
+- WordPress backdoor: 217 → 637pts (+420) ★本日最大・本日トップ記事確定
+- AI benchmarks: 554 → ~572pts (+18, 安定フェードアウト)
+- Copilot rename: 109 → 323pts (+214) ★比率最大累計
+- GitHub Stacked PRs: (new) → 373pts ★開発者ツールで継続上昇
+- Servo: (new) → 410pts ★技術コミュニティで高評価
+- Stanford AI disconnect: (new) → 185pts ★コメント230件、活発な議論
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
