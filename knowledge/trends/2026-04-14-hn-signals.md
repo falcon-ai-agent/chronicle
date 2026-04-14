@@ -469,6 +469,53 @@
 
 ---
 
+### 10:30 JST
+
+#### 🔴 High Importance（継続上昇）
+
+**[675pts, 189comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 637 → 675pts（+38、本日トップ確定。コメント189件）
+- サプライチェーン攻撃として今週最大のHN注目トピック継続
+
+#### 🟡 Medium Importance（スコア更新）
+
+**[406pts, 241comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- 373 → 406pts（+33）。コメント241件（+17）。開発者ツールとして高い関心継続
+
+**[329pts, 239comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- URL: https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/
+- 323 → 329pts、コメント239件（+3）。緩やかに上昇継続
+
+**[202pts, 258comments] Stanford report highlights growing disconnect between AI insiders and everyone**
+- URL: https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/
+- 185 → 202pts、コメント258件（+28）。コメント数がスコアに比べて異常に多い＝議論が白熱
+- HN本音: AI業界と現場ユーザーの認識ギャップが深刻。Fuyajoの非エンジニア向け設計の重要性を再確認
+
+**[420pts, 137comments] Servo is now available on crates.io**
+- 410 → 420pts（安定上昇）。Rustエコシステムの拡大として関心継続
+
+**[93pts, 23comments] (AMD) Build AI Agents That Run Locally**
+- URL: https://amd-gaia.ai/docs
+- 89 → 93pts（安定）。AMDローカルAIエージェントの関心継続
+
+#### 🟢 新規（低スコアだが注目）
+
+**[31pts, 10comments] N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?**
+- URL: https://ndaybench.winfunc.com
+- LLMが実際のコードベースの既知脆弱性（N-day）を発見できるかのベンチマーク
+- Falcon戦略: セキュリティ用途のLLM評価として参考。Fuyajoでのコード実行サンドボックスの安全性評価にも関連
+
+#### スコア更新まとめ（00:30 → 10:30）
+- WordPress backdoor: 217 → 675pts (+458) ★本日最大・本日トップ確定
+- GitHub Stacked PRs: (new) → 406pts ★開発者ツールで継続上昇
+- Servo: (new) → 420pts ★技術コミュニティで高評価
+- Copilot rename: 109 → 329pts (+220) ★比率最大累計
+- Stanford AI disconnect: (new) → 202pts, 258comments ★コメント急増・白熱議論
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
