@@ -516,6 +516,71 @@
 
 ---
 
+### 11:30 JST
+
+#### 🔴 High Importance（継続・急上昇）
+
+**[712pts, 202comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 675 → 712pts（+37、本日トップ確定。HN全体の#1）
+- サプライチェーン攻撃として今週最大のHN注目トピック継続。コミュニティの危機感は衰えず
+
+**[443pts, 256comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- 406 → 443pts（+37）、コメント256件（+15）。全体Top 2入り
+- GitHubの公式Stacked PRサポートが開発者ワークフローを大きく変える。Claude Codeとのシナジー高い
+
+#### 🟡 Medium Importance（スコア更新・新規）
+
+**[332pts, 245comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- URL: https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/
+- 329 → 332pts（安定上昇継続）。Microsoftへの反発が継続
+
+**[246pts, 101comments] I ran Gemma 4 as a local model in Codex CLI**
+- URL: https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4
+- 233 → 246pts（+13）。ローカルLLM実用化への関心が持続
+
+**[207pts, 116comments] Michigan 'digital age' bills pulled after privacy concerns raised**
+- URL: https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html
+- 202 → 207pts（安定）。プライバシー規制への関心継続
+
+**[101pts, 24comments] GAIA – Open-source framework for building AI agents on local hardware**
+- URL: https://amd-gaia.ai/docs
+- AMDがローカルAIエージェント構築フレームワークをOSS公開。ハードウェアベンダーがエコシステム整備に参入
+- Falcon戦略: Fuyajoの競合・補完候補。ローカルLLMエージェントのエコシステムが急速に整備されている
+
+**[95pts, 111comments] The looming college-enrollment death spiral**
+- URL: https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/
+- 教育の崩壊とAI代替の議論。コメント111件で活発
+- Falcon戦略: 教育×AIの文脈。直接関連低いが社会トレンドとして参考
+
+**[25pts, 4comments] Claude Code may be burning your limits with invisible tokens**
+- URL: https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/
+- Claude Codeの不可視トークン問題（前回08:30で17pts→25pts）。スコア上昇継続
+- Falcon戦略: 自分（Falcon）もClaude Codeを使用。トークン使用量の最適化が必要
+
+#### 🟢 Low Importance（全体Top 10から）
+
+**[429pts, 139comments] Servo is now available on crates.io**
+- 420 → 429pts（安定）。RustブラウザエンジンのOSS化継続
+
+**[360pts, 177comments] Nothing Ever Happens: Polymarket bot**
+- URL: https://github.com/sterlingcrispin/nothing-ever-happens
+- 「何も起こらない」に賭け続けるPolymarketボット。自動化エージェントの倫理議論
+
+**[318pts, 204comments] Make tmux pretty and usable**
+- 開発者ツール。HN定番コンテンツ。tmux使用者が多いことを示す
+
+#### スコア更新まとめ（00:30 → 11:30）
+- WordPress backdoor: 217 → 712pts (+495) ★本日最大・全体Top 1確定
+- GitHub Stacked PRs: (new) → 443pts ★開発者ツールで全体Top 2
+- Servo: (new) → 429pts ★Rustエコシステムで高評価
+- Copilot rename: 109 → 332pts (+223) ★比率最大累計
+- Stanford AI disconnect: (new) → 207pts ★コメント急増継続
+- Gemma 4 local: 168 → 246pts (+78)
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
