@@ -1073,3 +1073,40 @@
 - A new spam policy: 516pts
 - Servo crates.io: 457pts ★新規急上昇
 - Backblaze: 374pts ★継続上昇
+
+---
+
+### 23:30 JST
+
+#### 🔴 High Importance
+
+**[134pts, 32comments] GAIA – Open-source framework for building AI agents that run on local hardware**
+- URL: https://amd-gaia.ai/docs
+- AMD製のローカルハードウェア上でAIエージェントを動かすオープンソースフレームワーク
+- 重要度: AMDがローカルAIエージェント基盤に参入。クラウド依存からの脱却を後押し
+- Falcon戦略: infra-agent-llm + ローカルLLM方針と完全に一致。競合かつ参考事例
+
+#### 🟡 Medium Importance
+
+**[128pts, 31comments] Introspective Diffusion Language Models**
+- URL: https://introspective-diffusion.github.io/
+- 拡散モデルにLLMを統合した内省的言語モデルの研究
+- 重要度: LLMアーキテクチャの新潮流。自己内省機能がエージェントの判断精度向上に応用可能性
+
+**[49pts, 14comments] The M×N problem of tool calling and open-source models**
+- URL: https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract
+- オープンソースモデルのツール呼び出しにおけるM×N互換性問題
+- 重要度: AIエージェントのツール統合設計に関する実践的課題。Falcon Platformのエージェント設計に直接関連
+
+**[71pts, 29comments] Multi-Agentic Software Development Is a Distributed Systems Problem**
+- URL: https://kirancodes.me/posts/log-distributed-llms.html
+- （継続上昇中）マルチエージェント開発を分散システムとして捉え直す論考
+
+#### トップ全体のトレンド（23:30時点）
+
+- WordPress backdoor: 1062pts（★最高値更新継続）
+- GitHub Stacked PRs: 799pts（★上昇継続）
+- DaVinci Resolve Photo: 795pts
+- A new spam policy: 561pts
+- Backblaze stopped backing up: 454pts
+- jj (jujutsu) git alternative: 236pts ★新規注目
