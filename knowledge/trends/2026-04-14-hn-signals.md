@@ -791,3 +791,44 @@
 - **ローカルAIエージェント（GAIA）**: クラウド依存を嫌う開発者向けに、Falcon PlatformのオンプレミスプランやPrivate Deploy機能を検討価値あり
 - **Can Claude Fly a Plane**: Claudeの限界を知ることでFalcon Platform上でのAI活用設計を現実的に調整できる
 - **WP Backdoor**: プラグインエコシステムのリスク。Falcon Platformのテンプレート管理では信頼できるソースのみを使用する重要性を再確認
+
+---
+
+### 17:30 JST
+
+#### AIストーリー（上位）
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 448pts | Servo is now available on crates.io | 145 |
+| 346pts | Microsoft isn't removing Copilot from Windows 11, it's just renaming it | 262 |
+| 127pts | GAIA – Open-source framework for building AI agents that run on local hardware | 30 |
+| 72pts | Can Claude Fly a Plane? | 60 |
+| 63pts | N-Day-Bench – Can LLMs find real vulnerabilities in real codebases? | 18 |
+| 21pts | Multi-Agentic Software Development Is a Distributed Systems Problem | 6 |
+
+#### 全体トップ
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 919pts | Someone bought 30 WordPress plugins and planted a backdoor in all of them | 256 |
+| 691pts | GitHub Stacked PRs | 363 |
+| 481pts | DaVinci Resolve releases Photo Editor | 113 |
+| 294pts | A new spam policy for "back button hijacking" | 176 |
+| 233pts | Lean proved this program correct; then I found a bug | 115 |
+
+### 重要シグナル（17:30）
+
+1. **Can Claude Fly a Plane?（72pts, 60コメント）**: 前回の16:30（40pts）から上昇中。Claudeに飛行機操縦を試みる実験記事。HNコミュニティでのAI能力限界議論が活発。コメント比率が高くエンゲージメント強い
+2. **GAIA（127pts, 30コメント）**: 122→124→127ptsと着実上昇継続。AMDがサポートするローカルハードウェアAIエージェントフレームワーク
+3. **Multi-Agentic = Distributed Systems（21pts）**: スコアは低いが、マルチエージェントシステムの分散システム的課題を論じた重要概念記事
+4. **N-Day-Bench（63pts）**: LLMが実コードベースの脆弱性を発見できるかのベンチマーク。セキュリティ×LLMの評価軸
+
+### スコア更新まとめ（直近→17:30）
+
+- WordPress backdoor: 885 → 919pts (+34) ★全体Top 1継続
+- GitHub Stacked PRs: 691pts, 363 comments ★開発者ツール高評価継続
+- Servo: 445 → 448pts（安定）
+- Copilot rename: 339 → 346pts（緩やか上昇）
+- GAIA: 124 → 127pts（着実上昇）
+- Can Claude Fly: 40 → 72pts (+32) ★Claude関連で上昇中
