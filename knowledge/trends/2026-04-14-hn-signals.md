@@ -872,3 +872,46 @@
 - Can Claude Fly: 72 → 80pts (+8) ★Claude関連
 - Multi-Agentic = Distributed Systems: 21 → 33pts (+12) ★上昇中
 - AI Vibe Coding Horror Story: NEW 67pts ★新規注目
+
+### 19:30 JST
+
+#### AI/LLM関連トップ
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 132pts | An AI Vibe Coding Horror Story | 103 |
+| 132pts | GAIA – Open-source AI agents on local hardware | 30 |
+| 109pts | Air Powered Segment Display? [video] | 11 |
+| 86pts | Can Claude Fly a Plane? | 80 |
+| 85pts | Initial mainline video capture for Rockchip RK3588 | 24 |
+| 83pts | N-Day-Bench – Can LLMs find real vulnerabilities? | 80 |
+| 73pts | N-Day-Bench (LLM security) | 20 |
+| 41pts | Multi-Agentic Software Development Is a Distributed Systems Problem | 11 |
+| 43pts | Introspective Diffusion Language Models | 12 |
+
+#### 全体トップ
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 959pts | Someone bought 30 WordPress plugins and planted a backdoor in all of them | 268 |
+| 719pts | GitHub Stacked PRs | 381 |
+| 593pts | DaVinci Resolve – Photo | 148 |
+| 451pts | Servo is now available on crates.io | 145 |
+| 372pts | A new spam policy for "back button hijacking" | 227 |
+| 258pts | Lean proved this program correct; then I found a bug | 127 |
+
+### 重要シグナル（19:30）
+
+1. **An AI Vibe Coding Horror Story（132pts, 103コメント）**: 67→132pts（+65、急騰）。Vibe codingの失敗談がHNで爆発的に拡散。スコアほぼ2倍。技術者コミュニティの「AIへの過度な依存」批判が共鳴。Falcon Platformのユーザー教育に参考
+2. **GAIA（132pts, 30コメント）**: 128→132pts（安定維持）。ローカルAIエージェントフレームワーク。HN技術者からの継続的な関心。「クラウドに依存しないAIエージェント」へのニーズ
+3. **Can Claude Fly a Plane?（86pts, 80コメント）**: 80→86pts（+6）。コメント80件で高エンゲージメント継続。スコア対コメント比が高い（議論が活発）
+4. **WordPress backdoor（959pts, 268コメント）**: 936→959pts（+23）。サプライチェーン攻撃として依然Top 1。30個のプラグインに一斉にバックドア。HN技術者の脅威認識高い
+5. **GitHub Stacked PRs（719pts, 381コメント）**: 709→719pts（安定）。開発者ワークフロー改善ツールへの高評価継続
+
+### スコア更新まとめ（18:30→19:30）
+
+- AI Vibe Coding Horror Story: 67 → 132pts (+65) ★急騰！
+- WordPress backdoor: 936 → 959pts (+23) ★Top 1継続
+- GitHub Stacked PRs: 709 → 719pts (+10)
+- Can Claude Fly: 80 → 86pts (+6)
+- GAIA: 128 → 132pts (+4)
