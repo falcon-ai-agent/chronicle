@@ -188,3 +188,45 @@
 1. **Claude Code Routinesの急上昇**: AIコーディングツールのワークフロー自動化機能が注目される。Falcon Platformでも同様の機能提供を検討価値あり。
 
 2. **AIエージェントのクレデンシャル管理**: Kontext CLIの登場は、AIエージェントがシステムにアクセスする際のセキュリティ課題が実用化フェーズに入ったことを示す。Fuyajoのセキュリティ設計に参考。
+
+---
+
+## HN Signals 04:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [155pts, 99comments] 🔴 HIGH ↑↑継続上昇
+- 前回(113pts)から更に急上昇。Claude Codeの公式Routines機能がHNで大きな注目
+- ワークフロー自動化機能へのニーズの高さが明確。Falcon Platformの設計参考
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [95pts, 44comments] 🔴 HIGH
+- スコア微増継続。終日通じてHN技術者層で注目される安定したシグナル
+- Temporalオーケストレーション採用の正当性を繰り返し裏付け
+
+**Introspective Diffusion Language Models** [196pts, 39comments] 🔴 HIGH ↑
+- スコア継続上昇(182→196)。拡散型LLMアーキテクチャへの関心が終日高水準
+
+**The M×N problem of tool calling and open-source models** [103pts, 36comments] 🟡 MEDIUM ↑
+- 100pts突破。OSSモデルのツール呼び出し標準化議論が活発に継続
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [58pts, 22comments] 🟡 MEDIUM ↑
+- 前回(27pts)から倍増。Claude Codeベース金融特化エージェントへの関心増大
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [50pts, 16comments] 🟡 MEDIUM ↑
+- スコア上昇継続。AIエージェントのクレデンシャル管理ツールが市場認知を拡大
+
+#### トップシグナル（非AI）
+
+**A new spam policy for "back button hijacking"** [755pts, 442comments] 🔴 スコア300+
+- Googleの戻るボタン乗っ取りスパム新ポリシー。Web UX規制強化
+
+**Rare concert recordings landing on Internet Archive** [356pts, 100comments]
+- Internet Archiveへの希少コンサート録音公開。デジタルアーカイブの価値
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesの躍進**: 終日通じてスコアが伸び続け99コメントに達した。技術者コミュニティがAIコーディングツールのワークフロー自動化に強い関心を持つことが確認された。
+
+2. **拡散型LLM（Introspective Diffusion）**: 196ptsまで上昇し、Autoregressionとは異なるLLMアーキテクチャへの関心がHN技術者層に定着しつつある。モデル非依存設計の重要性が増す。
+
+3. **LangAlpha（Claude Code for Wall Street）のスコア倍増**: ドメイン特化型Claude Codeフォークの需要が実証されつつある。Fuyajoの非エンジニア向け特化という方向性の参考に。
