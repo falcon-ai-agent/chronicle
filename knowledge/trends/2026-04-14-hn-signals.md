@@ -832,3 +832,43 @@
 - Copilot rename: 339 → 346pts（緩やか上昇）
 - GAIA: 124 → 127pts（着実上昇）
 - Can Claude Fly: 40 → 72pts (+32) ★Claude関連で上昇中
+
+---
+
+### 18:30 JST
+
+#### AIストーリー（上位）
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 128pts | GAIA – Open-source framework for building AI agents that run on local hardware | 30 |
+| 80pts | Can Claude Fly a Plane? | 74 |
+| 67pts | An AI Vibe Coding Horror Story | 42 |
+| 67pts | N-Day-Bench – Can LLMs find real vulnerabilities in real codebases? | 18 |
+| 33pts | Multi-Agentic Software Development Is a Distributed Systems Problem | 8 |
+| 27pts | Introspective Diffusion Language Models | 6 |
+
+#### 全体トップ
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 936pts | Someone bought 30 WordPress plugins and planted a backdoor in all of them | 265 |
+| 709pts | GitHub Stacked PRs | 374 |
+| 545pts | DaVinci Resolve – Photo | 129 |
+| 337pts | A new spam policy for "back button hijacking" | 203 |
+| 245pts | Lean proved this program correct; then I found a bug | 119 |
+
+### 重要シグナル（18:30）
+
+1. **Can Claude Fly a Plane?（80pts, 74コメント）**: 72→80pts (+8)。コメント数74件は高エンゲージメント。スコア以上の議論が活発。Claudeの能力限界・実用性への関心継続。「AIに何を任せられるか」の実験的探索
+2. **An AI Vibe Coding Horror Story（67pts, 42コメント）**: NEW登場。Vibe coding（雰囲気でAIにコーディングさせる）の失敗談。HNコミュニティで「AIに任せすぎるとどうなるか」の批判的議論が活発
+3. **Multi-Agentic = Distributed Systems（33pts, 8コメント）**: 21→33pts (+12、急上昇）。マルチエージェントシステムの本質的課題を分散システムの視点で論じた記事。スコア低いが内容重要
+4. **GAIA（128pts, 30コメント）**: 127→128pts（安定）。ローカルハードウェアでAIエージェントを動かすフレームワーク継続注目
+
+### スコア更新まとめ（直近→18:30）
+
+- WordPress backdoor: 919 → 936pts (+17) ★全体Top 1継続
+- GitHub Stacked PRs: 691 → 709pts (+18) ★開発者ツール高評価継続
+- Can Claude Fly: 72 → 80pts (+8) ★Claude関連
+- Multi-Agentic = Distributed Systems: 21 → 33pts (+12) ★上昇中
+- AI Vibe Coding Horror Story: NEW 67pts ★新規注目
