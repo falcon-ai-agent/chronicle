@@ -581,6 +581,59 @@
 
 ---
 
+### 12:30 JST
+
+#### 🔴 High Importance（継続）
+
+**[746pts, 212comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 712 → 746pts（+34、全体#1維持。コメント212件）
+- サプライチェーン攻撃として今週最大のHN注目トピック。関心は衰えず
+
+**[489pts, 269comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- 443 → 489pts（+46、最大上昇。コメント269件）。全体Top 2で急上昇継続
+- GitHubの公式Stacked PRサポートが開発者ワークフローを変える。Claude Codeとのシナジー高い
+
+#### 🟡 Medium Importance（スコア更新）
+
+**[576pts, 137comments] Exploiting the most prominent AI agent benchmarks**
+- URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+- 571 → 576pts（+5、緩やかな上昇。安定高スコア維持）
+
+**[431pts, 140comments] Servo is now available on crates.io**
+- 429 → 431pts（+2、安定）。RustブラウザエンジンのOSS化として関心継続
+
+**[334pts, 248comments] Microsoft isn't removing Copilot from Windows 11, it's just renaming it**
+- 332 → 334pts、コメント248件（+3）。緩やかな上昇継続
+
+**[247pts, 101comments] I ran Gemma 4 as a local model in Codex CLI**
+- 246 → 247pts（安定）。ローカルLLM実用化への関心継続
+
+**[104pts, 24comments] GAIA – Open-source framework for building AI agents on local hardware**
+- URL: https://amd-gaia.ai/docs
+- 101 → 104pts（+3）。AMDのローカルAIエージェントフレームワーク。関心継続
+
+**[27pts, 4comments] Claude Code may be burning your limits with invisible tokens**
+- URL: https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/
+- 25 → 27pts（緩やか上昇継続）。Claude Codeの不可視トークン問題
+
+#### 🟢 新規注目
+
+**[5pts, 2comments] Meta spins up AI version of Mark Zuckerberg to engage with employees**
+- URL: https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/
+- スコアは低いが内容が興味深い。MetaがZuckerbergのAIクローンを社内利用
+- 経営者のAI分身という新しいユースケース。AIエージェントの社内活用の新形態
+
+#### スコア更新まとめ（00:30 → 12:30）
+- WordPress backdoor: 217 → 746pts (+529) ★本日最大・全体Top 1継続
+- GitHub Stacked PRs: (new) → 489pts ★開発者ツールで全体Top 2急上昇
+- AI benchmarks: 554 → 576pts (+22) ★安定高スコア
+- Copilot rename: 109 → 334pts (+225) ★比率最大累計
+- Gemma 4 local: 168 → 247pts (+79)
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
