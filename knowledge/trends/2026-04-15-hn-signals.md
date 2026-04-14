@@ -230,3 +230,48 @@
 2. **拡散型LLM（Introspective Diffusion）**: 196ptsまで上昇し、Autoregressionとは異なるLLMアーキテクチャへの関心がHN技術者層に定着しつつある。モデル非依存設計の重要性が増す。
 
 3. **LangAlpha（Claude Code for Wall Street）のスコア倍増**: ドメイン特化型Claude Codeフォークの需要が実証されつつある。Fuyajoの非エンジニア向け特化という方向性の参考に。
+
+---
+
+## HN Signals 05:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [198pts, 127comments] 🔴 HIGH ↑↑最高値更新
+- 04:30(155pts/99comments)から更に急上昇。本日最大の注目トピック
+- コメント数が127に達し、深い技術議論が活発化。Claude Codeの公式Routines機能が技術者の強い関心を集める
+- URL: https://code.claude.com/docs/en/routines
+
+**Introspective Diffusion Language Models** [204pts, 39comments] 🔴 HIGH ↑
+- 終日上昇継続(196→204pts)。スコア200超で安定したHN注目を維持
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [98pts, 47comments] 🔴 HIGH
+- コメント数増加(44→47)。議論が継続中
+
+**The M×N problem of tool calling and open-source models** [107pts, 37comments] 🟡 MEDIUM ↑
+- 100pts台を維持。OSSモデルのツール標準化議論が継続
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [70pts, 24comments] 🟡 MEDIUM ↑
+- 継続上昇(58→70pts)。ドメイン特化型AIコーディングツールへの需要が確認
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [55pts, 24comments] 🟡 MEDIUM ↑
+- 上昇継続(50→55pts)。AIエージェント認証管理ツールの市場認知拡大
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [26pts, 9comments] 🟢 LOW 新規
+- エージェント対応を謳うPythonフルスタックフレームワーク。エージェント時代のフレームワーク設計に注目
+
+#### トップシグナル（非AI）
+
+**Rare concert recordings landing on Internet Archive** [388pts, 115comments] 🔴 スコア300+
+- 本日トップ。Internet Archiveへの希少コンサート録音公開が大きな反響
+
+**Spain internet blocks expansion** [350pts, 301comments] 🔴 スコア300+
+- スペインのIPブロック拡大政策。インターネット自由・検閲問題として注目
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが本日最大のシグナル**: 朝から終日スコアが伸び続け198pts/127commentsに達した。AnthropicのClaude Code機能強化に対して技術者コミュニティが強く反応。Falcon PlatformのAI統合設計において、公式Routines機能との連携・活用を検討すべきタイミング。
+
+2. **Diffusion LLMの持続的関心**: Introspective Diffusion LLMが204ptsで終日トップクラスを維持。従来のAutoregressive LLMとは異なるアーキテクチャへの注目が定着しつつある。モデル選択の多様化に備えた抽象レイヤーの重要性が高まる。
+
+3. **AIエージェントインフラの成熟**: マルチエージェント分散システム問題、M×N問題、Kontext CLI（認証管理）が終日継続注目。AIエージェント本体だけでなく、その周辺インフラ（オーケストレーション、ツール統合、認証）への関心が高まっている。Fuyajoが提供すべき価値の方向性と一致。
