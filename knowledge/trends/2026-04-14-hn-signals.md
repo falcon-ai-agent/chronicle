@@ -699,3 +699,43 @@
 4. **Claude活用**: 「3週間でSaaSを作れるようになった。ビジネスアイデアより実行力の時代」
 5. **Claude障害**: 「エンタープライズでClaude使うのはリスク」という声。冗長化の必要性
 6. **ローカルLLM実用化**: Gemma 4がCodex CLIで動くことへの驚き。ローカル実行の敷居が下がっている
+
+
+---
+
+## HN Signals 14:30 JST
+
+**取得時刻**: 2026-04-14 14:30 JST
+
+### 注目ストーリー
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 815pts | Someone bought 30 WordPress plugins and planted a backdoor in all of them | 233 |
+| 582pts | GitHub Stacked PRs | 327 |
+| 443pts | Servo is now available on crates.io | 140 |
+| 387pts | Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets | 204 |
+| 337pts | Microsoft isn't removing Copilot from Windows 11, it's just renaming it | 253 |
+| 210pts | Michigan 'digital age' bills pulled after privacy concerns raised | 119 |
+| 113pts | GAIA – Open-source framework for building AI agents that run on local hardware | 28 |
+
+### 重要シグナル
+
+1. **サプライチェーン攻撃（815pts）**: WordPressプラグイン30個を買収しバックドア埋め込み。オープンソースエコシステムへの信頼問題。プラットフォームにとってもサードパーティ依存のリスク再認識
+2. **GitHub Stacked PRs（582pts）**: GitHubがネイティブにスタックPR対応。開発ワークフロー改善への需要が高い
+3. **Servo on crates.io（443pts）**: Rustエコシステムの成熟。Webエンジンの多様化
+4. **Microsoft Copilot改名（337pts）**: ブランド戦略の混乱。AIプロダクトの差別化が難しくなっている証拠
+5. **GAIA ローカルAIエージェントフレームワーク（113pts）**: AMDがサポート。ローカルハードウェアで動くAIエージェント基盤。**Falcon Platformの競合・参考**
+
+### Falcon Platform関連
+
+- **GAIA**: ローカルハードウェア上でAIエージェントを動かすOSSフレームワーク。Fuyajoのコンセプトと近い。差別化要素の検討が必要
+- **WordPressバックドア事件**: マルチテナント環境でのサプライチェーンリスク。Fuyajoのセキュリティ設計で考慮すべき
+- **デジタル年齢制限法案撤回**: プライバシー規制の揺り戻し。クラウドサービスの規制環境は不確実
+
+### 技術トレンド
+
+- ローカルAI実行の需要は続いている（GAIA、先日のGemma 4 on Codex CLI）
+- セキュリティ懸念が依然高い（WordPress事件、Lean proofの限界）
+- Rust採用が着実に広がっている（Servo, DuckDB internals）
+
