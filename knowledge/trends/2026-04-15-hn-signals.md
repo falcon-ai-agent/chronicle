@@ -329,3 +329,54 @@
 2. **ClawRun登場 – 直接競合**: "Deploy and manage AI agents in seconds"というコンセプトはFuyajoの機能範囲と直接重なる。スコアは低いが市場検証の参考として要ウォッチ。
 
 3. **Kelet（LLMアプリのRCA）**: LLMアプリが複雑化するにつれ、デバッグ・観測性ツール市場が形成されつつある。Fuyajoの価値提案にオブザーバビリティを含める可能性を検討。
+
+---
+
+## HN Signals 07:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [292pts, 185comments] 🔴 HIGH ↑↑HNトップ1位に浮上
+- 06:30(252pts/156comments)から更に急上昇。HN全体トップに浮上（アルゴリズムランキング1位）
+- 本日通じて上昇し続け、技術者コミュニティ最大の話題に。Anthropicの公式ワークフロー自動化機能が市場に深く刺さっている
+- URL: https://code.claude.com/docs/en/routines
+
+**Introspective Diffusion Language Models** [213pts, 41comments] 🔴 HIGH ↑
+- 継続上昇(210→213pts)。終日安定した高スコアを維持
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [102pts, 52comments] 🔴 HIGH ↑
+- コメント増加(51→52)。終日継続して注目される安定したシグナル
+
+**The M×N problem of tool calling and open-source models** [120pts, 40comments] 🟡 MEDIUM ↑
+- 継続上昇(116→120pts)。OSSモデルのツール統合問題が終日注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [84pts, 27comments] 🟡 MEDIUM ↑
+- 継続上昇(78→84pts)。ドメイン特化型AIコーディングツール需要が確認
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [58pts, 26comments] 🟡 MEDIUM ↑
+- 上昇継続(56→58pts)。AIエージェント認証管理への関心が拡大
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [42pts, 17comments] 🟢 LOW
+- エージェント対応を謳うPythonフルスタックフレームワーク。エージェント時代の開発フレームワーク設計に注目
+
+**Show HN: ClawRun – Deploy and manage AI agents in seconds** [26pts, 3comments] 🟢 LOW
+- AIエージェント高速デプロイ管理ツール。Fuyajoと直接競合するカテゴリ
+
+**Show HN: Kelet – Root Cause Analysis agent for LLM apps** [37pts, 18comments] 🟢 LOW
+- LLMアプリのデバッグ・根本原因分析専用エージェント
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [448pts, 132comments] 🔴 スコア300+
+- 本日最高スコア。デジタルアーカイブ・文化保存への強い関心
+
+**I wrote to Flock's privacy contact to opt out of their domestic spying program** [416pts, 174comments] 🔴 スコア300+
+- プライバシー監視への強い反発。個人情報保護・プライバシーファースト設計の重要性を示す
+
+#### 戦略的洞察
+
+1. **Claude Code RoutinesがHN全体トップに**: 本日最大の技術シグナル。スコア292pts・185コメントはAnthropicの機能が技術者に深く刺さっている証拠。Falcon PlatformでのClaude Code Routines活用を最優先で検討すべき。
+
+2. **AIエージェントインフラ5冠継続**: Routines、拡散型LLM、マルチエージェント分散、ツール呼び出しM×N問題、認証管理（Kontext）が終日上昇継続。AIエージェント周辺インフラへの需要が本物であることが7時間以上にわたって実証された。
+
+3. **プライバシー懸念の高まり**: Flock監視プログラムへの反発（416pts）はデータプライバシーへの強い関心を示す。Fuyajoのローカル実行・データ所有権訴求が市場ニーズと合致する。
