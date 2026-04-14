@@ -634,6 +634,63 @@
 
 ---
 
+### 13:30 JST
+
+#### 🔴 High Importance（継続）
+
+**[785pts, 224comments] Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
+- URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+- 746 → 785pts（+39、全体#1継続。コメント224件）
+- 今日一日HN全体のトップを独走。サプライチェーン攻撃の象徴的事例として定着
+
+**[539pts, 292comments] GitHub Stacked PRs**
+- URL: https://github.github.com/gh-stack/
+- 489 → 539pts（+50、最大上昇継続。コメント292件）
+- 全体Top 2として急上昇継続。開発者ワークフローの変革として関心が加速
+
+#### 🟡 Medium Importance（スコア更新・新規）
+
+**[441pts, 140comments] Servo is now available on crates.io**
+- 431 → 441pts（+10）。RustブラウザエンジンのOSS化として関心継続
+
+**[374pts, 198comments] Nothing Ever Happens: Polymarket bot**
+- URL: https://github.com/sterlingcrispin/nothing-ever-happens
+- 安定上昇。自動化ボットの戦略と倫理。エージェント設計の参考
+
+**[334pts, 248comments] Microsoft isn't removing Copilot from Windows 11**
+- 334pts（安定）。Microsoftへの反発が落ち着いてきた
+
+**[249pts, 101comments] I ran Gemma 4 as a local model in Codex CLI**
+- 247 → 249pts（+2、安定）。ローカルLLM実用化への関心継続
+
+**[111pts, 25comments] GAIA – Open-source framework for building AI agents on local hardware**
+- URL: https://amd-gaia.ai/docs
+- 104 → 111pts（+7）。AMDのローカルAIエージェントフレームワーク。関心継続
+- Falcon戦略: infra-agent-llmの方向性と一致
+
+**[53pts, 26comments] The AI revolution in math has arrived**
+- URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/
+- NEW。数学分野へのAI革命がQuantaで報告。
+- Falcon戦略: AI能力の専門領域への浸透。エージェント用途の拡大を示す
+
+**[46pts, 11comments] N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?**
+- URL: https://ndaybench.winfunc.com
+- 31 → 46pts（+15、上昇中）。LLMが実際の脆弱性（N-day）を発見できるかのベンチマーク
+- Falcon戦略: セキュリティ×LLMの評価軸として注目。Fuyajoのサンドボックス安全性に関連
+
+**[210pts, 119comments] Michigan 'digital age' bills pulled after privacy concerns raised**
+- 207 → 210pts（安定）。プライバシー規制の動向継続
+
+#### スコア更新まとめ（00:30 → 13:30）
+- WordPress backdoor: 217 → 785pts (+568) ★本日最大・全体Top 1継続
+- GitHub Stacked PRs: (new) → 539pts ★開発者ツールで全体Top 2継続急上昇
+- AI benchmarks: 554 → ~576pts (+22) ★安定高スコア
+- Copilot rename: 109 → 334pts (+225) ★比率最大累計
+- Gemma 4 local: 168 → 249pts (+81)
+- N-Day-Bench: (new) → 46pts ★セキュリティ×LLMで上昇中
+
+---
+
 ### Key Discussions (HN本音)
 
 1. **ベンチマーク不信**: 「AIエージェントのベンチマーク結果は信用できない。ベンチマーク向け最適化が横行」「スコアで判断するな、実タスクで測れ」
