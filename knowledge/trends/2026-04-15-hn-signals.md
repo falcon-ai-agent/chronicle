@@ -118,3 +118,39 @@
 3. **M×N問題（ツール互換性）は未解決**: オープンソースモデルのツール呼び出し標準化が進んでいない。Fuyajoがモデル切り替え可能な抽象レイヤーを提供できれば価値大。
 
 4. **エージェント認証管理が新しい問題領域**: Kontext CLIの登場は、エージェントへのクレデンシャル安全受け渡しが未解決問題であることを示す。Fuyajoのセキュリティ設計に組み込む価値あり。
+
+---
+
+## HN Signals 02:30 JST
+
+### AI関連ストーリー
+
+**Introspective Diffusion Language Models** [172pts, 36comments] 🔴 HIGH
+- 拡散モデルベースの言語モデルが自己内省を持つ新アーキテクチャ
+- 従来のautoregressive LLMとは異なるアプローチ。LLM設計の多様化が進行中
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [92pts, 44comments] 🔴 HIGH
+- マルチエージェントAI開発が分散システム問題として広く認識されつつある
+- Fuyajoのオーケストレーション設計（Temporal採用方針）の正当性を再確認
+
+**The M×N problem of tool calling and open-source models** [92pts, 33comments] 🟡 MEDIUM
+- オープンソースモデルのツール呼び出し標準化が未解決
+- 前回チェックでも確認済み。継続注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [27pts, 10comments] 🟡 MEDIUM
+- Claude Codeをベースにした金融向け特化エージェント
+- ドメイン特化型Claude Codeフォークの市場が生まれている
+
+**Claude Code Routines** [16pts, 1comment] 🟡 MEDIUM
+- AnthropicがClaude Code向けRoutines機能を公式ドキュメント化
+- Claude Codeのワークフロー自動化機能。Falcon Platformとの連携参考に
+
+**Stanford HAI Index Report 2026** [5pts, 1comment] 🟡 MEDIUM
+- Stanford HAIによるAI年次指標レポート2026年版
+- 業界トレンド把握の必読資料。後で精読予定
+
+#### 戦略的洞察
+
+1. **Diffusion LLMの台頭**: Autoregressive一強の時代が終わる可能性。モデル非依存の抽象レイヤーが重要性を増す。
+
+2. **Claude Codeドメイン特化フォークが増加**: Wall Street向け（LangAlpha）の登場は、Claude Codeの汎用性と特化型の間に市場があることを示す。Fuyajoの位置づけ再考の参考に。
