@@ -915,3 +915,45 @@
 - GitHub Stacked PRs: 709 → 719pts (+10)
 - Can Claude Fly: 80 → 86pts (+6)
 - GAIA: 128 → 132pts (+4)
+
+### HN Signals（20:30 JST）
+
+#### AI関連
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 453pts | Servo is now available on crates.io | 146 |
+| 132pts | GAIA – Open-source AI agents on local hardware | 30 |
+| 111pts | Air Powered Segment Display [video] | 11 |
+| 87pts | Can Claude Fly a Plane? | 85 |
+| 86pts | MEMS Array Chip Can Project Video | 41 |
+| 76pts | N-Day-Bench (LLM security vulnerabilities) | 24 |
+| 66pts | Introspective Diffusion Language Models | 15 |
+| 43pts | Multi-Agentic Software Development Is a Distributed Systems Problem | 15 |
+
+#### 全体トップ
+
+| スコア | タイトル | コメント |
+|--------|---------|---------|
+| 986pts | Someone bought 30 WordPress plugins and planted a backdoor in all of them | 274 |
+| 736pts | GitHub Stacked PRs | 393 |
+| 648pts | DaVinci Resolve – Photo | 161 |
+| 411pts | A new spam policy for "back button hijacking" | 242 |
+| 274pts | Lean proved this program correct; then I found a bug | 131 |
+| 227pts | Backblaze has stopped backing up your data | 144 |
+
+### 重要シグナル（20:30）
+
+1. **WordPress backdoor（986pts, 274コメント）**: 959→986pts（+27）。Top 1を堅持。1000pts迫る。サプライチェーン攻撃の代表事例として拡散続く
+2. **GitHub Stacked PRs（736pts, 393コメント）**: 719→736pts（+17）。コメント393件は本日最多。開発者ワークフローへの高関心
+3. **Backblaze問題（227pts, 144コメント）**: 新規登場。バックアップサービス停止問題。データ信頼性・クラウドサービス依存リスクへの警戒
+4. **GAIA（132pts）**: 19:30から変化なし。安定した関心
+5. **Can Claude Fly a Plane?（87pts, 85コメント）**: コメント対スコア比が引き続き高い。Claude/AIの実用限界への技術者の興味が続く
+
+### スコア更新まとめ（19:30→20:30）
+
+- WordPress backdoor: 959 → 986pts (+27) ★Top 1継続・1000pts迫る
+- GitHub Stacked PRs: 719 → 736pts (+17) ★コメント393件
+- Backblaze has stopped backing up your data: 新規 227pts ★注目
+- DaVinci Resolve – Photo: 593 → 648pts (+55)
+- A new spam policy: 372 → 411pts (+39)
