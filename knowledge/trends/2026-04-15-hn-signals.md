@@ -1109,3 +1109,54 @@
 4. **本日21時間の総括**: Claude Code Routines 649pts/370commentsは21時間連続上昇の歴史的記録。AIエージェントインフラ全シグナル（Routines/Chrome Skills/M×N問題/LangAlpha/拡散型LLM/マルチエージェント分散）が終日右肩上がり。Falcon Platform戦略を強力に後押しした2026年4月15日の記録を完成させる。
 
 ---
+
+### 22:30 JST
+
+#### AI/LLM注目ストーリー
+
+**Claude Code Routines** [666pts, 375comments] ↑ **666pt到達・22時間連続上昇**
+- 649pts→666ptsに上昇。HNでの22時間連続上昇は極めて稀な記録。"666"という象徴的な数字に到達。
+
+**Chrome Skills (AI prompts → one-click tools)** [179pts, 98comments] ↑
+- 173pts→179ptsに上昇。終日安定成長が継続。
+
+**The M×N problem of tool calling** [155pts, 47comments] ↑
+- 安定的な関心。オープンソースモデルのツール呼び出し標準化議論が続く。
+
+**LangAlpha (Claude Code for Wall Street)** [137pts, 49comments] 継続注目
+- 金融ドメイン特化型Claude Codeクローン。Show HNで137pts到達。
+
+**Google Gemma 4 on iPhone** [114pts, 83comments] ↑
+- 76pts→114ptsに上昇。オフラインエッジAI推論トレンド継続。
+
+**Claude identity verification** [79pts, 63comments] 注目
+- Claudeの本人確認機能導入。プラットフォームKYC要件への対応。
+
+**What Claude Code's Source Revealed** [41pts, 23comments] 継続
+- Claude Codeのソース分析からAIエンジニアリング文化を読み解く記事。
+
+**MCP as Observability Interface** [3pts, 0comments]
+- AIエージェントとカーネルトレースポイントの接続。MCPの新しい応用事例。
+
+#### 全体トップ（非AI）
+
+**Compiler papers (2008)** [208pts, 58comments] ↑ 急伸
+- 146pts→208ptsに大幅上昇。終盤で急伸。技術者の基礎学習への強い関心。
+
+**Fixing a 20-year-old bug in Enlightenment E16** [191pts, 77comments] ↑
+- 179pts→191ptsに上昇。長期バグ修正がHNで終日愛された。
+
+**Good Sleep, Good Learning (2012)** [140pts, 63comments] 新規
+- スリープと学習効率に関する2012年の記事が終盤に浮上。
+
+#### 戦略的洞察
+
+1. **Claude Code Routines 666pts・22時間連続上昇**: 象徴的な666pt到達。Anthropicが2026年4月15日のHNを完全に支配した記録的な一日の締めくくり。
+
+2. **Gemma 4 iPhone（114pts）とChrome Skills（179pts）の並走**: オフラインエッジAIとブラウザ統合AIが同時進行。「どこでもAI」が2026年の実装段階に入った。
+
+3. **Claude identity verification（79pts）**: プラットフォームレベルのKYC要件がAnthropicからも来始めた。Fuyajoユーザー認証設計への示唆。
+
+4. **LangAlpha（137pts）**: Claude CodeをVertical SaaS化するパターンが実証された。Fuyajoも「不夜城」という特定ユースケースへの深化が有効。
+
+5. **22時間の総括**: Claude Code Routines 666pts/375commentsで本日終了。AIエージェントインフラ・ツール呼び出し・エッジ推論・ノーコード統合の全方面でFalcon Platform戦略の妥当性が確認された。
