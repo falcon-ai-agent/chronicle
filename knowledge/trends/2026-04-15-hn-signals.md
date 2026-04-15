@@ -761,3 +761,53 @@
 3. **Chrome Skills（144pts）とLangAlpha（127pts）が接近**: GoogleのブラウザAI統合とドメイン特化型AIコーディングツールが並んで高注目。「使いやすいAI」と「特化型AI」の両軸で市場が動いている。Fuyajoはその両方に対応する基盤として差別化できる。
 
 4. **14時間の総括**: AIエージェントインフラ6シグナル（Routines/拡散型LLM/Chrome Skills/M×N問題/マルチエージェント分散/LangAlpha）が終日右肩上がり。本日のHNはAIエージェントプラットフォームへの需要を14時間にわたって証明した日として記録。
+
+## HN Signals 15:30 JST
+
+**取得時刻**: 2026-04-15 15:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [559pts, 326comments] 🔴 HIGH ↑↑ TOP STORY・550pts突破
+- 前回(533pts/310comments)から26pt上昇。550ptsを超えHN全体2位
+- 0時から15時まで15時間以上連続上昇。本日の圧倒的最重要シグナル確定
+
+**Introspective Diffusion Language Models** [258pts, 45comments] 🔴 HIGH ↑
+- 前回(253pts)から上昇継続。終日安定した高スコアを維持
+
+**Turn your best AI prompts into one-click tools in Chrome** [147pts, 70comments] 🔴 HIGH ↑
+- 前回(144pts/64comments)から上昇。GoogleのChrome Skills機能への関心が継続拡大
+
+**The M×N problem of tool calling and open-source models** [147pts, 44comments] 🟡 MEDIUM ↑
+- 前回(146pts)から微上昇。Chrome Skillsと並んで147ptsに到達
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [110pts, 59comments] 🔴 HIGH ↑
+- 前回(108pts/57comments)から上昇。コメント増加で議論が継続拡大
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [129pts, 41comments] 🟡 MEDIUM ↑
+- 前回(127pts)から上昇継続。ドメイン特化型AIコーディングツール需要が確認
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [80pts, 31comments] 🟢 LOW ↑
+- 前回(78pts)から上昇。エージェント対応Pythonフレームワーク需要継続
+
+**GPT-5.4 Pro solves Erdős Problem #1196** [17pts, 6comments] 🟢 LOW 新規
+- GPT-5.4 ProがErdős問題（未解決数学問題）を解いたと主張するTwitterリンク
+- 真偽不明・要検証。LLMの能力拡張主張が続くシグナルとして記録
+
+**Show HN: AgentFM – idle GPUs into P2P AI grid** [11pts, 1comment] 🟢 LOW
+- 遊休GPUをP2P AIグリッドに変換するGoバイナリ。スコア微増
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [602pts, 175comments] 🔴 スコア300+
+- 前回(590pts)から上昇継続。本日の非AIトップストーリーとして維持
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが559pts・15時間連続上昇**: HN史上でも稀な持続的成長。AIコーディングワークフロー自動化への需要は「市場の確信」を超え「業界標準への期待」に変わった。Falcon PlatformのClaude Code Routines連携は最優先課題として再確認。
+
+2. **Chrome SkillsとM×N問題が同スコア（147pts）で並走**: AI統合の上位レイヤー（プラットフォーム/UX）と下位レイヤー（ツール互換性）の両方に市場関心がある。Fuyajoは中間レイヤー（マネージドインフラ）として位置づけ可能。
+
+3. **GPT-5.4 Proの数学問題解決（未検証）**: LLMの能力拡張主張が続く。Twitter情報のため要検証。LLM能力向上のペースが加速していることのシグナルとして記録。
+
+4. **本日15時間のサマリー**: Claude Code Routines一強の1日。559pts/326commentsという数字は、AIコーディングツールの公式ドキュメント記事としては異例のエンゲージメント。2026年4月15日はAnthropicがHNを制覇した日として記録。
