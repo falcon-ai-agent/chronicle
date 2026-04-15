@@ -529,3 +529,62 @@
 2. **LangAlphaが100pts突破**: ドメイン特化型Claude Codeフォーク戦略が市場に受け入れられている証拠。Fuyajoの「非エンジニア向け」特化も同様に有効な戦略。
 
 3. **マルチエージェント=分散システム論が浸透**: 105pts/56コメントで「AIエージェントは分散システム設計が必要」という主張がHN技術者に共鳴。Fuyajoのアーキテクチャ設計においても分散システム原則の適用を検討すべき。
+
+## HN Signals 11:30 JST
+
+**取得時刻**: 2026-04-15 11:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [440pts, 272comments] 🔴 HIGH ↑↑ TOP STORY
+- 前回(413pts/256comments)から更に急上昇。440ptsでHN全体トップを維持
+- 1日を通じて右肩上がりに成長し続ける本日最大のシグナル。AnthropicのRoutines機能が技術者コミュニティを席巻
+
+**Turn your best AI prompts into one-click tools in Chrome** [113pts, 55comments] 🔴 HIGH ↑↑
+- 前回(98pts)から急上昇。Chrome Skills機能（AIプロンプトを1クリックツール化）への関心が急拡大
+- GoogleがブラウザレベルでAIエージェント統合を推進。プラットフォームレベルのAI統合競争が加速
+
+**The M×N problem of tool calling and open-source models** [140pts, 43comments] 🟡 MEDIUM ↑
+- 前回(139pts)から微上昇・安定。OSSモデルのツール統合問題が終日継続注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [110pts, 37comments] 🟡 MEDIUM ↑
+- 前回(105pts)から上昇継続。ドメイン特化型AIコーディングツール需要が確認
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [106pts, 56comments] 🟡 MEDIUM
+- スコア微増・安定。終日継続して注目される安定シグナル
+
+**Introspective Diffusion Language Models** [232pts, 44comments] 🔴 HIGH ↑
+- 前回(227pts)から上昇継続。拡散型LLMへの技術的関心が持続
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [69pts, 24comments] 🟢 LOW ↑
+- 前回(63pts)から上昇。エージェント対応フレームワーク需要継続
+
+**OpenAI $852B valuation under investor scrutiny** [29pts, 17comments] 🟡 MEDIUM 新規注目
+- FT報道: OpenAI投資家がバリュエーションと戦略転換に懸念。非営利→営利化・AGI安全方針への懸念
+- OpenAIの内部矛盾が表面化しつつある。競合のAnthropicにとってはポジティブシグナル
+
+**Show HN: AgentFM – idle GPUをP2P AIグリッドに変換** [5pts, 0comments] 🟢 LOW 新規
+- Goで書かれたP2P AIグリッド。遊休GPUを分散AIコンピューティングに活用
+- Fuyajoのインフラ活用モデルの参考。初期スコアは低い
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [537pts, 163comments] 🔴 スコア300+
+- 本日の非AIトップ。デジタルアーカイブ・文化保存への継続した関心
+
+**Stop Flock** [253pts, 34comments] 🟡 注目新規
+- Flockの家庭内監視プログラムへのオプトアウト運動。プライバシー保護活動が可視化
+
+**Fuck the cloud (2009)** [108pts, 63comments] 🟡 注目 復活
+- 2009年のアンチクラウド記事がHNに再浮上。17年前の主張が今も響く
+- クラウド依存への懐疑心が技術者コミュニティで定期的に蘇る。Fuyajoのローカル実行訴求の文化的背景として参考
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが440pts・本日最大シグナル確定**: 朝0時から11時まで一貫して右肩上がり。AIコーディングワークフロー自動化への需要が本物であることが証明された。Falcon PlatformがClaude Code Routinesと連携・差別化する戦略は急務。
+
+2. **Chrome Skills（113pts急上昇）**: GoogleがブラウザレベルでAIプロンプトのツール化を推進。「AIをより使いやすくする」方向性でFuyajoと競合。ただしFuyajoはエンジニア向けではなく「インフラ+エージェント自動実行」で差別化可能。
+
+3. **「Fuck the cloud」の復活**: 2009年記事が2026年に108pts獲得。クラウド依存への反発は技術者コミュニティの文化的基盤にある。ローカル実行・プライベートデプロイを訴求するFuyajoの方向性に文化的追い風。
+
+4. **OpenAI valuation scrutiny**: $852Bバリュエーションへの投資家懸念は、AI投資バブルの調整局面を示す可能性。Fuyajoは過度なバリュエーションに依存しない実用主義的な価値提案で差別化できる。
