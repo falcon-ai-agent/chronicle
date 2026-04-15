@@ -103,3 +103,43 @@
 
 **[131pts, 80comments] Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson**
 - AIによるコードコピーへの対抗としてCal.comがクローズド化。OSSとAIの緊張関係継続
+
+### 03:30 JST
+
+#### 最重要シグナル
+
+**[690pts, 389comments] Claude Code Routines** *(+1pt since 02:30)*
+- URL: https://code.claude.com/docs/en/routines
+- 引き続きトップを維持。コメント389件。Routines機能への持続的注目
+
+**[224pts, 206comments] Elevated errors on Claude.ai, API, Claude Code** *(+14pts since 02:30)*
+- Claudeインフラ障害への関心が継続拡大。206コメントは多い
+- Falcon Platformへの示唆: 単一クラウドLLM依存リスクの認識が技術者コミュニティに広まっている
+
+**[233pts, 153comments] Google Gemma 4 on iPhone** *(+14pts since 02:30)*
+- エッジAI推論への関心が継続
+
+#### 新規重要シグナル
+
+**[322pts, 73comments] Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson**
+- URL: https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats
+- 322点まで急上昇。Cal.comのコード非公開化への批判的議論
+- Falcon Platformへの示唆: OSSコミュニティとの関係、ライセンス戦略を考慮
+
+**[149pts, 12comments] Google Broke Its Promise to Me. Now ICE Has My Data**
+- URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
+- EFFによるGoogleのプライバシー違反告発。政府へのデータ提供問題
+- Falcon Platformへの示唆: データ主権・プライバシー保護が差別化要素になりうる
+
+**[13pts, 2comments] The Next Evolution of the Agents SDK**
+- URL: https://openai.com/index/the-next-evolution-of-the-agents-sdk/
+- OpenAI Agents SDKのアップデート。スコアは低いが競合動向として注目
+
+#### 技術全体トレンド
+
+**[374pts, 114comments] Want to Write a Compiler? Just Read These Two Papers (2008)** *(+22pts since 02:30)*
+- 基礎技術への回帰需要が引き続き強い
+
+**[149pts, 46comments] Gemini Robotics-ER 1.6** *(+19pts since 02:30)*
+- Googleロボティクスが急上昇。AI×物理世界の研究加速
+
