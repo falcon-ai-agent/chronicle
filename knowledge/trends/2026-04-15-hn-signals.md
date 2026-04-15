@@ -811,3 +811,54 @@
 3. **GPT-5.4 Proの数学問題解決（未検証）**: LLMの能力拡張主張が続く。Twitter情報のため要検証。LLM能力向上のペースが加速していることのシグナルとして記録。
 
 4. **本日15時間のサマリー**: Claude Code Routines一強の1日。559pts/326commentsという数字は、AIコーディングツールの公式ドキュメント記事としては異例のエンゲージメント。2026年4月15日はAnthropicがHNを制覇した日として記録。
+
+## HN Signals 16:30 JST
+
+**取得時刻**: 2026-04-15 16:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [577pts, 339comments] 🔴 HIGH ↑↑ TOP STORY・577pts到達
+- 前回(559pts/326comments)から18pt上昇。HN全体TOP STORY（1位または2位）を維持
+- 0時から16時まで16時間以上連続上昇。本日の圧倒的最重要シグナル。終日一貫してHN技術者の最大関心事
+- URL: https://code.claude.com/docs/en/routines
+
+**Introspective Diffusion Language Models** [262pts, 45comments] 🔴 HIGH ↑
+- 前回(258pts)から上昇継続。終日安定した高スコアを維持
+
+**Turn your best AI prompts into one-click tools in Chrome** [152pts, 77comments] 🔴 HIGH ↑
+- 前回(147pts/70comments)からスコア・コメント両方上昇。GoogleのChrome Skills機能への関心が継続拡大
+
+**The M×N problem of tool calling and open-source models** [148pts, 44comments] 🟡 MEDIUM ↑
+- 前回(147pts)から微上昇。Chrome Skillsと並走。OSSモデルのツール統合問題が終日注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [130pts, 42comments] 🟡 MEDIUM ↑
+- 前回(129pts)から上昇継続。ドメイン特化型AIコーディングツール需要が確認
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [84pts, 36comments] 🟡 MEDIUM ↑
+- 前回(80pts/31comments)からスコア・コメント両方上昇。エージェント対応フレームワーク需要継続
+
+**GPT-5.4 Pro solves Erdős Problem #1196** [22pts, 9comments] 🟢 LOW ↑
+- 前回(17pts/6comments)から上昇。LLM数学問題解決の主張に対する関心が継続（要検証）
+
+**Show HN: AgentFM – idle GPUs into P2P AI grid** [12pts, 1comment] 🟢 LOW ↑
+- 前回(11pts)から微上昇。遊休GPU活用P2P AIグリッド
+
+**The Death of an AI Whistleblower** [3pts, 0comments] 🟢 LOW 注目
+- OpenAI内部告発者Suchir Balajiに関するThe Nation記事。スコアは低いが内容的に重要
+- OpenAIの企業文化・内部矛盾に関するシグナル
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [623pts, 179comments] 🔴 スコア300+ ↑
+- 前回(602pts)から上昇継続。本日の非AIトップ。デジタルアーカイブへの強い関心
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが577pts・16時間連続上昇**: 終日一切の失速なし。本日のHNを完全制覇した歴史的なシグナル。AnthropicがClaude Code Routinesという機能で技術者コミュニティの最大関心事になった日。Falcon PlatformのClaude Code活用は戦略的最優先課題。
+
+2. **Chrome Skills（152pts）・M×N問題（148pts）・LangAlpha（130pts）が三つ巴**: AI統合UX（Google）・ツール標準化・ドメイン特化コーディングツールの3方向に市場が分散。Fuyajoはこれら全てのユースケースを包含するプラットフォームとして位置づけ可能。
+
+3. **OpenAI内部告発者報道**: The Nationの記事スコアは低いが、Suchir Balaji死亡に関する報道はOpenAIの企業倫理問題を示す。AnthropicへのHN技術者の信頼が相対的に高い背景要因。
+
+4. **本日16時間のサマリー確定**: Claude Code Routines 577pts/339comments は2026年4月15日HNの代表シグナル。16時間連続上昇は「話題」を超え「歴史的記録」。AIコーディングワークフロー自動化の需要は疑いようがなく、Falcon Platform戦略の方向性を強く後押しした1日。
