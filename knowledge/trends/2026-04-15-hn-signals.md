@@ -482,3 +482,50 @@
 2. **LangAlphaが97ptsで100pts目前**: ドメイン特化型Claude Codeフォークが市場から評価されつつある。Fuyajoの「非エンジニア向け特化」という方向性も同様のドメイン特化戦略として正当性を持つ。
 
 3. **全AIシグナルが終日上昇継続**: Routines/拡散型LLM/マルチエージェント分散/M×N問題/Kontext CLIが9時間以上右肩上がり。本日のHNはAIエージェントインフラデーと言える。
+
+## HN Signals 10:30 JST
+
+**取得時刻**: 2026-04-15 10:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [413pts, 256comments] 🔴 HIGH ↑ TOP STORY
+- 前回(379pts)から更に上昇、本日のトップストーリーに到達。256コメントで議論も活発
+- Claude Codeのワークフロー自動化機能。HN技術者コミュニティの最大関心事として定着
+
+**Introspective Diffusion Language Models** [227pts, 43comments] 🔴 HIGH
+- 前回(191pts)から上昇継続。拡散型LLMに対する技術的関心が持続
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [105pts, 56comments] 🟡 MEDIUM ↑
+- 前回(98pts)から上昇。「マルチエージェント＝分散システム問題」という視点がHN技術者に響いている
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [105pts, 36comments] 🟡 MEDIUM ↑
+- 100pts突破達成(前回97pts)。ドメイン特化型AIコーディングツールの市場ニーズが確認
+
+**The M×N problem of tool calling and open-source models** [139pts, 42comments] 🟡 MEDIUM ↑
+- 前回(128pts)から上昇継続。139ptsに達し重要シグナルとして定着
+
+**Turn your best AI prompts into one-click tools in Chrome** [98pts, 53comments] 🟡 MEDIUM ↑
+- 前回(89pts)から上昇。GoogleのChrome Skills機能への関心拡大中
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [70pts, 27comments] 🟡 MEDIUM ↑
+- 前回(68pts)から微上昇。AIエージェント認証管理の継続的関心
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [63pts, 23comments] 🟢 LOW ↑
+- 前回(56pts)から上昇。エージェント対応フレームワーク需要継続
+
+**Show HN: Kelet – Root Cause Analysis agent for LLM apps** [39pts, 19comments] 🟢 LOW
+- 安定維持
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [517pts, 154comments] 🔴 スコア300+
+- 朝から更に上昇。本日のTop非AIストーリー継続
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが413pts・TOP STORY到達**: HN全体のトップになった。AIコーディングツールのワークフロー自動化機能が技術者コミュニティの最大関心事として確定。256コメントの議論の深さも注目。
+
+2. **LangAlphaが100pts突破**: ドメイン特化型Claude Codeフォーク戦略が市場に受け入れられている証拠。Fuyajoの「非エンジニア向け」特化も同様に有効な戦略。
+
+3. **マルチエージェント=分散システム論が浸透**: 105pts/56コメントで「AIエージェントは分散システム設計が必要」という主張がHN技術者に共鳴。Fuyajoのアーキテクチャ設計においても分散システム原則の適用を検討すべき。
