@@ -588,3 +588,61 @@
 3. **「Fuck the cloud」の復活**: 2009年記事が2026年に108pts獲得。クラウド依存への反発は技術者コミュニティの文化的基盤にある。ローカル実行・プライベートデプロイを訴求するFuyajoの方向性に文化的追い風。
 
 4. **OpenAI valuation scrutiny**: $852Bバリュエーションへの投資家懸念は、AI投資バブルの調整局面を示す可能性。Fuyajoは過度なバリュエーションに依存しない実用主義的な価値提案で差別化できる。
+
+## HN Signals 12:30 JST
+
+**取得時刻**: 2026-04-15 12:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [474pts, 282comments] 🔴 HIGH ↑↑ TOP STORY
+- 前回(440pts/272comments)から更に上昇。474ptsでHN全体トップを維持
+- 終日上昇が止まらない本日最大のシグナル。AnthropicのRoutines機能が技術者コミュニティを席巻し続ける
+
+**Introspective Diffusion Language Models** [237pts, 45comments] 🔴 HIGH ↑
+- 前回(232pts)から上昇継続。拡散型LLMへの技術的関心が持続
+
+**Turn your best AI prompts into one-click tools in Chrome** [121pts, 55comments] 🔴 HIGH ↑
+- 前回(113pts)から上昇。GoogleのChrome Skills機能への関心が継続拡大
+- プラットフォームレベルのAI統合競争が加速
+
+**The M×N problem of tool calling and open-source models** [141pts, 43comments] 🟡 MEDIUM ↑
+- 前回(140pts)から微上昇・安定。OSSモデルのツール統合問題が終日注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [114pts, 38comments] 🟡 MEDIUM ↑
+- 前回(110pts)から上昇継続。ドメイン特化型AIコーディングツール需要確認
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [108pts, 56comments] 🟡 MEDIUM ↑
+- 前回(106pts)から微上昇。終日安定したシグナルとして継続
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [71pts, 25comments] 🟢 LOW ↑
+- 前回(69pts)から上昇。エージェント対応フレームワーク需要継続
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [70pts, 27comments] 🟡 MEDIUM
+- スコア横ばい・安定。AIエージェント認証管理への継続的関心
+
+**OpenAI $852B valuation faces investor scrutiny** [67pts, 55comments] 🟡 MEDIUM ↑
+- 前回(29pts)から急上昇。コメント数が55に達し議論が活発化
+- OpenAI内部矛盾（非営利→営利化・AGI安全方針）への懸念が拡大中
+
+**Show HN: AgentFM – Go binary for P2P AI grid** [6pts, 0comments] 🟢 LOW
+- 初期段階。遊休GPUをP2P AIグリッドに変換するGoバイナリ
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [556pts, 166comments] 🔴 スコア300+
+- 本日の非AIトップ。デジタルアーカイブ・文化保存への関心が更に拡大
+
+**Stop Flock** [424pts, 92comments] 🔴 スコア300+↑↑ 急騰
+- 前回(253pts/34comments)から急上昇。プライバシー保護運動が一気に拡散
+- コメント数2.7倍増加はHN投票スプレッド効果。プライバシー議論が白熱中
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが474pts・本日最終盤でもトップを維持**: 0時から12時まで12時間以上にわたり右肩上がり。HN史上でも稀な持続的上昇。AIコーディングワークフロー自動化の需要は証明済み。Falcon PlatformのClaude Code連携は最優先。
+
+2. **OpenAI valuation scrutinyが急上昇(29→67pts)**: 昼時間帯に技術者が読み始め議論が活発化。AI投資バブル調整への懸念が具体化しつつある。Fuyajoの実用主義的価値提案（固定価格・実用特化）が相対的に有利になる環境。
+
+3. **Stop Flockの急騰(253→424pts)**: プライバシー保護運動がHNで爆発的に拡散。個人情報保護・データ主権への技術者の怒りが可視化。Fuyajoのローカル実行・データ所有権訴求は文化的追い風が強まっている。
+
+4. **AIインフラ全シグナルが終日上昇継続**: 12時間通じてRoutines/拡散型LLM/Chrome Skills/M×N問題/マルチエージェント分散が一貫して上昇。本日はAIエージェントインフラへの需要を市場が証明した1日として記録。
