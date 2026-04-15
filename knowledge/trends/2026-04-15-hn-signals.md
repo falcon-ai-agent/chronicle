@@ -993,3 +993,61 @@
 2. **M×N問題**: ツールコーリングとOSSモデルの組み合わせ爆発問題。標準化の欠如が開発コストを押し上げる。Fuyajoでのエージェント基盤設計でMCP等の標準採用を検討すべき示唆
 
 3. **Chrome Skills（Googleのプロンプト→ツール化）**: プロンプトをワンクリックツール化するUXはFuyajoのノーコード戦略と完全一致。競合・参考両面で重要なプロダクト動向
+
+---
+
+## HN Signals 20:30 JST
+
+**取得時刻**: 2026-04-15 20:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [633pts, 364comments] 🔴 HIGH ↑↑ TOP STORY・630pts突破
+- 前回(619pts/358comments)から14pt上昇。633ptsに到達しHN全体トップを維持
+- 0時から20時まで20時間以上連続上昇。本日のHNを完全制覇した歴史的記録
+- URL: https://code.claude.com/docs/en/routines
+
+**Turn your best AI prompts into one-click tools in Chrome** [171pts, 85comments] 🔴 HIGH ↑
+- 前回(164pts/83comments)からスコア・コメント両方上昇。GoogleのChrome Skills機能への関心が終日拡大
+
+**The M×N problem of tool calling and open-source models** [151pts, 47comments] 🟡 MEDIUM ↑
+- 前回(150pts)から微上昇。OSSモデルのツール統合問題が終日注目を維持
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [135pts, 48comments] 🟡 MEDIUM ↑
+- 前回(133pts/45comments)から上昇継続。ドメイン特化型AIコーディングツール需要が確認
+
+**Claude may require identity verification in some cases** [56pts, 44comments] 🟡 MEDIUM 新規注目
+- AnthropicがClaudeの一部ユースケースで本人確認を要求する可能性
+- プラットフォームの利用規約・コンプライアンス強化の動き。Fuyajoでのユーザー管理設計に参考
+
+**My AI-Assisted Workflow** [59pts, 37comments] 🟢 LOW ↑
+- 前回(37pts)から大幅上昇。開発者のAI活用実践例として関心継続
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [86pts, 46comments] 🟡 MEDIUM ↑
+- 前回(86pts/45comments)からコメント微増。エージェント対応フレームワーク需要継続
+
+**Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference** [43pts, 32comments] 🟢 LOW ↑
+- iPhoneでGemma 4がフルオフライン推論。エッジAI・ローカル実行トレンド加速
+
+**What Claude Code's Source Revealed About AI Engineering Culture** [26pts, 17comments] 🟢 LOW ↑
+- 前回(11pts/7comments)から大幅上昇。Claude Code人気に合わせて分析記事への関心も増加
+
+#### トップシグナル（非AI・スコア300+）
+
+**Fixing a 20-year-old bug in Enlightenment E16** [162pts, 58comments]
+- レガシーコードの長期バグ修正事例。HN技術者の根強い人気
+
+**A communist Apple II and fourteen years of not knowing what you're testing** [183pts, 77comments] ↑
+- 177pts→183ptsに上昇。HNクラシック考古学として継続人気
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが633pts・20時間連続上昇**: 夜20時を過ぎても上昇が止まらない。終日をかけてHNの歴史に刻まれた1日。633pts/364commentsは2026年4月15日の最終記録となる可能性が高い。
+
+2. **Claude identity verification（新規）**: Anthropicが本人確認要件を追加する動き。セキュリティ・コンプライアンス強化の前触れか。Fuyajoのユーザー認証設計において、本人確認フローの検討が必要になる可能性。
+
+3. **Chrome Skills（171pts）が終日上昇継続**: GoogleのAI操作UX簡略化機能が1日を通じて技術者の関心を集め続けた。Claude Code RoutinesとChrome Skillsという2つの「AIをより使いやすく」するアプローチが本日のHNを象徴。
+
+4. **本日20時間の最終総括**: Claude Code Routines 633pts/364commentsが本日最終値の候補。AIエージェントインフラ全シグナル（Routines/Chrome Skills/M×N問題/LangAlpha/拡散型LLM/マルチエージェント分散）が20時間右肩上がり。Falcon Platform戦略を強力に後押しした2026年4月15日を記録として残す。
+
+---
