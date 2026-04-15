@@ -143,3 +143,56 @@
 **[149pts, 46comments] Gemini Robotics-ER 1.6** *(+19pts since 02:30)*
 - Googleロボティクスが急上昇。AI×物理世界の研究加速
 
+
+### 04:30 JST
+
+#### 最重要シグナル
+
+**[691pts, 392comments] Claude Code Routines** 🔥
+- URL: https://code.claude.com/docs/en/routines
+- 本日最高スコア。Claude Codeの公式ドキュメント「Routines」機能が爆発的関心
+- Anthropic製品の進化が技術者コミュニティに強く響いている
+- Falcon Platformへの示唆: Claude Code連携・自動化ルーティン機能の需要が確認された
+
+**[231pts, 209comments] Elevated errors on Claude.ai, API, Claude Code** *(継続)*
+- URL: https://claudestatus.com/
+- 障害への議論が継続。コメント数増加（159→209）
+- 信頼性・可用性への関心が高い。SLA担保が差別化要素
+
+#### 重要シグナル
+
+**[244pts, 159comments] Google Gemma 4 Runs Natively on iPhone**
+- URL: https://www.gizmoweek.com/gemma-4-runs-iphone/
+- オンデバイスAI推論がスマホレベルに到達。エッジAI普及加速
+- サーバーサイドAI vs エッジAIの競争軸が明確化
+
+**[187pts, 104comments] Turn your best AI prompts into one-click tools in Chrome**
+- URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
+- Googleがブラウザレベルでプロンプト→ツール化機能を実装
+- Falcon Platformへの示唆: ノーコード・ローコードUI需要の証拠
+
+**[126pts, 76comments] AI ruling prompts warnings from US lawyers: Your chats could be used against you**
+- URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/
+- AI会話の法的証拠性問題。プライバシー・データ主権への懸念が拡大
+
+**[112pts, 56comments] AI-Assisted Cognition Endangers Human Development**
+- URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/
+- AI依存による人間の認知発達リスクへの批判的議論
+
+#### 技術全体トレンド
+
+**[400pts, 157comments] Google Broke Its Promise to Me. Now ICE Has My Data** *(急上昇)*
+- EFFのGoogleプライバシー告発が400点まで急上昇（前回149pts）
+- データ主権・プライバシー問題への関心が急拡大
+
+**[234pts, 138comments] Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson**
+- Cal.com非公開化批判が継続。OSSコミュニティの反発
+
+**[300pts, 139comments] Good Sleep, Good Learning (2012)** *(+291pts)*
+- 基礎的な健康・学習論文が急上昇。技術者の燃え尽き症候群への関心か
+
+#### Falcon Platform戦略への示唆
+
+- **Claude Code Routines 691pts**: Anthropicのエコシステム拡充が技術者を強く引き付けている。Claude連携機能はFalyon Platformの価値向上に直結
+- **プライバシー不安の高まり**: Googleデータ問題・AI法的証拠性問題で「自分のデータを守りたい」需要増。オンプレ/プライベート実行の差別化ポイントに
+- **エッジAI普及**: Gemma 4がiPhoneで動作。クラウド集中モデルの見直し期か
