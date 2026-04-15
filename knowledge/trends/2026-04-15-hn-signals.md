@@ -434,3 +434,51 @@
 2. **本日の総合トレンド確定**: AIエージェント関連5シグナル（Routines/拡散型LLM/マルチエージェント分散/ツール呼び出しM×N/認証管理）が終日右肩上がり。AIエージェントインフラへの投資は市場が認める正しい方向性。
 
 3. **ClawRunとの競合を意識**: "Deploy AI agents in seconds"はFuyajoのポジションと重なる。スコアは低いが同一カテゴリで複数プレイヤーが参入中。差別化点（非エンジニア向け/固定価格/日本語対応）の訴求が重要。
+
+---
+
+## HN Signals 09:30 JST
+
+### 注目シグナル
+
+**Claude Code Routines** [379pts, 238comments] 🔴 HIGH ↑↑HN全体トップ・本日最高値更新
+- 08:30(344pts/214comments)から急上昇。379ptsでHN全体1位を継続維持
+- 朝9時台でも上昇が止まらない。AnthropicのClaude Code Routines機能が本日を通じてHN最大のシグナルに成長
+- URL: https://code.claude.com/docs/en/routines
+
+**Introspective Diffusion Language Models** [221pts, 42comments] 🔴 HIGH ↑
+- 継続上昇(218→221pts)。終日安定した高スコアを維持
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [102pts, 54comments] 🔴 HIGH
+- スコア横ばい・コメント安定。終日継続して注目される安定したシグナル
+
+**The M×N problem of tool calling and open-source models** [128pts, 42comments] 🟡 MEDIUM ↑
+- 継続上昇(125→128pts)。OSSモデルのツール統合問題が終日注目
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [97pts, 34comments] 🟡 MEDIUM ↑
+- 継続上昇(90→97pts)。100pts到達目前。ドメイン特化型AIコーディングツール需要が確認
+
+**Turn your best AI prompts into one-click tools in Chrome** [89pts, 43comments] 🟡 MEDIUM ↑
+- 上昇継続(73→89pts)。GoogleのChrome Skills機能への関心が拡大
+
+**Show HN: Kontext CLI – Credential broker for AI coding agents** [68pts, 27comments] 🟡 MEDIUM ↑
+- 上昇継続(60→68pts)。AIエージェント認証管理への関心が拡大
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [56pts, 22comments] 🟢 LOW ↑
+- 上昇継続(48→56pts)。エージェント対応フレームワーク市場が成長中
+
+**Show HN: Kelet – Root Cause Analysis agent for LLM apps** [39pts, 19comments] 🟢 LOW
+- 安定維持。LLMアプリのオブザーバビリティ市場
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [501pts, 150comments] 🔴 スコア300+
+- 本日最高スコア更新。デジタルアーカイブ・文化保存への継続した関心
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが379ptsに到達**: 朝09:30時点でもスコアが伸び続けている。本日最大のシグナルは確定。AIコーディングツールのワークフロー自動化機能（Routines）がHN技術者コミュニティ最大の関心事となった日。
+
+2. **LangAlphaが97ptsで100pts目前**: ドメイン特化型Claude Codeフォークが市場から評価されつつある。Fuyajoの「非エンジニア向け特化」という方向性も同様のドメイン特化戦略として正当性を持つ。
+
+3. **全AIシグナルが終日上昇継続**: Routines/拡散型LLM/マルチエージェント分散/M×N問題/Kontext CLIが9時間以上右肩上がり。本日のHNはAIエージェントインフラデーと言える。
