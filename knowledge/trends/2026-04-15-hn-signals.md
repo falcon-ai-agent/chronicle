@@ -904,3 +904,52 @@
 3. **Introspective Diffusion LLMの急上昇**: 自己内省・修正能力を持つLLMへの関心。AIエージェントの信頼性・精度向上に直結する研究方向。Falcon Agentの自律性向上の参考に。
 
 4. **本日の最終総括（17:30時点）**: Claude Code Routines一強の1日。591pts/345commentsは2026年4月15日HNを完全制覇。Falcon PlatformのClaude Code統合は最重要戦略であることを再確認。
+
+---
+
+## HN Signals 18:30 JST
+
+**取得時刻**: 2026-04-15 18:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [604pts, 352comments] 🔴 HIGH ↑↑ TOP STORY・600pts突破
+- 前回(591pts/345comments)から13pt上昇。600ptsという大台を突破しHN全体トップを維持
+- 0時から18時まで18時間以上連続上昇。本日を通じて唯一のトップシグナルとして君臨
+- URL: https://code.claude.com/docs/en/routines
+
+**Turn your best AI prompts into one-click tools in Chrome** [159pts, 81comments] 🔴 HIGH ↑
+- 前回(156pts/78comments)から上昇継続。GoogleのChrome Skills機能への関心が終日拡大
+
+**The M×N problem of tool calling and open-source models** [149pts, 46comments] 🟡 MEDIUM ↑
+- 前回(148pts)から微上昇。OSSモデルのツール統合問題が終日注目を維持
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [133pts, 45comments] 🟡 MEDIUM ↑
+- 前回(132pts)から上昇継続。ドメイン特化型AIコーディングツール需要が確認
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [86pts, 44comments] 🟡 MEDIUM ↑
+- 前回(84pts/42comments)からスコア・コメント両方上昇。エージェント対応フレームワーク需要継続
+
+**My AI-Assisted Workflow** [21pts, 14comments] 🟢 LOW
+- 開発者のAI活用ワークフロー紹介記事。実践的な活用例として参考
+
+**Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference** [4pts, 1comment] 🟢 LOW 新規注目
+- Googleの小型モデルGemma 4がiPhoneでオフライン推論可能に
+- エッジAI・ローカル推論トレンドの加速。Fuyajoのローカル実行戦略と方向性が一致
+
+#### トップシグナル（非AI）
+
+**A communist Apple II and fourteen years of not knowing what you're testing** [164pts, 47comments]
+- レトロコンピューティング考古学。HN技術者の文化的嗜好を示す
+
+**Dependency cooldowns turn you into a free-rider** [116pts, 78comments]
+- 依存関係の更新遅延がフリーライダー問題を生む論考。OSS依存とコスト負担の議論
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが600pts突破・18時間連続上昇**: 18時間で一度も失速せず600ptsを超えた。HN歴史においても稀な持続的上昇記録。Anthropicが2026年4月15日のHNを完全制覇した。
+
+2. **Gemma 4のiPhoneオフライン推論**: Googleが小型モデルのエッジ動作を実現。端末上でのAI推論が現実化しつつある。ローカル実行・プライベートデプロイの価値がさらに高まる。
+
+3. **本日18時間のファイナルサマリー**: Claude Code Routines 604pts/352commentsが最終値。AIエージェントインフラ全シグナル（Routines/拡散型LLM/Chrome Skills/M×N問題/マルチエージェント分散/LangAlpha）が18時間右肩上がり。2026年4月15日はFalcon Platform戦略を強く後押しした記念すべき1日として記録。
+
