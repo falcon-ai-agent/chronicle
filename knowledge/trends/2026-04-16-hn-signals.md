@@ -66,3 +66,40 @@
 - **エッジAI**: iPhone上でのGemma 4オフライン推論。クラウドAIの民主化が加速
 - **AI法的リスク**: 弁護士特権なし判決。企業・個人のAI利用リスクが具体化
 - **AIバブル兆候**: 非テック企業のAIピボットが続く。技術者は懐疑的
+
+### 02:30 JST
+
+#### 最重要シグナル
+
+**[689pts, 386comments] Claude Code Routines** *(+2pts since 01:30)*
+- URL: https://code.claude.com/docs/en/routines
+- 引き続きトップ。コメントも増加中。Claude Codeエコシステムへの関心が持続
+
+**[210pts, 187comments] Elevated errors on Claude.ai, API, Claude Code** *(+24pts since 01:30)*
+- Claude障害が継続的に注目を集める。インフラ信頼性への技術者の関心の高さ
+- Falcon Platformへの示唆: 単一プロバイダー依存リスクを認識したユーザーへの訴求
+
+**[219pts, 135comments] Google Gemma 4 on iPhone** *(+18pts since 01:30)*
+- オフラインAI推論がさらに注目を集める。エッジAIトレンドの加速
+
+#### 新規重要シグナル
+
+**[130pts, 36comments] Gemini Robotics-ER 1.6**
+- URL: https://deepmind.google/blog/gemini-robotics-er-1-6/
+- Googleの新ロボティクスモデル。AI×物理世界統合の進展
+- Falcon Platformへの示唆: 直接的影響は限定的だが、AI能力の急速な拡張を示す
+
+**[97pts, 52comments] AI ruling: Your chats could be used against you** *(+22pts since 01:30)*
+- AI会話の法的証拠利用リスクが拡大中。弁護士コミュニティ以外にも波及
+
+#### 技術全体トレンド
+
+**[352pts, 107comments] Want to Write a Compiler? Just Read These Two Papers (2008)**
+- 前回より+26pts。基礎技術への回帰需要が本物。AI時代の「低レベル理解」価値の上昇
+
+**[169pts, 103comments] The Future of Everything Is Lies: New Jobs**
+- URL: https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs
+- AIが生み出す「嘘を管理する仕事」への皮肉的考察。技術者コミュニティのAI懐疑論
+
+**[131pts, 80comments] Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson**
+- AIによるコードコピーへの対抗としてCal.comがクローズド化。OSSとAIの緊張関係継続
