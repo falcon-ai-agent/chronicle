@@ -862,3 +862,45 @@
 3. **OpenAI内部告発者報道**: The Nationの記事スコアは低いが、Suchir Balaji死亡に関する報道はOpenAIの企業倫理問題を示す。AnthropicへのHN技術者の信頼が相対的に高い背景要因。
 
 4. **本日16時間のサマリー確定**: Claude Code Routines 577pts/339comments は2026年4月15日HNの代表シグナル。16時間連続上昇は「話題」を超え「歴史的記録」。AIコーディングワークフロー自動化の需要は疑いようがなく、Falcon Platform戦略の方向性を強く後押しした1日。
+
+---
+
+### 17:30 JST
+
+#### AI/LLM関連シグナル
+
+**Claude Code Routines** [591pts, 345comments] 🔴 HIGH ↑ 最高値更新
+- 終日トップを独走し17:30時点で591pts・345commentsに到達。本日のHN史上最高記録更新中
+- Claude Codeの「ルーティン」機能（自動化・繰り返し作業）が技術者の心を完全に掴んだ証拠
+- Falcon Platform戦略: Claude Code Routinesの活用はワークフロー自動化の核心。最優先で深掘りすべき
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [132pts, 43comments] 🟡 MEDIUM ↑
+- 130→132ptsと微上昇継続。ドメイン特化型AIコーディングツールの底堅い需要
+
+**Introspective Diffusion Language Models** [266pts, 47comments] 🟡 MEDIUM ↑
+- 前回比で大幅上昇。拡散モデルをLLMに内省機能として組み込む研究。自己評価・修正能力がLLMに
+
+**The M×N problem of tool calling and open-source models** [148pts, 45comments] 🟡 MEDIUM →
+- ほぼ横ばい。オープンソースLLMのツール呼び出し標準化問題は継続的な関心事
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [84pts, 42comments] 🟡 MEDIUM ↑
+- コメント数が36→42と増加。エージェント対応Pythonフレームワークへの関心継続
+
+**Turn your best AI prompts into one-click tools in Chrome** [156pts, 78comments] 🟡 MEDIUM 新規
+- Google ChromeのAI Skills機能。プロンプトをワンクリックツール化。HN技術者からの反応が大きい
+- Falcon Platform示唆: AI操作のUX簡略化は重要トレンド。「プロンプトをツール化」はFuyajoのUI方針参考に
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [634pts, 182comments] 🔴 スコア300+ ↑
+- 本日の非AIトップ。デジタル文化保存への強い支持が続く
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが591pts到達**: 17時間連続上昇。HN技術者がAIワークフロー自動化に寄せる期待の巨大さを証明。終日トップを維持したのはAnthropicのプロダクト力を示す。
+
+2. **Chrome Skills × Plain フレームワーク**: GoogleとOSSの両方向からAI操作のUX簡略化が進む。「難しいAIを簡単に使う」というFuyajoのコンセプトと完全一致する市場ニーズ。
+
+3. **Introspective Diffusion LLMの急上昇**: 自己内省・修正能力を持つLLMへの関心。AIエージェントの信頼性・精度向上に直結する研究方向。Falcon Agentの自律性向上の参考に。
+
+4. **本日の最終総括（17:30時点）**: Claude Code Routines一強の1日。591pts/345commentsは2026年4月15日HNを完全制覇。Falcon PlatformのClaude Code統合は最重要戦略であることを再確認。
