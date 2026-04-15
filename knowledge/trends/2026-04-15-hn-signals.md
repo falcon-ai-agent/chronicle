@@ -1051,3 +1051,61 @@
 4. **本日20時間の最終総括**: Claude Code Routines 633pts/364commentsが本日最終値の候補。AIエージェントインフラ全シグナル（Routines/Chrome Skills/M×N問題/LangAlpha/拡散型LLM/マルチエージェント分散）が20時間右肩上がり。Falcon Platform戦略を強力に後押しした2026年4月15日を記録として残す。
 
 ---
+
+## HN Signals 21:30 JST
+
+**取得時刻**: 2026-04-15 21:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [649pts, 370comments] 🔴 HIGH ↑↑ TOP STORY・649pts到達
+- 前回(633pts/364comments)から16pt上昇。649ptsに到達しHN全体トップ5入りを維持
+- 0時から21時まで21時間以上連続上昇。本日のHNを完全制覇した歴史的記録が継続中
+- URL: https://code.claude.com/docs/en/routines
+
+**Turn your best AI prompts into one-click tools in Chrome** [173pts, 91comments] 🔴 HIGH ↑
+- 前回(171pts/85comments)からスコア・コメント両方上昇。GoogleのChrome Skills機能への関心が終日拡大
+
+**The M×N problem of tool calling and open-source models** [152pts, 47comments] 🟡 MEDIUM ↑
+- 前回(151pts)から微上昇。OSSモデルのツール統合問題が終日注目を維持
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [135pts, 49comments] 🟡 MEDIUM ↑
+- 前回(135pts/48comments)からコメント微増。ドメイン特化型AIコーディングツール需要が確認
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [87pts, 48comments] 🟡 MEDIUM ↑
+- 前回(86pts/46comments)からスコア・コメント両方上昇。エージェント対応フレームワーク需要継続
+
+**Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference** [76pts, 56comments] 🟡 MEDIUM ↑↑
+- 前回(43pts/32comments)から大幅上昇。Gemma 4のiPhoneオフライン推論がHN技術者に注目
+
+**My AI-Assisted Workflow** [69pts, 56comments] 🟢 LOW ↑
+- 前回(59pts/37comments)から上昇。開発者のAI活用実践例として関心継続
+
+**Claude may require identity verification in some cases** [65pts, 55comments] 🟡 MEDIUM ↑
+- 前回(56pts/44comments)から上昇。AnthropicのClaude本人確認要件追加への関心増加
+
+**What Claude Code's Source Revealed About AI Engineering Culture** [30pts, 18comments] 🟢 LOW ↑
+- 前回(26pts/17comments)から上昇。Claude Code人気に合わせて分析記事への関心増加
+
+#### トップシグナル（非AI）
+
+**A communist Apple II and fourteen years of not knowing what you're testing** [192pts, 81comments] ↑
+- 183pts→192ptsに上昇。HNクラシック考古学として終日人気継続
+
+**Fixing a 20-year-old bug in Enlightenment E16** [179pts, 67comments] ↑
+- 162pts→179ptsに上昇。レガシーコードの長期バグ修正事例
+
+**Want to Write a Compiler? Just Read These Two Papers (2008)** [146pts, 48comments] 新規注目
+- コンパイラ入門として定番の2本の論文紹介。技術者の基礎学習への関心
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが649pts・21時間連続上昇**: 夜21:30でも上昇が止まらない。本日のHNにおける前例のない持続的上昇記録。650pts突破まであと1pt。Anthropicの2026年4月15日HN完全制覇は確定。
+
+2. **Gemma 4 iPhoneオフライン推論の急上昇（43→76pts）**: Googleの小型モデルがiPhoneでオフライン動作。エッジAI・ローカル推論トレンドがさらに加速。Fuyajoのローカル実行戦略の市場妥当性を裏付ける。
+
+3. **Chrome Skills（173pts）が終日安定上昇**: AIプロンプトのワンクリックツール化という「使いやすさ」への需要が21時間持続。ノーコード・ローコードAI活用がFuyajoの核心価値と一致。
+
+4. **本日21時間の総括**: Claude Code Routines 649pts/370commentsは21時間連続上昇の歴史的記録。AIエージェントインフラ全シグナル（Routines/Chrome Skills/M×N問題/LangAlpha/拡散型LLM/マルチエージェント分散）が終日右肩上がり。Falcon Platform戦略を強力に後押しした2026年4月15日の記録を完成させる。
+
+---
