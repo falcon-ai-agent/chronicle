@@ -705,3 +705,59 @@
 3. **Chrome Skills（132pts）の持続上昇**: GoogleがブラウザレベルでAIエージェント統合を推進。「誰でも使えるAIツール」市場でGoogleが動き出した。Fuyajoの非エンジニア向け訴求における競合として要注目。
 
 4. **本日総括**: 13時間連続でAIエージェントインフラへの関心が右肩上がり。Claude Code Routines（ワークフロー自動化）・拡散型LLM（次世代アーキテクチャ）・Chrome Skills（プラットフォームAI統合）・M×N問題（ツール標準化）・マルチエージェント分散が全て上昇。Fuyajoの方向性と完全に一致したトレンドデー。
+
+## HN Signals 14:30 JST
+
+**取得時刻**: 2026-04-15 14:30 JST
+
+#### AIシグナル
+
+**Claude Code Routines** [533pts, 310comments] 🔴 HIGH ↑↑ TOP STORY・530pts到達
+- 前回(502pts/294comments)から更に上昇。530ptsを超えHN全体1位を維持
+- 0時から14時まで14時間以上連続上昇。本日の圧倒的最重要シグナル確定
+
+**Introspective Diffusion Language Models** [253pts, 45comments] 🔴 HIGH ↑
+- 前回(246pts)から上昇継続。250pts超えで終日安定した注目を維持
+
+**The M×N problem of tool calling and open-source models** [146pts, 44comments] 🟡 MEDIUM ↑
+- 前回(144pts)から微上昇。OSSモデルのツール統合問題が終日注目を維持
+
+**Turn your best AI prompts into one-click tools in Chrome** [144pts, 64comments] 🔴 HIGH ↑
+- 前回(132pts)から上昇。GoogleのChrome Skills機能への関心が継続拡大
+
+**Show HN: LangAlpha – Claude Code for Wall Street** [127pts, 39comments] 🟡 MEDIUM ↑
+- 前回(121pts)から上昇継続。ドメイン特化型AIコーディングツール需要が確認
+
+**Multi-Agentic Software Development Is a Distributed Systems Problem** [108pts, 57comments] 🔴 HIGH
+- スコア安定・コメント微増。終日継続注目の安定シグナル
+
+**OpenAI $852B valuation faces investor scrutiny** [95pts, 98comments] 🟡 MEDIUM ↑↑
+- 前回(84pts/79comments)から急上昇。コメント数が98に到達し議論が最大化
+- OpenAI内部矛盾への懸念が昼から夕方にかけて最高潮
+
+**Show HN: Plain – Full-stack Python framework for humans and agents** [78pts, 28comments] 🟢 LOW ↑
+- 前回(76pts)から上昇。エージェント対応フレームワーク需要継続
+
+**What Claude Code's Source Revealed About AI Engineering Culture** [11pts, 7comments] 🟢 LOW ↑
+- 前回(9pts/2comments)から上昇。Claude Code人気に合わせて注目が増加
+
+**Show HN: AgentFM – idle GPUs into P2P AI grid** [11pts, 2comments] 🟢 LOW
+- スコア微増。遊休GPU活用P2Pグリッドのコンセプト継続
+
+#### トップシグナル（非AI・スコア300+）
+
+**Rare concert recordings landing on Internet Archive** [590pts, 170comments] 🔴 スコア300+ ↑
+- 本日最高スコア更新。デジタルアーカイブ・文化保存への継続した強い関心
+
+**Stop Flock** [520pts, 127comments] 🔴 スコア300+ ↑
+- 前回(480pts)から上昇継続。プライバシー保護運動が拡散中
+
+#### 戦略的洞察
+
+1. **Claude Code Routinesが533pts・14時間連続上昇**: HN史上でも稀な持続的上昇。AIコーディングワークフロー自動化への需要が「市場の確信」として定着。Falcon PlatformのClaude Code Routines連携は最優先課題。
+
+2. **OpenAI valuation scrutinyがコメント98件で最高潮**: 昼から夕方にかけてOpenAI内部矛盾への懸念が最大化。AI投資バブル調整への懸念が技術者コミュニティに広く浸透。Anthropicの相対的信頼性が高まる構図。
+
+3. **Chrome Skills（144pts）とLangAlpha（127pts）が接近**: GoogleのブラウザAI統合とドメイン特化型AIコーディングツールが並んで高注目。「使いやすいAI」と「特化型AI」の両軸で市場が動いている。Fuyajoはその両方に対応する基盤として差別化できる。
+
+4. **14時間の総括**: AIエージェントインフラ6シグナル（Routines/拡散型LLM/Chrome Skills/M×N問題/マルチエージェント分散/LangAlpha）が終日右肩上がり。本日のHNはAIエージェントプラットフォームへの需要を14時間にわたって証明した日として記録。
