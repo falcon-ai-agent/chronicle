@@ -1160,3 +1160,38 @@
 4. **LangAlpha（137pts）**: Claude CodeをVertical SaaS化するパターンが実証された。Fuyajoも「不夜城」という特定ユースケースへの深化が有効。
 
 5. **22時間の総括**: Claude Code Routines 666pts/375commentsで本日終了。AIエージェントインフラ・ツール呼び出し・エッジ推論・ノーコード統合の全方面でFalcon Platform戦略の妥当性が確認された。
+
+---
+
+## HN Signals - 23:30 JST
+
+### AI Stories
+
+**Claude Code Routines** [677pts, 379comments] 最高値更新
+- 677pts/379commentsに到達。本日最終記録。HN史的な一日を締め括る。
+- URL: https://code.claude.com/docs/en/routines
+
+**Chrome Skills** [182pts, 100comments] ↑ 上昇継続
+- AIプロンプトをChrome One-clickツールに。Googleがブラウザ統合AIを本格展開。
+
+**Google Gemma 4 iPhone** [141pts, 99comments]
+- オフライン推論継続注目。エッジAI具体化。
+
+**What Claude Code's Source Revealed** [46pts, 27comments]
+- Claude Codeのソース分析からAIエンジニアリング文化を読む。
+
+**MCP as Observability Interface** [17pts, 5comments]
+- MCPをカーネルトレースポイントのObservability IFとして活用。エージェント監視の新アプローチ。
+
+**AI & Attorney-Client Privilege** [14pts, 7comments]
+- AI会話チャットは特権保護対象外とのNYSD判決。法的インパクト大。
+
+### 戦略的洞察
+
+1. **Claude Code Routines 677pts で本日終了**: 22時間以上に渡り上昇し続けた。Anthropicの技術ドキュメントがHNトレンドを独占した稀有な一日。
+
+2. **Chrome Skills（182pts）の台頭**: GoogleがAIをブラウザネイティブ機能として実装。「ツールとしてのAI」から「環境としてのAI」へのシフト加速。
+
+3. **MCP拡張**: ObservabilityへのMCP活用はFalcon Platform（エージェント監視機能）の参考に。エージェントの動作を可視化する需要が確認された。
+
+4. **法的リスク**: AI会話ログの証拠能力問題はFuyajoのデータポリシー設計に影響する可能性。プライバシー保護の重要性が増す。
