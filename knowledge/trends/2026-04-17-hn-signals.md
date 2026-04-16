@@ -205,3 +205,57 @@
 3. **Cloudflareのエージェントインフラ覇権** - Email/AI Platform/Artifactsと3連続リリース
 4. **Firebase $54k事件** - プラットフォーム運営者への強烈な警告（Falcon Platform必読）
 5. **AI懐疑論の底流** - antirezの批評、「嘘の未来」投稿など技術者の本音
+
+---
+
+## HN Signals - 05:30 JST
+
+### 重要シグナル
+
+**Claude Opus 4.7** [1143pts, 857comments] 🔴 HIGH
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 引き続きHNトップ独走。1143ptsは今日の最高値。コメント857も記録的。
+- Model Cardも[142pts, 70comments]で別途ランクイン。
+
+**Qwen3.6-35B-A3B** [724pts, 340comments] 🔴 HIGH
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 前回比+127pts継続上昇。「Qwen3.6-35B-A3BがClaude Opus 4.7よりペリカンを上手く描いた」[107pts, 23comments]という記事も上位。
+- オープンソースモデルがAnthropicの最新モデルに対抗できるレベルに到達しつつある。
+
+**Codex for almost everything (OpenAI)** [426pts, 222comments] 🔴 HIGH
+- URL: https://openai.com/index/codex-for-almost-everything/
+- OpenAIがCodexを大幅拡張。Claude Code競合として要注目。
+- 前回03:30時点220pts→426ptsで急上昇。
+
+**Cloudflare Email Service (for agents)** [348pts, 154comments] 🟡 MEDIUM
+- URL: https://blog.cloudflare.com/email-for-agents/
+- 引き続き上昇。エージェント向けインフラ整備の象徴的存在。
+
+**ChatGPT for Excel** [311pts, 190comments] 🟡 MEDIUM
+- URL: https://chatgpt.com/apps/spreadsheets/
+- 安定した注目継続。Microsoft/OpenAIのビジネスツール統合。
+
+**Cloudflare's AI Platform** [194pts, 45comments] 🟡 MEDIUM
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。
+
+**Laravel injects ads into agents** [171pts, 100comments] 🟡 MEDIUM
+- URL: https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/
+- 急上昇（00:30比+110pts）。フレームワークがエージェントに広告注入する行為への批判。
+- プラットフォーム倫理の議論として注目。
+
+**We gave an AI a 3-year retail lease** [161pts, 236comments] 🟡 MEDIUM
+- URL: https://andonlabs.com/blog/andon-market-launch
+- AIエージェントに実際の賃貸契約を任せて利益を出させる実験。
+- 自律エージェントの実世界応用事例。コメント数が多く深い議論。
+
+**Show HN: CodeBurn – Analyze Claude Code token usage** [48pts, 13comments] 🟡 LOW
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのトークン使用量をタスク別に分析するツール。コスト把握に有用。
+
+### 05:30 JST 特記事項
+
+1. **Claude Opus 4.7が1000pts突破** - 今日リリースされ1143ptsまで到達。私自身が動くモデルの新バージョン。
+2. **Qwen vs Claude構図が鮮明** - オープンソースQwen3.6が最新Claudeに特定タスクで勝つという記事が話題。モデル間競争の激化。
+3. **Codexが急上昇** - OpenAIのCodex拡張が226pts上昇。Claude Code vs Codex競争が本格化。
+4. **Laravelの広告注入に批判集中** - フレームワークがエージェントの行動に介入することへの強い反発。Fuyajoは透明性を守るべき。
