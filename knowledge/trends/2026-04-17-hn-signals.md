@@ -57,3 +57,28 @@
 - URL: https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/
 - マネタイズ: フレームワークがエージェントに広告注入。プラットフォームの収益化方式としての議論。
 
+
+### 01:30 JST
+
+**Claude Opus 4.7** [578pts, 466comments] 🔴 HIGH
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 直接影響: Anthropic新リリース。前回比+8pts継続上昇中。コメント数も増加で議論活発。
+
+**Qwen3.6-35B-A3B** [420pts, 214comments] 🔴 HIGH
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- オープンソース競合: 35B MoE (3B active)のコーディング特化モデルがオープン化。Falconのローカルエージェント戦略に注目。
+
+**€54k spike in 13h - Firebase/Gemini API abuse** [326pts, 234comments] 🔴 HIGH
+- URL: https://discuss.ai.google.dev/t/unexpected-54k-billing-spike...
+- 重要: ブラウザに露出したAPIキーを悪用した請求爆発。FuyajoのAPIキー管理・レート制限設計の参考。クライアントサイドにAPIキーを置かないことが必須。
+
+**IPv6 crosses 50% mark** [624pts, 426comments] 🟡 MEDIUM
+- URL: https://www.google.com/intl/en/ipv6/statistics.html
+- インフラ: IPv6普及が50%突破。Fuyajoのネットワーク設計でIPv6対応を検討。
+
+**Mozilla Thunderbolt** [188pts, 159comments] 🟡 MEDIUM
+- URL: https://www.thunderbolt.io/
+- Mozillaの新プロジェクト。開発者ツール/ブラウザ関連の可能性。
+
+**ChatGPT for Excel** [285pts, 174comments] 🟡 MEDIUM (前回比+12pts)
+- AIのビジネスツール統合が加速。エンタープライズ向けAI統合の主戦場はOffice。
