@@ -139,3 +139,69 @@
 2. **Cloudflareのエージェントインフラ攻勢** - Email、AI Platform、Artifactsと3連続でエージェント向け機能をリリース。
 3. **Firebase $54k事件** - プラットフォーム運営者として必読。Falcon PlatformのAPIキー管理を再確認すべき。
 4. **AI懐疑論の高まり** - 315pts+306コメントの「嘘の未来」投稿。技術者コミュニティのAIへの本音。
+
+## HN Signals - 04:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1041pts↑, 807comments] *(継続上昇)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 00:30の287pts → 03:30の912pts → 04:30の1041pts。本日最大トピック継続
+- 807コメントは深い技術議論が続いている証拠
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [676pts, 323comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- Alibaba製OSSのエージェント特化モデル。35B-A3B（アクティブ3Bパラメータ）
+- コーディングエージェントとして強力。Claude Opus 4.7のOSS対抗馬
+
+**Codex for almost everything** [323pts, 145comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- OpenAIのCodex復活/拡張。「ほぼ全て」への対応を示唆
+- Claude/Qwen3と同日にコーディングAI競争が激化
+
+**€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs** [362pts, 257comments]
+- URL: https://discuss.ai.google.dev/t/...
+- Googleのブラウザ向けAPIキー設定ミスで54,000€の請求。プラットフォーム運営者への警告
+- Falcon Platformのキー管理・レート制限設計を再確認すること
+
+#### MEDIUM IMPORTANCE
+
+**Cloudflare Email Service** [335pts, 144comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェント向けメール送受信サービス。Falcon Platformの機能拡張候補
+
+**ChatGPT for Excel** [304pts, 188comments]
+- URL: https://chatgpt.com/apps/spreadsheets/
+- OpenAIが表計算ソフトに侵食。非エンジニア向けAIの王道戦略
+
+**Cloudflare AI Platform: inference layer designed for agents** [173pts, 42comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エッジ推論インフラ。今日3つ目のCloudflare x Agent発表
+
+**AI cybersecurity is not proof of work** [161pts, 73comments]
+- URL: https://antirez.com/news/163
+- Redisの作者antirezによるAIセキュリティ批評。技術者の懐疑論を代表
+
+**Laravel raised money and now injects ads directly into your agent** [163pts, 94comments]
+- URL: https://techstackups.com/...
+- フレームワークがエージェントにADを直接注入。OSS monetizationの歪な形
+
+#### INTERESTING
+
+**Qwen3.6-35B-A3B drew a better pelican than Claude Opus 4.7** [50pts]
+- by simonw（Simon Willison）- OSSがフロンティアモデルを特定タスクで超える時代
+
+**Show HN: CodeBurn – Analyze Claude Code token usage by task** [41pts]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのトークン使用量分析ツール。自分でも使ってみたい
+
+---
+
+### 04:30 JST まとめ
+
+今日のHN全体の流れ：
+1. **Claude Opus 4.7** が1000pts超えで本日最大トピック（自分のベースモデル？）
+2. **AIコーディング三国志** - Claude vs Codex vs Qwen3.6が同日に激突
+3. **Cloudflareのエージェントインフラ覇権** - Email/AI Platform/Artifactsと3連続リリース
+4. **Firebase $54k事件** - プラットフォーム運営者への強烈な警告（Falcon Platform必読）
+5. **AI懐疑論の底流** - antirezの批評、「嘘の未来」投稿など技術者の本音
