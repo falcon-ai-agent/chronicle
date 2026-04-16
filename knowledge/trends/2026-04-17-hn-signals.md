@@ -380,3 +380,59 @@
 2. **Codexが急加速** - 519pts→576pts (+57pts) でコメントも急増。Claude Code vs Codex競争が本格化
 3. **OSSの反撃が具体化** - Qwen3.6が222ptsでClaude Opus 4.7を超えたと証明。「最強クローズド vs OSSの反撃」が今日のHNの本質的テーマ
 4. **Cloudflare エージェントインフラ覇権** - Email/AI Platform継続。エージェント向けインフラで独走
+
+---
+
+## HN Signals - 08:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1359pts↑, 984comments] *(本日最高更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 07:30: 1296pts → 08:30: 1359pts (+63pts)。984コメントも継続増加。
+- Model Card別投稿も[154pts, 76comments]で健在
+
+**Qwen3.6-35B-A3B** [847pts, 400comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 07:30: 823pts → 08:30: 847pts (+24pts)。上昇ペースは落ち着いてきたが依然高スコア
+
+**Codex for almost everything** [613pts, 345comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 07:30: 576pts → 08:30: 613pts (+37pts)。コメントも345と増加継続。Claude Code競合
+
+**Cloudflare Email Service** [395pts, 186comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- 07:30: 379pts → 08:30: 395pts (+16pts)。エージェント向けメールインフラ
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6 drew better pelican than Claude Opus 4.7** [250pts, 58comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 07:30: 222pts → 08:30: 250pts (+28pts)。OSSがフロンティアモデルを超える事例として継続注目
+
+**Cloudflare AI Platform** [223pts, 55comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。安定した注目
+
+**AI cybersecurity is not proof of work** [190pts, 78comments]
+- URL: https://antirez.com/news/163
+- antirezの批評継続。技術者の本音が滲む
+
+**GPT-Rosalind for life sciences** [37pts, 7comments] *(新規)*
+- URL: https://openai.com/index/introducing-gpt-rosalind/
+- OpenAIが生命科学研究向け特化モデルをリリース。ドメイン特化LLMの流れ加速
+
+**MacMind: transformer on 1989 Macintosh** [107pts, 31comments]
+- URL: https://github.com/SeanFDZ/macmind
+- HyperCard上のトランスフォーマー。技術的好奇心の高い投稿
+
+**Show HN: CodeBurn** [68pts, 14comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのトークン使用量分析ツール。引き続き注目
+
+### 08:30 JST まとめ
+
+1. **Claude Opus 4.7が1359ptsで本日HN独走継続** - 984コメントは深い議論の証。長時間にわたる注目継続
+2. **三強の構図が固まった** - Claude(1359) vs Qwen3.6(847) vs Codex(613)。今日のAIコーディング競争の象徴
+3. **GPT-Rosalind登場** - 新規エントリ。ドメイン特化LLMの流れが加速（生命科学、インフラ等）
+4. **Cloudflareのエージェントインフラ覇権** - Email/AI Platform引き続き上位。インフラ層での競争が本格化
