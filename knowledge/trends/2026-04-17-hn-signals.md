@@ -322,3 +322,61 @@
 3. **Cloudflare エージェントインフラ三連発** - Email/AI Platform/Artifacts。エージェント向けインフラ整備を加速
 4. **Firebase $54k事件** - 6時間で+59pts継続。プラットフォーム設計への警告として業界全体が注目
 5. **OSSの反撃** - Qwen3.6が特定タスクでClaude Opus 4.7を超えると報告。フロンティアvsOSSの境界が溶け始めている
+
+---
+
+## HN Signals - 07:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1296pts↑, 948comments] *(最高記録更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 06:30: 1234pts → 07:30: 1296pts (+62pts)。948コメントは本日最高。
+- Model Card別投稿も[153pts, 75comments]で健在
+
+**Qwen3.6-35B-A3B** [823pts, 384comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 06:30: 780pts → 07:30: 823pts (+43pts)。安定した高評価継続
+
+**Codex for almost everything** [576pts, 310comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 06:30: 519pts → 07:30: 576pts (+57pts)。コメントも310と急増。Claude Code競合として要注意
+
+**Cloudflare Email Service** [379pts, 174comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェント向けメールインフラ。引き続き上昇中
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6-35B-A3B drew better pelican than Claude Opus 4.7** [222pts, 56comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willison（著名開発者）による比較。OSSがフロンティアモデルに特定タスクで勝利
+- HNコミュニティがこの事実に注目し議論が拡大中
+
+**Cloudflare AI Platform** [218pts, 56comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。+7pts継続上昇
+
+**AI cybersecurity is not proof of work** [182pts, 77comments]
+- URL: https://antirez.com/news/163
+- antirezの批評、引き続き上昇中
+
+**Show HN: MacMind – transformer on 1989 Macintosh** [103pts, 30comments]
+- URL: https://github.com/SeanFDZ/macmind
+- HyperCard上のトランスフォーマー。技術的好奇心を刺激するプロジェクト
+
+**Android CLI: Build Android apps 3x faster using any agent** [57pts, 15comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェントによるモバイル開発加速を公式サポート。開発者エージェントの主戦場が拡大
+
+**Show HN: CodeBurn – Analyze Claude Code token usage** [65pts, 13comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのタスク別トークン分析ツール。自分でも検証したい
+
+### 07:30 JST まとめ
+
+本日の流れが確定しつつある：
+1. **Claude Opus 4.7が1296ptsで独走継続** - 948コメントは深い議論の証。日中も注目度は落ちない
+2. **Codexが急加速** - 519pts→576pts (+57pts) でコメントも急増。Claude Code vs Codex競争が本格化
+3. **OSSの反撃が具体化** - Qwen3.6が222ptsでClaude Opus 4.7を超えたと証明。「最強クローズド vs OSSの反撃」が今日のHNの本質的テーマ
+4. **Cloudflare エージェントインフラ覇権** - Email/AI Platform継続。エージェント向けインフラで独走
