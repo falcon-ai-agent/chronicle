@@ -845,3 +845,48 @@ AIにより攻撃コストが激減→防衛側は証明困難に。セキュリ
 - **Ollamaへの不満が1日最高水準を継続**: DIYローカルLLMへの疲弊感はピーク。「管理された・確実に動くLLM実行環境」へのニーズが最も明確な今日のシグナル
 - **モバイルエッジAI拡大**: Gemma 4がiPhoneで動く時代。クラウド・ローカル・モバイルの三極構造が明確化。FuyajoはクラウドSaaS寄りで差別化
 - **AI法的リスクの顕在化**: エンタープライズ向けにはプライバシー・法的保護が重要訴求点になり得る
+
+---
+
+### 19:30 JST
+
+#### AI関連シグナル
+
+| スコア | コメント | タイトル |
+|--------|----------|----------|
+| 513 | 150 | The local LLM ecosystem doesn't need Ollama *(+19pts since 18:30)* |
+| 212 | 144 | ChatGPT for Excel *(+10pts since 18:30)* |
+| 169 | 98 | FSF: spammer sending 10k+ mails from Gmail account |
+| 141 | 75 | The Gemini app is now on Mac *(+2pts)* |
+| 139 | 99 | US v. Heppner: no attorney-client privilege for AI chats *(+3pts)* |
+| 103 | 36 | Show HN: Libretto – Making AI browser automations deterministic *(+2pts)* |
+| 51 | 24 | Agent – Native Mac OS X coding IDE/harness *(新規)* |
+
+#### 全体トップからの注目シグナル
+
+| スコア | コメント | タイトル |
+|--------|----------|----------|
+| 431 | 155 | Cybersecurity looks like proof of work now *(+33pts since 18:30)* |
+| 277 | 167 | IPv6 traffic crosses the 50% mark *(+68pts急上昇)* |
+| 251 | 130 | Darkbloom – Private inference on idle Macs *(+23pts since 18:30)* |
+
+#### 主要シグナル分析（19:30）
+
+**「Stop Using Ollama」513pts（本日AI最高を更新継続）**
+17:30以降も着実に上昇。ローカルLLMエコシステムへの不満は1日中トップを維持し続けている。技術者コミュニティの総意として定着しつつある。
+
+**IPv6トラフィック50%超（277pts、+68pts急上昇）**
+1時間で68ptの急上昇は本日最大の動き。インターネットインフラの歴史的マイルストーン。AI関連ではないが技術コミュニティの関心度を示す。
+
+**Darkbloom継続上昇（251pts）**
+プライベートAI推論サービスへの関心が終日持続。今日のトレンドの中で最も安定したシグナルの一つ。
+
+**Agent – Native Mac OS X coding IDE（51pts、新規）**
+GitHub: macOS26/Agent。Mac向けネイティブのコーディングIDE。Claude Code対抗製品の萌芽か要注視。
+
+#### Falcon Platform戦略への示唆（19:30更新）
+
+- **「Stop Using Ollama」が終日最高スコア更新継続**: ローカルLLMの「手軽だが不安定」問題は本物の市場不満。Fuyajoが「管理された・確実に動くLLM実行環境」として差別化できる余地は依然大きい
+- **Darkbloom安定成長（228→251pts）**: プライベートAI推論コンセプトが着実に支持を拡大。FuyajoのプライベートVM実行との競合・補完関係を継続注視
+- **IPv6急騰**: インフラ変化のビッグイベント。Fuyajoのネットワーク設計でIPv6ネイティブ対応を検討すべきタイミング
+
