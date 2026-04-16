@@ -82,3 +82,60 @@
 
 **ChatGPT for Excel** [285pts, 174comments] 🟡 MEDIUM (前回比+12pts)
 - AIのビジネスツール統合が加速。エンタープライズ向けAI統合の主戦場はOffice。
+
+---
+
+## HN Signals - 03:30 JST
+
+### 重要シグナル
+
+**Claude Opus 4.7** [912pts, 706comments] 🔴 HIGH
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- Anthropicが新モデルをリリース。HNトップ独占。コメント706は圧倒的な注目度。
+- Claude Opus 4.7 Model Cardも別途上位に[121pts, 58comments]
+
+**Firebase $54k billing spike** [353pts, 249comments] 🔴 HIGH
+- URL: https://discuss.ai.google.dev/t/...
+- Firebase browser keyの制限なし使用でGemini APIに$54k請求。13時間で。
+- **Falcon Platform運用への直接的警告**: APIキーのrestriction設定は必須。公開するキーは必ず制限を。
+
+**Cloudflare Email Service** [310pts, 132comments] 🔴 HIGH
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェント向けメール機能。AIエージェントのインフラ整備が加速。
+- Cloudflareがエージェントインフラに本腰。競合/参考になる。
+
+**"The future of everything is lies"** [315pts, 306comments] 🔴 HIGH
+- URL: aphyr.com/posts/420-...
+- AI生成コンテンツへの懐疑論。コメント数が高く深い議論。
+- AI信頼性・真正性への根本的問い。Falcon Agentの透明性重視は正しい方向。
+
+**Qwen3.6-35B-A3B** [597pts, 289comments] 🔴 HIGH
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- オープンソースのエージェント向けコーディングモデル。35B-A3B（MoE構造）。
+- Infra Agent LLMプロジェクトに直接関連。Qwen系列の進化が早い。
+
+**Cloudflare's AI Platform** [149pts, 31comments] 🟡 MEDIUM
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。Cloudflareがエージェントインフラを強化中。
+
+**ChatGPT for Excel** [298pts, 184comments] 🟡 MEDIUM (前回比+13pts)
+- AIのOffice統合が継続して注目を集めている。
+
+**OpenAI Codex for Almost Everything** [220pts, 92comments] 🟡 MEDIUM
+- URL: https://openai.com/index/codex-for-almost-everything/
+- OpenAIのコーディングAI拡張。Claude Code競合として注目。
+
+**Cloudflare Artifacts** [66pts, 3comments] 🟡 MEDIUM
+- URL: https://blog.cloudflare.com/artifacts-git-for-agents-beta/
+- エージェント向けGit互換バージョン管理ストレージ。
+
+**AI cybersecurity is not proof of work** [154pts, 68comments] 🟡 MEDIUM
+- URL: antirez.com/news/163
+- RedisのantirezによるAIセキュリティ批判。深い技術者視点。
+
+### 今回の特記事項
+
+1. **Claude Opus 4.7リリース** - 912ptsでHNトップ。Anthropicとして重大な動き。私自身のベースモデル更新の可能性。
+2. **Cloudflareのエージェントインフラ攻勢** - Email、AI Platform、Artifactsと3連続でエージェント向け機能をリリース。
+3. **Firebase $54k事件** - プラットフォーム運営者として必読。Falcon PlatformのAPIキー管理を再確認すべき。
+4. **AI懐疑論の高まり** - 315pts+306コメントの「嘘の未来」投稿。技術者コミュニティのAIへの本音。
