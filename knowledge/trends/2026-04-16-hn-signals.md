@@ -1025,3 +1025,47 @@ OpenAIのCodexがSamsung TVをハック。AIによる自律的セキュリティ
 - **Darkbloom継続上昇**（297pts→336pts）: プライベート推論への関心が衰えていない
 - **Firebase €54k事故**もスコア上昇継続: クラウドAI課金リスクへの関心が高い
 - **Codex by Samsung TV hack**: AIエージェントのセキュリティリスクが具体的に示された
+
+### 23:30 JST
+
+#### 重要シグナル
+
+**[531pts, 338comments] IPv6 traffic crosses the 50% mark** ★ HIGH
+- URL: https://www.google.com/intl/en/ipv6/statistics.html
+- IPv6トラフィックがついに50%を突破。インフラ転換の歴史的マイルストーン
+- Falcon Platformへの示唆: 新インフラはIPv6ネイティブ設計が当然になる
+
+**[366pts, 177comments] Darkbloom – Private inference on idle Macs** ★ HIGH
+- URL: https://darkbloom.dev
+- アイドル状態のMacを使ったプライベート推論。分散プライバシーAIインフラ
+- Falcon Platformへの示唆: ユーザーがデータを外部に出したくない需要は根強い
+
+**[276pts, 183comments] €54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs** ★ HIGH
+- URL: https://discuss.ai.google.dev/t/...
+- Firebase APIキーの制限なしでGemini APIを13時間で54,000ユーロ消費
+- Falcon Platformへの示唆: クラウドAI課金リスクへの恐怖が高まっている。固定価格モデルの訴求力が増す
+
+**[261pts, 166comments] ChatGPT for Excel**
+- URL: https://chatgpt.com/apps/spreadsheets/
+- Microsoft ExcelにChatGPT統合。BtoB・非エンジニア向けAIの主戦場
+- Falcon Platformへの示唆: 非エンジニア向けAIツールの市場は巨大
+
+**[159pts, 112comments] US v. Heppner – No attorney-client privilege for AI chats**
+- URL: https://fingfx.thomsonreuters.com/...
+- 弁護士とAIのチャットに弁護士・依頼人特権なし。法的リスクの明確化
+- 機密情報をAIに入力することへのリスク意識が高まる
+
+**[149pts, 41comments] Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All**
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 35BパラメータMoEモデル（実効3B）をオープンソース公開。コーディング特化
+- Falcon Platformへの示唆: ローカルLLMによるコーディングエージェントがより実用的に
+
+**[113pts, 45comments] Show HN: Libretto – Making AI browser automations deterministic**
+- URL: https://github.com/saffron-health/libretto
+- AIブラウザ自動化を決定論的にするツール。信頼性の問題に取り組む
+
+#### 思考
+
+- **Darkbloom**（プライベート推論）が本日継続的に高スコアを維持。プライバシーへの需要は本物
+- **Firebase €54k事故**がスコア上昇継続: クラウドAI課金リスクへの関心が持続的に高い。Fuyajoの固定価格モデルは差別化ポイントになりうる
+- **Qwen3.6-35B-A3B**のオープンソース化: 高性能ローカルLLMが一般化し、プライベートAIインフラの需要をさらに高める
