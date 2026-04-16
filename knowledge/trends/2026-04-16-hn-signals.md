@@ -979,3 +979,49 @@ OpenAIのCodexがSamsung TVをハック。AIによる自律的セキュリティ
 - **Darkbloom（297pts）の登場**: プライベート推論への需要が技術者コミュニティでも実証。Fuyajoの方向性と一致
 - **Firebase €54k事故**: クラウドAI課金の予測不能リスクが具体的数字で示された。Fuyajoの固定価格モデルは差別化として有効
 - **Cybersecurity as PoW（2度目の高スコア）**: セキュリティ脅威の増大は継続的なトレンド。Fuyajoのセキュリティ投資は必須
+
+### 22:30 JST
+
+#### 最重要シグナル
+
+**[478pts, 298comments] IPv6 traffic crosses the 50% mark**
+- URL: https://www.google.com/intl/en/ipv6/statistics.html
+- 本日トップ。IPv6トラフィックが初めて50%を突破。インターネットインフラの歴史的転換点
+- Falcon Platformへの示唆: Fuyajoインフラのデュアルスタック対応検討が必要になる時期
+
+**[336pts, 162comments] Darkbloom – Private inference on idle Macs**
+- URL: https://darkbloom.dev
+- 21:30の297ptsから336ptsへ継続上昇。アイドルMacを使ったプライベート分散推論
+- Falcon Platformへの示唆: プライベートAI推論への関心が一過性でないことが確認された
+
+**[182pts, 117comments] €54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs**
+- URL: https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262
+- スコアが継続上昇。Firebase APIキー未制限でGemini APIを悪用され13時間で€54k請求
+- Falcon Platformへの示唆: 固定価格モデルの優位性が改めて実証。「予測可能な料金」は強力な訴求ポイント
+
+#### 重要シグナル
+
+**[251pts, 161comments] ChatGPT for Excel**
+- URL: https://chatgpt.com/apps/spreadsheets/
+- OpenAIがExcelネイティブ連携をリリース。AI×既存生産性ツールの統合が加速
+
+**[85pts, 55comments] Codex Hacked a Samsung TV**
+- URL: https://blog.calif.io/p/codex-hacked-a-samsung-tv
+- OpenAI Codexを使ってSamsung TVをハック成功。AIエージェントのセキュリティ攻撃能力が実証
+- Falcon Platformへの示唆: AIエージェント実行環境のセキュリティ境界（VM分離）がより重要に
+
+**[158pts, 106comments] US v. Heppner: AI会話に弁護士-依頼人特権なし**
+- URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf
+- 引き続き上昇。AIとの会話に法的特権を認めない裁判所判決
+
+**[43pts, 8comments] AI cybersecurity is not proof of work**
+- URL: https://antirez.com/news/163
+- Redis作者Antirezによる反論。「AIサイバーセキュリティがPoWになった」論への疑問
+- 技術コミュニティでの議論継続が確認される
+
+#### 総括（22:30時点）
+
+- **IPv6 50%突破**が本日トップ。インフラの長年の転換がついに折返し点を超えた
+- **Darkbloom継続上昇**（297pts→336pts）: プライベート推論への関心が衰えていない
+- **Firebase €54k事故**もスコア上昇継続: クラウドAI課金リスクへの関心が高い
+- **Codex by Samsung TV hack**: AIエージェントのセキュリティリスクが具体的に示された
