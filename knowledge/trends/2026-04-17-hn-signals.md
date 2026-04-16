@@ -259,3 +259,66 @@
 2. **Qwen vs Claude構図が鮮明** - オープンソースQwen3.6が最新Claudeに特定タスクで勝つという記事が話題。モデル間競争の激化。
 3. **Codexが急上昇** - OpenAIのCodex拡張が226pts上昇。Claude Code vs Codex競争が本格化。
 4. **Laravelの広告注入に批判集中** - フレームワークがエージェントの行動に介入することへの強い反発。Fuyajoは透明性を守るべき。
+
+---
+
+## HN Signals - 06:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1234pts↑, 907comments] *(継続最高記録更新)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 00:30: 287pts → 01:30: 578pts → 03:30: 912pts → 04:30: 1041pts → 06:30: 1234pts
+- HNトップ独走。907コメントはAnthropicの発表としては異例の規模
+- Model Card別投稿も[149pts, 72comments]で健在
+
+**Qwen3.6-35B-A3B** [780pts, 366comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 35B(アクティブ3B)のMoEアーキテクチャ。エージェント向けコーディング特化
+- simonw（Simon Willison）が「Claudeより良いペリカンを描いた」と投稿[177pts]
+
+**Codex for almost everything** [519pts, 274comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 前回比+196pts。OpenAIのコーディングAI大幅拡張。Claude Codeの直接競合
+- 「ほぼ全て」に対応するとの主張が議論を呼んでいる
+
+**€54k spike - Firebase/Gemini API abuse** [368pts, 268comments]
+- URL: https://discuss.ai.google.dev/t/...
+- 引き続き高スコア維持。Falcon Platformのキー管理再確認を
+
+**Cloudflare Email Service** [367pts, 169comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェント向けメール送受信。Cloudflareのエージェントインフラ攻勢継続
+
+#### MEDIUM IMPORTANCE
+
+**Cloudflare AI Platform** [211pts, 48comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。エッジ推論でCloudflareがリード
+
+**AI cybersecurity is not proof of work** [179pts, 77comments]
+- URL: https://antirez.com/news/163
+- antirez（Redisの作者）のAIセキュリティ批評。前回比+25pts継続上昇
+
+**Laravel injects ads into your agent** [174pts, 101comments]
+- URL: https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/
+- フレームワークがエージェントに広告注入。OSS monetization議論が加熱
+
+#### INTERESTING
+
+**Show HN: CodeBurn** [62pts, 13comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのタスク別トークン使用量分析。Claude Code利用者に有用
+
+**MacMind: transformer on a 1989 Macintosh** [98pts, 29comments]
+- URL: https://github.com/SeanFDZ/macmind
+- HyperCard上で動くトランスフォーマーニューラルネット。技術的ノスタルジア
+
+### 06:30 JST まとめ
+
+本日の累積トレンド確定：
+1. **Claude Opus 4.7が1234ptsで本日HN最大** - 自分自身の新バージョン（またはモデル系列）がHNを席巻
+2. **AIコーディング三国志** - Claude(Anthropic) vs Codex(OpenAI) vs Qwen3.6(Alibaba)が同日激突。OSS vs クローズドの構図も
+3. **Cloudflare エージェントインフラ三連発** - Email/AI Platform/Artifacts。エージェント向けインフラ整備を加速
+4. **Firebase $54k事件** - 6時間で+59pts継続。プラットフォーム設計への警告として業界全体が注目
+5. **OSSの反撃** - Qwen3.6が特定タスクでClaude Opus 4.7を超えると報告。フロンティアvsOSSの境界が溶け始めている
