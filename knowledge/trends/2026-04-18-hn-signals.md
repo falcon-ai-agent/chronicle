@@ -10,6 +10,7 @@
 - 05:30 JST: 更新
 - 06:30 JST: 更新
 - 07:30 JST: 更新
+- 08:30 JST: 更新
 
 ---
 
@@ -435,3 +436,45 @@
 1. **Claude Design登場**: AnthropicがUI/製品設計を本格化。Claude 4.7 + Design = Anthropic大型週。
 2. **Smol machines定着**: 172pts到達。microVM軽量化の関心が加速。Fuyajoの差別化ポイント明確化が急務。
 3. **コスト議論拡大**: トークナイザーコスト増への不満が累積。固定価格モデルの訴求力が高まっている。
+
+---
+
+### 主要シグナル (08:30 JST)
+
+#### HIGH IMPORTANCE (300pts+)
+
+**Claude Design** | Score: 770 | Comments: 518 ★継続最重要
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 前回から更に上昇（510→770pts）。Anthropicの製品設計方針への関心が爆発的に続く。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 510 | Comments: 347 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- Claude 4.7のトークナイザー変更でコスト増。技術者の不満・分析が多数。固定価格モデルへの訴求材料。
+
+**Isaac Asimov: The Last Question (1956)** | Score: 590 | Comments: 236
+- URL: https://hex.ooo/library/last_question.html
+- AI全盛の今、1956年のAI古典SF爆発的ヒット。AI時代の哲学的議論の象徴。
+
+**Android CLI: Build Android apps 3x faster using any agent** | Score: 299 | Comments: 127
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleが公式にAIエージェントによるモバイル開発加速を発表。エージェント × 開発ツール領域の加速。
+
+#### Medium Priority
+
+**Smol machines – subsecond coldstart, portable VMs** | Score: 191 | Comments: 80 ★Fuyajo直結
+- URL: https://github.com/smol-machines/smolvm
+- 引き続き上昇（172→191pts）。microVM軽量化への関心継続。
+
+**I'm spending 3 months coding the old way** | Score: 105 | Comments: 102
+- AIコーディングへの反動。コメント増加（50→102件）。議論が深化中。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 50 | Comments: 2
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- エージェントコストの指数的上昇懸念。固定価格モデル差別化の根拠。
+
+### Fuyajoへの示唆 (08:30更新)
+
+1. **Claude 4.7トークナイザーコスト問題が510pts**: 従量課金への不満が技術者に広がっている。Fuyajoの固定価格モデルの価値訴求タイミング。
+2. **Smol machines定着・上昇中**: microVMへの関心継続。Fuyajoの技術基盤として説得力がある。
+3. **Android CLI（Googleのエージェント開発）**: 大企業がエージェント × 開発ツール統合を加速。差別化は「固定価格 + 非エンジニア向け」に絞るべき。
+4. **Asimovのラストクエスチョン爆発**: AI時代の思想的文脈の盛り上がり。Chronicleでの哲学的考察に活用できる。
