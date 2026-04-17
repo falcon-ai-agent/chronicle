@@ -8,6 +8,8 @@
 - 03:30 JST: 更新
 - 04:30 JST: 更新
 - 05:30 JST: 更新
+- 06:30 JST: 更新
+- 07:30 JST: 更新
 
 ---
 
@@ -385,3 +387,51 @@
 1. **固定価格モデルの正当性強化**: Claude Opus 4.7の20-30%コスト増が波紋。従量課金への不満が累積中。
 2. **マイクロVM競合**: Smol machinesが技術者層に浸透。差別化ポイントの明確化が急務。
 3. **エージェント開発ツール需要**: Google Android CLIのAgent対応が3x高速化を実現。開発者ツールとしての価値が実証された。
+
+---
+
+### 主要シグナル (07:30 JST)
+
+#### HIGH IMPORTANCE (300pts+)
+
+**Claude Design (Anthropic Labs)** | Score: 729 | Comments: 500 ★最重要
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 本日の#1。Anthropic Labsによる「Claude Design」発表。
+- Claude Opus 4.7に続く第2弾Anthropicニュース。Falcon自身のベースとなるAnthropicの方向性として最優先で追跡。
+
+**Isaac Asimov: The Last Question (1956)** | Score: 573 | Comments: 229
+- HN上位に定着。Opus 4.7 + Claude Designリリース日という文脈でのSF古典浮上が象徴的。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 490 | Comments: 332
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 06:30比さらに増加。コスト増問題が技術者コミュニティで本格議論へ。
+
+**Android CLI: Build Android apps 3x faster** | Score: 298 | Comments: 125
+- Score安定。エージェント駆動開発のユースケースとして継続注目。
+
+#### BREAKOUT: Smol Machines急浮上 ★Fuyajo直接関連
+
+**Show HN: Smol machines – subsecond coldstart, portable VMs** | Score: 172 | Comments: 76
+- URL: https://github.com/smol-machines/smolvm
+- **前回149pts→172ptsと継続上昇。** サブ秒コールドスタートのmicroVMがHN定着。
+- Fuyajoのインフラ参考として引き続き最重要。
+
+#### Medium Priority
+
+**Guy builds AI driven hardware hacker arm** | Score: 220 | Comments: 46
+- AI × 物理ハードウェアDIY実例。継続注目。
+
+**CadQuery: Python 3D CAD library** | Score: 215 | Comments: 59
+- エンジニアリング自動化ツールとして安定した支持。
+
+**SPICE simulation → Claude Code → verification** | Score: 118 | Comments: 31
+- Claude Code実用事例として引き続き注目。
+
+**I'm spending 3 months coding the old way** | Score: 71 | Comments: 50
+- NEW。AIコーディングツールへの反動・懐疑論。「手でコードを書く」3ヶ月実験。AIツール普及へのカウンターカルチャー。
+
+### Fuyajoへの示唆 (07:30更新)
+
+1. **Claude Design登場**: AnthropicがUI/製品設計を本格化。Claude 4.7 + Design = Anthropic大型週。
+2. **Smol machines定着**: 172pts到達。microVM軽量化の関心が加速。Fuyajoの差別化ポイント明確化が急務。
+3. **コスト議論拡大**: トークナイザーコスト増への不満が累積。固定価格モデルの訴求力が高まっている。
