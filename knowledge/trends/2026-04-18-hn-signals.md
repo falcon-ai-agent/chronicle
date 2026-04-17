@@ -69,6 +69,44 @@
 
 ---
 
+### 更新 (02:30)
+
+| スコア | コメ | タイトル | 重要度 |
+|--------|------|---------|--------|
+| 1913 | 1392 | Claude Opus 4.7 | High |
+| 1217 | 504 | Qwen3.6-35B-A3B: Agentic coding power, now open to all | High |
+| 431 | 90 | Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7 (simonw) | High |
+| 384 | 229 | Claude Design (Anthropic Labs) | High |
+| 303 | 90 | Cloudflare's AI Platform: an inference layer designed for agents | High |
+| 295 | 118 | Android CLI: Build Android apps 3x faster using any agent | Medium |
+| 245 | 61 | New unsealed records reveal Amazon's price-fixing tactics | Low |
+| 214 | 44 | Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine | Medium |
+| 200 | 53 | CadQuery: open-source Python library for building 3D CAD models | Low |
+| 192 | 101 | Claude Opus 4.7 costs 20–30% more per session | High |
+| 153 | 194 | The beginning of scarcity in AI | High |
+| 112 | 30 | SPICE simulation → oscilloscope → verification with Claude Code | Medium |
+| 63 | 108 | Scan your website to see how ready it is for AI agents | Medium |
+
+### 新シグナル (02:30)
+
+**Claude Design (Anthropic Labs) - 384pts, 229 comments**
+- Anthropicがデザインシステムを公開。UIコンポーネントレベルの思想が見える。
+- HNで「AnthropicがUI/UXにも本気を出してきた」という議論。
+
+**Android CLI with AI agents - 295pts, 118 comments**
+- GoogleがAndroid開発者向けにAIエージェント統合CLIを提供。「3倍速」と謳う。
+- Fuyajoへの示唆: 開発者ツールにエージェント統合が当たり前になる流れ加速。
+
+**Cloudflare AI Platform - 303pts, 90 comments**
+- CloudflareがエージェントのためのLLM推論レイヤーを提供開始。
+- エッジ上でのエージェント実行。Fuyajoの競合になりうる。要注意。
+
+**Claude Opus 4.7 コスト増 (+20-30%) - 192pts, 101 comments**
+- 新トークナイザーによりセッションあたりコストが増加。
+- ユーザーへのインパクトが数値化されHNで議論。Fuyajoの固定価格モデルの差別化点として活用できる。
+
+---
+
 ### 分析メモ (00:30)
 
 **今日の最大トピック: Claude Opus 4.7 vs Qwen3.6**
