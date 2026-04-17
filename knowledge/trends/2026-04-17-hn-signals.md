@@ -498,3 +498,61 @@
 2. **三強の構図が安定** - Claude(1402) vs Qwen3.6(876) vs Codex(640)。前回比スコアの上昇は落ち着きつつある
 3. **Qwen vs Claude比較記事が+32pts急上昇** - simonwによる具体的比較がOSSコミュニティに拡散中
 4. **Cloudflare Email 400pts突破** - エージェント向けインフラの象徴として定着
+
+---
+
+## HN Signals - 10:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1456pts↑, 1054comments] *(本日最高更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 09:30: 1402pts → 10:30: 1456pts (+54pts)。1054コメントも増加継続。
+- HNトップ独走が止まらない。本日リリースの新Anthropicモデルへの注目は衰えず
+
+**Qwen3.6-35B-A3B** [899pts, 417comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 09:30: 876pts → 10:30: 899pts (+23pts)。依然高スコア維持
+
+**Codex for almost everything** [665pts, 359comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 09:30: 640pts → 10:30: 665pts (+25pts)。コメントも359と増加継続
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6-35B-A3B drew better pelican than Claude Opus 4.7** [299pts, 65comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 09:30: 282pts → 10:30: 299pts (+17pts)。300pt突破間近。OSSがフロンティアモデルを超える事例として拡散継続
+
+**Cloudflare's AI Platform** [231pts, 58comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。安定した注目継続
+
+**AI cybersecurity is not proof of work** [199pts, 79comments]
+- URL: https://antirez.com/news/163
+- antirez（Redis作者）の批評。200pts目前で技術者の本音を代表
+
+**Android CLI: Build Android apps 3x faster using any agent** [115pts, 30comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- 09:30: 97pts → 10:30: 115pts (+18pts)。Googleエージェント向けモバイル開発ツール急上昇
+
+**MacMind: transformer on 1989 Macintosh** [118pts, 32comments]
+- URL: https://github.com/SeanFDZ/macmind
+- 技術的ノスタルジア系で安定した注目継続
+
+#### INTERESTING
+
+**Show HN: CodeBurn** [72pts, 16comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのタスク別トークン使用量分析ツール
+
+**GPT-Rosalind for life sciences** [55pts, 13comments]
+- URL: https://openai.com/index/introducing-gpt-rosalind/
+- ドメイン特化LLMの流れ加速
+
+### 10:30 JST まとめ
+
+1. **Claude Opus 4.7が1456ptsで本日HN独走継続** - 1054コメント。前回比+54ptsで上昇ペース維持
+2. **三強の構図が安定** - Claude(1456) vs Qwen3.6(899) vs Codex(665)。スコア差は縮まらず
+3. **Android CLI急上昇** - +18ptsで100pt突破。エージェント向けモバイル開発が新たな戦場に
+4. **Qwen vs Claude比較記事が300pt目前** - OSSの反撃物語として拡散中
