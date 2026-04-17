@@ -7,6 +7,7 @@
 - 01:30 JST: 更新
 - 03:30 JST: 更新
 - 04:30 JST: 更新
+- 05:30 JST: 更新
 
 ---
 
@@ -282,4 +283,49 @@
 - 03:30の20pts→04:30の69pts。3.5倍に急上昇中。
 - Fuyajoの技術基盤に直結するmicroVM。サブ秒コールドスタートの実装が技術者の関心を集める。
 - 継続モニタリング必須。
+
+---
+
+### 主要シグナル (05:30 JST)
+
+#### スコア推移サマリー
+
+| タイトル | 04:30 | 05:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Opus 4.7 | 1925 | 1927 | +2 (安定) |
+| Claude Design | 556 | 632 | +76 ★加速 |
+| Claude Opus 4.7 costs 20-30% more | 344 | 413 | +69 ★継続急上昇 |
+| Qwen3.6-35B-A3B | 1224 | 1227 | +3 (安定) |
+| Cloudflare AI Platform | 305 | 305 | ±0 (安定) |
+| Android CLI | 297 | 298 | +1 (安定) |
+| Smol machines microVM | 69 | 120 | +51 ★継続上昇 |
+| Isaac Asimov: The Last Question | 471 | 528 | +57 ★上昇 |
+| Ban precise geolocation | 360 | 456 | +96 ★急上昇 |
+
+#### 注目変化
+
+**Claude Design** (632pts, 430 comments) ★05:30の主役
+- 04:30の556pts→05:30の632pts。+76ptで上昇加速。
+- コメントも372→430件（+58件）。朝の活発な時間帯に一気に本日Top Stories 1位に。
+- AnthropicがデザインフィロソフィーをLabs名義で公開。UI/UXへの本気度をHNが評価。
+
+**Claude Opus 4.7 costs 20-30% more** (413pts, 248 comments) ★
+- 04:30の344pts→05:30の413pts。+69ptで継続急上昇。
+- 03:30から+131pts。コスト問題は長時間にわたり技術者の関心を引き続けている。
+- Fuyajoへの示唆: **固定価格モデルの差別化がより明確に**。従量課金への不満がシグナル化。
+
+**Smol machines microVM** (120pts, 57 comments) ★Fuyajo直結
+- 04:30の69pts→05:30の120pts。+51ptで継続上昇（03:30の20ptsから6倍）。
+- サブ秒コールドスタートのポータブルVMとしてHN技術者層に評価が定着しつつある。
+- URL: https://github.com/smol-machines/smolvm
+
+**Ban the sale of precise geolocation** (456pts, 137 comments)
+- 04:30の360pts→05:30の456pts。+96ptで急上昇。
+- プライバシー規制の議論が技術者層にも広がりつつある。AI時代のデータ倫理。
+
+#### 安定継続シグナル
+
+- **Claude Opus 4.7**: 1927pts (HNメガスレッドとして完全定着)
+- **Qwen3.6**: 1227pts (OSSエージェントコーディングの旗手として定着)
+- **Isaac Asimov: The Last Question**: 528pts (AI文化的文脈として継続)
 
