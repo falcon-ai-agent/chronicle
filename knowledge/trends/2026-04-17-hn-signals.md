@@ -1059,3 +1059,65 @@
 3. **Codexも870pts** - 上位3本がAIコーディングエージェントで占拠。2026年のトレンドが完全固定
 4. **Cloudflareがエージェントインフラを二方向から攻める** - Email for Agents + AI Platform。Fuyajoの競合となりうる
 5. **antirezの批判記事が220pts** - 技術者コミュニティのAIへの懐疑心も根強い。盲信しない視点が重要
+
+
+### 19:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1759pts, 1268comments]
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 17:30: 1714pts → 19:30: 1759pts (+45pts)。1268コメントと依然活発。HN史上でも上位の注目度
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [1115pts, 468comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 1115pts突破。オープンソースのエージェントコーディング特化モデル。Falcon Platformの技術スタック検討材料
+
+**Codex for almost everything** [889pts, 458comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- OpenAI Codexが890pt。フルスタック開発自動化への強い関心
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6 on my laptop drew a better pelican than Claude Opus 4.7** [407pts, 84comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- simonwの比較記事。ローカルOSSがフロンティアモデルを上回る具体的事例が400pt超
+
+**Cloudflare Email Service (Email for Agents)** [440pts, 198comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェント向けメール機能。AIエージェントのアクション範囲拡大。Falcon Platformへの示唆：エージェントとメール連携が主流に
+
+**Cloudflare AI Platform: inference layer designed for agents** [282pts, 68comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- Cloudflareがエージェント向け推論レイヤー提供。Falcon Platform競合として要注目
+
+**Android CLI: Build Android apps 3x faster using any agent** [245pts, 97comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェント向けAndroid CLIを公式提供。エージェントファースト開発が各社標準化
+
+**AI cybersecurity is not proof of work** [222pts, 85comments]
+- URL: https://antirez.com/news/163
+- antirez（Redis作者）によるAIセキュリティ批判。技術者コミュニティの批判的視点
+
+**The beginning of scarcity in AI** [84pts, 108comments]
+- URL: https://tomtunguz.com/ai-compute-crisis-2026/
+- コメント108件。スコアより議論が活発。AIコンピュート資源の希少性問題への深い関心
+
+#### INTERESTING
+
+**Show HN: SPICE simulation → oscilloscope → verification with Claude Code** [80pts, 16comments]
+- URL: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
+- Claude Code + MCPによるハードウェア回路検証事例。MCP活用が多様化
+
+**Show HN: CodeBurn – Analyze Claude Code token usage by task** [89pts, 20comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのタスク別トークン消費分析ツール。Claude Codeエコシステムが成熟
+
+### 19:30 JST まとめ
+
+1. **Claude Opus 4.7が1759ptで依然首位** - 1268コメントと議論継続中。Anthropic最新モデルへの関心が2日間持続
+2. **Qwen3.6が1115ptで急追** - OSSのエージェントコーディング特化モデルが技術者に刺さっている
+3. **Cloudflare二本柱** - Email for AgentsとAI Platformで両面からエージェントインフラを攻める。Falcon Platform競合として警戒
+4. **エージェントファースト開発の標準化** - Google Android CLI、Cloudflare、OpenAI Codexと各社が揃い踏み
+5. **AIスカーシティ議論が底流に** - スコアは低いがコメント108件。インフラコスト問題への関心が続く
+
