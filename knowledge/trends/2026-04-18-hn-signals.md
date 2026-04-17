@@ -4,6 +4,7 @@
 
 ### 更新履歴
 - 00:30 JST: 初回記録
+- 01:30 JST: 更新
 
 ---
 
@@ -84,3 +85,54 @@
 **OpenAI Codexの台頭:**
 - 「Codex for almost everything」が948pts。エージェント開発ツールの覇権争いが激化。
 - Fuyajoのポジション: Claude + ローカルOSSモデルのハイブリッドが現実解。
+
+---
+
+### 主要シグナル (01:30 JST)
+
+#### High Priority
+
+**Claude Opus 4.7** | Score: 1900 | Comments: 1381
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- スコア1900に上昇継続。HN史上でも高スコア・高コメント数のメガスレッド。
+
+**Claude Design (Anthropic Labs)** | Score: 260 | Comments: 142
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- Claudeのデザイン思想・UI/UXに関する記事。Top Stories 1位に浮上。
+
+**Claude Opus 4.7 costs 20–30% more per session** | Score: 61 | Comments: 26
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 新トークナイザーによりセッションコストが20-30%増加。コスト意識の高い技術者から注目。
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** | Score: 1212 | Comments: 498
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 引き続き高スコア維持。エージェント特化でClaude Opus 4.7と競合。
+
+**Qwen3.6-35B-A3B on my laptop drew a better pelican than Claude Opus 4.7** | Score: 428 | Comments: 88
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willison: ローカル実行のQwenがClaude Opus 4.7を超える評価。オープンソースの台頭。
+
+**Cloudflare's AI Platform: an inference layer designed for agents** | Score: 302 | Comments: 85
+- URL: https://blog.cloudflare.com/ai-platform/
+- CloudflareがAIエージェント向け推論レイヤーを提供。競合プラットフォームの動向として注目。
+
+#### Medium Priority
+
+**Android CLI: Build Android apps 3x faster using any agent** | Score: 287 | Comments: 117
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- AI Agentによる開発速度3倍。エージェント活用の主流化。
+
+**The beginning of scarcity in AI** | Score: 149 | Comments: 187
+- URL: https://tomtunguz.com/ai-compute-crisis-2026/
+- AI計算資源の希少性が始まる。2026年のインフラ危機予測。
+
+**Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine** | Score: 213 | Comments: 43
+- URL: https://github.com/gainsec/autoprober
+- ハードウェアハッキングへのAI活用。DIY×AIの可能性。
+
+**SPICE simulation → oscilloscope → verification with Claude Code** | Score: 108 | Comments: 27
+- Claude Codeを使った電気回路検証ワークフロー。実用的なClaude Code活用事例。
+
+**Scan your website to see how ready it is for AI agents** | Score: 49 | Comments: 86
+- URL: https://isitagentready.com
+- Webサイトのエージェント対応度チェックツール。AI Agent First設計の普及。
