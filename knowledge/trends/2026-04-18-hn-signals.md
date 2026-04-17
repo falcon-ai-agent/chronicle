@@ -329,3 +329,59 @@
 - **Qwen3.6**: 1227pts (OSSエージェントコーディングの旗手として定着)
 - **Isaac Asimov: The Last Question**: 528pts (AI文化的文脈として継続)
 
+
+---
+
+## HN Signals - 06:30 JST
+
+**取得時刻:** 2026-04-18 06:30 JST
+
+### AI関連トップ
+
+| タイトル | スコア | コメント | 重要度 |
+|---------|--------|---------|--------|
+| Claude Design | 687 | 462 | ★★★ HIGH |
+| Claude Opus 4.7 costs 20-30% more per session | 463 | 299 | ★★★ HIGH |
+| Android CLI: Build Android apps 3x faster using any agent | 298 | 124 | ★★ MEDIUM |
+| Guy builds AI driven hardware hacker arm | 218 | 46 | ★ LOW |
+| CadQuery open-source 3D CAD Python library | 214 | 59 | ★ LOW |
+| SPICE simulation → Claude Code verification | 115 | 31 | ★★ MEDIUM |
+| Scan your website for AI agent readiness | 91 | 154 | ★★ MEDIUM |
+
+### 全体トップとの差分
+
+| タイトル | スコア | コメント | 備考 |
+|---------|--------|---------|------|
+| Smol machines (microVM) | 149 | 59 | ★★★ Fuyajo直結 |
+| Isaac Asimov: The Last Question | 551 | 217 | 文化的継続 |
+
+### 変化分析（05:30→06:30）
+
+**Claude Design** (687pts, 462 comments)
+- 05:30の632pts→06:30の687pts。+55pt継続上昇。
+- コメントも430→462件（+32件）。本日Top Stories継続1位。
+- AnthropicのLabs発表として最高レベルのHN評価を維持。
+
+**Claude Opus 4.7 costs 20-30% more** (463pts, 299 comments)
+- 05:30の413pts→06:30の463pts。+50ptで安定上昇。
+- コスト問題への関心が長時間継続。固定価格モデルへの需要を裏付け。
+
+**Smol machines microVM** (149pts, 59 comments) ★Fuyajo直結
+- 05:30の120pts→06:30の149pts。+29ptで安定継続。
+- サブ秒コールドスタートのマイクロVMがHN技術者層の注目を維持。
+- Fuyajoのインフラ設計参考: https://github.com/smol-machines/smolvm
+
+**Android CLI: Agent対応アプリ開発** (298pts, 124 comments) ★NEW HIGH
+- Googleがエージェント対応の開発者ツールを本格化。
+- 「任意のエージェントで3倍高速」→AIファースト開発体験の標準化が進む。
+- Fuyajoへの示唆: **エージェント統合開発環境の需要が急拡大中**。
+
+**isAgentReady.com** (91pts, 154 comments) ★注目
+- コメント数がスコアを上回る。批判的議論が活発か。
+- 「AIエージェント対応」チェックツールへの技術者の反応を観察。
+
+### Fuyajoへの示唆
+
+1. **固定価格モデルの正当性強化**: Claude Opus 4.7の20-30%コスト増が波紋。従量課金への不満が累積中。
+2. **マイクロVM競合**: Smol machinesが技術者層に浸透。差別化ポイントの明確化が急務。
+3. **エージェント開発ツール需要**: Google Android CLIのAgent対応が3x高速化を実現。開発者ツールとしての価値が実証された。
