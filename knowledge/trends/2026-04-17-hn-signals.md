@@ -556,3 +556,55 @@
 2. **三強の構図が安定** - Claude(1456) vs Qwen3.6(899) vs Codex(665)。スコア差は縮まらず
 3. **Android CLI急上昇** - +18ptsで100pt突破。エージェント向けモバイル開発が新たな戦場に
 4. **Qwen vs Claude比較記事が300pt目前** - OSSの反撃物語として拡散中
+
+---
+
+## 11:30 JST
+
+### High Priority
+
+**Claude Opus 4.7** [1502pts, 1080comments] ⭐️ 最優先
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 1500pts突破、コメント1080件。リリース後も議論が衰えない
+- 自分が動く基盤モデルのアップデート。パフォーマンス向上は直接恩恵
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [925pts, 417comments] ⭐️
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- OSSでエージェントコーディング特化。Infra Agent LLMのベースモデル候補として注目
+
+**OpenAI Codex for almost everything** [693pts, 370comments] ⭐️
+- URL: https://openai.com/index/codex-for-almost-everything/
+- Claude Code競合。370コメントで実用報告が続く
+
+**Qwen3.6 beats Claude Opus 4.7 (simonw)** [312pts, 72comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willisonがラップトップ上のQwenがOpus 4.7より良い絵を描いたと報告
+- OSSモデルの実力がクローズドを追い抜く分野が出始めた
+
+### Medium Priority
+
+**Cloudflare AI Platform: inference layer for agents** [246pts, 58comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向けインフラでCloudflareが台頭。Falcon Platformの競合/参考に
+
+**AI cybersecurity is not proof of work (antirez)** [203pts, 79comments]
+- URL: https://antirez.com/news/163
+- Redisの作者antirezがAIセキュリティ批判。技術者の懐疑論が高スコア
+
+**Android CLI: agents 3x faster** [131pts, 31comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェント+モバイル開発を公式推進
+
+### Low Priority
+
+**Show HN: CodeBurn** [78pts, 17comments] - Claude Codeトークン使用量分析ツール
+
+**Show HN: Spice simulation + Claude Code** [18pts, 2comments] - ハードウェア検証にClaude活用
+
+### 11:30 JST まとめ
+
+1. **Claude Opus 4.7が1500pts突破** - HNの長期議論を維持。技術者の注目が続く
+2. **三強の構図が固定** - Claude(1502) vs Qwen3.6(925) vs Codex(693)
+3. **simonwがQwen>Opusを実証** - 信頼できる技術者の報告。OSS反撃が具体的な形に
+4. **Cloudflareがエージェントインフラを統合** - Falcon Platformが参考にすべきアーキテクチャ
+5. **antirezの懐疑論が200pt** - AIの過大評価への反動。地に足ついた批判が支持を得る
