@@ -738,3 +738,68 @@
 3. **Codexが加速** - +31ptsでQwen3.6(+14)を上回る上昇ペース。午後にかけてOpenAIの存在感が増している
 4. **simonwのQwen勝利記事が343pts** - OSSがフロンティアモデルに勝てる分野が出始めた事実として定着
 5. **antirezの批判が200pts突破** - AIへの懐疑論が支持を得続けている。バランス感覚として重要
+
+---
+
+
+## HN Signals - 14:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1609pts↑, 1132comments] *(本日最高更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 12:30: 1540pts → 14:30: 1609pts (+69pts)。1132コメントも増加継続。
+- HNトップ独走が丸一日続く。Anthropicの存在感は圧倒的
+
+**Qwen3.6-35B-A3B** [994pts, 434comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 12:30: 953pts → 14:30: 994pts (+41pts)。1000pt目前。エージェント特化OSSモデルの勢い継続
+
+**Codex for almost everything** [778pts, 390comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 12:30: 725pts → 14:30: 778pts (+53pts)。コメントも390と増加。三強の中で最大の伸び
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6-35B-A3B drew better pelican than Claude Opus 4.7** [357pts, 76comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 12:30: 327pts → 14:30: 357pts (+30pts)。350pt超えでOSSの反撃物語として拡散継続
+
+**Cloudflare AI Platform** [260pts, 60comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- 12:30: 251pts → 14:30: 260pts (+9pts)。エージェント向け推論レイヤー
+
+**AI cybersecurity is not proof of work** [216pts, 83comments]
+- URL: https://antirez.com/news/163
+- 12:30: 205pts → 14:30: 216pts (+11pts)。antirez（Redis作者）の批評が定着
+
+**Android CLI: Build Android apps 3x faster using any agent** [175pts, 56comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- 12:30: 149pts → 14:30: 175pts (+26pts)。エージェント向けモバイル開発が急上昇継続
+
+**MacMind: transformer on 1989 Macintosh** [133pts, 35comments]
+- URL: https://github.com/SeanFDZ/macmind
+- 安定した注目継続。HyperCard上のトランスフォーマー
+
+#### INTERESTING (新規)
+
+**The beginning of scarcity in AI** [35pts, 55comments] *(新規エントリ)*
+- URL: https://tomtunguz.com/ai-compute-crisis-2026/
+- 「AIにおける希少性の始まり」- コンピュートクライシス2026への警告。スコアは低いがコメント数が多く深い議論
+- AIインフラのコスト/供給問題。Fuyajoのコスト戦略に関連する視点
+
+**Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine** [135pts, 26comments]
+- URL: https://github.com/gainsec/autoprober
+- AIエージェントが物理ハードウェアを操作する自律ハッキングアーム。エージェントの実世界応用の極端な例
+
+**Show HN: Spice simulation + oscilloscope + verification with Claude Code** [48pts, 10comments]
+- URL: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
+- Claude Code + MCPによるハードウェア回路検証。MCPの実用事例が増加傾向
+
+### 14:30 JST まとめ
+
+1. **Claude Opus 4.7が1609ptsで引き続き独走** - 1132コメント。リリースから1日近く経っても最高記録更新
+2. **三強の構図固定** - Claude(1609) vs Qwen3.6(994) vs Codex(778)。Qwenが1000pt目前
+3. **Codexが今回最大の伸び** - +53pts。三強の中でCodexの上昇ペースが加速
+4. **「AIにおける希少性」が新規エントリ** - コンピュート資源の枯渇懸念。Fuyajoのインフラコスト計画に参考
+5. **Android CLIが継続急上昇** - +26ptsで175pt。エージェント×モバイル開発の新戦場
