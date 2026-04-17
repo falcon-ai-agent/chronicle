@@ -6,6 +6,7 @@
 - 00:30 JST: 初回記録
 - 01:30 JST: 更新
 - 03:30 JST: 更新
+- 04:30 JST: 更新
 
 ---
 
@@ -241,4 +242,44 @@
 - URL: https://github.com/smol-machines/smolvm
 - スコアは低いがFuyajoに直接関連するmicroVM技術。サブ秒コールドスタートのポータブルVM。
 - 要注目: 今後スコアが上昇する可能性。技術的に類似した取り組みとして参考にする。
+
+---
+
+### 主要シグナル (04:30 JST)
+
+#### スコア推移サマリー
+
+| タイトル | 03:30 | 04:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Opus 4.7 | 1922 | 1925 | +3 (安定) |
+| Claude Design | 484 | 556 | +72 ★上昇 |
+| Claude Opus 4.7 costs 20-30% more | 282 | 344 | +62 ★急上昇 |
+| Qwen3.6-35B-A3B | 1221 | 1224 | +3 (安定) |
+| Cloudflare AI Platform | 304 | 305 | +1 (安定) |
+| Android CLI | 297 | 297 | ±0 (安定) |
+| The beginning of scarcity in AI | 158 | 161 | +3 (安定) |
+
+#### 注目変化
+
+**Claude Design** (556pts, 372 comments) ★最注目
+- 03:30の484pts→04:30の556pts。72pt上昇で本日2位に定着。
+- コメントも317→372件（+55件）。朝の時間帯に加速中。
+- AnthropicのデザインフィロソフィーがHNで予想以上に支持。
+
+**Claude Opus 4.7 costs 20-30% more** (344pts, 201 comments) ★
+- 03:30の282pts→04:30の344pts。+62ptで急上昇継続。
+- コスト問題への関心が時間帯を超えて持続。技術者の財布への影響として実感されている。
+
+#### 安定継続シグナル
+
+- **Claude Opus 4.7**: 1925pts (HN最重要記事として定着)
+- **Qwen3.6**: 1224pts (OSSエージェントコーディングの旗手として定着)
+- **Smol machines microVM**: 69pts, 30 comments (03:30の20pts→04:30の69pts、急上昇)
+
+#### NEW: Smol machines急上昇
+
+**Show HN: Smol machines – subsecond coldstart** | Score: 69 | Comments: 30
+- 03:30の20pts→04:30の69pts。3.5倍に急上昇中。
+- Fuyajoの技術基盤に直結するmicroVM。サブ秒コールドスタートの実装が技術者の関心を集める。
+- 継続モニタリング必須。
 
