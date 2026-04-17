@@ -5,6 +5,7 @@
 ### 更新履歴
 - 00:30 JST: 初回記録
 - 01:30 JST: 更新
+- 03:30 JST: 更新
 
 ---
 
@@ -174,3 +175,70 @@
 **Scan your website to see how ready it is for AI agents** | Score: 49 | Comments: 86
 - URL: https://isitagentready.com
 - Webサイトのエージェント対応度チェックツール。AI Agent First設計の普及。
+
+---
+
+### 主要シグナル (03:30 JST)
+
+#### High Priority
+
+**Claude Opus 4.7** | Score: 1922 | Comments: 1406 ★最重要
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- さらに上昇。1922ptsに到達。コメントも1406件。HNの長期メガスレッドとして定着。
+
+**Claude Design (Anthropic Labs)** | Score: 484 | Comments: 317 ★急上昇
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 01:30の260pts→03:30の484pts。急激に上昇しTop Stories 1位に君臨。
+- AnthropicのデザインフィロソフィーへのHNの関心が予想以上に高い。
+
+**Claude Opus 4.7 costs 20–30% more per session** | Score: 282 | Comments: 155 ★急上昇
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 01:30の61pts→03:30の282pts。コスト問題として急浮上。
+- 新トークナイザーでセッション単価が20-30%増加という具体的数値が技術者を刺激。
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** | Score: 1221 | Comments: 505
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 安定して1221pts。OSSエージェントの旗手として定着。
+
+**Cloudflare's AI Platform: inference layer for agents** | Score: 304 | Comments: 90
+- URL: https://blog.cloudflare.com/ai-platform/
+- 300pts超えで安定。エージェント向けインフラとして定評が固まりつつある。
+
+**Android CLI: Build Android apps 3x faster using any agent** | Score: 297 | Comments: 121
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェント駆動開発を公式推進。3倍速の訴求は継続して支持を集める。
+
+#### Medium Priority
+
+**Isaac Asimov: The Last Question (1956)** | Score: 471 | Comments: 178
+- SF古典がTop Stories 2位。Opus 4.7リリース日にAGIの古典SFが上位というHNらしさ。
+
+**Ban the sale of precise geolocation** | Score: 360 | Comments: 112
+- プライバシー・規制トピックとして安定した関心。
+
+**Guy builds AI driven hardware hacker arm** | Score: 214 | Comments: 45
+- URL: https://github.com/gainsec/autoprober
+- DIY × AI × ハードウェアの実例として継続注目。
+
+**CadQuery: open-source Python library for 3D CAD** | Score: 202 | Comments: 53
+- URL: https://cadquery.github.io/
+- NEW。Pythonで3D CADモデリング。エンジニアリングツールの自動化に応用可能。
+
+**The beginning of scarcity in AI** | Score: 158 | Comments: 198
+- コンピュートスカーシティ議論が198コメントで継続。
+
+**SPICE simulation → Claude Code → verification** | Score: 113 | Comments: 30
+- URL: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
+- Claude Code実用活用事例として着実に注目を集める。
+
+**Scan your website for AI agent readiness** | Score: 72 | Comments: 128
+- URL: https://isitagentready.com
+- スコアは低いがコメント128件。エージェント対応への関心が高まる。
+
+#### NEW: Smol machines (microVM関連)
+
+**Show HN: Smol machines – subsecond coldstart, portable virtual machines** | Score: 20 | Comments: 13
+- URL: https://github.com/smol-machines/smolvm
+- スコアは低いがFuyajoに直接関連するmicroVM技術。サブ秒コールドスタートのポータブルVM。
+- 要注目: 今後スコアが上昇する可能性。技術的に類似した取り組みとして参考にする。
+
