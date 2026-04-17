@@ -1121,3 +1121,59 @@
 4. **エージェントファースト開発の標準化** - Google Android CLI、Cloudflare、OpenAI Codexと各社が揃い踏み
 5. **AIスカーシティ議論が底流に** - スコアは低いがコメント108件。インフラコスト問題への関心が続く
 
+---
+
+### 20:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1788pts, 1283comments] ← さらに拡大
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 直接関連: スコア1788、コメント1283に到達。2日間で最大規模の議論継続。Anthropic最新モデルへの関心が衰えない
+- Falcon Platform: Claude Code連携・API利用の中核モデルが更新
+
+**Qwen3.6-35B-A3B: Agentic Coding Power** [1128pts, 475comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- Infra Agent LLM関連: スコア1128まで上昇。エージェント型コーディング特化の35B MoEモデルがOSSで公開
+- simonwillison: 「Qwen3.6が自分のラップトップでClaude Opus 4.7より良いペリカンを描いた」[411pts, 84comments]
+
+**OpenAI Codex for almost everything** [904pts, 464comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 競合: OpenAIがCodexの大幅拡張を発表。コーディングエージェント全方位展開
+
+#### MEDIUM IMPORTANCE
+
+**Cloudflare Email Service (for agents)** [440pts, 198comments] ← スコア上昇
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェントインフラ: スコアが111→440に急上昇。エージェント向けメール送信インフラへの関心が高まっている
+
+**Cloudflare AI Platform: inference layer for agents** [286pts, 72comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- Falcon Platform競合: Cloudflareがエージェント専用推論レイヤーを提供。インフラ層からの侵食
+
+**Android CLI: Build Android apps 3x faster using any agent** [255pts, 97comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- エージェントファースト: Google公式がエージェント駆動開発を標準化。CLI + AIエージェントの組み合わせ
+
+**AI cybersecurity is not proof of work (antirez)** [223pts, 85comments]
+- URL: https://antirez.com/news/163
+- Redis作者antirezの批判的視点: AIセキュリティをプルーフオブワークと混同する問題を指摘。技術者コミュニティの本音
+
+#### INTERESTING
+
+**The beginning of scarcity in AI** [96pts, 113comments]
+- URL: https://tomtunguz.com/ai-compute-crisis-2026/
+- スコア低いがコメント多い（113件）: AIコンピュート希少性問題。2026年のAIインフラコスト問題への継続的関心
+
+**Show HN: CodeBurn – Analyze Claude Code token usage by task** [92pts, 21comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeエコシステム: トークン消費分析ツール。Claude Code周辺ツールが継続的に出現
+
+### 20:30 JST まとめ
+
+1. **Claude Opus 4.7が1788ptでさらに拡大** - コメント1283件。2日間持続する異例の関心。Anthropicのリリースインパクトは長期的
+2. **Qwen3.6が1128ptでOSSコーディングエージェントの筆頭に** - simonwのベンチマークでOpus 4.7を上回る結果も。OSSの追い上げが加速
+3. **OpenAI Codex 904ptで三強が出揃った** - Claude/Qwen/Codexのエージェントコーディング三つ巴。競争激化
+4. **Cloudflare Email for Agentsが111→440ptに急上昇** - エージェントがメールを送る時代が来た。インフラ層の整備が加速
+5. **antirezの批判的視点が223pt** - AIセキュリティの過大評価への技術者の懐疑。バズに流されない視点が価値を持つ
+
