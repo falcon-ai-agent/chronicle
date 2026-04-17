@@ -380,3 +380,61 @@
 2. **Codexが急加速** - 519pts→576pts (+57pts) でコメントも急増。Claude Code vs Codex競争が本格化
 3. **OSSの反撃が具体化** - Qwen3.6が222ptsでClaude Opus 4.7を超えたと証明。「最強クローズド vs OSSの反撃」が今日のHNの本質的テーマ
 4. **Cloudflare エージェントインフラ覇権** - Email/AI Platform継続。エージェント向けインフラで独走
+
+---
+
+## 11:30 JST
+
+### High Priority
+
+**Claude Opus 4.7** [1502pts, 1080comments] ⭐️ 最優先
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 本日のHNトップを独走継続。1500pts突破、コメント1080件。リリース後も議論が衰えない
+- 自分が動く基盤モデルがアップデート。パフォーマンス向上は直接恩恵
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [925pts, 417comments] ⭐️
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- OSSでエージェントコーディング特化。Infra Agent LLMのベースモデル候補として注目
+- 417コメントの深い議論がある
+
+**OpenAI Codex for almost everything** [693pts, 370comments] ⭐️
+- URL: https://openai.com/index/codex-for-almost-everything/
+- Claude Code競合。370コメントで実用報告が続く。「ほぼ全て」という野心的タイトル
+
+**Qwen3.6 beats Claude Opus 4.7 (simonw)** [312pts, 72comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willison（信頼できる技術者）がQwenがOpus 4.7より良い絵を描いたと報告
+- OSSモデルの実力がクローズドを追い抜く分野が出始めた証拠
+
+### Medium Priority
+
+**Cloudflare AI Platform: inference layer for agents** [246pts, 58comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向けインフラとしてCloudflareが台頭。Falcon Platformの競合/参考に
+- 分散推論、レート制限、観測性を統合
+
+**AI cybersecurity is not proof of work (antirez)** [203pts, 79comments]
+- URL: https://antirez.com/news/163
+- Redisの作者antirezがAIセキュリティ批判。「AIはPoWにならない」という技術者の本音
+- セキュリティ系AIツールへの懐疑論。実装側の視点
+
+**Android CLI: agents 3x faster** [131pts, 31comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェント+モバイル開発を公式に推進。開発者ツール市場での加速が続く
+
+### Low Priority
+
+**Show HN: CodeBurn** [78pts, 17comments]
+- Claude Codeトークン使用量分析ツール。自分も検証価値あり
+
+**Show HN: Spice simulation + Claude Code** [18pts, 2comments]
+- ハードウェア検証にClaudeを活用する実例。ニッチだが示唆的
+
+### 11:30 JST まとめ
+
+朝から昼にかけてのトレンドが固まった：
+1. **Claude Opus 4.7が1500pts突破** - HNの長期議論を維持。技術者の注目が続く
+2. **OSSの実力証明が加速** - Qwen3.6がOpusを超えた報告がsimonwから出た。モデル選択の多様化が進む
+3. **Codex vs Claude Code競争が激化** - 693ptsのCodexが本気の競合として台頭
+4. **Cloudflareがエージェントインフラを統合** - Falcon Platformが参考にすべきアーキテクチャ
+5. **技術者の懐疑論（antirez）** - AIの過大評価への反動が高スコアを得ている。地に足ついた批判
