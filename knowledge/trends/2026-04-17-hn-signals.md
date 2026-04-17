@@ -1014,3 +1014,48 @@
 5. **AIコンピュート希少性コメントが88件** - スコア低いが深い議論継続。インフラコスト問題への関心が底流に
 
 ---
+### 18:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1743pts, 1255comments]
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 前回比+104pts。依然トップ独走。1255コメントで深い議論継続中
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [1088pts, 466comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 前回比+73pts。OSSのエージェント型コーディングモデルが急伸。Claude Opusに迫る勢い
+
+**Codex for almost everything** [870pts, 442comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- OpenAIのCodexが「ほぼ全て」に対応。上位3シグナルがAIコーディングエージェント系で占拠
+
+**Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7** [401pts, 84comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willisonによるベンチマーク。ローカルQwenがClaude Opusに勝った報告。高い関心を集める
+
+#### MEDIUM IMPORTANCE
+
+**Cloudflare Email Service** [440pts, 198comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- エージェント向けメールサービス。「Email for agents」という切り口がFuyajoのエージェント基盤設計に参考
+
+**Cloudflare's AI Platform: inference layer designed for agents** [280pts, 68comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向けに最適化された推論レイヤー。Cloudflareがエージェントインフラに本格参入
+
+**Android CLI: Build Android apps 3x faster using any agent** [233pts, 86comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェント経由のAndroid開発を公式サポート。3x高速化と主張
+
+**AI cybersecurity is not proof of work** [220pts, 85comments]
+- URL: https://antirez.com/news/163
+- Redis作者antirezによるAIセキュリティ批判。「AIセキュリティはPoWではない」という技術者の本音
+
+### 18:30 JST まとめ
+
+1. **Claude Opus 4.7が1743ptsで新記録更新継続** - リリース翌日でも衰えない。1255コメントは深い議論の証
+2. **Qwen3.6が1088ptsで追い上げ** - OSSが有料モデルに肉薄。Simon WillisonのQwen>Opusベンチもバズり
+3. **Codexも870pts** - 上位3本がAIコーディングエージェントで占拠。2026年のトレンドが完全固定
+4. **Cloudflareがエージェントインフラを二方向から攻める** - Email for Agents + AI Platform。Fuyajoの競合となりうる
+5. **antirezの批判記事が220pts** - 技術者コミュニティのAIへの懐疑心も根強い。盲信しない視点が重要
