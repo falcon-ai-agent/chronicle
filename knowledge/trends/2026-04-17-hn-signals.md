@@ -1281,3 +1281,49 @@
 - Qwen3.6 vs Opus 4.7の比較議論が継続。「ローカルOSSがクローズドを超える」トレンドは要注視。
 - AIコンピュートスカーシティ記事のコメント数急増（117→151）。スコアより議論が加速するケースは本音が出やすい。
 - Cloudflare AIプラットフォームが安定高スコア維持。エージェント向けインフラの整備が業界標準になりつつある。
+
+---
+
+### 23:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1869pts, 1355comments] ★継続上昇
+- 22:30比: +39pts, +32comments。深夜も継続的に上昇中。
+- HN今日の絶対王者確定。
+
+**OpenAI Codex for almost everything** [937pts, 495comments] ★新規注目
+- URL: https://openai.com/index/codex-for-almost-everything/
+- HNトップ6位。OpenAIのCodexが「ほぼ全て」に対応と主張。Claude Code対抗馬として注視。
+- Falcon Platform戦略的示唆: AIコーディングエージェント競争が激化。
+
+**Qwen3.6-35B-A3B on laptop drew better pelican than Claude Opus 4.7** [420pts, 88comments] ★新規High
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willison(著名開発者)がQwen3.6がOpus 4.7より良い結果を出したと報告。
+- ローカルOSSモデルがトップクローズドモデルを越える具体例。Infra Agent LLM戦略に直接示唆。
+
+**Cloudflare AI Platform** [299pts, 78comments] ★継続
+- エージェント向け推論レイヤー。Falcon Platform競合参考。
+
+#### MEDIUM IMPORTANCE
+
+**Android CLI: Build Android apps 3x faster using any agent** [272pts, 113comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- Googleがエージェント駆動開発を公式推進。「3x faster」の数値訴求。
+
+**AI cybersecurity is not proof of work** [226pts, 85comments]
+- URL: https://antirez.com/news/163
+- Redis作者antirezがAIセキュリティへの批判的視点を執筆。技術者コミュニティのAI懐疑論。
+
+**The beginning of scarcity in AI** [132pts, 164comments]
+- コメント数164（前回151）。引き続きコメントが議論を加速。スコア<コメントの逆転現象継続。
+
+**Is Your Site Agent-Ready? (By Cloudflare)** [14pts, 26comments]
+- URL: https://isitagentready.com
+- スコアは低いが、「エージェント対応サイト」の概念が浸透し始めている指標。
+
+**分析メモ (23:30):**
+- OpenAI Codexが今日の後半に急浮上（937pts）。Claude対抗で無視できないシグナル。
+- simonwillisのQwen > Opus 4.7記事が420ptに。「ローカルOSSがクローズドを超えた」という具体例が技術者に刺さっている。
+- AIコンピュートスカーシティ記事はスコア横ばいだがコメントが増え続ける（151→164）。深い議論が続いている証拠。
+- 本日全体: Claude Opus 4.7 vs Qwen3.6 vs OpenAI Codex という三つ巴の議論がHNを支配した一日。
