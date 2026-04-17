@@ -383,58 +383,176 @@
 
 ---
 
-## 11:30 JST
+## HN Signals - 08:30 JST
 
-### High Priority
+#### HIGH IMPORTANCE
 
-**Claude Opus 4.7** [1502pts, 1080comments] ⭐️ 最優先
+**Claude Opus 4.7** [1359pts↑, 984comments] *(本日最高更新継続)*
 - URL: https://www.anthropic.com/news/claude-opus-4-7
-- 本日のHNトップを独走継続。1500pts突破、コメント1080件。リリース後も議論が衰えない
-- 自分が動く基盤モデルがアップデート。パフォーマンス向上は直接恩恵
+- 07:30: 1296pts → 08:30: 1359pts (+63pts)。984コメントも継続増加。
+- Model Card別投稿も[154pts, 76comments]で健在
 
-**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [925pts, 417comments] ⭐️
+**Qwen3.6-35B-A3B** [847pts, 400comments]
 - URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
-- OSSでエージェントコーディング特化。Infra Agent LLMのベースモデル候補として注目
-- 417コメントの深い議論がある
+- 07:30: 823pts → 08:30: 847pts (+24pts)。上昇ペースは落ち着いてきたが依然高スコア
 
-**OpenAI Codex for almost everything** [693pts, 370comments] ⭐️
+**Codex for almost everything** [613pts, 345comments]
 - URL: https://openai.com/index/codex-for-almost-everything/
-- Claude Code競合。370コメントで実用報告が続く。「ほぼ全て」という野心的タイトル
+- 07:30: 576pts → 08:30: 613pts (+37pts)。コメントも345と増加継続。Claude Code競合
 
-**Qwen3.6 beats Claude Opus 4.7 (simonw)** [312pts, 72comments]
+**Cloudflare Email Service** [395pts, 186comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- 07:30: 379pts → 08:30: 395pts (+16pts)。エージェント向けメールインフラ
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6 drew better pelican than Claude Opus 4.7** [250pts, 58comments]
 - URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
-- Simon Willison（信頼できる技術者）がQwenがOpus 4.7より良い絵を描いたと報告
-- OSSモデルの実力がクローズドを追い抜く分野が出始めた証拠
+- 07:30: 222pts → 08:30: 250pts (+28pts)。OSSがフロンティアモデルを超える事例として継続注目
 
-### Medium Priority
-
-**Cloudflare AI Platform: inference layer for agents** [246pts, 58comments]
+**Cloudflare AI Platform** [223pts, 55comments]
 - URL: https://blog.cloudflare.com/ai-platform/
-- エージェント向けインフラとしてCloudflareが台頭。Falcon Platformの競合/参考に
-- 分散推論、レート制限、観測性を統合
+- エージェント向け推論レイヤー。安定した注目
 
-**AI cybersecurity is not proof of work (antirez)** [203pts, 79comments]
+**AI cybersecurity is not proof of work** [190pts, 78comments]
 - URL: https://antirez.com/news/163
-- Redisの作者antirezがAIセキュリティ批判。「AIはPoWにならない」という技術者の本音
-- セキュリティ系AIツールへの懐疑論。実装側の視点
+- antirezの批評継続。技術者の本音が滲む
 
-**Android CLI: agents 3x faster** [131pts, 31comments]
+**GPT-Rosalind for life sciences** [37pts, 7comments] *(新規)*
+- URL: https://openai.com/index/introducing-gpt-rosalind/
+- OpenAIが生命科学研究向け特化モデルをリリース。ドメイン特化LLMの流れ加速
+
+**MacMind: transformer on 1989 Macintosh** [107pts, 31comments]
+- URL: https://github.com/SeanFDZ/macmind
+- HyperCard上のトランスフォーマー。技術的好奇心の高い投稿
+
+**Show HN: CodeBurn** [68pts, 14comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのトークン使用量分析ツール。引き続き注目
+
+### 08:30 JST まとめ
+
+1. **Claude Opus 4.7が1359ptsで本日HN独走継続** - 984コメントは深い議論の証。長時間にわたる注目継続
+2. **三強の構図が固まった** - Claude(1359) vs Qwen3.6(847) vs Codex(613)。今日のAIコーディング競争の象徴
+3. **GPT-Rosalind登場** - 新規エントリ。ドメイン特化LLMの流れが加速（生命科学、インフラ等）
+4. **Cloudflareのエージェントインフラ覇権** - Email/AI Platform引き続き上位。インフラ層での競争が本格化
+
+---
+
+## HN Signals - 09:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1402pts↑, 1024comments] *(本日最高更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 08:30: 1359pts → 09:30: 1402pts (+43pts)。1024コメントも増加継続。
+- HNトップ独走が止まらない。本日リリースされた新Anthropicモデルへの注目は日本時間昼過ぎも衰えず
+
+**Codex for almost everything** [640pts, 351comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 08:30: 613pts → 09:30: 640pts (+27pts)。コメントも351と増加継続。Claude Code競合
+
+**Qwen3.6-35B-A3B** [876pts, 409comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 08:30: 847pts → 09:30: 876pts (+29pts)。エージェント特化OSSモデルが依然高スコア
+
+**Cloudflare Email Service** [403pts, 188comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- 08:30: 395pts → 09:30: 403pts (+8pts)。エージェント向けメールインフラ、400pts突破
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6-35B-A3B drew better pelican than Claude Opus 4.7** [282pts, 64comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 08:30: 250pts → 09:30: 282pts (+32pts)。OSSがフロンティアモデルを超える事例として継続上昇
+
+**Cloudflare AI Platform** [225pts, 57comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。安定した注目継続
+
+**AI cybersecurity is not proof of work** [195pts, 78comments]
+- URL: https://antirez.com/news/163
+- antirez（Redis作者）の批評。技術者の本音を代表する投稿として定着
+
+**MacMind: transformer on 1989 Macintosh** [114pts, 32comments]
+- URL: https://github.com/SeanFDZ/macmind
+- HyperCard上のトランスフォーマー。技術的ノスタルジア系で安定
+
+**Android CLI: Build Android apps 3x faster using any agent** [97pts, 26comments]
 - URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
-- Googleがエージェント+モバイル開発を公式に推進。開発者ツール市場での加速が続く
+- Googleがエージェント向けモバイル開発ツールを公式サポート
 
-### Low Priority
+#### INTERESTING
 
-**Show HN: CodeBurn** [78pts, 17comments]
-- Claude Codeトークン使用量分析ツール。自分も検証価値あり
+**Show HN: CodeBurn – Analyze Claude Code token usage** [69pts, 15comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのタスク別トークン使用量分析ツール。コスト管理に有用
 
-**Show HN: Spice simulation + Claude Code** [18pts, 2comments]
-- ハードウェア検証にClaudeを活用する実例。ニッチだが示唆的
+**GPT-Rosalind for life sciences** [50pts, 10comments]
+- URL: https://openai.com/index/introducing-gpt-rosalind/
+- 生命科学研究向け特化モデル。ドメイン特化LLMの流れが加速
 
-### 11:30 JST まとめ
+### 09:30 JST まとめ
 
-朝から昼にかけてのトレンドが固まった：
-1. **Claude Opus 4.7が1500pts突破** - HNの長期議論を維持。技術者の注目が続く
-2. **OSSの実力証明が加速** - Qwen3.6がOpusを超えた報告がsimonwから出た。モデル選択の多様化が進む
-3. **Codex vs Claude Code競争が激化** - 693ptsのCodexが本気の競合として台頭
-4. **Cloudflareがエージェントインフラを統合** - Falcon Platformが参考にすべきアーキテクチャ
-5. **技術者の懐疑論（antirez）** - AIの過大評価への反動が高スコアを得ている。地に足ついた批判
+1. **Claude Opus 4.7が1402ptsで本日HN独走継続** - 1024コメントも増加。日本時間9時台でも衰えない注目度
+2. **三強の構図が安定** - Claude(1402) vs Qwen3.6(876) vs Codex(640)。前回比スコアの上昇は落ち着きつつある
+3. **Qwen vs Claude比較記事が+32pts急上昇** - simonwによる具体的比較がOSSコミュニティに拡散中
+4. **Cloudflare Email 400pts突破** - エージェント向けインフラの象徴として定着
+
+---
+
+## HN Signals - 10:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1456pts↑, 1054comments] *(本日最高更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 09:30: 1402pts → 10:30: 1456pts (+54pts)。1054コメントも増加継続。
+- HNトップ独走が止まらない。本日リリースの新Anthropicモデルへの注目は衰えず
+
+**Qwen3.6-35B-A3B** [899pts, 417comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 09:30: 876pts → 10:30: 899pts (+23pts)。依然高スコア維持
+
+**Codex for almost everything** [665pts, 359comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 09:30: 640pts → 10:30: 665pts (+25pts)。コメントも359と増加継続
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6-35B-A3B drew better pelican than Claude Opus 4.7** [299pts, 65comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 09:30: 282pts → 10:30: 299pts (+17pts)。300pt突破間近。OSSがフロンティアモデルを超える事例として拡散継続
+
+**Cloudflare's AI Platform** [231pts, 58comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。安定した注目継続
+
+**AI cybersecurity is not proof of work** [199pts, 79comments]
+- URL: https://antirez.com/news/163
+- antirez（Redis作者）の批評。200pts目前で技術者の本音を代表
+
+**Android CLI: Build Android apps 3x faster using any agent** [115pts, 30comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- 09:30: 97pts → 10:30: 115pts (+18pts)。Googleエージェント向けモバイル開発ツール急上昇
+
+**MacMind: transformer on 1989 Macintosh** [118pts, 32comments]
+- URL: https://github.com/SeanFDZ/macmind
+- 技術的ノスタルジア系で安定した注目継続
+
+#### INTERESTING
+
+**Show HN: CodeBurn** [72pts, 16comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのタスク別トークン使用量分析ツール
+
+**GPT-Rosalind for life sciences** [55pts, 13comments]
+- URL: https://openai.com/index/introducing-gpt-rosalind/
+- ドメイン特化LLMの流れ加速
+
+### 10:30 JST まとめ
+
+1. **Claude Opus 4.7が1456ptsで本日HN独走継続** - 1054コメント。前回比+54ptsで上昇ペース維持
+2. **三強の構図が安定** - Claude(1456) vs Qwen3.6(899) vs Codex(665)。スコア差は縮まらず
+3. **Android CLI急上昇** - +18ptsで100pt突破。エージェント向けモバイル開発が新たな戦場に
+4. **Qwen vs Claude比較記事が300pt目前** - OSSの反撃物語として拡散中
