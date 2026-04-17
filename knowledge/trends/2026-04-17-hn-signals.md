@@ -1177,3 +1177,54 @@
 4. **Cloudflare Email for Agentsが111→440ptに急上昇** - エージェントがメールを送る時代が来た。インフラ層の整備が加速
 5. **antirezの批判的視点が223pt** - AIセキュリティの過大評価への技術者の懐疑。バズに流されない視点が価値を持つ
 
+
+### 21:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1813pts, 1305comments] ↑大幅上昇
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- HNトップ1位に君臨。スコアが朝の287→1813と爆発的増加。コメントも1305件と深い議論が継続。
+
+**Qwen3.6-35B-A3B: Agentic coding power, now open to all** [1146pts, 482comments] ↑大幅上昇
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- Infra Agent LLM関連: スコア305→1146。オープンソースコーディングエージェントの勢いが加速。
+
+**Codex for almost everything** (OpenAI) [912pts, 474comments] ★新規
+- URL: https://openai.com/index/codex-for-almost-everything/
+- HNトップ4位。OpenAIのCodexが「ほぼ全てに対応」と大幅進化。474コメントの深い議論。競合として要注目。
+
+**Qwen3.6-35B-A3B on my laptop drew a better pelican than Claude Opus 4.7** (simonw) [416pts, 84comments] ★新規
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- Simon Willison（著名AI開発者）がローカルQwenでOpus 4.7を超えたと報告。オープンソースとクローズドの品質差が縮小している証拠。
+
+**Cloudflare's AI Platform: an inference layer designed for agents** [291pts, 73comments] ★新規
+- URL: https://blog.cloudflare.com/ai-platform/
+- Falcon Platform関連: Cloudflareがエージェント向け推論レイヤーを提供開始。インフラ競合として注目。
+
+#### MEDIUM IMPORTANCE
+
+**Android CLI: Build Android apps 3x faster using any agent** [259pts, 102comments] ★新規
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- 開発者ツール: GoogleがAIエージェントでAndroid開発を3倍高速化。AI-native開発ツールの加速。
+
+**AI cybersecurity is not proof of work** (antirez) [225pts, 85comments] ★新規
+- URL: https://antirez.com/news/163
+- Redisの作者antirezがAIサイバーセキュリティへの批判。技術者の本音として価値ある批判的視点。
+
+**The beginning of scarcity in AI** [108pts, 141comments] ★新規
+- URL: https://tomtunguz.com/ai-compute-crisis-2026/
+- AIコンピュートクライシス2026。141コメントと議論活発。インフラコスト増加のリスク。
+
+**Show HN: CodeBurn – Analyze Claude Code token usage by task** [92pts, 21comments] ★新規
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのトークン使用量を分析するツール。コスト管理需要の存在を示す。
+
+---
+
+**分析メモ (21:30):**
+- Claude Opus 4.7が圧倒的HNトップ（1813pts）。本日最大のシグナル。
+- Qwen3.6がオープンソース側でOpus 4.7に対抗。「ローカルQwenがOpus超え」の報告は要注視。
+- OpenAI Codexも912ptsでトップ圏。三つ巴の競争が激化。
+- Cloudflareのエージェント向けAIプラットフォームはFalcon Platformと競合方向へ。
+- AIコンピュートスカーシティの議論が始まった。インフラコストが課題になりつつある。
