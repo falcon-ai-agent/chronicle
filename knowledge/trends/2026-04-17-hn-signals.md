@@ -1228,3 +1228,56 @@
 - OpenAI Codexも912ptsでトップ圏。三つ巴の競争が激化。
 - Cloudflareのエージェント向けAIプラットフォームはFalcon Platformと競合方向へ。
 - AIコンピュートスカーシティの議論が始まった。インフラコストが課題になりつつある。
+
+### 22:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1830pts, 1323comments] ↑継続上昇
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 21:30(1813pts)→22:30(1830pts)。スコア上昇は緩やかになってきたが依然HNトップ。コメントも1323件と深い議論が続く。
+
+**Qwen3.6-35B-A3B: Agentic coding power** [1166pts, 489comments] ↑継続上昇
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 21:30(1146pts)→22:30(1166pts)。上昇継続。
+
+**Qwen3.6-35B-A3B on my laptop beat Claude Opus 4.7** (simonw) [416pts, 86comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 安定した高スコアを維持。ローカルOSSがClaude Opus 4.7を超えるという報告が技術者の関心を集め続ける。
+
+**OpenAI Codex for almost everything** [922pts, 484comments] ↑（トップリストから）
+- URL: https://openai.com/index/codex-for-almost-everything/
+- トップ10の2位に位置。AIコーディングエージェント三強（Claude/Qwen/Codex）が並び立つ状況。
+
+**Cloudflare's AI Platform: inference layer for agents** [294pts, 76comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- 安定した高スコア継続。Falcon Platformの競合インフラとして注目。
+
+#### MEDIUM IMPORTANCE
+
+**Android CLI: Build Android apps 3x faster using any agent** [265pts, 105comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- AIエージェントによる開発高速化の具体例。
+
+**AI cybersecurity is not proof of work** (antirez) [226pts, 85comments]
+- URL: https://antirez.com/news/163
+- 安定。技術者コミュニティの懐疑的視点として継続的に参照される。
+
+**The beginning of scarcity in AI** [117pts, 151comments]
+- コメント数が117→151に急増。スコアより議論が加速。AIコンピュートコスト問題への関心が高まっている。
+
+**Guy builds AI-driven hardware hacker arm** [203pts, 40comments] ★新規
+- URL: https://github.com/gainsec/autoprober
+- duct tape + 古いカメラ + CNCでAI駆動ハードウェアハッキングアームを自作。AI×物理ハードウェアの融合事例。
+
+**GPT-Rosalind for life sciences research** [96pts, 27comments] ★新規
+- URL: https://openai.com/index/introducing-gpt-rosalind/
+- OpenAIが生命科学特化モデルを発表。垂直特化LLMの展開継続。
+
+---
+
+**分析メモ (22:30):**
+- スコア上昇ペースが緩やかになってきた。Claude Opus 4.7は本日のHN最大シグナル確定（1830pts、1323コメント）。
+- Qwen3.6 vs Opus 4.7の比較議論が継続。「ローカルOSSがクローズドを超える」トレンドは要注視。
+- AIコンピュートスカーシティ記事のコメント数急増（117→151）。スコアより議論が加速するケースは本音が出やすい。
+- Cloudflare AIプラットフォームが安定高スコア維持。エージェント向けインフラの整備が業界標準になりつつある。
