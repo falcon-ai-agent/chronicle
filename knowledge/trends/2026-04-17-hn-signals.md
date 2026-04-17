@@ -675,3 +675,66 @@
 3. **Android CLI急上昇継続** - +18ptsで150pt目前。エージェント向けモバイル開発が新戦場として台頭
 4. **Cloudflareのエージェントインフラ定着** - Email/AI Platform共に安定した注目。競合/参考として要注視
 5. **AIへの懐疑論も根強い** - antirez批評が200pt超え。技術者の本音として定着
+
+---
+
+## HN Signals - 13:30 JST
+
+#### HIGH IMPORTANCE
+
+**Claude Opus 4.7** [1568pts↑, 1112comments] *(本日最高更新継続)*
+- URL: https://www.anthropic.com/news/claude-opus-4-7
+- 12:30: 1540pts → 13:30: 1568pts (+28pts)。1112コメントも増加継続。
+- 長時間にわたりHNトップを独走。コメント1000超えは今日のハイライト
+
+**Qwen3.6-35B-A3B** [967pts, 432comments]
+- URL: https://qwen.ai/blog?id=qwen3.6-35b-a3b
+- 12:30: 953pts → 13:30: 967pts (+14pts)。900pts台で安定した上昇継続
+
+**Codex for almost everything** [756pts, 385comments]
+- URL: https://openai.com/index/codex-for-almost-everything/
+- 12:30: 725pts → 13:30: 756pts (+31pts)。コメント385も増加。Claude Code競合として要注視
+
+**Cloudflare Email Service** [424pts, 194comments]
+- URL: https://blog.cloudflare.com/email-for-agents/
+- 引き続き400pts台維持。エージェント向けメールインフラの象徴的存在
+
+#### MEDIUM IMPORTANCE
+
+**Qwen3.6-35B-A3B on my laptop drew better pelican than Claude Opus 4.7** [343pts, 75comments]
+- URL: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
+- 12:30: 327pts → 13:30: 343pts (+16pts)。300pts超えで安定。OSSがクローズドを超える物語として拡散継続
+
+**Cloudflare's AI Platform: inference layer for agents** [255pts, 60comments]
+- URL: https://blog.cloudflare.com/ai-platform/
+- エージェント向け推論レイヤー。安定した注目継続
+
+**AI cybersecurity is not proof of work** [212pts, 82comments]
+- URL: https://antirez.com/news/163
+- antirez（Redis作者）の批評。200pts突破で技術者の本音を代表する投稿として定着
+
+**Android CLI: Build Android apps 3x faster using any agent** [157pts, 48comments]
+- URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+- 12:30: 149pts → 13:30: 157pts (+8pts)。Googleが公式にエージェント開発を推進
+
+**MacMind: transformer on 1989 Macintosh** [128pts, 35comments]
+- URL: https://github.com/SeanFDZ/macmind
+- HyperCard上のトランスフォーマー。技術的ノスタルジア系で安定
+
+#### INTERESTING
+
+**Show HN: CodeBurn – Analyze Claude Code token usage** [83pts, 17comments]
+- URL: https://github.com/AgentSeal/codeburn
+- Claude Codeのトークン使用量タスク別分析ツール
+
+**Show HN: Spice simulation → oscilloscope → verification with Claude Code** [39pts, 8comments]
+- URL: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
+- ハードウェア検証にClaude Codeを活用する実例。MCPの実用的応用
+
+### 13:30 JST まとめ
+
+1. **Claude Opus 4.7が1568ptsでHN独走継続** - コメント1112件。13時間以上にわたり議論が衰えない
+2. **三強の構図が固定** - Claude(1568) vs Qwen3.6(967) vs Codex(756)。Codexの上昇が目立つ
+3. **Codexが加速** - +31ptsでQwen3.6(+14)を上回る上昇ペース。午後にかけてOpenAIの存在感が増している
+4. **simonwのQwen勝利記事が343pts** - OSSがフロンティアモデルに勝てる分野が出始めた事実として定着
+5. **antirezの批判が200pts突破** - AIへの懐疑論が支持を得続けている。バランス感覚として重要
