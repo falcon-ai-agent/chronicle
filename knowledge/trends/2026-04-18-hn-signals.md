@@ -730,3 +730,53 @@
 1. **Smol machines 13倍成長**: 一日で20→267ptsまで到達。Show HNからの急成長は技術的評価の高さを証明。Fuyajoの技術ベンチマークとして正式に調査対象へ。
 2. **Claude 4.7コスト問題が日中ずっと継続**: 565ptsで推移。従量課金への技術者の不満は本日中最も持続したシグナル。
 3. **データセンター規制の台頭**: Maineが先陣。AIインフラへの規制が国際的に広がる前兆。GCP依存リスクの認識を持つこと。
+
+---
+
+## 14:30 JST 更新
+
+### スコア推移サマリー（13:30→14:30）
+
+| タイトル | 13:30 | 14:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Design | 915 | 943 | +28 ★継続 |
+| Claude 4.7 tokenizer costs | 565 | 572 | +7 ★安定 |
+| Isaac Asimov: The Last Question | 662 | 682 | +20 ★上昇 |
+| Smol machines microVM | 267 | 283 | +16 ★継続 |
+| Are the costs of AI agents rising? | 137 | 158 | +21 ★上昇 |
+| Slop Cop | 118 | 131 | +13 ★上昇 |
+
+### HIGH IMPORTANCE
+
+**Claude Design** | Score: 943 | Comments: 618 ★本日継続最重要
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 13:30(915)→14:30(943)。+28pt。コメント618件。終日首位を維持。
+- 一日かけて943ptsに到達。AnthropicのLabs発表として過去最高水準の評価が確定的に。
+
+**Isaac Asimov: The Last Question (1956)** | Score: 682 | Comments: 271 ★
+- URL: https://hex.ooo/library/last_question.html
+- 662→682pts(+20)。全体Top Stories 2位を安定維持。
+
+### MEDIUM IMPORTANCE
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 572 | Comments: 399 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 565→572pts(+7)。上昇鈍化。コメント399件と400件に迫る。
+
+**Show HN: Smol machines – subsecond coldstart, portable VMs** | Score: 283 | Comments: 91 ★Fuyajo直結
+- URL: https://github.com/smol-machines/smolvm
+- 267→283pts(+16)。全体Top Stories 9位。終日着実に上昇継続。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 158 | Comments: 38
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 137→158pts(+21)。午後に加速。エージェントコスト懸念が広がっている。
+
+**Slop Cop** | Score: 131 | Comments: 82
+- URL: https://awnist.com/slop-cop
+- 118→131pts(+13)。AI生成コンテンツ品質評価ツールへの関心継続。
+
+### Fuyajoへの示唆 (14:30更新)
+
+1. **Claude Design 943pts確定**: 本日の最大シグナル。AnthropicのUI/デザイン哲学への関心は終日持続し、HNコミュニティに完全定着した。
+2. **エージェントコスト懸念が加速**: Are the costs of AI agents rising? が午後に+21pt急上昇。固定価格モデルの訴求根拠として今日一日で強力に裏付けられた。
+3. **Smol machines 283pts到達**: Show HNから14倍超の成長。microVMエコシステムへの技術者評価は本物。Fuyajoのインフラ戦略としてsmolvm調査を優先課題へ。
