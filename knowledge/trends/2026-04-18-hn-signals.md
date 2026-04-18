@@ -11,11 +11,10 @@
 - 06:30 JST: 更新
 - 07:30 JST: 更新
 - 08:30 JST: 更新
-<<<<<<< HEAD
 - 09:30 JST: 更新
-=======
 - 10:30 JST: 更新
->>>>>>> ae42e1d (chore: update chronicle submodule: HN Signals 10:30 JST 2026-04-18)
+- 11:30 JST: 更新
+- 12:30 JST: 更新
 
 ---
 
@@ -617,3 +616,60 @@
 1. **Smol machines(234pts)が全体トップ入り**: Fuyajoのコアユースケースと直結。技術コミュニティのVMコールドスタート速度への関心がさらに高まっている。
 2. **AIエージェントコスト不安が加速(111pts)**: 固定価格モデルの訴求タイミング。
 3. **Claude 4.7トークナイザーコスト問題が定着**: Anthropicへの不満がFuyajoの差別化要因として機能しうる。
+
+---
+
+## 12:30 JST 更新
+
+### スコア推移サマリー（11:30→12:30）
+
+| タイトル | 11:30 | 12:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Design | 857 | 891 | +34 ★継続 |
+| Measuring Claude 4.7's tokenizer costs | 545 | 556 | +11 ★安定 |
+| Smol machines microVM | 234 | 249 | +15 ★継続 |
+| Isaac Asimov: The Last Question | 630 | 647 | +17 ★上昇 |
+| Are the costs of AI agents rising exponentially? | 111 | 122 | +11 ★安定 |
+
+### HIGH IMPORTANCE
+
+**Claude Design** | Score: 891 | Comments: 588 ★本日継続最重要
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 11:30(857)→12:30(891)。+34pt。上昇ペースは鈍化しつつも本日Top Stories 1位を維持。
+- コメント575→588件（+13件）。議論は落ち着いてきたが関心は継続中。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 556 | Comments: 387 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 11:30(545)→12:30(556)。+11pt。安定継続。タイトルが"Claude 4.7"に変化（Opus 4.7から省略）。
+- Fuyajoへの示唆: コスト増問題が1日中HNに残り続けており、固定価格モデルへの需要の根強さを示す。
+
+**Isaac Asimov: The Last Question (1956)** | Score: 647 | Comments: 266 ★
+- 全体トップ5入り（630→647pts）。AI議論が盛んな今日この古典SFの浮上は文化的シグナル。
+
+### MEDIUM IMPORTANCE
+
+**Show HN: Smol machines – subsecond coldstart, portable VMs** | Score: 249 | Comments: 90 ★Fuyajo直結
+- URL: https://github.com/smol-machines/smolvm
+- 11:30(234)→12:30(249)。+15pt。全体トップ8位に安定。
+- 一日を通じて20→249ptsまで上昇。HN技術者層にmicroVMのサブ秒コールドスタートが評価され続けている。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 122 | Comments: 21
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 11:30(111)→12:30(122)。+11pt。安定継続。Toby Ordの2025年分析記事が刺さっている。
+
+**NASA Force** | Score: 239 | Comments: 252
+- URL: https://nasaforce.gov/
+- コメント252件でスコア<コメントの逆転。HN民の反応が活発。政府系IT動向。
+
+### 本日の総括シグナル（12:30時点）
+
+本日は朝から夜まで以下の3つが持続したトレンド:
+1. **Claude Design** (891pts): AnthropicのUI/デザイン哲学への関心が一日中継続。Labs名義の発表として最高水準の評価。
+2. **Claude 4.7トークナイザーコスト増** (556pts): 従量課金への不満が長時間残留。技術者の財布感覚を刺激し続けている。
+3. **Smol machines microVM** (249pts): Show HNから10倍以上のスコアアップ。サブ秒コールドスタートのポータブルVMがFuyajoの競合/参考として本格注目に。
+
+### Fuyajoへの示唆 (12:30更新)
+
+1. **Claude 4.7コスト問題が1日中継続**: 朝から深夜まで500pts超えで推移。「従量課金は高い」という認識がHN技術者に定着しつつある。固定価格モデルの訴求として今が最適タイミング。
+2. **Smol machines本格評価**: 249ptsに到達し全体トップ10入り。サブ秒コールドスタートVMへの関心は本物。Fuyajoの技術選定にsmolvmの評価を組み込む価値あり。
+3. **Claude Designがトレンド**: Anthropicがデザインに本気を出すことで、Claude API利用のプロダクトにも高い品質が求められるようになる。Fuyajoのフロントエンド品質投資の根拠。
