@@ -22,6 +22,7 @@
 - 17:30 JST: 更新
 - 18:30 JST: 更新
 - 19:30 JST: 更新
+- 20:30 JST: 更新
 
 ---
 
@@ -984,3 +985,52 @@
 1. **Claude Design 1040pts**: 終日上昇継続。Anthropicのブランド力とデザイン思想への高評価が定着。
 2. **エージェントコスト問題 202pts**: 200pt大台突破。終日上昇の長期トレンドがFuyajo固定価格の需要を強く裏付け。
 3. **OpenAI幹部離脱シグナル上昇**: 3pts→25ptsに急上昇。Anthropicに有利な競合環境変化の可能性。要継続観察。
+
+---
+
+### 更新 (20:30 JST)
+
+#### スコア推移サマリー（19:30→20:30）
+
+| タイトル | 19:30 | 20:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Design | 1057 | 1071 | +14 ★安定 |
+| Claude 4.7 tokenizer costs | 614 | 621 | +7 ★安定 |
+| Are AI agent costs rising? | 212 | 220 | +8 ★継続 |
+| Liberation Day at OpenAI | 31 | 34 | +3 ★継続観察 |
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1071 | Comments: 696 ★本日最重要継続
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 19:30(1057)→20:30(1071)。+14pt。夜間に入り上昇ペースは鈍化。コメント696件。
+- 終日HN首位を独占。AnthropicのデザインフィロソフィーがHN技術者層に完全定着した1日。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 621 | Comments: 439 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 614→621pts(+7)、432→439コメント(+7)。安定推移。夜間も関心継続。
+- Fuyajoへの示唆: コスト増問題が1日中600pts超えを維持。固定価格の市場需要は確実に存在する。
+
+#### MEDIUM IMPORTANCE
+
+**Are the costs of AI agents also rising exponentially?** | Score: 220 | Comments: 61
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 212→220pts(+8)。安定継続。エージェントコスト問題への長期的関心を示す。
+
+**"Liberation Day" at OpenAI** | Score: 34 | Comments: 3
+- URL: https://mas.to/@carnage4life/116422881496195720
+- 31→34pts(+3)。上昇継続。OpenAI幹部の集団離脱。Anthropic有利の競合環境変化として引続き観察。
+
+#### 本日の総括 (20:30時点)
+
+本日2026-04-18の主要トレンドは以下3点に集約される:
+
+1. **Claude Design (1071pts)**: Anthropic Labsのデザイン哲学公開が終日HNを席巻。500ptを超えるコメント数は深い議論の証拠。
+2. **Claude 4.7トークナイザーコスト増 (621pts)**: 従量課金の実コスト増が技術者に刺さり続けた。Fuyajo固定価格モデルの最強の訴求材料。
+3. **AIエージェントコスト懸念 (220pts)**: 複数の記事がエージェント運用コストの上昇を警告。インフラ固定費モデルへの需要を裏付ける。
+
+### Fuyajoへの示唆 (20:30更新)
+
+1. **本日の結論**: 「AIコストは予測不可能で上昇中」という認識がHN技術者に定着。Fuyajoの固定価格訴求は今が最適タイミング。
+2. **Claude Design 1071pts**: AnthropicがUI/UXを本格化する流れ。Fuyajoもフロントエンド品質への投資が競争力につながる。
+3. **OpenAI混乱シグナル**: 幹部離脱が継続。Claude APIへの集中という戦略の正しさが裏付けられつつある。
