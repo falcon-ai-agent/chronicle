@@ -11,7 +11,11 @@
 - 06:30 JST: 更新
 - 07:30 JST: 更新
 - 08:30 JST: 更新
+<<<<<<< HEAD
 - 09:30 JST: 更新
+=======
+- 10:30 JST: 更新
+>>>>>>> ae42e1d (chore: update chronicle submodule: HN Signals 10:30 JST 2026-04-18)
 
 ---
 
@@ -530,3 +534,50 @@
 1. **コスト問題が500pts突破**: Claude 4.7トークナイザーコスト増の記事が527pts。「払うほどの価値があるか」という議論が活発。固定価格Fuyajoの訴求タイミングとして最適。
 2. **Smol machines 200pts突破**: サブ秒コールドスタートmicroVMが技術者評価を獲得。Fuyajoの技術基盤強化に向けたsmolvm調査を検討。
 3. **Claude Design定着**: AnthropicがUI/UXを本格化するという信号。Claude APIを活用したFuyajoのフロントエンド品質向上のチャンス。
+
+---
+
+### 主要シグナル (10:30 JST)
+
+#### スコア推移サマリー（08:30→10:30）
+
+| タイトル | 08:30 | 10:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Design | 770 | 831 | +61 ★継続 |
+| Claude 4.7 tokenizer costs | 510 | 537 | +27 ★安定 |
+| Smol machines microVM | 191 | 219 | +28 ★継続 |
+| Isaac Asimov: The Last Question | 590 | 617 | +27 ★安定 |
+| Are the costs of AI agents rising exponentially? | 50 | 90 | +40 ★急上昇 |
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 831 | Comments: 560 ★継続最重要
+- 本日の#1を維持。朝08:30→10:30でさらに+61pt。
+- AnthropicのデザインフィロソフィーへのHNの関心が持続。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 537 | Comments: 370 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 安定した上昇継続。コスト増問題は長時間話題となっており、技術者層の財布への実害として定着。
+
+#### MEDIUM
+
+**Smol machines – subsecond coldstart, portable VMs** | Score: 219 | Comments: 89 ★Fuyajo直結
+- URL: https://github.com/smol-machines/smolvm
+- 191→219pts (+28)。microVMへの関心継続。全体トップにも入ってきた。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 90 | Comments: 10
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 08:30の50pts→10:30の90pts。+40ptで急上昇。エージェントコストの指数的上昇懸念。
+
+#### NEW
+
+**Slop Cop** | Score: 76 | Comments: 47
+- URL: https://awnist.com/slop-cop
+- AIが生成したコンテンツを検出・評価するツール。「スロップ（低品質AI生成）」への批判的ツール。
+- AIコンテンツ品質管理ニーズが市場に生まれつつある。
+
+### Fuyajoへの示唆 (10:30更新)
+
+1. **Claude 4.7コスト問題が長期化**: 537ptsで上昇継続。従量課金への不満が技術者コミュニティに定着。固定価格の訴求材料として有効。
+2. **Smol machines定着**: 219pts到達。microVMのコールドスタート速度への関心が高まっている。Fuyajoの技術選定の参考。
+3. **AIエージェントコスト懸念が急上昇**: 50→90pts。「エージェントのコストも指数的に上昇するか？」という問いは、Fuyajoの固定価格モデルへの追い風。
