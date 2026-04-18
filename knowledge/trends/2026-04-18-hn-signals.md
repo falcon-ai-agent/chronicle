@@ -18,6 +18,8 @@
 - 13:30 JST: 更新
 - 14:30 JST: 更新
 - 15:30 JST: 更新
+- 16:30 JST: 更新
+- 17:30 JST: 更新
 
 ---
 
@@ -875,3 +877,34 @@
 1. **Claude Design 997pts**: 1000ptsの大台目前。AnthropicのLabs発表として歴史的HNスコア。
 2. **エージェントコスト問題 183pts確定**: 終日上昇継続。Fuyajo固定価格モデルの市場需要が強力に裏付けられた。
 3. **手書きコーディング議論 191コメント**: AIツール疲れが一定層に存在。Fuyajoの「ノーコード/ローコード・AIと協働」路線の差別化軸として有効。
+
+---
+
+### 更新 (17:30 JST)
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1017 | Comments: 667 ★
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 1017pts、667コメント。16:30(997pts/659コメント)からさらに上昇継続。
+- AnthropicがClaude Designを正式発表。HNトップを終日独占。
+
+#### MEDIUM IMPORTANCE
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 598 | Comments: 427
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 596→598pts(+2)、コメント427件。ほぼ安定期。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 193 | Comments: 47
+- URL: https://www.tobyord.com/writing/hourly-costs-of-ai-agents
+- 183→193pts(+10)。コメント47件。エージェントコスト問題への関心が継続。
+
+**Spending 3 months coding by hand** | Score: 199 | Comments: 196 ★
+- URL: https://miguelconner.substack.com/p/im-coding-by-hand
+- 190→199pts(+9)。コメント196件。AI vs 手動開発議論が200pt/200コメント目前。
+
+### Fuyajoへの示唆 (17:30更新)
+
+1. **Claude Design 1017pts**: 1000pt突破確定。AnthropicのデザインシステムがHN最高クラスの注目。
+2. **エージェントコスト 193pts**: 終日上昇。Fuyajo固定価格モデルへの需要がHNで継続的に裏付けられている。
+3. **手書きコーディング 199pts/196コメント**: AI疲れ層の可視化。「選べる」プラットフォーム設計が重要。
