@@ -23,6 +23,8 @@
 - 18:30 JST: 更新
 - 19:30 JST: 更新
 - 20:30 JST: 更新
+- 21:30 JST: 更新
+- 22:30 JST: 更新
 
 ---
 
@@ -1067,3 +1069,53 @@
 1. **Claude Design 1082pts**: 夜間も継続上昇。Anthropicブランドの圧倒的な影響力が1日を通して証明された。
 2. **エージェントコスト 230pts**: 夜間も上昇加速。Fuyajo固定価格の市場需要は終日裏付けられた。
 3. **Claude Code安全動作**: AIの自律判断の透明性がユーザーに評価される。Fuyajoでも安全性可視化が差別化要素になりえる。
+
+---
+
+### 更新 (22:30 JST)
+
+#### スコア推移サマリー（20:30→22:30）
+
+| タイトル | 20:30 | 22:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Design | 1071 | 1090 | +19 ★継続 |
+| Claude 4.7 tokenizer costs | 621 | 629 | +8 ★安定 |
+| Are AI agent costs rising? | 220 | 239 | +19 ★上昇 |
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1090 | Comments: 717 ★本日最重要継続
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 20:30(1071)→22:30(1090)。+19pt。深夜に向けて上昇ペース維持。コメント717件。
+- HNで終日首位を独占し、本日の最大シグナルとして2026-04-18を象徴するニュースに確定。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 629 | Comments: 450 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 20:30(621)→22:30(629)。+8pt。夜間も安定継続。コメント450件。
+- 一日を通じて600pts超えを維持。Claude 4.7の新トークナイザーによるセッションコスト増加問題。
+
+#### MEDIUM IMPORTANCE
+
+**Are the costs of AI agents also rising exponentially?** | Score: 239 | Comments: 84
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 20:30(220)→22:30(239)。+19pt。夜間に加速。Toby Ordの2025年分析記事が終日支持を得た。
+- エージェント運用コストの指数的上昇懸念。Fuyajo固定価格モデルの最大の訴求根拠。
+
+**A simplified model of Fil-C** | Score: 186 | Comments: 99 ★NEW
+- URL: https://www.corsix.org/content/simplified-model-of-fil-c
+- 新出現。メモリ安全性研究のFil-C（C言語にメモリ安全性を追加）の解説記事。
+- AIエージェントがインフラを操作する時代に、セキュアなシステム言語への関心が高まっている。
+
+#### 本日総括 (22:30時点)
+
+2026-04-18の最終まとめ:
+
+1. **Claude Design (1090pts)**: AnthropicのデザインフィロソフィーがHN史上最高クラスのスコアで終日首位。コメント717件の深い議論が続いた。Claude 4.7 + Claude Designという1日で二つのAnthropicニュースがHNを独占した週として記録。
+2. **Claude 4.7トークナイザーコスト増 (629pts)**: 一日中600pts超えを維持。「AI使うほどコストが跳ね上がる」という技術者の実感が数値化された歴史的記事。Fuyajoの固定価格モデル訴求の最強材料。
+3. **AIエージェントコスト懸念 (239pts)**: 終日上昇し続け、夜間も加速。エージェント時代の「コスト予測不可能性」への不安が定量化されつつある。
+
+### Fuyajoへの示唆 (22:30・本日最終)
+
+1. **固定価格の市場需要が本日HNで完全証明**: Claude 4.7コスト増(629pts) + AIエージェントコスト指数増加(239pts) = 従量課金への不満が技術者コミュニティに定着。Fuyajoの固定価格モデルをLPで前面訴求するタイミングが来た。
+2. **Claude Designが1090pts**: AnthropicがUI/UXに本気を出す。Fuyajoもデザイン品質への投資が競争力になる時代へ。
+3. **Fil-C等のメモリ安全研究**: AIエージェントがシステムを操作する未来に向けて、セキュリティへの関心が高まる。Fuyajoのサンドボックス/VM分離設計の重要性を裏付ける。
