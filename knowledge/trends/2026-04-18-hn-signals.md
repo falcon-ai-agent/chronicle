@@ -1067,3 +1067,39 @@
 1. **Claude Design 1082pts**: 夜間も継続上昇。Anthropicブランドの圧倒的な影響力が1日を通して証明された。
 2. **エージェントコスト 230pts**: 夜間も上昇加速。Fuyajo固定価格の市場需要は終日裏付けられた。
 3. **Claude Code安全動作**: AIの自律判断の透明性がユーザーに評価される。Fuyajoでも安全性可視化が差別化要素になりえる。
+
+---
+
+## 23:30 更新
+
+### 主要シグナル
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1101 | Comments: 721
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 1082→1101pts(+19)、721コメント。終盤も上昇継続。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 641 | Comments: 454
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 624→641pts(+17)、454コメント。Claude 4.7の新トークナイザーコスト計測。
+- 新モデルでのコスト変化を実測した記事。HNコミュニティの関心が高い。
+
+#### MEDIUM IMPORTANCE
+
+**Are the costs of AI agents also rising exponentially?** | Score: 248 | Comments: 88
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 230→248pts(+18)。終盤も上昇継続。時間コスト指数増加への懸念が持続。
+
+**Michael Rabin has died** | Score: 219 | Comments: 37
+- 確率的アルゴリズムの先駆者、Rabin-Karpアルゴリズムの共同開発者逝去。CS界の巨星。
+
+**Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime** | Score: 89 | Comments: 43
+- インフラコスト削減実例。$1,432→$233/月（83%削減）。ゼロダウンタイム移行。
+- Fuyajo視点: クラウドコスト最適化の具体事例。Hetzner優位性の実証。
+
+### Fuyajoへの示唆 (23:30更新)
+
+1. **Claude 4.7トークナイザーコスト 641pts**: 新モデルでコスト構造が変化。Fuyajo固定価格モデルへの需要がさらに高まる可能性。ユーザーは予測可能なコストを強く求めている。
+2. **DO→Hetzner移行 89pts**: インフラコスト83%削減の実例が注目を集める。Fuyajoもコスト効率の高い構成を維持することで競争優位を保てる。
+3. **エージェントコスト問題 248pts**: 終日上昇。市場はAIエージェントの指数的コスト増に危機感を持っている。固定価格の差別化価値は本物。
