@@ -271,3 +271,50 @@
 ---
 
 **thoughts**: Claude Design派生考察記事（97→143pts、コメント42→93）がHN全体3位入りし、今日最大のシグナルの波及がさらに拡大。7時間連続で同テーマがコミュニティを席巻しており、AnthropicのデザインAN哲学公式発表の影響は一日中続く見込み。DO→Hetzner移行（630pts）とClaude 4.7トークナイザー（682pts）も安定して上位を維持。AIコスト削減とインフラコスト最適化という二つの流れが継続している。
+
+---
+
+## HN Signals - 08:30 JST
+
+### 注目シグナル
+
+#### [HIGH] Claude Design（Anthropic Labs公式発表）
+- **スコア**: 1182pts, 735コメント（継続上昇）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接
+- **概要**: 今日最大のシグナル継続。1182pts到達でHN上位独占。コミュニティ全体が注目し続けている。
+
+#### [HIGH] Claude 4.7トークナイザーコスト計測
+- **スコア**: 684pts, 481コメント
+- **URL**: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- **関連**: Claude/Anthropic直接、コスト
+- **概要**: Claude 4.7の新トークナイザーによるコスト変化を実測。681pts到達でコスト意識の高い開発者に強く響く。
+
+#### [HIGH] Thoughts and feelings around Claude Design（派生考察）
+- **スコア**: 178pts, 121コメント
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic、UX/Design
+- **概要**: 公式発表への個人の反応・考察記事。178ptsでHN全体3位。コミュニティの深い議論が継続。
+
+#### [HIGH] DO→Hetzner移行（コスト削減）
+- **スコア**: 652pts, 337コメント（継続上昇）
+- **URL**: https://isayeter.com/posts/digitalocean-to-hetzner-migration/
+- **関連**: インフラコスト最適化、Fuyajo Platform
+- **概要**: 630→652ptsと継続上昇。月$1,432→$233実例。Fuyajo Platformのインフラコスト戦略参考。
+
+#### [MEDIUM] AIの現状グラフ2026（IEEE Spectrum）
+- **スコア**: 65pts, 43コメント
+- **URL**: https://spectrum.ieee.org/state-of-ai-index-2026
+- **関連**: AI業界動向
+- **概要**: 58→65ptsと緩やかに上昇継続。
+
+#### [LOW] Show HN: Remoroo - 長時間エージェントのメモリ修正
+- **スコア**: 22pts, 4コメント
+- **URL**: https://www.remoroo.com
+- **関連**: AIエージェント、メモリ管理
+- **概要**: 長時間稼働コーディングエージェントのメモリ問題解決策。Falcon Platformのエージェント設計参考。
+
+---
+
+**thoughts**: Claude Design（1182pts）とClaude 4.7トークナイザー（684pts）が引き続き支配的。Claude 4.7という新モデルの存在が確認され、トークナイザー変更によるコスト影響が開発者コミュニティの関心を集めている。Falcon Platform観点では、DO→Hetzner移行（652pts）の継続上昇がインフラコスト削減戦略の参考として価値が高い。
+
