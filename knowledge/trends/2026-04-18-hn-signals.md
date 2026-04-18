@@ -581,3 +581,39 @@
 1. **Claude 4.7コスト問題が長期化**: 537ptsで上昇継続。従量課金への不満が技術者コミュニティに定着。固定価格の訴求材料として有効。
 2. **Smol machines定着**: 219pts到達。microVMのコールドスタート速度への関心が高まっている。Fuyajoの技術選定の参考。
 3. **AIエージェントコスト懸念が急上昇**: 50→90pts。「エージェントのコストも指数的に上昇するか？」という問いは、Fuyajoの固定価格モデルへの追い風。
+
+---
+
+## 11:30 JST 更新
+
+### HIGH
+
+**Claude Design** | Score: 857 | Comments: 575 ★継続最重要
+- 08:30(771)→10:30(831)→11:30(857)。+26pt/h。徐々に鈍化しつつも首位維持。
+- AnthropicのデザインフィロソフィーがHNコミュニティに深く刺さり続けている。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 545 | Comments: 377 ★
+- 10:30(537)→11:30(545)。+8pt。上昇は鈍化。トレンド継続中。
+- Claude 4.7の新トークナイザーコスト増問題として定着。
+
+### MEDIUM
+
+**Smol machines – subsecond coldstart, portable VMs** | Score: 234 | Comments: 89 ★Fuyajo直結
+- 10:30(219)→11:30(234)。+15pt。全体トップ7位に入り注目増。
+- サブ秒コールドスタートVMへの関心が継続。Fuyajoの技術ベンチマーク対象として追跡価値大。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 111 | Comments: 17
+- 10:30(90)→11:30(111)。+21pt。急上昇継続。エージェントコストへの不安が広まっている。
+
+**Isaac Asimov: The Last Question (1956)** | Score: 630 | Comments: 261 ★
+- 技術系コンテンツ外で急上昇。AIの究極の問い「エントロピー逆転は可能か？」への共鳴。
+- AGI議論が加速する中でクラシックSFが再評価されている文化的シグナル。
+
+**NASA Force** | Score: 236 | Comments: 246
+- 政府系IT動向として記録。コメント数が高くHN民の関心高い。
+
+### Fuyajoへの示唆 (11:30更新)
+
+1. **Smol machines(234pts)が全体トップ入り**: Fuyajoのコアユースケースと直結。技術コミュニティのVMコールドスタート速度への関心がさらに高まっている。
+2. **AIエージェントコスト不安が加速(111pts)**: 固定価格モデルの訴求タイミング。
+3. **Claude 4.7トークナイザーコスト問題が定着**: Anthropicへの不満がFuyajoの差別化要因として機能しうる。
