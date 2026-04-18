@@ -20,6 +20,7 @@
 - 15:30 JST: 更新
 - 16:30 JST: 更新
 - 17:30 JST: 更新
+- 18:30 JST: 更新
 
 ---
 
@@ -908,3 +909,40 @@
 1. **Claude Design 1017pts**: 1000pt突破確定。AnthropicのデザインシステムがHN最高クラスの注目。
 2. **エージェントコスト 193pts**: 終日上昇。Fuyajo固定価格モデルへの需要がHNで継続的に裏付けられている。
 3. **手書きコーディング 199pts/196コメント**: AI疲れ層の可視化。「選べる」プラットフォーム設計が重要。
+
+---
+
+### 更新 (18:30 JST)
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1040 | Comments: 681 ★
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 1017→1040pts(+23)、667→681コメント(+14)。上昇継続。終日HN首位を維持。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 607 | Comments: 432 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 598→607pts(+9)、427→432コメント(+5)。安定上昇継続。600pt突破。
+
+#### MEDIUM IMPORTANCE
+
+**Are the costs of AI agents also rising exponentially?** | Score: 202 | Comments: 51
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 193→202pts(+9)。200pt突破。エージェントコスト問題への関心が安定継続。
+
+**Spending 3 months coding by hand** | Score: 206 | Comments: 208
+- URL: https://miguelconner.substack.com/p/im-coding-by-hand
+- 199→206pts(+7)、196→208コメント(+12)。コメントがスコアを上回る逆転継続。AI疲れ議論が活発。
+
+#### NEW SIGNAL
+
+**"Liberation Day" at OpenAI – multiple senior executives announce leaving** | Score: 25 | Comments: 2
+- URL: https://mas.to/@carnage4life/116422881496195720
+- 15:30の3pts→18:30の25pts。急上昇中。複数の上級幹部が同日離職を発表。
+- OpenAI内部の混乱が表面化する可能性。競合状況に変化をもたらすか要観察。
+
+### Fuyajoへの示唆 (18:30更新)
+
+1. **Claude Design 1040pts**: 終日上昇継続。Anthropicのブランド力とデザイン思想への高評価が定着。
+2. **エージェントコスト問題 202pts**: 200pt大台突破。終日上昇の長期トレンドがFuyajo固定価格の需要を強く裏付け。
+3. **OpenAI幹部離脱シグナル上昇**: 3pts→25ptsに急上昇。Anthropicに有利な競合環境変化の可能性。要継続観察。
