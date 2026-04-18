@@ -16,6 +16,8 @@
 - 11:30 JST: 更新
 - 12:30 JST: 更新
 - 13:30 JST: 更新
+- 14:30 JST: 更新
+- 15:30 JST: 更新
 
 ---
 
@@ -780,3 +782,66 @@
 1. **Claude Design 943pts確定**: 本日の最大シグナル。AnthropicのUI/デザイン哲学への関心は終日持続し、HNコミュニティに完全定着した。
 2. **エージェントコスト懸念が加速**: Are the costs of AI agents rising? が午後に+21pt急上昇。固定価格モデルの訴求根拠として今日一日で強力に裏付けられた。
 3. **Smol machines 283pts到達**: Show HNから14倍超の成長。microVMエコシステムへの技術者評価は本物。Fuyajoのインフラ戦略としてsmolvm調査を優先課題へ。
+
+---
+
+## 15:30 JST 更新
+
+### スコア推移サマリー（11:30→15:30）
+
+| タイトル | 11:30 | 15:30 | 変化 |
+|---------|-------|-------|------|
+| Claude Design | 857 | 974 | +117 ★継続最重要 |
+| Claude 4.7 tokenizer costs | 545 | 578 | +33 ★安定 |
+| Smol machines microVM | 234 | 300 | +66 ★HIGH入り！ |
+| Are AI agent costs rising exponentially? | 111 | 171 | +60 ★加速 |
+| Isaac Asimov: The Last Question | 630 | 691 | +61 ★安定 |
+
+### HIGH IMPORTANCE (300pts+)
+
+**Claude Design** | Score: 974 | Comments: 640 ★本日1位継続
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 11:30(857)→15:30(974)。+117pt。午後も上昇継続、974ptsに到達。
+- Anthropic Labsのデザインフィロソフィー公開が終日HNを席巻。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 578 | Comments: 403 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 11:30(545)→15:30(578)。+33pt安定上昇。400コメント超え。
+- コスト増問題が1日を通じて持続する長期トレンドとして定着。
+
+**Show HN: Smol machines – subsecond coldstart, portable VMs** | Score: 300 | Comments: 92 ★★★Fuyajo直結・HIGH入り
+- URL: https://github.com/smol-machines/smolvm
+- 11:30(234)→15:30(300)。**+66ptで300pts突破。** HIGH重要度ゾーン入り！
+- 03:30の20ptsから15倍成長。サブ秒コールドスタートmicroVMがHN技術者層に完全定着。
+- Fuyajoのコア技術として最重要。実装参考・競合分析の優先対象。
+
+**Isaac Asimov: The Last Question (1956)** | Score: 691 | Comments: 273
+- AI全盛の今日に1956年SF古典が691pts。AGI文化的共鳴として定着。
+
+### MEDIUM IMPORTANCE (100-300pts)
+
+**Are the costs of AI agents also rising exponentially?** | Score: 171 | Comments: 41
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 11:30(111)→15:30(171)。+60ptで急上昇。Toby Ordによる2025年分析。
+- エージェントコストの指数的上昇懸念。Fuyajo固定価格モデルへの追い風継続。
+
+**Spending 3 months coding by hand** | Score: 174 | Comments: 181
+- URL: https://miguelconner.substack.com/p/im-coding-by-hand
+- AIコーディングへの反動・懐疑論。コメント181件でスコア<コメントの逆転。
+- 「手書きコーディング」実験への関心が高い。AIツール疲れの表れか。
+
+**All 12 moonwalkers had "lunar hay fever" from dust** | Score: 298 | Comments: 170
+- テック外話題が全体Top5入り。HNコミュニティの幅広さを示す。
+
+### NEW SIGNAL
+
+**"Liberation Day" at OpenAI** | Score: 3 | Comments: 0
+- 複数のOpenAI上級幹部が離職を発表という情報。スコアは低いが要継続観察。
+- OpenAI幹部離脱が事実なら競合状況に変化。Anthropicに有利な展開の可能性。
+
+### Fuyajoへの示唆 (15:30更新)
+
+1. **Smol machines 300pts突破**: 03:30の20ptsから15倍成長で HIGH重要度入り。FuyajoのmicroVM技術選定の最有力参考実装として調査優先度を最高に設定。
+2. **AIエージェントコスト懸念が加速(171pts)**: 固定価格モデルへの需要が数値で証明されつつある。
+3. **「手書きコーディング」ムーブメント(174pts, 181コメ)**: AIツール疲れが一定層に存在。Fuyajoの「使いやすさ」「ノーコード/ローコード」路線が差別化軸として有効。
+4. **OpenAI幹部離脱シグナル**: 要観察。競合状況変化の可能性あり。
