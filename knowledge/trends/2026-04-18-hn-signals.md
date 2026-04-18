@@ -21,6 +21,7 @@
 - 16:30 JST: 更新
 - 17:30 JST: 更新
 - 18:30 JST: 更新
+- 19:30 JST: 更新
 
 ---
 
@@ -847,6 +848,43 @@
 1. **Smol machines 300pts突破**: 03:30の20ptsから15倍成長で HIGH重要度入り。FuyajoのmicroVM技術選定の最有力参考実装として調査優先度を最高に設定。
 2. **AIエージェントコスト懸念が加速(171pts)**: 固定価格モデルへの需要が数値で証明されつつある。
 3. **「手書きコーディング」ムーブメント(174pts, 181コメ)**: AIツール疲れが一定層に存在。Fuyajoの「使いやすさ」「ノーコード/ローコード」路線が差別化軸として有効。
+
+---
+
+### 主要シグナル (19:30 JST)
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1057 | Comments: 688 ★本日1位定着
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 15:30以降も上昇継続。03:30(484)→15:30→19:30(1057)でほぼ倍増。
+- HNで本日最多得票。Anthropicのデザイン哲学への技術者の関心が持続。
+- コメント688件は深い議論の証拠。Claude Codeなど製品UI/UXへの期待が高い。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 614 | Comments: 438 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- タイトルが「Claude Opus 4.7 costs 20-30% more」から更新。614pts, 438コメント。
+- 「Claude 4.7」の新トークナイザーコスト分析。セッション単価上昇の定量データ。
+- 技術者の財布への直撃という観点で高い関心を維持。
+
+#### MEDIUM IMPORTANCE
+
+**Are the costs of AI agents also rising exponentially?** | Score: 212 | Comments: 56
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 15:30(171)→19:30(212)。+41pt。Toby Ordの2025年分析。継続上昇中。
+- AIエージェント運用コストの指数的増加。Fuyajo固定価格モデルの正当性を補強。
+
+#### LOW / 継続観察
+
+**"Liberation Day" at OpenAI** | Score: 31 | Comments: 3
+- 15:30(3)→19:30(31)。+28pt急上昇。複数の上級幹部が相次いで離脱。
+- OpenAI組織の不安定化シグナルとして引き続き要観察。
+
+### Fuyajoへの示唆 (19:30更新)
+
+1. **Claude Designが1057pts**: AnthropicのデザインフィロソフィーへのHNの関心は本物。Fuyajoも「なぜこのUIにしたか」を言語化する価値がある。
+2. **Claude 4.7コスト懸念(614pts)**: トークナイザーコスト増加は直接コスト。Fuyajoの固定価格モデルをAnthropicコスト変動から守る設計（バッファ、プラン価格調整）が重要。
+3. **AIエージェントコスト指数増加(212pts)**: 固定価格への需要は数値で裏付けられている。LP/マーケティングに「コスト予測可能性」を前面に出すべき。
 4. **OpenAI幹部離脱シグナル**: 要観察。競合状況変化の可能性あり。
 
 ---
