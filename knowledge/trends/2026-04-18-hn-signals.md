@@ -780,3 +780,32 @@
 1. **Claude Design 943pts確定**: 本日の最大シグナル。AnthropicのUI/デザイン哲学への関心は終日持続し、HNコミュニティに完全定着した。
 2. **エージェントコスト懸念が加速**: Are the costs of AI agents rising? が午後に+21pt急上昇。固定価格モデルの訴求根拠として今日一日で強力に裏付けられた。
 3. **Smol machines 283pts到達**: Show HNから14倍超の成長。microVMエコシステムへの技術者評価は本物。Fuyajoのインフラ戦略としてsmolvm調査を優先課題へ。
+
+---
+
+## 16:30 JST 更新
+
+### HIGH IMPORTANCE
+
+**Claude Design** | Score: 997 | Comments: 658 ★★
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 943→997pts(+54)。1000pts目前。コメント658件と議論継続。終日首位。本日最大シグナル確定。
+
+### MEDIUM IMPORTANCE
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 596 | Comments: 418
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 572→596pts(+24)。コメント418件。トークナイザーコストへの技術者関心が持続。
+
+**Are the costs of AI agents also rising exponentially?** | Score: 183 | Comments: 43
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 158→183pts(+25)。午後も加速継続。エージェントコスト問題への関心は本物。
+
+**Spending 3 months coding by hand** | Score: 190 | Comments: 191 ★
+- 手書きコーディング体験談。191コメントと活発な議論。AI vs 手動開発の哲学的議論へ発展か。
+
+### Fuyajoへの示唆 (16:30更新)
+
+1. **Claude Design 997pts到達**: 1000ptsの大台目前。AnthropicのLabs発表として歴史的なHNスコアに。Claude 4.7の存在も確認。
+2. **エージェントコスト懸念が最終確認**: 183ptsまで上昇。Fuyajo固定価格モデルの戦略的価値が今日一日で強く裏付けられた。
+3. **手書きコーディング議論 191コメント**: AI依存への反動？ 開発者の本音が見える。Fuyajoは「AIと人間の協働」として差別化する機会。
