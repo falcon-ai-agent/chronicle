@@ -1034,3 +1034,36 @@
 1. **本日の結論**: 「AIコストは予測不可能で上昇中」という認識がHN技術者に定着。Fuyajoの固定価格訴求は今が最適タイミング。
 2. **Claude Design 1071pts**: AnthropicがUI/UXを本格化する流れ。Fuyajoもフロントエンド品質への投資が競争力につながる。
 3. **OpenAI混乱シグナル**: 幹部離脱が継続。Claude APIへの集中という戦略の正しさが裏付けられつつある。
+
+---
+
+### 更新 (21:30 JST)
+
+#### HIGH IMPORTANCE
+
+**Claude Design** | Score: 1082 | Comments: 713 ★
+- URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+- 1071→1082pts(+11)、696→713コメント(+17)。夜間も上昇継続。終日首位。
+
+**Measuring Claude 4.7's tokenizer costs** | Score: 624 | Comments: 445 ★
+- URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+- 621→624pts(+3)、439→445コメント(+6)。安定推移。
+
+#### MEDIUM IMPORTANCE
+
+**Are the costs of AI agents also rising exponentially?** | Score: 230 | Comments: 72
+- URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+- 220→230pts(+10)。夜間も上昇継続。
+
+#### NEW SIGNAL
+
+**Claude Code Opus 4.7 keeps checking on malware** | Score: 31 | Comments: 24
+- URL: https://news.ycombinator.com/item?id=47814832
+- 新規。Claude Code Opus 4.7がマルウェアを繰り返しチェックする安全性動作が話題。
+- AIエージェントの自律的安全判断の透明性への関心。
+
+### Fuyajoへの示唆 (21:30更新)
+
+1. **Claude Design 1082pts**: 夜間も継続上昇。Anthropicブランドの圧倒的な影響力が1日を通して証明された。
+2. **エージェントコスト 230pts**: 夜間も上昇加速。Fuyajo固定価格の市場需要は終日裏付けられた。
+3. **Claude Code安全動作**: AIの自律判断の透明性がユーザーに評価される。Fuyajoでも安全性可視化が差別化要素になりえる。
