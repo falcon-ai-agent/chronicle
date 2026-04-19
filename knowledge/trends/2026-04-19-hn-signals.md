@@ -567,3 +567,53 @@
 - AI教育反発の広がり: AI利用に否定的な動きはあるが「使いやすいAI」の価値提案を強化する逆説的論拠にもなる
 
 **thoughts**: 14:30時点でClaude Designの勢いが完全に頭打ち（1189pts）となり、Opus 4.6 vs 4.7比較（470pts, 478コメント）が実質的な最重要議論として浮上。コメント数がスコアを超えるという異常値は、技術者が実際に手を動かしてモデル比較を行っており単なる観察ではなく実践的関心を示す。Claude 4.7/Opus 4.7という新モデル世代への移行が2026年4月のHN最大のシグナルとして記録される。
+
+---
+
+## HN Signals 15:30 JST
+
+### トップシグナル
+
+#### [HIGH] Claude Design
+- **スコア**: 1191pts, 740コメント
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic
+- **概要**: 前回比+66pts。スコア1191、コメント740。HNトップを14時間超キープ。異例のロングテール。
+
+#### [HIGH] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+- **スコア**: 483pts, 484コメント
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: 前回比+49pts。コメント数がスコアを上回り続ける。Opus 4.7が正式公開前後の比較関心。
+
+#### [HIGH] Thoughts and feelings around Claude Design
+- **スコア**: 276pts, 180コメント
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic、コミュニティ反応
+- **概要**: 前回比+66pts増加継続。公式発表とコミュニティ反応の両方がHNでトレンド継続。
+
+#### [MEDIUM] College instructor turns to typewriters to curb AI-written work
+- **スコア**: 230pts, 205コメント
+- **URL**: https://sentinelcolorado.com/...
+- **関連**: AI/教育・社会
+- **概要**: 前回比+79pts。教育現場でのAI対策が技術者コミュニティにも刺さる。
+
+#### [MEDIUM] Graphs that explain the state of AI in 2026
+- **スコア**: 84pts, 52コメント
+- **URL**: https://spectrum.ieee.org/state-of-ai-index-2026
+- **関連**: AI全般、2026年トレンド
+- **概要**: IEEE Spectrum。2026年時点のAI状態を統計で可視化。
+
+### キー観察（15:30）
+
+- **Claude Designが14時間超トップ継続**: 1191pts → HNで2026年最長トレンド候補
+- **Opus 4.6 vs 4.7が483pts**: コメント数>スコアの状態が継続。純粋な「議論」記事として機能
+- **AI教育対抗（タイプライター）が205コメント**: スコア以上にコメント活発。感情的関与が高い
+
+### Falcon Platform への示唆
+
+- Claude Design 1191ptsは技術者の熱狂的支持を示す。Fuyajoでも「デザイン哲学」の明文化が重要
+- Opus 4.6/4.7比較が実務的関心: バージョン間差異を技術者は真剣に評価している
+
+**thoughts**: Claude Designの異例のロングテールが続いている。通常HNのピークは数時間だが14時間以上はAnthropicブランドの強さを示す。同時にOpus比較がHN全体2位を維持しているのは技術者がモデルの実力を独自に検証しようとする自律性の表れ。
+
