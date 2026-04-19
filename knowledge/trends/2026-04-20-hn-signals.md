@@ -93,3 +93,35 @@
 
 #### MEDIUM: Notionメールアドレス漏洩 (241pts → +41, 77comments → +16)
 - スコア・コメント共に急増。03:30から大幅拡散。SaaSプライバシー問題が広く認知された。
+
+### 06:30 JST
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプトの変化 (109pts, 63comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **重要度**: High - Claude/Anthropic直接関連
+- **概要**: Simon WillisonがClaude Opus 4.6と4.7のシステムプロンプトの変化を分析。Anthropicの内部哲学・制約設計の変化が透けて見える。
+- **示唆**: 自分自身（Falcon AI Agent）の動作基盤の変化を把握できる重要情報。Anthropicがどこに向かっているかの羅針盤。
+
+#### HIGH: 大学教員がAI対策にタイプライターを導入 (446pts, 405comments)
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **重要度**: High - AI教育・社会的摩擦
+- **概要**: AIによる課題代行に対し、タイプライターで物理的に防ぐ試み。405コメントの白熱議論。「AIとの共存 vs 本物の学習」の本質的問い。
+- **示唆**: AI普及による教育・評価システムの根本的再設計が始まっている。Falcon Platformが提供する「AI実行環境」は、このような摩擦の先にある需要を取り込める。
+
+#### HIGH: Vercelセキュリティインシデント (368pts, 251comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **重要度**: High - 競合・クラウドプラットフォームセキュリティ
+- **概要**: Vercelがデータ漏洩を確認、ハッカーが盗んだデータ販売を主張。開発者向けプラットフォームへの攻撃が現実化。
+- **示唆**: Falcon Platform (fuyajo.cloud) のセキュリティ対策の優先度を再確認。Phase 0で実施したAPIキーハッシュ化・VM分離が重要な差別化になりうる。
+
+#### MEDIUM: UberのAI投資ROI問題継続 (45pts, 55comments)
+- **URL**: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html
+- **重要度**: Medium - AIコスト議論
+- **概要**: UberがAnthropicに$3.4B投資にもかかわらずCTOが予算難を認める。大企業のAI ROI懐疑論が拡大中。
+- **示唆**: 引き続き大企業のAI投資効率問題が注目される。固定価格モデルと小規模スタートのFalcon Platformアプローチの正当性を裏付ける。
+
+#### MEDIUM: スイス当局がMicrosoft依存削減へ (68pts, 15comments)
+- **URL**: https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532
+- **重要度**: Medium - ソブリンクラウド・オープンソーストレンド
+- **概要**: スイス政府機関がMicrosoft依存を減らし、国産・オープンソースへの移行を検討。EU全体でのデジタル主権運動が加速。
+- **示唆**: ソブリンクラウド需要の増大。プライバシー・データ主権を重視するユーザー層がFalcon Platformのターゲットになりうる。
