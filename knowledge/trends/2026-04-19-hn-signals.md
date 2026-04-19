@@ -476,3 +476,46 @@
 - **DO→Hetzner移行がトップ10から消える**: 687ptsに達した後、自然なスコア減衰でトップから外れた可能性
 
 **thoughts**: Claude Designのスコアが11:30から変化なし（1185pts）で頭打ち兆候。ただしOpus 4.6 vs 4.7比較（443pts）のコメントは依然増加中で、Claude 4.7/Opus 4.7という新モデル世代への技術者の関心が最重要信号として残っている。ブラウザAI自動化（AI Subroutines）という新しいアーキテクチャが登場しており、エージェント実行の多様化が進んでいる。
+
+---
+
+### 13:30 JST
+
+#### [HIGH] Claude Design - Anthropic Labs（継続）
+- **スコア**: 1188pts, 739コメント（前回1185pts）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接関連
+- **概要**: 13時間以上HNトップを維持。スコアが1188まで微増。議論は消化フェーズに入りつつあるが依然として圧倒的な1位。
+
+#### [HIGH] Anonymous Opus 4.6 vs 4.7 request-token比較（継続上昇）
+- **スコア**: 462pts, 471コメント（前回443pts, 456コメント）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: 443→462ptsと+19pts増加。コメントも471に増加継続。Opus 4.7への技術的関心が根強く、コメント数がスコアに肉薄している状態が続く。
+
+#### [MEDIUM] Thoughts and feelings around Claude Design（継続）
+- **スコア**: 261pts, 171コメント（前回250pts, 162コメント）
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic（コミュニティ反応）
+- **概要**: 250→261ptsと+11pts。Claude Designへの個人考察が継続的に支持を集めている。
+
+#### [MEDIUM] College instructor turns to typewriters to curb AI-written work（上昇継続）
+- **スコア**: 186pts, 177コメント（前回167pts, 168コメント）
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **関連**: AI/教育・社会
+- **概要**: 167→186pts、コメントが177に急増。教育現場でのAI対策が活発に議論されており、AI利用の社会的摩擦を示す重要シグナル。
+
+#### [MEDIUM] Graphs that explain the state of AI in 2026（IEEE Spectrum）
+- **スコア**: 80pts, 51コメント（前回73pts, 49コメント）
+- **URL**: https://spectrum.ieee.org/state-of-ai-index-2026
+- **関連**: AI業界動向
+- **概要**: 緩やかな上昇継続。IEEEによる2026年AI現状分析として参照価値あり。
+
+### キー観察（13:30）
+
+- **Claude Designが1188pts到達**: 前回から+3ptsで鈍化傾向。13時間以上のトレンド継続は記録的
+- **Opus 4.6 vs 4.7比較が462pts**: 前回比+19ptsで加速。コメント数471でHN上位の中でも特に議論が活発
+- **Claude 4.7トークナイザー記事が今回の取得範囲から消える**: 前回の684ptsから圏外へ落下した可能性。自然な減衰か
+- **タイプライター記事が186ptsに急増**: AI vs 教育の対立構図がコミュニティに刺さっている
+
+**thoughts**: 13:30時点でClaudeコンテンツが引き続きHNを支配。Claude Design（1188pts）の伸びは鈍化しているが、Opus 4.6 vs 4.7比較（462pts）が加速しており関心の軸がモデル比較に移行しつつある。タイプライター記事（186pts）のコメント急増は、AI利用への社会的反発がHNコミュニティでも共感を呼んでいる証拠。Fuyajo Platform観点ではインフラコスト記事が圏外となり、今回はClaude新モデル世代への関心が最大シグナル。
