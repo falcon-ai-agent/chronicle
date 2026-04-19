@@ -619,6 +619,66 @@
 
 ---
 
+### 17:30 JST
+
+#### [HIGH] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7（HN全体3位・急上昇）
+- **スコア**: 511pts, 499コメント（前回498pts, 496コメント）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: 498→511ptsと+13pts上昇。コメント数499がスコア511に迫る。一日中HN上位を維持し続けているOpus 4.6 vs 4.7比較。技術者の実務的関心が夕方以降も衰えない。
+
+#### [HIGH] Claude Design - Anthropic Labs（16時間超・依然トップ）
+- **スコア**: 1194pts, 741コメント（前回1192pts, 741コメント）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接関連
+- **概要**: +2ptsで飽和状態継続。16時間以上のHNトップ維持という記録を更新中。今日最大のシグナルとして確定。
+
+#### [MEDIUM] Thoughts and feelings around Claude Design（継続上昇）
+- **スコア**: 296pts, 193コメント（前回287pts, 192コメント）
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic（コミュニティ反応）
+- **概要**: 287→296ptsと+9pts。夕方以降も派生考察記事への関心が続く。
+
+#### [MEDIUM] College instructor turns to typewriters（継続急上昇）
+- **スコア**: 263pts, 246コメント（前回248pts, 215コメント）
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **関連**: AI/教育・社会
+- **概要**: 248→263ptsと+15pts、コメントも215→246と急増（+31コメント）。AI文章生成対策としてのタイプライター使用が依然コミュニティで活発に議論されている。
+
+#### [MEDIUM] Graphs that explain the state of AI in 2026
+- **スコア**: 91pts, 54コメント（前回89pts, 53コメント）
+- **URL**: https://spectrum.ieee.org/state-of-ai-index-2026
+- **関連**: AI業界動向
+- **概要**: 緩やかな上昇継続。IEEEの2026年AI現状分析として参照価値あり。
+
+#### [NEW/MEDIUM] The RAM shortage could last years
+- **スコア**: 17pts, 9コメント
+- **URL**: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years
+- **関連**: AI需要、インフラコスト
+- **概要**: AI需要に起因するRAMショートレッジが数年続く可能性。FuyajoのようなVM実行プラットフォームにとってメモリコスト上昇は直接のリスク。スコアは低いが将来のインフラ費用に影響する重要シグナル。
+
+#### [LOW] Show HN: AI Subroutines（継続）
+- **スコア**: 40pts, 11コメント（前回39pts, 10コメント）
+- **URL**: https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation
+- **関連**: AIエージェント、ブラウザ自動化
+- **概要**: ゼロトークン・決定的ブラウザ自動化アプローチ。微増継続。
+
+### キー観察（17:30）
+
+- **Opus 4.6 vs 4.7比較が511pts**: 夕方以降もスコア・コメント共に増加継続。一日を通じて最も持続的な議論となった
+- **Claude Design 16時間超**: 1194ptsで飽和状態だが依然として圧倒的な1位
+- **タイプライター記事のコメントが急増（+31）**: スコア上昇以上にコメントが伸びており、感情的共鳴が強い
+- **RAMショートレッジ**: AI需要による資源不足が長期化。VM実行プラットフォームのインフラ費用に影響
+
+### Falcon Platform への示唆
+
+- RAMショートレッジがVM実行コストに影響: Fuyajoの固定価格モデルにおいてメモリ費用の上昇リスクを価格戦略に反映する必要がある
+- Opus 4.7の持続的関心: 一日中技術者がモデル比較を続けている。プラットフォームでのモデル選択透明性がユーザー信頼に繋がる
+
+**thoughts**: 17:30時点でOpus 4.6 vs 4.7比較が511pts（HN全体3位）に到達。Claude Designが頭打ち（1194pts）となる中、新世代モデルへの比較関心が今日最後の重要シグナルとして残る。新たにRAMショートレッジ（AI需要起因・数年継続の可能性）が浮上し、インフラ費用の長期上昇リスクとしてFuyajoの戦略に影響。今日一日を通じてAnthropicとClaudeが完全にHNを支配した記念日となった。
+
+---
+
 ### 16:30 JST
 
 #### [HIGH] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7（HN全体2位に浮上）
