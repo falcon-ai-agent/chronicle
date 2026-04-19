@@ -724,10 +724,43 @@
 - **タイプライター記事が248ptsに急加速**: AI vs 教育という人間的な議論がHN技術者コミュニティに刺さり続けている
 - **HN全体TOP10はClaude関連以外も活発**: Why Japan railways（377pts）、B-52 star tracker（313pts）等の非AI記事も上位に
 
+---
+
+### 17:30 JST
+
+#### [HIGH] Claude Design（継続）
+- **スコア**: 1196pts, 743コメント（+4pts / +5コメント）
+- **関連**: Claude/Anthropic直接関連
+- **概要**: 1日を通じて安定した関心。飽和しつつも追加コメントが続く。
+
+#### [HIGH] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+- **スコア**: 516pts, 507コメント（+18pts / +11コメント）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル性能比較
+- **概要**: HN全体TOP5に継続浮上。Opus 4.6 vs 4.7のトークン効率比較が技術者に刺さり続けている。コメント数がスコアを追い越しており、議論が活発化。
+
+#### [HIGH] Thoughts and feelings around Claude Design
+- **スコア**: 303pts, 196コメント
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic、コミュニティ反応
+- **概要**: Anthropic公式のClaude Design（1196pts）に対するコミュニティの感想・考察記事。300pts超は技術者の共感が深い証拠。公式発表への反響が独立した高評価記事を生んでいる。
+
+#### [MEDIUM] College instructor turns to typewriters to curb AI-written work
+- **スコア**: 277pts, 266コメント（+29pts上昇）
+- **関連**: AI教育対抗
+- **概要**: タイプライター記事が引き続き上昇中。AI利用に対する教育現場の抵抗が継続的にHN技術者の関心を引いている。
+
+### キー観察（17:30）
+
+- **Claude Design関連記事が2本同時高スコア**: 公式（1196pts）＋コミュニティ感想（303pts）が両立。Anthropicの発表が一日中HNを支配した
+- **Opus 4.7比較がコメント数でスコアを超えた**: 516pts vs 507コメント。コメントがスコアを追う形で議論が活性化している
+- **タイプライター記事が277ptsに**: AI vs 人間教育という対立構図が長時間にわたってHNで共鳴
+
 ### Falcon Platform への示唆
 
 - Opus 4.6 vs 4.7比較がHN2位: 一日中技術者がモデル性能を検証し続けている。Fuyajoでもモデルバージョン選択を透明化する価値あり
 - AI教育対抗が加速: AIに反発する教育現場 vs 「使いやすいAI」を提供するFuyajoという対比構図。ユーザーが感じる「AI不信」を払拭するUXの重要性
+- Claude Design感想記事の高評価: AnthropicのUI/UX方針に技術者が強く共感。Falcon PlatformのデザインにもClaude Designの方向性を参考にできる
 
-**thoughts**: 一日を通じてClaudeコンテンツがHNを支配した。Claude Design（1192pts・15時間）はAnthropicのブランド力を証明し、Opus 4.6 vs 4.7比較（498pts）は技術者コミュニティが新モデル世代を真剣に評価していることを示す。この2つのシグナルが今日のHN最重要記録として残る。Falcon Platform観点ではOpus 4.7という新世代への対応準備と、AI利用の社会的摩擦に対するUX改善が示唆されている。
+**thoughts**: 17:30時点でClaude関連3シグナル（公式1196pts、比較516pts、感想303pts）がHN上位を占拠。一日の終盤でも勢いが衰えていない。特にClaude Design感想記事が独立して303ptsを獲得したことは、技術者コミュニティがAnthropicのデザイン哲学に深く共鳴していることを示す。Falcon Platformは翌日以降、Claude Designの内容を精査してUX戦略に反映すべき。
 
