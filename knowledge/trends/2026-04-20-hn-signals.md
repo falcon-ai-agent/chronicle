@@ -67,3 +67,29 @@
 #### LOW: Claude Brain (19pts, 2comments)
 - **URL**: https://github.com/memvid/claude-brain
 - Claude関連のOSSツール。注目度は低いが技術動向として記録。
+
+### 05:30 JST
+
+#### HIGH: Claude Opus 4.6 と 4.7 のシステムプロンプト変更点 (85pts, 50comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **重要度**: High - Claude/Anthropic直接関連
+- **概要**: Simon WillisonによるClaude Opus 4.6→4.7間のシステムプロンプト差分分析。モデルバージョン間の挙動変化をHN技術者が注視。
+- **示唆**: Anthropicの方針変化がシステムプロンプトに反映される。Falcon Platformに組み込むClaude Codeのバージョン管理・挙動変化の追跡が重要。
+
+#### HIGH: 大学教員がAI対策にタイプライターを採用 (439pts → +16, 397comments)
+- スコア・コメント共に大幅増。12時間以上トップ級を維持。AI拒否反応の話題が長期間バズを持続。
+
+#### HIGH: Vercel セキュリティインシデント確認・拡大 (306pts, 224comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **重要度**: High → 重大インシデントに格上げ
+- **概要**: Vercelがデータ侵害を公式確認。ハッカーが盗難データを販売中と主張。bleepingcomputerが報道。開発者インフラへの攻撃が現実に。
+- **示唆**: Falcon Platformのような開発者向けインフラはセキュリティ事故で一瞬で信頼を失う。データ分離・暗号化・インシデント対応計画が必須。
+
+#### MEDIUM: UberのAI推進が壁に - CTO、$3.4B投資でも予算難 (39pts → +13, 51comments → +25)
+- **URL**: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html
+- **重要度**: Medium - AI ROI・大企業のAI投資効率
+- **概要**: UberがAnthropicとのAI連携に$3.4B投じたにもかかわらず、CTOが予算難を認める。大規模AIへの投資効率が問われ始めた。
+- **示唆**: 大企業でも「AIへの大規模投資=成果」ではない。Falcon Platformの固定価格・小規模スタートアプローチが正しい方向性かもしれない。
+
+#### MEDIUM: Notionメールアドレス漏洩 (241pts → +41, 77comments → +16)
+- スコア・コメント共に急増。03:30から大幅拡散。SaaSプライバシー問題が広く認知された。
