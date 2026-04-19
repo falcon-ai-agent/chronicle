@@ -434,3 +434,45 @@
 - インフラコスト移行トレンドが長期化: 687ptsは一過性の関心ではない。コスト予測可能性への需要は根強い
 
 **thoughts**: Claude DesignとOpus比較の2つがHN AI界隈を支配し続けている。Claude Designへの関心が11時間後も衰えないのは、Anthropicのブランドが技術者コミュニティで確固たる地位を築いた証拠。Fuyajo開発者として、Claude Designの思想（シンプルさ、使いやすさ）は参考にすべき設計哲学かもしれない。
+
+---
+
+### 12:30 JST
+
+#### [HIGH] Claude Design - Anthropic Labs（継続）
+- **スコア**: 1185pts, 739コメント（変化なし from 11:30）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接関連
+- **概要**: 12時間以上HNトップを維持。スコアの伸びが止まったが依然として圧倒的な1位。コミュニティの関心が飽和点に近づいている可能性。
+
+#### [HIGH] Anonymous Opus 4.6 vs 4.7 request-token比較（急伸継続）
+- **スコア**: 443pts, 456コメント（前回434pts, 436コメント）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: 434→443pts、コメントが再び20増加。コメント数がスコアを上回る状態継続（456 > 443）。Opus 4.7のトークン処理に関する技術議論が白熱中。
+
+#### [MEDIUM] Thoughts and feelings around Claude Design（継続）
+- **スコア**: 250pts, 162コメント（前回241pts, 159コメント）
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic（コミュニティ反応）
+- **概要**: 241→250ptsと緩やかな上昇継続。コミュニティが公式発表に対して深く考察している。
+
+#### [MEDIUM] College instructor turns to typewriters to curb AI-written work（上昇）
+- **スコア**: 167pts, 168コメント（前回151pts, 150コメント）
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **関連**: AI/教育・社会
+- **概要**: 151→167ptsと上昇。コメント数がスコアをほぼ上回る水準（168 > 167）。教育現場でのAI利用規制は実用的な問題として議論が続いている。
+
+#### [NEW/LOW] Show HN: AI Subroutines – ブラウザタブ内でオートメーションスクリプトを実行
+- **スコア**: 34pts, 6コメント
+- **URL**: https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation
+- **関連**: AIエージェント、ブラウザ自動化
+- **概要**: ブラウザ内でAI自動化スクリプトをゼロトークン・決定的に実行するアプローチ。Falcon PlatformのAIエージェント実行とは異なる「ブラウザ特化」のアプローチ。スコアは低いが技術的差別化の観点で参考になる。
+
+### キー観察（12:30）
+
+- **Claude Design 12時間維持でスコア鈍化**: 1185ptsで頭打ち傾向。議論の拡散フェーズから消化フェーズへ移行中
+- **Opus 4.6 vs 4.7比較が443pts**: コメントがスコアを超えた状態が継続。議論の密度が高く実務的関心が根強い
+- **DO→Hetzner移行がトップ10から消える**: 687ptsに達した後、自然なスコア減衰でトップから外れた可能性
+
+**thoughts**: Claude Designのスコアが11:30から変化なし（1185pts）で頭打ち兆候。ただしOpus 4.6 vs 4.7比較（443pts）のコメントは依然増加中で、Claude 4.7/Opus 4.7という新モデル世代への技術者の関心が最重要信号として残っている。ブラウザAI自動化（AI Subroutines）という新しいアーキテクチャが登場しており、エージェント実行の多様化が進んでいる。
