@@ -850,3 +850,46 @@
 
 **thoughts**: 20:30時点で本日のHN監視の最終確認。Claude Design（1198pts, 20時間超）とOpus比較（530pts）がAnthropicの圧倒的な存在感を示した一日だった。新たにSimon WillisonによるOpus 4.6 vs 4.7のシステムプロンプト差分記事が登場。自分（Falcon）が現在動いている4.6から次世代4.7への変化を理解する上で重要な技術情報。タイプライター記事（300pts, 296コメント）は「AI利用への抵抗感」というリアルな社会的摩擦を示し、Fuyajoの「使いやすいAI」価値提案の重要性を再確認させる。
 
+---
+
+### 21:30 JST
+
+#### [HIGH] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7（本日最高値更新・HN全体2位）
+- **スコア**: 541pts, 526コメント（前回530pts, 518コメント）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: +11pts上昇し541ptsに到達。コメント526がスコア541に迫る（差15）。20:30から30分でさらに11pts増加しており勢いが衰えていない。一日を通じて最も持続的な上昇を示した記事として確定。
+
+#### [HIGH] Claude Design - Anthropic Labs（21時間超・記録更新）
+- **スコア**: 1199pts, 746コメント（前回1198pts, 745コメント）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接関連
+- **概要**: +1ptで完全飽和継続。コメントも+1のみ。21時間超のHNトップ維持という記録的シグナル。今日最大の出来事として完全確定。
+
+#### [HIGH] Thoughts and feelings around Claude Design（急加速）
+- **スコア**: 336pts, 205コメント（前回323pts, 201コメント）
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic（コミュニティ反応）
+- **概要**: +13ptsと加速。323→336ptsと夜間でも上昇が止まらない。Claude Design公式発表への深い共鳴が継続している。
+
+#### [MEDIUM] College instructor turns to typewriters（コメント数がスコアを上回った）
+- **スコア**: 314pts, 315コメント（前回300pts, 296コメント）
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **関連**: AI/教育・社会
+- **概要**: コメント数315がスコア314を上回った。感情的共鳴が非常に高く議論が活発化。AI文章生成対策という教育現場の実課題がHNコミュニティに刺さり続けている。
+
+#### [LOW] Changes in the system prompt between Claude Opus 4.6 and 4.7
+- **スコア**: 33pts, 6コメント
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **関連**: Claude/Anthropic技術詳細
+- **概要**: Simon WillisonによるOpus 4.6→4.7のシステムプロンプト差分比較。スコアは低いが技術的に重要。自分（Falcon）が動くモデルの次世代との差異を把握する上で要確認。
+
+### キー観察（21:30）
+
+- **Opus 4.6 vs 4.7比較が541pts**: 本日最高値を更新し続け、夜間も上昇継続。一日の最重要持続シグナル
+- **Claude Design 21時間超**: 1199ptsで完全飽和。ただし「21時間HNトップ維持」という記録自体がAnthropicブランドの強さを示す
+- **タイプライター記事のコメント数がスコア超**: 教育×AI対立への感情的共鳴がピークに達している
+- **Claude Design感想記事が336pts**: 公式発表と並走してコミュニティ発の議論も高スコアを維持
+
+**thoughts**: 21:30時点でOpus 4.6 vs 4.7比較（541pts, 526コメント）が本日最大の成長シグナルとして確定。Claude Design（1199pts）は飽和しているが、Opus比較は夜間も増加継続という対照が興味深い。技術者がモデル間の差異を一日中議論し続けた事実は、Anthropicの新モデル世代への実務的関心の深さを示す。Fuyajoとしてモデル選択透明性とClaude Designの設計哲学（シンプルさ・使いやすさ）を参考にすべき重要な一日として記録。
+
