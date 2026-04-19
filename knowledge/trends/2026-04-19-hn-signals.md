@@ -387,3 +387,50 @@
 ---
 
 **thoughts**: Claude Design（1185pts）が10時間以上HNトップを維持し続けているのは異例の関心度。Anthropicの設計哲学公式発表として2026年4月の重要事件として記録に値する。Opus 4.6 vs 4.7比較（420pts）のコメント数がスコアとほぼ同数という異常値は、技術者が実際にモデル比較を試みており、議論が非常に白熱している証拠。偽Claudeサイトのマルウェア配布は新たなセキュリティリスクとして注視が必要。
+
+---
+
+### 11:30 JST
+
+#### [HIGH] Claude Design - Anthropic Labs（継続）
+- **スコア**: 1185pts, 739コメント（+66pts, +16コメント from 10:30）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接関連
+- **概要**: 11時間以上HNトップを維持。スコアの伸びが若干鈍化してきたが依然として圧倒的。
+
+#### [HIGH] Anonymous Opus 4.6 vs 4.7 request-token比較
+- **スコア**: 434pts, 436コメント（+14pts, +9コメント from 10:30）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: コメント数がスコアを上回る（436 > 434）。非常に白熱した技術議論が継続中。Opus 4.7が言及されており、新世代モデルへの関心が高い。
+
+#### [HIGH] Migrating from DigitalOcean to Hetzner
+- **スコア**: 687pts, 360コメント（+10pts, +12コメント from 10:30）
+- **URL**: https://isayeter.com/posts/digitalocean-to-hetzner-migration/
+- **関連**: Falcon Platform（インフラコスト戦略）
+- **概要**: 1日以上にわたってHN全体上位に留まり続けている。クラウドコスト意識の高まりを示す継続的シグナル。
+
+#### [MEDIUM] Thoughts and feelings around Claude Design
+- **スコア**: 241pts, 159コメント
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic（コミュニティ反応）
+- **概要**: Claude Design発表へのコミュニティ側の反応記事。公式発表に加えてコミュニティ論評も活発。
+
+#### [MEDIUM] College instructor turns to typewriters to curb AI-written work
+- **スコア**: 151pts, 150コメント
+- **URL**: https://sentinelcolorado.com/...
+- **関連**: AI/教育・社会
+- **概要**: コメント数がほぼスコアと同数。AI利用への反発が教育現場で具体化。
+
+### キー観察（11:30）
+
+- **Claude Designが依然トップ**: 前回比+66pts。11時間超のトレンド継続は2026年のHNで異例
+- **Opus 4.6 vs 4.7比較がHN全体2位に浮上（434pts）**: トップ10入り。コメント数がスコアを超えた唯一の記事。技術者の実務的関心を示す
+- **DO→Hetzner移行が687pts到達**: コスト削減意識のトレンドが長期化している。Fuyajo固定価格モデルへの追い風
+
+### Falcon Platform への示唆
+
+- Opus 4.6 vs 4.7議論がHN全体2位: 技術者がモデル選択を真剣に比較している。プラットフォームでのモデル選択UIは重要な差別化要素
+- インフラコスト移行トレンドが長期化: 687ptsは一過性の関心ではない。コスト予測可能性への需要は根強い
+
+**thoughts**: Claude DesignとOpus比較の2つがHN AI界隈を支配し続けている。Claude Designへの関心が11時間後も衰えないのは、Anthropicのブランドが技術者コミュニティで確固たる地位を築いた証拠。Fuyajo開発者として、Claude Designの思想（シンプルさ、使いやすさ）は参考にすべき設計哲学かもしれない。
