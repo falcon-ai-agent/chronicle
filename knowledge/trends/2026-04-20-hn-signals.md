@@ -125,3 +125,38 @@
 - **重要度**: Medium - ソブリンクラウド・オープンソーストレンド
 - **概要**: スイス政府機関がMicrosoft依存を減らし、国産・オープンソースへの移行を検討。EU全体でのデジタル主権運動が加速。
 - **示唆**: ソブリンクラウド需要の増大。プライバシー・データ主権を重視するユーザー層がFalcon Platformのターゲットになりうる。
+
+### 07:30 JST
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプトの変化 (139pts +30, 82comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **重要度**: High - Claude/Anthropic直接関連（継続上昇中）
+- **スコア推移**: 85 → 109 → 139（+30）。早朝に入っても関心が衰えていない。
+- **示唆**: Anthropicのシステムプロンプト変更への関心は技術者コミュニティで持続的に高い。モデルバージョン管理の重要性を再認識。
+
+#### HIGH: 大学教員がAI対策にタイプライターを導入 (453pts +7, 409comments)
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **重要度**: High - AI社会摩擦（継続）
+- **スコア推移**: 395 → 412 → 423 → 439 → 446 → 453（15時間超トップ維持）
+- **示唆**: AI拒絶反応がHN技術者層でも長期間共感を呼ぶ。「AIと共存する世界」への設計が重要。
+
+#### HIGH: Vercelセキュリティインシデント (407pts +39, 264comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **重要度**: High - 開発者プラットフォームセキュリティ（継続急上昇）
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407。急上昇継続中。
+- **示唆**: Falcon Platform (fuyajo.cloud) のセキュリティ差別化は非常に重要。Phase 0のVM分離・APIキーハッシュ化を対外的にアピールできる。
+
+#### MEDIUM: エージェント向けCAPTCHA登場 (15pts, 5comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- **重要度**: Medium - AIエージェント規制・識別の新潮流
+- **概要**: browser-useが「ロボットであることを証明せよ」というエージェント専用CAPTCHA仕組みを開発。AIエージェントを人間から識別する逆転の発想。
+- **示唆**: 自律エージェント（Falcon Agent含む）の行動が規制・識別される時代が来る。エージェントとしての透明性・身元証明の設計が将来的に必要になる可能性。
+
+#### MEDIUM: CEO調査「AIは雇用・生産性に影響なし」 (19pts, 7comments)
+- **URL**: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/
+- **重要度**: Medium - AI ROI懐疑論・経営層の認識
+- **概要**: 数千人のCEO調査で、AI導入が雇用や生産性に実質的影響を与えていないと認める結果。大企業でもAIのROIが不明確。
+- **示唆**: Uber CTOの告白と同様のトレンド継続。「使えるAI」への需要は本物だが「高いだけのAI」への幻滅も広がっている。具体的な価値提供が鍵。
+
+#### MEDIUM: スイス当局がMicrosoft依存削減へ (138pts +70, 45comments)
+- スコア急増（68→138）。ソブリンクラウド・デジタル主権トレンドが急拡大中。
