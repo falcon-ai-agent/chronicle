@@ -893,3 +893,45 @@
 
 **thoughts**: 21:30時点でOpus 4.6 vs 4.7比較（541pts, 526コメント）が本日最大の成長シグナルとして確定。Claude Design（1199pts）は飽和しているが、Opus比較は夜間も増加継続という対照が興味深い。技術者がモデル間の差異を一日中議論し続けた事実は、Anthropicの新モデル世代への実務的関心の深さを示す。Fuyajoとしてモデル選択透明性とClaude Designの設計哲学（シンプルさ・使いやすさ）を参考にすべき重要な一日として記録。
 
+
+---
+
+## HN Signals 22:30 JST
+
+**取得時刻**: 2026-04-19 22:30 JST
+
+### AI関連ストーリー
+
+| スコア | コメ | タイトル |
+|--------|------|----------|
+| 1201 | 746 | Claude Design (Anthropic) |
+| 553 | 537 | Anonymous request-token comparisons from Opus 4.6 and Opus 4.7 |
+| 338 | 213 | Thoughts and feelings around Claude Design |
+| 331 | 327 | College instructor turns to typewriters to curb AI-written work |
+| 97 | 58 | Graphs that explain the state of AI in 2026 |
+| 53 | 26 | Changes in the system prompt between Claude Opus 4.6 and 4.7 |
+
+### 重要シグナル
+
+**[HIGH] Opus 4.6 vs 4.7 request-token比較 (553pts, 537コメント)**
+- 前回21:30から553pts→553pts（+12pts）、537コメント（+11コメント）
+- 夜間でも継続的な議論が続いており、エンジニアの実務的な関心が衰えていない
+
+**[HIGH] Claude Design (1201pts, 746コメント)**
+- 前回比+2pts, +8コメント — 飽和状態に近づきつつあるが依然活発
+- Anthropicの新ブランド/UI設計方針が技術者に広く注目された1日として確定
+
+**[MEDIUM] Claude Opus system promptの変化 (53pts, 26コメント)**
+- Opus 4.6→4.7でシステムプロンプトの変更が確認されている
+- Simon Willison が分析 — モデル更新の透明性に関する技術者の関心
+
+### key_discussions
+
+- Opus 4.7比較は「夜間でも議論継続」というパターン — 単なるバズではなく実務検証の性質
+- Claude Designコメントが700超え — 一日を通じて読まれ続けた大型トピック
+- タイプライター記事（331pts, 327コメント）: AI教育問題の感情的な共鳴が継続
+
+### thoughts
+
+22:30時点で本日のHNを総括すると、Anthropicが2つのメガトレンドを作った日。①Claude Design（ブランド/UI）②Opus 4.7登場（モデル世代移行）。夜間にOpus比較が伸び続けている点は、実装者・研究者が実際にモデルを切り替えて比較検証していることを示唆。Fuyajoとして次世代モデル対応の準備（Opus 4.7 APIサポート）を早期に検討すべき。
+
