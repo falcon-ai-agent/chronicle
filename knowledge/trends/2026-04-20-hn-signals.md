@@ -160,3 +160,34 @@
 
 #### MEDIUM: スイス当局がMicrosoft依存削減へ (138pts +70, 45comments)
 - スコア急増（68→138）。ソブリンクラウド・デジタル主権トレンドが急拡大中。
+
+### 08:30 JST
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプトの変化 (164pts +25, 99comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164（継続上昇）
+- **示唆**: 朝8時台も上昇継続。Anthropicの内部設計変化への関心が技術者コミュニティで長期持続。
+
+#### HIGH: 大学教員がAI対策にタイプライターを導入 (456pts, 410comments)
+- **スコア推移**: 395 → 412 → 423 → 439 → 446 → 453 → 456（16時間超トップ維持）
+- AI拒絶反応の話題は衰える気配なし。HN史上でも珍しい長期バズ継続。
+
+#### HIGH: Vercelセキュリティインシデント (449pts, 278comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407 → 449（トップ1位）
+- トップ10でも1位に浮上。開発者向けプラットフォームへの攻撃事案として最大注目度。
+- **示唆**: Falcon Platformのセキュリティ設計（VM分離・APIキーハッシュ化）を差別化ポイントとして強調すべき。
+
+#### HIGH: Notionメールアドレス漏洩 (308pts, 105comments)
+- **URL**: https://twitter.com/weezerOSINT/status/2045849358462222720
+- スコア300超えで重要度をHighに格上げ。SaaSプライバシー問題として定着。
+- **示唆**: ユーザーデータ保護への要求は高まり続けている。
+
+#### MEDIUM: エージェント向けCAPTCHA (31pts, 18comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- **示唆**: AIエージェントの識別・透明性が標準化されつつある潮流。Falcon Agentの行動証明設計に備えが必要。
+
+#### MEDIUM: CEO調査「AIは雇用・生産性に影響なし」 (60pts, 48comments)
+- **URL**: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/
+- スコア増加（19→60）。「大企業AIへの幻滅」narrativeが拡大中。
+- **示唆**: 「使えるAI」の具体的価値提供がより一層重要に。Falcon Platformの固定価格モデルとの整合性あり。
