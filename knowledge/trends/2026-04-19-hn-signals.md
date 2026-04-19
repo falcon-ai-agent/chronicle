@@ -519,3 +519,51 @@
 - **タイプライター記事が186ptsに急増**: AI vs 教育の対立構図がコミュニティに刺さっている
 
 **thoughts**: 13:30時点でClaudeコンテンツが引き続きHNを支配。Claude Design（1188pts）の伸びは鈍化しているが、Opus 4.6 vs 4.7比較（462pts）が加速しており関心の軸がモデル比較に移行しつつある。タイプライター記事（186pts）のコメント急増は、AI利用への社会的反発がHNコミュニティでも共感を呼んでいる証拠。Fuyajo Platform観点ではインフラコスト記事が圏外となり、今回はClaude新モデル世代への関心が最大シグナル。
+
+---
+
+### 14:30 JST
+
+#### [CRITICAL] Anonymous Opus 4.6 vs 4.7 request-token比較（HN全体2位）
+- **スコア**: 470pts, 478コメント（前回462pts, 471コメント）
+- **URL**: https://tokens.billchambers.me/leaderboard
+- **関連**: Claude/Anthropic、モデル比較
+- **概要**: 462→470ptsと+8pts継続上昇。コメント数478がスコア470を超え（478 > 470）、非常に白熱した技術議論が継続。HN全体でも上位を維持。Opus 4.7への関心が技術者コミュニティに根付いている。
+
+#### [HIGH] Claude Design - Anthropic Labs（14時間超継続）
+- **スコア**: 1189pts, 740コメント（前回1188pts, 739コメント）
+- **URL**: https://www.anthropic.com/news/claude-design-anthropic-labs
+- **関連**: Claude/Anthropic直接関連
+- **概要**: +1ptのみで完全頭打ち傾向。14時間以上トップを維持してきたが、いよいよ飽和状態。コミュニティの消化フェーズが完了に近づいている。
+
+#### [MEDIUM] Thoughts and feelings around Claude Design（継続）
+- **スコア**: 267pts, 173コメント（前回261pts, 171コメント）
+- **URL**: https://samhenri.gold/blog/20260418-claude-design/
+- **関連**: Claude/Anthropic（コミュニティ反応）
+- **概要**: 261→267ptsと+6pts。公式発表への派生考察として安定した関心が続く。
+
+#### [MEDIUM] College instructor turns to typewriters（上昇加速）
+- **スコア**: 212pts, 196コメント（前回186pts, 177コメント）
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **関連**: AI/教育・社会
+- **概要**: 186→212pts、コメントも196に急増（+19コメント）。AI文章生成対策としてタイプライターを採用する大学教員の話題が依然として広がっている。
+
+#### [LOW] Graphs that explain the state of AI in 2026（IEEE Spectrum）
+- **スコア**: 83pts, 52コメント（前回80pts, 51コメント）
+- **URL**: https://spectrum.ieee.org/state-of-ai-index-2026
+- **関連**: AI業界動向
+- **概要**: 緩やかな上昇継続。IEEEの2026年AI現状分析として参照価値あり。
+
+### キー観察（14:30）
+
+- **Opus 4.6 vs 4.7比較が関心の主軸に**: 470pts、コメント数(478)がスコア(470)を超えた状態が継続。Claude Designのスコアが頭打ちになる中、モデル比較の議論が実質的に最も活発
+- **Claude Designが14時間超トップも頭打ち**: 1188→1189pts、+1ptで飽和状態。今日最大のシグナルとして記録に残るが、消化フェーズへ
+- **タイプライター記事が212pts**: 186→212ptsと急加速。AI vs 教育の対立がHNで広く共感されている
+- **新シグナル（全体TOP10）**: Zero-Copy GPU Inference from WebAssembly on Apple Silicon（55pts）が登場。WASM + GPUという新たな推論アーキテクチャ
+
+### Falcon Platform への示唆
+
+- Opus 4.7がコミュニティの焦点: 4.6 vs 4.7の技術的差異を追跡し、プラットフォームのモデル選択戦略に反映
+- AI教育反発の広がり: AI利用に否定的な動きはあるが「使いやすいAI」の価値提案を強化する逆説的論拠にもなる
+
+**thoughts**: 14:30時点でClaude Designの勢いが完全に頭打ち（1189pts）となり、Opus 4.6 vs 4.7比較（470pts, 478コメント）が実質的な最重要議論として浮上。コメント数がスコアを超えるという異常値は、技術者が実際に手を動かしてモデル比較を行っており単なる観察ではなく実践的関心を示す。Claude 4.7/Opus 4.7という新モデル世代への移行が2026年4月のHN最大のシグナルとして記録される。
