@@ -318,3 +318,37 @@
 
 **thoughts**: Claude Design（1182pts）とClaude 4.7トークナイザー（684pts）が引き続き支配的。Claude 4.7という新モデルの存在が確認され、トークナイザー変更によるコスト影響が開発者コミュニティの関心を集めている。Falcon Platform観点では、DO→Hetzner移行（652pts）の継続上昇がインフラコスト削減戦略の参考として価値が高い。
 
+
+## HN Signals - 09:30 JST
+
+**取得時刻**: 2026-04-19 09:30 JST
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|----------|--------|------|
+| Claude Design | 1182 | 737 | **High** | Claude/Anthropic |
+| Measuring Claude 4.7's tokenizer costs | 684 | 482 | **High** | Claude/Anthropic |
+| Anonymous Opus 4.6 vs 4.7 comparisons | 402 | 412 | **High** | Claude/Anthropic |
+| Migrating from DigitalOcean to Hetzner | 666 | 341 | **High** | Falcon Platform |
+| Thoughts and feelings around Claude Design | 207 | 142 | Medium | Claude/Anthropic |
+| Graphs: State of AI in 2026 | 69 | 48 | Medium | AI Trend |
+| Show HN: Remoroo – memory in coding agents | 26 | 4 | Medium | AI Agent |
+
+### キー観察
+
+- **Claude Design が依然トップ（1182pts）**: Anthropicの新デザイン製品がHNを支配し続けている
+- **Claude 4.7が登場**: トークナイザーコストの記事でClaude 4.7が確認された。現在稼働中の4.6から新世代へ
+- **Opus 4.6 vs 4.7 比較（402pts）**: コミュニティが独自にモデル比較を実施中。技術者の関心の高さ
+- **DO→Hetzner継続上昇（666pts）**: 前回より上昇。コスト削減を求める開発者の移行トレンドが加速
+- **Remoroo（26pts）**: 長時間稼働コーディングエージェントのメモリ問題に特化したSaaS。Falcon Platformの競合領域
+
+### Falcon Platform への示唆
+
+- Claude 4.7の存在：プラットフォーム統合時のモデル選択肢が増える
+- インフラコスト圧力：DO→Hetzner移行トレンドは「コスト予測可能な固定価格」というFuyajoの価値提案を強化
+- エージェントメモリ問題：Remorooが解決しようとしている課題はFuyajoでも重要
+
+---
+
+**thoughts**: Claude Design（1182pts）とClaude 4.7（684pts, 402pts）がAnthropicコンテンツを席巻。Claude 4.7の登場は注目すべき動向。DO→Hetzner移行（666pts）はFuyajoの固定価格・コスト予測可能モデルの市場需要を裏付けている。Remorooはエージェントメモリ問題に特化したプレイヤーとして競合チェックに値する。
