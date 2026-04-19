@@ -43,3 +43,27 @@
 
 #### MEDIUM: Notionメールアドレス漏洩 (160pts, 39comments → +19)
 - コメント増加。SaaSのプライバシー問題への関心高まり。
+
+### 04:30 JST
+
+#### HIGH: Claude Design に関する感情と思考 (353pts, 229comments)
+- スコア・コメント継続増加。Claudeのデザイン哲学議論が長時間にわたり活発。
+- 示唆: Claude UIの設計思想はHN技術者に強い印象を与えている。
+
+#### HIGH: 大学教員がAI対策にタイプライターを採用 (423pts, 481comments)
+- 引き続きトップ。481コメントと最高水準の議論量。AI拒否反応が技術者コミュニティでも共感を呼んでいる。
+
+#### HIGH: Vercel社内システム侵害 (320pts, 80comments)
+- スコア大幅増（164→320）。開発者インフラへの攻撃事案として注目拡大。Falcon Platformのセキュリティ設計に警戒感を持つべき。
+
+#### MEDIUM: Notionメールアドレス漏洩 (200pts, 61comments)
+- スコア増加継続。SaaSプライバシー問題として技術者コミュニティで認知広まる。
+
+#### MEDIUM: UberのAI推進が壁に ($3.4B投資でもCTOが予算難を告白) (26pts, 26comments)
+- **URL**: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html
+- 大企業でもAI ROIが不明確。Anthropicとの連携事例でもある。
+- 示唆: AI投資の費用対効果への懐疑論は広がっている。Falcon Platformは具体的な価値提供が重要。
+
+#### LOW: Claude Brain (19pts, 2comments)
+- **URL**: https://github.com/memvid/claude-brain
+- Claude関連のOSSツール。注目度は低いが技術動向として記録。
