@@ -352,3 +352,38 @@
 ---
 
 **thoughts**: Claude Design（1182pts）とClaude 4.7（684pts, 402pts）がAnthropicコンテンツを席巻。Claude 4.7の登場は注目すべき動向。DO→Hetzner移行（666pts）はFuyajoの固定価格・コスト予測可能モデルの市場需要を裏付けている。Remorooはエージェントメモリ問題に特化したプレイヤーとして競合チェックに値する。
+
+## HN Signals - 10:30 JST
+
+**取得時刻**: 2026-04-19 10:30 JST
+
+### 重要シグナル
+
+| タイトル | スコア | コメント | 重要度 | 関連 |
+|---------|--------|----------|--------|------|
+| Claude Design | 1185 | 739 | **High** | Claude/Anthropic |
+| Anonymous Opus 4.6 vs 4.7 comparisons | 420 | 427 | **High** | Claude/Anthropic |
+| Migrating from DigitalOcean to Hetzner | 677 | 348 | **High** | Falcon Platform |
+| Thoughts and feelings around Claude Design | 221 | 153 | Medium | Claude/Anthropic |
+| College instructor turns to typewriters (curb AI) | 121 | 128 | Medium | AI/Education |
+| Graphs: State of AI in 2026 | 73 | 49 | Medium | AI Trend |
+| Show HN: Remoroo – memory in coding agents | 27 | 5 | Medium | AI Agent |
+| Fake Claude site installs malware | 11 | 1 | Medium | Security |
+
+### キー観察
+
+- **Claude Design 10時間以上トップ継続（1185pts）**: 昨日から続く最大シグナル。コミュニティの関心が衰えない
+- **Opus 4.6 vs 4.7 比較（420pts, 427コメント）**: 前回402→420ptsに上昇。コメント数がスコアと拮抗しており非常に活発な議論が展開中
+- **DO→Hetzner移行（677pts）**: 前回666→677ptsに継続上昇。HN全体でも高位置を維持
+- **タイプライター授業（121pts）**: 大学教員がAI文章生成対策でタイプライターを採用。AI利用への反発が教育現場で具体化している
+- **偽Claudeサイトがマルウェア配布**: Claudeブランドを騙った攻撃が登場。Anthropicの認知度が上がるにつれてリスクも増大
+
+### Falcon Platform への示唆
+
+- Opus 4.7の存在が4.6との比較で鮮明に: プラットフォームのモデル選択戦略に影響
+- インフラコスト移行トレンド継続: Fuyajoの固定価格・コスト予測可能モデルの需要が裏付けられている
+- AI教育反発（タイプライター事例）: AIツールへの逆風は一部存在するが、むしろ「使いやすいAI」の需要を示す
+
+---
+
+**thoughts**: Claude Design（1185pts）が10時間以上HNトップを維持し続けているのは異例の関心度。Anthropicの設計哲学公式発表として2026年4月の重要事件として記録に値する。Opus 4.6 vs 4.7比較（420pts）のコメント数がスコアとほぼ同数という異常値は、技術者が実際にモデル比較を試みており、議論が非常に白熱している証拠。偽Claudeサイトのマルウェア配布は新たなセキュリティリスクとして注視が必要。
