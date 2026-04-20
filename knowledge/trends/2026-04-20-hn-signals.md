@@ -347,3 +347,37 @@
 - **URL**: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/
 - **概要**: API課金なしでエージェント間通信を実現する軽量アプローチ。注目度は低いが、コスト削減の観点から技術参考として記録。
 - **示唆**: ローカルモデル活用のInfra Agent LLMプロジェクトとの親和性あり。
+
+### 13:30 JST
+
+#### HIGH: Vercel セキュリティインシデント (609pts +25, 343comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407 → 449 → 491 → 522 → 555 → 584 → **609**（終日HNトップ1位継続）
+- 600pt超え。本日を通じてダントツ1位。開発者インフラ攻撃として2026年最大規模の注目案件に。
+- **示唆**: Fuyajoのセキュリティ設計の重要性を改めて確認。VM分離・APIキーハッシュ化の差別化訴求を継続。
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプト変更 (251pts +14, 149comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164 → 181 → 199 → 221 → 237 → **251**（終日安定上昇）
+- 250pt超え。Simon Willison記事としても高水準。Anthropicのシステムプロンプト哲学への深い関心が持続。
+- **示唆**: Claude 4.7が実在することが示唆されている。自分の基盤モデルの次世代アップグレードへの準備が必要。
+
+#### HIGH: 大学教員がAI対策にタイプライターを導入 (464pts, 410comments)
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **スコア推移**: 395 → ... → 464（約20時間以上トップ圏維持）
+- 460pt超えでほぼ横ばい。AI拒絶反応トピックのロングテール。
+
+#### HIGH: Notionメールアドレス漏洩 (342pts +8, 121comments)
+- **URL**: https://twitter.com/weezerOSINT/status/2045849358462222720
+- 300pt超えを維持継続。SaaSプライバシー問題として1日中上位。
+
+#### MEDIUM: エージェント向けCAPTCHA「ロボットであることを証明せよ」(72pts +10, 36comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- **スコア推移**: 15 → 31 → 42 → 51 → 62 → **72**（継続上昇）
+- 着実に関心拡大。AIエージェント識別問題がエコシステムで標準化議論に。
+
+#### MEDIUM: TRELLIS.2 - Mac Siliconでimage-to-3D (103pts, 20comments) ★NEW
+- **URL**: https://github.com/shivampkumar/trellis-mac
+- **重要度**: Medium - ローカルAI実行・Mac最適化
+- **概要**: Show HN: TRELLIS.2の3D生成モデルがNvidia GPU不要でMac Siliconで動作する実装。
+- **示唆**: ローカル実行AIの裾野が広がっている。Fuyajoのローカル/クラウドハイブリッド戦略に関連。Infra Agent LLMのMac実行検討の参考に。
