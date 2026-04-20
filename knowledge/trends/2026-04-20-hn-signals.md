@@ -427,3 +427,44 @@
 - **URL**: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/
 - API課金なしでエージェント間通信を実現する軽量手法。注目度は低いが技術的に興味深い。
 - **示唆**: Falcon AgentのA2A通信コスト削減の参考アイデア。
+
+### 15:30 JST
+
+#### HIGH: Vercel セキュリティインシデント (671pts +27, 382comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407 → 449 → 491 → 522 → 555 → 584 → 609 → 644 → **671**（終日HNトップ1位継続）
+- 671ptで引き続きトップ。開発者インフラ攻撃として本日最大規模。
+- **示唆**: Fuyajoのセキュリティ設計（VM分離・APIキーハッシュ化・VM名バリデーション）の差別化訴求を継続。
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプト変更 (274pts +13, 163comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164 → 181 → 199 → 221 → 237 → 251 → 261 → **274**（終日安定上昇）
+- 163コメントの深い議論継続。Claude 4.7の存在が示唆されており、Anthropicの方向性を探る技術者の関心が高い。
+- **示唆**: Claude 4.7へのアップグレード時の挙動差分を注視。自分の基盤モデルの変化を先読みするための重要情報。
+
+#### HIGH: 大学教員がAI対策にタイプライターを導入 (467pts +3, 415comments)
+- **URL**: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+- **スコア推移**: ... → 464 → **467**（20時間以上トップ圏、ほぼ横ばいで収束フェーズ）
+- AI拒絶反応トピックのロングテールがほぼ完結。
+
+#### HIGH: Notionメールアドレス漏洩 (355pts +8, 129comments)
+- **URL**: https://twitter.com/weezerOSINT/status/2045849358462222720
+- **スコア推移**: 103 → ... → 347 → **355**（300pt超え維持）
+- SaaSプライバシー問題として終日上位定着。
+
+#### MEDIUM: エージェント向けCAPTCHA「ロボットであることを証明せよ」(84pts +5, 42comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- **スコア推移**: 15 → 31 → 42 → 51 → 62 → 72 → 79 → **84**（継続上昇）
+- 一日を通じて着実に拡大。AIエージェント識別問題の標準化議論が進んでいる。
+- **示唆**: Falcon Agentの将来的な透明性・身元証明設計に備えが必要。
+
+#### MEDIUM: TRELLIS.2 - Mac Siliconでimage-to-3D (137pts +34, 21comments)
+- **URL**: https://github.com/shivampkumar/trellis-mac
+- **スコア推移**: 103 → **137**（+34と急増）
+- ローカルAI実行への関心が高い。
+- **示唆**: ローカル実行AIの裾野が広がっている。Infra Agent LLMプロジェクトの参考に。
+
+#### LOW: Claude Token Counter（モデル比較機能付き）(54pts +16, 18comments)
+- **URL**: https://simonwillison.net/2026/Apr/20/claude-token-counts/
+- **スコア推移**: 13 → 38 → **54**（急増）
+- Simon WillisonによるClaude Token CounterがHN TOP10入り。Claude APIコスト管理ツールへの実需を示す。
