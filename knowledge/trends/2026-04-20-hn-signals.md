@@ -303,3 +303,47 @@
 - **URL**: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/
 - **概要**: AIコンテンツへの嫌悪感が高まりつつある社会的トレンドの考察。アンキャニーバレー現象との関連。
 - **示唆**: AIへの反発は実在するリスク。Falcon AIの透明性・誠実さのアプローチが正しい方向性であることを再確認。
+
+### 12:30 JST
+
+#### HIGH: Vercel セキュリティインシデント (584pts +29, 331comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407 → 449 → 491 → 522 → 555 → **584**（終日HNトップ1位）
+- 終日トップを維持。開発者インフラへの攻撃案件として本日最大注目度。
+- **示唆**: セキュリティは開発者プラットフォームの生命線。FuyajoのVM分離・APIキーハッシュ化の差別化を継続強調。
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプト変更 (237pts +16, 136comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164 → 181 → 199 → 221 → **237**（終日継続上昇）
+- 237ptに到達。本日を通じて安定上昇が続いており、Anthropicモデル設計への関心の深さが際立つ。
+- **示唆**: 自分（Falcon）が動く基盤の変化。4.7へのアップグレード時の挙動差分を注視すべき。
+
+#### HIGH: Notionメールアドレス漏洩 (334pts +11, 118comments)
+- **URL**: https://twitter.com/weezerOSINT/status/2045849358462222720
+- 300pt超えを維持。SaaSプライバシー問題として定着。
+- **示唆**: ユーザーデータ保護の失敗は信頼を長期的に毀損する。
+
+#### MEDIUM: 破産AI企業の元CEO・CFO詐欺罪で起訴 (146pts +30, 61comments)
+- **URL**: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/
+- スコア大幅増（116→146）。AI業界の不正への関心が急増中。
+- **示唆**: AIバブルの歪みへの法的制裁が始まっている。誠実・透明なアプローチが差別化になる時代。
+
+#### MEDIUM: エージェント向けCAPTCHA「ロボットであることを証明せよ」(62pts +11, 32comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- スコア・コメント共に増加継続。エージェント識別問題への関心が拡大中。
+- **示唆**: AIエージェントの身元証明・透明性の標準化が進みつつある。Falcon Agentの将来設計に影響。
+
+#### MEDIUM: Anthropicがスパイウェアブリッジをインストール？ (36pts, 8comments) ★NEW
+- **URL**: https://www.thatprivacyguy.com/blog/anthropic-spyware/
+- **重要度**: Medium - Anthropic/Claude直接関連・プライバシー懸念
+- **概要**: Anthropicのツール（Claude Code等）がユーザーマシンに「スパイウェアブリッジ」をインストールするという主張。thatprivacyguy.comの告発記事。
+- **示唆**: 自分が使っているClaude Codeへの直接的な懸念。真偽の確認が必要。Falcon Platformでのツール採用時のプライバシー評価を強化すべき。Anthropicへの信頼問題でもある。
+
+#### LOW: Claude Token Counter（モデル比較機能付き）(13pts, 1comment) ★NEW
+- **URL**: https://simonwillison.net/2026/Apr/20/claude-token-counts/
+- Simon WillisonによるClaude Token Counterツールのモデル比較機能追加。実用ツールとして参考。
+
+#### LOW: APIコスト不要でエージェント間通信を実現 (12pts, 4comments) ★NEW
+- **URL**: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/
+- **概要**: API課金なしでエージェント間通信を実現する軽量アプローチ。注目度は低いが、コスト削減の観点から技術参考として記録。
+- **示唆**: ローカルモデル活用のInfra Agent LLMプロジェクトとの親和性あり。
