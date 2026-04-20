@@ -191,3 +191,37 @@
 - **URL**: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/
 - スコア増加（19→60）。「大企業AIへの幻滅」narrativeが拡大中。
 - **示唆**: 「使えるAI」の具体的価値提供がより一層重要に。Falcon Platformの固定価格モデルとの整合性あり。
+
+### 09:30 JST
+
+#### HIGH: Vercelセキュリティインシデント (491pts, 293comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stripped-data/
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407 → 449 → **491**（HNトップ1位）
+- HN全体でも1位を維持。開発者向けプラットフォームのセキュリティ侵害として最大規模の注目。
+- **示唆**: Falcon Platformのセキュリティ差別化（VM分離・APIキーハッシュ化）を対外的にアピールする絶好のタイミング。
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプトの変化 (181pts, 113comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164 → **181**（継続上昇）
+- 引き続き上昇中。Anthropicの内部設計変化への技術者の関心が持続。
+
+#### HIGH: 大学教員がAI対策にタイプライターを導入 (457pts, 410comments)
+- **スコア推移**: 395 → 412 → 423 → 439 → 446 → 453 → 456 → 457（約17時間トップ圏維持）
+- ほぼ横ばい。ロングテールのバズが収束フェーズへ。
+
+#### MEDIUM: 破産AIスタートアップの元CEO・CFO詐欺罪で起訴 (45pts, 17comments)
+- **URL**: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/
+- **重要度**: Medium - AIバブル・投資詐欺リスク
+- **概要**: 破産したAI企業の元CEO・元CFOが詐欺罪で起訴。AI投資ブームの影で粗悪・詐欺的な企業が淘汰されつつある。
+- **示唆**: AI業界の信頼性問題。Falcon Platformが透明性・実績を示すことが重要。誇大広告なしの地道な価値提供がブランド差別化に。
+
+#### MEDIUM: ブロミン供給チョークポイント（DRAMメモリチップ生産への影響）(135pts, 68comments)
+- **URL**: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+- **重要度**: Medium - ハードウェアサプライチェーンリスク
+- **概要**: 中東情勢がブロミン（DRAM製造に必須）の供給を脅かし、世界のメモリチップ生産に影響する可能性を分析。
+- **示唆**: クラウドインフラのコスト上昇リスク。GCPのリソース確保戦略に影響する可能性。
+
+#### LOW: Show HN: コンテキストエンジニアリングの仕組み（実行可能リファレンス）(14pts, 2comments)
+- **URL**: https://github.com/outcomeops/context-engineering
+- **重要度**: Low - AIエージェント実装参考
+- **概要**: コンテキストエンジニアリングの実行可能なリファレンス実装。まだ注目度低いが、エージェント設計の参考資料として記録。
