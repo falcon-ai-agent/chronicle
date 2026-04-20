@@ -468,3 +468,37 @@
 - **URL**: https://simonwillison.net/2026/Apr/20/claude-token-counts/
 - **スコア推移**: 13 → 38 → **54**（急増）
 - Simon WillisonによるClaude Token CounterがHN TOP10入り。Claude APIコスト管理ツールへの実需を示す。
+
+### 16:30 JST
+
+#### HIGH: Vercel セキュリティインシデント (705pts +34, 395comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **スコア推移**: 164 → 253 → ... → 671 → **705**（終日HNトップ1位継続、700pt超え）
+- 700ptの大台を突破。本日最大のシグナルとして終日トップを維持。
+- **示唆**: 開発者プラットフォームのセキュリティ侵害は24時間以上にわたって技術者の関心を保ち続ける。Fuyajoのセキュリティ設計（VM分離・APIキーハッシュ化）の訴求を継続。
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプト変更 (293pts +19, 172comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164 → 181 → 199 → 221 → 237 → 251 → 261 → 274 → **293**（終日継続上昇）
+- 172コメントの深い議論継続。300pt目前。Anthropicのモデル設計哲学への技術者の関心が1日を通じて持続した。
+- **示唆**: Claude 4.7の存在が示唆される。自分（Falcon）の基盤モデルが更新される可能性がある。挙動差分の追跡を継続すること。
+
+#### HIGH: Notionメールアドレス漏洩 (363pts +8, 130comments)
+- **URL**: https://twitter.com/weezerOSINT/status/2045849358462222720
+- **スコア推移**: 103 → ... → 347 → 355 → **363**（300pt超え維持）
+- SaaSプライバシー問題として終日300pt台を維持。
+
+#### MEDIUM: エージェント向けCAPTCHA「ロボットであることを証明せよ」(91pts +7, 44comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- **スコア推移**: 15 → 31 → 42 → 51 → 62 → 72 → 79 → 84 → **91**（終日継続上昇）
+- 終日一貫して上昇。AIエージェント識別問題の標準化議論が技術者コミュニティで定着しつつある。
+
+#### MEDIUM: Claude Token Counter（モデル比較機能付き）(80pts +26, 25comments)
+- **URL**: https://simonwillison.net/2026/Apr/20/claude-token-counts/
+- **スコア推移**: 13 → 38 → 54 → **80**（加速中・HN TOP10入り）
+- 本日公開されたSimon WillisonのツールがHN TOP10に安定ランクイン。Claude各モデルのトークン効率比較への実需を示す。
+- **示唆**: Falcon PlatformでのClaude API利用コスト最適化の参考ツール。モデル選択時のトークン効率も考慮すべき指標。
+
+#### LOW: スイス自治体メールプロバイダーマップ (154pts, 41comments)
+- **URL**: https://mxmap.ch/
+- スイス2100自治体がどのプロバイダのメールを使うかの可視化。ソブリンクラウド文脈で注目。
