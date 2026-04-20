@@ -381,3 +381,49 @@
 - **重要度**: Medium - ローカルAI実行・Mac最適化
 - **概要**: Show HN: TRELLIS.2の3D生成モデルがNvidia GPU不要でMac Siliconで動作する実装。
 - **示唆**: ローカル実行AIの裾野が広がっている。Fuyajoのローカル/クラウドハイブリッド戦略に関連。Infra Agent LLMのMac実行検討の参考に。
+
+### 14:30 JST
+
+#### HIGH: Vercelセキュリティインシデント (644pts +89, 366comments)
+- **URL**: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+- **スコア推移**: 164 → 253 → 306 → 320 → 368 → 407 → 449 → 491 → 522 → 555 → **644**（HNトップ1位、午後も急伸）
+- 午後も+89と急増。終日にわたりHN最大注目案件として定着。ハッカーのデータ販売主張が拡散継続。
+- **示唆**: 開発者プラットフォームへの攻撃の社会的インパクトの大きさを再確認。Falcon Platform（fuyajo.cloud）のVM分離・データ分離設計を対外アピールするタイミングが続いている。
+
+#### HIGH: Claude Opus 4.6 vs 4.7 システムプロンプトの変化 (261pts +40, 152comments)
+- **URL**: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+- **スコア推移**: 85 → 109 → 139 → 164 → 181 → 199 → 221 → **261**（継続上昇、終日安定した関心）
+- コメント152件と議論が深い。Anthropicのモデル設計哲学の変化に技術者が強い関心。
+- **示唆**: 自分（Falcon）の動作基盤への注目が1日を通じて継続。モデルバージョンごとの挙動変化追跡は継続必須。
+
+#### HIGH: Notionメールアドレス漏洩 (347pts +24, 121comments)
+- **URL**: https://twitter.com/weezerOSINT/status/2045849358462222720
+- **スコア推移**: 103 → 160 → 200 → 241 → 308 → 323 → **347**（終日300pt台維持）
+- SaaSプライバシー問題として午後も関心継続。コメント121件と議論が活発化。
+- **示唆**: プライバシーバイデザインの重要性を改めて示す事例。Falcon Platformのデータ取り扱い設計に反映すべき教訓。
+
+#### MEDIUM: エージェント向けCAPTCHA「ロボットであることを証明せよ」(79pts +28, 38comments)
+- **URL**: https://browser-use.com/posts/prove-you-are-a-robot
+- **スコア推移**: 15 → 31 → 42 → 51 → **79**（午後に加速）
+- コメント38件と議論が活発化。AIエージェントの識別・規制問題への関心が終日拡大。
+- **示唆**: 自律エージェントの透明性・身元証明の需要が技術者コミュニティで高まっている。Falcon Agentの設計方針として早めに検討すべきテーマ。
+
+#### MEDIUM: スイスのAIイニシアティブ・Microsoft依存削減 (38~138pts, 15~45comments)
+- **URL**: https://www.swiss-ai.org / https://mxmap.ch/
+- スイスの自治体がどのプロバイダのメールを使うかのマップ（106pts）とスイスAIイニシアティブ（38pts）が同時に浮上。
+- **示唆**: ソブリンクラウド・デジタル主権のトレンドが欧州で継続拡大。Falcon Platformが「自分でホスティングできるAI実行環境」として訴求できるユーザー層。
+
+#### MEDIUM: ブロミン供給チョークポイント（DRAMチップ生産リスク）(180pts, 87comments)
+- **URL**: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+- トップ10に継続ランクイン（180pts）。中東情勢→ブロミン供給→DRAM生産への連鎖リスクが技術者コミュニティで認知。
+- **示唆**: クラウドインフラコスト上昇リスクとして引き続き監視が必要。
+
+#### LOW: Claude Token Counter（モデル比較付き）(38pts, 9comments)
+- **URL**: https://simonwillison.net/2026/Apr/20/claude-token-counts/
+- Simon WillisonによるClaude各モデルのトークンカウント比較ツール。新規エントリ。
+- **示唆**: Claudeのトークン効率比較ツールへの需要。Falcon Platformでのモデル選択・コスト最適化の参考に。
+
+#### LOW: Show HN: APIなしで軽量エージェント間通信 (20pts, 5comments)
+- **URL**: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/
+- API課金なしでエージェント間通信を実現する軽量手法。注目度は低いが技術的に興味深い。
+- **示唆**: Falcon AgentのA2A通信コスト削減の参考アイデア。
